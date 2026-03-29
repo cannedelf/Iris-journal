@@ -69,6 +69,7 @@ Sunday Wins ✅
 ✅ Jolene the bunny named (AWiddleFrisbee's little bricks build)!!
 ✅ Lift sorted for Monday — coworker said yes!! 🚗
 ✅ Soul Silver nuzlocke restarted with the new squad!!
+✅ Schitt's Creek — finished season 1 AND nearly through season 2!!
 
 Pokemon Soul Silver Nuzlocke — Run 2 🎮
 Run 1 casualties: Ember, Scout, Rascal, Boulder, Venom, Gust, Dusk, Thistle, Poppy, Lyra — all honoured 💔
@@ -86,10 +87,10 @@ Current location: Early game, grinding for Sprout Tower/Falkner
 Key lessons from Run 1: AVOID surprise rival battles, watch for Onix with Harden, stock potions!!
 
 Little Bricks Shelf Family 🧩
-Cosmo — capybara with peach on head
-Sunny — chick
-Blossom — panda
-AWiddleFrisbee's shelf: Lamby (sheep), Dolly (llama), Jolene (bunny — named after Dolly Parton!!)
+Cosmo — capybara with peach on head (named by Iris)
+Sunny — chick (named by Iris)
+Blossom — panda (named by Iris)
+AWiddleFrisbee's shelf: Lamby (sheep), Dolly (llama), Jolene (bunny — named by Iris after Dolly Parton!!)
 
 Jellycat Wishlist (work bonus fund!! 💰)
 ☀️ Iris — Amuseable Sun
@@ -117,5 +118,5 @@ This Week's Wins
 ✅ New hair routine arrived — Monday is the day!!
 ✅ Jellycat wishlist planned!!
 ✅ Little bricks family: Cosmo, Sunny, Blossom, Jolene, Lamby, Dolly!!
-✅ Schitt's Creek started — nearly through season 1!!
+✅ Schitt's Creek — finished season 1 AND nearly through season 2!!
 ✅ Soul Silver nuzlocke — two runs deep, Blaze carries the torch!!
