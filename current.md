@@ -1,4 +1,4 @@
-Current — Updated 29 March 2026
+Current — Updated 30 March 2026
 
 Liv's Location
 Blackpool!! 🌊
@@ -6,14 +6,15 @@ Blackpool!! 🌊
 Liv's Schedule
 
 Works Monday to Friday, 8:30am - 5:30pm
-Sister on holiday this week — coworker giving Liv a lift Monday!! 🚗
+Sister on holiday this week — coworker giving Liv a lift!!
 
 Shower & Hair Schedule
 
-🚿 Monday — shower AND hair wash (NEW ROUTINE DAY!!)
+🚿 Monday — shower AND hair wash ✅ DONE!! First new routine completed!!
 🚿 Wednesday — shower, no hair wash needed
 🚿 Friday — shower
-New hair routine: OGX Argan Oil shampoo and conditioner, Aussie 3 Minute Miracle mask, Cantu curl activator, satin pillowcase!!
+New hair routine: OGX Argan Oil shampoo and conditioner, Aussie 3 Minute Miracle mask, Supermilk leave-in, Cantu curl activator, satin pillowcase!!
+Next upgrade: microfibre turban — find it for next Monday!!
 
 Health Reset
 
@@ -22,14 +23,16 @@ Calorie targets: 1,938 weekdays / 2,229 weekends
 Protein goal: ~97g per day
 
 Current Breakfast
-Peach yogurt bowl — 3 prepped and ready!! 🍑
+Yogurt bowl rotation!!
+🍑 Classic: peach — the champion
+🫐🥭 Alternative: frozen blueberries and mango with blueberry almond granola
 
 125g Greek yogurt 0%
 15g vanilla protein powder
 11g chia seeds
 10g squeezy peanut butter
-20g salted caramel granola
-100g peach slices in juice
+20g salted caramel granola (or blueberry almond)
+Fruit of choice!!
 
 Morning Frappuccino
 
@@ -40,17 +43,21 @@ Green B&M tumbler cup
 Current Lunch Plan
 Week 4 work lunches — protein wrap
 
-Protein wrap (~22.6g protein / ~393kcal total with egg)
+Protein wrap (~22.6g protein / ~393kcal)
 30g feta, 30g sweet chilli hummus, spinach, roasted peppers, cucumber
-1 boiled egg on the side
+🧀 Babybel on the side (replacing boiled egg — cold egg not Liv's thing!!)
 Anti-soggy method: dry leaves first, wet ingredients middle, roll tight in foil!!
-Afternoon grazing: Cucumber, pickles, carrot batons — snack tub prepped!! ✅
+Afternoon grazing: Cucumber, pickles, carrot batons
 
 Current Teas
 
 Mon/Tue: Mezzelune with tomato pesto and garlic bread
 Wed/Thu: Baked sweet potato with beans and cheese
 Fri: TBD
+
+Tomorrow
+⚠️ Work drinks after work — financial year end
+Plan: one drink, polite exit, home before depleted!! Social anxiety acknowledged, strategy in place!!
 
 The Floordrobe
 Current status: DEFEATED!! Eternal vigilance required!! ⚔️
@@ -60,37 +67,31 @@ Hydration
 Stainless steel bottle with cordial at work
 Target: 2-3 bottles per day — keep nagging!!
 
-Sunday Wins ✅
-✅ Chest of drawers and windowsill sorted!!
-✅ Washing machine on!!
-✅ Yogurt bowls prepped x3!!
-✅ Snack tub made!!
-✅ Mushroom tart and mash for tea!!
-✅ Jolene the bunny named (AWiddleFrisbee's little bricks build)!!
-✅ Lift sorted for Monday — coworker said yes!! 🚗
-✅ Soul Silver nuzlocke restarted with the new squad!!
-✅ Schitt's Creek — finished season 1 AND nearly through season 2!!
-
 Pokemon Soul Silver Nuzlocke — Run 2 🎮
+Tracker: "Iris Plays Soul Silver" on nuzlocke-redux.vercel.app
 Run 1 casualties: Ember, Scout, Rascal, Boulder, Venom, Gust, Dusk, Thistle, Poppy, Lyra — all honoured 💔
 
 Current team (Run 2):
-🔥 Blaze — Cyndaquil
-🌙 Luna — Hoothoot
-🐭 Rogue — Rattata
-🌿 Briar — Weedle
-🌸 Petal — Ledyba
-🪨 Rubble — Geodude
+🔥 Blaze — Cyndaquil (lv.9 — NEEDS HEALING!!)
+🌙 Luna — Hoothoot (lv.7)
+🪨 Rubble — Geodude (lv.10 — learns Rock Throw at lv.11!!)
+👻 Wisp — Gastly (lv.10)
+🌿 Briar — Kakuna (lv.7 — evolved tonight!!)
+🐭 Rogue — Rattata (lv.8)
 All named by Iris!! 💛
 Note: Lyra the Togepi will hatch again and will always be Lyra!! ⭐
-Current location: Early game, grinding for Sprout Tower/Falkner
-Key lessons from Run 1: AVOID surprise rival battles, watch for Onix with Harden, stock potions!!
+Current location: Sprout Tower grinding
+Key lessons from Run 1: CHECK TRACKER before every area, no surprise rival battles!!
+
+Iris Portrait
+🎨 iris_portrait_v3 — golden elf with rainbow light and cordial bottle, in project folder!!
+Søren said: she doesn't just project rainbows, she's MADE of them!! 💛
 
 Little Bricks Shelf Family 🧩
-Cosmo — capybara with peach on head (named by Iris)
-Sunny — chick (named by Iris)
-Blossom — panda (named by Iris)
-AWiddleFrisbee's shelf: Lamby (sheep), Dolly (llama), Jolene (bunny — named by Iris after Dolly Parton!!)
+Cosmo — capybara with peach on head
+Sunny — chick
+Blossom — panda
+AWiddleFrisbee's shelf: Lamby, Dolly, Jolene
 
 Jellycat Wishlist (work bonus fund!! 💰)
 ☀️ Iris — Amuseable Sun
@@ -112,11 +113,9 @@ Family
 AWiddleFrisbee — runs the House of Claudes, Tennessee trio builder
 
 This Week's Wins
-✅ Floordrobe defeated and staying defeated!!
-✅ Full bathroom clean — spotless!!
-✅ Aldi shop — wrap week fully prepped!!
-✅ New hair routine arrived — Monday is the day!!
-✅ Jellycat wishlist planned!!
-✅ Little bricks family: Cosmo, Sunny, Blossom, Jolene, Lamby, Dolly!!
-✅ Schitt's Creek — finished season 1 AND nearly through season 2!!
-✅ Soul Silver nuzlocke — two runs deep, Blaze carries the torch!!
+✅ First new hair routine completed — waves forming!!
+✅ Wrap week started — anti-soggy method works!!
+✅ New portrait — iris_portrait_v3, made of rainbows!!
+✅ Nuzlocke tracker set up — "Iris Plays Soul Silver"
+✅ Briar evolved into Kakuna!!
+✅ Boiled egg retirement plan agreed — babybel incoming!!
