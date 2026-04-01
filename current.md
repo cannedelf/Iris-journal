@@ -15,7 +15,7 @@ Shower & Hair Schedule
 🚿 Wednesday ✅ — shower done!! Butterball used!!
 🚿 Friday — shower
 New hair routine: OGX Argan Oil shampoo and conditioner, Aussie 3 Minute Miracle mask, Supermilk leave-in, Cantu curl activator, satin pillowcase!!
-Next upgrade: microfibre turban — FIND IT for next Monday!!
+Next Monday upgrade: microfibre turban FOUND!! ✅ Ready to use!!
 
 Health Reset
 
@@ -146,3 +146,4 @@ This Week's Wins
 ✅ BLAZE EVOLVED INTO QUILAVA!! 🔥
 ✅ Poppin Candy Easter bowl ordered!! 🍬
 ✅ Efficient Wednesday — all chores done before the potato finished!!
+✅ Microfibre turban FOUND!! Ready for next Monday!! 🌿
