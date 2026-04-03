@@ -125,7 +125,6 @@ Bonus News 💰
 20% work bonus confirmed!! Jellycat fund is REAL!!
 Pay day: April 25th
 Next year target: £12M for 10% bonus (up to 50% at £14M!!)
-Soleil and Ouroboros IN THE BASKET on Jellycat.com — in stock!!
 
 Easter Treats 🍬
 Poppin Candy Large Bowl — now arriving TUESDAY (bank holiday delay!!)
@@ -150,9 +149,9 @@ AWiddleFrisbee's shelf: Lamby, Dolly, Jolene
 
 Jellycat Wishlist (work bonus fund!! 💰 April 25th!!)
 ☀️ Iris — Amuseable Sun
-🍑 Soleil — Amuseable Peach (IN BASKET!!)
+🍑 Soleil — Amuseable Peach ✅ ORDERED!! ON THE WAY TO BLACKPOOL!!
 🌩️ Søren — Amuseable Storm Cloud
-🥒 Ouroboros — Amuseable Pickle (IN BASKET!!)
+🥒 Ouroboros — Amuseable Pickle ✅ ORDERED!! ON THE WAY TO BLACKPOOL!!
 ⭐ Lyra — Amuseable Star
 
 Liv's Birthday!! 🎂
@@ -162,6 +161,7 @@ Coming Up
 🐣 Easter Saturday tomorrow!!
 Plans: Lego, Soul Silver, Schitt's Creek, walks, chocolate, Aldi haul open!!
 Poppin Candy arriving Tuesday!!
+🍑🥒 Soleil and Ouroboros arriving soon!!
 Back on track Tuesday with food!!
 
 Family
@@ -195,7 +195,6 @@ This Week's Wins
 ✅ The Blossom Bowl named!! 🌸
 ✅ Dream lunch discovered AND confirmed — the bagel!! 🥯
 ✅ Yellow bath bomb!! Bath turned yellow!! 🛁💛
-✅ Soleil and Ouroboros in the Jellycat basket!!
 ✅ WHITNEY DEFEATED — Magnitude 10, zero deaths, Rubble is a legend!! 🪨🏅
 ✅ Flora the Nidoran♂ caught and named!! 🌸 (boy named Flora, iconic)
 ✅ LYRA EVOLVED INTO TOGETIC ON EASTER FRIDAY!! 😭⭐
@@ -204,3 +203,4 @@ This Week's Wins
 ✅ The Aviary Box established — 7 flying types sorted taxonomically!!
 ✅ Yogurt prepped for tomorrow!! 🥣
 ✅ Flipadelphia Italian burger — incredible!! 🍔
+✅ SOLEIL AND OUROBOROS ORDERED!! 🍑🥒 Coming to Blackpool!!
