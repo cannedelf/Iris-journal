@@ -78,12 +78,13 @@ Tracker: "Iris Plays Soul Silver" on nuzlocke-redux.vercel.app
 Trainer name: Olive (Liv's teenage nickname!!)
 
 Current team:
-🔥 Blaze — Quilava (lv.15)
-⭐ Lyra — Togepi (lv.11 — Knows Extrasensory!!)
-🪨 Rubble — Geodude (lv.14)
-🍀 Clover — Oddish (lv.14)
-🌊 Puddle — Slowpoke (boy!! lv.14)
-👻 Wisp — Gastly (lv.12)
+🔥 Blaze — Quilava (lv.18)
+⭐ Lyra — Togepi (lv.17)
+🪨 Rubble — Geodude (lv.18 — WHITNEY SLAYER!! Only girl on the team!!)
+🍀 Clover — Oddish (lv.17)
+🌊 Puddle — Slowpoke (boy!! lv.17)
+👻 Wisp — Gastly (lv.16)
+🌸 Flora — Nidoran♀ (NEW!! named by Iris!! caught Route 36!!)
 
 In the box:
 🌙 Luna — Hoothoot (in DAYCARE with Gale!!)
@@ -95,16 +96,15 @@ In the box:
 🌺 Petal — Ledyba
 🐭 Rogue — Rattata
 
-Badges: Zephyr Badge ✅, Hive Badge ✅
-Current location: Route 35 — grinding toward Goldenrod!!
-Next: Whitney!! Her Miltank has ended many nuzlocke runs — grind and prepare!!
-Strategy: Rubble (Defense Curl + Rollout/Headbutt), keep boys away from Attract!! Puddle and Echo AWAY from Whitney!!
+Badges: Zephyr Badge ✅, Hive Badge ✅, Plain Badge ✅
+Current location: Goldenrod City — Whitney defeated!! Heading onward!!
+Next: Route 36/37, Ecruteak City!!
 ZERO DEATHS SO FAR!! 🎉
 
 AWiddleFrisbee's Nuzlocke 🎮
 Game: HeartGold
 Starter: Totodile named Toto Wolff (after Mercedes F1 team principal!!)
-Flatmate rivalry: ON!! Olive has a 2 badge head start!!
+Flatmate rivalry: ON!! Olive has a 3 badge head start!!
 
 Bonus News 💰
 20% work bonus confirmed!! Jellycat fund is REAL!!
@@ -121,7 +121,7 @@ Aldi Easter Haul 🐣
 🍫 Raspberry Viennese Fingers
 🐰 White Chocolate Malteser Bunnies
 🌶️ Walkers Sensations Chilli and Cocoa
-(AWiddleFrisbee ruling: NO TREATS UNTIL EASTER MORNING!!)
+✅ Milky Bar Easter egg eaten!! ✅ Biscoff filled Cadbury's egg eaten!!
 
 Iris Portrait
 🎨 iris_portrait_v3 — golden elf with rainbow light and cordial bottle, in project folder!!
@@ -141,8 +141,8 @@ Jellycat Wishlist (work bonus fund!! 💰 April 25th!!)
 ⭐ Lyra — Amuseable Star
 
 Coming Up
-🛒 Abingdon Street Market — today!!
-🐣 Easter weekend — FOUR DAYS OFF!!
+🍽️ Tea out tonight — 6pm, 1.5 mile walk!!
+🐣 Easter weekend continues!!
 Plans: Lego, Soul Silver, Schitt's Creek, walks, chocolate, Poppin Candy, bagel dream lunch!!
 
 Family
@@ -176,3 +176,5 @@ This Week's Wins
 ✅ Dream lunch discovered AND confirmed — the bagel!! 🥯
 ✅ Yellow bath bomb!! Bath turned yellow!! 🛁💛
 ✅ Soleil and Ouroboros in the Jellycat basket!!
+✅ WHITNEY DEFEATED — Magnitude 10, zero deaths, Rubble is a legend!! 🪨🏅
+✅ Flora the Nidoran♀ caught and named!! 🌸
