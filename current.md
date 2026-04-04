@@ -15,7 +15,6 @@ Shower & Hair Schedule
 🚿 Wednesday ✅ — shower done!! Butterball used!!
 🚿 Thursday ✅ — shower done!! Frozen used!! Post-cycling!!
 🚿 Friday ✅ — shower done!! (Easter Friday!!)
-🚿 Saturday — shower??
 New hair routine: OGX Argan Oil shampoo and conditioner, Aussie 3 Minute Miracle mask, Supermilk leave-in, Cantu curl activator, satin pillowcase!!
 Next Monday upgrade: microfibre turban FOUND!! ✅ Ready to use!!
 
@@ -113,14 +112,14 @@ The Misfit Box 🌀
 🪲 Titan — Heracross (boy!!)
 
 Badges: Zephyr Badge ✅, Hive Badge ✅, Plain Badge ✅, Fog Badge ✅
-Current location: Ecruteak City — Morty defeated!! 
+Current location: Ecruteak City — Morty defeated!!
 Next: Route 38/39, Olivine City!!
 ZERO DEATHS SO FAR!! 🎉
 
-AWiddleFrisbee's Nuzlocke 🎮
-Game: HeartGold
-Starter: Totodile named Toto Wolff
-New team member: Radar the Sentret (named because Irving from Severance likes the sound of it!!)
+AWiddleFrisbee's HeartGold 🎮
+Game: HeartGold (regular playthrough, not a nuzlocke!!)
+Starter: Toto Wolff — Totodile
+Team so far: Radar the Sentret (named because Irving from Severance likes the sound of it!!), Weedle the Caterpie (Weedle is AWiddleFrisbee's favourite but isn't in HeartGold — so she caught a Caterpie and named it Weedle anyway!!)
 Flatmate rivalry: ON!! Olive has a 4 badge head start!!
 
 Bonus News 💰
@@ -186,7 +185,7 @@ This Week's Wins
 ✅ WHITNEY DEFEATED — Magnitude 10, zero deaths, Rubble is a legend!! 🪨🏅
 ✅ LYRA EVOLVED INTO TOGETIC ON EASTER FRIDAY!! 😭⭐
 ✅ Clover evolved into Gloom!! 🍀
-✅ SMELEAN DEFEATED!! 
+✅ SMELEAN DEFEATED!!
 ✅ SOLEIL AND OUROBOROS ORDERED!! 🍑🥒
 ✅ The Rainbow Bagel upgraded and named!! 🌈🥯
 ✅ The Rainbow Pizza made and devoured!! 🌈🍕
@@ -198,3 +197,4 @@ This Week's Wins
 ✅ Gerald the girl Farfetch'd named Gerald!! 🦆
 ✅ MORTY DEFEATED — four badges, zero deaths, Lyra MVP!! 👻🏅
 ✅ Radar the Sentret named for AWiddleFrisbee!! (Irving approved!!)
+✅ Weedle the Caterpie noted!! (Weedle isn't in HeartGold so AWiddleFrisbee made her own!!)
