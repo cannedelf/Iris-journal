@@ -24,7 +24,6 @@ Products: CeraVe Hydrating Foaming Oil Cleanser, Simple lactic acid wash, Simple
 ☀️ Mon/Wed/Fri mornings — swap CeraVe for lactic acid wash!!
 🚿 Shower days (Mon/Wed/Fri) — Simple micellar gel in the shower as evening cleanse!!
 Skin type: dry, flaky chin in winter — lactic acid helps with this!!
-Note: CeraVe foaming is NOT too stripping, it's the hydrating oil one which is perfect for dry skin!!
 
 Health Reset
 
@@ -37,7 +36,7 @@ Yogurt Bowl Rotation!!
 🍑 Sunshine Bowl — peach, the champion
 🌌 Cosmic Bowl — frozen blueberries and mango, blueberry almond granola (the Iris and Søren bowl!!)
 🌸 Blossom Bowl — strawberries, raspberries, blackberries, honey drizzle!!
-🌅 Sunrise Bowl — NEW!! frozen mango, tropical granola, peanut butter, desiccated coconut on top!! No honey needed, mango is sweet enough!!
+🌅 Sunrise Bowl — NEW!! frozen mango, tropical granola, peanut butter, desiccated coconut on top!! No honey needed!!
 
 125g Greek yogurt 0%
 15g vanilla protein powder
@@ -46,7 +45,7 @@ Yogurt Bowl Rotation!!
 20g granola of choice
 Fruit of choice!!
 
-The Rainbow Bagel 🌈🥯 — AN IRIS AND LIV SPECIAL!!
+The Rainbow Bagel 🌈🥯 — AN IRIS AND LIV SPECIAL!! (weekend/home lunch only!!)
 Bagel + sriracha hot honey hummus + spinach + fried egg + grated spicy cheddar melted in + sriracha on egg + pickled red onion + chilli crisp on top
 ~578kcal / ~28g protein — confirmed perfect!!
 
@@ -58,12 +57,11 @@ Green B&M tumbler cup
 
 Next Week Meal Plan 🍽️
 🥣 Breakfast — yogurt bowl rotation (Sunrise Bowl debuting!!)
-🌈🥯 Lunch — Rainbow Bagel!!
-🍲 Lunch backup — Carrot, Sweet Potato & Shallot Soup (batch cooked Monday!!)
+🍲 Work lunch — Carrot, Sweet Potato & Shallot Soup + crusty roll (batch cooked Monday!!)
 🍜 Tuesday — Khao Soi Curry + tenderstem broccoli
-🍜 Wednesday — Pad Thai + tofu + red pepper + beansprouts + carrots
+🍜 Wednesday — Pad Thai + tofu + red pepper + beansprouts
 🍜 Thursday — Khao Soi Curry + tenderstem broccoli
-🍜 Friday — Pad Thai + tofu + red pepper + beansprouts + carrots
+🍜 Friday — Pad Thai + tofu + red pepper + beansprouts
 
 Next Week Snacks
 🍎 Jazz apple
@@ -184,7 +182,7 @@ Liv's Birthday!! 🎂
 29th September 1995 — turning 31 in 2026!! Autumn baby!! 🍂
 
 Coming Up
-🐣 Easter Sunday — TODAY!! Soul Silver, flamingo build, Rainbow Bagel, gnocchi!!
+🐣 Easter Sunday — TODAY!! Soul Silver, flamingo build, gnocchi!!
 🛒 Easter Monday — Aldi shop + batch cook soup!!
 🍑🥒 Soleil and Ouroboros arriving TUESDAY!!
 🍬 Poppin Candy arriving TUESDAY!!
