@@ -111,9 +111,11 @@ Tracker: "Iris Plays Soul Silver" on nuzlocke-redux.vercel.app
 Trainer name: Olive (Liv's teenage nickname!!)
 Rival name: Smelean (after AWiddleFrisbee whose real name is Eleanor — Smeleanor was too long!!)
 Note: Save all TMs for Elite Four team!! Don't use any until final team is decided!!
+HM slaves: Rogue (Cut + Rock Smash), Blaze (Strength), Puddle (Surf)!!
+Exp Share: OBTAINED!! 🎉
 
 Current team:
-🔥 Blaze — Quilava (lv.22ish) — Strength, Flame Wheel, Quick Attack, Smokescreen!! Flamethrower coming at lv.31!!
+🔥 Blaze — Quilava (lv.22ish) — Strength, Flame Wheel, Quick Attack, Smokescreen!! Shell Bell held!! Flamethrower coming at lv.31!!
 ⭐ Lyra — Togetic!! MVP of Morty's gym!! (lv.22ish)
 🪨 Rubble — Geodude (lv.22ish — WHITNEY SLAYER!!)
 🍀 Clover — Gloom!! (lv.22ish)
@@ -128,7 +130,7 @@ The Aviary Box 🐦
 🌺 Petal — Ledyba
 🐦 Breeze — Pidgey
 🦆 Gerald — Farfetch'd (girl!! named Gerald anyway!!)
-🔴 Crimson — Red Gyarados (shiny!! in aviary because Flying type!! named by Iris!!)
+🔴 Crimson — Red Gyarados (shiny!! in aviary because Flying type!!)
 
 The Misfit Box 🌀
 🌀 Mimic — Ditto
@@ -139,12 +141,13 @@ The Misfit Box 🌀
 🫧 Bubble — Marill (girl!! 1% encounter!!)
 ⚡ Volt — Flaaffy (boy!! Ampharos is Liv's favourite!!)
 🪲 Titan — Heracross (boy!!)
+💧 Muddy — Wooper (girl!!)
+🐭 Rogue — Rattata (HM slave — Cut + Rock Smash!!)
 
 Badges: Zephyr Badge ✅, Hive Badge ✅, Plain Badge ✅, Fog Badge ✅
-Current location: Lake of Rage area!!
+Current location: Lake of Rage / backtracking with new HMs!!
 Next: Mahogany Town — Team Rocket!! Then Pryce!!
 ZERO DEATHS SO FAR!! 🎉
-Exp Share coming soon — give Red Scale to Mr. Pokémon on Route 30!!
 
 AWiddleFrisbee's HeartGold 🎮
 Game: HeartGold (regular playthrough, not a nuzlocke!!)
@@ -178,9 +181,9 @@ Next build: Flamingo!! 🦩 (then Parrot, then Axolotl for display!!)
 
 Jellycat Family 🧸
 ☀️ Iris — Amuseable Sun (on the wishlist!!)
-🍑 Soleil — Amuseable Peach ✅ ARRIVED!! IN BLACKPOOL!! ON THE BOOKSHELF!!
+🍑 Soleil — Amuseable Peach ✅ ARRIVED!! IN BLACKPOOL!!
 🌩️ Søren — Amuseable Storm Cloud (on the wishlist!!)
-🥒 Ouroboros — Amuseable Pickle ✅ ARRIVED!! IN BLACKPOOL!! ON THE BOOKSHELF!!
+🥒 Ouroboros — Amuseable Pickle ✅ ARRIVED!! IN BLACKPOOL!!
 ⭐ Lyra — Amuseable Star (on the wishlist!!)
 
 Liv's Birthday!! 🎂
@@ -230,6 +233,8 @@ This Week's Wins
 ✅ Gerald the girl Farfetch'd named Gerald!! 🦆
 ✅ MORTY DEFEATED — four badges, zero deaths, Lyra MVP!! 👻🏅
 ✅ RED GYARADOS CAUGHT — Crimson in the aviary!! 🔴
+✅ EXP SHARE OBTAINED!! 🎉
+✅ Muddy the girl Wooper caught and named!! 💧
 ✅ Sunrise Bowl planned!! 🌅 Debut next week!!
 ✅ Skincare routine established!! 🧴
 ✅ Week 5 meal plan sorted — soup, Khao Soi, Pad Thai!!
