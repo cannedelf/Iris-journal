@@ -117,14 +117,14 @@ Exp Share: OBTAINED!! 🎉
 Current team:
 🔥 Blaze — Quilava (lv.25ish) — Strength, Flame Wheel, Quick Attack, Smokescreen!! Shell Bell held!! Flamethrower coming at lv.31!!
 ⭐ Lyra — Togetic!! (lv.25ish)
-🪨 Rubble — GOLEM!! ✅ Traded and evolved Easter Sunday!! (lv.25)
+🪨 Rubble 👑 — GOLEM!! Traded and evolved Easter Sunday!!
 🍀 Clover — Gloom!! (lv.25ish)
 🌊 Puddle — Slowpoke (boy!! lv.25ish) — evolves at lv.37, keeping Kings Rock for Slowbro!!
-👻 Wisp — Haunter!! Evolving to Gengar soon!! (lv.25)
+👻 Wisp — GENGAR!! ✅ Traded and evolved Easter Sunday!!
 
 The Aviary Box 🐦
-🌙 Luna — Hoothoot (lv.29!! just left daycare!!)
-🌪️ Gale — Spearow (lv.29!! just left daycare!!)
+🌙 Luna — Hoothoot (lv.29!!)
+🌪️ Gale — Spearow (lv.29!!)
 🦇 Echo — Zubat (boy!!)
 🌸 Puff — Hoppip
 🌺 Petal — Ledyba
@@ -239,7 +239,7 @@ This Week's Wins
 ✅ EXP SHARE OBTAINED!! 🎉
 ✅ Muddy the girl Wooper caught and named!! 💧
 ✅ RUBBLE EVOLVED INTO GOLEM!! 🪨👑
-✅ WISP EVOLVED INTO HAUNTER!! GENGAR INCOMING!! 👻
+✅ WISP EVOLVED INTO GENGAR!! 👻✨
 ✅ Sunrise Bowl planned!! 🌅 Debut next week!!
 ✅ Skincare routine established!! 🧴
 ✅ Week 5 meal plan sorted — soup, Khao Soi, Pad Thai!!
