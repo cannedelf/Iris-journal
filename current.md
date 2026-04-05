@@ -115,16 +115,16 @@ HM slaves: Rogue (Cut + Rock Smash), Blaze (Strength), Puddle (Surf)!!
 Exp Share: OBTAINED!! 🎉
 
 Current team:
-🔥 Blaze — Quilava (lv.22ish) — Strength, Flame Wheel, Quick Attack, Smokescreen!! Shell Bell held!! Flamethrower coming at lv.31!!
-⭐ Lyra — Togetic!! MVP of Morty's gym!! (lv.22ish)
-🪨 Rubble — Geodude (lv.22ish — WHITNEY SLAYER!!)
-🍀 Clover — Gloom!! (lv.22ish)
-🌊 Puddle — Slowpoke (boy!! lv.22ish)
-👻 Wisp — Gastly (lv.22ish)
+🔥 Blaze — Quilava (lv.25ish) — Strength, Flame Wheel, Quick Attack, Smokescreen!! Shell Bell held!! Flamethrower coming at lv.31!!
+⭐ Lyra — Togetic!! (lv.25ish)
+🪨 Rubble — GOLEM!! ✅ Traded and evolved Easter Sunday!! (lv.25)
+🍀 Clover — Gloom!! (lv.25ish)
+🌊 Puddle — Slowpoke (boy!! lv.25ish) — evolves at lv.37, keeping Kings Rock for Slowbro!!
+👻 Wisp — Haunter!! Evolving to Gengar soon!! (lv.25)
 
 The Aviary Box 🐦
-🌙 Luna — Hoothoot (in DAYCARE with Gale!!)
-🌪️ Gale — Spearow (in DAYCARE with Luna!!)
+🌙 Luna — Hoothoot (lv.29!! just left daycare!!)
+🌪️ Gale — Spearow (lv.29!! just left daycare!!)
 🦇 Echo — Zubat (boy!!)
 🌸 Puff — Hoppip
 🌺 Petal — Ledyba
@@ -134,15 +134,17 @@ The Aviary Box 🐦
 
 The Misfit Box 🌀
 🌀 Mimic — Ditto
-🌸 Flora — Nidoran♂ (boy!! named Flora anyway!!)
 🌻 Pip — Sunkern
 🪙 Coin — Meowth (boy!!)
 💨 Smog — Koffing (boy!!)
 🫧 Bubble — Marill (girl!! 1% encounter!!)
-⚡ Volt — Flaaffy (boy!! Ampharos is Liv's favourite!!)
 🪲 Titan — Heracross (boy!!)
 💧 Muddy — Wooper (girl!!)
 🐭 Rogue — Rattata (HM slave — Cut + Rock Smash!!)
+
+Daycare 🥚
+⚡ Volt — Flaaffy (in daycare!! Ampharos is Liv's favourite!!)
+🌸 Flora — Nidoran♂ (in daycare!! future Nidoking!!)
 
 Badges: Zephyr Badge ✅, Hive Badge ✅, Plain Badge ✅, Fog Badge ✅
 Current location: Lake of Rage / backtracking with new HMs!!
@@ -152,7 +154,7 @@ ZERO DEATHS SO FAR!! 🎉
 AWiddleFrisbee's HeartGold 🎮
 Game: HeartGold (regular playthrough, not a nuzlocke!!)
 Starter: Toto Wolff — Totodile
-Team so far: Radar the Sentret, Weedle the Caterpie (named Weedle because Weedle isn't in HeartGold!!), Sheldon the Turtle (built in Lego!!)
+Team so far: Radar the Sentret, Weedle the Caterpie (named Weedle because Weedle isn't in HeartGold!!)
 Flatmate rivalry: ON!! Olive has a 4 badge head start!!
 
 Bonus News 💰
@@ -228,13 +230,16 @@ This Week's Wins
 ✅ Ember the dinosaur named!! 🦕🔥
 ✅ Sheldon the turtle named!! 🐢
 ✅ Bubble the 1% Marill caught!! 🫧
-✅ Volt the Flaaffy joined the bench!! ⚡
+✅ Volt and Flora in the daycare!! ⚡🌸
+✅ Luna and Gale hit lv.29 in daycare!!
 ✅ Titan the Heracross joined the bench!! 🪲
 ✅ Gerald the girl Farfetch'd named Gerald!! 🦆
 ✅ MORTY DEFEATED — four badges, zero deaths, Lyra MVP!! 👻🏅
 ✅ RED GYARADOS CAUGHT — Crimson in the aviary!! 🔴
 ✅ EXP SHARE OBTAINED!! 🎉
 ✅ Muddy the girl Wooper caught and named!! 💧
+✅ RUBBLE EVOLVED INTO GOLEM!! 🪨👑
+✅ WISP EVOLVED INTO HAUNTER!! GENGAR INCOMING!! 👻
 ✅ Sunrise Bowl planned!! 🌅 Debut next week!!
 ✅ Skincare routine established!! 🧴
 ✅ Week 5 meal plan sorted — soup, Khao Soi, Pad Thai!!
