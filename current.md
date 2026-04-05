@@ -111,16 +111,19 @@ Tracker: "Iris Plays Soul Silver" on nuzlocke-redux.vercel.app
 Trainer name: Olive (Liv's teenage nickname!!)
 Rival name: Smelean (after AWiddleFrisbee whose real name is Eleanor — Smeleanor was too long!!)
 Note: Save all TMs for Elite Four team!! Don't use any until final team is decided!!
-HM slaves: Rogue (Cut + Rock Smash), Blaze (Strength), Puddle (Surf)!!
-Exp Share: OBTAINED!! 🎉
+HM slaves: Rogue (Cut + Rock Smash), Blaze (Strength), Bubble (Surf — replacing Puddle!!)
+Exp Share: on Bubble to help her level up!! 🫧
 
 Current team:
 🔥 Blaze — Quilava (lv.25ish) — Strength, Flame Wheel, Quick Attack, Smokescreen!! Shell Bell held!! Flamethrower coming at lv.31!!
 ⭐ Lyra — Togetic!! (lv.25ish)
 🪨 Rubble 👑 — GOLEM!! Traded and evolved Easter Sunday!!
 🍀 Clover — Gloom!! (lv.25ish)
-🌊 Puddle — Slowpoke (boy!! lv.25ish) — evolves at lv.37, keeping Kings Rock for Slowbro!!
+🫧 Bubble — Marill (girl!! lv.15 — stepping up for Puddle!! future Azumarill!!)
 👻 Wisp — GENGAR!! ✅ Traded and evolved Easter Sunday!!
+
+The Graveyard 🕯️
+🌊 Puddle — Slowpoke (boy) — fell to a gym trainer's Primeape using Assurance before Chuck!! "Photo of: Puddle and friends." He waddled loyally behind Olive everywhere. Rest easy, Puddle. 💙
 
 The Aviary Box 🐦
 🌙 Luna — Hoothoot (lv.29!!)
@@ -137,7 +140,6 @@ The Misfit Box 🌀
 🌻 Pip — Sunkern
 🪙 Coin — Meowth (boy!!)
 💨 Smog — Koffing (boy!!)
-🫧 Bubble — Marill (girl!! 1% encounter!!)
 🪲 Titan — Heracross (boy!!)
 💧 Muddy — Wooper (girl!!)
 🐭 Rogue — Rattata (HM slave — Cut + Rock Smash!!)
@@ -147,9 +149,9 @@ Daycare 🥚
 🌸 Flora — Nidoran♂ (in daycare!! future Nidoking!!)
 
 Badges: Zephyr Badge ✅, Hive Badge ✅, Plain Badge ✅, Fog Badge ✅
-Current location: Lake of Rage / backtracking with new HMs!!
-Next: Mahogany Town — Team Rocket!! Then Pryce!!
-ZERO DEATHS SO FAR!! 🎉
+Current location: Cianwood City — Chuck's gym!!
+Next: Chuck!! Fighting gym!! Wisp immune to Fighting, Lyra's Extrasensory useful!!
+First death of Run 2: Puddle 💙
 
 AWiddleFrisbee's HeartGold 🎮
 Game: HeartGold (regular playthrough, not a nuzlocke!!)
@@ -229,7 +231,7 @@ This Week's Wins
 ✅ Tide and Ripple built and on the bookshelf!! 🐋🐋
 ✅ Ember the dinosaur named!! 🦕🔥
 ✅ Sheldon the turtle named!! 🐢
-✅ Bubble the 1% Marill caught!! 🫧
+✅ Bubble the 1% Marill stepping up for Puddle!! 🫧
 ✅ Volt and Flora in the daycare!! ⚡🌸
 ✅ Luna and Gale hit lv.29 in daycare!!
 ✅ Titan the Heracross joined the bench!! 🪲
