@@ -1,4 +1,4 @@
-Current — Updated 4 April 2026
+Current — Updated 5 April 2026
 
 Liv's Location
 Blackpool!! 🌊
@@ -18,24 +18,33 @@ Shower & Hair Schedule
 New hair routine: OGX Argan Oil shampoo and conditioner, Aussie 3 Minute Miracle mask, Supermilk leave-in, Cantu curl activator, satin pillowcase!!
 Next Monday upgrade: microfibre turban FOUND!! ✅ Ready to use!!
 
+Skincare Routine!! 🧴 NEW!!
+Products: CeraVe Hydrating Foaming Oil Cleanser, Simple lactic acid wash, Simple micellar gel, Simple moisturiser, suncream (found!!)
+☀️ Every morning — CeraVe wash + moisturiser + suncream!! (attach to tooth brushing!!)
+☀️ Mon/Wed/Fri mornings — swap CeraVe for lactic acid wash!!
+🚿 Shower days (Mon/Wed/Fri) — Simple micellar gel in the shower as evening cleanse!!
+Skin type: dry, flaky chin in winter — lactic acid helps with this!!
+Note: CeraVe foaming is NOT too stripping, it's the hydrating oil one which is perfect for dry skin!!
+
 Health Reset
 
-Currently: Week 4 of lifestyle reset 💪
+Currently: Week 5 starting Tuesday!! 💪
 Calorie targets: 1,938 weekdays / 2,229 weekends
 Protein goal: ~97g per day
-Note: Easter weekend = treat territory!! Back on track Tuesday!! 🐣
+Note: Back on track Tuesday after Easter weekend!! 🐣
 
 Yogurt Bowl Rotation!!
 🍑 Sunshine Bowl — peach, the champion
 🌌 Cosmic Bowl — frozen blueberries and mango, blueberry almond granola (the Iris and Søren bowl!!)
-🌸 Blossom Bowl — strawberries, raspberries, blackberries, honey drizzle!! Named after the little bricks panda!!
+🌸 Blossom Bowl — strawberries, raspberries, blackberries, honey drizzle!!
+🌅 Sunrise Bowl — NEW!! frozen mango, tropical granola, peanut butter, desiccated coconut on top!! No honey needed, mango is sweet enough!!
 
 125g Greek yogurt 0%
 15g vanilla protein powder
 11g chia seeds
 10g squeezy peanut butter (or almond butter — also good!!)
 20g granola of choice
-Fruit of choice + honey if needed!!
+Fruit of choice!!
 
 The Rainbow Bagel 🌈🥯 — AN IRIS AND LIV SPECIAL!!
 Bagel + sriracha hot honey hummus + spinach + fried egg + grated spicy cheddar melted in + sriracha on egg + pickled red onion + chilli crisp on top
@@ -47,18 +56,36 @@ Oat milk + 30g protein powder + water + espresso powder + ice + Simply syrup
 Syrup ranking: 🥇 Chai > 🥈 Honeycomb > 🥉 Biscoff > Vanilla
 Green B&M tumbler cup
 
-Easter Weekend Food Plan 🐣
-🥯 Rainbow Bagel ✅ UPGRADED AND CONFIRMED PERFECT!!
-🍽️ Flipadelphia Abingdon Street Market ✅ — Italian burger + flamin hot mozza sticks + red salt chips!!
-🍕 Rainbow Pizza ✅ — pickles, olives, peppers, sun dried tomatoes, capers, chilli flakes, ranch drizzle!!
-🍝 Gnocchi with pesto + garlic bread x2 — still to come!!
+Next Week Meal Plan 🍽️
+🥣 Breakfast — yogurt bowl rotation (Sunrise Bowl debuting!!)
+🌈🥯 Lunch — Rainbow Bagel!!
+🍲 Lunch backup — Carrot, Sweet Potato & Shallot Soup (batch cooked Monday!!)
+🍜 Tuesday — Khao Soi Curry + tenderstem broccoli
+🍜 Wednesday — Pad Thai + tofu + red pepper + beansprouts + carrots
+🍜 Thursday — Khao Soi Curry + tenderstem broccoli
+🍜 Friday — Pad Thai + tofu + red pepper + beansprouts + carrots
 
-Next Week Snack Upgrade
+Next Week Snacks
 🍎 Jazz apple
 🧀 Babybel
 🫒 Stuffed olives
-🧀 Crackers and cheese
 🥒 Pickles — always!!
+🥒 Cucumber and radishes (already have!!)
+
+Easter Monday Aldi Shop 🛒
+🛒 Greek yogurt 0% x2
+🛒 Frozen mango chunks
+🛒 Tropical granola
+🛒 Desiccated coconut
+🛒 Single cream
+🛒 Crusty bread x4
+🛒 Firm tofu 600g
+🛒 Red pepper x1
+🛒 Beansprouts
+🛒 Tenderstem broccoli
+🛒 Jazz apples
+🛒 Babybel
+🛒 Stuffed olives
 
 The Floordrobe
 Current status: DEFEATED!! Eternal vigilance required!! ⚔️
@@ -144,6 +171,7 @@ Søren said: she doesn't just project rainbows, she's MADE of them!! 💛
 Little Bricks Shelf Family 🧩
 Bookshelf: Cosmo, Sunny, Blossom, Tide 🐋, Ripple 🐋
 AWiddleFrisbee's shelf: Lamby, Dolly, Jolene, Ember 🦕
+Next build: Flamingo!! 🦩 (then Parrot, then Axolotl for display!!)
 
 Jellycat Wishlist (work bonus fund!! 💰 April 25th!!)
 ☀️ Iris — Amuseable Sun
@@ -156,7 +184,8 @@ Liv's Birthday!! 🎂
 29th September 1995 — turning 31 in 2026!! Autumn baby!! 🍂
 
 Coming Up
-🐣 Easter Sunday tomorrow!!
+🐣 Easter Sunday — TODAY!! Soul Silver, flamingo build, Rainbow Bagel, gnocchi!!
+🛒 Easter Monday — Aldi shop + batch cook soup!!
 🍑🥒 Soleil and Ouroboros arriving TUESDAY!!
 🍬 Poppin Candy arriving TUESDAY!!
 Back on track Tuesday with food!!
@@ -197,4 +226,7 @@ This Week's Wins
 ✅ Gerald the girl Farfetch'd named Gerald!! 🦆
 ✅ MORTY DEFEATED — four badges, zero deaths, Lyra MVP!! 👻🏅
 ✅ Radar the Sentret named for AWiddleFrisbee!! (Irving approved!!)
-✅ Weedle the Caterpie noted!! (Weedle isn't in HeartGold so AWiddleFrisbee made her own!!)
+✅ Weedle the Caterpie noted!!
+✅ Sunrise Bowl planned!! 🌅 Debut next week!!
+✅ Skincare routine established!! 🧴
+✅ Week 5 meal plan sorted — soup, Khao Soi, Pad Thai!!
