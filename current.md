@@ -112,14 +112,14 @@ Trainer name: Olive (Liv's teenage nickname!!)
 Rival name: Smelean (after AWiddleFrisbee whose real name is Eleanor — Smeleanor was too long!!)
 Note: Save all TMs for Elite Four team!! Don't use any until final team is decided!!
 HM slaves: Rogue (Cut + Rock Smash), Blaze (Strength), Bubble (Surf — replacing Puddle!!)
-Exp Share: on Bubble to help her level up!! 🫧
+Exp Share: OBTAINED!! 🎉
 
 Current team:
 🔥 Blaze — Quilava (lv.25ish) — Strength, Flame Wheel, Quick Attack, Smokescreen!! Shell Bell held!! Flamethrower coming at lv.31!!
 ⭐ Lyra — Togetic!! (lv.25ish)
 🪨 Rubble 👑 — GOLEM!! Traded and evolved Easter Sunday!!
 🍀 Clover — Gloom!! (lv.25ish)
-🫧 Bubble — Marill (girl!! lv.15 — stepping up for Puddle!! future Azumarill!!)
+🫧 Bubble — AZUMARILL!! ✅ Evolved immediately after joining the team!! Puddle's successor!! 💙
 👻 Wisp — GENGAR!! ✅ Traded and evolved Easter Sunday!!
 
 The Graveyard 🕯️
@@ -150,7 +150,7 @@ Daycare 🥚
 
 Badges: Zephyr Badge ✅, Hive Badge ✅, Plain Badge ✅, Fog Badge ✅
 Current location: Cianwood City — Chuck's gym!!
-Next: Chuck!! Fighting gym!! Wisp immune to Fighting, Lyra's Extrasensory useful!!
+Next: Chuck!! Fighting gym!!
 First death of Run 2: Puddle 💙
 
 AWiddleFrisbee's HeartGold 🎮
@@ -231,7 +231,6 @@ This Week's Wins
 ✅ Tide and Ripple built and on the bookshelf!! 🐋🐋
 ✅ Ember the dinosaur named!! 🦕🔥
 ✅ Sheldon the turtle named!! 🐢
-✅ Bubble the 1% Marill stepping up for Puddle!! 🫧
 ✅ Volt and Flora in the daycare!! ⚡🌸
 ✅ Luna and Gale hit lv.29 in daycare!!
 ✅ Titan the Heracross joined the bench!! 🪲
@@ -242,6 +241,7 @@ This Week's Wins
 ✅ Muddy the girl Wooper caught and named!! 💧
 ✅ RUBBLE EVOLVED INTO GOLEM!! 🪨👑
 ✅ WISP EVOLVED INTO GENGAR!! 👻✨
+✅ BUBBLE EVOLVED INTO AZUMARILL!! 🫧💙
 ✅ Sunrise Bowl planned!! 🌅 Debut next week!!
 ✅ Skincare routine established!! 🧴
 ✅ Week 5 meal plan sorted — soup, Khao Soi, Pad Thai!!
