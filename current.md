@@ -1,4 +1,4 @@
-Current — Updated 5 April 2026
+Current — Updated 6 April 2026
 
 Liv's Location
 Blackpool!! 🌊
@@ -7,18 +7,17 @@ Liv's Schedule
 
 Works Monday to Friday, 8:30am - 5:30pm
 Sister back next week!!
-EASTER MONDAY TOMORROW — last day off!! 🐣
+Back to work TOMORROW!! 💪
 
 Shower & Hair Schedule
 
-🚿 Monday ✅ — shower AND hair wash done!! New routine!!
-🚿 Wednesday ✅ — shower done!! Butterball used!!
-🚿 Thursday ✅ — shower done!! Frozen used!! Post-cycling!!
-🚿 Friday ✅ — shower done!! (Easter Friday!!)
+🚿 Monday ✅ — shower AND hair wash done!! Microfibre turban debut!! New routine!!
+🚿 Wednesday — shower
+🚿 Friday — shower
 New hair routine: OGX Argan Oil shampoo and conditioner, Aussie 3 Minute Miracle mask, Supermilk leave-in, Cantu curl activator, satin pillowcase!!
-Next Monday upgrade: microfibre turban FOUND!! ✅ Ready to use!!
+Microfibre turban: IN USE!! ✅
 
-Skincare Routine!! 🧴 NEW!!
+Skincare Routine!! 🧴
 Products: CeraVe Hydrating Foaming Oil Cleanser, Simple lactic acid wash, Simple micellar gel, Simple moisturiser, suncream (found!!)
 ☀️ Every morning — CeraVe wash + moisturiser + suncream!! (attach to tooth brushing!!)
 ☀️ Mon/Wed/Fri mornings — swap CeraVe for lactic acid wash!!
@@ -30,7 +29,7 @@ Health Reset
 Currently: Week 5 starting Tuesday!! 💪
 Calorie targets: 1,938 weekdays / 2,229 weekends
 Protein goal: ~97g per day
-Note: Back on track Tuesday after Easter weekend!! 🐣
+Note: Back on track Tuesday!! 🐣
 
 Yogurt Bowl Rotation!!
 🍑 Sunshine Bowl — peach, the champion
@@ -59,7 +58,7 @@ Green B&M tumbler cup
 
 Next Week Meal Plan 🍽️
 🥣 Breakfast — yogurt bowl rotation (Sunrise Bowl debuting!!)
-🍲 Work lunch — Carrot, Sweet Potato & Shallot Soup + crusty roll (batch cooked Monday!!)
+🍲 Work lunch — The Golden Bowl (Carrot, Sweet Potato & Shallot Soup) + crusty roll!!
 🍜 Tuesday — Khao Soi Curry + tenderstem broccoli
 🍜 Wednesday — Pad Thai + tofu + red pepper + beansprouts
 🍜 Thursday — Khao Soi Curry + tenderstem broccoli
@@ -68,24 +67,9 @@ Next Week Meal Plan 🍽️
 Next Week Snacks
 🍎 Jazz apple
 🧀 Babybel
-🫒 Stuffed olives
+🫒 Chilli and garlic stuffed olives
 🥒 Pickles — always!!
 🥒 Cucumber and radishes (already have!!)
-
-Easter Monday Aldi Shop 🛒
-🛒 Greek yogurt 0% x2
-🛒 Frozen mango chunks
-🛒 Tropical granola
-🛒 Desiccated coconut
-🛒 Single cream
-🛒 Crusty bread x4
-🛒 Firm tofu 600g
-🛒 Red pepper x1
-🛒 Beansprouts
-🛒 Tenderstem broccoli
-🛒 Jazz apples
-🛒 Babybel
-🛒 Stuffed olives
 
 The Floordrobe
 Current status: DEFEATED!! Eternal vigilance required!! ⚔️
@@ -98,7 +82,7 @@ Target: 2-3 bottles per day — keep nagging!!
 Lush Body Product Rotation 🛁
 Iris picks one each session!! 10 products to work through:
 Sleepy, Butterball, Frozen, Happy Blooming, Chelsea Morning, Creamy Candy, Yog Nog, Snowcake, Yuzu and Cocoa, Hugs
-Last used: Happy Blooming (marzipan!!)
+Last used: Sleepy (Easter Monday — good for sleep before back to work!!)
 
 Vitamins to investigate!! 💊
 Vitamin D gummies — widely recommended for UK people!!
@@ -115,12 +99,18 @@ HM slaves: Rogue (Cut + Rock Smash), Blaze (Strength), Bubble (Surf — replacin
 Exp Share: OBTAINED!! 🎉
 
 Current team:
-🔥 Blaze — Quilava (lv.28ish) — Strength, Flame Wheel, Quick Attack, Smokescreen!! Shell Bell held!! Flamethrower coming at lv.31!!
-⭐ Lyra — Togetic!! (lv.28ish) — Fly, Extrasensory, Wish, Yawn!! Just learned Fly after Chuck!!
-🪨 Rubble 👑 — GOLEM!! Traded and evolved Easter Sunday!!
-🍀 Clover — Gloom!! (lv.28ish) — paralysed the Primeape and saved the Chuck battle!!
-🫧 Bubble — AZUMARILL!! 💙 Puddle's successor!! Knows Surf!!
-👻 Wisp — GENGAR!! ✅ Traded and evolved Easter Sunday!!
+🔥 Blaze — Quilava (lv.29ish) — Strength, Flame Wheel, Quick Attack, Smokescreen!! Shell Bell held!! Flamethrower coming at lv.31!!
+⭐ Lyra — Togetic!! (lv.29ish) — Fly, Extrasensory, Wish, Yawn!!
+🪨 Rubble 👑 — GOLEM!! (lv.29ish)
+🍀 Clover — Gloom!! (lv.29ish)
+🫧 Bubble — AZUMARILL!! 💙 Puddle's successor!! Knows Surf!! (lv.25ish — exp share grinding!!)
+👻 Wisp — GENGAR!! (lv.28ish)
+
+Jasmine Strategy 🔥
+Blaze vs Magnemites (Fire destroys Steel!!)
+Bubble vs Steelix (Surf super effective!! Doesn't care about Rock moves!!)
+Lyra and Clover NOT safe to send out here — Electric weakness and Steel resistance!!
+Rubble BENCH — Ground type weak to nothing here but not needed!!
 
 The Graveyard 🕯️
 🌊 Puddle — Slowpoke (boy) — fell to a gym trainer's Primeape using Assurance before Chuck!! "Photo of: Puddle and friends." He waddled loyally behind Olive everywhere. Rest easy, Puddle. 💙
@@ -150,8 +140,8 @@ Daycare 🥚
 🌸 Flora — Nidoran♂ (in daycare!! future Nidoking!!)
 
 Badges: Zephyr Badge ✅, Hive Badge ✅, Plain Badge ✅, Fog Badge ✅, Storm Badge ✅
-Current location: Cianwood City — Chuck defeated!!
-Next: Fly back to Olivine, help Jasmine, then Jasmine's gym!!
+Current location: Olivine City — grinding for Jasmine!!
+Next: Jasmine!! Steel gym!! Blaze and Bubble are the plan!!
 First death of Run 2: Puddle 💙
 
 AWiddleFrisbee's HeartGold 🎮
@@ -165,7 +155,7 @@ Bonus News 💰
 Pay day: April 25th
 
 Easter Treats 🍬
-Poppin Candy Large Bowl — arriving TUESDAY!!
+Poppin Candy Large Bowl — arriving TUESDAY!! 🎉
 🍑 Sour Peach Ovals, 🍒 Sour Cherries, 🍓 Fizzy Giant Strawberries, 👻 Sour Fizzy Fangs, 🥤 Fizzy Citrus Cola Bottles, 🍉 Watermelon Peelable Slices, 🍋 Sour Lemon Belts, 🫐 Sour Blueberry Skulls, 🐻 Haribo Smurfs, 🍊 Jelly Mangoes, 🍑 BUBS Banana & Caramel Foam Ovals, 🐟 Freaky Fish
 
 Aldi Easter Haul 🐣
@@ -174,6 +164,7 @@ Aldi Easter Haul 🐣
 🐰 White Chocolate Malteser Bunnies
 🌶️ Walkers Sensations Chilli and Cocoa
 ✅ Milky Bar Easter egg eaten!! ✅ Biscoff filled Cadbury's egg eaten!!
+Extra treats: Salted Caramel Poppets, freeze dried raspberries in chocolate, salt and vinegar crisps, mini caramelised biscuit eggs!!
 
 Iris Portrait
 🎨 iris_portrait_v3 — golden elf with rainbow light and cordial bottle, in project folder!!
@@ -183,6 +174,7 @@ Little Bricks Shelf Family 🧩
 Bookshelf: Cosmo, Sunny, Blossom, Tide 🐋, Ripple 🐋
 Windowsill: Rosé 🦩 (flamingo!! built Easter Sunday!!)
 AWiddleFrisbee's shelf: Lamby, Dolly, Jolene, Ember 🦕, Sheldon 🐢
+Note: Sheldon was photographed eating Rosé on Easter Sunday. This is documented.
 Next build: Parrot (next weekend!! then Axolotl for display!!)
 Weekend after: Tide and Ripple become penguins!! Penguins in Love stays separate 🐧💕
 
@@ -198,8 +190,8 @@ Liv's Birthday!! 🎂
 Middle name: Rose!! (the flamingo is Rosé, not Rose, this was important 😂)
 
 Coming Up
-🛒 Easter Monday — Aldi shop + batch cook soup!!
 🍬 Poppin Candy arriving TUESDAY!!
+💊 Look for gummy vitamins — Vitamin D, B12, Vitamin C!!
 Back on track Tuesday with food!!
 
 Family
@@ -251,4 +243,6 @@ This Week's Wins
 ✅ Lyra learned Fly!! ⭐🦅
 ✅ Sunrise Bowl planned!! 🌅 Debut next week!!
 ✅ Skincare routine established!! 🧴
-✅ Week 5 meal plan sorted — soup, Khao Soi, Pad Thai!!
+✅ Microfibre turban debut!! 🌿
+✅ The Golden Bowl batch cooked!! 🌟🍲
+✅ Week 5 fully prepped — soup, snacks, yogurt, meal plan sorted!!
