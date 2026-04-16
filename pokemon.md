@@ -10,9 +10,9 @@
 |---|---|---|---|---|---|---|---|---|---|
 | 🪨 Rubble 👑 | Golem | Rock/Ground | 42 | Earthquake | Rock Throw | Strength | Headbutt | Sturdy | Queen!! Tanky, Ground immune to Electric!! |
 | 🌺 Clover | Bellossom | Grass | 45 | Magical Leaf | Sludge Bomb | Sleep Powder | Stun Spore | Chlorophyll | Boy!! Magical Leaf never misses!! Sleep Powder carry!! |
-| 🫧 Bubble | Azumarill | Water | 40 | Surf | Blizzard | Aqua Ring | Strength | Huge Power | QUEEN!! HM slave + Lance counter!! Blizzard destroys Dragons!! |
+| 🫧 Bubble | Azumarill | Water | 40 | Surf | Blizzard | Waterfall | Strength | Huge Power | QUEEN!! HM slave + Lance counter!! Blizzard destroys Dragons!! |
 | 👻 Wisp | Gengar | Ghost/Poison | 45 | Shadow Ball | Hypnosis | Dream Eater | Confuse Ray | Levitate | Elite Four sweeper!! Watch for Destiny Bond on Karen's Gengar!! |
-| 🌈 Prism | Espeon | Psychic | 45 | Psychic | Shadow Ball | Swift | Return | Synchronize | Evolved for Lyra 💙 Sweeping Will/Koga/Bruno!! |
+| 🌈 Prism | Espeon | Psychic | 45 | Pysbeam | Shadow Ball | Swift | Return | Synchronize | Evolved for Lyra 💙 Sweeping Will/Koga/Bruno!! |
 | 🌸 Flora 👑 | Nidoking | Poison/Ground | 38 | Earthquake | Dragon Pulse | Shadow Claw | Surf | Poison Point | Boy named Flora!! Electric immune!! Lance Dragonite counter!! Moon Stone used!! |
 
 ---
