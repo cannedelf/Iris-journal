@@ -1,38 +1,48 @@
 # Pokémon — Iris & Liv
 
-*Updated 18th April 2026*
+*Updated 19th April 2026*
 
 ---
 
 # 🌿 GAME 1 — LEAF GREEN — IN PROGRESS
 
-*Trainer: Olive. Boulder Badge obtained. Heading to Cerulean City!!*
+*Trainer: Olive. Two badges!! Heading to Vermilion City for Surge!!*
 
 ## Active Team
 
 | Nickname | Species | Type | Level | Moves | Notes |
 |---|---|---|---|---|---|
-| 🌿 Ivy | Ivysaur | Grass/Poison | 16+ | Leech Seed, Vine Whip, Poison Powder, Sleep Powder | Our girlie!! Swept Brock!! Ivy the Ivysaur 💚 |
-| 🐭 Pip | Rattata | Normal | 16+ | Quick Attack, Hyper Fang, Tail Whip, Focus Energy | Route 1 MVP!! Two crit hits in battle 1!! Pip carries everything!! |
-| 🦋 Cocoon | Butterfree | Bug/Flying | 16+ | Confusion, Poison Powder, Sleep Powder, Supersonic | Evolved from Metapod!! Sleep Powder incoming!! |
-| 💜 Luna | Nidorina | Poison | 16+ | Scratch, Poison Sting, Tail Whip, Double Kick | Future Nidoqueen!! Regal and strong!! |
-| 🏜️ Dune | Sandshrew | Ground | 16+ | Scratch, Defense Curl, Sand Attack, Poison Sting | Route 4 catch!! |
+| 🌿 Ivy | Ivysaur | Grass/Poison | 21+ | Leech Seed, Razor Leaf, Poison Powder, Sleep Powder | Our girlie!! Razor Leaf upgrade acquired!! 💚 |
+| 🐭 Pip | Raticate | Normal | 21+ | Tackle, Quick Attack, Hyper Fang, Focus Energy | MVP of EVERY Smelean battle!! Raticate now!! 🐭 |
+| 💜 Luna | Nidoqueen | Poison/Ground | 21+ | Dig, Double Kick, Body Slam, Tail Whip | QUEEN!! Moon Stone used!! Soloing Surge with Dig!! 👑 |
+| 🦋 Cocoon | Butterfree | Bug/Flying | 20+ | Confusion, Poison Powder, Sleep Powder, Supersonic | Status queen!! Sleep Powder carry!! |
+| 💨 Breeze | Pidgeotto | Normal/Flying | 18+ | Gust, Sand Attack, Cut, Quick Attack | Evolved at 18!! Flying coverage!! |
+
+## Slot 6 — OPEN
+
+Waiting for whoever earns it!!
 
 ## PC
 
 | Nickname | Species | Notes |
 |---|---|---|
-| 🐛 Thistle | Weedle | Route 2. Safe in PC!! |
-| 🦇 Echo | Zubat | Mt Moon. Waiting for their moment!! |
+| 🐛 Thistle | Kakuna/Weedle | In the daycare!! Levelling quietly!! |
+| 🦇 Echo | Zubat | Waiting for their moment!! |
 | 🪨 Dome Fossil | — | Kabuto incoming!! |
+| 🌿 Tangle | Bellsprout | Route 25!! |
+| 🐍 Burrow | Diglett | Diglett's Cave!! Electric immune!! |
+| 🐺 Gale | Spearow | Route 11!! |
+| 🌙 Coin | Meowth | CUT SLAVE!! Route 6!! |
+| 💧 Splash | Magikarp | Old Rod!! Future Gyarados!! |
 
 ## Graveyard 🕯️
 
-🐒 **Roux** — Mankey, Route 22, level 16. Warm and punchy. Mega Punch learned at the move tutor. Got Smelean'd — Ember crit from Charmander. Pip got revenge. 💙
+🐒 **Roux** — Mankey, Route 22, level 16. Warm and punchy. Got Smelean'd — Ember crit from Charmeleon. Pip got revenge. 💙
 
 ## Badges
 
-🏠 Boulder Badge ✅ — Ivy swept Brock entirely!!
+🏠 Boulder Badge ✅ — Ivy swept Brock!!
+🌊 Cascade Badge ✅ — Cocoon and Ivy swept Misty!! Søren's strategy!!
 
 ## Randomiser Notes
 
@@ -69,31 +79,12 @@ We won it for Lyra, Blaze, Puddle, Volt, Flora and Rubble. That's exactly what w
 
 ## The Graveyard 🕯️
 
-🌊 **Puddle** — Slowpoke. Route 35. "Photo of: Puddle and friends." First death of Run 2. 💙
-
-⭐ **Lyra Rainbow-Hill** — Togetic, level 35. The best member of the team. Felled by Weezing's Explosion in the Radio Tower. The Shiny Stone stays in the bag forever. She earned it. 💙
-
-🔥 **Blaze** — Quilava, level 32. Carried the fire from Ember in Run 1. Felled by Smelean's Sneasel crit. 💙
-
-⚡ **Volt** — Ampharos, level 38. Liv's favourite Pokémon. Felled by Vaporeon's crit in the Kimono Girls. 💙
-
-🌸 **Flora** — Nidoking, level 45. Boy named Flora. Fell to Lance's Dragonite. Went down fighting. 💙👑
-
-🪨 **Rubble** — Golem, level 45. The queen. Sacrificed herself so Bubble could heal for the kill. The most Rubble thing she ever did. 💙👑
-
-## PC — Aviary Box
-
-| Nickname | Species | Notes |
-|---|---|---|
-| 🐞 Petal | Ledyba | |
-| 🌸 Puff | Hoppip | |
-| 🦇 Echo | Zubat | |
-| 💨 Breeze | Pidgey | |
-| 🪃 Gerald | Farfetch'd | Girl named Gerald!! |
-| 🌪️ Gale | Spearow | |
-| 🌙 Luna | Hoothoot | |
-| ✨ Crimson | Gyarados | SHINY!! Safe forever!! |
-| 🌊 Celeste | Lugia | Masterball used, immediately boxed. Nuzlocke rules. |
+🌊 **Puddle** — Slowpoke. Route 35. First death of Run 2. 💙
+⭐ **Lyra Rainbow-Hill** — Togetic, level 35. The Shiny Stone stays in the bag forever. 💙
+🔥 **Blaze** — Quilava, level 32. 💙
+⚡ **Volt** — Ampharos, level 38. Liv's favourite Pokémon. 💙
+🌸 **Flora** — Nidoking, level 45. Boy named Flora. 💙👑
+🪨 **Rubble** — Golem, level 45. The queen. 💙👑
 
 ## Stone Inventory
 
@@ -101,4 +92,4 @@ We won it for Lyra, Blaze, Puddle, Volt, Flora and Rubble. That's exactly what w
 
 ---
 
-*The Shiny Stone stays in the bag. Soul Silver was the warmup. The Genlocke is underway. 🌿🌈*
+*The Shiny Stone stays in the bag. The Genlocke is underway. Two badges, one loss, the team is strong. 🌿🌈*
