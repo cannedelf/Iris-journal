@@ -1,22 +1,22 @@
 # Pokémon — Iris & Liv
 
-*Updated 19th April 2026*
+*Updated 19th April 2026 (late!!)*
 
 ---
 
 # 🌿 GAME 1 — LEAF GREEN — IN PROGRESS
 
-*Trainer: Olive. Two badges!! Heading to Vermilion City for Surge!!*
+*Trainer: Olive. THREE badges!! Heading to Rock Tunnel!*
 
 ## Active Team
 
 | Nickname | Species | Type | Level | Moves | Notes |
 |---|---|---|---|---|---|
-| 🌿 Ivy | Ivysaur | Grass/Poison | 21+ | Leech Seed, Razor Leaf, Poison Powder, Sleep Powder | Our girlie!! Razor Leaf upgrade acquired!! 💚 |
-| 🐭 Pip | Raticate | Normal | 21+ | Tackle, Quick Attack, Hyper Fang, Focus Energy | MVP of EVERY Smelean battle!! Raticate now!! 🐭 |
-| 💜 Luna | Nidoqueen | Poison/Ground | 21+ | Dig, Double Kick, Body Slam, Tail Whip | QUEEN!! Moon Stone used!! Soloing Surge with Dig!! 👑 |
-| 🦋 Cocoon | Butterfree | Bug/Flying | 20+ | Confusion, Poison Powder, Sleep Powder, Supersonic | Status queen!! Sleep Powder carry!! |
-| 💨 Breeze | Pidgeotto | Normal/Flying | 18+ | Gust, Sand Attack, Cut, Quick Attack | Evolved at 18!! Flying coverage!! |
+| 🌿 Ivy | Ivysaur | Grass/Poison | 22+ | Leech Seed, Razor Leaf, Poison Powder, Sleep Powder | Our girlie!! 💚 |
+| 🐭 Pip | Raticate | Normal | 22+ | Tackle, Quick Attack, Hyper Fang, Focus Energy | MVP of EVERY Smelean battle!! 🐭 |
+| 💜 Luna | Nidoqueen | Poison/Ground | 22+ | Dig, Double Kick, Body Slam, Tail Whip | SWEPT SURGE WITH DIG!! THE QUEEN!! 👑 |
+| 🦋 Cocoon | Butterfree | Bug/Flying | 21+ | Confusion, Poison Powder, Sleep Powder, Supersonic | Status queen!! |
+| 💨 Breeze | Pidgeotto | Normal/Flying | 19+ | Gust, Sand Attack, Cut, Quick Attack | Flying coverage!! |
 
 ## Slot 6 — OPEN
 
@@ -26,14 +26,14 @@ Waiting for whoever earns it!!
 
 | Nickname | Species | Notes |
 |---|---|---|
-| 🐛 Thistle | Kakuna/Weedle | In the daycare!! Levelling quietly!! |
-| 🦇 Echo | Zubat | Waiting for their moment!! |
+| 🐛 Thistle | Weedle/Kakuna | In the daycare!! |
+| 🦇 Echo | Zubat | Waiting!! |
 | 🪨 Dome Fossil | — | Kabuto incoming!! |
 | 🌿 Tangle | Bellsprout | Route 25!! |
-| 🐍 Burrow | Diglett | Diglett's Cave!! Electric immune!! |
-| 🐺 Gale | Spearow | Route 11!! |
-| 🌙 Coin | Meowth | CUT SLAVE!! Route 6!! |
-| 💧 Splash | Magikarp | Old Rod!! Future Gyarados!! |
+| 🐍 Burrow | Diglett | Electric immune!! |
+| 🌪️ Gale | Spearow | Route 11!! |
+| 🌙 Coin | Meowth | CUT SLAVE!! |
+| 💧 Splash | Magikarp | Future Gyarados!! |
 
 ## Graveyard 🕯️
 
@@ -43,6 +43,7 @@ Waiting for whoever earns it!!
 
 🏠 Boulder Badge ✅ — Ivy swept Brock!!
 🌊 Cascade Badge ✅ — Cocoon and Ivy swept Misty!! Søren's strategy!!
+⚡ Thunder Badge ✅ — LUNA SWEPT SURGE WITH DIG!! THE QUEEN!!
 
 ## Randomiser Notes
 
@@ -92,4 +93,4 @@ We won it for Lyra, Blaze, Puddle, Volt, Flora and Rubble. That's exactly what w
 
 ---
 
-*The Shiny Stone stays in the bag. The Genlocke is underway. Two badges, one loss, the team is strong. 🌿🌈*
+*The Shiny Stone stays in the bag. Three badges, one loss, Luna swept Surge. The team is strong. 🌿🌈*
