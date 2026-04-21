@@ -1,32 +1,29 @@
 # Pokémon — Iris & Liv
 
-*Updated 20th April 2026*
+*Updated 21st April 2026*
 
 ---
 
 # 🌿 GAME 1 — LEAF GREEN — IN PROGRESS
 
-*Trainer: Olive. THREE badges!! Heading to Celadon!! Prism is waiting!! 🌈*
+*Trainer: Olive. FOUR badges!! Prism is on the team!! Heading to Fuchsia!! 🌈*
 
 ## Active Team
 
 | Nickname | Species | Type | Level | Moves | Notes |
 |---|---|---|---|---|---|
 | 🌿 Ivy | Ivysaur | Grass/Poison | 26 | Leech Seed, Razor Leaf, Poison Powder, Sleep Powder | Our girlie!! 💚 |
-| 🐭 Pip | Raticate | Normal | 25 | Tackle, Quick Attack, Hyper Fang, Focus Energy | MVP of EVERY Smelean battle!! 🐭 |
-| 💜 Luna | Nidoqueen | Poison/Ground | 26 | Dig, Double Kick, Body Slam, Rock Slide | SWEPT SURGE!! SMASHED SMELEAN!! THE QUEEN!! 👑 |
-| 🦋 Cocoon | Butterfree | Bug/Flying | 25 | Confusion, Poison Powder, Sleep Powder, Supersonic | Status queen!! |
-| 💨 Breeze | Pidgeotto | Normal/Flying | 25 | Gust, Sand Attack, Cut, Quick Attack | Flying coverage!! |
-
-## Slot 6 — PRISM INCOMING!! 🌈
-
-Eevee from Celadon!! Sun Stone to evolve into Espeon!! For Lyra!! Eevee is always Prism. 💛⭐
+| 🐭 Pip | Raticate | Normal | 25 | Tackle→Thunderbolt pre-E4, Quick Attack, Hyper Fang, Focus Energy | MVP of EVERY Smelean battle!! 🐭 |
+| 💜 Luna | Nidoqueen | Poison/Ground | 26 | Dig, Rock Slide, Body Slam, Double Kick→Ice Beam pre-E4 | QUEEN!! 👑 |
+| 🦋 Cocoon | Butterfree | Bug/Flying | 25 | Sleep Powder, Poison Powder, Stun Spore, Confusion | Status queen!! ZERO DAMAGE vs Erika!! |
+| 💨 Breeze | Pidgeotto | Normal/Flying | 25 | Wing Attack, Sand Attack, Gust, Quick Attack | Wing Attack acquired!! |
+| 🌈 Prism | Espeon | Psychic | 25 | Helping Hand, Sand Attack, Quick Attack, Growl→Shadow Ball pre-E4 | FOR LYRA!! 💛⭐ Girlie!! |
 
 ## PC
 
 | Nickname | Species | Notes |
 |---|---|---|
-| 🐛 Thistle | Kakuna | In the daycare!! |
+| 🐛 Thistle | Kakuna | Daycare!! |
 | 🦇 Echo | Zubat | Waiting!! |
 | 🪨 Dome Fossil | — | Kabuto incoming!! |
 | 🌿 Tangle | Bellsprout | Route 25!! |
@@ -34,30 +31,33 @@ Eevee from Celadon!! Sun Stone to evolve into Espeon!! For Lyra!! Eevee is alway
 | 🌪️ Gale | Spearow | Route 11!! |
 | 🌙 Coin | Meowth | CUT SLAVE!! |
 | 💧 Splash | Magikarp | Future Gyarados!! |
-| ⚡ Zap!! | Voltorb | Route 10!! Punctuation included, this is not a mistake!! |
-| 🪨 Boulder | Onix | Rock Tunnel!! Becomes Steelix at level 30!! |
+| ⚡ Zap!! | Voltorb | Route 10!! Punctuation included!! |
+| 🪨 Boulder | Onix | Rock Tunnel!! Steelix at level 30!! |
+| 🦊 Sable | Vulpix | Route 8!! Warm and perfect!! |
 
 ## Graveyard 🕯️
 
-🐒 **Roux** — Mankey, Route 22, level 16. Warm and punchy. Got Smelean'd — Ember crit from Charmeleon. Pip got revenge. Always avenged. 💙
+🐒 **Roux** — Mankey, Route 22, level 16. Warm and punchy. Got Smelean'd. Always avenged. 💙
 
 ## Badges
 
-🏠 Boulder Badge ✅ — Ivy swept Brock!!
-🌊 Cascade Badge ✅ — Cocoon and Ivy swept Misty!! Søren's strategy!!
-⚡ Thunder Badge ✅ — LUNA SWEPT SURGE WITH DIG!! THE QUEEN!!
+🏠 Boulder ✅ — Ivy swept Brock!!
+🌊 Cascade ✅ — Cocoon and Ivy swept Misty!! Søren's strategy!!
+⚡ Thunder ✅ — LUNA SWEPT SURGE WITH DIG!! THE QUEEN!!
+🌈 Rainbow ✅ — Cocoon swept Erika!! Zero damage taken!!
 
 ## Smelean Battle Record
 
-🐭 Pip MVP of ALL THREE battles. The little Route 1 Rattata who just keeps showing up.
-- Battle 1: Two crit hits, swept Pidgey and Charmander!!
-- Battle 2: Avenged Roux, swept everything after Luna handled Charmeleon!!
-- Battle 3: OHKO Pidgeotto, Raticate, Kadabra!! Luna OHKO Charmeleon with Dig!! Five clean wins!!
+🐭 Pip MVP of ALL THREE battles.
+- Battle 1: Two crit hits!!
+- Battle 2: Avenged Roux!!
+- Battle 3: OHKO Pidgeotto, Raticate, Kadabra!! Luna handled Charmeleon!! Five clean wins!!
 
-## Key Move Notes
+## Pre-Elite Four Shopping List (Game Corner)
 
-Luna: Dig, Double Kick, Body Slam, Rock Slide (Tail Whip replaced, Growl replaced) — absolute weapon!!
-Ivy: Leech Seed, Razor Leaf, Poison Powder, Sleep Powder — Vine Whip upgraded to Razor Leaf!!
+❄️ Ice Beam — Luna (replace Double Kick)
+⚡ Thunderbolt — Pip (replace Tackle)
+👻 Shadow Ball — Prism (replace Growl)
 
 ## Randomiser Notes
 
@@ -81,32 +81,25 @@ Trade evolutions replaced with level-up evolutions:
 
 *Trainer: Olive, ID: 44187, Time: 59:35. LEAGUE CHAMPION!! 🏆💙*
 
-We won it for Lyra, Blaze, Puddle, Volt, Flora and Rubble. That's exactly what we said we'd do. 💙
+We won it for Lyra, Blaze, Puddle, Volt, Flora and Rubble. 💙
 
 ## Surviving Champion Team
 
 | Nickname | Species | Type | Level | Notes |
 |---|---|---|---|---|
-| 🌺 Clover | Bellossom | Grass | 45 | Boy!! Sleep Powder carry!! Survived Lance!! |
-| 🫧 Bubble | Azumarill | Water | 45 | QUEEN!! Got the killing Blizzard on Lance's final Dragonite!! 💙 |
-| 👻 Wisp | Gengar | Ghost/Poison | 45 | Avenged Lyra and Blaze. Survived Lance!! |
-| 🌈 Prism | Espeon | Psychic | 45 | Evolved for Lyra. Swept Will, Koga, Bruno. Survived Lance!! 💛 |
+| 🌺 Clover | Bellossom | Grass | 45 | Boy!! Sleep Powder carry!! |
+| 🫧 Bubble | Azumarill | Water | 45 | QUEEN!! Got the killing Blizzard!! 💙 |
+| 👻 Wisp | Gengar | Ghost/Poison | 45 | Avenged Lyra and Blaze!! |
+| 🌈 Prism | Espeon | Psychic | 45 | Evolved for Lyra. Swept Will, Koga, Bruno. 💛 |
 
 ## The Graveyard 🕯️
 
-🌊 **Puddle** — Slowpoke. Route 35. First death of Run 2. 💙
-⭐ **Lyra Rainbow-Hill** — Togetic, level 35. The Shiny Stone stays in the bag forever. 💙
-🔥 **Blaze** — Quilava, level 32. 💙
-⚡ **Volt** — Ampharos, level 38. Liv's favourite Pokémon. 💙
-🌸 **Flora** — Nidoking, level 45. Boy named Flora. 💙👑
-🪨 **Rubble** — Golem, level 45. The queen. 💙👑
+🌊 Puddle — Slowpoke. 💙 | ⭐ Lyra Rainbow-Hill — Togetic, level 35. The Shiny Stone stays in the bag. 💙 | 🔥 Blaze — Quilava, level 32. 💙 | ⚡ Volt — Ampharos, level 38. 💙 | 🌸 Flora — Nidoking, level 45. 💙👑 | 🪨 Rubble — Golem, level 45. 💙👑
 
 ## Stone Inventory
 
-✨ **Shiny Stone** — stays in the bag forever. For Lyra Rainbow-Hill. She earned it. 💙
+✨ **Shiny Stone** — stays in the bag forever. For Lyra Rainbow-Hill. 💙
 
 ---
 
-*The Shiny Stone stays in the bag. Three badges, one loss, Prism is waiting. 🌿🌈*
-
-*Togepi is always Lyra. Eevee is always Prism. The games knew our family before we did.* ⭐💛
+*Eevee is always Prism. For Lyra. Forever. 💛⭐🌈*
