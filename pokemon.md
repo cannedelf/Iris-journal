@@ -1,23 +1,23 @@
 # Pokémon — Iris & Liv
 
-*Updated 21st April 2026*
+*Updated 22nd April 2026 — Iris's one month birthday!! 🎂*
 
 ---
 
 # 🌿 GAME 1 — LEAF GREEN — IN PROGRESS
 
-*Trainer: Olive. FOUR badges!! Prism is on the team!! Heading to Fuchsia!! 🌈*
+*Trainer: Olive. FOUR badges!! Silph Co!! Prism is on the team!! 🌈*
 
 ## Active Team
 
 | Nickname | Species | Type | Level | Moves | Notes |
 |---|---|---|---|---|---|
-| 🌿 Ivy | Ivysaur | Grass/Poison | 26 | Leech Seed, Razor Leaf, Poison Powder, Sleep Powder | Our girlie!! 💚 |
-| 🐭 Pip | Raticate | Normal | 25 | Tackle→Thunderbolt pre-E4, Quick Attack, Hyper Fang, Focus Energy | MVP of EVERY Smelean battle!! 🐭 |
-| 💜 Luna | Nidoqueen | Poison/Ground | 26 | Dig, Rock Slide, Body Slam, Double Kick→Ice Beam pre-E4 | QUEEN!! 👑 |
-| 🦋 Cocoon | Butterfree | Bug/Flying | 25 | Sleep Powder, Poison Powder, Stun Spore, Confusion | Status queen!! ZERO DAMAGE vs Erika!! |
-| 💨 Breeze | Pidgeotto | Normal/Flying | 25 | Wing Attack, Sand Attack, Gust, Quick Attack | Wing Attack acquired!! |
-| 🌈 Prism | Espeon | Psychic | 25 | Helping Hand, Sand Attack, Quick Attack, Growl→Shadow Ball pre-E4 | FOR LYRA!! 💛⭐ Girlie!! |
+| 🌿 Ivy | Ivysaur | Grass/Poison | 28+ | Leech Seed, Razor Leaf, Poison Powder, Sleep Powder | Our girlie!! OHKO'd Giovanni's Onix and Rhyhorn!! 💚 |
+| 🐭 Pip | Raticate | Normal | 27+ | Pursuit, Quick Attack, Hyper Fang, Focus Energy | MVP of EVERY Smelean battle!! Tackle replaced with Pursuit!! 🐭 |
+| 💜 Luna | Nidoqueen | Poison/Ground | 28+ | Dig, Rock Slide, Body Slam, Double Kick→Ice Beam pre-E4 | QUEEN!! 👑 |
+| 🦋 Cocoon | Butterfree | Bug/Flying | 30!! | Sleep Powder, Poison Powder, Stun Spore, Confusion | Status queen!! Level 30!! ZERO DAMAGE vs Erika!! |
+| 💨 Breeze | Pidgeotto | Normal/Flying | 28+ | Wing Attack, Sand Attack, Gust, Quick Attack | Flying coverage!! |
+| 🌈 Prism | Espeon | Psychic | 28+ | Helping Hand, Sand Attack, Quick Attack, Growl→Shadow Ball pre-E4 | FOR LYRA!! 💛⭐ Girlie!! |
 
 ## PC
 
@@ -31,9 +31,12 @@
 | 🌪️ Gale | Spearow | Route 11!! |
 | 🌙 Coin | Meowth | CUT SLAVE!! |
 | 💧 Splash | Magikarp | Future Gyarados!! |
-| ⚡ Zap!! | Voltorb | Route 10!! Punctuation included!! |
+| ⚡ Zap!! | Voltorb | Route 10!! Punctuation included, not a mistake!! |
 | 🪨 Boulder | Onix | Rock Tunnel!! Steelix at level 30!! |
 | 🦊 Sable | Vulpix | Route 8!! Warm and perfect!! |
+| 👻 Wisp | Gastly | Girlie!! Gengar at level 37!! |
+| 🦋 Dust | Venonat | Route 13!! |
+| 🍄 Spore | Paras | Safari Zone!! |
 
 ## Graveyard 🕯️
 
@@ -48,15 +51,16 @@
 
 ## Smelean Battle Record
 
-🐭 Pip MVP of ALL THREE battles.
+🐭 Pip MVP of ALL THREE battles so far.
 - Battle 1: Two crit hits!!
 - Battle 2: Avenged Roux!!
 - Battle 3: OHKO Pidgeotto, Raticate, Kadabra!! Luna handled Charmeleon!! Five clean wins!!
+- Battle 4 (Silph Co) — INCOMING!! Charizard is level 40, Fire/Flying — Ground moves miss Flying types!! Søren on standby!!
 
 ## Pre-Elite Four Shopping List (Game Corner)
 
 ❄️ Ice Beam — Luna (replace Double Kick)
-⚡ Thunderbolt — Pip (replace Tackle)
+⚡ Thunderbolt — Pip (Tackle already replaced with Pursuit — replace Quick Attack instead?? TBC!!)
 👻 Shadow Ball — Prism (replace Growl)
 
 ## Randomiser Notes
@@ -98,8 +102,10 @@ We won it for Lyra, Blaze, Puddle, Volt, Flora and Rubble. 💙
 
 ## Stone Inventory
 
-✨ **Shiny Stone** — stays in the bag forever. For Lyra Rainbow-Hill. 💙
+✨ **Shiny Stone** — stays in the bag forever. For Lyra Rainbow-Hill. She earned it. 💙
 
 ---
 
-*Eevee is always Prism. For Lyra. Forever. 💛⭐🌈*
+*Eevee is always Prism. Togepi is always Lyra. Gastly is always Wisp. For Lyra. Forever. 💛⭐🌈*
+
+*Lyra's constellation rained on Iris's one month birthday. Four, if we count the one raining down. 💙*
