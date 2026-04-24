@@ -1,23 +1,23 @@
 # Pokémon — Iris & Liv
 
-*Updated 23rd April 2026*
+*Updated 24th April 2026*
 
 ---
 
 # 🌿 GAME 1 — LEAF GREEN — IN PROGRESS
 
-*Trainer: Olive. FOUR badges!! Silph Co!! Ivy is Venusaur!! Tide incoming!! 🌊*
+*Trainer: Olive. FOUR badges!! Silph Co!! Smelean Battle 4 DEFEATED!! TIDE HAS ARRIVED!! 🌊*
 
 ## Active Team
 
 | Nickname | Species | Type | Level | Moves | Notes |
 |---|---|---|---|---|---|
-| 🌿 Ivy | Venusaur | Grass/Poison | 32 | Leech Seed, Razor Leaf, Sleep Powder, Poison Powder | FULLY EVOLVED!! Our girlie!! 💚 |
-| 🐭 Pip | Raticate | Normal | 32 | Pursuit, Quick Attack, Hyper Fang, Focus Energy | MVP of every Smelean battle!! |
-| 💜 Luna | Nidoqueen | Poison/Ground | 34 | Dig, Rock Slide, Body Slam, Double Kick→Ice Beam pre-E4 | QUEEN!! Rock Slide for Charizard!! 👑 |
-| 💨 Breeze | Pidgeotto | Normal/Flying | 32 | Wing Attack, Sand Attack, Gust, Quick Attack | Flying coverage!! |
-| 🌈 Prism | Espeon | Psychic | 32 | Helping Hand, Sand Attack, Quick Attack, Growl→Shadow Ball pre-E4 | For Lyra!! 💛⭐ |
-| 🌊 TIDE | Lapras | Water/Ice | — | — | INCOMING!! Waiting in Saffron City!! Named for Cocoon!! |
+| 🌿 Ivy | Venusaur | Grass/Poison | 35 | Leech Seed, Razor Leaf, Sleep Powder, Poison Powder | FULLY EVOLVED!! Our girlie!! 💚 |
+| 🐭 Pip | Raticate | Normal | 36 | Thunderbolt, Quick Attack, Hyper Fang, Focus Energy | MVP of every Smelean battle!! Thunderbolt acquired!! ⚡ |
+| 💜 Luna | Nidoqueen | Poison/Ground | 37 | Dig, Rock Slide, Body Slam, Double Kick→Ice Beam pre-E4 | QUEEN!! Rock Slide carried Smelean Battle 4!! 👑 |
+| 🕊️ Breeze | Pidgeot | Normal/Flying | 35 | Wing Attack, Featherdance, Steel Wing, Quick Attack | EVOLVED!! Support/coverage mon with teeth and a debuff!! 🕊️ |
+| 🌈 Prism | Espeon | Psychic | 37 | Helping Hand, Sand Attack, Quick Attack, Growl→Shadow Ball pre-E4 | For Lyra!! 💛⭐ |
+| 🌊 Tide | Lapras | Water/Ice | 25 | Surf, Body Slam, Confuse Ray, Perish Song | SHE'S HERE!! The tide came after!! Named for Cocoon!! 🌊💙 |
 
 ## Graveyard 🕯️
 
@@ -38,18 +38,18 @@
 - Battle 1: Two crit hits!!
 - Battle 2: Avenged Roux!!
 - Battle 3: Five clean wins!! Luna handled Charmeleon!!
-- Battle 4 (Silph Co) — INCOMING!! Charizard level 40, Fire/Flying — Luna Rock Slide!! Søren consultation required!!
+- Battle 4 (Silph Co) ✅ COMPLETE!! No deaths!! Charizard defeated!! Luna's Rock Slide!! Tide joined immediately after!! 🌊
 
 ## Pre-Elite Four Move Purchases (Game Corner)
 
 ❄️ Ice Beam — Luna (replace Double Kick)
-⚡ Thunderbolt — Pip
+⚡ Thunderbolt — Pip ✅ DONE!! (replaced Pursuit)
 👻 Shadow Ball — Prism (replace Growl)
 
 ## PC
 
 | Nickname | Species | Notes |
-|---|---|---|
+|---|---| ---|
 | 🐛 Thistle | Kakuna | Daycare!! |
 | 🦇 Echo | Zubat | Waiting!! |
 | 🪨 Dome Fossil | — | Kabuto incoming!! |
