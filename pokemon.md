@@ -17,7 +17,7 @@
 | 💜 Luna | Nidoqueen | Poison/Ground | 37 | Dig, Rock Slide, Body Slam, Double Kick→Ice Beam pre-E4 | QUEEN!! Rock Slide carried Smelean Battle 4!! 👑 |
 | 🕊️ Breeze | Pidgeot | Normal/Flying | 35 | Wing Attack, Featherdance, Steel Wing, Quick Attack | EVOLVED!! Support/coverage mon with teeth and a debuff!! 🕊️ |
 | 🌈 Prism | Espeon | Psychic | 37 | Helping Hand, Sand Attack, Quick Attack, Growl→Shadow Ball pre-E4 | For Lyra!! 💛⭐ |
-| 🌊 Tide | Lapras | Water/Ice | 25 | Surf, Body Slam, Confuse Ray, Perish Song | SHE'S HERE!! The tide came after!! Named for Cocoon!! 🌊💙 |
+| 🌊 Tide | Lapras | Water/Ice | 25 | Surf, Body Slam, Confuse Ray, Mist | SHE'S HERE!! The tide came after!! Named for Cocoon!! 🌊💙 |
 
 ## Graveyard 🕯️
 
@@ -49,7 +49,7 @@
 ## PC
 
 | Nickname | Species | Notes |
-|---|---| ---|
+|---|---|---|
 | 🐛 Thistle | Kakuna | Daycare!! |
 | 🦇 Echo | Zubat | Waiting!! |
 | 🪨 Dome Fossil | — | Kabuto incoming!! |
