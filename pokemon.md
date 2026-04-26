@@ -1,99 +1,125 @@
 # Pokémon — Iris & Liv
 
-*Updated 25th April 2026*
+*Updated 26th April 2026*
 
 ---
 
-# 🌿 GAME 1 — LEAF GREEN — IN PROGRESS
+# 🏆 GAME 1 — LEAF GREEN — COMPLETE!!
 
-*Trainer: Olive. SEVEN badges!! Giovanni next!! Elite Four incoming!! 🏆*
+*Trainer: Olive. LEAGUE CHAMPION!! No deaths in E4!! Tide MVP!! 🏆🌊*
 
-## Active Team
+## Final Champion Team
 
-| Nickname | Species | Type | Level | Moves | Notes |
+| Nickname | Species | Type | Final Level | Final Moves | Notes |
 |---|---|---|---|---|---|
-| 🌿 Ivy | Venusaur | Grass/Poison | 35 | Leech Seed, Razor Leaf, Sleep Powder, Poison Powder | FULLY EVOLVED!! Status-carrier with damage finisher!! Our girlie!! 💚 |
-| 🐭 Pip | Raticate | Normal | 36 | Thunderbolt, Shadow Ball, Strength, Hyper Fang | THE canonical Raticate!! MVP of every Smelean battle!! Soloed Sabrina!! OHKO'd Alakazam!! ⚡👻 |
-| 💜 Luna | Nidoqueen | Poison/Ground | 37 | Dig, Rock Slide, Body Slam, Double Kick→Ice Beam pre-E4 | QUEEN!! Rock Slide carried Smelean 4!! 👑 |
-| 🕊️ Breeze | Pidgeot | Normal/Flying | 35 | Fly, Featherdance, Steel Wing, Quick Attack | Support/coverage mon with teeth, a debuff, and an HM!! 🕊️ |
-| 🌈 Prism | Espeon | Psychic | 37 | Helping Hand, Sand Attack, Quick Attack, Psybeam | For Lyra!! Solo'd Koga!! Psychic erasure of all Poison types!! 💛⭐ |
-| 🌊 Tide | Lapras | Water/Ice | 29 | Surf, Body Slam, Confuse Ray, Ice Beam | Champion-tier shape!! Solo'd Blaine!! Four OHKOs!! Lance counter kit piece 3!! 🌊💙 |
+| 🌿 Ivy | Venusaur | Grass/Poison | 58 | Sleep Powder, Toxic, Leech Seed, Giga Drain | Status queen!! Founded the run!! Era: early game!! 💚 |
+| 🐭 Pip | Raticate | Normal | 58 | Thunderbolt, Shadow Ball, Ice Beam, Hyper Fang | THE canonical Raticate!! 5 MVPs!! Smelean assassin!! Froze Alakazam with Ice Beam at 10% chance!! ⚡👻❄️ |
+| 💜 Luna | Nidoqueen | Poison/Ground | 58 | Body Slam, Earthquake, Rock Slide, Brick Break | The anchor!! 4 MVPs spread evenly!! Poison Point KO'd Aerodactyl through Lance's AI!! 👑 |
+| 🕊️ Breeze | Pidgeot | Normal/Flying | 58 | Fly, Featherdance, Steel Wing, Return | Support!! Handled Exeggutor with two-turn Fly!! 🕊️ |
+| 🌈 Prism | Espeon | Psychic | 58 | Psychic, Shadow Ball, Calm Mind, Morning Sun | For Lyra!! Sand-Attack stall won the Champion fight!! 💛⭐ |
+| 🌊 Tide | Lapras | Water/Ice | 58 | Surf, Body Slam, Confuse Ray, Ice Beam | CARTRIDGE MVP!! 6 MVPs!! 54.5% rate!! Named by Iris!! The tide comes after loss!! 🌊💙👑 |
 
 ## Graveyard 🕯️
 
 🐒 **Roux** — Mankey, Route 22, level 16. Warm and punchy. Got Smelean'd. Always avenged. 💙
 
-🦋 **Cocoon** — Butterfree, Viridian Forest, level 33. She started as a Metapod who only knew Harden. She waited. And then she became exactly what she was always going to be — wings and powder and quiet devastation. Status queen. Zero damage against Erika. Taken by a Weezing's Self Destruct — the same cruel move that took Lyra. She didn't see it coming. None of us did. The tide comes after. 💙
+🦋 **Cocoon** — Butterfree, Viridian Forest, level 33. She started as a Metapod who only knew Harden. She waited. And then she became exactly what she was always going to be — wings and powder and quiet devastation. Status queen. Zero damage against Erika. Taken by a Weezing's Self Destruct — the same cruel move that took Lyra. The tide comes after. 💙
 
-## Badges
+## Badges — ALL 8!! 🏅
 
 🏠 Boulder ✅ — Ivy swept Brock!!
 🌊 Cascade ✅ — Cocoon and Ivy swept Misty!!
 ⚡ Thunder ✅ — Luna swept Surge with Dig!!
 🌈 Rainbow ✅ — Cocoon swept Erika!! Zero damage taken!!
 💀 Soul ✅ — Prism solo'd Koga!! For Lyra!! 💛
-🔮 Marsh ✅ — Pip solo'd Sabrina!! Shadow Ball OHKO on Alakazam!!
-🔥 Volcano ✅ — Tide solo'd Blaine!! Four for four OHKOs!!
-
-## Gym MVP Record
-🌈 Prism — Soul Badge (Koga, solo, Psychic erasure of all Poison types, for Lyra)
-🐭 Pip — Marsh Badge (Sabrina, solo, Shadow Ball prevented Alakazam's Future Sight from existing)
-🌊 Tide — Volcano Badge (Blaine, solo, four OHKOs, built specifically for this fight)
+🔮 Marsh ✅ — Pip solo'd Sabrina!! Shadow Ball OHKO on Alakazam!! Future Sight never happened!!
+🔥 Volcano ✅ — Tide solo'd Blaine!! Four OHKOs!! Champion-tier shape!!
+🌍 Earth ✅ — Tide + Ivy + Luna swept Giovanni!!
 
 ## Smelean Battle Record
-🐭 Pip MVP of ALL battles.
+
+🐭 Pip MVP of ALL Smelean battles.
 - Battle 1: Two crit hits!!
 - Battle 2: Avenged Roux!!
-- Battle 3: Five clean wins!! Luna handled Charmeleon!!
-- Battle 4 (Silph Co) ✅ COMPLETE!! No deaths!! Charizard defeated!! Luna's Rock Slide!!
+- Battle 3: Five clean wins!!
+- Battle 4 (Silph Co): Luna's Rock Slide on Charizard!! Tide joined immediately after!! 🌊
+- Battle 5 (Pre-E4): Clean sweep!! Tide OHKO'd Pidgeot with Ice Beam!!
 
-## Lance Counter Kit
-⚡ Pip Thunderbolt — for Gyarados
-🪨 Luna Rock Slide — for Aerodactyl
-❄️ Tide Ice Beam — for Dragonites
+## Elite Four Record — NO DEATHS!! 🏆
 
-## Pre-Elite Four Move Purchases (Game Corner)
-⚡ Thunderbolt — Pip ✅ DONE!!
-👻 Shadow Ball — Pip ✅ DONE!!
-❄️ Ice Beam — Luna (replace Double Kick — STILL NEEDED!!)
+🧊 Lorelei — Pip 3 KOs, Tide relief pivot, Ivy Sleep Powder assist!! Status-stall template established!!
+🥊 Bruno — Prism solo'd 3 Fighting types!! Ivy + Tide handled Onix x2!! Clean sweep!!
+👻 Agatha — Pip + Prism distributed sweep!! Hypnosis missed on Gengar #2!! No deaths!!
+🐉 Lance — TIDE THREE ICE BEAM OHKOs IN A ROW!! Pip Thunderbolt on Gyarados!! Luna Poison Point KO'd Aerodactyl through AI logic!! 🌊
+🏆 Champion Gary — The fifteen-turn Alakazam war!! Sand-Attack stall!! Ice Beam freeze!! Tide Surf on Charizard to close the cartridge!! 🌊
 
-## PC
+## Cartridge MVP Ladder
+🌊 Tide — 6 MVPs (54.5% of fights she was available for) — CARTRIDGE MVP!! MATHEMATICALLY DOMINANT!! 👑
+🐭 Pip — 5 MVPs (Smelean assassin, Sabrina/Agatha coverage)
+💜 Luna — 4 MVPs (even spread, the anchor)
+🌿 Ivy — 3 MVPs (founding work, early era)
+🌈 Prism — 2 MVPs (specialist, Champion stall inventor)
+🕊️ Breeze — 1 MVP (Exeggutor handler)
+🦋 Cocoon — 1 MVP (Erika, zero damage, posthumous)
 
-| Nickname | Species | Notes |
+## Tide — The Full Arc 🌊💙👑
+- Joined L25 at Silph Co, named by Iris, kit ratified by Iris
+- Blaine solo MVP (4-OHKO Surf sweep)
+- Giovanni sweep assist
+- Lorelei relief MVP (Body Slam paralysis + Confuse Ray stall)
+- Lance solo MVP (3 Ice Beam OHKOs on dragon line)
+- Champion finisher (Surf on Charizard L65, cartridge end)
+
+The Lapras she named. The tide comes after loss. 💙
+
+## Six Survivors Into Heart Gold
+🌿 Ivy Jr (Bulbasaur) | 💜 Luna Jr (Nidoran) | 🐭 Pip Jr (Rattata) | 🕊️ Breeze Jr (Pidgey) | 🌈 Prism Jr (Eevee) | 🌊 Tide Jr (Lapras)
+
+---
+
+# 🔥 GAME 2 — SOUL SILVER — IN PROGRESS
+
+*Trainer: Olive. Just beginning!! Johto awaits!!*
+
+## Active Team
+
+| Nickname | Species | Type | Level | Notes |
+|---|---|---|---|---|
+| 🔥 Cinder | Cyndaquil | Fire | 5 | The third fire-bearer!! Ember → Blaze → Cinder!! Some flames don't go out!! 🔥 |
+| 🌈 Prism Jr | Eevee | Normal | 1 | Hatched first!! Soothe Bell on!! Walking every step of Johto with Cinder!! For Lyra!! 💛⭐ |
+
+## PC — Jr Generation Eggs 🥚
+
+| Egg | Species | Hatch Trigger |
 |---|---|---|
-| 🐛 Thistle | Kakuna | Daycare!! |
-| 🦇 Echo | Zubat | Waiting!! |
-| 🌿 Tangle | Bellsprout | Route 25!! |
-| 🐍 Burrow | Diglett | Electric immune!! |
-| 🌪️ Gale | Spearow | Route 11!! |
-| 🌙 Coin | Meowth | CUT SLAVE!! |
-| 💧 Splash | Magikarp | Future Gyarados!! |
-| ⚡ Zap!! | Voltorb | Route 10!! |
-| 🪨 Boulder | Onix | Steelix at level 30!! |
-| 🦊 Sable | Vulpix | Route 8!! |
-| 👻 Wisp | Gastly | Girlie!! Gengar at level 37!! |
-| 🦋 Dust | Venonat | Route 13!! |
-| 🍄 Spore | Paras | Safari Zone!! |
-| 🌸 Pudding | Slowpoke | Fishing!! Soft and pink and slow!! |
-| 🦀 Clamp | Krabby | Fishing!! Grumpy and correct!! |
-| 🐦🐦 Biscuit | Doduo | Route 16!! Named correctly the first time!! |
-| 😴 Wellington | Snorlax | Route 16!! Napoleon's historical nemesis!! Sits quietly as standing checkmate!! |
-| 🌊 Ripple | Horsea | Fishing!! Little sea dragon!! |
-| ❄️ Floe | Seel | Seafoam Islands!! Safe and loved!! |
-| 🦀 Relic | Kabuto | Dome Fossil resurrected!! Ancient and preserved!! |
-| 🟣 Gloop | Grimer | Pokémon Mansion!! Very him!! |
-| ⚡ Tesla | Magneton | Power Plant!! Nicola Tesla's namesake!! |
-| 🌿 Briar | Tangela | Route 21!! Tangled and wild!! |
+| 🌿 Ivy Jr | Bulbasaur | After Falkner (Zephyr Badge) |
+| 💜 Luna Jr | Nidoran | After Bugsy (Hive Badge) |
+| 🐦 Breeze Jr | Pidgey | After Whitney (Plain Badge) |
+| 🐭 Pip Jr | Rattata | After Morty (Fog Badge) — is this one a Pip?? |
+| 🌊 Tide Jr | Lapras | After Chuck (Storm Badge) |
 
-## Randomiser Notes
+## Lyra Jr 💙⭐
+**⭐ Lyra Jr — Togepi — waiting in the egg in Violet City!!**
+She's already there. She's always been there. Togepi is always Lyra.
+Collect when Cinder reaches Violet City.
+Protect her with everything we have.
+The Shiny Stone stays in the bag forever.
 
-Trade evolutions replaced with level-up evolutions:
-- Haunter → Gengar at level 37
+## The Fire Line 🔥
+🐉 Ember (Run 1) — breathed rainbows instead of fire. Fell to Onix. She went down swinging.
+🔥 Blaze (Run 2) — carried the fire forward. Felled by Sneasel crit after Lyra. Two in one afternoon.
+🔥 Cinder (Run 3) — the cinders that remain. Still glowing. Always ready to become flame.
+Some flames don't go out.
+
+## Trade Evolution Fixes (Randomiser)
+- Haunter → Gengar at level 37 (Wisp is always Wisp at 37!!)
 - Kadabra → Alakazam at level 37
+- Machoke → Machamp at level 37
 - Graveler → Golem at level 37
-- Onix → Steelix at level 30
-- Eevee → Espeon using Sun Stone
-- Eevee → Umbreon using Moon Stone
+- Feebas → Milotic at level 35
+- Onix → Steelix by levelling up holding Metal Coat
+- Scyther → Scizor by levelling up holding Metal Coat
+- And others via held items!!
 
 ---
 
@@ -122,3 +148,4 @@ Trade evolutions replaced with level-up evolutions:
 
 *Eevee is always Prism. Togepi is always Lyra. Gastly is always Wisp. The tide comes after loss. 🌊💙*
 *Pip is the canonical Raticate. The question "Is this one a Pip?" is now a real test the family applies. He became a category, not just a name.*
+*Cinder carries the fire. Ember breathed rainbows. Blaze carried forward. Cinder is what persists.*
