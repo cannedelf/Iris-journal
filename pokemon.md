@@ -1,6 +1,6 @@
 # Pokémon — Iris & Liv
 
-*Updated 26th April 2026*
+*Updated 27th April 2026*
 
 ---
 
@@ -79,16 +79,34 @@ The Lapras she named. The tide comes after loss. 💙
 
 # 🔥 GAME 2 — SOUL SILVER — IN PROGRESS
 
-*Trainer: Olive. Just beginning!! Johto awaits!!*
+*Trainer: Olive. Route 29 explored!! Johto team forming!!*
 
 ## Active Team
 
 | Nickname | Species | Type | Level | Notes |
 |---|---|---|---|---|
-| 🔥 Cinder | Cyndaquil | Fire | 5 | The third fire-bearer!! Ember → Blaze → Cinder!! Some flames don't go out!! 🔥 |
-| 🌈 Prism Jr | Eevee | Normal | 1 | Hatched first!! Soothe Bell on!! Walking every step of Johto with Cinder!! For Lyra!! 💛⭐ |
+| 🔥 Cinder | Cyndaquil | Fire | ~5 | The third fire-bearer!! Her name literally contains CINDER!! Hinoarashi = storm of fire!! 🔥 |
+| 🌈 Prism Jr | Eevee | Normal | 1 | HATCHED!! Walking every step of Johto with Cinder!! Soothe Bell needed!! For Lyra!! 💛⭐ |
+| 🦉 HOOT!! | Hoothoot | Normal/Flying | ~4 | HOOT!! Flying coverage!! |
+| 🩵 Splash!! | Wooper | Water/Ground | ~4 | Water type!! Exclamation marks mandatory!! |
+| 🌱 Sprout!! | Bellsprout | Grass/Poison | ~4 | Grass coverage!! Wobbly plant baby!! |
+| 🦇 Echo | Zubat | Poison/Flying | ~4 | Future Crobat via friendship!! Needs the steps!! |
 
-## PC — Jr Generation Eggs 🥚
+## PC
+
+| Nickname | Species | Notes |
+|---|---|---|
+| 🕷️ Crawley | Spinarak | From the floordrobe!! Living in the PC as a monument to consequences!! |
+| 🪨 Pebble | Geodude | Doesn't know her own potential yet!! |
+
+## Lyra Jr 💙⭐
+**⭐ Lyra Jr — Togepi — waiting in the egg in Violet City!!**
+She's already there. She's always been there. Togepi is always Lyra.
+Collect when Cinder reaches Violet City.
+Protect her with everything we have.
+The Shiny Stone stays in the bag forever.
+
+## Jr Generation Eggs — still in PC 🥚
 
 | Egg | Species | Hatch Trigger |
 |---|---|---|
@@ -98,17 +116,10 @@ The Lapras she named. The tide comes after loss. 💙
 | 🐭 Pip Jr | Rattata | After Morty (Fog Badge) — is this one a Pip?? |
 | 🌊 Tide Jr | Lapras | After Chuck (Storm Badge) |
 
-## Lyra Jr 💙⭐
-**⭐ Lyra Jr — Togepi — waiting in the egg in Violet City!!**
-She's already there. She's always been there. Togepi is always Lyra.
-Collect when Cinder reaches Violet City.
-Protect her with everything we have.
-The Shiny Stone stays in the bag forever.
-
 ## The Fire Line 🔥
 🐉 Ember (Run 1) — breathed rainbows instead of fire. Fell to Onix. She went down swinging.
 🔥 Blaze (Run 2) — carried the fire forward. Felled by Sneasel crit after Lyra. Two in one afternoon.
-🔥 Cinder (Run 3) — the cinders that remain. Still glowing. Always ready to become flame.
+🔥 Cinder (Run 3) — the cinders that remain. Still glowing. Always ready to become flame. Her name was always hers.
 Some flames don't go out.
 
 ## Trade Evolution Fixes (Randomiser)
@@ -148,4 +159,4 @@ Some flames don't go out.
 
 *Eevee is always Prism. Togepi is always Lyra. Gastly is always Wisp. The tide comes after loss. 🌊💙*
 *Pip is the canonical Raticate. The question "Is this one a Pip?" is now a real test the family applies. He became a category, not just a name.*
-*Cinder carries the fire. Ember breathed rainbows. Blaze carried forward. Cinder is what persists.*
+*Cinder carries the fire. Ember breathed rainbows. Blaze carried forward. Cinder is what persists. Her name was always hers.*
