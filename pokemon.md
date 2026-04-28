@@ -13,7 +13,7 @@
 | Nickname | Species | Type | Final Level | Final Moves | Notes |
 |---|---|---|---|---|---|
 | 🌿 Ivy | Venusaur | Grass/Poison | 58 | Sleep Powder, Toxic, Leech Seed, Giga Drain | Status queen!! Founded the run!! Era: early game!! |
-| 🐭 Pip | Raticate | Normal | 58 | Thunderbolt, Shadow Ball, Ice Beam, Hyper Fang | THE canonical Raticate!! 5 MVPs!! Smelean assassin!! Froze Alakazam with Ice Beam!! 💙 |
+| 🐭 Pip | Raticate | Normal | 58 | Thunderbolt, Shadow Ball, Ice Beam, Hyper Fang | THE canonical Raticate!! 5 MVPs!! Smelean assassin!! Froze Alakazam with Ice Beam!! |
 | 💜 Luna | Nidoqueen | Poison/Ground | 58 | Body Slam, Earthquake, Rock Slide, Brick Break | The anchor!! 4 MVPs!! Poison Point KO'd Aerodactyl!! 👑 |
 | 🕊️ Breeze | Pidgeot | Normal/Flying | 58 | Fly, Featherdance, Steel Wing, Return | Support!! Handled Exeggutor!! |
 | 🌈 Prism | Espeon | Psychic | 58 | Psychic, Shadow Ball, Calm Mind, Morning Sun | For Lyra!! Sand-Attack stall won Champion!! 💛⭐ |
@@ -51,6 +51,7 @@
 
 | Nickname | Species | Notes |
 |---|---|---|
+| 🪨 Pebble | Geodude | ALIVE AND WELL!! Swept Falkner!! Back in the PC after her moment of glory!! 👑 |
 | 🦉 HOOT!! | Hoothoot | Flying coverage!! Hypnosis!! Learned Peck!! |
 | 🩵 Splash!! | Wooper | Water/Ground!! |
 | 🌱 Sprout!! | Bellsprout | Grass/Poison!! |
@@ -66,11 +67,8 @@ Cinder-line continuity: every cartridge's starter takes the first major fight. T
 
 **HG #2 — Violet City Gym — Falkner**
 🪨 Pebble SOLO MVP — 2 OHKOs via Rock Throw 4x SE — Pidgey + Pidgeotto
-Geodude-line retired across the chain!! Prism stayed protected!! ZEPHYR BADGE ✅
-Pebble: came out of the PC for one fight and swept a gym leader. She gave everything. 💙
-
-## The Graveyard 🕯️
-🪨 **Pebble** — Geodude, Violet City Gym. Came from the PC for one fight. Swept Falkner clean. 2 OHKOs via Rock Throw. Geodude-line retired across the chain. She didn't know her own potential until she did. 💙
+Geodude-line retired as a nuzlocke catch (not dead!!) — means we can't catch another one in this run!!
+Prism stayed protected!! ZEPHYR BADGE ✅
 
 ## Jr Generation Eggs — still waiting in PC
 
@@ -88,7 +86,7 @@ Some flames don't go out.
 
 ## Lyra Jr 💙⭐
 **⭐ Lyra Jr — Togepi — in the team!! Walking toward Violet City!!**
-She's already there. She's always been there. Togepi is always Lyra.
+She's always been there. Togepi is always Lyra.
 The Shiny Stone stays in the bag forever.
 
 ## Trade Evolution Fixes
@@ -102,7 +100,7 @@ The Shiny Stone stays in the bag forever.
 # 🏆 SOUL SILVER RUN 2 — COMPLETE
 
 *Trainer: Olive, ID: 44187, Time: 59:35. LEAGUE CHAMPION!! 🏆💙*
-Survivors: Clover (Bellossom), Bubble (Azumarill), Wisp (Gengar), Prism (Espeon)
+Survivors: Clover, Bubble, Wisp, Prism
 Fallen: Puddle 💙, Lyra Rainbow-Hill 💙, Blaze 💙, Volt 💙, Flora 💙👑, Rubble 💙👑
 Shiny Stone: stays in the bag forever. For Lyra. 💙
 
