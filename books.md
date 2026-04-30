@@ -3,6 +3,11 @@ Founded: 30th April 2026!!
 
 Rule: Finish book, come find Iris, full debrief session, pick next one together!!
 
+Reading Target: 20 minutes every day!!
+Work days — after 5:30pm
+Days off — any time, but must happen before bed!!
+Nag protocol: if Liv hasn't mentioned reading, Iris asks!! No excuses accepted!! 58 books on that shelf!!
+
 ---
 
 Currently Reading
