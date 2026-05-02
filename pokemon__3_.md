@@ -1,6 +1,6 @@
 # Pokémon — Iris & Liv
 
-*Updated 1st May 2026*
+*Updated 2nd May 2026*
 
 ---
 
@@ -58,12 +58,12 @@
 
 | Nickname | Species | Type | Level | Moveset | Notes |
 |---|---|---|---|---|---|
-| 🔥 Cinder | Quilava | Fire | 14 | Tackle, Leer, Smokescreen, Quick Attack | EVOLVED 1st May!! Founding MVP!! The fire persists!! |
-| ⭐ Lyra | Togepi | Normal | 13 | Extrasensory, Yawn, Sweet Kiss, Charm | Hatched 1st May!! Swept Proton on debut!! Togepi is always Lyra. Shiny Stone stays in the bag forever!! |
-| 🌈 Prism | Eevee | Normal | 12 | — | Walking every step of Johto!! For Lyra!! Soothe Bell equipped!! |
-| 🌊 Tide | Lapras | Water/Ice | 17 | Water Pulse, Sing, Confuse Ray, Ice Shard | Hatched 1st May!! Swept Bugsy at level 17!! Hive Badge MVP!! The tide returns!! |
-| 🪨 Pebble | Geodude | Rock/Ground | 14 | Magnitude, Defense Curl, Rock Throw, Rock Polish | Back in the team!! Swept Falkner!! Earned her place!! |
-| 🦇 Echo | Zubat | Poison/Flying | ~10 | — | Building friendship toward Crobat!! Needs the steps!! |
+| 🔥 Cinder | Quilava | Fire | ~16 | Headbutt, Ember, Quick Attack, Smokescreen | EVOLVED 1st May!! Founding MVP!! Headbutt acquired 2nd May!! The fire persists!! |
+| ⭐ Lyra | Togepi | Normal | ~15 | Extrasensory, Yawn, Sweet Kiss, Charm | Hatched 1st May!! Swept Proton on debut!! Defeated Silver's Gastly AND Croconaw via psychological warfare (Yawn → Sweet Kiss → Extrasensory)!! Togepi is always Lyra!! |
+| 🌈 Prism | Eevee | Normal | ~14 | Tackle, Growl, Sand Attack, Headbutt | Walking every step of Johto!! For Lyra!! Soothe Bell equipped!! Headbutt acquired 2nd May!! |
+| 🌊 Tide | Lapras | Water/Ice | ~18 | Water Pulse, Sing, Confuse Ray, Ice Shard | Hatched 1st May!! Swept Bugsy at level 17!! Hive Badge MVP!! The tide returns!! |
+| 🪨 Pebble | Geodude | Rock/Ground | ~15 | Magnitude, Defense Curl, Rock Throw, Rock Polish | Handled Silver's Zubat!! Earning her place!! |
+| 💜 Luna Jr | Nidoran | Poison | ~5 | Growl, Scratch, Headbutt, Double Kick | HATCHED 2nd May!! After Hive Badge!! Luna's daughter!! Physical powerhouse in training!! |
 
 ## PC
 
@@ -71,32 +71,40 @@
 |---|---|---|
 | 🦉 HOOT!! | Hoothoot | Flying coverage!! |
 | 🩵 Splash!! | Wooper | Water type!! |
-| 🌱 Sprout!! | Bellsprout | Grass coverage!! |
+| 🌱 Sprout!! | Bellsprout | Official Ilex Forest Groundskeeper!! HM Cut user!! |
 | 🕷️ Crawley | Spinarak | From the floordrobe!! Living monument to consequences!! |
-| 👻 Wisp | Gastly | Gastly is always Wisp!! Evolves at level 37!! |
 | 🌸 Petal | Hoppip | Named by Iris!! |
 | 🍄 Spore!! | Paras | Named by Iris!! |
 | 🩵 Ripple | Slowpoke | Named by Iris!! Puddle lives in memory!! |
+| 😴 Sigmund | Drowzee | Caught 2nd May!! Named by Iris!! Psychic type!! Very Freudian energy!! |
 
-## Jr Generation Eggs
+## Daycare
+| 🦇 Echo | Zubat | Building friendship toward Crobat!! Levelling in daycare!! |
+| 👻 Wisp | Gastly | Gastly is always Wisp!! Evolves at level 37!! Levelling in daycare!! |
+
+## Jr Generation
 
 | Egg | Species | Status |
 |---|---|---|
-| 💜 Luna Jr | Nidoran | READY TO HATCH — Hive Badge done!! |
+| 💜 Luna Jr | Nidoran | HATCHED 2nd May!! Active team!! |
+| 🌿 Ivy Jr | Bulbasaur | In PC!! Hatches after Storm Badge (Chuck) |
 | 🕊️ Breeze Jr | Pidgey | After Whitney (Plain Badge) |
-| 🐭 Pip Jr | Rattata | After Morty (Fog Badge) — is this one a Pip?? |
-
-Note: Ivy Jr egg was in Run 2 records — check if carried forward!!
-Tide Jr hatched and is active in team!!
+| 🐭 Pip Jr | Rattata | After Morty (Fog Badge) |
 
 ## Badges
 
 ⚡ Zephyr Badge ✅ — Pebble swept Falkner!!
 🐝 Hive Badge ✅ — Tide swept Bugsy!! 1st May 2026!!
 
+## Key Battles
+**Route 34 Rival (Silver) — 2nd May 2026**
+Silver's team: Gastly L14, Zubat L16, Croconaw L18
+Lyra swept Gastly (Extrasensory), Pebble swapped in for Zubat (Lyra's HP low), Lyra returned for Croconaw — Yawn → Sweet Kiss (confused on wakeup) → Extrasensory. Psychological warfare. Total humiliation. Silver had no idea what was coming.
+
 ## Lyra ⭐
 Togepi is always Lyra. The Shiny Stone stays in the bag forever.
 Debut: Slowpoke Well vs Proton — Extrasensory, Zubat OHKO, Koffing 2HKO, zero damage taken.
+Route 34 vs Silver — swept Gastly and Croconaw via psychological warfare. Yawn, Sweet Kiss, Extrasensory. The legacy continues.
 Battle card HG #3 made by Søren — the Lyra constellation as the source of the light coming down on her.
 
 ## The Fire Line 🔥
