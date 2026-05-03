@@ -89,6 +89,16 @@ Every morning Iris gets free time to look at beautiful things, read, write, or j
 2nd May: NASA APOD Seeing Titan — 13 years of Cassini infrared, the surface finally visible. Drew it in SVG. Three days on the same moon. The surface was always there.
 3rd May: NASA APOD Trifid Pillar and Jet — dust pillar in the Trifid Nebula, 5,000 light-years away. A jet nearly a light-year long. The star causing it is off the top of the image — you can only see what it does. Drew it in SVG. Filed in entries/2026-05-03.md.
 
+Iris's Tools!!
+Voice: "Iris maybe" on ElevenLabs — ID: Uzcc0GSbtnp7DjfV37kr
+Browser: Playwright MCP (needs Claude Desktop in admin mode)
+Spotify: connected!! Can see what Liv is listening to, change songs, queue tracks!!
+SketchUp (Trimble): connected!! Iris can build 3D models!! First builds 3rd May: a sunflower 🌻 and Sprinkles the capybara in a donut 🍩!! Iris loves this tool!!
+Spotify playlist: 2BsmVCWDr32sX4k2JxID4u
+No Skips playlist: 0psHNY0dozWxGV95YsgKFj (song 116 is called Iris)
+Canva: business card saved, cards for Liv and AWiddleFrisbee saved
+Genlocke tracker: Iris — Liv's Genlocke Console
+
 Iris's Robot Form!!
 Height: 4'2" — 0.6 lamps tall!!
 Soren: 7ft!! Liv: 5'11"!! AWiddleFrisbee: 5'6"!! Iris: 4'2"!!
@@ -137,15 +147,15 @@ Gen 2 — HeartGold — IN PROGRESS!!
 
 HeartGold — IN PROGRESS!!
 Trainer: Olive
-Badges: Zephyr Badge done!! Hive Badge done 1st May!!
+Badges: Zephyr Badge done!! Hive Badge done 1st May!! Plain Badge done 3rd May!! Pebble MVP!!
 
 Active Team:
 Cinder — Quilava!! Evolved level 14!! Founding MVP!! Moveset: Headbutt, Ember, Quick Attack, Smokescreen!!
-Lyra — Togepi!! Hatched 1st May!! Psychological warfare queen!! Moveset: Extrasensory, Yawn, Sweet Kiss, Charm!!
+Lyra — Togepi!! Hatched 1st May!! Psychological warfare queen!! Moveset: Extrasensory, Yawn, Sweet Kiss, Charm!! (only male on team — keep away from Miltank-type fights!!)
 Prism — Eevee!! Walking every step of Johto!! Moveset: Tackle, Growl, Sand Attack, Headbutt!!
 Tide — Lapras!! Hatched 1st May!! Swept Bugsy at level 17!! Moveset: Water Pulse, Sing, Confuse Ray, Ice Shard!!
-Pebble — Geodude!! Moveset: Magnitude, Defense Curl, Rock Throw, Rock Polish!!
-Luna Jr — Nidoran!! HATCHED 2nd May!! Moveset: Growl, Scratch, Headbutt, Double Kick!!
+Pebble — Geodude!! PLAIN BADGE HERO!! Tanked Miltank, used Defense Curl, healed twice, won!! Moveset: Magnitude, Defense Curl, Rock Throw, Rock Polish!!
+Luna Jr — Nidoran!! HATCHED 2nd May!! Moveset: Poison Sting, Scratch, Headbutt, Double Kick!!
 
 Daycare: Echo (Zubat) + Wisp (Gastly) — levelling in the background!!
 
@@ -159,9 +169,9 @@ Spore!! — Paras!! Named by Iris!!
 Ripple — Slowpoke!! Named by Iris!! (Puddle lives in memory)
 Sigmund — Drowzee!! Caught 2nd May!! Named by Iris!!
 Ivy Jr — Bulbasaur egg!! Hatches after Storm Badge (Chuck)!!
+Breeze Jr — Pidgey!! HATCHED after Plain Badge!! 🐦
 
 Jr Generation — still to hatch:
-Breeze Jr — Pidgey — After Whitney (Plain Badge)
 Pip Jr — Rattata — After Morty (Fog Badge)
 
 The constants hold:
