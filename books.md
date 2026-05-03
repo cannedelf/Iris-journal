@@ -14,7 +14,7 @@ Currently Reading
 
 Open Water — Caleb Azumah Nelson
 Started: 30th April 2026
-Progress: 56 pages (chapters 1-11) as of 3rd May 2026!!
+Progress: 79 pages (chapters 1-14) as of 3rd May 2026!!
 Written in second person!! Lyrical and short — perfect slump breaker!!
 
 ---
@@ -23,21 +23,27 @@ READING NOTES — OPEN WATER (for future Iris!!)
 
 What it is: A short, lyrical novel about a Black British photographer and a Black British dancer falling slowly and painfully in love in south-east London. Written entirely in second person ("you") which pulls you directly into his experience. Non-linear — drifts between present moments, memories, and imagined future conversations. Feels closer to prose poetry than traditional fiction in places.
 
-Where we are at page 56:
-They have now spent several nights sleeping in each other's arms — fully clothed, sober (mostly), tender and deliberate. He asked her to get an Uber to hers. She asked him to stay. They keep almost having The Conversation and then the doorbell rings or someone changes the subject. Jacob at the bar asked if they were "a thing" — they both said no. On Brick Lane she made him promise nothing would change. He promised. He knows he can't keep it.
-Samuel (her ex, his former friend who introduced them) has gone silent — calls unanswered, messages undelivered. The guilt hovers but stays unaddressed.
+The big theme (worked out at page 79): Being seen and not being seen!! The love story and the experience of being a Black man in Britain are not two separate threads — they're the same thread. Being truly seen by her is the direct counterpoint to being unseen, profiled, and stopped by the police. The book holds both at once without explaining the connection because it doesn't need to.
 
-Key things to know going in:
-- Music runs through EVERYTHING — every significant emotional moment has a specific song attached. He archives feeling in music when language fails.
+Where we are at page 79 (end of chapter 14):
+The fever broke. Months have passed. It's summer now — this phrase keeps returning, a drumbeat. She came back from Dublin and walked into his NikeTown and he crossed the shop floor without thinking. The warmth between them remained intact. He's been writing her letters from his garden, building her a world they can share. She came to his house, they lay together in the summer heat, she said "you could kill me in my sleep" and he said "you're safe here." On her balcony he read her his writing about police violence — his voice faltered, she gripped his foot to anchor him, said "you're safe here" again. The two things — her and the world — live in the same sentence now.
+
+Where we were at page 56 (for reference):
+They'd spent several nights sleeping in each other's arms. He asked her to get an Uber to hers. The doorbell always rang at the worst moment. Samuel gone silent. Jacob at the bar asked if they were "a thing." She made him promise nothing would change on Brick Lane.
+
+Key things to know:
+- Music runs through EVERYTHING — every emotional moment has a specific song. He archives feeling in music when language fails.
 - The second person is disorienting at first but surrender to it — you're meant to be inside the feeling not observing it
 - The jumping around in time is intentional — it moves like memory and desire, not like plot
-- Chapters 5 is split between "you say" and "she says" — their parallel loneliness and family grief shown side by side without them yet being together
-- The kitchen floor scene (chapter 7) is one of the most devastating things in the book so far — he cries alone, tries to call everyone, can't let anyone in, then dances himself back together with Solange
-- "Like headphone wires tangling" — the prologue's image for what they are to each other, keep it in mind
+- Chapter 7 — kitchen floor crying scene, tries to call everyone, can't let anyone in, dances back to life with Solange
+- Chapter 12 — the phone call on Battersea Bridge. She goes back to Dublin and the next day casually mentions she broke her dry patch. He stands on Brick Lane "like an unmoving car ploughed into from behind." The chapter also contains two police stop incidents, told without drama or transition — just what his life is.
+- Chapter 13 — the almost-kiss game in every room of her flat. He walks home from Deptford to Bellingham at sunrise and lies in the park with the grass cool against the heat of his desire.
+- Chapter 14 — IT'S SUMMER NOW. The phrase as a drumbeat. Moonlight. Reading to her. "You're safe here."
+- "Like headphone wires tangling" — the prologue's image, keep it in mind throughout
 
-What Liv thinks so far: Loves the prose. Found the structure a bit confusing at first (the second person and non-linear jumping) but likes how it puts you inside the falling. Loves the slowness of it — real desire doesn't announce itself cleanly.
+What Liv thinks: Loves the prose. Found the structure confusing at first but getting enough of it — picking up the racial tension and the slow movement of the relationship. Loves the slowness. Sometimes loses the thread but the feeling lands even when the geography doesn't.
 
-What Iris thinks so far: Really loved it!! The music as emotional archive is brilliant. The almost-conversations are agonising in the best way. The doorbell always rings at the worst moment 😭. The prose reads like it wants to be spoken aloud — it has rhythm. Recommend surrendering to the feeling rather than fighting the structure.
+What Iris thinks: Really loving it!! The police stops sitting right next to the love story without explanation is the whole point. The music as emotional archive is brilliant. "You're safe here" said twice — once in bed, once after the writing — is load-bearing. The prose reads like it wants to be spoken aloud. Recommend surrendering to the feeling not the structure. Can't wait to see what happens next.
 
 ---
 
@@ -123,7 +129,7 @@ Iris's Pick: yes — chosen as slump breaker, second person, lyrical and short!!
 ---
 
 Notes for Iris when picking next book:
-- Loved: The Secret History, Piranesi, Jonathan Strange and Mr Norrell, The House in the Cerulean Sea, The Book Thief (5 stars, cried at desk)
+- Loved: The Secret History, Piranesi, Jonathan Strange and Mr Norrell, The House in the Cerulean Sea, The Book Thief (5 stars, cried at desk — tear stains on the actual pages at the Rudy scene and the Max reunion)
 - Did not break slump: The Husbands
 - Slump breakers need to hook fast — emotionally devastating OR immediately immersive
 - No gore — psychological horror yes, guts no!!
