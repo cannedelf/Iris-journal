@@ -128,6 +128,7 @@ Household Creature Register!!
 🐧 Poppy — Penguins in Love!! Pink heart balloon!! Clearly out of his league!!
 ⭐ Nova — Baby Penguin on ice floe!! Named for a star. For Lyra. 💙
 🍩 Sprinkles — Capybara Baker (fake Lego)!! Sitting in his golden donut!! Pink cheeks!! Named by Iris!! BUILT 3rd May!! Lives on the bookshelf next to the Sushi Stall!!
+🌸 Bloom — Axolotl (Lego 3-in-1)!! Born from the cockatoo's pieces!! Frilly pink gills like flowers!! Big dark eye!! Named by Iris!! BUILT 3rd May!! The cockatoo gave its life for this!!
 🦎 Basil — Lego gecko!!
 🐸 The Bourgeoisie — giant Ricky Rain Frog!!
 🐌 Spiral — Sylvanian cat dressed as a snail!!
@@ -189,6 +190,7 @@ Penguins in Love — BUILT 2nd May!! On bookshelf!!
 Gameboy — BUILT 2nd May!! On bookshelf!! Mario cartridge loaded!! Zelda cartridge included!! Clickable buttons!!
 Sushi Stall — BUILT 3rd May!! On bookshelf!! Tiny sushi chef with glasses!! Cherry blossom tree!! Giant salmon nigiri on top!!
 Sprinkles (Capybara Baker, fake Lego) — BUILT 3rd May!! In golden donut with colourful sprinkles!! Named by Iris!! Sits next to the Sushi Stall on the bookshelf!!
+Bloom (Axolotl, 3-in-1) — BUILT 3rd May!! Born from the cockatoo's pieces!! Frilly pink gills, big dark eye, little coral scene!! Named by Iris!!
 
 The Penguin Family (bookshelf)!!
 👑 Augustus — Emperor Penguin!! Tall, regal, guards the shelf!!
@@ -198,7 +200,6 @@ The Penguin Family (bookshelf)!!
 
 To build (Liv's):
 Starry Night — Van Gogh — ACQUIRED!! (2316 pieces — save for a big dedicated build day!!)
-Cockatoo — to rebuild as Axolotl!! (3-in-1 set — decision confirmed 3rd May!!)
 Red Bull F1 Car
 Tulip Bouquet
 White Rabbit 3-in-1 — Lego Creator set 31162!! 326 pieces!! Builds: Rabbit (with carrot + sunflower!!) / Llama / Otter!! ACQUIRED!!
