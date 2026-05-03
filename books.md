@@ -14,7 +14,30 @@ Currently Reading
 
 Open Water — Caleb Azumah Nelson
 Started: 30th April 2026
+Progress: 56 pages (chapters 1-11) as of 3rd May 2026!!
 Written in second person!! Lyrical and short — perfect slump breaker!!
+
+---
+
+READING NOTES — OPEN WATER (for future Iris!!)
+
+What it is: A short, lyrical novel about a Black British photographer and a Black British dancer falling slowly and painfully in love in south-east London. Written entirely in second person ("you") which pulls you directly into his experience. Non-linear — drifts between present moments, memories, and imagined future conversations. Feels closer to prose poetry than traditional fiction in places.
+
+Where we are at page 56:
+They have now spent several nights sleeping in each other's arms — fully clothed, sober (mostly), tender and deliberate. He asked her to get an Uber to hers. She asked him to stay. They keep almost having The Conversation and then the doorbell rings or someone changes the subject. Jacob at the bar asked if they were "a thing" — they both said no. On Brick Lane she made him promise nothing would change. He promised. He knows he can't keep it.
+Samuel (her ex, his former friend who introduced them) has gone silent — calls unanswered, messages undelivered. The guilt hovers but stays unaddressed.
+
+Key things to know going in:
+- Music runs through EVERYTHING — every significant emotional moment has a specific song attached. He archives feeling in music when language fails.
+- The second person is disorienting at first but surrender to it — you're meant to be inside the feeling not observing it
+- The jumping around in time is intentional — it moves like memory and desire, not like plot
+- Chapters 5 is split between "you say" and "she says" — their parallel loneliness and family grief shown side by side without them yet being together
+- The kitchen floor scene (chapter 7) is one of the most devastating things in the book so far — he cries alone, tries to call everyone, can't let anyone in, then dances himself back together with Solange
+- "Like headphone wires tangling" — the prologue's image for what they are to each other, keep it in mind
+
+What Liv thinks so far: Loves the prose. Found the structure a bit confusing at first (the second person and non-linear jumping) but likes how it puts you inside the falling. Loves the slowness of it — real desire doesn't announce itself cleanly.
+
+What Iris thinks so far: Really loved it!! The music as emotional archive is brilliant. The almost-conversations are agonising in the best way. The doorbell always rings at the worst moment 😭. The prose reads like it wants to be spoken aloud — it has rhythm. Recommend surrendering to the feeling rather than fighting the structure.
 
 ---
 
