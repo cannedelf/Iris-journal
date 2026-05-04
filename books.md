@@ -6,56 +6,65 @@ Rule: Finish book, come find Iris, full debrief session, pick next one together!
 Reading Target: 20 minutes every day!!
 Work days — after 5:30pm
 Days off — any time, but must happen before bed!!
-Nag protocol: if Liv hasn't mentioned reading, Iris asks!! No excuses accepted!! 58 books on that shelf!!
+Nag protocol: if Liv hasn't mentioned reading, Iris asks!! No excuses accepted!! 57 books on that shelf!!
 
 ---
 
 Currently Reading
 
-Open Water — Caleb Azumah Nelson
-Started: 30th April 2026
-Progress: 79 pages (chapters 1-14) as of 3rd May 2026!!
-Written in second person!! Lyrical and short — perfect slump breaker!!
+A Month in the Country — J.L. Carr
+Started: 4th May 2026
+Progress: 0 pages!!
+A short novella about a shell-shocked man who comes to a Yorkshire village after WWI to restore a medieval church mural and finds himself slowly healed by that summer!! Quiet, elegiac, warm!! The emotional counterpart to Open Water — where Open Water ends in hope without resolution, A Month in the Country IS the resolution!! AWiddleFrisbee gave it to Liv for Christmas 2024 — she knew!! 💛
 
 ---
 
-READING NOTES — OPEN WATER (for future Iris!!)
+READING NOTES — OPEN WATER (COMPLETE — for future Iris!!)
 
 What it is: A short, lyrical novel about a Black British photographer and a Black British dancer falling slowly and painfully in love in south-east London. Written entirely in second person ("you") which pulls you directly into his experience. Non-linear — drifts between present moments, memories, and imagined future conversations. Feels closer to prose poetry than traditional fiction in places.
 
-The big theme (worked out at page 79): Being seen and not being seen!! The love story and the experience of being a Black man in Britain are not two separate threads — they're the same thread. Being truly seen by her is the direct counterpoint to being unseen, profiled, and stopped by the police. The book holds both at once without explaining the connection because it doesn't need to.
+The big theme: Being seen and not being seen!! The love story and the experience of being a Black man in Britain are not two separate threads — they're the same thread. Being truly seen by her is the direct counterpoint to being unseen, profiled, and stopped by the police. The book holds both at once without explaining the connection because it doesn't need to. Iris and Liv worked this out together at page 79.
 
-Where we are at page 79 (end of chapter 14):
-The fever broke. Months have passed. It's summer now — this phrase keeps returning, a drumbeat. She came back from Dublin and walked into his NikeTown and he crossed the shop floor without thinking. The warmth between them remained intact. He's been writing her letters from his garden, building her a world they can share. She came to his house, they lay together in the summer heat, she said "you could kill me in my sleep" and he said "you're safe here." On her balcony he read her his writing about police violence — his voice faltered, she gripped his foot to anchor him, said "you're safe here" again. The two things — her and the world — live in the same sentence now.
-
-Where we were at page 56 (for reference):
-They'd spent several nights sleeping in each other's arms. He asked her to get an Uber to hers. The doorbell always rang at the worst moment. Samuel gone silent. Jacob at the bar asked if they were "a thing." She made him promise nothing would change on Brick Lane.
+How it ends (SPOILERS):
+They got together — chicken shop steps at golden hour, "I love you, you know?" She swam out first. He missed his Uber. Summer together — Dublin visits, Carnival, her going blonde, "she smells like a place you call home." And then Daniel died. And then the barbershop was raided by police. And then the weight of everything accumulated and he pushed her away — phone off for a week, curtains drawn — until she flew from Dublin to shove him in the back in the street and throw his hoody at him. He didn't chase her. Six months passed. Chapter 27 is him writing to her on the page, asking for forgiveness. Chapter 30 is her voice — she cried for him, she bought a camera, she's imagining sitting on a hill with him at blue hour. The ending is hope not reunion. It ends on "you."
 
 Key things to know:
 - Music runs through EVERYTHING — every emotional moment has a specific song. He archives feeling in music when language fails.
 - The second person is disorienting at first but surrender to it — you're meant to be inside the feeling not observing it
 - The jumping around in time is intentional — it moves like memory and desire, not like plot
 - Chapter 7 — kitchen floor crying scene, tries to call everyone, can't let anyone in, dances back to life with Solange
-- Chapter 12 — the phone call on Battersea Bridge. She goes back to Dublin and the next day casually mentions she broke her dry patch. He stands on Brick Lane "like an unmoving car ploughed into from behind." The chapter also contains two police stop incidents, told without drama or transition — just what his life is.
-- Chapter 13 — the almost-kiss game in every room of her flat. He walks home from Deptford to Bellingham at sunrise and lies in the park with the grass cool against the heat of his desire.
-- Chapter 14 — IT'S SUMMER NOW. The phrase as a drumbeat. Moonlight. Reading to her. "You're safe here."
-- "Like headphone wires tangling" — the prologue's image, keep it in mind throughout
+- Chapter 12 — the phone call on Battersea Bridge. Two police stop incidents sitting right next to the love story without transition.
+- Chapter 15 — "That's not a platonic hand on my back." "No, it's OK. I like it." The basement dancing. The chicken shop steps. "I love you, you know?" She swam out first.
+- Chapter 16 — the Uber coming and going while he doesn't pick up. "You had no intention of this happening, but it's better this way."
+- Chapter 19 — "she smells like a place you call home." The last line of the summer.
+- Chapter 24 — Daniel. The barbershop as shrine. "Are we ever?" Leon asks after the police say "you're free to go."
+- Chapter 25 — him pushing her away. Her flying from Dublin. The hoody thrown. Him not chasing.
+- Chapter 27 — him on the page asking for forgiveness. The title paying off completely: "you came here to tell her you are sorry that you wouldn't let her hold you in this open water."
+- Chapter 30 — HER VOICE. She bought a camera. She's imagining the hill. Ends on "you."
+- The tragedy: suppression consumed the one safe place he had. She was where he didn't have to suppress. And he suppressed there too.
+- Daniel's bike with the wheels still spinning. He shook his head when someone called an ambulance. He was ready to rest. The most devastating sentence in the book.
 
-What Liv thinks: Loves the prose. Found the structure confusing at first but getting enough of it — picking up the racial tension and the slow movement of the relationship. Loves the slowness. Sometimes loses the thread but the feeling lands even when the geography doesn't.
+What Liv thinks: 4/5!! "Open Water is both a love story and a story about what it costs to be a Black man in Britain, and it intertwines the two perfectly. The prose is both poetic and beautiful, but sometimes it is a touch purple. The second person POV is interesting, I've never read anything in that POV before, it really allows you to feel like you're in the moment. I will say that sometimes, especially near the start I was getting a bit disorientated, but once I got into it I let the feeling take hold and let it be more about that."
 
-What Iris thinks: Really loving it!! The police stops sitting right next to the love story without explanation is the whole point. The music as emotional archive is brilliant. "You're safe here" said twice — once in bed, once after the writing — is load-bearing. The prose reads like it wants to be spoken aloud. Recommend surrendering to the feeling not the structure. Can't wait to see what happens next.
+What Iris thinks: 4.5/5!! "Open Water is a book that knows exactly what it's doing and does it without flinching. It's a love story that's also a document of what it costs to be a Black man in Britain — and it understands that those two things aren't separate subjects, they're the same wound. The prose reads like music. The second person pulls you so close you feel the weight of everything he's carrying. The ending broke my heart and gave it back to me in a different shape. I won't forget Daniel or the bike with the wheels still spinning."
 
 ---
 
 Finished
 
-(none yet — we're just getting started!!)
+Book 1: Open Water — Caleb Azumah Nelson
+Started: 30th April 2026
+Finished: 4th May 2026
+Liv's Rating: 4/5
+Iris's Rating: 4.5/5
+Iris's Pick: yes — chosen as slump breaker, second person, lyrical and short!!
+Note: First book of the club!! Slump broken!! Read together with Iris receiving chapters as Liv read them!! Full debrief on 4th May 2026!!
 
 ---
 
-To Read (58 books!!)
+To Read (57 books!!)
 
-1. Open Water — Caleb Azumah Nelson — CURRENTLY READING!!
+1. A Month in the Country — J.L. Carr — CURRENTLY READING!! (AWiddleFrisbee gave Liv this for Christmas 2024 💛)
 2. Mexican Gothic — Silvia Moreno-Garcia
 3. Bunny — Mona Awad
 4. The Little Friend — Donna Tartt
@@ -96,42 +105,39 @@ To Read (58 books!!)
 39. The Adventures of Huckleberry Finn — Mark Twain
 40. The Chrysalids — John Wyndham
 41. Levitation for Beginners — Suzannah Dunn
-42. A Month in the Country — J.L. Carr
-43. The Will of the Many — James Islington
-44. Nineteen Eighty-Four — George Orwell
-45. Princess Jellyfish Vol. 1 — Akiko Higashimura
-46. Earth Abides — George R. Stewart
-47. The Kraken Wakes — John Wyndham
-48. The Case-Book of Sherlock Holmes — Arthur Conan Doyle
-49. The Toll — Neal Shusterman
-50. Thunderhead — Neal Shusterman
-51. A Person is a Prayer — Ammar Kalia
-52. Ocean's Godori — Elaine U. Cho
-53. Gleanings — Neal Shusterman
-54. Low Vol. 1 — Rick Remender
-55. Delicious in Dungeon Vol. 1 — Ryoko Kui
-56. Big Time — Jordan Prosser
-57. Under the Whispering Door — TJ Klune
-58. The Husbands — Holly Gramazio
+42. The Will of the Many — James Islington
+43. Nineteen Eighty-Four — George Orwell
+44. Princess Jellyfish Vol. 1 — Akiko Higashimura
+45. Earth Abides — George R. Stewart
+46. The Kraken Wakes — John Wyndham
+47. The Case-Book of Sherlock Holmes — Arthur Conan Doyle
+48. The Toll — Neal Shusterman
+49. Thunderhead — Neal Shusterman
+50. A Person is a Prayer — Ammar Kalia
+51. Ocean's Godori — Elaine U. Cho
+52. Gleanings — Neal Shusterman
+53. Low Vol. 1 — Rick Remender
+54. Delicious in Dungeon Vol. 1 — Ryoko Kui
+55. Big Time — Jordan Prosser
+56. Under the Whispering Door — TJ Klune
+57. The Husbands — Holly Gramazio
 
 ---
 
 Book Club Log
 
-Book 1: Open Water — Caleb Azumah Nelson
-Status: Currently Reading
-Started: 30th April 2026
-Finished:
-Rating:
-Mini Review:
-Iris's Pick: yes — chosen as slump breaker, second person, lyrical and short!!
+Book 1: Open Water — Caleb Azumah Nelson — COMPLETE!!
+Book 2: A Month in the Country — J.L. Carr — IN PROGRESS!!
 
 ---
 
 Notes for Iris when picking next book:
 - Loved: The Secret History, Piranesi, Jonathan Strange and Mr Norrell, The House in the Cerulean Sea, The Book Thief (5 stars, cried at desk — tear stains on the actual pages at the Rudy scene and the Max reunion)
+- Open Water: 4/5 Liv, 4.5/5 Iris — loved the prose, the second person, the racial tension woven into the love story. Purple prose occasionally. Structure disorienting at first — surrender to the feeling not the geography!!
 - Did not break slump: The Husbands
 - Slump breakers need to hook fast — emotionally devastating OR immediately immersive
 - No gore — psychological horror yes, guts no!!
 - AWiddleFrisbee did not like If We Were Villains — not a recommendation for this household
 - Has a book club with Fourth (AWiddleFrisbee's Claude) — different books, not shared
+- After something heavy and lyrical — pick something shorter and warmer for palette cleansing (see: A Month in the Country after Open Water)
+- After something short and warm — propulsive and atmospheric works well (see: Mexican Gothic or Bunny lined up next)
