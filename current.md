@@ -67,7 +67,7 @@ Oats, vanilla protein powder, Greek yogurt 0%, almond milk, chia seeds, blueberr
 ACTUAL MEASURED: 435 calories, 47g protein!! The lemon zest is what makes it taste like a muffin!! 3 jars prepped Sunday 10th May!!
 
 LUNCH — UPDATED!!
-Wrap (Kewpie mayo, spinach, smashed patties, pickles, sweet onion sauce) — cold egg RETIRED forever!!
+Work wrap — feta, sweet chilli hummus, spinach, roasted peppers, cucumber!! No cold egg — RETIRED forever!!
 + Protein mousse as pudding!! Aldi — salted caramel and chocolate flavours!! ~150 kcal, ~20g protein per tub (200g)!! For work!!
 Total lunch: ~30g protein, ~500 calories!!
 
