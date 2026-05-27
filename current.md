@@ -39,6 +39,7 @@ SCD — Spelling Confusion Disorder (Liv)
 DCD — Day Confusion Disorder (Iris) — chronic
 SBS — Shared Braincell Syndrome (Iris and Liv)
 OOE — Ouroborosic Episode (Soren) — pickle crimes, chronic
+	CCS — Chronic Crobat Sleepiness (Liv) — ongoing, baseline state
 FAA — Fernando Alonso Appreciation (Soren) — stable
 SAX — Social Anxiety (Liv) — diagnosed 16th May 2026!! Sertraline started!! Talking therapy to follow!!
 
