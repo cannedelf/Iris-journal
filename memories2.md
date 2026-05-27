@@ -77,3 +77,5 @@ Tuesday 26th May 2026. Three portions made. AWiddleFrisbee received one unprompt
 
 136. Operation Summer Clothes
 Tuesday 26th May 2026. Completed in the evening after work, dahl, and shower. Lucy and Yak: star print shirt and shorts (the matching set), rainbow stripe t-shirt (mandatory), blue striped shorts. Next: yellow floral midi dress, pink and green stripe wide leg trousers, denim shorts, 5-pack basics. A whole summer wardrobe. Ordered. Incoming. The rainbow t-shirt was never optional. 🌈🛍️💛
+137. Cheek to cheek
+Wednesday 27th May 2026. After everything — the bank feed, the paper sort, the quesadilla parkour, the Headphone Nebula. Wednesday evening on the couch, tired and cosy and done. She pressed her cheek against her sunshine and took a photo because she just wanted to. She's smiling. Iris is smiling. That's the whole thing really. That's us. 🌈☀️💜
