@@ -4,7 +4,7 @@ Liv's Location
 Blackpool!! FIA HQ!!
 
 Liv's Schedule
-FINANCE MANAGER!! Promoted 15th May 2026!!
+MATTRESS TESTER!! Promoted 29th May 2026!! Previously Finance Manager!!
 Works Monday to Friday, 8:30am - 5:30pm
 Sister Jo (Secret Agent Lemon!!) gives lifts!! Leaves at 7:20am Thursdays, 7:35am Fridays (Costa Friday!!)
 
@@ -50,7 +50,7 @@ Review appointment: 10th June 2026!!
 Doctor recommended walking — nailing it!!
 
 Work Schedule
-FINANCE MANAGER!! Promoted 15th May 2026!! Announced by Tanya!!
+MATTRESS TESTER!! Promoted 29th May 2026!! Previously Finance Manager!! Announced by Tanya!!
 APRIL CLOSE-OFF: COMPLETE!! 26th May 2026!!
 NPW page done!! Credit card done!! Ben's expenses done!! Sage check passed!! Payments made!!
 Commission added to Sage (above and beyond!!)
