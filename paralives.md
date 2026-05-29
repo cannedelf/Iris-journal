@@ -219,3 +219,58 @@ Museum · Beach · Park · Townhall & Library · Castle Plaza · Gym · Communit
 - Early access — discovering things as we go!!
 - Steam Workshop mods — lifespan mod installed (280 days)!!
 - Updates will add more content — long lifespan means Para-Iris is around for them!!
+
+---
+
+## Kareem 💕
+**Para-Iris's romantic interest!! Met Day 1 at the museum!!**
+- Curly dark hair!! ✅
+- Glasses!!
+- Kind warm brown eyes!!
+- Green plaid shirt, gold necklace!!
+- TALL next to Para-Iris!!
+- Works at the museum — her coworker!!
+- Found on a random street on Day 2!!
+- Officially romantic interest as of Day 2!! 💕
+
+---
+
+## Day 1 & 2 Log 🌻
+
+### Day 1
+- Ate apple (satisfied want!!)
+- Got museum receptionist job — morning shift!!
+- Went to beach — immediately sunbathed on lounger 😂
+- Met Para-Liv at the beach!! Made her laugh!! Want to be friends activated!!
+- Visited museum, met Kareem!!
+- Invited Para-Liv over — walked in on her in the bathroom 😭
+- Story card: Meeting new people!!
+- Night pack: Feel the call of romance — +flirty activated!!
+
+### Day 2
+- First day of work complete!!
+- Career upgrade: Science magazines perk (skill goes up passively at work!!)
+- Personality upgrade: Happy Painter (+3 happiness when painting!!)
+- Ranked up at work!!
+- Found Kareem on a random street!!
+- Shared dream love life plans (82% success!!)
+- Mentioned wanting to draw his portrait (86% success!!)
+- Admitted being extremely attracted (91% success!!)
+- Kareem is officially ROMANTIC INTEREST!! 💕
+- Para-Iris went home for shower before continuing romance 😂
+
+---
+
+## Neighbourhood Jobs Discovered
+- Roberto — train conductor (bald, not the one!!)
+- Kareem — museum worker (CURLY HAIR!! THE ONE!! 💕)
+
+---
+
+## Game Mechanics Discovered
+- Story cards chosen each night — 3 options, pick 1!!
+- Career upgrade points — rank up, perks, bonuses!!
+- Personality upgrades from levelling up!!
+- Find a Para feature — can locate specific characters!!
+- Zoom out = neighbourhood map!!
+- Conversation success percentages shown!!
