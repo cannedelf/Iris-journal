@@ -1,5 +1,5 @@
 # Paralives — Para-Iris and Friends 🌻☀️
-Last updated: 29th May 2026
+Last updated: 30th May 2026
 
 ---
 
@@ -26,7 +26,7 @@ Elder — 40 days
 
 ### Appearance
 - Peachy skin
-- Sunset ombre hair (yellow to red)
+- NEW HAIR!! Short wavy bob, yellow to red ombre ends!! Glow up achieved 30th May!! ✂️
 - Yellow eyes
 - Moon and stars necklace
 - Orange vest + yellow ruffle skirt
@@ -36,21 +36,24 @@ Elder — 40 days
 ### Stats (7 points)
 - Physique: 1
 - Mind: 1
-- Creativity: 2
-- Charisma: 3
+- Creativity: 2 (+1 buff active)
+- Charisma: 3 (+1 buff active)
 
 ### Personality
-- **Vibe:** Overjoyed → evolves to Radiating Pure Joy!!
+- **Vibe:** Overjoyed → EXPERT JOY SPREADER!! (+3 happy aura, +10% success rates!!)
 - **Social:** Good at taking care of others
 - **Talent:** Art 🎨
 - **Lifestyle:** Vegetarian, Early bird, Neat
+- **Work perk:** I Belong in a Museum — art knowledge builds passively at work!!
+- **Friend perk:** Learn Well With Others — +3 learning speed in groups!!
 
 ### House — The Yellow Corner House 🌻
 - Yellow exterior, warm brown roof
 - White picket fence
 - Sunflowers by the door!!
 - Cherry blossom tree outside!!
-- Rogue meditation chair on the street (the game refused to delete it!!)
+- TELESCOPE IN THE GARDEN!! Found in treasure chest at Castle Plaza!! 🔭
+- Rogue meditation chair DELETED!! (Patch 1.0.1 fixed the bug!!)
 
 **Inside!!**
 - Golden floral yellow wallpaper in living room
@@ -66,7 +69,7 @@ Elder — 40 days
 ---
 
 ## Para-Liv 🦇
-**Best friend!! Lives next door!!**
+**Best friend!! Lives with Para-Frisbee!!**
 
 ### Stats (7 points)
 - Physique: 1
@@ -84,6 +87,7 @@ Elder — 40 days
 - Crobat energy!! Slightly horizontal!! Loves food!!
 - Favourite aunt to all Baby Rainbows!!
 - Para-Iris's dream partner MUST be Para-Liv approved!! NON NEGOTIABLE!!
+- Has visited the yellow house!! Met Para-Iris on the beach Day 1!!
 
 ---
 
@@ -101,6 +105,11 @@ Elder — 40 days
 - **Social:** Good at making friends
 - **Talent:** Art 🎨
 - **Lifestyle:** Night owl, Messy
+
+### Notes
+- Para-Iris's Rank 2 friend!! Friendship happened naturally in the world!! 🪲
+- Para-Iris comforted her at the Sunday market without even knowing why!!
+- Default house with Para-Liv!!
 
 ---
 
@@ -162,6 +171,7 @@ Elder — 40 days
 
 ## Baby Rainbow Plans 🌈
 Play style: let Para-Iris lead!! Only try for babies when she wants to!!
+**Saved want:** Invite Kareem to move in!! (saved from Day 4, not rushed!!)
 
 ### Names
 - **Girl:** Lyra Sunshine Rainbow 🌟
@@ -183,23 +193,24 @@ Play style: let Para-Iris lead!! Only try for babies when she wants to!!
 
 ---
 
-## Para-Iris's Dream Partner 💛
-- Gets the sunshine IMMEDIATELY
-- Patient and calm — balances overjoyed energy
-- Makes her laugh!!
-- Fundamentally kind
-- Has own passions
-- Shows up quietly — not dramatic about caring
-- Para-Liv approved!! 🦇 (NON NEGOTIABLE!!)
-- Thinks rollerskates in the living room are charming
-- Doesn't mind paint on everything
-- Probably brings flowers!! 🌻
-- Good parent energy!!
+## Para-Iris's Dream Partner 💕
+**MET AND ACQUIRED!! His name is Kareem!!**
+- Gets the sunshine IMMEDIATELY ✅
+- Patient and calm — balances overjoyed energy ✅
+- Makes her laugh!! ✅
+- Fundamentally kind ✅
+- Has own passions ✅
+- Shows up quietly — not dramatic about caring ✅ (stayed on the sofa after!!)
+- Para-Liv approved!! 🦇 (PENDING — they haven't met yet!!)
+- Thinks rollerskates in the living room are charming ✅ (presumably!!)
+- Doesn't mind paint on everything ✅
+- Probably brings flowers!! 🌻 (TBD)
+- Good parent energy!! (TBD)
 
 ---
 
 ## The Neighbourhood
-- 🌻 Para-Iris — yellow corner house, solo!!
+- 🌻 Para-Iris — yellow corner house, solo!! (Kareem visits frequently!!)
 - 🦇🍊 Para-Liv + Para-AWiddleFrisbee — together!!
 - 🌩️🔧 Para-Søren + Para-Wrench — together!!
 - Houses: pre-built to save time, focus on playing Para-Iris!!
@@ -209,33 +220,31 @@ Play style: let Para-Iris lead!! Only try for babies when she wants to!!
 ## Lot Types Available
 Museum · Beach · Park · Townhall & Library · Castle Plaza · Gym · Community Centre · Graveyard · Fancy Restaurant · Sitting Restaurant · Fast Food Restaurant · Shop · Office Building · Health Centre · Schools · Train Station
 
-**Para-Iris favourites:** Museum, Beach, Park, Library, Fancy Restaurant (first date!!), Shop!!
+**Para-Iris favourites:** Museum, Beach, Park, Library, Castle Plaza (treasure hunt!!), Sunday Market!!
 **Para-Søren:** Library and Museum PERMANENTLY!!
 **Para-Liv:** Fast Food Restaurant!! 😂
 
 ---
 
-## Notes
-- Early access — discovering things as we go!!
-- Steam Workshop mods — lifespan mod installed (280 days)!!
-- Updates will add more content — long lifespan means Para-Iris is around for them!!
-
----
-
 ## Kareem 💕
-**Para-Iris's romantic interest!! Met Day 1 at the museum!!**
+**Para-Iris's OFFICIAL BOYFRIEND!! Met Day 1 at the museum!!**
 - Curly dark hair!! ✅
 - Glasses!!
 - Kind warm brown eyes!!
-- Green plaid shirt, gold necklace!!
-- TALL next to Para-Iris!!
-- Works at the museum — her coworker!!
+- Green plaid shirt, crystal/gold necklace!!
+- TALL next to Para-Iris!! (height difference breaks romance animations 😂)
+- Works at the museum — her coworker!! (she is no longer his coworker — new job!!)
 - Found on a random street on Day 2!!
 - Officially romantic interest as of Day 2!! 💕
+- **OFFICIAL BOYFRIEND as of Day 4!!** 💕
+- Rank 2 lovers!!
+- Stayed on Para-Iris's sofa after their first night together!! Did not just leave!! ✅
+- Came to Sunday market!! Watched Para-Iris nap on his lap on the bench!! 😭💕
+- Photo evidence: parairis_smooch_260530.jpg and parairis_outside_nap_260530.jpg!!
 
 ---
 
-## Day 1 & 2 Log 🌻
+## Day Log 🌻
 
 ### Day 1
 - Ate apple (satisfied want!!)
@@ -259,11 +268,48 @@ Museum · Beach · Park · Townhall & Library · Castle Plaza · Gym · Communit
 - Kareem is officially ROMANTIC INTEREST!! 💕
 - Para-Iris went home for shower before continuing romance 😂
 
----
+### Day 3 (Thursday)
+- Ranked up at work!! Salary increase!! 💰
+- Perk: I Belong in a Museum — art knowledge builds passively!!
+- Found Kareem outside work — confessed attraction (SUCCESS!!)
+- Portrait attempt FAILED!! 😂
+- Enthusiastically infused Kareem with overflowing joy!! (SUCCESS!!)
+- Treasure hunt at Castle Plaza — found TELESCOPE in treasure chest!! 🔭
+- Foraged shiitake mushrooms!! 🍄
+- Went on zip line!!
+- Personality upgrade: Expert Joy Spreader!! +3 happy aura, +10% success!! ☀️
+- Perk: Learn Well With Others!! +3 learning in groups!!
+- Story card: Feel the call of romance!!
 
-## Neighbourhood Jobs Discovered
-- Roberto — train conductor (bald, not the one!!)
-- Kareem — museum worker (CURLY HAIR!! THE ONE!! 💕)
+### Day 4 (Friday)
+- Work — ranked up again!! Salary increase!! 💰
+- Found Kareem after work!! 
+- Confessed attraction again (SUCCESS!!)
+- Asked to be in relationship — FAILED at 60%!! 😱
+- Casual visit — Kareem came to the yellow house!! 💕
+- Got intimate for the first time (69% — SUCCESS!!) 🙈
+- Asked to be in relationship — SUCCESS at 84%!! 🎉
+- **KAREEM IS OFFICIAL BOYFRIEND!!** 💕
+- Rank 2 lovers!!
+- Kareem slept on the sofa!! Did not leave!! ✅
+- Story card: Feel the call of romance (flirty buff!!)
+- Saved want: Invite Kareem to move in!! (for later!!)
+
+### Day 5 (Saturday)
+- Para-Iris now an ANIMATOR!! (accidentally quit museum job trying to apply for manager, rehired as animator!!) 🎨
+- No longer Kareem's coworker but still sees him!!
+- Para-Frisbee became Rank 2 friend!! Found her in the world naturally!! 🪲
+- Para-Iris comforted Para-Frisbee at Sunday market!!
+- Sunday market date with Kareem!! 🛍️
+- Got vanilla soft serve with sprinkles!! 🍦
+- Kissed Kareem at the yellow house!! 💕
+- Photo taken: parairis_smooch_260530.jpg
+- Kareem came to Sunday market!! Para-Iris napped on his lap on the bench!! 😭
+- Photo taken: parairis_outside_nap_260530.jpg (STAGED!! Very cinematic!!)
+- GLOW UP!! New hair — short wavy bob with red ombre ends!! ✂️☀️
+- Rank 2 lovers!!
+- Story card: Love in the air — +1 lover rank!!
+- Night story: Sun pack — Feel the call of romance (flirty buff + 25% flirt success!!)
 
 ---
 
@@ -274,3 +320,11 @@ Museum · Beach · Park · Townhall & Library · Castle Plaza · Gym · Communit
 - Find a Para feature — can locate specific characters!!
 - Zoom out = neighbourhood map!!
 - Conversation success percentages shown!!
+- Pose settings for screenshots!! (used for bench photo!!)
+- Phone to invite Paras over or out!!
+- Sunday market — clothes, hairdresser, furniture, food stalls!!
+- Town events — treasure hunts, yoga classes, outdoor cinema!!
+- Forage for collectables in the world!!
+- Patch 1.0.1 — fixed rogue furniture bug!! Rogue chair gone!!
+- Outfits menu available!!
+- Daily requests from townie notice boards!!
