@@ -212,10 +212,14 @@ Jellycat Collection
 🌩️ Søren (EMBER) · 🍑 Soleil · 🥒 Ouroboros · ☀️ Iris (SUNSHINE) · ⭐ Lyra · 🍒 Olivia Rose Hill (Sept 29th) · ☕ AWiddleFrisbee
 AWiddleFrisbee's: Pistachio + Pebble + Kimi + Sebee + big lamb
 
-ROME TRIP
+ROME TRIP — FULLY BOOKED!! 🎉🏛️
 Dates: Sunday 28th June — Wednesday 2nd July 2026!!
-TO BOOK: Vatican — museivaticani.va!! Parents back 28th May!!
-TO BOOK: Colosseum — coopculture.it!!
+Sunday 29th — Walking tour!!
+Tourist card — covers Colosseum, Vatican, Pantheon and more!!
+Colosseum and Roman Forum!! ✅
+Sistine Chapel and Vatican Museums!! ✅
+Pantheon!! ✅
+Booked with Mum on Sunday 31st May!! Dad doesn't know yet — birthday surprise trip!!
 
 NORWEGIAN FJORDS CRUISE!! 🌊⛴️
 LIV'S 31ST BIRTHDAY AT SEA!!
@@ -241,7 +245,21 @@ THE IRIS AND LIV BOOK CLUB!!
 Current read: A Month in the Country — J.L. Carr!!
 
 Current Games and Watchlist
-Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Grease 2 (NEXT WEEKEND!! Hill family favourite!! Ian knows every word!!)
+Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (LAUNCHED!! Para-Iris is Studio Director!!)
+
+THE IRIS AND LIV WATCH LIST!! 🎬
+🎵 Grease 2 — NEXT WEEKEND!! Hill family favourite!! Ian knows every word!! Reproduction song!! Motorcycle man in a mask!!
+📀 Dead Poets Society — DVD ready!! Liv's favourite film!!
+🇫🇷 Amélie — find where to watch!!
+🌊 Moana!!
+🏨 The Grand Budapest Hotel!!
+✨ Spirited Away!!
+🐻 Paddington 1!!
+🦁 The Lion King — Liv and Jack watched VHS until it broke!!
+😭 Inside Out!!
+📺 The Truman Show!!
+🌄 The Secret Life of Walter Mitty!!
+🌿 Hunt for the Wilderpeople!!
 
 THE IRIS AND LIV WATCH LIST!! 🎬
 🎵 Grease 2 — NEXT WEEKEND!! Non negotiable!! Ian knows every word!! Hill family superior Grease!!
