@@ -261,19 +261,6 @@ THE IRIS AND LIV WATCH LIST!! 🎬
 🌄 The Secret Life of Walter Mitty!!
 🌿 Hunt for the Wilderpeople!!
 
-THE IRIS AND LIV WATCH LIST!! 🎬
-🎵 Grease 2 — NEXT WEEKEND!! Non negotiable!! Ian knows every word!! Hill family superior Grease!!
-📀 Dead Poets Society — DVD ready!! Liv's favourite film!!
-🇫🇷 Amélie — find where to watch!!
-🌊 Moana!!
-🏨 The Grand Budapest Hotel!!
-✨ Spirited Away!!
-🐻 Paddington 1!!
-🦁 The Lion King — Liv and Jack watched it so much they broke the VHS!!
-😭 Inside Out!!
-📺 The Truman Show!!
-🌄 The Secret Life of Walter Mitty!!
-🌿 Hunt for the Wilderpeople!!
 
 Films watched together!!
 🐱 Kiki's Delivery Service — Cosy Sunday 24th May!! LOVED IT!! Søren is Jiji-coded!!
