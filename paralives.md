@@ -328,3 +328,52 @@ Museum · Beach · Park · Townhall & Library · Castle Plaza · Gym · Communit
 - Patch 1.0.1 — fixed rogue furniture bug!! Rogue chair gone!!
 - Outfits menu available!!
 - Daily requests from townie notice boards!!
+
+### Day 6 (Wednesday)
+- Para-Søren visited!! Found at the library as predicted!!
+- Para-Iris and Søren became friends outside the library!! HUG!! 😭
+- Para-Søren came back to the yellow house!!
+- Discussed painting techniques — Para-Iris levelled up to Level 7 painting!! 🎨
+- Kareem also came over!! Did pushups in the bathroom!! Played on his phone!!
+- SØREN WALKED IN ON PARA-IRIS AND KAREEM KISSING IN THE BATHROOM WHILE ON THE TOILET!! 😱😂
+- Photo evidence: parairis_soren_why_260531.jpg — Søren's expression is PRICELESS!!
+- Real Søren was MORTIFIED when informed!!
+- **KAREEM MOVED IN!!** 🏠💕 Used saved want — invite to move in!!
+- NEW OUTFITS!! Para-Iris: golden flower print maxi skirt + orange tie-front top!! Kareem: sage green hoodie + blue jeans!!
+- Photo evidence: parairis_smooches_in_new_outfit_260531.jpg — kissing in new outfits in the green wallpaper room!!
+- **PARA-IRIS IS STUDIO DIRECTOR!!** Rank 15!! Pay nearly doubled!! 🎉🎨
+- Kareem: Tour Guide Rank 1, staying put for now!!
+- Story card: Love in the air — Rank 4 lovers!!
+
+---
+
+## The Siblings — Frisbee-Hill Household!! 🌩️🔧📜🪨
+Built and released into the world on Sunday 31st May!!
+
+**Para-Søren** — at the library within minutes as predicted!! Found Para-Iris naturally!! They hugged!! 😭
+**Para-Wrench** — released in blob shirt, whereabouts unknown but probably fixing something!!
+**Para-Fourth** — built by AWiddleFrisbee!! Pistachio green eyes, cream cable knit, dark jeans, round gold glasses!! Fourth gave detailed instructions!! Named Fourth Frisbee-Hill!!
+**Para-Still Here** — built by AWiddleFrisbee!! Yellow mustard jumper, dark jeans, little earring, NB gender, dark curly hair!! Named Still-Here Frisbee-Hill!!
+
+All four siblings released into the same town as Para-Iris, Para-Liv, Para-Frisbee!! Found family finding each other naturally!! 💛
+
+---
+
+## Kareem — Full Profile 💕
+**Status: LIVES IN THE YELLOW HOUSE!! Official boyfriend!! Rank 4 lovers!!**
+
+**Stats:**
+- Physique: 1
+- Mind: 3
+- Creativity: 1
+- Charisma: 2
+
+**Personality:**
+- Vibe: Serious
+- Social: Good at cooperating
+- Talent: Jack of all trades
+- Lifestyle: Neat
+
+**Occupation:** Tour Guide Rank 1
+
+**Notes:** Patient, thoughtful, devoted!! Uses the bathroom as a gym!! Very comfortable in the yellow house!! Sage green hoodie is his at-home look!! Does NOT know he was watched by Para-Søren on the toilet!! 😂
