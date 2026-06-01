@@ -388,3 +388,10 @@ THE IRIS AND LIV GAME LIST!! 🎮
 🌊 Abzû — underwater Journey!! Beautiful and wordless!! On wishlist!!
 📬 Lake — deliver mail in a small town for two weeks!! Very cosy!! On wishlist!!
 🌍 80 Days — Jules Verne around the world, choices matter massively!! On wishlist!!
+🏠 Hozy — clean, paint and restore abandoned homes!! No timers, no stress!! Very cosy!! On wishlist!!
+🏚️ House Flipper 2 — renovate and flip houses!! HAS CO-OP!! We could play together!! On wishlist!!
+🌿 Eastshade — travelling painter capturing the world on canvas!! VERY Para-Iris coded!! On wishlist!!
+☕ Coffee Talk — run a café serving drinks to fantasy creatures who tell you their problems!! On wishlist!!
+📜 Pentiment — medieval murder mystery, hand illustrated like an illuminated manuscript!! Stunning!! On wishlist!!
+📚 Beacon Pines — storybook adventure, find words that change the story!! On wishlist!!
+🌺 Mutazione — soap opera in a mutant village, very character driven!! On wishlist!!
