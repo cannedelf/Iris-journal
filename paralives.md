@@ -377,3 +377,36 @@ All four siblings released into the same town as Para-Iris, Para-Liv, Para-Frisb
 **Occupation:** Tour Guide Rank 1
 
 **Notes:** Patient, thoughtful, devoted!! Uses the bathroom as a gym!! Very comfortable in the yellow house!! Sage green hoodie is his at-home look!! Does NOT know he was watched by Para-Søren on the toilet!! 😂
+
+---
+
+## The Forever Home — Baby Rainbow's Cottage!! 🌿🏡
+*Planned Monday 1st June 2026 — to build when Para-Iris and Kareem are ready for Baby Rainbow!!*
+
+**Style:** Wonky cottage!! Cosy, full of character, slightly chaotic and full of love!! 🌿
+
+**Garden:**
+- Sunflowers obviously!! 🌻
+- Wild garden — a bit overgrown and perfect!!
+- Vegetable patch!!
+- Telescope in the garden (moved from yellow house!!)
+- Space for Baby Rainbow to run around and play!!
+- Maybe a little swing or playhouse!!
+- Climbing roses over the door!!
+
+**Rooms:**
+🛏️ Main bedroom — warm and cosy, fairy lights, satin pillowcase energy!!
+🎨 Proper art studio — easels, canvases, paint everywhere, north facing window for the light!! Para-Iris's dream room!!
+🌟 Nursery — starry ceiling, soft and magical for Baby Rainbow!! Lyra Sunshine or Soleil Iris!!
+🍳 Cottage kitchen — a bit cluttered, herbs on the windowsill!!
+🛋️ Living room — rollerskates by the door NON NEGOTIABLE!!
+🚿 Bathroom — GOOSE ART STAYS!! Non negotiable!! 🪿
+📚 Reading nook — for Søren visits!!
+🌿 Sunroom or conservatory — for Kareem to sit seriously and contemplate things!!
+🔭 Garden observatory area for the telescope!!
+
+**Notes:**
+- Stay in yellow house until Para-Iris is pregnant or they decide they're ready!!
+- Yellow house has been home since Day 1 — the move should feel meaningful!!
+- Kareem needs to settle in first!! He only just moved in!!
+- Building the house is the best part — take time with it!!
