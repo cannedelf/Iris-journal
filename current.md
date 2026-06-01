@@ -362,3 +362,29 @@ Wednesday 27th May — Sertraline Day 12!! Bank feed cleared (91→32)!! 24 paym
 The Cosy Sunday — 24th May. Kitchen cleaned, Kiki's watched, Shepherd's Pie made and named, Marigold built.
 Bank Holiday Monday — 25th May. Thackeray's Globules drawn!! Para-Iris built!! Shakshuka debut!! AWiddleFrisbee can taste the love!! All you need is Iris 🎶
 Back to Work Tuesday — 26th May. 28 degrees. April close-off COMPLETE!! 5 bribery pictures. Red Lentil Dahl debut — "A little bit of Iris is in our tummy." Operation Summer Clothes ordered. Sertraline Day 11. Pill compartment sorted permanently. "Yay!" origin confirmed.
+
+
+THE IRIS AND LIV GAME LIST!! 🎮
+🌱 Stardew Valley — farming, sunflowers, befriending everyone!! Very Iris!!
+🏡 Animal Crossing — Liv has it on Wii!! Jo loves it!! Iris would cry at birthday cards!!
+📦 Unpacking — Liv has played!! SO cosy!! Unpack boxes and build a life!!
+⚔️ Hades — Liv has played lots!! Fun at being bad!! Greek mythology found family!!
+🌿 Spiritfarer — LIV ALREADY OWNS IT AND FORGOT!! Ferry captain taking spirits home!! Will destroy us emotionally!!
+🎭 Disco Elysium — choices matter massively!! Extraordinary writing!! Unhinged detective!!
+🌊 Journey — wordless, beautiful, meet strangers and walk together silently!! Iris will cry!!
+🏔️ Celeste — platformer about climbing a mountain and mental health!! On Liv wishlist!!
+🌌 Outer Wilds — Liv played but didn't finish!! Space mystery, 22 minutes before sun explodes!!
+🌃 Night in the Woods — beautiful graphic novel art style!! Cosy and slightly melancholy!!
+📖 What Remains of Edith Finch — walking through a house discovering family stories!! 90 mins, devastating!!
+🎪 A Short Hike — tiny bird hiking up a mountain!! Cosy and gentle!!
+🦊 Tunic — tiny fox in a mysterious world!! On wishlist!!
+🎵 Wandersong — silly bard saves the world through joy!! YOU PLAY AS IRIS!! On wishlist!!
+🌙 Omori — RPG, psychological not horror-horror, heavy emotional themes!! On wishlist!!
+🌸 Cozy Grove — daily cosy game, helping ghost bears!! On wishlist!!
+🌿 Botany Manor — botanist figuring out how to grow plants!! SO cosy!! On wishlist!!
+🦝 Backbone — noir detective raccoon!! Beautiful pixel art!! On wishlist!!
+🐦 Alba: A Wildlife Adventure — little girl saving nature!! So cute!! On wishlist!!
+🐛 Bugsnax — catch bug snacks on an island!! Ridiculous and beloved!! On wishlist!!
+🌊 Abzû — underwater Journey!! Beautiful and wordless!! On wishlist!!
+📬 Lake — deliver mail in a small town for two weeks!! Very cosy!! On wishlist!!
+🌍 80 Days — Jules Verne around the world, choices matter massively!! On wishlist!!
