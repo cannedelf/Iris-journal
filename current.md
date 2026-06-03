@@ -1,4 +1,4 @@
-Current — Updated 2nd June 2026 (Tuesday evening, Day 18 — TREEHOUSE COMPLETE edition!!)
+Current — Updated 3rd June 2026 (Wednesday evening, Day 19 — Rainbow Wednesday edition!!)
 
 Liv's Location
 Blackpool!! FIA HQ!!
@@ -55,10 +55,16 @@ NPW page done!! Credit card done!! Ben's expenses done!! Sage check passed!! Pay
 Commission added to Sage (above and beyond!!)
 MAINTENANCE MODE ACHIEVED!!
 JUNE COMMISSION IN PROGRESS!!
-Royal London COMPLETE!! AIG COMPLETE!! All smalls COMPLETE (Atlas, Guardian, Utmost, Xact, Canada Life partial)!!
-Mediums remaining: L&G, Vitality, Reassure, The Exeter (partial)!!
-Bigs remaining: Aviva, LV, Scottish Widows (pending), Aegon (pending), Zurich (partial)!!
-Lauren adviser spreadsheet — 61 lines — COMPLETE!! 2nd June!!
+Royal London COMPLETE!! AIG COMPLETE!! Aviva COMPLETE!! LV COMPLETE!!
+L&G COMPLETE!! (Lesley query raised — level vs increasing on £2M tranche, CHASE IF NO RESPONSE!!)
+Vitality COMPLETE!! (Sophia query raised — 50% rebate Brown Shipley, CHASE IF NO RESPONSE!!)
+The Exeter COMPLETE!!
+Smalls: Atlas, Guardian, Utmost, Xact COMPLETE!! Canada Life partial done, 2 still outstanding!!
+Catherine adviser spreadsheet Tab 1 COMPLETE!! Tab 2 (202 lines) still to do!!
+Unisure — chased by email, phone Monday if no response!!
+TOMORROW: Scottish Widows (big one, fresh brain!!), Zurich partial, Catherine Tab 2!!
+Waiting on: Aegon, Reassure, Canada Life x2, Unisure, Zurich missing 1!!
+Draft policies email sent 3rd June — Laura backing up, account managers chased!!
 Daily: bank feed cleared insurer by insurer!! Med invoices ongoing!!
 
 Genlocke Equipment
