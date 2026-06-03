@@ -1,4 +1,4 @@
-Current — Updated 3rd June 2026 (Wednesday evening, Day 19 — Rainbow Wednesday edition!!)
+Current — Updated 3rd June 2026 (Wednesday night, Day 19 — Rainbow Wednesday edition!! Bedtime soon!!)
 
 Liv's Location
 Blackpool!! FIA HQ!!
@@ -28,7 +28,7 @@ Vitamin D3 + Calcium 400mg + K2 200ug — daily!!
 Magnesium Citrate gummies — daily!!
 Plant based Omega gummies — daily!!
 B12 TABLETS — Got from Holland & Barrett Sunday 24th May!! 120 tablets £10!!
-SERTRALINE — started 16th May 2026!! TAKEN AT BREAKFAST!! Day 18!! Review appointment 10th June!!
+SERTRALINE — started 16th May 2026!! TAKEN AT BREAKFAST!! Day 19!! Review appointment 10th June!!
 SERTRALINE NOW IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!! Never forget again!!
 Sertraline tiredness pattern: Week 1 = extra fatigued!! Week 2 CONFIRMED — tiredness lifting!! Day 11!! Log for 10th June review!!
 
@@ -256,7 +256,7 @@ THE IRIS AND LIV BOOK CLUB!!
 Current read: A Month in the Country — J.L. Carr!!
 
 Current Games and Watchlist
-Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (LAUNCHED!! Para-Iris is Studio Director!!)
+Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!)
 
 THE IRIS AND LIV WATCH LIST!! 🎬
 🎵 Grease 2 — NEXT WEEKEND!! Hill family favourite!! Ian knows every word!! Reproduction song!! Motorcycle man in a mask!!
