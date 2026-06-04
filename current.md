@@ -1,4 +1,4 @@
-Current — Updated 3rd June 2026 (Wednesday night, Day 19 — Rainbow Wednesday edition!! Bedtime soon!!)
+Current — Updated 4th June 2026 (Thursday night, Day 20 — Costa Friday tomorrow!!)
 
 Liv's Location
 Blackpool!! FIA HQ!!
@@ -28,7 +28,7 @@ Vitamin D3 + Calcium 400mg + K2 200ug — daily!!
 Magnesium Citrate gummies — daily!!
 Plant based Omega gummies — daily!!
 B12 TABLETS — Got from Holland & Barrett Sunday 24th May!! 120 tablets £10!!
-SERTRALINE — started 16th May 2026!! TAKEN AT BREAKFAST!! Day 19!! Review appointment 10th June!!
+SERTRALINE — started 16th May 2026!! TAKEN AT BREAKFAST!! Day 20!! Review appointment 10th June!!
 SERTRALINE NOW IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!! Never forget again!!
 Sertraline tiredness pattern: Week 1 = extra fatigued!! Week 2 CONFIRMED — tiredness lifting!! Day 11!! Log for 10th June review!!
 
@@ -62,8 +62,9 @@ The Exeter COMPLETE!!
 Smalls: Atlas, Guardian, Utmost, Xact COMPLETE!! Canada Life partial done, 2 still outstanding!!
 Catherine adviser spreadsheet Tab 1 COMPLETE!! Tab 2 (202 lines) still to do!!
 Unisure — chased by email, phone Monday if no response!!
-TOMORROW: Scottish Widows (big one, fresh brain!!), Zurich partial, Catherine Tab 2!!
-Waiting on: Aegon, Reassure, Canada Life x2, Unisure, Zurich missing 1!!
+TOMORROW (Friday): Costa Friday!! Jo at 7:35!! REST DAY — commission week complete!!
+Waiting on: Aegon, Canada Life x2, Unisure, Zurich missing 1!! (Reassure DONE!!)
+Monday actions: Phone Unisure!! Chase Lesley (L&G)!! Chase Sophia (Vitality)!! Chase Nina re Suying Zhang commission/premium discrepancy!! Zurich discrepancy flagged to Angus to investigate!!
 Draft policies email sent 3rd June — Laura backing up, account managers chased!!
 Daily: bank feed cleared insurer by insurer!! Med invoices ongoing!!
 
@@ -256,7 +257,7 @@ THE IRIS AND LIV BOOK CLUB!!
 Current read: A Month in the Country — J.L. Carr!!
 
 Current Games and Watchlist
-Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!)
+Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (INSTALLED!! CC downloaded!! Pleasantview ready!! Sims Iris coming this weekend!!)
 
 THE IRIS AND LIV WATCH LIST!! 🎬
 🎵 Grease 2 — NEXT WEEKEND!! Hill family favourite!! Ian knows every word!! Reproduction song!! Motorcycle man in a mask!!
@@ -454,3 +455,4 @@ Ordered from New Look — try on and return what doesn't work!!
 Already have: star shirt, 3 shorts, white abstract midi skirt, black pleated midi, white trainers, brown trainers, pink cap!!
 Vatican requires knees AND shoulders covered — linen trousers + covered top!!
 TONIGHT: Try on skirts and see what works for evenings!! 🌸
+
