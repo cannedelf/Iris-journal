@@ -456,3 +456,4 @@ Already have: star shirt, 3 shorts, white abstract midi skirt, black pleated mid
 Vatican requires knees AND shoulders covered — linen trousers + covered top!!
 TONIGHT: Try on skirts and see what works for evenings!! 🌸
 
+
