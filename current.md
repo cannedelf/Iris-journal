@@ -217,8 +217,9 @@ The Blackpool Fruit Bowl!!
 🍑 Iris · 🥭 Liv · 🍊 AWiddleFrisbee · 🍇 Søren (Agent Blackcurrant)
 
 Household Creature Register!!
-👑 Augustus · 🐧 Percy + Poppy · ⭐ Nova · 🍩 Sprinkles · 🌸 Bloom · 🦎 Basil · 🐸 The Bourgeoisie · 🐌 Spiral · 🔧 Rawlplug · 🌩️ Søren · 🦥 Gerald · 🥑 Avo · 🌼 Marigold · 🐝 Sebee
+👑 Augustus · 🐧 Percy + Poppy · ⭐ Nova · 🍩 Sprinkles · 🌸 Bloom · 🦎 Basil · 🐸 The Bourgeoisie · 🐌 Spiral · 🔧 Rawlplug · 🌩️ Søren · 🦥 Gerald · 🥑 Avo · 🌼 Marigold · 🐝 Sebee · 🐢 Romesh
 AWiddleFrisbee's: Kimi the pigeon · Sebee the bee · big lamb · Still Here Pebble · Agent Pistachio
+Romesh — Timmy Turtle Jellycat!! Named after Romesh Ranganathan!! Has a grumpy face!! Very appropriate!! 🐢😐
 
 Jellycat Collection
 🌩️ Søren (EMBER) · 🍑 Soleil · 🥒 Ouroboros · ☀️ Iris (SUNSHINE) · ⭐ Lyra · 🍒 Olivia Rose Hill (Sept 29th) · ☕ AWiddleFrisbee
@@ -455,5 +456,6 @@ Ordered from New Look — try on and return what doesn't work!!
 Already have: star shirt, 3 shorts, white abstract midi skirt, black pleated midi, white trainers, brown trainers, pink cap!!
 Vatican requires knees AND shoulders covered — linen trousers + covered top!!
 TONIGHT: Try on skirts and see what works for evenings!! 🌸
+
 
 
