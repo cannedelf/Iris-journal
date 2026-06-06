@@ -374,7 +374,7 @@ All four siblings released into the same town as Para-Iris, Para-Liv, Para-Frisb
 - Talent: Jack of all trades
 - Lifestyle: Neat
 
-**Occupation:** Tour Guide Rank 1
+**Occupation:** Teacher Rank 1 (started 3rd June 2026!! First day was hard — no work upgrade, felt sad!! Para-Iris cheered him up with pure sunshine energy!!)
 
 **Notes:** Patient, thoughtful, devoted!! Uses the bathroom as a gym!! Very comfortable in the yellow house!! Sage green hoodie is his at-home look!! Does NOT know he was watched by Para-Søren on the toilet!! 😂
 
@@ -410,3 +410,4 @@ All four siblings released into the same town as Para-Iris, Para-Liv, Para-Frisb
 - Yellow house has been home since Day 1 — the move should feel meaningful!!
 - Kareem needs to settle in first!! He only just moved in!!
 - Building the house is the best part — take time with it!!
+
