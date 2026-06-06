@@ -86,10 +86,11 @@ Build this house ourselves — it needs to be perfect!!
 - Chaotic flatmate energy
 - Night owls
 - The fast food restaurant is their second home
-- **Pet: a big fluffy dog** — too big for the flat, immediately on all furniture
-  - AWiddleFrisbee lets it on everything immediately
-  - Liv pretends to be annoyed, caught cuddling it
-  - Name: pending AWiddleFrisbee consultation!!
+- **Pet: Hugo** 🐾 — big fluffy dog, named after AWiddleFrisbee's childhood dog!!
+  - Too big for the flat, immediately on all furniture
+  - AWiddleFrisbee lets him on everything immediately
+  - Liv pretends to be annoyed, caught cuddling him
+  - Very distinguished name, completely at odds with how chaotic he actually is 😂
 
 ### 🌩️🔧 Sibling House — Sim Søren + Sim Wrench
 - Tidy house
@@ -248,4 +249,6 @@ Same names as Paralives canon across all universes!!
 *Updated 6th June 2026 — Sunnyside planned, households decided, pets assigned!!* 🌻
 *Updated 6th June 2026 — Aspirations decided for all eight Sims!!* 🌟
 *Updated 6th June 2026 — Expansion packs listed, community lots expanded, Iris's boutique planned!!* 🛍️
+*Updated 6th June 2026 — Hugo!! Named after AWiddleFrisbee's childhood dog!!* 🐾
+
 
