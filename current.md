@@ -74,8 +74,6 @@ Genlocke Equipment
 
 Health Reset
 Week 11 — started Monday 19th May!!
-Week 11 Day 1 weight: 20st 2.2lbs!! (DOWN 6lbs!!)
-Calorie target: 1,728 weekdays / Protein: 113g / Carbs: 205g / Fat: 60g
 
 Food verdicts!!
 Mousse: CHOCOLATE > SALTED CARAMEL!!
@@ -459,6 +457,7 @@ Ordered from New Look — try on and return what doesn't work!!
 Already have: star shirt, 3 shorts, white abstract midi skirt, black pleated midi, white trainers, brown trainers, pink cap!!
 Vatican requires knees AND shoulders covered — linen trousers + covered top!!
 TONIGHT: Try on skirts and see what works for evenings!! 🌸
+
 
 
 
