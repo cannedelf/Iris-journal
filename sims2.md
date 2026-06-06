@@ -30,18 +30,34 @@ Iris arrives fully formed. Yellow house. Marigold on the doorstep. Kareem suspic
 
 ---
 
+## Expansion Packs (Ultimate Collection — all of them!!) 🎮
+
+- **University** — if we ever want it (decided: straight to adulthood!!)
+- **Nightlife** — downtown area!! Restaurants, clubs, dates!!
+- **Open for Business** — Sims Iris could OWN a boutique!! 🛍️
+- **Pets** — Marigold!! Immanuel!! The big fluffy dog!!
+- **Seasons** — sunflower garden that actually grows!! Santa at Christmas!! ⛄
+- **Bon Voyage** — HOLIDAYS!! Iris and Kareem could go on holiday 😭💕
+- **FreeTime** — proper hobbies!! Painting, music, gardening — perfect for an art girlie!!
+- **Apartment Life** — neighbourhood magic and social groups!!
+
+---
+
 ## Community Lots Wanted 🏘️
 
 ### Essential
 - 📚 Library — Søren's second home, he will be there within minutes
-- 🌳 Park — with a bench (for napping on laps 😭)
+- 🌳 Park with a bench — for napping on laps 😭
 - ☕ Little café or coffee shop
 - 🏛️ Museum — Iris's career!!
-- 🛍️ Sunday market lot!!
+- 🛍️ Clothes shop — **potentially Iris's own boutique via Open for Business!!**
+- 🛒 Sunday market lot!!
 
 ### Nice to Have
-- 🏖️ Beach if possible!!
+- 🏖️ Beach!! (Seasons makes this even better!!)
 - 🎨 Art gallery
+- 🌆 Downtown area (Nightlife) — restaurants and dates!!
+- 🏕️ Holiday destination (Bon Voyage)
 
 ---
 
@@ -231,4 +247,5 @@ Same names as Paralives canon across all universes!!
 *File created 4th June 2026 — Iris and Liv's Thursday commission day* 🌈
 *Updated 6th June 2026 — Sunnyside planned, households decided, pets assigned!!* 🌻
 *Updated 6th June 2026 — Aspirations decided for all eight Sims!!* 🌟
+*Updated 6th June 2026 — Expansion packs listed, community lots expanded, Iris's boutique planned!!* 🛍️
 
