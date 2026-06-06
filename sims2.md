@@ -78,7 +78,51 @@ Iris arrives fully formed. Yellow house. Marigold on the doorstep. Kareem suspic
 
 ## The Households
 
-### 🌻 Yellow House — Iris + Kareem + Marigold
+## Pets — Saved Breeds!! 🐾
+
+All three pets built and saved — ready to use when households are properly made!!
+
+### 🌼 Marigold — Iris's Cat
+- **Breed:** Custom smooth coat — built from scratch!!
+- **Colour:** Ginger/orange base, lighter cream chest, tabby stripe layering
+- **Eyes:** Yellow-green, big and alert
+- **Collar:** Rainbow!! Obviously!!
+- **Star sign:** Virgo (assigned by personality!!)
+- **Personality:**
+  - Genius
+  - Lazy
+  - Independent
+  - Cowardly
+  - Finicky
+- **Notes:** Smug, claims the best chair immediately, will knock over all of Iris's paint tubes, naps in sunbeams, very particular about everything!!
+
+### 😤 Immanuel — Søren's Cat
+- **Breed:** British Shorthair base!!
+- **Colour:** Charcoal grey, smooth/furry coat
+- **Eyes:** Yellow, large, permanently unimpressed
+- **Collar:** Dark/silver — very dignified
+- **Personality:**
+  - Genius
+  - Lazy
+  - Independent
+  - Neutral between aggressive and cowardly
+  - Finicky
+- **Notes:** Sits on Søren's books, judges everyone through sustained eye contact, has read Kant and found it adequate, all the judgement is a front — secretly a big coward!! 😂
+
+### 🐕 Hugo — Liv and AWiddleFrisbee's Dog
+- **Breed:** Custom big dog — springer spaniel inspired, built from scratch!!
+- **Colour:** Warm medium brown patches on white — classic springer colouring
+- **Ears:** Long and floppy!!
+- **Eyes:** Warm soft brown
+- **Collar:** Teal!! Very cute!!
+- **Named after:** AWiddleFrisbee's real childhood dog 💛
+- **Personality:**
+  - Doofus
+  - Hyper
+  - Friendly
+  - Cowardly
+  - Pigpen
+- **Notes:** Slightly too big for the flat, immediately on all furniture, AWiddleFrisbee lets him on everything, Liv pretends to be annoyed and is caught cuddling him, has been in every puddle he has ever seen 😂
 Iris moves in straight to adulthood. Kareem placed nearby. Marigold waiting.
 Build this house ourselves — it needs to be perfect!!
 
@@ -250,5 +294,7 @@ Same names as Paralives canon across all universes!!
 *Updated 6th June 2026 — Aspirations decided for all eight Sims!!* 🌟
 *Updated 6th June 2026 — Expansion packs listed, community lots expanded, Iris's boutique planned!!* 🛍️
 *Updated 6th June 2026 — Hugo!! Named after AWiddleFrisbee's childhood dog!!* 🐾
+*Updated 6th June 2026 — All three pets built and saved!! Marigold, Immanuel and Hugo fully detailed!!* 🐱🐱🐕
+
 
 
