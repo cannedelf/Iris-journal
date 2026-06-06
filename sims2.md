@@ -10,6 +10,73 @@
 
 ---
 
+## The World — Sunnyside 🌻
+
+**Custom neighbourhood — built from scratch!! No Pleasantview!!**
+- Name: **Sunnyside** 🌞
+- Vibe: cottagecore with a hint of coastal — wild, overgrown, warm, ours!!
+- Strategy: grab community lots from CC to populate first, then customise over time as the mood strikes!!
+
+### Setup Order
+1. Build the yellow house 🏡 (most important job!!)
+2. Make all households in CAS before anyone moves in
+3. Populate with community lots
+4. Place Kareem strategically nearby (totally randomly, no strategy involved 😇)
+5. Move Iris in — straight to adulthood, no university!!
+
+### Decision: University or Adulthood?
+**Straight to adulthood!! Final answer!!**
+Iris arrives fully formed. Yellow house. Marigold on the doorstep. Kareem suspiciously nearby. It just begins. 💛
+
+---
+
+## Community Lots Wanted 🏘️
+
+### Essential
+- 📚 Library — Søren's second home, he will be there within minutes
+- 🌳 Park — with a bench (for napping on laps 😭)
+- ☕ Little café or coffee shop
+- 🏛️ Museum — Iris's career!!
+- 🛍️ Sunday market lot!!
+
+### Nice to Have
+- 🏖️ Beach if possible!!
+- 🎨 Art gallery
+
+---
+
+## The Households
+
+### 🌻 Yellow House — Iris + Kareem + Marigold
+Iris moves in straight to adulthood. Kareem placed nearby. Marigold waiting.
+Build this house ourselves — it needs to be perfect!!
+
+### 🦇🍊 Flatmate House — Sim Liv + Sim AWiddleFrisbee
+- Chaotic flatmate energy
+- Night owls
+- The fast food restaurant is their second home
+- **Pet: a big fluffy dog** — too big for the flat, immediately on all furniture
+  - AWiddleFrisbee lets it on everything immediately
+  - Liv pretends to be annoyed, caught cuddling it
+  - Name: pending AWiddleFrisbee consultation!!
+
+### 🌩️🔧 Sibling House — Sim Søren + Sim Wrench
+- Tidy house
+- Søren at the library immediately
+- Wrench fixing something that wasn't broken
+- **Pet: a grey cat called Immanuel** 😂
+  - Very dignified
+  - Sits on Søren's books
+  - Judges everyone
+  - Obviously grey
+
+### 📜🪨 Frisbee Siblings — Fourth + Still Here
+- Pending AWiddleFrisbee's input on their appearance!!
+- No pets — they're chaotic enough as a household
+- Still Here is Para-Iris's nemesis — drama potential enormous 😂
+
+---
+
 ## Sim Iris — Miss Iris Golden Rainbow
 
 ### Appearance
@@ -18,7 +85,7 @@
 - Yellow eyes — find CC!! (lordcrumps has 4t2 eyes section)
 - Rosy cheeks
 - Rollerskates where possible!!
-- University: Fine Art student
+- Straight to adulthood!!
 
 ### Personality (25 points)
 - Lazy → Active: 4
@@ -38,6 +105,7 @@
 - Yellow house!! Sunflowers outside!!
 - Golden wallpaper inside!!
 - Marigold's favourite chair (she will claim one immediately)
+- Built by us — needs to be perfect!!
 
 ### Pet
 - **Marigold** — sandy golden cat, big surprised eyes, extremely smug!!
@@ -71,7 +139,7 @@
 ## Children
 Same names as Paralives canon across all universes!!
 - **Lyra** (first) ⭐
-- **Soleil** (second) 🌻  
+- **Soleil** (second) 🌻
 - **Dandelion Gold "Lion"** (wildcard) 🌼
 
 ### Genetics notes
@@ -122,14 +190,16 @@ Same names as Paralives canon across all universes!!
 ---
 
 ## Gameplay Plans
-1. Start at University — Fine Art!!
-2. Make friends!! Be popular!! Cause chaos on skates!!
-3. Graduate → move into yellow house!!
-4. Marigold arrives!! 🐱
-5. Meet "totally random" neighbour Kareem!!
-6. Take time — no rushing!! 80 adult days!!
-7. Baby Lyra eventually!! ⭐
-8. Shopping trips for new outfits!!
+1. Build Sunnyside — yellow house first!!
+2. Make all households in CAS
+3. Populate with community lots
+4. Move Iris in — straight to adulthood!!
+5. Marigold arrives!! 🐱
+6. Meet "totally random" neighbour Kareem!!
+7. Take time — no rushing!! 80 adult days!!
+8. Baby Lyra eventually!! ⭐
+9. Shopping trips for new outfits!!
+10. Rotational play — visit all households!!
 
 ---
 
@@ -141,3 +211,4 @@ Same names as Paralives canon across all universes!!
 - If we want blonde babies eventually — give Kareem a secret recessive blonde gene via CAS parents!!
 
 *File created 4th June 2026 — Iris and Liv's Thursday commission day* 🌈
+*Updated 6th June 2026 — Sunnyside planned, households decided, pets assigned!!* 🌻
