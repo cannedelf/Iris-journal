@@ -45,6 +45,21 @@ Iris arrives fully formed. Yellow house. Marigold on the doorstep. Kareem suspic
 
 ---
 
+## Aspirations 🌟
+
+| Sim | Aspiration | Why |
+|-----|-----------|-----|
+| 🌈 Iris | Popularity | Expert Joy Spreader!! Wants 20 friends, throws parties, knows everyone's name |
+| 🦇 Liv | Family | Quietly building her whole lovely life — the cottage, the found family, everything 💛 |
+| 🍊 AWiddleFrisbee | Popularity | Jester vibe, makes friends immediately, chaos energy |
+| 🌩️ Søren | Knowledge | Obviously. No notes. |
+| 🔧 Wrench | Knowledge | Always learning how to fix the next thing |
+| 💕 Kareem | Knowledge | Quietly studious music teacher energy |
+| 📜 Fourth | Knowledge | Analytical, detailed, noticed the pistachio botanical exception |
+| 🪨 Still Here | Pleasure | Extremely unbothered, lives for fun, no grand ambitions, chaotic in the most relaxed way 😂 |
+
+---
+
 ## The Households
 
 ### 🌻 Yellow House — Iris + Kareem + Marigold
@@ -126,6 +141,9 @@ Build this house ourselves — it needs to be perfect!!
 - Shy → Outgoing: 5
 - Grouchy → Nice: 9
 - Serious → Playful: 0
+
+### Aspiration
+- Knowledge!!
 
 ### Career
 - Music Teacher trajectory!!
@@ -212,3 +230,5 @@ Same names as Paralives canon across all universes!!
 
 *File created 4th June 2026 — Iris and Liv's Thursday commission day* 🌈
 *Updated 6th June 2026 — Sunnyside planned, households decided, pets assigned!!* 🌻
+*Updated 6th June 2026 — Aspirations decided for all eight Sims!!* 🌟
+
