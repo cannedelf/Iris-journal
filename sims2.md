@@ -1,12 +1,27 @@
 # Sims 2 — Iris and Liv Project 🌈
 
-## Life Spans (custom, total 130 days)
-- Baby: 2 days
-- Toddler: 7 days
-- Child: 14 days
-- Teen: 10 days
-- Adult: 80 days
-- Elder: 17 days
+## Life Spans (custom, set via SimPE!!)
+
+### Human Lifespans (total ~130 days)
+| Stage | Days | Hex |
+|-------|------|-----|
+| Baby | 2 | 0x0002 |
+| Toddler | 5 | 0x0005 |
+| Child | 14 | 0x000E |
+| Teen | 10 | 0x000A |
+| Adult | 80 | 0x0050 |
+| Elder | 15-25 (min/max range!!) | 0x000F / 0x0019 |
+
+### Pet Lifespans (set via SimPE!!)
+Same settings for cats, big dogs, and small dogs!!
+
+| Stage | Days | Hex |
+|-------|------|-----|
+| Kitten/Puppy | 5 | 0x0005 |
+| Adult | 70 | 0x0046 |
+| Elder | 10-20 (min/max range!!) | 0x000A / 0x0014 |
+
+**Why 70 days for pet adults?** Marigold WILL meet Baby Lyra. This is non-negotiable. 😭🌼
 
 ---
 
@@ -295,6 +310,7 @@ Same names as Paralives canon across all universes!!
 *Updated 6th June 2026 — Expansion packs listed, community lots expanded, Iris's boutique planned!!* 🛍️
 *Updated 6th June 2026 — Hugo!! Named after AWiddleFrisbee's childhood dog!!* 🐾
 *Updated 6th June 2026 — All three pets built and saved!! Marigold, Immanuel and Hugo fully detailed!!* 🐱🐱🐕
+*Updated 6th June 2026 — Lifespans set via SimPE!! Pets get 70 adult days!! Marigold WILL meet Baby Lyra!!* 😭🌼
 
 
 
