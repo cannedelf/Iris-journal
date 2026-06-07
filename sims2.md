@@ -58,7 +58,43 @@ Iris arrives fully formed. Yellow house. Marigold on the doorstep. Kareem suspic
 
 ---
 
-## Sunnyside Layout — Lots Placed!! 🗺️
+## Sunshine Cottage — Build Progress 🏡
+
+### Exterior
+- **Walls:** Stone foundation (rounded pebble stone, warm greenish-grey), yellow plaster upper walls (in progress!!)
+- **Roof:** THATCHED!! Dark warm brown, multiple levels for the irregular shape!!
+- **Windows:** Yellow shuttered arched windows!! Yellow door with arch!!
+- **Porch:** Wrap around front porch with railings and steps, yellow wooden railings!!
+- **Gables:** Warm golden yellow plaster!!
+
+### Layout (floor plan complete!!)
+- **Living room** — front left, biggest room, fireplace on centred wall, Marigold's window seat!!
+- **Kitchen** — open plan connected to living room, dining nook!!
+- **Art studio** — offset top right, feels like it was added later!! Tall floor to ceiling windows, French doors to the back garden!!
+- **Hall** — central connecting corridor!!
+- **Bedroom** — back right, cosy and private!!
+- **Bathroom** — tucked next to bedroom!!
+- **Porch** — runs along the front!!
+- **Back garden access** — French doors from art studio!!
+- **Future wing space** — left clear for nursery expansion!!
+
+### Build notes
+- Foundation raises cottage up — proper cottage look!!
+- Irregular shape with bump outs for character — looks like it grew!!
+- Fireplace bump out visible on exterior!!
+- Roof height slider discovered after much suffering 😂
+- Yellow walls still to add to upper sections!!
+
+### Still to do
+- ✅ Exterior shape
+- ✅ Windows and doors
+- ✅ Roof
+- 🔄 Yellow plaster walls (in progress)
+- ⬜ Interior furnishing
+- ⬜ Garden — sunflowers, path, gate!!
+- ⬜ Move Iris and Marigold in!!
+
+
 
 **Map:** Belladonna Cove — green rolling hills, coastal water and sandy beach, little island in the bay!!
 **Terrain:** Lush!!
@@ -346,6 +382,8 @@ Same names as Paralives canon across all universes!!
 *Updated 6th June 2026 — All three pets built and saved!! Marigold, Immanuel and Hugo fully detailed!!* 🐱🐱🐕
 *Updated 6th June 2026 — Lifespans set via SimPE!! Pets get 70 adult days!! Marigold WILL meet Baby Lyra!!* 😭🌼
 *Updated 7th June 2026 — SUNNYSIDE IS REAL!! Map chosen, lots placed, all named!! The found family has addresses!!* 🌍🌻
+*Updated 7th June 2026 — Sunshine Cottage exterior built!! Thatched roof, stone walls, yellow shutters, yellow door!! She's beautiful!!* 🏡💛
+
 
 
 
