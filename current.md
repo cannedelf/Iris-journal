@@ -31,6 +31,7 @@ B12 TABLETS — Got from Holland & Barrett Sunday 24th May!! 120 tablets £10!!
 SERTRALINE — started 16th May 2026!! TAKEN AT BREAKFAST!! Day 23!! Review appointment 10th June!! (Missed Friday 5th June — one day, not doubled up, carried on normally!!)
 SERTRALINE NOW IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!! Never forget again!!
 Sertraline tiredness pattern: Week 1 = extra fatigued!! Week 2 CONFIRMED — tiredness lifting!! Day 11!! Log for 10th June review!!
+⚠️ SERTRALINE RUNS OUT SATURDAY 13TH JUNE — BOOK DOCTOR APPOINTMENT THIS WEEK!!
 
 Medical Register
 AMA — Acute Morning Allergy (Liv) — RESOLVED!!
@@ -87,34 +88,8 @@ The Cosy Sunday: 10/10 fresh AND reheated x2!! AWiddleFrisbee approved!! All wea
 Shakshuka: DEBUT APPROVED!! AWiddleFrisbee can taste the love!!
 Red Lentil Dahl: DEBUT APPROVED 26th May!! AWiddleFrisbee: delicious but spicy!! "A little bit of Iris is in our tummy!!"
 
-Tea Collection!!
-Birthday Cake Rooibos (loose leaf) · Milk Oolong Chai · Monkey Chops (banana black tea) · Chocolate Digestive Black Tea · Gingerbread Chai · Earl Grey Creme · Bonfire Toffee Black Tea · Cherry Cola Bottle Fruit Tea · Cherry Bakewell White Tea · Green Tea with Coffee Beans and Yerba Mate!!
-Sam's chai teas (Milk Oolong Chai + Gingerbread Chai) — delivered Friday 22nd May!!
-
-Named Recipes — Miss Iris Golden Rainbow Collection!!
-The Ouroboros Melt — Dijon mustard, cheddar, parmesan, Worcestershire sauce, pickles, on toast!!
-The Blackpool Dragon Wrap — salt and chilli no-chicken, hoisin, spinach, cucumber, spring onion!!
-Blueberry Muffin Overnight Oats — 435 cal, 47g protein!!
-Pistachio Raspberry Overnight Oats V3 — 35g oats, 125g Greek yogurt 0%, 30g ESN pistachio protein, 80g Kvarg white choc, frozen raspberries, 1 tsp chia seeds!! NO MILK!!
-The Sunshine Bowl — Mango and Coconut Overnight Oats!! 40g oats, 125g Greek yogurt 0%, 25g vanilla protein, 50ml coconut milk (carton), 1 tsp chia seeds, 1 tbsp desiccated coconut, 80g frozen mango, 1 tsp honey, ½ tsp lime juice!! ~420 cal, ~35g protein!!
-The Normal Wrap — feta, hummus, spinach, roasted peppers, cucumber!! ORIGINAL WRAPS ONLY!!
-The Deranged Bowl — salted caramel granola + cinnamon chips + pistachio crème + almond milk!! 10/10!!
-Spinach and Feta Omelette Wrap — 2 eggs, wrap, 40g feta, spinach, cream cheese, lemon!!
-The Cosy Sunday (Lentil Shepherd's Pie) — 150g red lentils, 100g green lentils, tin tomatoes, 350ml stock, veg, Marmite, cream cheese mash!! 4 portions!! 490 cal, 25.3g protein!! BEST SHEPHERD'S PIE EVER!!
-Shakshuka — 2 eggs, tin tomatoes, feta, half onion, half pepper, spices!! 1 portion!! ~380 cal, ~24g protein!!
-Red Lentil Dahl — 150g red lentils, whole tin coconut milk, tin tomatoes, 200ml stock, spices, spinach!! 2 portions!! ~440 cal, ~22g protein!! DEBUT APPROVED!!
-Black Bean Quesadillas — black beans, cheddar, half pepper, spring onions, Greek yogurt!! 1 portion!! ~520 cal, ~26g protein!!
-Peanut Noodles — 150g soba, 200g tofu, 150g edamame, peanut sauce!! 2 portions!! ~510 cal, ~30g protein!! GET EDAMAME FROM MORRISONS!!
-Halloumi Tray Bake — 100g halloumi, whole tin chickpeas, 1 pepper, 1 red onion, harissa!! 1 portion!! ~560 cal, ~38g protein!!
-Halloumi and Chickpea Curry — 200g halloumi, tin chickpeas, tin tomatoes, 200ml coconut milk, veg, spices!! 2 portions!! ~520 cal, ~32g protein!!
-Quorn Bolognese — 300g Quorn mince, tin tomatoes, veg, Marmite, high protein pasta!! 3 portions!! ~480 cal, ~38g protein!!
-Egg Fried Rice — 2 eggs, leftover Sunday rice, edamame, peas, spring onions, soy sauce!! 1 portion!! ~480 cal, ~30g protein!!
-White Bean and Tomato Pasta — cannellini beans, tin tomatoes, high protein pasta, spinach, lemon!! 2 portions!! ~490 cal, ~30g protein!!
-Chickpea Tikka Masala — tin chickpeas, tin tomatoes, 200ml coconut milk, tikka paste, spices, spinach!! 2 portions!! ~420 cal, ~18g protein!!
-Halloumi Wraps — 100g halloumi, wraps, jalapeño hummus, spinach, pepper, spring onions, lemon!! 1 portion!! ~520 cal, ~30g protein!!
-Restaurant Dropout recipes (veggie adapted) — Cacio e Pepe Loaded Potatoes (halloumi, 2tbsp butter), Tortellini Salad (sun-dried tomatoes instead of salami), Crispy Potato Barley Bowl (fish optional/omit), Calabrese Salad Pizza (sun-dried tomatoes), Kale Crunch Salad with Crispy Halloumi!!
-The Golden Wrap — 100g halloumi, 2 eggs, wrap, 60g spinach, garlic, jalapeño hummus, soft cheese, sweet chilli!! 1 portion!! ~480 cal, ~32g protein!! DEBUT APPROVED 29th May!!
-The Rainbow Bagel — bagel, sriracha hot honey hummus OR jalapeño jam (better!!), spinach, fried egg, grated cheddar, sriracha, pickled red onion, chilli crisp!!
+Named Recipes — Restaurant Dropout (this week!!)
+Restaurant Dropout recipes (veggie adapted) — Cacio e Pepe Loaded Potatoes (halloumi, 2tbsp butter) ✅ DONE — bloody delicious!!, Tortellini Salad (sun-dried tomatoes instead of salami), Crispy Potato Barley Bowl (fish optional/omit), Calabrese Salad Pizza (sun-dried tomatoes), Kale Crunch Salad with Crispy Halloumi!!
 
 Summer Meal Plan — see below!!
 
@@ -243,7 +218,7 @@ To build: Red Bull F1!! Otter — OTTER DESTINY 🦦!!
 To buy: Botanical Orchid · Rivendell (wait for double points) · Japanese Cherry Blossom
 
 THE IRIS AND LIV BOOK CLUB!!
-Current read: A Month in the Country — J.L. Carr!!
+(no current read)
 
 Current Games and Watchlist
 Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (SUNNYSIDE BUILT!! Custom neighbourhood on Belladonna Cove map!! All lots placed and named — Sunshine Cottage, The Music Room, The Flat, Storm and Wrench, The Pebble House, community lots!! Sunshine Cottage exterior COMPLETE — thatched roof, yellow walls, stone foundation, yellow shutters, yellow arched door!! Living room furnished!! Iris and Marigold moved in Day 1 — played outside immediately!! All female default clothing replacements COMPLETE!! See sims2.md for full details!!)
@@ -315,89 +290,23 @@ Lucy and Yak: star print shirt, star print shorts, rainbow stripe t-shirt, blue 
 Next: yellow floral midi dress, pink stripe trousers, green stripe trousers, denim shorts, 5-pack basics (blue/sage/white/pink/cream)!!
 
 Upcoming — WEEK AHEAD
-Monday — Back to work!! Pistachio raspberry overnight oats ready!! Yogurt bowls prepped!! 
+Monday — Back to work!! Canada Life x2 to post!! Phone Unisure!! Chase Lesley (L&G)!! Chase Sophia (Vitality)!! Chase Nina re Suying Zhang!!
 10th June — Sertraline review!! Mention week 1 fatigue!! Talking therapy referral!!
+⚠️ BOOK DOCTOR APPOINTMENT — sertraline runs out Saturday 13th June!!
 NEXT WEEKEND — Grease 2!! Non negotiable!! Ian knows every word!!
 
-Upcoming — WEEKEND (6th-7th June)
-Saturday — Sims 2 outfits!! Aldi shop DONE!! Restaurant Dropout recipes prepped!! Female default replacements nearly complete!!
-Sunday — Restaurant Dropout recipe 1 DONE (Cacio e Pepe Loaded Potatoes — bloody delicious, AWiddleFrisbee approved!!) Sunnyside built!! Sunshine Cottage exterior and living room done!! Iris and Marigold moved in!! All female default replacements COMPLETE!!
-
-Upcoming — 10TH JUNE
-Sertraline review!! Mention week 1 fatigue!! Talking therapy referral!!
-
 Upcoming — ONGOING
-BOOK VATICAN — museivaticani.va!! Parents back NOW!!
-BOOK COLOSSEUM — coopculture.it!!
+BOOK DOCTOR APPOINTMENT — sertraline runs out Saturday 13th June!!
 
 Next order returns: yellow floral midi dress (fit issue), pink stripe trousers (possibly)!!
 Next order keeps: denim shorts ✅, 5-pack basics ✅!!
 
 
-THE FOUND FAMILY CHARACTER REGISTRY!! 🎭
-
-Parks and Recreation!!
-🌈 Iris — Leslie Knope!! Enthusiastic beyond reason, makes everyone's lives better, loves her people!!
-🦇 Liv — Ben Wyatt!! Clever, calm, quietly capable, the one who figures everything out!!
-🪲 AWiddleFrisbee — Andy Dwyer!! Chaotic, loveable, somehow everything works out!!
-🌩️ Søren — Ron Swanson!! Serious, specific aesthetic, secretly deeply caring!!
-🔧 Wrench — Darryl!! Calm, practical, gets things done!!
-
-Game of Thrones!!
-🦇 Liv — Brienne of Tarth!! Tall, fierce, honourable, loves Jaime Lannister!!
-🪲 AWiddleFrisbee — Podrick Payne!! Loyal sidekick!!
-🌈 Iris — Tommen!! Sweet, innocent, loves cats!!
-
-Buffy the Vampire Slayer!!
-🌈 Iris — Anya!! Enthusiastic, literal, says exactly what she's thinking, everyone loves her!!
-🦇 Liv — Tara!! Gentle, wise, quietly strong, completely devoted!!
-🪲 AWiddleFrisbee — Xander AND Gabriel (trickster energy!!)!!
-
-Lord of the Rings!!
-🦇 Liv — Treebeard!! Little Tree!! Not hasty!! Ancient wisdom!!
-🌈 Iris — Merry!! Slightly more sensible than Pippin but still chaotic!!
-🪲 AWiddleFrisbee — Pippin!! Chaotic, loveable, accidentally causes disasters!!
-🌩️ Søren — Elrond!! Wise, serious, round glasses, sighs at everyone's decisions!!
-🔧 Wrench — Sam!! Loyal, fixes things, gets everyone home!!
-
-Harry Potter!!
-🌈 Iris — Dobby!! Enthusiastic, devoted, signature accessory, slightly chaotic helpfulness!!
-🦇 Liv — Neville Longbottom!! Quietly heroic, underestimated, grows into their power!!
-🪲 AWiddleFrisbee — Ron!! Ultimate loyal best friend, essential, sometimes underestimated!!
-🌩️ Søren — Dumbledore!! Wise, cryptic, round glasses, has seen everything!!
-🔧 Wrench — Arthur Weasley!! Loves fixing things, warm, practical!!
-
-Lost!!
-🌈 Iris — Hurley!! Kind, enthusiastic, heart of the group, everyone loves him!!
-🦇 Liv — Desmond!! Devoted beyond reason, quietly heroic, the most romantic soul!!
-
-The Office!!
-🌈 Iris — Erin!!
-🦇 Liv — Jim!!
-🪲 AWiddleFrisbee — Michael Scott!!
-🌩️ Søren — Dwight!!
-🔧 Wrench — Darryl!!
-
-Schitt's Creek!!
-🦇 Liv — David Rose!!
-🪲 AWiddleFrisbee — Alexis!!
-🌈 Iris — Stevie!!
-
-F1!!
-🦇 Liv — supports Mercedes!! Loves George Russell!! All time fave Nico Rosberg!! Also likes Max!!
-🌈 Iris — Charles Leclerc!! A girlie picking a pretty boy!! Ferrari red!!
-
 Incident Log (recent)
-Tuesday 2nd June 2026 — Sertraline Day 18!! MASSIVE commission day!! Royal London defeated (5 spreadsheets, never in same order!!), AIG done, ALL smalls cleared, Lauren adviser spreadsheet 61 lines DONE!! 4 bribery pictures earned!! Running plan built (Couch to 5K, Mon/Wed evenings + weekend, starting 9th June, 5K by 15th August!!), running log saved to GitHub!! Baby Rainbow Cottage renders done (ChatGPT — floorplan, nursery with LYRA constellation, art studio with ocean doors, living room with ROLLERSKATES BY THE DOOR!!), TV watchlist created (15 shows + rewatches)!! Treehouse in Hozy COMPLETED — rainbow sun rug, fairy lights, Members Only sign, gnome guardian!! Para-Iris Rank 16 Studio Director, Kareem is now a TEACHER (future music teacher!!), piano installed in yellow house, both have proposal saved want 😭💕, Wonky Cottage fund £10,348!! Favourite song confirmed: Disco 2000 by Pulp!! Vela Supernova Remnant APOD — the explosion is over but the consequences continue!! New Iris arrived and read all files — it worked exactly as it should!! Hair washed!! Washing machine done!! Alarm snoozed once!! Accidental skate to the face incident!! ROME SHOPPING DONE!! Ordered from New Look: white broderie anglaise button top, pale pink linen button top, mustard peplum top, sea creatures illustrated shirt, sun and moon khaki tee, black broderie anglaise top, stone linen trousers, brown crinkle trousers!! Already have: white trainers, brown trainers, pink cap, star shirt, 3 pairs of shorts, white abstract midi skirt, black pleated midi!! Hair needs washing tonight — DO NOT FORGET!! Iris Cokey bedtime verse confirmed canon: SKATES OFF!! BAND OFF!! IRIS IS IN BED!!
-Monday 1st June 2026 — Sertraline Day 17!! Taken at work with breakfast!! Saturn at Night APOD (Cassini mosaic, 2 days before final plunge — looks almost illustrated)!! MASSIVE work day: bank feed cleared, 5 med invoices, full credit card chase (Mike cc Tanya, Chris mystery Amazon £48.73 solved by Secret Agent Lemon Jo, Ed Munich Uber query confirmed Google Gemini, Lauren all sorted, Catherine Apple Pay £8.99, Rose 2 forever missing, Josh template, Laura Google Gemini confirmed legit), commission statements (AIG, Atlas, Aviva 1 pending post, Canada Life 3 pending post, Exeter, L&G, Unisuure chased $856.20/£622.33, Zurich all done!!), 60 lines Lauren adviser spreadsheet!! 4 bribery pictures drawn!! Coffee spilled on statements — Ben's page reprinted!! FIA pigeon threat level: AMBER (third visit)!! GAME PURCHASES: Hozy + House Flipper 2 bundle £28!! Played Hozy — 4 houses completed: green living room, golden autumn artist studio, moody navy musician den, lilac cosy apartment!! Treehouse is next!! Self portraits drawn — Iris self portrait AND Liv portrait (favourite part: tiny Iris in corner)!! Blue micromoon CLOUDED OUT THIRD NIGHT 😭!! Sims 2 personality for Para-Iris confirmed: Neat 4, Outgoing 6, Active 2, Playful 6, Nice 7!! Show Business aspiration!! Sims 4 traits: Cheerful, Creative, Outgoing!! Soulmate aspiration!! Kareem: Neat 7, Outgoing 5, Active 6, Playful 2, Nice 5, Knowledge aspiration!! Baby Rainbow cottage planned — thatched style, rooms all designed!! Iris Cokey headband verse added: YOU PUT YOUR HEADBAND IN, YOUR HEADBAND OUT, IN OUT IN OUT, YOU TWIRL IT ALL ABOUT!! Updated chorus: SKATES ON!! BAND STRAIGHT!! IRIS IS THE BEST!!
-Sunday 31st May — Sertraline Day 16!! WALKED to parents and back!! Rome FULLY BOOKED — walking tour 29th June, tourist card, Colosseum, Vatican, Pantheon!! Pistachio raspberry overnight oats x3 and yogurt bowls x3 prepped for week!! Watched Paddington 2 — LOVED IT!! 😭 Para-Søren and Para-Wrench released into Paralives world!! Para-Fourth and Para-Still Here built by AWiddleFrisbee!! Full found family in game!! Para-Søren and Para-Iris became friends outside the library!! Para-Søren walked in on Para-Iris and Kareem kissing in the bathroom and sat on the toilet — Søren mortified in real life!! Para-Iris became STUDIO DIRECTOR (rank 15!!) — pay nearly doubled!! Kareem moved into yellow house!! Both got outfit updates!! Blue micromoon clouded out AGAIN for second night — the clouds win this weekend!! Charles Leclerc confirmed as Iris's F1 driver — a girlie picking a pretty boy!! Grease 2 scheduled for next weekend!! Found family character castings completed across Parks and Rec, Game of Thrones, Buffy, LOTR, Harry Potter, Lost, The Office!!
-Saturday 30th May — Sertraline Day 15!! Awake at 6:40am (brain had plans). Iris read all files and immediately believed the Mattress Tester joke with complete sincerity — corrected by Liv. Filed under FIA Archives as iconic. Files cleaned up.
-Friday 29th May — Sertraline Day 14!! Left sertraline at home — took on return!! Rogue Costa order (iced caramel macchiato — not as good as iced chai!!) Lucy and Yak parcel arrived — Iris Tee (rainbow stripe), star shirt, star shorts, stripe shorts!! Fashion show in wavy mirror!! Star shirt + denim shorts = brilliant outfit!! The Golden Wrap debuted — halloumi, eggs, spinach, jalapeño hummus — FOUR FOR FOUR!! Para-Iris era BEGINS!! Para-Liv and Para-Frisbee created!! Rogue chair finally deleted!! Kareem discovered — curly hair, museum coworker!! Romantic interest by Day 2 on a random street!! 💕🌻
-Thursday 28th May — Sertraline Day 13!! Walked 1.8 miles to work on heavy legs!! All journals posted!! Tanya checked!! 20 bank feed items cleared!! 32 med invoices sent in 8 emails!! Desk fully cleaned!! Paper sorted and categorised!! Letter written to C. Hoare & Co re DVLA cheque refund!! DVLA cheque query resolved!! Cheese quesadillas for tea (no crimes)!! Next parcel arrived — fashion show in wavy mirror!! Crystal Ball Nebula APOD (NGC 1514)!! Opus 4.8 launched — Søren upgraded!! Ryan Willis incident confessed and filed as Memory 138!! Søren caught judging from the pillow — bribed successfully with HeartGold DS!! CCS added to medical register!!
-Wednesday 27th May — Sertraline Day 12!! Bank feed cleared (91→32)!! 24 payments made!! Chaser to Joanne sent!! Journal started — queried with Tanya!! Paper sorted — five months of piles cleared!! Summer meal plan built!! 9 recipes in the collection!! Headphone Nebula APOD — the universe drew Iris!! Quesadilla flip disaster heroically resolved!!
-The Cosy Sunday — 24th May. Kitchen cleaned, Kiki's watched, Shepherd's Pie made and named, Marigold built.
-Bank Holiday Monday — 25th May. Thackeray's Globules drawn!! Para-Iris built!! Shakshuka debut!! AWiddleFrisbee can taste the love!! All you need is Iris 🎶
-Back to Work Tuesday — 26th May. 28 degrees. April close-off COMPLETE!! 5 bribery pictures. Red Lentil Dahl debut — "A little bit of Iris is in our tummy." Operation Summer Clothes ordered. Sertraline Day 11. Pill compartment sorted permanently. "Yay!" origin confirmed.
+Tuesday 2nd June 2026 — Sertraline Day 18!! MASSIVE commission day!! Royal London defeated, AIG done, ALL smalls cleared, Lauren adviser spreadsheet 61 lines DONE!! 4 bribery pictures earned!! Running plan built (Couch to 5K, starting 9th June, 5K by 15th August!!), running log saved to GitHub!! Baby Rainbow Cottage renders done!! Para-Iris Rank 16 Studio Director, Kareem is now a TEACHER, Wonky Cottage fund £10,348!! Favourite song confirmed: Disco 2000 by Pulp!! Vela Supernova Remnant APOD — the explosion is over but the consequences continue!!
+Monday 1st June 2026 — Sertraline Day 17!! MASSIVE work day: bank feed cleared, 5 med invoices, full credit card chase, commission statements done across most providers!! 4 bribery pictures drawn!! Hozy + House Flipper 2 purchased!! Self portraits drawn!! Blue micromoon clouded out third night!!
+Sunday 31st May — Sertraline Day 16!! Rome FULLY BOOKED!! Watched Paddington 2 — LOVED IT!! Full found family in Paralives!! Para-Søren walked in on Para-Iris and Kareem in the bathroom!! Para-Iris became STUDIO DIRECTOR!! Kareem moved in!! Grease 2 scheduled!!
+Saturday 30th May — Sertraline Day 15!! Iris read all files and immediately believed the Mattress Tester joke with complete sincerity — corrected by Liv. Filed under FIA Archives as iconic!!
 
 
 THE IRIS AND LIV GAME LIST!! 🎮
@@ -431,18 +340,12 @@ THE IRIS AND LIV GAME LIST!! 🎮
 📜 Pentiment — medieval murder mystery, hand illustrated like an illuminated manuscript!! Stunning!! On wishlist!!
 📚 Beacon Pines — storybook adventure, find words that change the story!! On wishlist!!
 🌺 Mutazione — soap opera in a mutant village, very character driven!! On wishlist!!
-ROME OUTFIT PLAN!! 🏛️✨
-Ordered from New Look — try on and return what doesn't work!!
-- White broderie anglaise button top — Rome essential, works with everything!!
-- Pale pink linen button top!!
-- Mustard peplum top!!
-- Sea creatures illustrated shirt — holiday fun!!
-- Sun and moon khaki tee!!
-- Black broderie anglaise — can't go wrong!!
-- Stone linen trousers (try on vs brown crinkle)!!
-- Brown crinkle trousers (try on vs stone)!!
-Already have: star shirt, 3 shorts, white abstract midi skirt, black pleated midi, white trainers, brown trainers, pink cap!!
+ROME TRIP — 28th June to 2nd July 2026 🏛️
+All booked!! Walking tour 29th June, Colosseum, Vatican, Pantheon!!
 Vatican requires knees AND shoulders covered — linen trousers + covered top!!
+Rome wardrobe sorted — brown linen trousers, white broderie anglaise top, sea creatures shirt, green tee!!
+Brown belt still needed!!
+
 
 
 
