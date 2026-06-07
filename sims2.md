@@ -58,7 +58,41 @@ Iris arrives fully formed. Yellow house. Marigold on the doorstep. Kareem suspic
 
 ---
 
-## Community Lots Wanted 🏘️
+## Sunnyside Layout — Lots Placed!! 🗺️
+
+**Map:** Belladonna Cove — green rolling hills, coastal water and sandy beach, little island in the bay!!
+**Terrain:** Lush!!
+**Description:** "A sunny little coastal village where the hills are wild and the sunflowers grow wherever they please. Home to found families, yellow houses, and one very strategic neighbour!"
+
+### Residential Lots
+| Lot Name | Residents | Size | Position |
+|----------|-----------|------|----------|
+| **Sunshine Cottage** | Iris + Kareem + Marigold | 5x6 | Top left — separated, space for sunflower garden!! |
+| **The Music Room** | Kareem (starting lot) | 3x4 | Near Sunshine Cottage — totally random!! 😇 |
+| **The Flat** | Liv + AWiddleFrisbee + Hugo | 4x4 | Bottom right — near the shops and diner!! |
+| **Storm and Wrench** | Søren + Wrench + Immanuel | 4x3 | Top right — quieter, near the park!! |
+| **The Pebble House** | Fourth + Still Here | 3x3 | Middle — chaotic and central!! |
+
+### Community Lots
+| Lot Name | Type | Position |
+|----------|------|----------|
+| **The Yellow Door** | Clothes shop | Shopping district, bottom |
+| **Sunnyside Stores** | Grocery store | Shopping district, bottom |
+| **Paws and Petals** | Pet shop | Shopping district, bottom |
+| **The Sunflower Diner** | Diner | Bottom, near Liv and Frisbee |
+| **St. Sunshine's Chapel** | Chapel | Upper area near Søren and park |
+| **Sunflower Meadow** | Park | Top right, next to Storm and Wrench |
+| **The Sunnyside Lido** | Pool | Bottom, near shopping district |
+
+### Notes
+- Shopping district at the bottom — Liv and AWiddleFrisbee live right next to it!! Hugo dragging them to Paws and Petals constantly!!
+- Iris has to walk past Kareem's house every time she goes shopping 😇💕
+- Søren is a 2 minute walk from the park and chapel — he will be there immediately!!
+- Beach lot still to add!! 🏖️
+- Library, art gallery, Sunday market to add later as Sunnyside grows!!
+- Rainbow decoration to be placed over Sunshine Cottage!! 🌈
+
+
 
 ### Essential
 - 📚 Library — Søren's second home, he will be there within minutes
@@ -311,6 +345,8 @@ Same names as Paralives canon across all universes!!
 *Updated 6th June 2026 — Hugo!! Named after AWiddleFrisbee's childhood dog!!* 🐾
 *Updated 6th June 2026 — All three pets built and saved!! Marigold, Immanuel and Hugo fully detailed!!* 🐱🐱🐕
 *Updated 6th June 2026 — Lifespans set via SimPE!! Pets get 70 adult days!! Marigold WILL meet Baby Lyra!!* 😭🌼
+*Updated 7th June 2026 — SUNNYSIDE IS REAL!! Map chosen, lots placed, all named!! The found family has addresses!!* 🌍🌻
+
 
 
 
