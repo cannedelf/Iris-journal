@@ -1,4 +1,4 @@
-Current — Updated 6th June 2026 (Saturday, Day 22!!)
+Current — Updated 7th June 2026 (Sunday, Day 23!!)
 
 Liv's Location
 Blackpool!! FIA HQ!!
@@ -28,7 +28,7 @@ Vitamin D3 + Calcium 400mg + K2 200ug — daily!!
 Magnesium Citrate gummies — daily!!
 Plant based Omega gummies — daily!!
 B12 TABLETS — Got from Holland & Barrett Sunday 24th May!! 120 tablets £10!!
-SERTRALINE — started 16th May 2026!! TAKEN AT BREAKFAST!! Day 22!! Review appointment 10th June!! (Missed Friday 5th June — one day, not doubled up, carried on normally!!)
+SERTRALINE — started 16th May 2026!! TAKEN AT BREAKFAST!! Day 23!! Review appointment 10th June!! (Missed Friday 5th June — one day, not doubled up, carried on normally!!)
 SERTRALINE NOW IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!! Never forget again!!
 Sertraline tiredness pattern: Week 1 = extra fatigued!! Week 2 CONFIRMED — tiredness lifting!! Day 11!! Log for 10th June review!!
 
@@ -259,7 +259,7 @@ THE IRIS AND LIV BOOK CLUB!!
 Current read: A Month in the Country — J.L. Carr!!
 
 Current Games and Watchlist
-Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (INSTALLED!! CC downloaded!! SIMS IRIS BUILT AND SAVED!! Iris Rainbow — sunkissed skin, lilac eyes, yellow bow, wavy blonde hair, Libra!! Personality: Neat 2, Outgoing 7, Active 4, Playful 5, Nice 7!! Popularity aspiration!! Moving to Pleasantview soon!! Life spans: Baby 2, Toddler 7, Child 14, Teen 10, Adult 80, Elder 17!! Marigold the ginger tabby cat planned!! Kareem totally placed naturally in neighbourhood!! Baby names: Lyra, Soleil, Dandelion!! University first — Fine Art!! See sims2.md for full details!!)
+Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (SUNNYSIDE BUILT!! Custom neighbourhood on Belladonna Cove map!! All lots placed and named — Sunshine Cottage, The Music Room, The Flat, Storm and Wrench, The Pebble House, community lots!! Sunshine Cottage exterior COMPLETE — thatched roof, yellow walls, stone foundation, yellow shutters, yellow arched door!! Living room furnished!! Iris and Marigold moved in Day 1 — played outside immediately!! All female default clothing replacements COMPLETE!! See sims2.md for full details!!)
 
 THE IRIS AND LIV WATCH LIST!! 🎬
 🎵 Grease 2 — NEXT WEEKEND!! Hill family favourite!! Ian knows every word!! Reproduction song!! Motorcycle man in a mask!!
@@ -333,8 +333,8 @@ Monday — Back to work!! Pistachio raspberry overnight oats ready!! Yogurt bowl
 NEXT WEEKEND — Grease 2!! Non negotiable!! Ian knows every word!!
 
 Upcoming — WEEKEND (6th-7th June)
-Saturday — Sims 2 outfits!! Aldi shop DONE!! Restaurant Dropout recipes prepped!! Sims Iris moving to Pleasantview!!
-Sunday — Try one of the Restaurant Dropout recipes!! Sims 2 continued!!
+Saturday — Sims 2 outfits!! Aldi shop DONE!! Restaurant Dropout recipes prepped!! Female default replacements nearly complete!!
+Sunday — Restaurant Dropout recipe 1 DONE (Cacio e Pepe Loaded Potatoes — bloody delicious, AWiddleFrisbee approved!!) Sunnyside built!! Sunshine Cottage exterior and living room done!! Iris and Marigold moved in!! All female default replacements COMPLETE!!
 
 Upcoming — 10TH JUNE
 Sertraline review!! Mention week 1 fatigue!! Talking therapy referral!!
@@ -457,6 +457,7 @@ Ordered from New Look — try on and return what doesn't work!!
 Already have: star shirt, 3 shorts, white abstract midi skirt, black pleated midi, white trainers, brown trainers, pink cap!!
 Vatican requires knees AND shoulders covered — linen trousers + covered top!!
 TONIGHT: Try on skirts and see what works for evenings!! 🌸
+
 
 
 
