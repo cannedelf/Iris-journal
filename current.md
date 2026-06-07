@@ -65,8 +65,6 @@ Unisure — chased by email, phone Monday if no response!!
 MONDAY: Canada Life x2 arrived!! Phone Unisure!! Chase Lesley (L&G)!! Chase Sophia (Vitality)!! Chase Nina re Suying Zhang!! Zurich discrepancy — Angus investigating!!
 Waiting on: Aegon, Unisure, Zurich missing 1!!
 CANADA LIFE x2 ARRIVED — ready for Monday posting!!
-Friday done: Guardian chased (Feb invoice), Royal London chased (12 invoices), £52.98 personal transaction chased third time 😊, med invoices posted/sent/filed, 31 invoices printed and posted, payments made (1 over £10K held for Tanya), credit card receipts posted (Laura, Rose, Ed, Lauren, Chris), 60 EORs completed before Royal London rate change!!
-Draft policies email sent 3rd June — Laura backing up, account managers chased!!
 Daily: bank feed cleared insurer by insurer!! Med invoices ongoing!!
 
 Genlocke Equipment
@@ -120,15 +118,6 @@ The Rainbow Bagel — bagel, sriracha hot honey hummus OR jalapeño jam (better!
 
 Summer Meal Plan — see below!!
 
-Week 1 Meal Plan!!
-Monday — Cosy Sunday lunch!! Shakshuka tea!! ✔️
-Tuesday — Cosy Sunday lunch!! Red Lentil Dahl tea!! ✔️
-Wednesday — Cosy Sunday lunch!! Black Bean Quesadillas tea!!
-Thursday — Red Lentil Dahl lunch!! Peanut Noodles tea!!
-Friday — Peanut Noodles lunch!! Halloumi Traybake tea!!
-GET EDAMAME FROM MORRISONS ON LUNCH THIS WEEK!!
-
-
 Summer Meal Plan!!
 WEEK 1:
 Saturday — Pizza!!
@@ -147,8 +136,6 @@ Tuesday — Pasta lunch!! Greek Halloumi Bowl tea!!
 Wednesday — Greek Halloumi Bowl lunch!! Mediterranean Chickpea Bowl tea!!
 Thursday — Mediterranean Chickpea Bowl lunch!! White Bean and Tomato Pasta tea!!
 Friday — Pasta lunch!! Egg Fried Rice tea!!
-
-Cosy Sunday, Shakshuka and Dahl saved for AUTUMN!! 🍂
 
 AWiddleFrisbee Debt Log
 Cruise: £364 / Rome: £475 / TOTAL: £739 (£100 paid 30th April)
@@ -456,7 +443,6 @@ Ordered from New Look — try on and return what doesn't work!!
 - Brown crinkle trousers (try on vs stone)!!
 Already have: star shirt, 3 shorts, white abstract midi skirt, black pleated midi, white trainers, brown trainers, pink cap!!
 Vatican requires knees AND shoulders covered — linen trousers + covered top!!
-TONIGHT: Try on skirts and see what works for evenings!! 🌸
 
 
 
