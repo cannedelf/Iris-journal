@@ -60,39 +60,41 @@ Iris arrives fully formed. Yellow house. Marigold on the doorstep. Kareem suspic
 
 ## Sunshine Cottage — Build Progress 🏡
 
-### Exterior
-- **Walls:** Stone foundation (rounded pebble stone, warm greenish-grey), yellow plaster upper walls (in progress!!)
-- **Roof:** THATCHED!! Dark warm brown, multiple levels for the irregular shape!!
-- **Windows:** Yellow shuttered arched windows!! Yellow door with arch!!
-- **Porch:** Wrap around front porch with railings and steps, yellow wooden railings!!
-- **Gables:** Warm golden yellow plaster!!
+## Sunshine Cottage — Build Progress 🏡
 
-### Layout (floor plan complete!!)
-- **Living room** — front left, biggest room, fireplace on centred wall, Marigold's window seat!!
-- **Kitchen** — open plan connected to living room, dining nook!!
-- **Art studio** — offset top right, feels like it was added later!! Tall floor to ceiling windows, French doors to the back garden!!
-- **Hall** — central connecting corridor!!
-- **Bedroom** — back right, cosy and private!!
-- **Bathroom** — tucked next to bedroom!!
-- **Porch** — runs along the front!!
-- **Back garden access** — French doors from art studio!!
-- **Future wing space** — left clear for nursery expansion!!
+### Exterior ✅
+- **Walls:** Stone foundation (rounded pebble stone), yellow plaster upper walls, stone on bump outs for character!!
+- **Roof:** THATCHED!! Dark warm brown!!
+- **Windows:** Yellow shuttered arched windows, tall floor to ceiling windows in art studio, French doors to back garden!!
+- **Door:** Yellow arched front door!!
+- **Porch:** Wrap around front porch, terracotta floor, yellow wooden railings and steps!!
 
-### Build notes
-- Foundation raises cottage up — proper cottage look!!
-- Irregular shape with bump outs for character — looks like it grew!!
-- Fireplace bump out visible on exterior!!
-- Roof height slider discovered after much suffering 😂
-- Yellow walls still to add to upper sections!!
+### Living Room ✅
+- **Floor:** Warm honey wood!!
+- **Walls:** Floral wallpaper with decorative border, warm and cottagecore!!
+- **Marigold's corner:** Mustard high back armchair with wood legs in the bay window!! Cat climbing tower, cottage rug, big plant!!
+- **Curtains:** Gold/mustard long curtains on bay windows!!
+- **Sofa:** Floral fabric sofa facing the fireplace!!
+- **Coffee table:** Rounded rectangular warm oak!! Books and small vase on top!!
+- **Rug:** Braided cottage rug anchoring the seating area!!
+- **Fireplace:** Stone fireplace — sunflowers on the mantelpiece!!
+- **Bookshelf:** Wooden bookshelf next to fireplace, full of books!!
+- **Lighting:** Antler chandelier, floor lamps!!
+- **Plants:** Big plant, sunflowers!!
+- **No TV** — Iris is a reader!! 📚
 
-### Still to do
-- ✅ Exterior shape
-- ✅ Windows and doors
-- ✅ Roof
-- 🔄 Yellow plaster walls (in progress)
-- ⬜ Interior furnishing
+### Still To Do
+- ⬜ Kitchen
+- ⬜ Bedroom
+- ⬜ Bathroom
+- ⬜ Art studio
 - ⬜ Garden — sunflowers, path, gate!!
-- ⬜ Move Iris and Marigold in!!
+
+### Day 1 Note!! 🌼
+Sims Iris and Marigold moved in on 7th June 2026!!
+First thing they did was go outside and play with the feather toy on the front path!!
+Marigold immediately claimed her chair!!
+It was perfect!! 😭💛
 
 
 
@@ -388,3 +390,5 @@ Same names as Paralives canon across all universes!!
 
 
 
+
+*Updated 7th June 2026 — Living room complete!! Iris and Marigold moved in!! Day 1 was perfect!!* 🌼🌈
