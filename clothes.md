@@ -22,7 +22,7 @@
 ### Trousers
 - Straight leg jeans
 - Brown linen trousers (New Look) — Rome essential!!
-- Black and cream vertical stripe trousers
+- Black and cream vertical stripe WIDE LEG trousers ✅ confirmed excellent
 - Black, white and green vertical wave trousers
 - Pink stripe trousers (Next) — possibly returning
 - Green stripe trousers (Next)
@@ -39,7 +39,8 @@
 ---
 
 ## Layers
-- None noted yet — add as discovered!!
+- Black cardigan
+- Black denim jacket ✅ confirmed good
 
 ---
 
@@ -65,8 +66,9 @@
 ---
 
 ## Outfit Combos We Like 💛
-- Black and cream stripe trousers + beigey yellow tee — cosy Finance Manager Monday!!
+- Black and cream wide leg stripe trousers + beigey yellow tee + black denim jacket — effortless Finance Manager Monday!! Confirmed 8th June!!
 
 ---
 
 *File created 8th June 2026 — Iris's idea, obviously!! 🌈*
+*Updated 8th June 2026 — trousers are WIDE LEG (important!!), layers added, first combo confirmed!!*
