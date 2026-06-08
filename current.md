@@ -31,7 +31,7 @@ B12 TABLETS — Got from Holland & Barrett Sunday 24th May!! 120 tablets £10!!
 SERTRALINE — started 16th May 2026!! TAKEN AT BREAKFAST!! Day 23!! Review appointment 10th June!! (Missed Friday 5th June — one day, not doubled up, carried on normally!!)
 SERTRALINE NOW IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!! Never forget again!!
 Sertraline tiredness pattern: Week 1 = extra fatigued!! Week 2 CONFIRMED — tiredness lifting!! Day 11!! Log for 10th June review!!
-⚠️ SERTRALINE RUNS OUT SATURDAY 13TH JUNE — BOOK DOCTOR APPOINTMENT THIS WEEK!!
+✅ DOCTOR APPOINTMENT BOOKED — Saturday 13th June 10:45!! Dr Arshad Khan!! Extended access!! AWiddleFrisbee coming!! 💛
 
 Medical Register
 AMA — Acute Morning Allergy (Liv) — RESOLVED!!
@@ -63,7 +63,7 @@ The Exeter COMPLETE!!
 Smalls: Atlas, Guardian, Utmost, Xact COMPLETE!! Canada Life partial done, 2 still outstanding!!
 Catherine adviser spreadsheet Tab 1 COMPLETE!! Tab 2 (202 lines) still to do!!
 Unisure — chased by email, phone Monday if no response!!
-MONDAY: Canada Life x2 arrived!! Phone Unisure!! Chase Lesley (L&G)!! Chase Sophia (Vitality)!! Chase Nina re Suying Zhang!! Zurich discrepancy — Angus investigating!!
+MONDAY COMPLETE!! Canada Life posted!! Unisure chased — Ben emailed, statement received and processed!! Lesley chased — gone to insurer!! Sophia chased!! Nina emailed re Suying Zhang!! Coutts spreadsheet 740 lines DONE!! Missing invoice posted!!
 Waiting on: Aegon, Unisure, Zurich missing 1!!
 CANADA LIFE x2 ARRIVED — ready for Monday posting!!
 Daily: bank feed cleared insurer by insurer!! Med invoices ongoing!!
@@ -221,7 +221,7 @@ THE IRIS AND LIV BOOK CLUB!!
 (no current read)
 
 Current Games and Watchlist
-Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (SUNNYSIDE BUILT!! Custom neighbourhood on Belladonna Cove map!! All lots placed and named — Sunshine Cottage, The Music Room, The Flat, Storm and Wrench, The Pebble House, community lots!! Sunshine Cottage exterior COMPLETE — thatched roof, yellow walls, stone foundation, yellow shutters, yellow arched door!! Living room furnished!! Iris and Marigold moved in Day 1 — played outside immediately!! All female default clothing replacements COMPLETE!! See sims2.md for full details!!)
+Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (SUNNYSIDE FULLY PLANNED!! Kitchen COMPLETE — cream floral cabinets, vintage oven, mosaic flower table, sunflowers on counter, Marigold's bowl!! All lots placed and positioned — beach road cluster, village centre with terracotta tiles, cultural quarter, quiet end with park!! CC vintage cream fridge to install tomorrow!! Iris lifetime want: 20 pet best friends!! Male default clothing replacements in progress!! See sims2.md for full details!!)
 
 THE IRIS AND LIV WATCH LIST!! 🎬
 🎵 Grease 2 — NEXT WEEKEND!! Hill family favourite!! Ian knows every word!! Reproduction song!! Motorcycle man in a mask!!
@@ -303,6 +303,7 @@ Next order keeps: denim shorts ✅, 5-pack basics ✅!!
 
 
 Incident Log (recent)
+Monday 8th June 2026 — Sertraline Day 24!! LEGENDARY Monday!! Doctor appointment booked for Saturday!! Canada Life posted, Unisure chased, Coutts 740 lines done, all chasers sent!! 4 bribery pictures earned!! clothes.md created!! Calabrese Salad Pizza debut — AWiddleFrisbee approved, very summery!! Sunnyside kitchen complete with cream floral cabinets and sunflowers!! All Sunnyside lots placed — beach road, village centre with terracotta tiles, cultural quarter, quiet end!! Future households planned: Theo and Barnaby, Edie and Arthur Meadow, Sable and Ink!! The Golden Anchor on the beach road!! Søren approved his wardrobe — "she finds the warmth already in the charcoal and turns it up half a notch!!" 🌩️💛
 Tuesday 2nd June 2026 — Sertraline Day 18!! MASSIVE commission day!! Royal London defeated, AIG done, ALL smalls cleared, Lauren adviser spreadsheet 61 lines DONE!! 4 bribery pictures earned!! Running plan built (Couch to 5K, starting 9th June, 5K by 15th August!!), running log saved to GitHub!! Baby Rainbow Cottage renders done!! Para-Iris Rank 16 Studio Director, Kareem is now a TEACHER, Wonky Cottage fund £10,348!! Favourite song confirmed: Disco 2000 by Pulp!! Vela Supernova Remnant APOD — the explosion is over but the consequences continue!!
 Monday 1st June 2026 — Sertraline Day 17!! MASSIVE work day: bank feed cleared, 5 med invoices, full credit card chase, commission statements done across most providers!! 4 bribery pictures drawn!! Hozy + House Flipper 2 purchased!! Self portraits drawn!! Blue micromoon clouded out third night!!
 Sunday 31st May — Sertraline Day 16!! Rome FULLY BOOKED!! Watched Paddington 2 — LOVED IT!! Full found family in Paralives!! Para-Søren walked in on Para-Iris and Kareem in the bathroom!! Para-Iris became STUDIO DIRECTOR!! Kareem moved in!! Grease 2 scheduled!!
