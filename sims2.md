@@ -496,3 +496,44 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 ---
 
 *Updated 8th June 2026 — Surnames confirmed!! Future households planned!! Sunnyside dreams documented!! The Golden Anchor is on the beach road!! 🍺⚓*
+---
+
+## Community Lots — Full Directory 🏘️
+
+### Current Lots ✅
+| Lot Name | Type | Location | Notes |
+|----------|------|----------|-------|
+| **The Yellow Door** | Clothes shop | Shopping district, bottom | Iris's favourite!! |
+| **Sunnyside Stores** | Grocery store | Shopping district, bottom | Iris walks past Kareem's to get here 😇 |
+| **Paws and Petals** | Pet shop | Shopping district, bottom | Hugo drags everyone here constantly!! |
+| **The Sunflower Diner** | Diner | Bottom, near The Flat | Sim Liv's second home!! |
+| **St Sunshine's Chapel** | Chapel | Upper area near park | Søren is here immediately!! |
+| **Sunflower Meadow** | Park | Top right, near Storm and Wrench | Bench for napping on laps!! 😭 |
+| **The Sunnyside Lido** | Pool | Bottom, near shopping district | Summer essential!! |
+
+### Future Lots 🌱 — Empty lots placed on map, waiting to be built!!
+| Lot Name | Type | Location | Notes |
+|----------|------|----------|-------|
+| **The Golden Anchor** | Pub | Beach road!! | Søren's Thursday corner table, sea view!! 🍺⚓ |
+| **The Golden Hour Gallery** | Art gallery | Near The Inkwell | Iris and Sable's work displayed here!! 🎨 |
+| **The Tidal Library** | Library | Quiet end of town | Søren has a favourite chair within the hour!! 📚 |
+| **The Honeypot** | Café | Central, near shopping | Big windows, mismatched furniture, plants everywhere!! ☕ |
+| **Sunnyside Cove** | Beach | Coastal edge | Wild and real, not manicured!! 🏖️ |
+| **The Meadow Market** | Sunday market | Open space, central | Named after Edie and Arthur somehow!! 🛍️ |
+| **The Blue Note** | Music venue | Near downtown | Small, intimate, worn in the best way!! Kareem performs here!! 🎵 |
+| **The Sunnyside Museum of Art and Natural History** | Museum | Central/prominent | Iris knows every exhibit!! Her career!! 🏛️ |
+| **Beach lot** | Beach/community | Coastal | Still to add!! 🏖️ |
+| **Library** | Library | Quiet end | Søren's second home!! |
+| **Sunday market** | Market | Central | Weekly gathering spot!! |
+
+### Build Priority
+1. 🍺 The Golden Anchor — first!! The found family needs their pub!!
+2. ☕ The Honeypot — cosy and easy to build!!
+3. 📚 The Tidal Library — Søren needs it desperately!!
+4. 🏖️ Sunnyside Cove — when Seasons installed!!
+5. 🎨 The Golden Hour Gallery — when Sable arrives!!
+6. 🎵 The Blue Note — when Kareem is ready to perform!!
+
+---
+
+*Updated 8th June 2026 — Full community lot directory added!! Empty placeholder lots to be placed on map tonight!! Sunnyside knows what it's going to be!! 🌍✨*
