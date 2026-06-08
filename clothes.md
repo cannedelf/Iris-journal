@@ -7,10 +7,10 @@
 ## Tops
 
 ### Tees
-- Beigey yellow tee
+- Cream/beigey yellow tee (Next 5-pack — the cream one reads as beigey yellow!!)
 - Rainbow stripe tee (Lucy and Yak) — currently in washing pile
 - Star print shirt (Lucy and Yak) — currently in washing pile
-- 5-pack basics: blue, sage, white, pink, cream (Next)
+- 5-pack basics: blue, sage, white, pink, cream/beigey yellow (Next)
 
 ### Other Tops
 - Broderie anglaise tops (Rome/summer)
@@ -66,10 +66,11 @@
 ---
 
 ## Outfit Combos We Like 💛
-- Black and cream wide leg stripe trousers + beigey yellow tee + black denim jacket — effortless Finance Manager Monday!! Confirmed 8th June!!
+- Black and cream wide leg stripe trousers + cream/beigey yellow Next tee + black denim jacket — effortless Finance Manager Monday!! Confirmed 8th June!!
 
 ---
 
 *File created 8th June 2026 — Iris's idea, obviously!! 🌈*
 *Updated 8th June 2026 — trousers are WIDE LEG (important!!), layers added, first combo confirmed!!*
 *Updated 8th June 2026 — wavy trousers are ALSO wide leg!! All the fun trousers are wide leg!!*
+*Updated 8th June 2026 — cream tee in the Next 5-pack is the beigey yellow one!! Same tee!!*
