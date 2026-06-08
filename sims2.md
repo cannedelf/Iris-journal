@@ -396,48 +396,103 @@ Same names as Paralives canon across all universes!!
 
 ---
 
+---
+
+## Sunnyside Surnames & Full Names 🏡
+
+### Original Households
+| Sim | Full Name | House |
+|-----|-----------|-------|
+| 🌈 Iris | Iris Golden Rainbow | Sunshine Cottage |
+| 🎹 Kareem | Kareem Osei | The Music Room |
+| 🦇 Sim Liv | Liv Hill | The Flat |
+| 🍊 Sim AWiddleFrisbee | Widdle Frisbee | The Flat |
+| 🌩️ Søren | Søren Hill | Storm and Wrench |
+| 🔧 Wrench | Wrench Hill | Storm and Wrench |
+| 📜 Fourth | Fourth Frisbee | The Pebble House |
+| 🪨 Still-Here | Still-Here Frisbee | The Pebble House |
+
+### Hill Siblings!! 💛
+Liv, Søren and Wrench are ALL siblings!! Split across two houses but always in each other's lives!!
+
+### Frisbee Siblings!! 😂
+Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnyside!!
+
+---
+
 ## Future Households 🌱
 
 *Sunnyside grows slowly and organically — one household at a time so each arrival feels like a proper story moment!!*
 
-### Confirmed Future Arrivals
-
-#### 🐕 Theo Osei-adjacent — Sim Liv's Person!!
-- Name: **Theo** (maybe!!)
-- Arrives with a big fluffy dog called **Barnaby**
-- Lives near the park so Barnaby gets his walks!!
-- Warm, funny, kind eyes, makes Sim Liv laugh without trying!!
-- Barnaby and Hugo become immediately inseparable and cause chaos!!
-- How they meet: the dogs introduce them!! 😭💛
-- Arrival: far future, when Sunnyside is ready!!
-
-### Wishlist Households
-
-#### 👴👵 The Sunnyside Elders
-- An older couple who've lived in Sunnyside forever!!
-- Everyone's honorary grandparents!!
-- Their house always smells like baking!!
-- Sunday lunch for the whole found family!!
-- Give Sunnyside its roots and history!!
-
-#### 🌟 The Young Arrival
-- Someone Lyra or Soleil's age — arrives when the next generation grows up!!
-- Fresh genes for Sunnyside!!
-- Moves there for a fresh start!!
-- Friendship for the next generation!!
-
-#### 🎨 The Solo Arrival
-- An artist or musician living alone!!
-- Self contained but gradually becomes part of everything!!
-- Meets everyone through the community lots!!
-- Interesting and a little mysterious!!
-
-### Notes
-- All naming rights belong to Iris!! 🌈
-- Each arrival should feel like a story moment — like Kareem arriving "totally randomly" near Sunshine Cottage!! 😇
-- Sunnyside welcomes everyone!! Diversity of households, backgrounds, and stories!!
-- New arrivals need their own pets where possible — fresh genes for the pet population too!!
+### Arrival Order
+1. 🐕 **Theo Calloway + Barnaby** — after first rotation or two!!
+2. 🌿 **Edie and Arthur Meadow + Newton** — quiet end of town!!
+3. 🖤 **Sable Voss + Ink** — near the future art gallery!!
 
 ---
 
-*Updated 8th June 2026 — Future households section added!! Theo and Barnaby are coming!! Eventually!! 🐕💛*
+### 🐕 Theo Calloway — Sundown House
+- **Name:** Theo Calloway
+- **House:** Sundown House
+- **Dog:** Barnaby — big fluffy golden retriever!! Thinks he's a lap dog!! 😂
+- **Location:** Near the park so Barnaby gets his walks!!
+- **Personality:** Warm, funny, kind eyes, makes Sim Liv laugh without trying!!
+- **How he meets Liv:** Barnaby and Hugo introduce them!! Immediate chaos!! 😭
+- **Notes:** Sim Liv's person!! Arrives when Sunnyside is ready for him!!
+
+---
+
+### 🌿 Edie and Arthur Meadow — Tide Cottage
+- **Names:** Edith "Edie" Meadow and Arthur Meadow
+- **House:** Tide Cottage
+- **Cat:** Newton — very old, very slow, very dignified!!
+- **Location:** Quiet end of Sunnyside, near Storm and Wrench!!
+- **Personality:** Unofficial grandparents of Sunnyside!! Always have something on the stove!! House always smells like baking!! Everyone's welcome!!
+- **Notes:** Edie does the garden and is always right!! Arthur makes the tea and tells long stories!! Everyone stays longer than they meant to!! 💛
+- **Special:** Newton and Immanuel have a very dignified old cat standoff across the garden fence!! 😂
+
+---
+
+### 🖤 Sable Voss — The Inkwell
+- **Name:** Sable Voss (just Sable!!)
+- **House:** The Inkwell — small, tucked away, near the future art gallery!!
+- **Cat:** Ink — black cat, mysterious and watchful!!
+- **Personality:** Shy, artistic, quietly introverted!! Takes time to open up but completely wonderful when she does!!
+- **Aspiration:** TBD — something creative!!
+- **Career:** Artist!! Her work in the gallery alongside Iris's!!
+- **How she meets everyone:** Iris finds her at the Sunday market and immediately decides they're friends!! 😂
+- **Love interest:** Søren!! They meet at the library — both quiet, both rich inner worlds, just GET each other!! 😭💛
+- **Notes:** Iris's art is warm and golden and full of sunflowers!! Sable's is darker, more introspective, beautiful in a completely different way!! Perfect together in the gallery!!
+- **Ink and Marigold:** Rivals OR unlikely friends — TBD!! 🖤🌼
+
+---
+
+## The Golden Anchor 🍺⚓
+- **Location:** Beach road!! You can hear the sea from the beer garden!!
+- **Vibe:** Cosy pub, dark wood, warm lighting, fireplace!!
+- **Søren's corner table:** Has a view of the water!! He pretends not to look!! 😂
+- **Friday nights:** The whole found family ends up there without planning it!!
+- **Regular:** Søren, every Thursday, with a book and a pint!!
+
+---
+
+## Sunnyside Dreams 🌟
+*Things we want to happen in gameplay!!*
+
+- Iris befriends everyone in town and throws parties at Sunshine Cottage!!
+- Still-Here sits in Marigold's chair and gets told off!! 😂
+- Sim Liv and Sim Iris become best friends!!
+- Widdle Frisbee and Hugo — best friends forever!! 🐕
+- Iris has an art show at the museum — Kareem stands in front of her painting for a long time and then holds her hand!! 😭
+- Sunnyside winter — snow on the thatched roof!! Marigold furious about the cold!!
+- Hugo and Barnaby meet — immediate chaos!!
+- Still-Here wears the tropical boiler suit to The Golden Anchor with complete confidence!!
+- Søren at The Golden Anchor on Thursdays — eventually meets Sable!!
+- Baby Lyra born at Sunshine Cottage — Marigold appoints herself guardian immediately!!
+- Edie and Arthur Meadow at the door with something homemade when Lyra arrives!!
+- Sable and Iris's art displayed together in the gallery!!
+- Sunnyside slowly coming more and more alive as we play!! 🌈
+
+---
+
+*Updated 8th June 2026 — Surnames confirmed!! Future households planned!! Sunnyside dreams documented!! The Golden Anchor is on the beach road!! 🍺⚓*
