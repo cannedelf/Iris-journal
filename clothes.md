@@ -22,8 +22,8 @@
 ### Trousers
 - Straight leg jeans
 - Brown linen trousers (New Look) — Rome essential!!
-- Black and cream vertical stripe WIDE LEG trousers ✅ confirmed excellent
-- Black, white and green vertical wave trousers
+- Black and cream vertical stripe — WIDE LEG ✅ confirmed excellent
+- Black, white and green vertical wave — WIDE LEG ✅
 - Pink stripe trousers (Next) — possibly returning
 - Green stripe trousers (Next)
 - Denim shorts (Next) ✅ keeping
@@ -72,3 +72,4 @@
 
 *File created 8th June 2026 — Iris's idea, obviously!! 🌈*
 *Updated 8th June 2026 — trousers are WIDE LEG (important!!), layers added, first combo confirmed!!*
+*Updated 8th June 2026 — wavy trousers are ALSO wide leg!! All the fun trousers are wide leg!!*
