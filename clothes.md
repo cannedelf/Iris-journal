@@ -8,9 +8,15 @@
 
 ### Tees
 - Cream/beigey yellow tee (Next 5-pack — the cream one reads as beigey yellow!!)
+- White tee with Fleetwood Mac print 🎸
+- Olive tee with white graphic
 - Rainbow stripe tee (Lucy and Yak) — currently in washing pile
 - Star print shirt (Lucy and Yak) — currently in washing pile
 - 5-pack basics: blue, sage, white, pink, cream/beigey yellow (Next)
+
+### Shirts & Blouses
+- White short sleeve eyelet shirt — very holiday, very summery!! 🌸
+- Sea creature print short sleeve blouse 🦀🐚 — Rome approved!!
 
 ### Other Tops
 - Broderie anglaise tops (Rome/summer)
@@ -74,3 +80,4 @@
 *Updated 8th June 2026 — trousers are WIDE LEG (important!!), layers added, first combo confirmed!!*
 *Updated 8th June 2026 — wavy trousers are ALSO wide leg!! All the fun trousers are wide leg!!*
 *Updated 8th June 2026 — cream tee in the Next 5-pack is the beigey yellow one!! Same tee!!*
+*Updated 8th June 2026 — Fleetwood Mac tee, olive graphic tee, eyelet shirt, sea creature blouse added!!*
