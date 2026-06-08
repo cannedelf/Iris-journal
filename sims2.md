@@ -83,8 +83,24 @@ Iris arrives fully formed. Yellow house. Marigold on the doorstep. Kareem suspic
 - **Plants:** Big plant, sunflowers!!
 - **No TV** — Iris is a reader!! 📚
 
+
+### Kitchen ✅
+- **Floor:** Warm honey wood (matches living room!!)
+- **Walls:** Floral wallpaper matching living room — open plan!!
+- **Cabinets:** Cream with little painted floral details!! Wood countertops!!
+- **Sink:** Built into counter with gingham curtain underneath instead of cupboard doors!!
+- **Oven:** Matching vintage oven with floral detailing!!
+- **Fridge:** Cream 1950s retro fridge!! (CC from Tumblr/lordcrumps creator — TO INSTALL TOMORROW!!)
+- **Lighting:** Gorgeous brass/gold chandelier!!
+- **Curtains:** Lace curtains on windows!!
+- **Decor:** Little kettle, dried flowers hanging, spice rack, sunflowers on the corner cabinet!! 🌻
+- **Marigold:** Bowl on the floor in prime position!!
+- **Dining area:** Mosaic flower round table, mismatched painted chairs with woven seats, vase of flowers, pet portraits on the wall!!
+- **Arch:** Archway separating kitchen and living room — open plan but defined!!
+- **Rug:** Small rug by the oven!!
+
 ### Still To Do
-- ⬜ Kitchen
+- ✅ Kitchen
 - ⬜ Bedroom
 - ⬜ Bathroom
 - ⬜ Art studio
@@ -537,3 +553,47 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 ---
 
 *Updated 8th June 2026 — Full community lot directory added!! Empty placeholder lots to be placed on map tonight!! Sunnyside knows what it's going to be!! 🌍✨*
+---
+
+## Sim Iris — Lifetime Want!! 🌟
+**Make 20 Pet Best Friends!!**
+The most Iris lifetime want that has ever existed!! She wants to be best friends with every single animal in Sunnyside!!
+Progress: Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnaby all waiting!! 😭🐾
+
+---
+
+## Sunnyside — Lot Placement Complete!! 🗺️
+*Updated 8th June 2026 — All lots placed and positioned!!*
+
+### Beach Road Cluster 🌊
+- 🍺 The Golden Anchor — beach road!!
+- 🏖️ Sunnyside Cove — beach lot!!
+- 🏊 The Tidal Pool — lido!!
+
+### Village Centre 🛍️
+- Terracotta tile shopping street connecting all shops!!
+- The Yellow Door, Sunnyside Stores, Paws and Petals all connected!!
+- The Sunflower Diner nearby!!
+- ☕ The Honeypot — small and cosy, tucked into shopping street!!
+- 🛒 The Meadow Market — open and airy, next to shopping street!!
+
+### Cultural Quarter 🎨
+- 🎨 The Golden Hour Gallery!!
+- 🎵 The Blue Note music venue!!
+- 🏛️ The Sunnyside Museum!!
+- 🖤 The Inkwell — Sable's future house, opposite gallery, ocean view!!
+
+### Quiet End 📚
+- 📚 The Tidal Library — across from the park!!
+- ⛪ St Sunshine's Chapel — next to the park, tucked in with trees!!
+- 🌳 Sunflower Meadow Park — roads grew around it, feels established!!
+- 🌿 Tide Cottage — on the quiet road just on the edge of town!!
+
+### Future Residential
+- 🐕 Sundown House — near Søren and Wrench, next to park!! Theo and Barnaby!!
+
+### Notes
+- Shopping district visible from Sunshine Cottage!! 😭
+- Iris walks past Kareem's every time she goes shopping!! 😇
+- Park area is the most beautiful corner — feels like it's always been there!!
+- Tons of room for future expansion!!
