@@ -21,6 +21,7 @@
 ### Shirts & Blouses
 - White short sleeve eyelet shirt — very holiday, very summery!! 🌸
 - Sea creature print short sleeve blouse 🦀🐚 — Rome approved!!
+- Black eyelet short sleeve shirt — Rome essential!! Needs black bra!! 🖤
 
 ### Other Tops
 - Broderie anglaise tops (Rome/summer)
@@ -39,7 +40,8 @@
 - Denim shorts (Next) ✅ keeping
 
 ### Skirts
-- None noted yet!!
+- Black and white abstract print midi skirt — pleated!! Very chic!!
+- Black pleated midi skirt!!
 
 ---
 
@@ -77,6 +79,10 @@
 
 ## Outfit Combos We Like 💛
 - Black and cream wide leg stripe trousers + cream/beigey yellow Next tee + black denim jacket — effortless Finance Manager Monday!! Confirmed 8th June!!
+
+- Black eyelet shirt + black and white abstract midi skirt — chic and effortless!!
+- Black eyelet shirt + brown linen trousers — Rome Vatican day outfit!! Needs black bra!!
+- Black eyelet shirt + black and cream wide leg stripe trousers — very now!!
 
 ---
 
