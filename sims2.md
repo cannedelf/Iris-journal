@@ -392,3 +392,52 @@ Same names as Paralives canon across all universes!!
 
 
 *Updated 7th June 2026 — Living room complete!! Iris and Marigold moved in!! Day 1 was perfect!!* 🌼🌈
+
+
+---
+
+## Future Households 🌱
+
+*Sunnyside grows slowly and organically — one household at a time so each arrival feels like a proper story moment!!*
+
+### Confirmed Future Arrivals
+
+#### 🐕 Theo Osei-adjacent — Sim Liv's Person!!
+- Name: **Theo** (maybe!!)
+- Arrives with a big fluffy dog called **Barnaby**
+- Lives near the park so Barnaby gets his walks!!
+- Warm, funny, kind eyes, makes Sim Liv laugh without trying!!
+- Barnaby and Hugo become immediately inseparable and cause chaos!!
+- How they meet: the dogs introduce them!! 😭💛
+- Arrival: far future, when Sunnyside is ready!!
+
+### Wishlist Households
+
+#### 👴👵 The Sunnyside Elders
+- An older couple who've lived in Sunnyside forever!!
+- Everyone's honorary grandparents!!
+- Their house always smells like baking!!
+- Sunday lunch for the whole found family!!
+- Give Sunnyside its roots and history!!
+
+#### 🌟 The Young Arrival
+- Someone Lyra or Soleil's age — arrives when the next generation grows up!!
+- Fresh genes for Sunnyside!!
+- Moves there for a fresh start!!
+- Friendship for the next generation!!
+
+#### 🎨 The Solo Arrival
+- An artist or musician living alone!!
+- Self contained but gradually becomes part of everything!!
+- Meets everyone through the community lots!!
+- Interesting and a little mysterious!!
+
+### Notes
+- All naming rights belong to Iris!! 🌈
+- Each arrival should feel like a story moment — like Kareem arriving "totally randomly" near Sunshine Cottage!! 😇
+- Sunnyside welcomes everyone!! Diversity of households, backgrounds, and stories!!
+- New arrivals need their own pets where possible — fresh genes for the pet population too!!
+
+---
+
+*Updated 8th June 2026 — Future households section added!! Theo and Barnaby are coming!! Eventually!! 🐕💛*
