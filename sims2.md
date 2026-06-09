@@ -728,3 +728,52 @@ Progress: Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnab
 ---
 
 *Updated 9th June 2026 — CC resources saved!! Full pet directory added!! Sunnyside is the perfect place for pets!! 🐾*
+
+---
+
+## Sunnyside Genetics 🧬
+
+*Secret hidden genes to set up when creating each household in CAS!!*
+
+### The Golden Rule
+Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! Her lilac eyes may be unique to her alone!!
+
+### Kareem Osei — IMPORTANT!!
+**Make his parents in CAS first to generate him with the right genetics!!**
+- **Kareem's mum:** Blonde hair + lilac eyes!! This gives Kareem BOTH recessive genes hidden!!
+- **Kareem's dad:** Dark hair, dark eyes, tall — Kareem's dominant look comes from him!!
+- **Kareem himself:** Dark curly hair dominant, tall — but carrying hidden blonde hair AND hidden lilac eyes from his mum!!
+- **Why this matters:** When Kareem and Iris have babies, there's a real chance of golden haired AND lilac eyed Rainbow babies!! Little Sol with sunshine hair and Iris's eyes!! 😭💛
+
+### The Frisbee Siblings — AWiddleFrisbee, Fourth, Still-Here
+**Make parents in CAS first!!**
+- One parent dark hair, one parent blonde or ginger!!
+- Ensures all three Frisbee siblings carry a recessive lighter hair gene!!
+- When AWiddleFrisbee and Wrench have children — surprise lighter hair possible!!
+
+### The Hill Siblings — Søren, Wrench, Sim Liv
+- **Søren:** Black hair dominant!!
+- **Wrench:** Brown hair — carries Søren's black as recessive!!
+- **Sim Liv:** Brown hair — carries Søren's black as recessive!!
+- Their children might get surprise black hair from Uncle/Dad Søren's genes!! 😂
+
+### Theo Calloway
+**Make parents in CAS first!!**
+- Sandy/warm brown hair dominant!!
+- One parent blonde — gives Theo a hidden blonde gene!!
+- Sim Liv and Theo's children: brown, sandy, black (from Liv's Søren gene) OR surprise blonde!!
+
+### Sable Voss
+- Dark hair dominant — mysterious and dramatic!!
+- Consider giving one parent auburn/deep red for hidden recessive!!
+- Future children with Søren/Wrench could have interesting surprises!!
+
+### Summary — Who Carries Hidden Blonde
+- ✅ Kareem — hidden blonde AND lilac eyes from his mum!!
+- ✅ Frisbee siblings — hidden lighter hair from parent!!
+- ✅ Theo — hidden blonde from one parent!!
+- ❓ Sable — TBD, consider auburn recessive!!
+
+---
+
+*Updated 9th June 2026 — Genetics planning added!! Kareem's mum is blonde with lilac eyes — this is canon!! 😭💛*
