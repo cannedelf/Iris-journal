@@ -62,7 +62,13 @@
 ---
 
 ## Shoes
-- None noted yet — add as discovered!!
+- White court trainers — everyday, travel!!
+- White walking trainers — sportier shape, good for long days!!
+- Tan/brown court trainers!!
+- Black Birkenstocks — Rome evenings!! 🌙
+- Teva midforms — cream/tan, Rome daytime sightseeing!! Cobblestone approved!!
+- Black Birkenstocks — evenings!!
+- Brown loafers — ⚠️ hurt feet a little, use with caution!!
 
 ---
 
