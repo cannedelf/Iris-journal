@@ -694,6 +694,7 @@ Progress: Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnab
 
 ### Furniture & Clutter
 - **jacky93sims.tumblr.com** — good CC furniture!! Bookmarked 9th June 2026!!
+- **episims.tumblr.com/tagged/the%20sims%202%20download** — music items perfect for Kareem's house!! Bookmarked 9th June 2026!!
 - **lordcrumps.com** — default replacements, hair!!
 - **sims2defaults.dreamwidth.org** — default replacements!!
 
