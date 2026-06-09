@@ -597,3 +597,93 @@ Progress: Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnab
 - Iris walks past Kareem's every time she goes shopping!! 😇
 - Park area is the most beautiful corner — feels like it's always been there!!
 - Tons of room for future expansion!!
+
+---
+
+## Community Lot Details — Build Notes 🏗️
+
+### ☕ The Honeypot — Two Storey Café!!
+**Ground floor:**
+- Counter and coffee machine!!
+- Indoor seating — small tables, mismatched chairs!!
+- Outdoor seating spilling onto the terracotta tiles!!
+
+**Upstairs:**
+- Cosy and tucked away — lower lighting!!
+- Mismatched armchairs!!
+- Bookshelves lining the walls!!
+- Board game table in the corner!!
+- Window seat overlooking the shopping street!!
+- The kind of place you stay for THREE hours!! 😂
+- Søren will be up here constantly!!
+
+---
+
+### 📚 The Tidal Library — Community Hub!!
+**Inside:**
+- Books obviously!! Lots of them!!
+- Computers for sims without them at home!!
+- **Children's section** — bean bags, little desks, picture books, homework stations!! Lyra and Soleil will come here after school!! 😭💛
+
+**Outside:**
+- Reading garden tucked into the trees next to the park!!
+- Benches amongst plants for warm days!!
+- Chess tables outside — logic skill!!
+- Telescope — logic skill!!
+- Feels like the library and park are one big peaceful green corner of Sunnyside!!
+
+---
+
+### 🛒 The Meadow Market — Village Green!!
+**Market area:**
+- Flower stall — different seasonal flowers!! Edie buys from it every week!!
+- Multiple stalls — some buyable, some decorative pretend ones!!
+- Very real market energy!!
+
+**Green area:**
+- Seating — benches, little café tables!!
+- **Outdoor musicians stage!!** — small and casual, for outdoor performances!!
+- Kareem performs here in summer!! 🎵
+- The whole found family ends up here on Sunday mornings!!
+- Part market, part community park — a village green!!
+
+---
+
+### 🎨 The Golden Hour Gallery — Arts Hub!!
+- Main exhibition space — Iris and Sable's work displayed!!
+- **Studio area** — easels available for any sim to come and paint!! Public use!!
+- **Gift shop** — prints, postcards, pottery, handmade things!! You go in for one postcard and spend £40!! 😂
+- How Iris meets Sable — Sable uses the studio before she even has The Inkwell!!
+
+---
+
+### 🍺 The Golden Anchor — Beach Road Pub!!
+- Cosy interior — dark wood, warm lighting, fireplace!!
+- Beer garden with sea view!!
+- Søren's corner table — Thursday evenings, book and a pint!!
+- **Little stage in the corner** — open mic nights!! Kareem gets pulled up eventually!!
+- Everyone ends up here Friday evenings without planning it!!
+
+---
+
+### 🏖️ Sunnyside Cove — Beach!!
+- Wild and real, not manicured!!
+- **Beach hut** — deck chair hire, ice cream!! ESSENTIAL!!
+
+---
+
+### ⛪ St Sunshine's Chapel
+- **Garden of remembrance outside** — bench, quiet and peaceful!!
+- Søren sits there sometimes!!
+
+---
+
+### 🎵 The Blue Note — Music Venue!!
+- Small and intimate, worn in the best way!!
+- **Bar area** — mismatched stools, fairy lights!!
+- Cheap drinks, good music!!
+- Kareem performs here for proper gigs!!
+
+---
+
+*Updated 9th June 2026 — Community lot build notes added!! The Honeypot is two storeys!! The library has a children's section!! The Meadow Market has an outdoor stage!! 🌈💛*
