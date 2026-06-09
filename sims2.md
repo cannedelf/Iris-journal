@@ -687,3 +687,43 @@ Progress: Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnab
 ---
 
 *Updated 9th June 2026 — Community lot build notes added!! The Honeypot is two storeys!! The library has a children's section!! The Meadow Market has an outdoor stage!! 🌈💛*
+
+---
+
+## CC Resources 🎨
+
+### Furniture & Clutter
+- **jacky93sims.tumblr.com** — good CC furniture!! Bookmarked 9th June 2026!!
+- **lordcrumps.com** — default replacements, hair!!
+- **sims2defaults.dreamwidth.org** — default replacements!!
+
+### Already Downloaded
+- Art studio clutter — paint tubes, pots, brushes, palette, sketchpad!! 🎨
+- Cream 1950s vintage fridge — to install!! 🧊
+
+### Still Needed
+- CC vintage fridge installed in Sunshine Cottage!!
+- Art studio easel and furniture!!
+- More clutter for individual houses!!
+
+---
+
+## Sunnyside Pets 🐾
+
+| Pet | Type | Owner | Notes |
+|-----|------|-------|-------|
+| 🐱 Marigold | Ginger tabby | Iris | Rainbow collar, Virgo, already claimed her chair!! |
+| 🐱 Immanuel | Grey British Shorthair | Søren | Judgmental, sits on books, watches fish tank with concerning intensity!! |
+| 🐕 Hugo | Springer spaniel inspired | AWiddleFrisbee | Named after AWiddleFrisbee's real childhood dog!! Sacred!! Sofa is his!! |
+| 🐱 Ink | Black cat | Sable | Mysterious and watchful!! |
+| 🐕 Barnaby | Golden retriever | Theo | Thinks he's a lap dog!! Introduces Theo to Sim Liv!! |
+| 🐱 Newton | Old dignified cat | Edie & Arthur | Very slow, very wise, standoff with Immanuel across garden fence!! |
+| 🐠 Fish | Fish tank | Søren | In his study!! Søren has named them all!! Immanuel watches with concerning intensity!! |
+| 🦜 Parrot | Parrot | Still-Here | Says unhinged things at inappropriate moments!! Nobody surprised!! 😂 |
+| 🐾 Tiny pen dog | TBD | TBD | To explore!! Maybe Fourth?? |
+
+**Iris lifetime want: 20 pet best friends!!** She's going to work through every single animal in Sunnyside!! 🐾💛
+
+---
+
+*Updated 9th June 2026 — CC resources saved!! Full pet directory added!! Sunnyside is the perfect place for pets!! 🐾*
