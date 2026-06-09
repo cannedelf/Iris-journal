@@ -39,6 +39,11 @@
 - Green stripe trousers (Next)
 - Denim shorts (Next) ✅ keeping
 
+### Shorts
+- Denim shorts (Next) ✅ keeping
+- Star print shorts (Lucy and Yak) ⭐
+- Blue striped shorts (Lucy and Yak)
+
 ### Skirts
 - Black and white abstract print midi skirt — pleated!! Very chic!!
 - Black pleated midi skirt!!
