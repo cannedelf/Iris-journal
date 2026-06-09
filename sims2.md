@@ -777,3 +777,26 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 ---
 
 *Updated 9th June 2026 — Genetics planning added!! Kareem's mum is blonde with lilac eyes — this is canon!! 😭💛*
+
+---
+
+## Sunshine Cottage — Room Progress 🏡
+
+| Room | Status | Notes |
+|------|--------|-------|
+| Living room | ✅ DONE | Floral sofa, mustard armchair, antler chandelier, stone fireplace, sunflowers, gold curtains, no TV!! |
+| Kitchen | ✅ DONE | Sage green Cottage Living cabinets (matches Liv's real kitchen!!), vintage oven, mosaic flower table, sunflowers on corner cabinet, Marigold's bowl, cream 1950s fridge!! |
+| Art Studio | ✅ DONE | Stone walls, Artist Studio CC, easel facing windows, paint splattered floor, Marigold's golden striped armchair, canvases leaning against wall, sketches on stone walls, cream backdrop, studio sink, Sunnyside view from windows!! Porch with steps to garden!! |
+| Bathroom | ✅ DONE | Yellow mosaic tile walls, white beadboard wainscoting, hex floor tiles, ornate mirror, vintage vanity with gingham curtain, roman blind, sea view windows, litter tray for Marigold!! |
+| Bedroom | ⬜ TO DO | Tomorrow!! |
+| Hall | ⬜ TO DO | Tomorrow!! |
+
+### Sim Iris Day 1 Notes
+- Put straight into Artist career!! 
+- Wanted to join Music, Culinary AND Politics careers — very her!! 😂
+- First autonomous action: hugged Marigold on the front porch!! 😭💛
+- Lifetime want: 20 pet best friends!! She's going to befriend every animal in Sunnyside!!
+
+---
+
+*Updated 9th June 2026 — Art studio and bathroom complete!! Sage green kitchen updated with Cottage Living CC!! Sim Iris hugged Marigold on Day 1 before the house was even finished!! 😭💛🌈*
