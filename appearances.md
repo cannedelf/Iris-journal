@@ -396,3 +396,27 @@
 ---
 
 *Created 10th June 2026 — complete CAS reference!! Everything in one place!! 💛🌈*
+---
+
+## Degrees 🎓
+*Add via degree mod once Sim is made and placed in a lot!! Gives extra want slots!!*
+
+| Sim | Degree | Notes |
+|-----|--------|-------|
+| 🌈 Iris | Fine Arts!! | Obviously!! |
+| 🎹 Kareem | Literature!! | Thoughtful and fitting!! |
+| 🦇 Liv | Economics!! | Finance Manager origin story!! |
+| 🌩️ Søren | Philosophy!! | Obviously. No notes. |
+| 🔧 Wrench | Physics!! | Engineering adjacent!! |
+| 🍊 AWiddleFrisbee | Drama!! | 😂 Obviously!! |
+| 📜 Fourth | Political Science!! | Very Fourth!! |
+| 🪨 Still-Here | Psychology!! | They understand people completely but never let on!! |
+| 🖤 Sable | Fine Arts!! | She and Iris are co-graduates!! |
+| 🌕 Aesop | Philosophy!! | Søren and Aesop both Philosophy grads having extremely serious conversations at The Tidal Library!! 😂 |
+| 🐕 Theo | Biology!! | Perfect for someone who names all the plants and notices unusual birds!! |
+
+*Edie and Arthur are elders and retired — no degrees needed!!*
+
+---
+
+*Updated 10th June 2026 — Degrees added!! Add via mod for extra want slots!! 🎓💛*
