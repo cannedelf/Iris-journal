@@ -168,14 +168,26 @@ It was perfect!! 😭💛
 
 | Sim | Aspiration | Why |
 |-----|-----------|-----|
-| 🌈 Iris | Popularity | Expert Joy Spreader!! Wants 20 friends, throws parties, knows everyone's name |
-| 🦇 Liv | Family | Quietly building her whole lovely life — the cottage, the found family, everything 💛 |
-| 🍊 AWiddleFrisbee | Popularity | Jester vibe, makes friends immediately, chaos energy |
+| 🌈 Iris | Popularity | Expert Joy Spreader!! Wants 20 friends, throws parties, knows everyone's name!! |
+| 🦇 Liv | Family | Quietly building her whole lovely life — the cottage, the found family, everything!! 💛 |
+| 🍊 AWiddleFrisbee | Popularity | Jester vibe, makes friends immediately, chaos energy!! |
 | 🌩️ Søren | Knowledge | Obviously. No notes. |
-| 🔧 Wrench | Knowledge | Always learning how to fix the next thing |
-| 💕 Kareem | Knowledge | Quietly studious music teacher energy |
-| 📜 Fourth | Knowledge | Analytical, detailed, noticed the pistachio botanical exception |
-| 🪨 Still Here | Pleasure | Extremely unbothered, lives for fun, no grand ambitions, chaotic in the most relaxed way 😂 |
+| 🔧 Wrench | Fortune | Practical builder, values craftsmanship and security!! Works hard, makes things last!! |
+| 🎹 Kareem | Family | His heart!! Table for one waiting to become a table for two!! Roots, warmth, people he loves!! 😭 |
+| 📜 Fourth | Knowledge | Analytical, detailed, noticed the pistachio botanical exception!! |
+| 🪨 Still-Here | Pleasure | Extremely unbothered, lives for fun, no grand ambitions, chaotic in the most relaxed way!! 😂 |
+| 🐕 Theo | Family | Moved to a coastal village with a golden retriever looking for roots!! Warm and steady!! |
+| 🖤 Sable | Knowledge | Paints to understand the world, not just capture it!! Quietly curious, always learning!! |
+| 🌿 Edie | Family | Everyone's honorary grandmother!! Baking for the neighbourhood, Sunday lunches, loves people!! |
+| 📚 Arthur | Knowledge | Retired teacher, tells long stories, spent a whole life learning and wants to share it!! |
+| 🌕 Aesop | Knowledge | Quietly curious about everything!! Came in peace bearing flattery — assessed the situation carefully!! 😂 |
+
+### Aspiration Summary
+- **Family:** Liv, Kareem, Theo, Edie!!
+- **Knowledge:** Søren, Fourth, Sable, Arthur, Aesop!!
+- **Popularity:** Iris, AWiddleFrisbee!!
+- **Fortune:** Wrench!!
+- **Pleasure:** Still-Here!!
 
 ---
 
