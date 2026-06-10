@@ -153,20 +153,22 @@
 
 ---
 
-### 🌿 Edie Meadow — TO PLAN!!
-- **Hair:** TBD — warm grey or white (elder!!)!!
-- **Eyes:** TBD — warm and kind!!
-- **Skin:** TBD!!
-- **Notes:** Retired!! Warm grandmotherly energy!! Always slightly rosy cheeked from the garden!!
+### 🌿 Edie Meadow — APPEARANCE PLANNED!! ✅
+- **Hair:** Silver white!! Worn simply, no fuss!! (Elder!!)
+- **Eyes:** Warm grey or soft blue!! Kind and always slightly smiling!!
+- **Skin:** Warm rosy!! Years of gardening!! Round warm face!!
+- **Notable:** Looks like she gives excellent hugs!! Always slightly smiling!! Rosy cheeked from the garden!!
+- **Notes:** Just her and Arthur in Tide Cottage!! Children grown and elsewhere!! Sunnyside found family IS their family!! 😭💛
 - **Status:** ⬜ Not yet created!!
 
 ---
 
-### 📚 Arthur Meadow — TO PLAN!!
-- **Hair:** TBD — grey or white (elder!!)!!
-- **Eyes:** TBD — thoughtful!!
-- **Skin:** TBD!!
-- **Notes:** Retired teacher!! Distinguished!! Probably has glasses!! Tells long stories!!
+### 📚 Arthur Meadow — APPEARANCE PLANNED!! ✅
+- **Hair:** Silver, thinning slightly!! Distinguished!! (Elder!!)
+- **Eyes:** Dark thoughtful eyes behind glasses!! Always mid-story!!
+- **Skin:** Warm medium!! Slightly weathered from years of walks!!
+- **Notable:** Glasses!! Tall, slightly stooped from years leaning over books!! The kind of face that looks like it's mid-story!! Always has something interesting to say!!
+- **Notes:** Just him and Edie in Tide Cottage!! Came to Sunnyside for peace, the sea and each other!! Found a whole family without looking!! 😭💛
 - **Status:** ⬜ Not yet created!!
 
 ---
