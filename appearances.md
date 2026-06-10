@@ -443,3 +443,94 @@
 ---
 
 *Updated 10th June 2026 — Secondary aspirations planned!! No Romance aspirations in Sunnyside — love is a happy side effect!! 😂💛🌈*
+---
+
+## Lifetime Wants 🌟
+*Use reroll mod to get the right one!! Iris's is already perfect — keep it!!*
+
+| Sim | Lifetime Want | Notes |
+|-----|--------------|-------|
+| 🌈 Iris | 20 Simultaneous Pet Best Friends!! | KEEP — the game just KNEW!! 😭💛 |
+| 🎹 Kareem | Reach Golden Anniversary!! | His whole heart!! |
+| 🦇 Liv | Graduate 3 Children from College!! | Wren, Robin and Rowan!! 😭 |
+| 🐕 Theo | Reach Golden Anniversary!! | He wants to grow old with Liv!! 😭 |
+| 🌩️ Søren | Become Mad Scientist!! | Quietly the most unhinged outcome!! 😂 |
+| 🔧 Wrench | Become City Planner!! | He helped BUILD Sunnyside!! |
+| 🪨 Still-Here | GRILLED CHEESE!! 🧀 | Canon!! Will assign when possible!! 😂 |
+| 🍊 AWiddleFrisbee | Become Prestidigitator!! | Entertainment career!! Obviously!! |
+| 📜 Fourth | Become The Law!! | Very on the nose!! Very Fourth!! 😂 |
+| 🌿 Edie | Have 6 Grandchildren!! | Everyone's honorary grandmother!! 😭 |
+| 📚 Arthur | Become Education Minister!! | Retired teacher keeps going!! 😂 |
+| 🖤 Sable | Max Out 7 Skills!! | Quietly mastering everything!! |
+| 🌕 Aesop | Max Out 7 Skills!! | Same as Sable — purely coincidental!! 😇 |
+| 🌺 Idris | TBD — Popularity aspiration!! | |
+| 🌸 Clara | TBD — Family aspiration!! | |
+
+---
+
+## Body Frames 👤
+*Fourth and Still-Here confirmed by AWiddleFrisbee!!*
+
+| Sim | Frame | Notes |
+|-----|-------|-------|
+| 📜 Fourth | Male!! | Precise, neat, gold round glasses energy!! |
+| 🪨 Still-Here | Female!! | More wardrobe chaos options!! Will find something equally unhinged!! 😂 |
+
+---
+
+## New Arrivals — Idris & Clara 🌺🌸
+
+*Best friends who move to Sunnyside together!! Arrive as a pair, find their people separately!!*
+
+### 🌺 Idris Okafor — ⬜ TO CREATE!!
+
+### Appearance
+- **Hair:** Dark natural coils!! Big and beautiful!! Very different energy to Søren's curls!!
+- **Eyes:** Warm dark brown!! Kind and laughing!!
+- **Skin:** Warm deep brown!! West African heritage!!
+- **Notable:** Genuinely the warmest smile in any room!! Makes everyone feel immediately at ease!! Søren doesn't know what hit him!! 😂😭
+- **Hidden genes:** TBD!!
+
+### Aspiration
+**Popularity!!** — Warm and social, everyone loves them, brings Søren out of his shell!!
+
+### Personality Points (25)
+| Trait | Points |
+|-------|--------|
+| Neat | TBD |
+| Outgoing | TBD |
+| Active | TBD |
+| Playful | TBD |
+| Nice | TBD |
+
+*To be decided!!*
+
+---
+
+### 🌸 Clara Vance — ⬜ TO CREATE!!
+
+### Appearance
+- **Hair:** Dark, straight, neat!! Simply worn!!
+- **Eyes:** Dark dominant!! Hazel or green recessive hiding underneath!! Something unexpected!!
+- **Skin:** Warm golden brown!! Mixed South Asian and English heritage!!
+- **Notable:** Precise and considered looking but with warmth!! Finds Fourth's system for everything genuinely charming!! Still and thoughtful!!
+- **Hidden genes:** Hazel or green eyes recessive!!
+- **Notes:** English surname from one parent, South Asian heritage from the other!! Very real and very her!!
+
+### Aspiration
+**Family!!** — Precise and considered, notices small details, wants roots!!
+
+### Personality Points (25)
+| Trait | Points |
+|-------|--------|
+| Neat | TBD |
+| Outgoing | TBD |
+| Active | TBD |
+| Playful | TBD |
+| Nice | TBD |
+
+*To be decided!!*
+
+---
+
+*Updated 10th June 2026 — Lifetime wants confirmed!! Body frames confirmed!! Idris Okafor and Clara Vance added!! Sunnyside keeps growing!! 😭💛🌈*
