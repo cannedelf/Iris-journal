@@ -163,13 +163,13 @@
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD | 
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 1 |
+| Outgoing | 6 |
+| Active | 2 |
+| Playful | 9 |
+| Nice | 7 |
 
-*To be decided!!*
+*The bedroom has been witnessed!! Neat 1 is accurate!! 😂💛*
 
 ---
 
