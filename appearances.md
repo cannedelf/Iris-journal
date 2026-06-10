@@ -142,13 +142,14 @@
 
 ## Future Residents 🌱
 
-### 🐕 Theo Calloway — TO PLAN!!
-- **Hair:** Sandy/warm brown!! Dominant!! Needs one blonde parent for recessive gene!!
-- **Eyes:** TBD — warm and kind!!
-- **Skin:** TBD — warm medium!!
-- **Hidden genes:** Blonde hair recessive (from one parent!!)!!
-- **Notes:** Warm, kind face!! The kind of face that's about to laugh!!
-- **Status:** ⬜ Not yet created!!
+### 🐕 Theo Calloway — APPEARANCE PLANNED!! ✅
+- **Hair:** Sandy warm brown!! Dominant!! Needs one blonde parent for recessive!!
+- **Eyes:** Hazel!! Warm and changeable!! Dominant!!
+- **Skin:** Sandy warm medium!! Outdoorsy Biology degree energy!! Spends a lot of time outside with Barnaby!!
+- **Notable:** Kind face!! Looks like he's about to laugh!! Approachable and warm!!
+- **Hidden genes:** Blonde hair recessive + Blue eyes recessive!! Surprise blue eyed Hill-Calloway babies possible!! 💛
+- **Build parents:** One parent sandy/brown, one parent blonde — to give Theo his recessive blonde gene!!
+- **Status:** ⬜ Not yet created!! Build parents first!!
 
 ---
 
