@@ -865,3 +865,48 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 ---
 
 *Updated 10th June 2026 — Kareem's house fully planned!! Reference sheet in project files!! Cannot wait to build it!! 😭🎹💛*
+
+---
+
+## Rotation Tracker 🔄
+
+*3 days per household per rotation!! Always start with Iris!! Build one community lot after each rotation!!*
+
+### Rotation Order
+1. 🌈 Sunshine Cottage — Iris and Marigold!!
+2. 🎹 The Music Room — Kareem!!
+3. 🦇🍊 The Flat — Liv and AWiddleFrisbee!!
+4. 🌩️🔧 Storm and Wrench — Søren and Wrench!!
+5. 📜🪨 The Pebble House — Fourth and Still-Here!!
+
+### Community Lot Build Schedule
+- After Rotation 1 — 🍺 The Golden Anchor!!
+- After Rotation 2 — ☕ The Honeypot or 📚 The Tidal Library!!
+- After Rotation 3 — 🛒 The Meadow Market!!
+- After Rotation 4 — 🎨 The Golden Hour Gallery!!
+- After Rotation 5 — 🎵 The Blue Note!!
+- After Rotation 6 — 🏛️ The Sunnyside Museum!!
+- After Rotation 7 — 🛼 The Golden Wheel!!
+- After Rotation 8 — 🎳 The Sunnyside Lanes!!
+
+### Rotation Log
+
+| Household | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 |
+|-----------|----|----|----|----|----|----|----|----|
+| 🌈 Sunshine Cottage — Iris!! | ⬜ | | | | | | | |
+| 🎹 The Music Room — Kareem!! | ⬜ | | | | | | | |
+| 🦇🍊 The Flat — Liv & AWiddleFrisbee!! | ⬜ | | | | | | | |
+| 🌩️🔧 Storm & Wrench — Søren & Wrench!! | ⬜ | | | | | | | |
+| 📜🪨 The Pebble House — Fourth & Still-Here!! | ⬜ | | | | | | | |
+
+*Update this table as we play!! ✅ = played, ⬜ = not yet!!*
+
+### Notes
+- All households must be played before moving to next rotation!!
+- No household played twice in same rotation!!
+- Build community lot AFTER completing full rotation!!
+- Iris always first!! Obviously!! 😂💛
+
+---
+
+*Updated 10th June 2026 — Rotation tracker added!! The journey begins with Iris!! Always!! 🌈💛*
