@@ -171,11 +171,12 @@
 
 ---
 
-### 🖤 Sable Voss — TO PLAN!!
-- **Hair:** Dark!! Mysterious and dramatic!! Consider auburn recessive!!
-- **Eyes:** TBD — striking!!
-- **Skin:** TBD!!
-- **Notes:** Quiet and artistic looking!! The kind of face that's always slightly observing!!
+### 🖤 Sable Voss — APPEARANCE PLANNED!! ✅
+- **Hair:** Dark and straight!! Simply worn, no fuss!! Very "I'm thinking about the painting not my hair!!"
+- **Eyes:** Dark brown dominant!! Deep violet recessive hiding underneath!! 💜
+- **Skin:** Warm golden!! East Asian heritage!!
+- **Notable:** Completely still and striking!! The kind of face you notice properly on the second look!! Very fitting for someone who arrives quietly!!
+- **Hidden genes:** Deep violet eyes recessive!! Søren and Sable's children could have the most unexpected eye colours!!
 - **Status:** ⬜ Not yet created!!
 
 ---
