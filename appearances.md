@@ -276,13 +276,13 @@
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD |
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 5 |
+| Outgoing | 5 |
+| Active | 7 |
+| Playful | 3 |
+| Nice | 5 |
 
-*To be decided!!*
+*Warm, outdoorsy, genuinely kind!! Very "moves to a coastal village with a golden retriever and is just a good person!!" 🐕💛*
 
 ---
 
@@ -300,13 +300,13 @@
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD |
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 5 |
+| Outgoing | 6 |
+| Active | 4 |
+| Playful | 1 |
+| Nice | 9 |
 
-*To be decided!!*
+*Nice 9!! She's EVERYONE'S grandmother!! Maximum nice!! 😭💛*
 
 ---
 
@@ -324,13 +324,13 @@
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD |
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 5 |
+| Outgoing | 6 |
+| Active | 3 |
+| Playful | 3 |
+| Nice | 8 |
 
-*To be decided!!*
+*Edie Nice 9, Arthur Nice 8 — the nicest household in Sunnyside!! So perfectly matched!! 😭💛*
 
 ---
 
