@@ -922,3 +922,28 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 ---
 
 *Updated 10th June 2026 — Rotation tracker added!! The journey begins with Iris!! Always!! 🌈💛*
+
+---
+
+## New Resident Arrival Schedule 🌱
+
+*New households arrive as story moments!! Each arrival is an event!! Original 5 households play first to get properly established!!*
+
+| After Rotation | Who Arrives | Notes |
+|----------------|-------------|-------|
+| Rotation 3 | 🌺🌸 Idris Okafor + Clara Vance!! | Best friends moving together!! Idris for Søren, Clara for Fourth!! Early enough to become proper found family!! |
+| Rotation 5 | 🐕 Theo Calloway + Barnaby!! | Sim Liv needs time to settle first!! Barnaby immediately on Hugo's sofa!! 😂 |
+| Rotation 7 | 🖤 Sable Mori + Ink!! | The Inkwell opens quietly!! Nobody quite notices when she arrived!! |
+| Rotation 10 | 🌿 Edie + Arthur Meadow + Newton!! | They retire to Sunnyside!! By now there might be children — Lyra as an honorary grandchild immediately!! 😭 |
+| Rotation 13 | 🌕 Aesop Hill + Eclipse!! | Nobody sees them arrive!! The Observatory has always been there!! 😂🌕 |
+
+### Notes
+- Original 5 households always play first before any new arrivals!!
+- New arrivals get their own rotation slot added once they move in!!
+- By Rotation 10 Sunshine Cottage might have children — Edie and Arthur arrive to a growing Sunnyside!!
+- Sable and Aesop will already know each other by Rotation 13 😇!!
+- Still plenty of room to add more households in the distant future!!
+
+---
+
+*Updated 10th June 2026 — Arrival schedule confirmed!! Every arrival is a story moment!! 😭💛🌈*
