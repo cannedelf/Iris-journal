@@ -38,6 +38,23 @@
 
 ---
 
+### 🏠 The Hill Parents — CREATE FIRST!!
+*Generate Søren, Wrench and Liv from the same parents for correct genetics!!*
+
+**Hill Dad:**
+- Skin: Dark!!
+- Hair: Black!!
+- Eyes: Dark brown!!
+- Søren inherits most from Dad!!
+
+**Hill Mum:**
+- Skin: Pale/lighter!!
+- Hair: Brown!!
+- Eyes: Hazel!!
+- Liv inherits most from Mum!!
+
+---
+
 ### 🦇 Liv Hill — TO PLAN!!
 - **Hair:** Dark brown!! Carries Søren's black as recessive!!
 - **Eyes:** TBD!!
@@ -57,11 +74,12 @@
 ---
 
 ### 🌩️ Søren Hill — TO PLAN!!
-- **Hair:** Grey in Paralives!! In Sims 2 probably dark/black (grey not available as genetic hair)!!
-- **Eyes:** Dark, serious!!
-- **Skin:** Dark warm brown (matching Paralives!!)!!
-- **Notes:** Big curly hair!! Round glasses!! Tall!! Distinguished!!
-- **Status:** ⬜ Not yet created!!
+- **Hair:** Black curly!! Big and voluminous!! All Dad!! (Grey in Paralives but black in Sims 2 genetics!!)
+- **Eyes:** Dark brown!! From Dad!!
+- **Skin:** Dark warm brown!! All Dad!! (Matching Paralives!!)
+- **Notable:** Big curly hair and round glasses!! Immediately recognisable!! Tall and distinguished!!
+- **Hidden genes:** Brown hair recessive from Mum!! Hazel eyes recessive from Mum!!
+- **Status:** ⬜ Not yet created!! Generate from Hill parents!!
 
 ---
 
