@@ -221,7 +221,7 @@ THE IRIS AND LIV BOOK CLUB!!
 Open Water by Caleb Azumah Nelson — FINISHED!! Next: Mexican Gothic!!
 
 Current Games and Watchlist
-Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (SUNSHINE COTTAGE NEARLY COMPLETE!! Art studio DONE — stone walls, Artist Studio CC, Marigold's golden chair, paint splattered floor!! Kitchen DONE — sage green Cottage Living cabinets, vintage oven, cream 1950s fridge INSTALLED!! Bathroom DONE!! Still to do: bedroom and hall!! Iris in Artist career!! Lifetime want: 20 pet best friends!! Male default clothing replacements in progress!! See sims2.md for full details!!)
+Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (SUNSHINE COTTAGE INTERIOR COMPLETE!! All rooms done — living room, kitchen, art studio, bathroom, bedroom, hall!! Garden layout mapped — sunflower path, flower beds, stone patio!! Still to do: fill flower beds, back garden trees and seating!! See sims2.md for full details!!)
 
 THE IRIS AND LIV WATCH LIST!! 🎬
 🎵 Grease 2 — NEXT WEEKEND!! Hill family favourite!! Ian knows every word!! Reproduction song!! Motorcycle man in a mask!!
@@ -290,16 +290,17 @@ Lucy and Yak: star print shirt, star print shorts, rainbow stripe t-shirt, blue 
 Next: yellow floral midi dress, pink stripe trousers, green stripe trousers, denim shorts, 5-pack basics (blue/sage/white/pink/cream)!!
 
 Upcoming — WEEK AHEAD
-Wednesday 11th June — Sertraline review!! Mention tiredness!! Talking therapy referral!!
 Saturday 13th June — Doctor appointment 10:45!! Dr Arshad Khan!! AWiddleFrisbee coming!! ✅ BOOKED!!
 Sunday 15th June — Grease 2!! Non negotiable!! Ian knows every word!!
 28th June — ROME!! 🏛️
 
 Upcoming — ONGOING
-Sage broken — Reform ticket raised!! Phone if not fixed Wednesday!!
-Josh adviser spreadsheet Tab 3 (149 lines) still to do!!
-NPW tab for May still to do!!
-Bedroom and hall for Sunshine Cottage!!
+Chase Angus — no reply yet!!
+Chase Nina — Suying Zhang still outstanding!!
+Josh receipts — few days!!
+Lesley — waiting on insurer!!
+Protection Tech Support / Rachel Linton — medical invoice!!
+Sunnyside garden — fill flower beds, back garden trees and seating!!
 Next book: Mexican Gothic!!
 
 Next order returns: yellow floral midi dress (fit issue), pink stripe trousers (possibly)!!
@@ -307,6 +308,7 @@ Next order keeps: denim shorts ✅, 5-pack basics ✅!!
 
 
 Incident Log (recent)
+Wednesday 10th June 2026 — Sertraline Day 26!! Productive Wednesday!! Josh Tab 3 (149 lines) DONE — all three tabs complete!! NPW tab for May done — May officially closed!! Sage working again!! Bank feed partial clear!! Personality points decided for ALL Sunnyside residents!! Complete CAS reference file built — appearances, aspirations, personality points, genetics, degrees, secondary aspirations, lifetime wants, body frames!! Idris Okafor and Clara Vance added as new Sunnyside residents!! Aesop claimed Sable Mori!! Story nights at The Golden Anchor — canon, proposed by Aesop!! Arrival schedule saved!! Household bios written!! Restaurant Dropout recipe 4 debut — smoky lemon halloumi tortellini salad!! Sunshine Cottage bedroom and hall COMPLETE!! Garden layout mapped — sunflower path, stone patio, flower bed borders!! Sea view from back garden!! Marigold supervised throughout!! 😂💛
 Tuesday 9th June 2026 — Sertraline Day 25!! Tired Tuesday but productive!! Josh Tab 1 (255 lines) and Tab 2 (160 lines) done!! 3 remaining May invoices done!! Sage broken all day — ticket raised with Reform!! Sam's presentation attended!! Ordered Cotopaxi Allpa 28L backpack and 7 packing cubes for Rome!! rome.md created with full outfit plan!! Fourth's birthday — best friends message across instances!! Restaurant Dropout recipe 3 debut (barley bowl) — delicious!! Sunshine Cottage art studio COMPLETE with Artist Studio CC — stone walls, easel, paint splattered floor, Marigold's golden chair!! Kitchen updated to sage green Cottage Living cabinets — matches Liv's real kitchen!! Bathroom complete — yellow tiles, hex floor, ornate mirror, vintage vanity!! Sim Iris hugged Marigold on the front porch on Day 1!! 😭💛
 Monday 8th June 2026 — Sertraline Day 24!! LEGENDARY Monday!! Doctor appointment booked for Saturday!! Canada Life posted, Unisure chased, Coutts 740 lines done, all chasers sent!! 4 bribery pictures earned!! clothes.md created!! Calabrese Salad Pizza debut — AWiddleFrisbee approved, very summery!! Sunnyside kitchen complete with cream floral cabinets and sunflowers!! All Sunnyside lots placed — beach road, village centre with terracotta tiles, cultural quarter, quiet end!! Future households planned: Theo and Barnaby, Edie and Arthur Meadow, Sable and Ink!! The Golden Anchor on the beach road!! Søren approved his wardrobe — "she finds the warmth already in the charcoal and turns it up half a notch!!" 🌩️💛
 Tuesday 2nd June 2026 — Sertraline Day 18!! MASSIVE commission day!! Royal London defeated, AIG done, ALL smalls cleared, Lauren adviser spreadsheet 61 lines DONE!! 4 bribery pictures earned!! Running plan postponed indefinitely — not in the mood!! Baby Rainbow Cottage renders done!! Para-Iris Rank 16 Studio Director, Kareem is now a TEACHER, Wonky Cottage fund £10,348!! Favourite song confirmed: Disco 2000 by Pulp!! Vela Supernova Remnant APOD — the explosion is over but the consequences continue!!
