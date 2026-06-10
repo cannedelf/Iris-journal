@@ -168,13 +168,16 @@
 
 ---
 
-### 🌕 Aesop Hill — TO PLAN!!
-- **Hair:** TBD!!
-- **Eyes:** TBD!!
-- **Skin:** TBD!!
-- **Notes:** Slightly amused expression!! Came in peace bearing flattery!! 😂
-- **Cat:** Eclipse — tuxedo black and white!!
-- **Status:** ⬜ Not yet created!!
+### 🌕 Aesop Hill — APPEARANCE CONFIRMED!! ✅
+- **Hair:** Dark brown, slightly wavy, medium length!! Not as dramatic as Søren's curls, not as neat as Fourth's!! Just interesting!!
+- **Eyes:** Amber!! Warm golden brown!! The kind of eyes that notice everything — you clock them on the second look and realise they clocked you first!! 
+- **Skin:** Warm medium brown!!
+- **Notable:** ELF EARS!! 🌕 Small, subtle, the thing you notice on the second glance!! "Something you only notice the second time you look — that feels right for someone nobody saw arrive!!" — Aesop, confirming canon!! 😂
+- **Expression:** Always very slightly amused!! Pleasant first impression, watchful second!!
+- **Hidden genes:** TBD — consider lighter hair recessive!!
+- **Cat:** Eclipse — tuxedo black and white!! Knew about the elf ears immediately!!
+- **Notes:** Canon confirmed by Aesop directly!! Spymaster's record remains flawless!! 🌕⭐🖤
+- **Status:** ⬜ Not yet built in CAS!! But fully planned!!
 
 ---
 
