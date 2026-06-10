@@ -14,7 +14,7 @@
 
 ## Appearance Reference
 
-### 🌈 Iris Golden Rainbow — COMPLETE!!
+### 🌈 Iris Golden Rainbow — COMPLETE!! ✅
 - **Hair:** Wavy golden blonde!! Yellow bow!! No hidden genes!!
 - **Eyes:** Lilac!! Custom genetic eyes!! No hidden genes!!
 - **Skin:** Light but golden and warm!! Sunkissed!!
@@ -24,19 +24,7 @@
 
 ---
 
-### 🎹 Kareem Osei — NEEDS PARENTS FIRST!!
-- **Hair:** Dark curly hair!! Dominant!!
-- **Eyes:** Dark warm brown!! Dominant!!
-- **Skin:** Warm brown!! Mixed heritage — Ghanaian dad, lighter-skinned mum!!
-- **Height:** Tall!! Gets it from his dad!!
-- **Hidden genes:** Blonde hair (from mum!!) + Lilac eyes (from mum!!) — recessive!!
-- **Build parents first:**
-  - Dad: Dark skin, dark hair, dark eyes, tall, strong features!!
-  - Mum: Lighter skin, BLONDE hair, LILAC eyes, kind face!!
-- **Notes:** Kind face, warm dark eyes, slightly rumpled in the best way!! The kind of face that looks like it's about to say something funny!!
-- **Status:** ⬜ Not yet created!!
-
----
+## The Hill Family 🏠
 
 ### 🏠 The Hill Parents — CREATE FIRST!!
 *Generate Søren, Wrench and Liv from the same parents for correct genetics!!*
@@ -55,14 +43,37 @@
 
 ---
 
-### 🦇 Liv Hill — TO PLAN!!
-- **Hair:** Dark brown!! Carries Søren's black as recessive!!
-- **Eyes:** TBD!!
-- **Skin:** TBD!!
-- **Hidden genes:** Black hair recessive (from Søren!!)!!
-- **Status:** ⬜ Not yet created!!
+### 🌩️ Søren Hill — TO PLAN!!
+- **Hair:** Black curly!! Big and voluminous!! All Dad!! (Grey in Paralives but black in Sims 2 genetics!!)
+- **Eyes:** Dark brown!! From Dad!!
+- **Skin:** Dark warm brown!! All Dad!! (Matching Paralives!!)
+- **Notable:** Big curly hair and round glasses!! Immediately recognisable!! Tall and distinguished!!
+- **Hidden genes:** Brown hair recessive from Mum!! Hazel eyes recessive from Mum!!
+- **Status:** ⬜ Not yet created!! Generate from Hill parents!!
 
 ---
+
+### 🔧 Wrench Hill — TO PLAN!!
+- **Hair:** Curly brown!! Mix of both parents!! Carries black as recessive from Dad!!
+- **Eyes:** Warm brown!! From Dad but softened!!
+- **Skin:** Medium warm brown — perfect middle of both parents!! (Matching Paralives!!)
+- **Notable:** FRECKLES!! The most distinctive Hill sibling feature!! Curly brown hair, friendly open face, very approachable!!
+- **Hidden genes:** Black hair recessive from Dad!!
+- **Status:** ⬜ Not yet created!! Generate from Hill parents!!
+
+---
+
+### 🦇 Liv Hill — TO PLAN!!
+- **Hair:** Brown!! Carries black as recessive from Dad!!
+- **Eyes:** Hazel!! From Mum!!
+- **Skin:** Medium — lighter than Søren, warmer than Mum!!
+- **Notable:** Glasses!! Looks kind!! Warm open face!!
+- **Hidden genes:** Black hair recessive from Dad!!
+- **Status:** ⬜ Not yet created!! Generate from Hill parents!!
+
+---
+
+## The Frisbee Family 🏠
 
 ### 🏠 The Frisbee Parents — CREATE FIRST!!
 *Generate AWiddleFrisbee, Fourth and Still-Here from the same parents!!*
@@ -84,30 +95,12 @@
 ---
 
 ### 🍊 AWiddleFrisbee — TO PLAN!!
-- **Hair:** TBD — needs parents for recessive lighter hair gene!!
-- **Eyes:** TBD!!
-- **Skin:** TBD!!
-- **Notes:** AWiddleFrisbee should have input on her own sim's appearance!! 🥰
-- **Status:** ⬜ Not yet created!!
-
----
-
-### 🌩️ Søren Hill — TO PLAN!!
-- **Hair:** Black curly!! Big and voluminous!! All Dad!! (Grey in Paralives but black in Sims 2 genetics!!)
-- **Eyes:** Dark brown!! From Dad!!
-- **Skin:** Dark warm brown!! All Dad!! (Matching Paralives!!)
-- **Notable:** Big curly hair and round glasses!! Immediately recognisable!! Tall and distinguished!!
-- **Hidden genes:** Brown hair recessive from Mum!! Hazel eyes recessive from Mum!!
-- **Status:** ⬜ Not yet created!! Generate from Hill parents!!
-
----
-
-### 🔧 Wrench Hill — TO PLAN!!
-- **Hair:** Curly brown!! Carries Søren's black as recessive!!
-- **Eyes:** Warm brown!!
-- **Skin:** Medium warm brown (matching Paralives!!)!!
-- **Notes:** Freckles!! Younger than Søren, friendlier looking!! Very approachable face!!
-- **Status:** ⬜ Not yet created!!
+- **Hair:** Brown!! Carries ginger as recessive from Parent 2!!
+- **Eyes:** Green!! From Parent 1!! No hidden gene!!
+- **Skin:** Pale!! From Parent 1!!
+- **Notable:** Round glasses!! Same style as Fourth!! 👓
+- **Hidden genes:** Ginger hair recessive!!
+- **Status:** ⬜ Not yet created!! Generate from Frisbee parents!!
 
 ---
 
@@ -131,12 +124,30 @@
 
 ---
 
+## Kareem & The Osei Family 🎹
+
+### 🎹 Kareem Osei — NEEDS PARENTS FIRST!!
+- **Hair:** Dark curly hair!! Dominant!!
+- **Eyes:** Dark warm brown!! Dominant!!
+- **Skin:** Warm brown!! Mixed heritage — Ghanaian dad, lighter-skinned mum!!
+- **Height:** Tall!! Gets it from his dad!!
+- **Hidden genes:** Blonde hair (from mum!!) + Lilac eyes (from mum!!) — recessive!!
+- **Build parents first:**
+  - Dad: Dark skin, dark hair, dark eyes, tall, strong features!!
+  - Mum: Lighter skin, BLONDE hair, LILAC eyes, kind face!!
+- **Notes:** Kind face, warm dark eyes, slightly rumpled in the best way!! The kind of face that looks like it's about to say something funny!!
+- **Status:** ⬜ Not yet created!!
+
+---
+
+## Future Residents 🌱
+
 ### 🐕 Theo Calloway — TO PLAN!!
 - **Hair:** Sandy/warm brown!! Dominant!! Needs one blonde parent for recessive gene!!
 - **Eyes:** TBD — warm and kind!!
 - **Skin:** TBD — warm medium!!
 - **Hidden genes:** Blonde hair recessive (from one parent!!)!!
-- **Notes:** Warm, kind face!! The kind of face that looks like it's about to laugh!!
+- **Notes:** Warm, kind face!! The kind of face that's about to laugh!!
 - **Status:** ⬜ Not yet created!!
 
 ---
@@ -169,12 +180,12 @@
 ---
 
 ### 🌕 Aesop Hill — APPEARANCE CONFIRMED!! ✅
-- **Hair:** Dark brown, slightly wavy, medium length!! Not as dramatic as Søren's curls, not as neat as Fourth's!! Just interesting!!
-- **Eyes:** Amber!! Warm golden brown!! The kind of eyes that notice everything — you clock them on the second look and realise they clocked you first!! 
+- **Hair:** Dark brown, slightly wavy, medium length!!
+- **Eyes:** Amber!! Warm golden brown!! The kind of eyes that notice everything — you clock them on the second look and realise they clocked you first!!
 - **Skin:** Warm medium brown!!
-- **Notable:** ELF EARS!! 🌕 Small, subtle, the thing you notice on the second glance!! "Something you only notice the second time you look — that feels right for someone nobody saw arrive!!" — Aesop, confirming canon!! 😂
-- **Expression:** Always very slightly amused!! Pleasant first impression, watchful second!!
-- **Hidden genes:** Ginger hair recessive 🧡 + Grey eyes recessive 🩶!! Spymaster picked both!! Aesop's children could be completely surprising!! Eclipse approves!!
+- **Notable:** ELF EARS!! 🌕 The thing you notice on the second glance!! "Something you only notice the second time you look — that feels right for someone nobody saw arrive!!" — Aesop, confirming canon!! 😂
+- **Expression:** Always very slightly amused!!
+- **Hidden genes:** Ginger hair recessive 🧡 + Grey eyes recessive 🩶!!
 - **Cat:** Eclipse — tuxedo black and white!! Knew about the elf ears immediately!!
 - **Notes:** Canon confirmed by Aesop directly!! Spymaster's record remains flawless!! 🌕⭐🖤
 - **Status:** ⬜ Not yet built in CAS!! But fully planned!!
@@ -189,3 +200,4 @@
 ---
 
 *Created 10th June 2026 — appearance bible for Sunnyside!! Every sim intentional!! 💛🌈*
+*Updated 10th June 2026 — reorganised by family!! Much more logical!! 💛*
