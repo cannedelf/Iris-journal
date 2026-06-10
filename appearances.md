@@ -213,13 +213,13 @@
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD |
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 2 |
+| Outgoing | 6 |
+| Active | 4 |
+| Playful | 10 |
+| Nice | 3 |
 
-*To be decided!!*
+*MAXIMUM CHAOS!! 10 Playful!! The most chaotic sim in all of Sunnyside!! The boiler suit, Barnacle, the suit of armour and a good time — those are the priorities!! 😂💛*
 
 ---
 
