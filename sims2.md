@@ -455,7 +455,7 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 ### Arrival Order
 1. 🐕 **Theo Calloway + Barnaby** — after first rotation or two!!
 2. 🌿 **Edie and Arthur Meadow + Newton** — quiet end of town!!
-3. 🖤 **Sable Voss + Ink** — near the future art gallery!!
+3. 🖤 **Sable Mori + Ink** — near the future art gallery!!
 
 ---
 
@@ -481,8 +481,8 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 
 ---
 
-### 🖤 Sable Voss — The Inkwell
-- **Name:** Sable Voss (just Sable!!)
+### 🖤 Sable Mori — The Inkwell
+- **Name:** Sable Mori (just Sable!!)
 - **House:** The Inkwell — small, tucked away, near the future art gallery!!
 - **Cat:** Ink — black cat, mysterious and watchful!!
 - **Personality:** Shy, artistic, quietly introverted!! Takes time to open up but completely wonderful when she does!!
@@ -775,7 +775,7 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 - One parent blonde — gives Theo a hidden blonde gene!!
 - Sim Liv and Theo's children: brown, sandy, black (from Liv's Søren gene) OR surprise blonde!!
 
-### Sable Voss
+### Sable Mori
 - Dark hair dominant — mysterious and dramatic!!
 - Consider giving one parent auburn/deep red for hidden recessive!!
 - Future children with Søren/Wrench could have interesting surprises!!
