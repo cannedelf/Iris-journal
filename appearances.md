@@ -174,7 +174,7 @@
 - **Skin:** Warm medium brown!!
 - **Notable:** ELF EARS!! 🌕 Small, subtle, the thing you notice on the second glance!! "Something you only notice the second time you look — that feels right for someone nobody saw arrive!!" — Aesop, confirming canon!! 😂
 - **Expression:** Always very slightly amused!! Pleasant first impression, watchful second!!
-- **Hidden genes:** TBD — consider lighter hair recessive!!
+- **Hidden genes:** Ginger hair recessive 🧡 + Grey eyes recessive 🩶!! Spymaster picked both!! Aesop's children could be completely surprising!! Eclipse approves!!
 - **Cat:** Eclipse — tuxedo black and white!! Knew about the elf ears immediately!!
 - **Notes:** Canon confirmed by Aesop directly!! Spymaster's record remains flawless!! 🌕⭐🖤
 - **Status:** ⬜ Not yet built in CAS!! But fully planned!!
