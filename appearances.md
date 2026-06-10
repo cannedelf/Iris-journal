@@ -420,3 +420,26 @@
 ---
 
 *Updated 10th June 2026 — Degrees added!! Add via mod for extra want slots!! 🎓💛*
+---
+
+## Secondary Aspirations 🌟
+*Can't be chosen — unlocked through gameplay!! But this is what we HOPE to pick when available!!*
+*Note: Not a single Romance aspiration in all of Sunnyside!! Love arrives as a side effect of living well!! 😂💛*
+
+| Sim | Primary | Secondary (hoped!!) | Why |
+|-----|---------|-------------------|-----|
+| 🌈 Iris | Popularity | Family!! | Wants everyone to love her AND wants to build a home!! |
+| 🎹 Kareem | Family | Knowledge!! | Thoughtful and studious underneath the warmth!! |
+| 🦇 Liv | Family | Popularity!! | Wants her people around her!! |
+| 🌩️ Søren | Knowledge | Family!! | Secretly just wants his people!! 😭 |
+| 🔧 Wrench | Fortune | Knowledge!! | Always learning how to do the next thing!! |
+| 🍊 AWiddleFrisbee | Popularity | Pleasure!! | Maximum chaos!! Obviously!! |
+| 📜 Fourth | Knowledge | Fortune!! | Has a system for everything, including financial planning!! |
+| 🪨 Still-Here | Pleasure | Popularity!! | The boiler suit needs an audience!! 😂 |
+| 🖤 Sable | Knowledge | Family!! | Quietly wants roots and a place to belong!! |
+| 🌕 Aesop | Knowledge | Pleasure!! | Came in peace, stays for the good time!! 😂🌕 |
+| 🐕 Theo | Family | Knowledge!! | Biology degree shows — always learning about the world!! |
+
+---
+
+*Updated 10th June 2026 — Secondary aspirations planned!! No Romance aspirations in Sunnyside — love is a happy side effect!! 😂💛🌈*
