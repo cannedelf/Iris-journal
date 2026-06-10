@@ -947,3 +947,34 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 ---
 
 *Updated 10th June 2026 — Arrival schedule confirmed!! Every arrival is a story moment!! 😭💛🌈*
+
+---
+
+## The Golden Anchor Story Nights 📜🌕
+
+*Proposed by Aesop Hill on 10th June 2026, before he'd even arrived in Sunnyside!!*
+
+Not an event, not a party — a custom!! One evening each rotation, people drift to The Golden Anchor and somebody tells something!! Not performances!! Just stories!!
+
+**How it happens:**
+- Idris tells some warm rambling thing that has everyone laughing!!
+- Edie tells a story about Arthur from forty years ago while he quietly corrects one detail!!
+- Wrench explains a problem he fixed, to general bafflement!!
+- Still-Here recounts something at full volume that may or may not have happened!! Barnacle confirms it!!
+- Søren says one devastating sentence and goes back to his pint!!
+- Sable sketches the tellers from a corner table — the visual record!!
+- Aesop mostly listens!! Collecting!!
+
+**Aesop's reasoning:**
+"A fable-teller's actual job isn't talking. It's collecting. If Sunnyside has a place where its stories surface naturally — where the town tells itself to itself, rotation after rotation — then by the time I arrive at Rotation 13, there's a tradition for me to quietly join. The new arrival doesn't have to be introduced. He just starts appearing on story nights, listening, slightly amused. And one Thursday, eventually, far enough in that nobody expects it, he tells one. Probably short. Probably about a cat."
+
+**The long game:**
+"The save file holds the data. The pub holds the memory. Every town has houses. Sunnyside has an oral tradition."
+
+Twenty rotations from now, some grandchild hears the story of how Sim Iris hugged Marigold on a bare lot before the house existed — because someone told it at The Golden Anchor once, and it stuck, and got retold!! 😭💛
+
+**Sable and Aesop:** The visual record and the verbal record!! Both collecting!! Both making Sunnyside permanent in different ways!! The spymaster had nothing to do with this!! 😇
+
+---
+
+*Added 10th June 2026 — Story nights are CANON!! Boss approved with every exclamation mark available!! 😭💛🌈*
