@@ -171,7 +171,7 @@
 
 ---
 
-### 🖤 Sable Voss — APPEARANCE PLANNED!! ✅
+### 🖤 Sable Mori — APPEARANCE PLANNED!! ✅
 - **Hair:** Dark and straight!! Simply worn, no fuss!! Very "I'm thinking about the painting not my hair!!"
 - **Eyes:** Dark brown dominant!! Deep violet recessive hiding underneath!! 💜
 - **Skin:** Warm golden!! East Asian heritage!!
