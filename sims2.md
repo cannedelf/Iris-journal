@@ -800,3 +800,68 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 ---
 
 *Updated 9th June 2026 — Art studio and bathroom complete!! Sage green kitchen updated with Cottage Living CC!! Sim Iris hugged Marigold on Day 1 before the house was even finished!! 😭💛🌈*
+
+---
+
+## The Music Room — Kareem Osei's House 🎹
+
+*Reference sheet generated 10th June 2026 — saved as chatgpt_kareem_house_260610.png in project files!!*
+
+**Concept:** Converted Mill — "Industrial bones, warm soul!!"
+
+### Exterior
+- **Style:** Converted stone building — old mill or former workshop!!
+- **Walls:** Dark grey/charcoal stone!!
+- **Roof:** Slate!!
+- **Door:** Dark green front door — very considered!!
+- **Windows:** Tall industrial windows — bigger than Sunshine Cottage!!
+- **Details:** Simple black gutters, one climbing plant up the wall (ivy, climbing rose or wisteria!!), warm light from windows!!
+- **Feel:** Slightly imposing, full of history — but the warm window light gives it away!!
+- **Lot size:** Works on 3x2, 3x3, 4x3 or 4x2 lots!! Building footprint approx 14x10 tiles!!
+
+### Exterior Colour Palette
+- Charcoal Stone · Slate Roof · Dark Green Door · Black Details · Warm Window Light
+
+### Floor Plan — Ground Floor
+- **Living room** — large open space, piano, easel, tall windows, fireplace!! Heart of the home!!
+- **Study/Music Room** — perfect for piano, computer, quiet reading nook!!
+- **Kitchen & Dining** — cosy, practical, space for a large farmhouse table!! SEPARATE from living room!!
+- **WC** — small ground floor bathroom!!
+
+### Floor Plan — First Floor
+- **Bedroom** — large open room, space for sleeping, reading, wardrobe and relaxing!!
+- **Bathroom** — spacious!! Clawfoot bath, separate shower, big industrial window!!
+- **Landing** — open landing with railing overlooking the living room below!! 😭💛
+
+### Interior Vibe
+- Warm, lived-in, collected over time!!
+- Mix old and new — texture is everything!!
+- Good lamps, bookshelves, plants, worn textures!!
+- Use half walls, rugs and furniture grouping to divide spaces!!
+
+### Garden
+- Simple and natural!!
+- Gravel path!!
+- One bench or seating area!!
+- One main tree!!
+- Wild grass and flowers!!
+- Climbing plant starting up the wall!!
+- Old stone planter or trough with plants!!
+- Low stone boundary or hedge!!
+
+### Build Tips for Sims 2
+- Tall windows: use 2-tile wide windows stacked with moveobjects!!
+- Roofs: steep gable or simple pitch works best!!
+- Use boolprop constrainFloorElevation false for split levels!!
+- Add character with worn textures, plants and mixed furniture!!
+- Keep layout simple for good routing!!
+
+### CC Needed
+- Tall industrial/loft style windows!!
+- Good stone textures!!
+- Farmhouse/industrial furniture for the interior!!
+- Check: lordcrumps, jacky93sims, episims!!
+
+---
+
+*Updated 10th June 2026 — Kareem's house fully planned!! Reference sheet in project files!! Cannot wait to build it!! 😭🎹💛*
