@@ -349,13 +349,13 @@
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD |
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 7 |
+| Outgoing | 2 |
+| Active | 4 |
+| Playful | 6 |
+| Nice | 6 |
 
-*To be decided!!*
+*Shy but quietly playful once comfortable!! Outgoing 2 reflects her shyness — Iris will work hard for this friendship!! 🖤*
 
 ---
 
@@ -376,13 +376,13 @@
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD |
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 6 |
+| Outgoing | 4 |
+| Active | 4 |
+| Playful | 4 |
+| Nice | 7 |
 
-*To be decided!!*
+*Quietly warm!! Selective about when to engage!! Deadpan wit you don't notice until 3 seconds later!! The hierarchy of protection is clear!! 😂🌕*
 
 ---
 
