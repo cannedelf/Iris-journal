@@ -188,13 +188,13 @@
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD |
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 9 |
+| Outgoing | 4 |
+| Active | 4 |
+| Playful | 2 |
+| Nice | 6 |
 
-*To be decided!!*
+*Neat 9 is EARNED!! Someone has to hold it together while Still-Here wanders around in the boiler suit!! 😂💛*
 
 ---
 
