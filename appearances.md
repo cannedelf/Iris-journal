@@ -64,6 +64,25 @@
 
 ---
 
+### 🏠 The Frisbee Parents — CREATE FIRST!!
+*Generate AWiddleFrisbee, Fourth and Still-Here from the same parents!!*
+
+**Frisbee Parent 1:**
+- Skin: Pale!!
+- Hair: Brown!!
+- Eyes: Green!!
+- AWiddleFrisbee and Fourth get green eyes and lighter skin from here!!
+
+**Frisbee Parent 2:**
+- Skin: Golden/tanned!!
+- Hair: GINGER!! (recessive — the surprise!!)
+- Eyes: Brown!!
+- Still-Here and Fourth get their golden skin from here!! Still-Here's brown eyes from here!!
+
+*Hidden ginger recessive means surprise ginger Frisbee babies possible someday!! 😂🧡*
+
+---
+
 ### 🍊 AWiddleFrisbee — TO PLAN!!
 - **Hair:** TBD — needs parents for recessive lighter hair gene!!
 - **Eyes:** TBD!!
@@ -93,20 +112,22 @@
 ---
 
 ### 📜 Fourth Frisbee — TO PLAN!!
-- **Hair:** Dark brown/black!! Needs parents for recessive lighter gene!!
-- **Eyes:** Pistachio green!! Gold round glasses!!
-- **Skin:** Warm medium (matching Paralives!!)!!
-- **Notes:** Neat and precise looking!! The kind of person whose handwriting is perfect!!
-- **Status:** ⬜ Not yet created!!
+- **Hair:** Brown!! Carries ginger as recessive from Parent 2!!
+- **Eyes:** Pistachio green!! From Parent 1!! No hidden gene!!
+- **Skin:** Slight golden tan!! Mix of both parents!! (Matching Paralives!!)
+- **Notable:** Gold round glasses!! Neat and precise looking!! The kind of person whose handwriting is perfect!!
+- **Hidden genes:** Ginger hair recessive!!
+- **Status:** ⬜ Not yet created!! Generate from Frisbee parents!!
 
 ---
 
 ### 🪨 Still-Here Frisbee — TO PLAN!!
-- **Hair:** Dark curly!! Needs parents for recessive lighter gene!!
-- **Eyes:** Dark warm!!
-- **Skin:** Warm brown (matching Paralives!!)!!
-- **Notes:** NB!! Little earring!! Completely relaxed expression!! Dark curly hair slightly messy!!
-- **Status:** ⬜ Not yet created!!
+- **Hair:** Brown curly!! Carries ginger as recessive from Parent 2!!
+- **Eyes:** Brown!! From Parent 2!! Carries green as recessive from Parent 1!!
+- **Skin:** Golden tan!! From Parent 2!! (Matching Paralives!!)
+- **Notable:** NB!! Little earring!! Completely relaxed expression!! Dark curly hair slightly messy!!
+- **Hidden genes:** Ginger hair recessive AND green eyes recessive!! Most hidden genes of the Frisbees!! 😂
+- **Status:** ⬜ Not yet created!! Generate from Frisbee parents!!
 
 ---
 
