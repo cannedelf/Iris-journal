@@ -419,6 +419,31 @@
 
 ---
 
+
+---
+
+## 🐱 Pepper — Idris and Clara's Cat
+
+*Tortoiseshell — black, warm orange and cream patches, bright curious green eyes!!*
+
+### Appearance
+- **Coat:** Tortoiseshell — black, orange and cream all mixed together!!
+- **Eyes:** Bright curious green!!
+- **Build:** Small and sleek — slightly scrappy looking, like she's had opinions since birth!!
+- **Notable:** Sits in doorways and makes you walk around her!! Clara's cat who immediately adopts Idris as favourite person!!
+
+### Personality
+| Trait | Notes |
+|-------|-------|
+| Genius | She KNOWS things!! |
+| Hyper | Chaos energy Clara pretends not to find funny!! |
+| Friendly | Walks up to every visitor including Søren, who claims indifference!! |
+| Vocal | Has a lot to say at all times!! |
+| Neat | The one trait she shares with Clara — they understand each other on this!! |
+
+*Pepper contributes to Clara's Raise 20 Puppies/Kittens lifetime want from day one!! Søren will be sitting with her on his lap within one visit and will not comment on this!! 😂💛*
+
+---
 *Updated 10th June 2026 — Degrees added!! Add via mod for extra want slots!! 🎓💛*
 ---
 
@@ -442,6 +467,31 @@
 
 ---
 
+
+---
+
+## 🐱 Pepper — Idris and Clara's Cat
+
+*Tortoiseshell — black, warm orange and cream patches, bright curious green eyes!!*
+
+### Appearance
+- **Coat:** Tortoiseshell — black, orange and cream all mixed together!!
+- **Eyes:** Bright curious green!!
+- **Build:** Small and sleek — slightly scrappy looking, like she's had opinions since birth!!
+- **Notable:** Sits in doorways and makes you walk around her!! Clara's cat who immediately adopts Idris as favourite person!!
+
+### Personality
+| Trait | Notes |
+|-------|-------|
+| Genius | She KNOWS things!! |
+| Hyper | Chaos energy Clara pretends not to find funny!! |
+| Friendly | Walks up to every visitor including Søren, who claims indifference!! |
+| Vocal | Has a lot to say at all times!! |
+| Neat | The one trait she shares with Clara — they understand each other on this!! |
+
+*Pepper contributes to Clara's Raise 20 Puppies/Kittens lifetime want from day one!! Søren will be sitting with her on his lap within one visit and will not comment on this!! 😂💛*
+
+---
 *Updated 10th June 2026 — Secondary aspirations planned!! No Romance aspirations in Sunnyside — love is a happy side effect!! 😂💛🌈*
 ---
 
@@ -489,21 +539,33 @@
 - **Eyes:** Warm dark brown!! Kind and laughing!!
 - **Skin:** Warm deep brown!! West African heritage!!
 - **Notable:** Genuinely the warmest smile in any room!! Makes everyone feel immediately at ease!! Søren doesn't know what hit him!! 😂😭
-- **Hidden genes:** TBD!!
+- **Hidden genes:** Hazel eyes recessive!! Warm, golden-brown, catches the light differently every time — you keep noticing new things about them the more you know them!!
 
 ### Aspiration
 **Popularity!!** — Warm and social, everyone loves them, brings Søren out of his shell!!
 
+### Secondary Aspiration
+**Pleasure!!** — Works incredibly hard and then plays just as hard!! At The Golden Anchor every Friday, knows everyone's order!!
+
+### Career
+**Medicine → Chief of Staff!!** — A doctor who knows every patient by first name!! Moved to a small coastal village and never looked back!!
+
+### Degree
+**History!!** — Someone who loves people loves their stories too!!
+
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD |
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 4 |
+| Outgoing | 8 |
+| Active | 5 |
+| Playful | 4 |
+| Nice | 4 |
 
-*To be decided!!*
+*The warmest person in any room!! Søren is in serious trouble!! 😂💛*
+
+### Lifetime Want
+**Have 20 Simultaneous Best Friends!!** — Knows everyone's name within a week!! Completely inevitable!! Mirrors Iris's 20 pet best friends — kindred spirits!!
 
 ---
 
@@ -511,25 +573,37 @@
 
 ### Appearance
 - **Hair:** Dark, straight, neat!! Simply worn!!
-- **Eyes:** Dark dominant!! Hazel or green recessive hiding underneath!! Something unexpected!!
+- **Eyes:** Dark dominant!! Green eyes recessive hiding underneath!!
 - **Skin:** Warm golden brown!! Mixed South Asian and English heritage!!
 - **Notable:** Precise and considered looking but with warmth!! Finds Fourth's system for everything genuinely charming!! Still and thoughtful!!
-- **Hidden genes:** Hazel or green eyes recessive!!
+- **Hidden genes:** Green eyes recessive AND hidden ginger hair recessive!! The most unexpected surprise babies possible with Fourth!! 😭🧡
 - **Notes:** English surname from one parent, South Asian heritage from the other!! Very real and very her!!
 
 ### Aspiration
 **Family!!** — Precise and considered, notices small details, wants roots!!
 
+### Secondary Aspiration
+**Knowledge!!** — Endlessly curious, always learning, always noticing something new!! Why she and Søren end up in such deep conversation at the Tidal Library!!
+
+### Career
+**Natural Science → Ecological Guru!!** — Knows exactly which wildflowers are growing by the zig-zag road and why!! Moved here to do the work she actually loves!!
+
+### Degree
+**Biology!!** — Natural science path, perfectly on the nose!!
+
 ### Personality Points (25)
 | Trait | Points |
 |-------|--------|
-| Neat | TBD |
-| Outgoing | TBD |
-| Active | TBD |
-| Playful | TBD |
-| Nice | TBD |
+| Neat | 7 |
+| Outgoing | 3 |
+| Active | 5 |
+| Playful | 3 |
+| Nice | 7 |
 
-*To be decided!!*
+*Neat 7 + Fourth's Neat 9 = the two tidiest people in Sunnyside, they will both appreciate this enormously!! 😂😭*
+
+### Lifetime Want
+**Raise 20 Puppies or Kittens!!** — Sunnyside's wildlife just keeps ending up at their house somehow and Clara considers this completely normal!! Fourth has a spreadsheet tracking every single one!!
 
 ---
 
@@ -561,6 +635,32 @@
 
 ---
 
+
+---
+
+## 🐱 Pepper — Idris and Clara's Cat
+
+*Tortoiseshell — black, warm orange and cream patches, bright curious green eyes!!*
+
+### Appearance
+- **Coat:** Tortoiseshell — black, orange and cream all mixed together!!
+- **Eyes:** Bright curious green!!
+- **Build:** Small and sleek — slightly scrappy looking, like she's had opinions since birth!!
+- **Notable:** Sits in doorways and makes you walk around her!! Clara's cat who immediately adopts Idris as favourite person!!
+
+### Personality
+| Trait | Notes |
+|-------|-------|
+| Genius | She KNOWS things!! |
+| Hyper | Chaos energy Clara pretends not to find funny!! |
+| Friendly | Walks up to every visitor including Søren, who claims indifference!! |
+| Vocal | Has a lot to say at all times!! |
+| Neat | The one trait she shares with Clara — they understand each other on this!! |
+
+*Pepper contributes to Clara's Raise 20 Puppies/Kittens lifetime want from day one!! Søren will be sitting with her on his lap within one visit and will not comment on this!! 😂💛*
+
+---
 *Updated 10th June 2026 — Lifetime wants confirmed!! Body frames confirmed!! Idris Okafor and Clara Vance added!! Sunnyside keeps growing!! 😭💛🌈*
 
-*Updated 11th June 2026 — Careers confirmed for all residents!! Degrees confirmed for Idris (History) and Clara (Biology)!! Still-Here career confirmed — Slacker → Professional Party Guest!! Sunnyside is fully planned!! 💛🌈*
+*Updated 11th June 2026 — Idris and Clara FULLY PLANNED!! Personalities, careers, degrees, lifetime wants, secondary aspirations, hidden genes all confirmed!! Pepper the tortoiseshell cat added!! Søren told about Idris — he said he doesn't mind, and meant it!! Still here, and not as alone in Sunnyside as he'd planned to be!! 🌕💛🌈*
+
