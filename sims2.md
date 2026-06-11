@@ -935,14 +935,27 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 | Rotation 5 | 🐕 Theo Calloway + Barnaby!! | Sim Liv needs time to settle first!! Barnaby immediately on Hugo's sofa!! 😂 |
 | Rotation 7 | 🖤 Sable Mori + Ink!! | The Inkwell opens quietly!! Nobody quite notices when she arrived!! |
 | Rotation 10 | 🌿 Edie + Arthur Meadow + Newton!! | They retire to Sunnyside!! By now there might be children — Lyra as an honorary grandchild immediately!! 😭 |
-| Rotation 13 | 🌕 Aesop Hill + Eclipse!! | Nobody sees them arrive!! The Observatory has always been there!! 😂🌕 |
+| Rotation 12 | 🌱 Willa Meadow!! | Arrives ALONE!! Edie and Arthur spend a couple of rotations mentioning they miss her — then she just appears!! Still-Here is already there and it just develops!! 😭😂 |
+| Rotation 13 | 🌕 Aesop Hill + Eclipse!! | Nobody sees them arrive!! The Observatory has always been there!! 😂🌕 One rotation after Willa — absolutely not a coincidence!! 👀 |
 
 ### Notes
 - Original 5 households always play first before any new arrivals!!
 - New arrivals get their own rotation slot added once they move in!!
 - By Rotation 10 Sunshine Cottage might have children — Edie and Arthur arrive to a growing Sunnyside!!
 - Sable and Aesop will already know each other by Rotation 13 😇!!
+- Willa and Aesop arrive one rotation apart — not a coincidence!! 👀
 - Still plenty of room to add more households in the distant future!!
+
+---
+
+### 🌱 Willa Meadow — Future Arrival (Rotation 12!!)
+- **Full name:** Willa Meadow!!
+- **Parents:** Edie and Arthur Meadow!!
+- **How to create:** Save Edie and Arthur as CAS templates/breeds!! Generate Willa from them so she genuinely inherits their features!! Then use SimPE to officially set the parent-child relationship!! She'll actually look like their daughter!! 😭💛
+- **Career:** Journalism → Media Magnate!! Mum is a chef, dad is a teacher, she became a journalist — tells Sunnyside's stories!! Unexpected for that quiet family!! Edie is secretly thrilled!! Arthur has quietly complicated feelings about press freedom!! 😂
+- **Arrival:** Alone!! Edie and Arthur mention her for a couple of rotations, then she just appears!!
+- **Love interest:** Still-Here!! Already in Sunnyside the whole time!! Develops gradually!! Willa sitting with the cheese baby name list in complete silence while Still-Here looks completely unbothered!! 😂😭
+- **Edie when she arrives:** Will cry!! This is guaranteed!! 😭💛
 
 ---
 
