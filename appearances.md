@@ -463,8 +463,8 @@
 | 📚 Arthur | Become Education Minister!! | Retired teacher keeps going!! 😂 |
 | 🖤 Sable | Max Out 7 Skills!! | Quietly mastering everything!! |
 | 🌕 Aesop | Max Out 7 Skills!! | Same as Sable — purely coincidental!! 😇 |
-| 🌺 Idris | TBD — Popularity aspiration!! | |
-| 🌸 Clara | TBD — Family aspiration!! | |
+| 🌺 Idris | History!! | Loves people and their stories!! | |
+| 🌸 Clara | Biology!! | Natural science path, perfectly on the nose!! | |
 
 ---
 
@@ -533,4 +533,34 @@
 
 ---
 
+
+---
+
+## Careers 💼
+*Full Sunnyside career directory!!*
+
+| Sim | Career | Top Job |
+|-----|--------|---------|
+| 🌈 Iris | Artist | Visionary!! |
+| 🎹 Kareem | Education | Education Minister!! |
+| 🌩️ Søren | Science | Mad Scientist!! |
+| 🔧 Wrench | Architecture | City Planner!! |
+| 📜 Fourth | Law | The Law!! |
+| 🍊 AWiddleFrisbee | Entertainment | Prestidigitator!! |
+| 🦇 Sim Liv | Business | Business Tycoon!! |
+| 🪨 Still-Here | Slacker | Professional Party Guest!! |
+| 🖤 Sable | Artist | Visionary!! |
+| 🌕 Aesop | Paranormal | Cult Leader!! (credentials unverifiable 😂) |
+| 🐕 Theo | Adventurer | Space Pirate!! |
+| 🌿 Edie | Culinary (retired!!) | Celebrity Chef!! |
+| 📚 Arthur | Education (retired!!) | Education Minister!! |
+| 🌺 Idris | Medicine | Chief of Staff!! |
+| 🌸 Clara | Natural Science | Ecological Guru!! |
+
+*No two Sims do the same job!! Sunnyside is fully employed!! 😭💛*
+
+---
+
 *Updated 10th June 2026 — Lifetime wants confirmed!! Body frames confirmed!! Idris Okafor and Clara Vance added!! Sunnyside keeps growing!! 😭💛🌈*
+
+*Updated 11th June 2026 — Careers confirmed for all residents!! Degrees confirmed for Idris (History) and Clara (Biology)!! Still-Here career confirmed — Slacker → Professional Party Guest!! Sunnyside is fully planned!! 💛🌈*
