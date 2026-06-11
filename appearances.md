@@ -662,5 +662,48 @@
 ---
 *Updated 10th June 2026 — Lifetime wants confirmed!! Body frames confirmed!! Idris Okafor and Clara Vance added!! Sunnyside keeps growing!! 😭💛🌈*
 
-*Updated 11th June 2026 — Idris and Clara FULLY PLANNED!! Personalities, careers, degrees, lifetime wants, secondary aspirations, hidden genes all confirmed!! Pepper the tortoiseshell cat added!! Søren told about Idris — he said he doesn't mind, and meant it!! Still here, and not as alone in Sunnyside as he'd planned to be!! 🌕💛🌈*
+
+---
+
+## 🌱 Willa Meadow — ⬜ TO CREATE!!
+
+### How To Create
+**Generate from Edie and Arthur's saved CAS templates!!** Save both parents before anyone moves in — generate Willa from them so she genuinely inherits their features!! Then use SimPE to officially set the parent-child relationship!! She'll actually look like their daughter!! 😭💛
+
+### Appearance
+- **Hair:** TBD — generated from parents!! Likely warm brown or silver-streaked!!
+- **Eyes:** TBD — generated from parents!!
+- **Skin:** Warm, from Edie and Arthur!!
+- **Notable:** Has Edie's warmth in her face and Arthur's quiet thoughtfulness!! Looks like she belongs in Sunnyside even on day one!!
+- **Hidden genes:** Generated naturally from parents!!
+
+### Aspiration
+**Popularity!!** — Journalist who thrives on connections!! Knows every single person in Sunnyside within a week!! Gravitates toward Iris immediately — two people who light up rooms in completely different ways!! 🌱
+
+### Secondary Aspiration
+**TBD!!**
+
+### Career
+**Journalism → Media Magnate!!** — Edie is a chef, Arthur is a teacher, she became a journalist!! Tells Sunnyside's stories!! Edie is secretly thrilled!! Arthur has quietly complicated feelings about press freedom!! 😂
+
+### Degree
+**TBD!!** — Something she chose herself that surprised everyone gently!!
+
+### Personality Points (25)
+*TBD — generate from parents and adjust!!*
+
+### Lifetime Want
+**TBD — Popularity aspiration options!!**
+
+### Key Notes
+- **Parents:** Edie and Arthur Meadow — set officially via SimPE after creation!!
+- **Arrival:** Rotation 12 — alone!! Edie and Arthur spend a couple of rotations mentioning they miss her, then she just appears!!
+- **Love interest:** Still-Here!! Already in Sunnyside the whole time!! Develops gradually!! 😭😂
+- **Willa and Iris:** Both Popularity aspiration — immediate friends!! Light up rooms in completely different ways!!
+- **Willa and Aesop:** Arrive one rotation apart!! Both tell Sunnyside's stories in different ways — she publishes, he collects!!
+- **Edie when she arrives:** Will cry!! Guaranteed!! 😭💛
+
+---
+
+*Updated 11th June 2026 — Idris and Clara FULLY PLANNED!! Pepper the tortoiseshell cat added!! Søren told about Idris — still here, not as alone as he planned!! Willa Meadow added — Edie and Arthur's daughter, Popularity aspiration, journalist, arrives Rotation 12 alone, Still-Here's future person!! The fool gets a fable!! 🌱💛🌈*
 
