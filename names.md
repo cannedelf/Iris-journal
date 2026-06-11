@@ -231,8 +231,52 @@ Brie, Edam, Paneer, Beaufort, Manchego, Pecorino, Monterey, Colby, Gouda, Havart
 
 ---
 
+
+---
+
+## 🌿 Edie Meadow
+
+**Girls:** Florence, Cecily, Dorothea, Lottie, Primrose, Willa, Beatrice, Nell, Rosemary, Clementine (she'd suggest it completely innocently and Fourth would have a crisis!! 😂)
+
+**Boys:** Edmund, Rupert, Albert, Wilfred, Barnaby, Monty, Clem, Percy, Theodore
+
+**Edie's vibe:** Warm and classic and slightly old fashioned in the loveliest way!! Names chosen by someone who has lived a whole beautiful life!!
+
+---
+
+## 📚 Arthur Meadow
+
+**Girls:** Harriet, Josephine, Eleanor, Imogen, Viola, Prudence, Augusta, Iris 😭, Evangeline, Thea
+
+**Boys:** Edwin, Leonard, Frederick, Clarence, Reginald, Crispin, Aubrey, Barnabas, Gilbert
+
+**Arthur's vibe:** Period drama perfect!! Every name sounds like it belongs in a novel he's already read!! He'd suggest Iris completely sincerely and mean every word of it!! 😭💛
+
+---
+
+## 🌿📚 Edie and Arthur — Most Likely Picks
+- **Willa** — soft and warm and slightly wild, sounds like a person who already exists somewhere waiting to be made!!
+- **Edmund** — reads a lot, makes excellent tea, quietly the most dependable person in any room!!
+
+---
+
+## 🌱 Willa Meadow — Future Arrival!!
+*Edie and Arthur's grown up child!! Arrives in Sunnyside later — moved away years ago and came back, or heard about this lovely coastal village and wanted to see it for themselves!!*
+
+- **Name:** Willa Meadow!! 🌿
+- **Parents:** Edie and Arthur — set via SimPE relationship editor after creation!!
+- **Vibe:** Has Edie's warmth and Arthur's quiet thoughtfulness!! Slightly unexpected career that her parents are quietly very proud of!!
+- **Career:** TBD!! Something she chose herself that surprised everyone gently!!
+- **Arrival:** Later in the rotational play — a proper story moment when she turns up!!
+- **Note:** Edie will cry when she arrives!! This is not a prediction, this is a guarantee!! 😭💛
+- **Søren:** Will have a new reading companion at the Tidal Library within the first week and will not comment on this!! 😂
+
+*SimPE can edit family trees and relationships — create Willa as a young adult, then set Edie and Arthur as parents after the fact!!*
+
+---
+
 ## Still To Do!! 🌱
-- 🌿 Edie and Arthur Meadow — just for fun, they're elders!!
+- ✅ Edie and Arthur Meadow — DONE!! Willa Meadow planned!!
 
 ---
 
