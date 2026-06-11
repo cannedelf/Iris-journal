@@ -880,6 +880,80 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 
 ---
 
+
+---
+
+## Ages and Career Levels 🎂
+*Sunnyside isn't a cohort — everyone arrives at a different stage of life!! Set adult days via SimPE before moving anyone in!!*
+
+### The Key Principle
+Only the active household ages in Sims 2!! Each rotation = 3 days per household!!
+- After 1 full rotation (5 households × 3 days) = **15 days** passed!!
+- After 2 full rotations = **30 days** passed!!
+
+---
+
+### Original 5 Households — Starting Adult Days
+
+| Sim | Starting Days | Notes |
+|-----|--------------|-------|
+| 🌩️ Søren | 70 | Oldest Hill sibling!! Already established!! |
+| 🔧 Wrench | 75 | Middle Hill sibling!! Been building a while!! |
+| 🌈 Iris | 80 | Youngest feeling!! Fresh start!! |
+| 🎹 Kareem | 78 | Arrived first, been waiting longest!! 😭 |
+| 🦇 Sim Liv | 80 | Same age as Iris!! 😭💛 |
+| 🍊 AWiddleFrisbee | 72 | Oldest Frisbee!! Causing problems longest!! 😂 |
+| 🪨 Still-Here | 76 | Middle Frisbee!! Completely unbothered by birth order!! |
+| 📜 Fourth | 80 | Youngest Frisbee!! Systems developed in self defence!! 😂 |
+
+---
+
+### New Arrivals — Days Remaining at Move In
+
+*Days listed = what to set in SimPE when creating them!!*
+*Iris's remaining days shown for reference!!*
+
+| Sim | Rotation | Iris has | Arrives with | Relative Age |
+|-----|----------|----------|-------------|-------------|
+| 🌺 Idris | R3 | 74 | 74 | Same age as Iris!! |
+| 🌸 Clara | R3 | 74 | 76 | Slightly younger than Iris!! |
+| 🐕 Theo | R5 | 68 | 68 | Same age as Sim Liv at that point!! |
+| 🖤 Sable | R7 | 62 | 70 | Noticeably younger — still finding herself!! |
+| 🌿 Edie | R10 | — | Fresh elder!! | Maximum elder days — just retired!! |
+| 📚 Arthur | R10 | — | Fresh elder!! | Maximum elder days — just retired!! |
+| 🌱 Willa | R12 | 47 | 74 | Young!! Just starting out!! |
+| 🌕 Aesop | R13 | 44 | 38 | 6 days older than Iris — quietly, noticeably more worn in!! Nobody knows exactly!! 😂🌕 |
+
+---
+
+### Career Levels at Move In 💼
+*Set via career cheat or SimPE!! Everyone arrives at the right stage of their working life!!*
+
+| Sim | Career | Level at Start | Notes |
+|-----|--------|---------------|-------|
+| 🌩️ Søren | Science | 3-4 | Been researching for years!! |
+| 🔧 Wrench | Architecture | 2 | Been building a while!! |
+| 🌈 Iris | Artist | 1 | Fresh start!! |
+| 🎹 Kareem | Education | 2 | Been teaching a little while!! |
+| 🦇 Sim Liv | Business | 1 | Just promoted!! 😂 |
+| 🍊 AWiddleFrisbee | Entertainment | 2 | Been performing a while!! |
+| 📜 Fourth | Law | 1 | Just starting!! |
+| 🪨 Still-Here | Slacker | 1 | Just about!! 😂 |
+| 🌺 Idris | Medicine | 3 | Been a doctor for years!! |
+| 🌸 Clara | Natural Science | 2 | Been working a while!! |
+| 🐕 Theo | Adventurer | 2 | Been adventuring!! |
+| 🖤 Sable | Artist | 1 | Still finding her way!! |
+| 🌱 Willa | Journalism | 1 | Young journalist just starting!! |
+| 🌕 Aesop | Paranormal | 4-5 | Credentials unverifiable!! Nobody asks!! 😂🌕 |
+
+*Edie and Arthur are retired — no career needed!!*
+
+---
+
+*Added 11th June 2026 — Ages and career levels planned!! Sunnyside feels like a real town with real people at different stages of life!! Not a cohort!! 💛🌈*
+
+---
+
 ## Rotation Tracker 🔄
 
 *3 days per household per rotation!! Always start with Iris!! Build one community lot after each rotation!!*
