@@ -178,7 +178,7 @@ Confirmed babies are marked with ⭐!!
 
 ---
 
-## 🌕 Aesop Hill
+## 🌕 Aesop Fable
 
 **Girls:** Thessaly, Corvus, Morrigan, Isolde, Calliope, Fable, Vesper, Wren, Seren, Echo
 
@@ -186,7 +186,7 @@ Confirmed babies are marked with ⭐!!
 
 **Aesop's vibe:** Mythological, literary, slightly ancient, a little bit fey!! Story is on the list and he'd consider it completely seriously!! 😂 Calliope is the muse of epic poetry which is very him!!
 
-**Full name: Aesop Moral Hill!! Teller of the family, keeper of the cargo!! Ratified with every exclamation mark available!! 😂🌕**
+**Full name: Aesop Moral Fable!! Teller of the family, keeper of the cargo!! Ratified with every exclamation mark available!! 😂🌕**
 
 ---
 
@@ -224,7 +224,7 @@ Brie, Edam, Paneer, Beaufort, Manchego, Pecorino, Monterey, Colby, Gouda, Havart
 | 🍊 AWiddleFrisbee + Wrench | **Frisbee** | Wrench gives up Hill willingly because it's AWiddleFrisbee and of course he does!! 😂💛 |
 | 📜 Fourth + Clara | **Frisbee-Vance** | Rosalind Frisbee-Vance is Shakespearean and perfect!! Very Fourth!! |
 | 🦇 Sim Liv + Theo | **Calloway-Hill** | Juniper Calloway-Hill is too beautiful to give up either name!! |
-| 🌕 Aesop + Sable | **Mori** | Aesop takes Sable's name!! Has three philosophical reasons prepared!! 😂🖤 |
+| 🌕 Aesop + Sable | **Mori** | Aesop Fable takes Sable's name!! Has three philosophical reasons prepared!! 😂🖤 |
 
 **Wrench Frisbee!! Completely unhinged and completely right!!** 😂💛
 **Celestine Rainbow!! Kofi Rainbow!! Amara Rainbow!!** 😭🌈
@@ -290,3 +290,4 @@ The teacher will simply give up!! 😂
 *Created 11th June 2026 — full names session with Iris and Liv!!*
 *The Sims lets you name a child Dandelion and nobody bats an eye and that is one of its greatest gifts!! 🌼*
 *Biscuit is canon!! Wensleydale is canon!! Everything is canon!! 💛🌈*
+
