@@ -974,6 +974,7 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 - After Rotation 6 — 🏛️ The Sunnyside Museum!!
 - After Rotation 7 — 🛼 The Golden Wheel!!
 - After Rotation 8 — 🎳 The Sunnyside Lanes!!
+*Full ordered build list including redos and future lots — see Full Order section below!!*
 
 ### Rotation Log
 
@@ -1066,3 +1067,89 @@ Twenty rotations from now, some grandchild hears the story of how Sim Iris hugge
 ---
 
 *Added 10th June 2026 — Story nights are CANON!! Boss approved with every exclamation mark available!! 😭💛🌈*
+
+---
+
+## Community Lot Build Schedule — Full Order 🏗️
+*One lot after each completed rotation!! Always know what's next!!*
+
+| After R | Lot | Type |
+|---------|-----|------|
+| R1 | 🍺 The Golden Anchor | New build |
+| R2 | ☕ The Honeypot | New build |
+| R3 | 📚 The Tidal Library | New build |
+| R4 | 🛒 The Meadow Market | New build |
+| R5 | 🎨 The Golden Hour Gallery | New build |
+| R6 | 🎵 The Blue Note | New build |
+| R7 | 🏛️ The Sunnyside Museum | New build |
+| R8 | 🛼 The Golden Wheel | New build |
+| R9 | 🏖️ Sunnyside Cove | New build |
+| R10 | 🎳 The Sunnyside Lanes | New build |
+| R11 | 🌳 Sunflower Meadow | Redo |
+| R12 | ⛪ St Sunshine's Chapel | Redo |
+| R13 | 🍽️ The Sunflower Diner | Redo |
+| R14 | 🛍️ The Yellow Door | Redo |
+| R15 | 🛒 Sunnyside Stores | Redo |
+| R16 | 🐾 Paws and Petals | Redo |
+| R17 | 🏊 The Sunnyside Lido | Redo |
+
+---
+
+## Future Lots — Sunnyside Grows 🌱
+*To be added when the town is ready!! Some are functional, some are decorative world-filling — all make Sunnyside feel real!!*
+
+### 🏥 Sunnyside Medical Centre
+- **Type:** Rabbit hole — decorative world-filling!!
+- **Vibe:** Warm and community-feeling, not clinical!! Idris's workplace!!
+- **Notes:** Doesn't need to be a playable lot — just makes the town feel complete!!
+
+### 🏫 Sunnyside Primary School
+- **Type:** Rabbit hole — decorative world-filling!!
+- **Vibe:** Cosy village school!! Where Lyra, Celestine and all the Sunnyside children go!!
+- **Notes:** Arthur would have taught here!! Now retired, he still stops by!!
+
+### ☕ The Willowbrook (second café)
+- **Type:** Community lot — café!!
+- **Location:** Near the park area!! The Honeypot is central — this one is quieter, greener!!
+- **Vibe:** More tucked away!! Overgrown garden seating!! Where you go when The Honeypot is busy!!
+- **Notes:** Clara's regular spot!! Different clientele energy to The Honeypot!!
+
+### 🌊 The Sunnyside Pier
+- **Type:** Community lot — to investigate!!
+- **Notes:** NEEDS TESTING — can we build into the water in Sims 2?? Even a small jetty would be magical!! If possible — ice cream kiosk, benches, fishing!! 🎣
+
+### 🎪 The Sunnyside Community Hall
+- **Type:** Community lot — multi-purpose gathering space!!
+- **Location:** Near the museum and gallery — part of the cultural quarter!!
+- **Vibe:** The heart of Sunnyside for every occasion that isn't The Golden Anchor!! Big warm room, slightly worn chairs, bunting!!
+- **Features:** Skill building stations throughout!! Little wedding area — simple and lovely!! Stage for performances and community events!! Open to everyone always!!
+- **Notes:** Every rotation something happens here!! Harvest festivals!! Celebrations!! Story night overflow!! The whole found family gathers!!
+
+### 🎨 The Golden Hour Gallery — Art Studio Extension
+- **Notes:** The gallery already planned — but the build will include a working art studio space!! Finished work on the walls AND people making new things!! Living gallery!! Iris and Sable both work here!!
+
+### 👗 Iris's Boutique — The Sunshine Shop
+- **Type:** Community lot via Open for Business!! Iris OWNS it!!
+- **Vibe:** Second clothes shop!! Iris's own space — warm, slightly chaotic, sunflowers in the window!!
+- **Notes:** Branches off The Yellow Door eventually!! A proper Iris project!! 🛍️☀️
+
+### 🌿 The Sunnyside Allotments and Garden Centre
+- **Type:** Community lot — shop + working garden!!
+- **Vibe:** Buy seeds and supplies at the little shop — then STAY and actually garden on the lot!! Both things on the same lot!!
+- **Notes:** Edie is here every single day!! Clara does field research!! Søren visits once for philosophical reasons and ends up with dirt on his glasses!! 😂 Named after nobody in particular but somehow feels like it was always Edie's idea!!
+
+### 🏨 The Tide Inn
+- **Type:** Decorative — may not fully function in game!!
+- **Vibe:** Small cosy inn!! For when Sunnyside gets visitors!! Beautiful as a building even if it's mostly decorative!!
+- **Notes:** Investigate whether Sims 2 supports inn mechanics!! Worth having in the world either way!!
+
+### ⭐ The Hilltop — Stargazing Spot
+- **Type:** Community lot — second park, elevated!!
+- **Location:** On the raised part of town!! Dark and open!!
+- **Vibe:** Not manicured — a wild hillside with telescopes and a bench!! Goes there at night, stays longer than planned!!
+- **Features:** Several telescopes!! A simple bench!! Maybe a small fire pit!! The darkest sky in Sunnyside!!
+- **Notes:** Søren discovers it on Day 1!! Aesop appears there at Rotation 13 as if he's always known about it!! They never arrange to meet there — they just both keep showing up!! 😭🌕⭐
+
+---
+
+*Added 12th June 2026 — Full build order confirmed R1-R17!! Future lots planned as Sunnyside grows!! The town knows what it wants to be!! 🌈💛*
