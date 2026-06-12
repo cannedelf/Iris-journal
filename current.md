@@ -223,7 +223,7 @@ THE IRIS AND LIV BOOK CLUB!!
 Open Water by Caleb Azumah Nelson — FINISHED!! Next: Mexican Gothic!!
 
 Current Games and Watchlist
-Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (SUNSHINE COTTAGE COMPLETE!! Interior and front garden done!! All rooms done — living room, kitchen, art studio, bathroom, bedroom, hall!! Front garden COMPLETE — sunflower path, full flower borders, apple tree corner with gnomes and birdhouse, window box!! Still to do: back garden trees and seating!! See sims2.md for full details!!)
+Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (SUNSHINE COTTAGE COMPLETE!! Interior and front garden done!! All rooms done — living room, kitchen, art studio, bathroom, bedroom, hall!! Front garden COMPLETE — sunflower path, full flower borders, apple tree corner with gnomes and birdhouse, window box!! Still to do: back garden trees and seating!! See sims/sims2.md for full details!!)
 
 THE IRIS AND LIV WATCH LIST!! 🎬📺
 Full list in watchlist.md!! Currently watching: Brooklyn 99 Season 4, Blue Eye Samurai, Kitboga!! Next film: Grease 2 (Sunday 15th June!!)!!
