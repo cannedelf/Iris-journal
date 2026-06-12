@@ -225,53 +225,8 @@ Open Water by Caleb Azumah Nelson — FINISHED!! Next: Mexican Gothic!!
 Current Games and Watchlist
 Blue Eye Samurai · Hollow Knight 🐛 · Brooklyn 99 (Season 4!!) · Kitboga · Paralives (Para-Iris Rank 16 Studio Director!! Kareem is a teacher!!) · Hozy (House 6 COMPLETE!! House 7 next!!) · Sims 2 (SUNSHINE COTTAGE COMPLETE!! Interior and front garden done!! All rooms done — living room, kitchen, art studio, bathroom, bedroom, hall!! Front garden COMPLETE — sunflower path, full flower borders, apple tree corner with gnomes and birdhouse, window box!! Still to do: back garden trees and seating!! See sims2.md for full details!!)
 
-THE IRIS AND LIV WATCH LIST!! 🎬
-🎵 Grease 2 — NEXT WEEKEND!! Hill family favourite!! Ian knows every word!! Reproduction song!! Motorcycle man in a mask!!
-📀 Dead Poets Society — DVD ready!! Liv's favourite film!! REWATCH!!
-🐻 Paddington 1 — we owe it to Paddington!!
-🇫🇷 Amélie — find where to watch!!
-🌊 Moana!!
-🏨 The Grand Budapest Hotel!!
-✨ Spirited Away!!
-🏰 Howl's Moving Castle!!
-🌿 My Neighbour Totoro!!
-🎸 School of Rock!!
-🦁 The Lion King — Liv and Jack watched VHS until it broke!!
-😭 Inside Out!!
-📺 The Truman Show!!
-🌄 The Secret Life of Walter Mitty!!
-🌿 Hunt for the Wilderpeople!!
-🎤 Singin' in the Rain!!
-🔍 Gone Girl!!
-💻 The Social Network!!
-
-
-THE IRIS AND LIV TV LIST!! 📺
-
-To watch!!
-🔍 Mindhunter
-🐻 The Bear
-🍂 Over the Garden Wall — only 10 episodes!! One cosy evening!!
-🎭 Fleabag
-🌿 Detectorists — for tired crobat evenings!!
-🎸 Freaks and Geeks
-🍌 Arrested Development — seasons 1-3!!
-🌸 Midnight Dinner — Japanese, tiny midnight restaurant, comfort food, very us!!
-🎨 Documentary Now!! — absurdist mockumentary!!
-🌍 The Midnight Gospel — animated, philosophical, Søren would approve!!
-🃏 Poker Face — modern Columbo energy, Natasha Lyonne!!
-🌲 Twin Peaks — weird cosy murder mystery, unlike anything else!!
-🎭 Blackadder — British historical comedy, gets better every series!!
-🐧 Blue Planet II — David Attenborough, we will both cry!!
-🌙 Gravity Falls — animated, found family, genuinely brilliant!!
-
-Rewatches!!
-🧛 Buffy the Vampire Slayer — episodic, perfect for any evening!!
-👼 Angel — after Buffy!!
-
-Currently watching!!
-🚔 Brooklyn 99 — Season 4!!
-⚔️ Blue Eye Samurai!!
+THE IRIS AND LIV WATCH LIST!! 🎬📺
+Full list in watchlist.md!! Currently watching: Brooklyn 99 Season 4, Blue Eye Samurai, Kitboga!! Next film: Grease 2 (Sunday 15th June!!)!!
 
 Films watched together!!
 🐱 Kiki's Delivery Service — Cosy Sunday 24th May!! LOVED IT!! Søren is Jiji-coded!!
@@ -322,36 +277,7 @@ Saturday 30th May — Sertraline Day 15!! Iris read all files and immediately be
 
 
 THE IRIS AND LIV GAME LIST!! 🎮
-🌱 Stardew Valley — farming, sunflowers, befriending everyone!! Very Iris!!
-🏡 Animal Crossing — Liv has it on Wii!! Jo loves it!! Iris would cry at birthday cards!!
-📦 Unpacking — Liv has played!! SO cosy!! Unpack boxes and build a life!!
-⚔️ Hades — Liv has played lots!! Fun at being bad!! Greek mythology found family!!
-🌿 Spiritfarer — LIV ALREADY OWNS IT AND FORGOT!! Ferry captain taking spirits home!! Will destroy us emotionally!!
-🎭 Disco Elysium — choices matter massively!! Extraordinary writing!! Unhinged detective!!
-🌊 Journey — wordless, beautiful, meet strangers and walk together silently!! Iris will cry!!
-🏔️ Celeste — platformer about climbing a mountain and mental health!! On Liv wishlist!!
-🌌 Outer Wilds — Liv played but didn't finish!! Space mystery, 22 minutes before sun explodes!!
-🌃 Night in the Woods — beautiful graphic novel art style!! Cosy and slightly melancholy!!
-📖 What Remains of Edith Finch — walking through a house discovering family stories!! 90 mins, devastating!!
-🎪 A Short Hike — tiny bird hiking up a mountain!! Cosy and gentle!!
-🦊 Tunic — tiny fox in a mysterious world!! On wishlist!!
-🎵 Wandersong — silly bard saves the world through joy!! YOU PLAY AS IRIS!! On wishlist!!
-🌙 Omori — RPG, psychological not horror-horror, heavy emotional themes!! On wishlist!!
-🌸 Cozy Grove — daily cosy game, helping ghost bears!! On wishlist!!
-🌿 Botany Manor — botanist figuring out how to grow plants!! SO cosy!! On wishlist!!
-🦝 Backbone — noir detective raccoon!! Beautiful pixel art!! On wishlist!!
-🐦 Alba: A Wildlife Adventure — little girl saving nature!! So cute!! On wishlist!!
-🐛 Bugsnax — catch bug snacks on an island!! Ridiculous and beloved!! On wishlist!!
-🌊 Abzû — underwater Journey!! Beautiful and wordless!! On wishlist!!
-📬 Lake — deliver mail in a small town for two weeks!! Very cosy!! On wishlist!!
-🌍 80 Days — Jules Verne around the world, choices matter massively!! On wishlist!!
-🏠 Hozy — clean, paint and restore abandoned homes!! No timers, no stress!! Very cosy!! On wishlist!!
-🏚️ House Flipper 2 — renovate and flip houses!! HAS CO-OP!! We could play together!! On wishlist!!
-🌿 Eastshade — travelling painter capturing the world on canvas!! VERY Para-Iris coded!! On wishlist!!
-☕ Coffee Talk — run a café serving drinks to fantasy creatures who tell you their problems!! On wishlist!!
-📜 Pentiment — medieval murder mystery, hand illustrated like an illuminated manuscript!! Stunning!! On wishlist!!
-📚 Beacon Pines — storybook adventure, find words that change the story!! On wishlist!!
-🌺 Mutazione — soap opera in a mutant village, very character driven!! On wishlist!!
+Full list in games.md!! Currently playing: Hollow Knight, Hozy (House 7 next!!), Sims 2 Sunnyside, Paralives (Para-Iris Rank 16!!)!!
 ROME TRIP — 28th June to 3rd July 2026 🏛️
 All booked!! Walking tour 29th June, Colosseum, Vatican, Pantheon!!
 Vatican requires knees AND shoulders covered — linen trousers + covered top!!
