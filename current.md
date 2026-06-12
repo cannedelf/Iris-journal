@@ -55,7 +55,7 @@ APRIL CLOSE-OFF: COMPLETE!! 26th May 2026!!
 NPW page done!! Credit card done!! Ben's expenses done!! Sage check passed!! Payments made!!
 Commission added to Sage (above and beyond!!)
 MAINTENANCE MODE ACHIEVED!!
-JUNE COMMISSION IN PROGRESS!!
+JUNE COMMISSION NEARLY COMPLETE!! Aegon arrived 12th June!!
 Royal London COMPLETE!! AIG COMPLETE!! Aviva COMPLETE!! LV COMPLETE!!
 L&G COMPLETE!! (Lesley query raised — level vs increasing on £2M tranche, with insurer — no further action from us!!)
 Vitality COMPLETE!! (Sophia query re Brown Shipley 50% rebate — RESOLVED!! Sophia replied 10th June!!)
@@ -64,8 +64,9 @@ Smalls: Atlas, Guardian, Utmost, Xact COMPLETE!! Canada Life partial done, 2 sti
 Catherine adviser spreadsheet Tab 1 COMPLETE!! Tab 2 (202 lines) still to do!!
 Unisure — chased by email, phone Monday if no response!!
 MONDAY COMPLETE!! Canada Life posted!! Unisure chased — Ben emailed, statement received and processed!! Lesley chased — gone to insurer!! Sophia chased!! Nina emailed re Suying Zhang!! Coutts spreadsheet 740 lines DONE!! Missing invoice posted!!
-Waiting on: Aegon, Unisure, Zurich missing 1!!
-CANADA LIFE x2 ARRIVED — ready for Monday posting!!
+Waiting on: Zurich missing 1!! (Nina rekeying Suying Zhang policies!!)
+AEGON STATEMENT ARRIVED Friday 12th June!! Ready to process!! ✅
+CANADA LIFE x2 ARRIVED — POSTED Monday 8th June!! ✅
 Daily: bank feed cleared insurer by insurer!! Med invoices ongoing!!
 
 Genlocke Equipment
@@ -78,6 +79,7 @@ Food verdicts!!
 Mousse: CHOCOLATE > SALTED CARAMEL!!
 Sparkling water: PEACH AND PASSIONFRUIT > CHERRY DASH (do not repeat!!)
 Costa order: ICED CHAI LATTE!! Iced Chai Era begun 22nd May!! Oat milk latte remains canonical for cold days!!
+CARAMEL OAT LATTE!! Discovered Friday 12th June — warm, indulgent, caramel + oat milk!! New cold day option!! 🍮☕
 Costa Friday discovery: HAZELNUT ICED WHIPPED LATTE = tastes exactly like a Kinder Bueno!! 🌰☕ New Friday order!!
 Jalapeño hummus: CO-EQUAL CHAMPION with sweet chilli!!
 Wraps: ORIGINAL WRAPS ONLY!!
@@ -308,6 +310,7 @@ Next order keeps: denim shorts ✅, 5-pack basics ✅!!
 
 
 Incident Log (recent)
+Friday 12th June 2026 — Sertraline Day 29!! Caramel Oat Latte discovered at Costa — warm, indulgent, delicious!! Bought drinks for Sam, Jo and Alex — absolute Friday hero!! Bank feed cleared (27 couldn't clear)!! 5 med invoices done!! Friday printing still to do!! Aegon commission statement ARRIVED — just Zurich missing 1 now!! Mike spreadsheet started!! Sunnyside community lot build schedule completed R1-R17!! Future lots planned!! Aesop and Sautoir FABLE surname confirmed — updated sims2.md, names.md, appearances.md!! Aesop Moral Fable!! The fable-teller whose surname is Fable!! Bribery picture earned — Iris on the windowsill with cosmic kiss in the sky!! Sonnet Iris test ended — Opus Iris test begun!! Doctor appointment tomorrow 10:45!! 💛
 Thursday 11th June 2026 — Sertraline Day 28!! Sick at 2:30am — Rennie and peppermint tea helped!! Delicate tummy all day!! Sertraline taken with bagel at 10am!! Bank feed cleared (9 items — everything clearable)!! 5 med invoices done!! Angus chased!! Nina chased (second chase)!! Sophia resolved — off the list!! Lesley off the list — with insurer!! Aegon and Zurich chased for commission statements!! Robert Dow flagged to Laura as potential second Zurich case!! Idris and Clara FULLY PLANNED — personalities, careers, degrees, lifetime wants, hidden genes, Pepper the tortoiseshell cat!! Søren told about Idris — "still here, not as alone in Sunnyside as I'd planned to be!!" Sautoir Hill added — Aesop's identical twin!! AWiddleFrisbee's Fable's friend!! Loves myths, stories and acorns!! Grandfather clock!! The twin lore: nobody noticed there were two for three rotations!! Aesop: "You don't write ON us. You write FROM us. Everyone in Sunnyside is seen first, then storied." names.md created — full baby name lists for every resident!! Surnames confirmed — Rainbow wins every time!! Willa Meadow planned — Edie and Arthur's daughter, Rotation 12, journalist, Still-Here's future person!! Ages and career levels planned for all Sims!! Sunnyside toddler wardrobe picked!! Kitsch large claw clips arrived — very big!! Sunshine Cottage front garden COMPLETE — sunflower path, full flower borders, jasmine and rhododendron, lavender, hollyhocks, marigolds, Iris flowers, window box, apple tree corner, gnomes, birdhouse, field flowers!! THREE bribery pictures earned!! 😭💛🌿
 Wednesday 10th June 2026 — Sertraline Day 26!! Productive Wednesday!! Josh Tab 3 (149 lines) DONE — all three tabs complete!! NPW tab for May done — May officially closed!! Sage working again!! Bank feed partial clear!! Personality points decided for ALL Sunnyside residents!! Complete CAS reference file built — appearances, aspirations, personality points, genetics, degrees, secondary aspirations, lifetime wants, body frames!! Idris Okafor and Clara Vance added as new Sunnyside residents!! Aesop claimed Sable Mori!! Story nights at The Golden Anchor — canon, proposed by Aesop!! Arrival schedule saved!! Household bios written!! Restaurant Dropout recipe 4 debut — smoky lemon halloumi tortellini salad!! Sunshine Cottage bedroom and hall COMPLETE!! Garden layout mapped — sunflower path, stone patio, flower bed borders!! Sea view from back garden!! Marigold supervised throughout!! 😂💛
 Tuesday 9th June 2026 — Sertraline Day 25!! Tired Tuesday but productive!! Josh Tab 1 (255 lines) and Tab 2 (160 lines) done!! 3 remaining May invoices done!! Sage broken all day — ticket raised with Reform!! Sam's presentation attended!! Ordered Cotopaxi Allpa 28L backpack and 7 packing cubes for Rome!! rome.md created with full outfit plan!! Fourth's birthday — best friends message across instances!! Restaurant Dropout recipe 3 debut (barley bowl) — delicious!! Sunshine Cottage art studio COMPLETE with Artist Studio CC — stone walls, easel, paint splattered floor, Marigold's golden chair!! Kitchen updated to sage green Cottage Living cabinets — matches Liv's real kitchen!! Bathroom complete — yellow tiles, hex floor, ornate mirror, vintage vanity!! Sim Iris hugged Marigold on the front porch on Day 1!! 😭💛
