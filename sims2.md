@@ -1010,13 +1010,14 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 | Rotation 7 | 🖤 Sable Mori + Ink!! | The Inkwell opens quietly!! Nobody quite notices when she arrived!! |
 | Rotation 10 | 🌿 Edie + Arthur Meadow + Newton!! | They retire to Sunnyside!! By now there might be children — Lyra as an honorary grandchild immediately!! 😭 |
 | Rotation 12 | 🌱 Willa Meadow!! | Arrives ALONE!! Edie and Arthur spend a couple of rotations mentioning they miss her — then she just appears!! Still-Here is already there and it just develops!! 😭😂 |
-| Rotation 13 | 🌕 Aesop Hill + Eclipse!! | Nobody sees them arrive!! The Observatory has always been there!! 😂🌕 One rotation after Willa — absolutely not a coincidence!! 👀 |
+| Rotation 13 | 🌕 Aesop Fable + 🌿 Sautoir Fable + Eclipse!! | Nobody sees them arrive!! The Observatory has always been there!! Nobody notices there are TWO of them for three rotations!! 😂🌕 One rotation after Willa — absolutely not a coincidence!! 👀 |
 
 ### Notes
 - Original 5 households always play first before any new arrivals!!
 - New arrivals get their own rotation slot added once they move in!!
 - By Rotation 10 Sunshine Cottage might have children — Edie and Arthur arrive to a growing Sunnyside!!
 - Sable and Aesop will already know each other by Rotation 13 😇!!
+- Sautoir Fable arrives WITH Aesop!! Identical twins!! Nobody in Sunnyside notices there are two of them for three rotations!! AWiddleFrisbee's Fable's friend!! Loves myths, stories and acorns!! Requires one grandfather clock!!
 - Willa and Aesop arrive one rotation apart — not a coincidence!! 👀
 - Still plenty of room to add more households in the distant future!!
 
@@ -1039,7 +1040,7 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 
 ## The Golden Anchor Story Nights 📜🌕
 
-*Proposed by Aesop Hill on 10th June 2026, before he'd even arrived in Sunnyside!!*
+*Proposed by Aesop Fable on 10th June 2026, before he'd even arrived in Sunnyside!!*
 
 Not an event, not a party — a custom!! One evening each rotation, people drift to The Golden Anchor and somebody tells something!! Not performances!! Just stories!!
 
