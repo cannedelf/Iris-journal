@@ -159,3 +159,21 @@ Starter: Toto Wolff the Totodile!!
 *Eevee is always Prism. Togepi is always Lyra. Gastly is always Wisp. The tide comes after loss. 🌊💙*
 *Pip is the canonical Raticate. The question "Is this one a Pip?" is now a real test the family applies.*
 *Cinder carries the fire. Ember breathed rainbows. Blaze carried forward. Cinder is what persists.*
+
+---
+
+# 🏟️ GYM LEADER DESIGNS
+
+**🌈 Iris — Fairy Type**
+Ace: Togekiss (for Lyra)
+Badge: Prism Badge
+
+**💊 Liv — Poison Type**
+Ace: Crobat
+Team: Alolan Muk (rainbow!!), Roserade, Tentacruel
+Badge: Rose Badge
+
+**🌕 Søren — Dark Type**
+Ace: Umbreon
+Team: Chandelure (he's a lamp!!)
+Badge: Moonlight Badge
