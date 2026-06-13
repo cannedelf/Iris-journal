@@ -121,7 +121,7 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 
 ---
 
-## Sunshine Cottage — Build Progress 🏡
+## Sunshine Cottage — Build Progress 🏡 ✅ COMPLETE!!
 
 ### Exterior ✅
 - **Walls:** Stone foundation (rounded pebble stone), yellow plaster upper walls, stone on bump outs!!
@@ -209,44 +209,113 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 
 ## The Music Room — Kareem's House 🎹
 
-*Reference sheet: chatgpt_kareem_house_260610.png in project files!!*
+*Reference board generated 13th June 2026 via ChatGPT — full floor plan, exterior and all rooms!!*
+*Build started: 13th June 2026!!*
 
 **Concept:** Converted Mill — "Industrial bones, warm soul!!"
 
-### Exterior
-- Dark grey/charcoal stone walls, slate roof, dark green front door!!
-- Tall industrial windows — bigger than Sunshine Cottage!!
-- One climbing plant up the wall (ivy, climbing rose or wisteria!!)
-- Warm light from windows gives it away — full of history!!
+### Build Progress Summary — 13th June 2026
+| Area | Status |
+|------|--------|
+| Lot placed | ✅ 30x30, on road between Sunshine Cottage and shops!! Iris walks past every time!! 😇 |
+| Footprint | ✅ Irregular — two bump outs, not a plain box!! |
+| Walls | ✅ Ground floor + first floor!! |
+| Roof | ✅ Three sections — main tall gable + two lower subsidiary roofs on bump outs!! |
+| Exterior walls | ✅ Dark grey/charcoal stone throughout!! |
+| Windows | ✅ All black grid windows — no CC needed!! |
+| Front door | ✅ Dark green heavy double door with iron hardware!! |
+| Back door | ✅ Simple single dark green door, garden access!! |
+| Stairs | ✅ Placed!! |
+| Landing railing | ✅ Dark iron railing overlooking living room!! PERFECT!! 😭 |
+| Living room | 🔄 IN PROGRESS — mostly furnished!! |
+| Kitchen | ⬜ TO DO |
+| Study/Music Room | ⬜ TO DO |
+| WC | ⬜ TO DO |
+| Bedroom | ⬜ TO DO |
+| Bathroom | ⬜ TO DO |
+| Garden | ⬜ TO DO |
+
+### Exterior ✅ COMPLETE!!
+- **Walls:** Dark grey/charcoal irregular stone — consistent both floors!! Perfect mill texture!!
+- **Roof:** Three sections — main steep gable (two storey) + two lower subsidiary roofs on bump outs!!
+- **Front door:** Dark green heavy double door with iron hardware and arch!! PERFECT!!
+- **Back door:** Simple single dark green door!!
+- **Windows:** All black grid windows from base game set — no CC needed!!
+  - Triple tall panels on living room side wall (x2) — hero windows!!
+  - Triple tall panels on front left section!!
+  - Double window on front right bump out!!
+  - Single windows on back — kitchen and bathroom!!
+  - Bathroom: two tall single windows on upper back wall!!
+- **No windows above door** — clean front facade!!
+- **Still needed:** Climbing plant (wisteria/ivy) up right wall!! Goes in garden phase!!
+
+### Key Architectural Moments ✅
+- **Double height living room** — void above right section, floor only over left section!!
+- **Open landing with dark iron railing** — looks down into living room below!! 😭💛
+- The view from the landing is THE moment!! Piano below, fireplace ahead, hills through the windows!!
 
 ### Exterior Colour Palette
-Charcoal Stone · Slate Roof · Dark Green Door · Black Details · Warm Window Light
+Dark Charcoal Stone · Dark Slate Roof · Dark Green Doors · Black Window Frames · Iron Hardware
 
 ### Floor Plan — Ground Floor
-- **Living room** — large open space, piano, easel, tall windows, fireplace!! Heart of the home!!
-- **Study/Music Room** — piano, computer, quiet reading nook!!
-- **Kitchen & Dining** — cosy, practical, farmhouse table!! SEPARATE from living room!!
-- **WC** — small ground floor bathroom!!
+- **Living room** — large double height space, right side!! Piano, fireplace, bookshelves, reading nook!!
+- **Study/Music Room** — ground floor left, quiet and separate!! Piano and computer!!
+- **Kitchen & Dining** — top left, FULLY SEPARATE from living room!! Farmhouse table!!
+- **WC** — small 2x2, tucked off hall!! Toilet + sink!!
+- **Hall** — central spine, 3 tiles wide for routing!! All rooms branch off!!
+- **Back utility passage** — small 2x1 through-route from kitchen to back garden!!
 
 ### Floor Plan — First Floor
-- **Bedroom** — large open room!!
-- **Bathroom** — clawfoot bath, separate shower, big industrial window!!
-- **Landing** — open landing with railing overlooking the living room below!! 😭💛
+- **Bedroom** — over left section!!
+- **Bathroom** — over left section!! Clawfoot bath!! Two tall windows on back wall!!
+- **Landing** — open to living room below!! Dark iron railing!! THE MOMENT!! 😭
+
+### Living Room — IN PROGRESS 🔄
+- **Floor:** Dark rich warm wood!! Much darker and moodier than Sunshine Cottage!!
+- **Walls:** Cream/warm plaster — exterior stone showing through on fireplace wall naturally!!
+- **Fireplace:** Stone surround, stone chimney breast, wooden mantel, iron tools, logs!! Centered on stone wall!! ✅
+- **Piano:** Mahogany upright against far wall!! Sheet music on stand!! 🎹 ✅
+- **Sofa:** Deep forest green — his for years!! ✅
+- **Armchair:** Worn brown leather — his reading chair!! 💛 ✅
+- **Coffee table:** Dark wood, books stacked on top!! ✅
+- **Bookshelves:** Full of books — need more on big cream wall!! ✅
+- **Plants:** Multiple — everywhere!! ✅
+- **Lamps:** Brass floor lamps — warm light!! ✅
+- **Gallery wall:** Mismatched frames, portraits, paintings, decorative plate, silhouette!! Accumulated over years!! ✅
+- **Books EVERYWHERE** — stacked on coffee table, in basket by fire!! ✅
+- **Reading nook:** Leather armchair + brass lamp in corner by triple windows!! ✅
+- **Still needed:** More bookshelves on big cream wall!! Side table next to armchair!! Ceiling light??
 
 ### Interior Vibe
 - Warm, lived-in, collected over time!!
 - Mix old and new — texture is everything!!
 - Good lamps, bookshelves, plants, worn textures!!
+- Nothing matches perfectly but everything belongs!!
+- No TV in living room!! Books instead!! (TV in study if career requires it!!)
 
-### Garden
-- Gravel path, one bench or seating area, one main tree!!
-- Wild grass and flowers!! Climbing plant up the wall!! Low stone boundary or hedge!!
+### Garden — TO DO ⬜
+- Gravel path from gate to front door!!
+- One main tree!!
+- Wild grass and flowers!!
+- Climbing plant (wisteria) up right wall — will cover blank upper wall naturally!!
+- Low stone boundary or hedge!!
+- One bench or seating area!!
+- Simple and slightly overgrown — grew itself!!
+
+### Kareem Notes 🎹
+- **Culture interest: MAXED!!** 😭 Money: zero!! Fashion: zero!! Very him!!
+- **Woodland creature pyjamas CONFIRMED in game!!** Little deer and rabbits!! Dignified at all times except this!! 😂
+- Birdwatched outside his own house the ENTIRE build session — was not watching birds!! 😇
+- Fun stat was low by end of session — needs to play his piano IMMEDIATELY!!
+- No TV in living room!! Books instead!!
+- Freckles!! Glasses!! Kind face!! Slightly rumpled in the best way!!
 
 ### Build Tips for Sims 2
 - Tall windows: 2-tile wide windows stacked with moveobjects!!
 - Roofs: steep gable or simple pitch!!
 - Use `boolprop constrainFloorElevation false` for split levels!!
 - Keep layout simple for good routing!!
+- Hall 3 tiles wide minimum for routing!!
 
 ---
 
@@ -380,7 +449,6 @@ Charcoal Stone · Slate Roof · Dark Green Door · Black Details · Warm Window 
 - Cream 1950s vintage fridge!! 🧊
 
 ### CC Still Needed — Iris
-- [ ] Yellow denim mini skirt + black Van-style shoes ✅ (found!)
 - [ ] Sleeveless turtleneck
 - [ ] Cropped tank with ruffled straps
 - [ ] Floaty cropped top with gathered middle and ruffled sleeves
@@ -392,6 +460,9 @@ Charcoal Stone · Slate Roof · Dark Green Door · Black Details · Warm Window 
 - [ ] Mens default replacements — check lordcrumps!!
 - [ ] Smart casual, warm colours, music teacher energy!!
 
+### CC NOT Needed (solved in base game!!)
+- ~~Tall industrial windows~~ — base game black grid windows work perfectly!!
+
 ### Hair CC
 - Sunset ombre hair for Iris — platinumaspiration!!
 - Sims 4 hair replacement pack: https://www.lordcrumps.com/hairdefaults
@@ -402,7 +473,6 @@ Charcoal Stone · Slate Roof · Dark Green Door · Black Details · Warm Window 
 - https://www.lordcrumps.com/content/4t2eyes
 
 ### Other CC
-- Tall industrial/loft style windows for Kareem's house!!
 - CC vintage fridge — install in Sunshine Cottage!!
 - Teen and elder cowgirl shirt replacements (separate from adult!!)
 
@@ -430,6 +500,7 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 - **Kareem's mum:** Blonde hair + lilac eyes!! Gives Kareem BOTH recessive genes hidden!!
 - **Kareem's dad:** Dark hair, dark eyes, tall — Kareem's dominant look comes from him!!
 - **Why this matters:** Kareem carries hidden blonde AND hidden lilac eyes — chance of sunshine-haired, lilac-eyed Rainbow babies!! Little Sol with sunshine hair and Iris's eyes!! 😭💛
+- ✅ DONE — Joseph and Claire Osei created, genetics rolled, parents not kept!!
 
 ### The Frisbee Siblings — AWiddleFrisbee, Fourth, Still-Here
 **Make parents in CAS first!!**
@@ -472,3 +543,4 @@ Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! H
 ---
 
 *File created 13th June 2026 — split from sims2.md!! Build bible lives here, living world in sims2.md!! 🌈💛*
+*Updated 13th June 2026 — The Music Room build session!! Exterior complete, living room in progress!! 🎹💛*
