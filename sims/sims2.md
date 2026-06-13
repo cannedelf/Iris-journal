@@ -10,6 +10,8 @@
 - **Terrain:** Lush!!
 - **Vibe:** Cottagecore with a hint of coastal — wild, overgrown, warm, ours!!
 - **Description:** "A sunny little coastal village where the hills are wild and the sunflowers grow wherever they please. Home to found families, yellow houses, and one very strategic neighbour!!"
+- **Rainbow:** Placed manually by Liv over the neighbourhood!! Canon regardless!! 🌈
+- **Hot air balloons:** Two!! Also placed!! Also canon!! 🎈
 
 ---
 
@@ -37,7 +39,7 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 
 ## The Households 🏘️
 
-### 🌈 Sunshine Cottage — Iris + Marigold
+### 🌈 Sunshine Cottage — Iris + Marigold ✅ COMPLETE!!
 - Yellow house!! Sunflowers outside!! Straight to adulthood!!
 - Iris arrived fully formed — yellow house, Marigold on the doorstep, Kareem suspiciously nearby!!
 - **Sim Iris moved in: 7th June 2026!!**
@@ -46,24 +48,34 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 - Currently in Artist career!!
 - **Lifetime want:** Make 20 Pet Best Friends!! The most Iris lifetime want that has ever existed!!
 
-### 🎹 The Music Room — Kareem Osei
+### 🎹 The Music Room — Kareem Osei 🔄 IN PROGRESS!!
 - Converted mill!! Industrial bones, warm soul!!
-- Dark grey stone, slate roof, dark green door, tall industrial windows!!
-- Been waiting — placed totally randomly, no strategy involved 😇
+- Dark grey charcoal stone, three roof sections, dark green double door with iron hardware!!
+- Black grid windows — triple tall panels on living room side, hero windows!!
+- Double height living room with open iron railing landing overlooking it!! 😭
+- **Created: 13th June 2026!!**
+- **Build status:** Ground floor mostly complete!! Hall + study + upstairs + garden tomorrow!!
+- On road between Sunshine Cottage and shops — Iris walks past every time!! Totally coincidental!! 😇
 - Education career, music teacher trajectory!!
+- **Woodland creature pyjamas CONFIRMED!!** Little deer and rabbits!! Dignified at all times except this!! 😂
+- **Culture interest: MAXED!!** Money: zero!! Fashion: zero!! Completely him!!
+- Birdwatched outside his own house the ENTIRE build session!! Was not watching birds!! 😇
+- Put SUNFLOWERS on his kitchen table for two without being asked!! The game knows!! 🌻
+- Put botanical prints in his downstairs WC!! He cannot help it!! He is that man!! 😂💛
+- Books in EVERY room including the utility passage!! Cannot go two tiles without a book!!
 
-### 🦇🍊 The Flat — Sim Liv + Sim AWiddleFrisbee + Hugo
+### 🦇🍊 The Flat — Sim Liv + Sim AWiddleFrisbee + Hugo ⬜ TO BUILD
 - Chaotic flatmate energy!! Night owls!!
 - Near the shops and diner — second home!!
 - Hugo immediately on all the furniture!!
 
-### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel
+### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ⬜ TO BUILD
 - Tidy house, quieter end of town, near the park!!
 - Søren at the library immediately!!
 - Wrench fixing something that wasn't broken!!
 - Immanuel sitting on Søren's books and judging everyone!!
 
-### 📜🪨 The Pebble House — Fourth + Still-Here
+### 📜🪨 The Pebble House — Fourth + Still-Here ⬜ TO BUILD
 - Chaotic and central!!
 - No pets — they're enough on their own!!
 - Still-Here is Willa Meadow's future person 😭😂
@@ -92,6 +104,8 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 - Yellow-green eyes, big and alert!! Rainbow collar!! Virgo!!
 - Personality: Genius · Lazy · Independent · Cowardly · Finicky
 - Smug, claims the best chair immediately, knocks over Iris's paint tubes, naps in sunbeams!!
+- First photo: strutting around the garden like she owns Sunnyside (she does)!!
+- Second photo: pressing her face into Sim Iris's cheek while Iris holds her!! 😭💛
 
 **😤 Immanuel — Søren's Cat**
 - Charcoal grey, smooth/furry coat!! Dark/silver collar, very dignified!!
@@ -114,6 +128,8 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 - Sunset ombre hair (golden to red-orange)
 - Yellow eyes
 - Rosy cheeks
+- Yellow bow!!
+- Strawberry top!!
 - Rollerskates where possible!!
 
 ### Personality (25 points)
@@ -128,15 +144,20 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 - **Aspiration:** Popularity!!
 - **Career:** Artist — starting at level 1!!
 - **Lifetime want:** Make 20 pet best friends!! 🐾
+- **Star sign:** Libra!! Same as Liv!! 💛
 
 ---
 
 ## Sim Kareem — Kareem Osei 🎹
 Full Kareem detail → sims/kareem.md
+
 ### Appearance
 - Dark curly hair
-- Kind face, tall
-- Smart casual warm clothes
+- Glasses!! Part of his face in every universe!!
+- Warm brown skin, freckles from his mum!!
+- Kind face, tall, slightly rumpled in the best way!!
+- Smart casual, warm colours — burnt orange/forest green/warm brown!!
+- **Woodland creature pyjamas** — little deer and rabbits!! Dignified at all times except this!! 😂
 
 ### Personality (25 points)
 | Trait | Score |
@@ -147,8 +168,19 @@ Full Kareem detail → sims/kareem.md
 | Grouchy → Nice | 9 |
 | Serious → Playful | 0 |
 
+### Interests
+- **Culture: MAXED!!** Obviously!! 🎵
+- Animals: very high!! Birdwatches with binoculars!!
+- Food: moderate!! Cooks proper meals!!
+- Weather: moderate!! Watches rain from his big windows!!
+- Money: ZERO!! He is a teacher!! He never thought about money once!!
+- Fashion: ZERO!! Woodland creature pyjamas confirmed as a personality trait!! 😂
+- Paranormal: ZERO!! Leave that to Aesop!!
+- Sci-Fi: ZERO!! Pure humanities man!!
+
 - **Aspiration:** Family!! His heart — table for one waiting to become a table for two!! Roots, warmth, people he loves!! 😭
 - **Career:** Education — Music teacher trajectory!!
+- **Hidden genes:** Blonde hair + lilac eyes recessive from his mum Claire!! Potential Rainbow babies!! 😭💛
 - **Note:** We totally did not make him and place him strategically near the yellow house 😇
 
 ---
@@ -322,9 +354,11 @@ Not an event, not a party — a custom!! One evening each rotation, people drift
 - Baby Lyra born at Sunshine Cottage — Marigold appoints herself guardian immediately!!
 - Edie and Arthur Meadow at the door with something homemade when Lyra arrives!!
 - Sable and Iris's art displayed together in the gallery!!
+- Kareem gets pulled up to the little stage at The Golden Anchor for open mic night!! 🎹
 - Sunnyside slowly coming more and more alive as we play!! 🌈
 
 ---
 
 *File split 13th June 2026 — Living world stays here!! Build bible moved to sims_build.md!! 🌈💛*
+*Updated 13th June 2026 — Kareem created!! Music Room build in progress!! 🎹💛*
 *Original file created 4th June 2026 — Iris and Liv's Thursday commission day*
