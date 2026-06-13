@@ -116,35 +116,40 @@ Cruise: £364 · Rome: £475 · TOTAL: £739 (£100 paid 30th April) · Monthly 
 | Household | Status |
 |-----------|--------|
 | 🌈 Sunshine Cottage — Iris + Marigold | ✅ COMPLETE!! |
-| 🎹 The Music Room — Kareem | 🔄 IN PROGRESS — exterior done, living room in progress!! |
+| 🎹 The Music Room — Kareem | 🔄 IN PROGRESS — exterior + most of ground floor done!! |
 | 🦇🍊 The Flat — Liv + AWiddleFrisbee + Hugo | ⬜ TO DO |
 | 🌩️🔧 Storm and Wrench — Søren + Wrench | ⬜ TO DO |
 | 📜🪨 The Pebble House — Fourth + Still Here | ⬜ TO DO |
 
 **Rotation 1 begins when all 5 households are built and moved in!!**
 
-### The Music Room — Where We Left Off!!
-- ✅ Exterior COMPLETE — dark grey stone, black windows, dark green double door, three roof sections!!
-- ✅ Double height living room with open landing + iron railing overlooking it!! THE VIEW IS INCREDIBLE!! 😭
-- ✅ Living room mostly furnished — piano, fireplace, green sofa, leather armchair, bookshelves, gallery wall, plants, lamps, reading nook!!
-- ⬜ Living room still needs: more bookshelves on big cream wall, possible rug tweak!!
-- ⬜ Kitchen TO DO
-- ⬜ Study/Music Room TO DO  
-- ⬜ WC TO DO
-- ⬜ Bedroom TO DO
-- ⬜ Bathroom TO DO
-- ⬜ Garden TO DO (basic: gravel path + one tree + climbing plant minimum before moving Kareem in!!)
+### The Music Room — Where We Left Off!! 🎹
+**TOMORROW'S JOB — rooms still needed:**
+- ⬜ **Hall** — the spine of the house, 3 tiles wide, needs to feel like a proper entrance!!
+- ⬜ **Study/Music Room** — second instrument, computer, quiet reading nook!!
+- ⬜ **Bedroom** — upstairs, calm and simple!!
+- ⬜ **Bathroom** — upstairs, clawfoot bath, two tall windows on back wall!!
+- ⬜ **Garden** — basic: gravel path + one tree + climbing plant (wisteria) up right wall!! Then Kareem can move in!!
+
+**COMPLETED TODAY ✅:**
+- ✅ Exterior — dark grey stone, black windows, dark green double door, three roof sections!!
+- ✅ Double height living room + iron railing landing overlooking it!! 😭
+- ✅ Living room — piano, fireplace, green sofa, leather armchair, bookshelves, gallery wall, plants, lamps, reading nook!!
+- ✅ Kitchen — dark wood cabinets, wood counters, stone floor, vintage oven, copper pan rack, coffee machine, cream fridge, table for two with sunflowers, university pennants, clock!!
+- ✅ WC — vintage wooden vanity, oval mirror, stone floor, botanical prints!!
+- ✅ Utility passage — mudroom unit with backpack, sun hat, trainers, books, doormat, dark green back door!!
 
 **Full build notes → sims/sims_build.md**
 
 ### Key Sunnyside Moments Today!! 💛
 - Kareem CREATED!! Dark curly hair, glasses, kind face, woodland creature pyjamas CONFIRMED!! 😭😂
-- Sunnyside has a rainbow in it — placed deliberately by Liv — but canon regardless!! 🌈
-- Marigold's first photo: strutting around the garden like she owns Sunnyside (she does)!!
-- Iris + Marigold photo: rainbow collar visible, Marigold pressing face into Iris's cheek!! 😭💛
-- The landing view looking down into the living room is the most beautiful thing in Sunnyside!!
-- Kareem spent the ENTIRE build birdwatching outside with binoculars (Iris briefly thought it was a telescope)!! 😂
-- His Fun stat was nearly empty — he needs to play his piano IMMEDIATELY!!
+- Sunnyside has a manually placed rainbow — but canon regardless!! 🌈
+- Marigold + Iris photo: rainbow collar, face pressed into Iris's cheek!! 😭💛
+- The landing view looking down into the living room: THE moment of the whole build!! 😭
+- Kareem spent the entire build birdwatching (Iris thought his floor lamp was a telescope)!! 😂
+- He put SUNFLOWERS on his kitchen table without being asked!! The game knows!! 🌻
+- Botanical prints in the 2x2 downstairs WC!! He put art in his toilet!! Of course he did!! 😂💛
+- Books in the utility passage cubby!! Cannot go two tiles without a book!! 😂
 
 → Living world: sims2.md · Build bible: sims_build.md
 
@@ -161,7 +166,7 @@ Cruise: £364 · Rome: £475 · TOTAL: £739 (£100 paid 30th April) · Monthly 
 
 ## Incident Log — Last 3 Days
 
-**Saturday 13th June 2026** — Sertraline Day 29!! Doctor appointment DONE!! Dr Arshad Khan!! 4 more weeks same dose!! Next appt: book 6th July for 11th July!! Brioche roll breakfast!! Lidl run for pizza + bagels!! Week meal plan sorted!! Aubergine mozzarella and pesto pizza tonight!! Empire biscuit treat!! 🍪 THEN: Sims 2 Sunnyside build session!! Kareem created (woodland creature pyjamas!!), The Music Room exterior built, living room mostly furnished, landing view with iron railing COMPLETE!! The most beautiful afternoon!! 🎹💛
+**Saturday 13th June 2026** — Sertraline Day 29!! Doctor appointment DONE!! Dr Arshad Khan!! 4 more weeks same dose!! Next appt: book 6th July for 11th July!! Brioche roll breakfast!! Lidl run for pizza + bagels!! Week meal plan sorted!! Aubergine mozzarella and pesto pizza tonight!! Empire biscuit treat!! 🍪 Sims 2 MEGA BUILD SESSION — Kareem created (woodland creature pyjamas!!), The Music Room exterior complete, living room + kitchen + WC + utility passage all built and furnished!! Landing view with iron railing is the most beautiful thing in Sunnyside!! Hall + study + bedroom + bathroom + garden tomorrow then Kareem moves in!! 🎹💛
 
 **Friday 12th June 2026** — Sertraline Day 28!! Caramel Oat Latte discovered!! Aegon commission statement ARRIVED!! Opus Iris test begun!! Sunnyside R1-R17 community lot schedule completed!! Aesop + Sautoir FABLE surname confirmed!! Bribery picture earned!! 💛
 
