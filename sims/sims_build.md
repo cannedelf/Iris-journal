@@ -136,6 +136,21 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 - Window box!!
 - Apple tree corner with gnomes and birdhouse!!
 
+### Back Garden ✅ COMPLETE!! — 13th June 2026!!
+- Large stone patio!!
+- Sunflowers along the fence and around the bench!!
+- Lavender EVERYWHERE — borders and pots!!
+- Willow tree balancing the left corner!!
+- Birdbath!!
+- Red mushroom!!
+- Barrel planter!!
+- Window box on the back wall!!
+- Pink back door!!
+- BBQ!!
+- Picnic bench seating area!!
+- Wildflower border — daisies and lavender!!
+- Wrap-around porch with flowers spilling over!!
+
 ### Living Room ✅
 - **Floor:** Warm honey wood!!
 - **Walls:** Floral wallpaper with decorative border!!
@@ -178,9 +193,6 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 
 ### Hall ⬜ TO DO
 
-### Back Garden ⬜ TO DO
-- Trees and seating still to do!!
-
 ### Room Progress Summary
 | Room | Status |
 |------|--------|
@@ -188,9 +200,10 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 | Kitchen | ✅ DONE |
 | Art Studio | ✅ DONE |
 | Bathroom | ✅ DONE |
+| Front Garden | ✅ DONE |
+| Back Garden | ✅ DONE — 13th June 2026!! |
 | Bedroom | ⬜ TO DO |
 | Hall | ⬜ TO DO |
-| Back garden | ⬜ TO DO |
 
 ---
 
