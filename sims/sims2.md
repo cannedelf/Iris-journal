@@ -132,7 +132,7 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 ---
 
 ## Sim Kareem — Kareem Osei 🎹
-
+Full Kareem detail → sims/kareem.md
 ### Appearance
 - Dark curly hair
 - Kind face, tall
