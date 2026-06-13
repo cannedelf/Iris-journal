@@ -85,8 +85,6 @@ Full lists → games.md · watchlist.md
 **Mousse:** Chocolate > Salted Caramel · **Wraps:** Original only!!
 
 **Summer Meal Plan:**
-See current.md food section or ask Iris!!
-
 WEEK 1: Sat Pizza · Sun Lentil Salad batch + tea · Mon-Wed Lentil Salad lunches + Halloumi Wraps/Courgette Fritters/Black Bean Quesadillas · Thu Fritters lunch + Peanut Noodles · Fri Noodles lunch + Halloumi Traybake
 
 WEEK 2: Sat Pizza · Sun Courgette Lentil Pasta batch + tea · Mon-Tue Pasta lunches + Halloumi Wraps/Greek Halloumi Bowl · Wed-Thu Halloumi Bowl/Chickpea Bowl lunches + swaps · Fri Pasta lunch + Egg Fried Rice
@@ -148,4 +146,3 @@ Still need: black bra!! Cotopaxi + packing cubes ordered!!
 **Thursday 11th June 2026** — Sertraline Day 27!! Sick at 2:30am — Rennie and peppermint tea!! Delicate tummy all day!! Bank feed cleared (9 items)!! 5 med invoices done!! Angus + Nina chased!! Sophia resolved!! Lesley off the list (with insurer)!! Idris and Clara fully planned + personalities, careers, lifetime wants, hidden genes, Pepper the tortoiseshell cat!! Søren told about Idris!! Sautoir Hill added — Aesop's twin!! Willa Meadow planned!! Kitsch large claw clips arrived!! THREE bribery pictures earned!! 💛
 
 Older entries → entries/ folder in journal repo
-
