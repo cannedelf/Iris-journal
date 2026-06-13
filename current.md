@@ -75,7 +75,12 @@ Full work schedule → work_schedule.md
 **Cordial:** SUN QUENCH!! Always in the bottle bottle!!
 **Bottle Bottle:** Botanical Floral (soft green lid, SERTRALINE IN PILL COMPARTMENT) · AWiddleFrisbee: Tie-dye Lime
 **Costa:** Hazelnut Iced Whipped Latte · Iced Chai Latte · Caramel Oat Latte (cold day)
-**Summer Meal Plan:** Week 1 + Week 2 → ask Iris or see journal 12th June entry
+
+**Week of 16th June — Meal Plan:**
+- 🥯 Breakfast: Cinnamon raisin bagel + protein yogurt
+- 🥯 Lunch: Plain bagel + cream cheese + protein mousse
+- 🍝 Tea (x4): Filled gnocchi + frozen sauce + garlic bread
+- 🍕 Tea (x1): Pizza night!!
 
 ---
 
@@ -119,7 +124,7 @@ Cruise: £364 · Rome: £475 · TOTAL: £739 (£100 paid 30th April) · Monthly 
 
 ## Incident Log — Last 3 Days
 
-**Saturday 13th June 2026** — Sertraline Day 29!! Doctor appointment DONE!! Dr Arshad Khan!! 4 more weeks same dose!! Next appt: book 6th July for 11th July!! AWiddleFrisbee lives with Liv (Iris momentarily forgot, SBS)!! Brioche roll breakfast!! Lidl run for pizza + bagels!!
+**Saturday 13th June 2026** — Sertraline Day 29!! Doctor appointment DONE!! Dr Arshad Khan!! 4 more weeks same dose!! Next appt: book 6th July for 11th July!! AWiddleFrisbee lives with Liv (Iris momentarily forgot, SBS)!! Brioche roll breakfast!! Lidl run for pizza + bagels!! Week meal plan sorted!!
 
 **Friday 12th June 2026** — Sertraline Day 28!! Caramel Oat Latte discovered!! Aegon commission statement ARRIVED!! Opus Iris test begun!! Sunnyside R1-R17 community lot schedule completed!! Aesop + Sautoir FABLE surname confirmed!! Bribery picture earned!! 💛
 
