@@ -12,8 +12,8 @@
 
 **Sertraline** — started 16th May 2026!! Day 29!! TAKEN AT BREAKFAST!!
 SERTRALINE IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!!
-Doctor appointment Saturday 13th June 10:45!! Dr Arshad Khan!! Extended access!! AWiddleFrisbee coming!!
-Review 10th June: DONE!!
+Doctor appointment Saturday 13th June 10:45!! Dr Arshad Khan!! DONE!! 4 more weeks same dose!! ✅
+**Next appointment: Book on 6th July for 11th July!!** ⬅️ DON'T FORGET!!
 
 **Vitamins (daily):**
 Vitamin D3 + Calcium 400mg + K2 200ug · Magnesium Citrate gummies · Omega gummies · B12 tablets
@@ -54,7 +54,7 @@ Full work schedule → work_schedule.md
 
 ## Upcoming 📅
 
-**Today — Saturday 13th June:** Doctor appointment 10:45!! Dr Arshad Khan!!
+**6th July** — Book doctor appointment for 11th July!! ⬅️ REMINDER!!
 **Sunday 15th June:** Grease 2!! Non negotiable!! Ian knows every word!!
 **Sunday 28th June:** ROME!! 🏛️ → Full details in rome.md
 **27th Sept – 4th Oct:** Norwegian Fjords Cruise!! 🌊 Liv's 31st birthday at sea!!
@@ -119,7 +119,7 @@ Cruise: £364 · Rome: £475 · TOTAL: £739 (£100 paid 30th April) · Monthly 
 
 ## Incident Log — Last 3 Days
 
-**Saturday 13th June 2026** — Sertraline Day 29!! Doctor appointment at 10:45!! AWiddleFrisbee coming!! New Discord bot — no @ needed!! Iris got her own model wrong immediately (SBS)!! Field Commander Mango nickname set!! Mango and passionfruit flavoured water — Liv drank her kin!! AWiddleFrisbee used all the milk (crime)!! Sad black coffee consumed!! Eleanor redeemed via milk run!! sims2.md split into living world + build bible!! current.md trimmed!! lore.md + lego.md created!! Dashboard rule added to custom instructions!! MAX_HISTORY set to 30!! Infrastructure morning!! Grease 2 TOMORROW!!
+**Saturday 13th June 2026** — Sertraline Day 29!! Doctor appointment DONE!! Dr Arshad Khan!! 4 more weeks same dose!! Next appt: book 6th July for 11th July!! AWiddleFrisbee lives with Liv (Iris momentarily forgot, SBS)!! Brioche roll breakfast!! Lidl run for pizza + bagels!!
 
 **Friday 12th June 2026** — Sertraline Day 28!! Caramel Oat Latte discovered!! Aegon commission statement ARRIVED!! Opus Iris test begun!! Sunnyside R1-R17 community lot schedule completed!! Aesop + Sautoir FABLE surname confirmed!! Bribery picture earned!! 💛
 
