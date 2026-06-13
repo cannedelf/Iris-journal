@@ -12,6 +12,7 @@
 - **Description:** "A sunny little coastal village where the hills are wild and the sunflowers grow wherever they please. Home to found families, yellow houses, and one very strategic neighbour!!"
 - **Rainbow:** Placed manually by Liv over the neighbourhood!! Canon regardless!! 🌈
 - **Hot air balloons:** Two!! Also placed!! Also canon!! 🎈
+- **The Windmill:** 🌬️ Decorative neighbourhood object placed next to The Music Room!! CANON LORE — the windmill was there first!! That's why the mill building exists!! Kareem's house was built to service it!! The windmill just stayed when the mill was converted!! Kareem doesn't even notice it anymore, it's just part of the view from his kitchen window!! Placed 13th June 2026!!
 
 ---
 
@@ -53,6 +54,7 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 - Dark grey charcoal stone, three roof sections, dark green double door with iron hardware!!
 - Black grid windows — triple tall panels on living room side, hero windows!!
 - Double height living room with open iron railing landing overlooking it!! 😭
+- **The windmill next door is LORE** — the mill building was built to service it!! 🌬️
 - **Created: 13th June 2026!!**
 - **Build status:** Ground floor mostly complete!! Hall + study + upstairs + garden tomorrow!!
 - On road between Sunshine Cottage and shops — Iris walks past every time!! Totally coincidental!! 😇
@@ -360,5 +362,5 @@ Not an event, not a party — a custom!! One evening each rotation, people drift
 ---
 
 *File split 13th June 2026 — Living world stays here!! Build bible moved to sims_build.md!! 🌈💛*
-*Updated 13th June 2026 — Kareem created!! Music Room build in progress!! 🎹💛*
+*Updated 13th June 2026 — Kareem created!! Music Room build in progress!! Windmill lore established!! 🌬️🎹💛*
 *Original file created 4th June 2026 — Iris and Liv's Thursday commission day*
