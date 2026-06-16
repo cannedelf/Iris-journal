@@ -45,8 +45,6 @@
 
 ## Ages and Career Levels at Start 🎂
 
-*Set adult days via SimPE before moving anyone in!!*
-
 ### The Key Principle
 Only the active household ages in Sims 2!! Each rotation = 3 days per household!!
 - After 1 full rotation (5 households × 3 days) = **15 days** passed!!
@@ -56,281 +54,287 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 
 | Sim | Starting Days | Notes |
 |-----|--------------|-------|
-| 🌩️ Søren | 70 | Oldest Hill sibling!! Already established!! |
+| 🌩️ Søren | 70 | Oldest Hill sibling!! |
 | 🔧 Wrench | 75 | Middle Hill sibling!! |
 | 🌈 Iris | 80 | Youngest feeling!! Fresh start!! |
 | 🎹 Kareem | 78 | Arrived first, been waiting longest!! 😭 |
 | 🦇 Sim Liv | 80 | Same age as Iris!! 😭💛 |
 | 🍊 AWiddleFrisbee | 72 | Oldest Frisbee!! Causing problems longest!! 😂 |
-| 🪨 Still-Here | 76 | Middle Frisbee!! Completely unbothered by birth order!! |
+| 🪨 Still-Here | 76 | Middle Frisbee!! |
 | 📜 Fourth | 80 | Youngest Frisbee!! Systems developed in self defence!! 😂 |
 
 ### New Arrivals — Days Remaining at Move In
 
-| Sim | Rotation | Iris has | Arrives with | Relative Age |
-|-----|----------|----------|-------------|-------------|
-| 🌺 Idris | R3 | 74 | 74 | Same age as Iris!! |
-| 🌸 Clara | R3 | 74 | 76 | Slightly younger!! |
-| 🐕 Theo | R5 | 68 | 68 | Same age as Sim Liv at that point!! |
-| 🖤 Sable | R7 | 62 | 70 | Noticeably younger — still finding herself!! |
-| 🌿 Edie | R10 | — | Fresh elder!! | Maximum elder days — just retired!! |
-| 📚 Arthur | R10 | — | Fresh elder!! | Maximum elder days — just retired!! |
-| 🌱 Willa | R12 | 47 | 74 | Young!! Just starting out!! |
-| 🌕 Aesop | R13 | 44 | 38 | 6 days older than Iris — quietly, noticeably more worn in!! Nobody knows exactly!! 😂 |
+| Sim | Rotation | Arrives with | Relative Age |
+|-----|----------|-------------|-------------|
+| 🌺 Idris | R3 | 74 | Same age as Iris!! |
+| 🌸 Clara | R3 | 76 | Slightly younger!! |
+| 🐕 Theo | R5 | 68 | Same age as Sim Liv at that point!! |
+| 🖤 Sable | R7 | 70 | Noticeably younger — still finding herself!! |
+| 🌿 Edie | R10 | Fresh elder!! | Just retired!! |
+| 📚 Arthur | R10 | Fresh elder!! | Just retired!! |
+| 🌱 Willa | R12 | 74 | Young!! Just starting out!! |
+| 🌕 Aesop | R13 | 38 | 6 days older than Iris — quietly more worn in!! |
 
 ### Career Levels at Move In
 
-| Sim | Career | Level | Notes |
-|-----|--------|-------|-------|
-| 🌩️ Søren | Science | 3-4 | Been researching for years!! |
-| 🔧 Wrench | Architecture | 2 | Been building a while!! |
-| 🌈 Iris | Artist | 1 | Fresh start!! |
-| 🎹 Kareem | Education | 2 | Been teaching a little while!! |
-| 🦇 Sim Liv | Business | 1 | Just promoted!! 😂 |
-| 🍊 AWiddleFrisbee | Entertainment | 2 | Been performing a while!! |
-| 📜 Fourth | Law | 1 | Just starting!! |
-| 🪨 Still-Here | Slacker | 1 | Just about!! 😂 |
-| 🌺 Idris | Medicine | 3 | Been a doctor for years!! |
-| 🌸 Clara | Natural Science | 2 | Been working a while!! |
-| 🐕 Theo | Adventurer | 2 | Been adventuring!! |
-| 🖤 Sable | Artist | 1 | Still finding her way!! |
-| 🌱 Willa | Journalism | 1 | Young journalist just starting!! |
-| 🌕 Aesop | Paranormal | 4-5 | Credentials unverifiable!! Nobody asks!! 😂 |
-
-*Edie and Arthur are retired — no career needed!!*
+| Sim | Career | Level |
+|-----|--------|-------|
+| 🌩️ Søren | Science | 3-4 |
+| 🔧 Wrench | Architecture | 2 |
+| 🌈 Iris | Artist | 1 |
+| 🎹 Kareem | Education | 2 |
+| 🦇 Sim Liv | Business | 1 |
+| 🍊 AWiddleFrisbee | Entertainment | 2 |
+| 📜 Fourth | Law | 1 |
+| 🪨 Still-Here | Slacker | 1 |
+| 🌺 Idris | Medicine | 3 |
+| 🌸 Clara | Natural Science | 2 |
+| 🐕 Theo | Adventurer | 2 |
+| 🖤 Sable | Artist | 1 |
+| 🌱 Willa | Journalism | 1 |
+| 🌕 Aesop | Paranormal | 4-5 |
 
 ---
 
 ## Aspirations Reference 🌟
 
-| Sim | Aspiration | Why |
-|-----|-----------|-----|
-| 🌈 Iris | Popularity | Expert Joy Spreader!! Wants 20 friends!! |
-| 🦇 Liv | Family | Quietly building her whole lovely life!! 💛 |
-| 🍊 AWiddleFrisbee | Popularity | Makes friends immediately, chaos energy!! |
-| 🌩️ Søren | Knowledge | Obviously. No notes. |
-| 🔧 Wrench | Fortune | Practical builder, values craftsmanship!! |
-| 🎹 Kareem | Family | His heart!! Roots, warmth, people he loves!! 😭 |
-| 📜 Fourth | Knowledge | Analytical, detailed, noticed the pistachio exception!! |
-| 🪨 Still-Here | Pleasure | Extremely unbothered, lives for fun!! 😂 |
-| 🐕 Theo | Family | Moved to a coastal village with a golden retriever looking for roots!! |
-| 🖤 Sable | Knowledge | Paints to understand the world, not just capture it!! |
-| 🌿 Edie | Family | Everyone's honorary grandmother!! |
-| 📚 Arthur | Knowledge | Retired teacher, spent a whole life learning!! |
-| 🌕 Aesop | Knowledge | Quietly curious about everything!! |
+| Sim | Aspiration |
+|-----|-----------|
+| 🌈 Iris | Popularity |
+| 🦇 Liv | Family |
+| 🍊 AWiddleFrisbee | Popularity |
+| 🌩️ Søren | Knowledge |
+| 🔧 Wrench | Fortune |
+| 🎹 Kareem | Family |
+| 📜 Fourth | Knowledge |
+| 🪨 Still-Here | Pleasure |
+| 🐕 Theo | Family |
+| 🖤 Sable | Knowledge |
+| 🌿 Edie | Family |
+| 📚 Arthur | Knowledge |
+| 🌕 Aesop | Knowledge |
 
 ---
 
 ## Sunshine Cottage — Build Progress 🏡 ✅ COMPLETE!!
 
 ### Exterior ✅
-- **Walls:** Stone foundation (rounded pebble stone), yellow plaster upper walls, stone on bump outs!!
-- **Roof:** THATCHED!! Dark warm brown!!
-- **Windows:** Yellow shuttered arched windows, tall floor-to-ceiling windows in art studio, French doors to back garden!!
-- **Door:** Yellow arched front door!!
-- **Porch:** Wrap around front porch, terracotta floor, yellow wooden railings and steps!!
+- Stone foundation (rounded pebble stone), yellow plaster upper walls!!
+- THATCHED roof!! Dark warm brown!!
+- Yellow shuttered arched windows, tall floor-to-ceiling windows in art studio!!
+- Yellow arched front door!!
+- Wrap around front porch, terracotta floor, yellow wooden railings and steps!!
 
-### Front Garden ✅ COMPLETE!!
+### Front Garden ✅
 - Sunflower path from gate to front door!!
-- Full flower border both sides — jasmine, rhododendron, lavender, hollyhocks, marigolds, Iris flowers, field flowers!!
-- Window box!!
+- Full flower border — jasmine, rhododendron, lavender, hollyhocks, marigolds, Iris flowers!!
 - Apple tree corner with gnomes and birdhouse!!
 
-### Back Garden ✅ COMPLETE!! — 13th June 2026!!
-- Large stone patio!!
-- Sunflowers along the fence and around the bench!!
-- Lavender EVERYWHERE — borders and pots!!
-- Willow tree balancing the left corner!!
-- Birdbath!!
-- Red mushroom!!
-- Barrel planter!!
-- Window box on the back wall!!
-- Pink back door!!
-- BBQ!!
-- Picnic bench seating area!!
-- Wildflower border — daisies and lavender!!
-- Wrap-around porch with flowers spilling over!!
+### Back Garden ✅
+- Large stone patio!! Sunflowers!! Lavender EVERYWHERE!!
+- Willow tree!! Birdbath!! BBQ!! Picnic bench!!
+- Wildflower border!! Wrap-around porch!!
 
-### Living Room ✅
-- **Floor:** Warm honey wood!!
-- **Walls:** Floral wallpaper with decorative border!!
-- **Marigold's corner:** Mustard high back armchair with wood legs in the bay window!! Cat climbing tower, cottage rug, big plant!!
-- **Curtains:** Gold/mustard long curtains on bay windows!!
-- **Sofa:** Floral fabric sofa facing the fireplace!!
-- **Coffee table:** Rounded rectangular warm oak!! Books and small vase!!
-- **Rug:** Braided cottage rug!!
-- **Fireplace:** Stone — sunflowers on the mantelpiece!!
-- **Bookshelf:** Wooden, next to fireplace, full of books!!
-- **Lighting:** Antler chandelier, floor lamps!!
-- **No TV** — Iris is a reader!! 📚
-
-### Kitchen ✅
-- **Cabinets:** Sage green Cottage Living cabinets (matches Liv's real kitchen!!) — wood countertops!!
-- **Floor:** Warm honey wood (matches living room!!)
-- **Sink:** Built into counter with gingham curtain underneath!!
-- **Oven:** Matching vintage oven!!
-- **Fridge:** Cream 1950s retro fridge (CC — lordcrumps!!) 🧊
-- **Lighting:** Brass/gold chandelier!!
-- **Curtains:** Lace curtains!!
-- **Decor:** Kettle, dried flowers, spice rack, sunflowers on corner cabinet!! 🌻
-- **Marigold:** Bowl on the floor in prime position!!
-- **Dining area:** Mosaic flower round table, mismatched painted chairs, vase of flowers, pet portraits on wall!!
-- **Arch:** Separating kitchen and living room — open plan but defined!!
-
-### Art Studio ✅
-- **Walls:** Stone!!
-- **CC:** Artist Studio CC installed!!
-- Easel facing windows, paint splattered floor, Marigold's golden striped armchair!!
-- Canvases leaning against wall, sketches on stone walls, cream backdrop, studio sink!!
-- Sunnyside view from windows!! Porch with steps to garden!!
-
-### Bathroom ✅
-- Yellow mosaic tile walls, white beadboard wainscoting, hex floor tiles!!
-- Ornate mirror, vintage vanity with gingham curtain, roman blind!!
-- Sea view windows!! Litter tray for Marigold!!
-
-### Bedroom ⬜ TO DO
-
-### Hall ⬜ TO DO
-
-### Room Progress Summary
+### Room Progress
 | Room | Status |
 |------|--------|
-| Living room | ✅ DONE |
-| Kitchen | ✅ DONE |
-| Art Studio | ✅ DONE |
-| Bathroom | ✅ DONE |
-| Front Garden | ✅ DONE |
-| Back Garden | ✅ DONE — 13th June 2026!! |
+| Living room | ✅ |
+| Kitchen | ✅ |
+| Art Studio | ✅ |
+| Bathroom | ✅ |
+| Front Garden | ✅ |
+| Back Garden | ✅ |
 | Bedroom | ⬜ TO DO |
 | Hall | ⬜ TO DO |
 
 ---
 
-## The Music Room — Kareem's House 🎹
+## The Music Room — Kareem's House 🎹 ✅ COMPLETE!! MOVED IN!!
 
-*Reference board generated 13th June 2026 via ChatGPT — full floor plan, exterior and all rooms!!*
-*Build started: 13th June 2026!!*
+**Kareem moved in: 16th June 2026!! 🎉**
+**First want on moving in: FALL IN LOVE!! Hadn't even unpacked!! 😭😂**
 
 **Concept:** Converted Mill — "Industrial bones, warm soul!!"
 
-### Build Progress Summary — 13th June 2026
+### Build Progress — ALL COMPLETE!! ✅
 | Area | Status |
 |------|--------|
-| Lot placed | ✅ 30x30, on road between Sunshine Cottage and shops!! Iris walks past every time!! 😇 |
-| Footprint | ✅ Irregular — two bump outs, not a plain box!! |
-| Walls | ✅ Ground floor + first floor!! |
-| Roof | ✅ Three sections — main tall gable + two lower subsidiary roofs on bump outs!! |
+| Lot placed | ✅ 30x30, road between Sunshine Cottage and shops!! |
+| Footprint | ✅ Irregular — two bump outs!! |
+| Walls | ✅ Ground + first floor!! |
+| Roof | ✅ Three sections — main tall gable + two lower subsidiary roofs!! |
 | Exterior walls | ✅ Dark grey/charcoal stone throughout!! |
-| Windows | ✅ All black grid windows — no CC needed!! |
+| Windows | ✅ Black grid windows — no CC needed!! |
 | Front door | ✅ Dark green heavy double door with iron hardware!! |
-| Back door | ✅ Simple single dark green door, garden access!! |
-| Stairs | ✅ Placed!! |
-| Landing railing | ✅ Dark iron railing overlooking living room!! PERFECT!! 😭 |
-| Living room | 🔄 IN PROGRESS — mostly furnished!! |
-| Kitchen | ⬜ TO DO |
-| Study/Music Room | ⬜ TO DO |
-| WC | ⬜ TO DO |
-| Bedroom | ⬜ TO DO |
-| Bathroom | ⬜ TO DO |
-| Garden | ⬜ TO DO |
+| Back door | ✅ Simple single dark green door!! |
+| Stairs | ✅ |
+| Landing railing | ✅ Dark iron railing overlooking living room!! 😭 |
+| Living room | ✅ COMPLETE!! |
+| Kitchen | ✅ COMPLETE!! |
+| Hall | ✅ COMPLETE!! |
+| Study | ✅ COMPLETE!! |
+| WC | ✅ COMPLETE!! |
+| Utility passage | ✅ COMPLETE!! |
+| Bedroom | ✅ COMPLETE!! |
+| Bathroom | ✅ COMPLETE!! |
+| Front garden | ✅ COMPLETE!! |
+| Back garden | ✅ COMPLETE!! |
 
-### Exterior ✅ COMPLETE!!
-- **Walls:** Dark grey/charcoal irregular stone — consistent both floors!! Perfect mill texture!!
-- **Roof:** Three sections — main steep gable (two storey) + two lower subsidiary roofs on bump outs!!
-- **Front door:** Dark green heavy double door with iron hardware and arch!! PERFECT!!
-- **Back door:** Simple single dark green door!!
-- **Windows:** All black grid windows from base game set — no CC needed!!
-  - Triple tall panels on living room side wall (x2) — hero windows!!
-  - Triple tall panels on front left section!!
-  - Double window on front right bump out!!
-  - Single windows on back — kitchen and bathroom!!
-  - Bathroom: two tall single windows on upper back wall!!
-- **No windows above door** — clean front facade!!
-- **Still needed:** Climbing plant (wisteria/ivy) up right wall!! Goes in garden phase!!
+### Exterior ✅
+- Dark grey/charcoal irregular stone — both floors!!
+- Three roof sections — main steep gable + two lower subsidiary roofs on bump outs!!
+- Dark green heavy double door with iron arch!!
+- Black grid windows throughout!!
+- White climbing flowers up right wall of front!!
+- Stone cobble path from door to pavement!!
+- Low stone boundary wall with gap for path!!
+- Large tree on left side!!
+- Wild flower borders!!
 
-### Key Architectural Moments ✅
-- **Double height living room** — void above right section, floor only over left section!!
-- **Open landing with dark iron railing** — looks down into living room below!! 😭💛
-- The view from the landing is THE moment!! Piano below, fireplace ahead, hills through the windows!!
+### Key Architectural Moments
+- **Double height living room** — void above right section!!
+- **Open landing with dark iron railing** looking down into living room!! 😭💛
+- **Landing reading nook** — navy wingback chair, side table, books, lamp, persian rug!! Reads on his landing in woodland creature pyjamas overlooking the living room!! CANON!!
 
-### Exterior Colour Palette
-Dark Charcoal Stone · Dark Slate Roof · Dark Green Doors · Black Window Frames · Iron Hardware
+### Living Room ✅
+- Dark rich warm wood floor!!
+- Cream plaster walls — exterior stone showing through on fireplace wall naturally!!
+- Stone fireplace centered on stone wall — wooden mantel, iron tools, logs!!
+- Mahogany upright piano against far wall, sheet music on stand!! 🎹
+- Deep forest green sofa!!
+- Worn brown leather armchair — his reading chair!!
+- Dark wood coffee table with books stacked on top!!
+- Floor to ceiling bookshelves, full of books!!
+- Multiple plants everywhere!!
+- Brass floor lamps!!
+- Mismatched gallery wall — portraits, paintings, decorative plate, silhouette!!
+- Books in basket by fire!!
+- Reading nook: leather armchair + brass lamp by triple windows!!
+- **No TV!!**
 
-### Floor Plan — Ground Floor
-- **Living room** — large double height space, right side!! Piano, fireplace, bookshelves, reading nook!!
-- **Study/Music Room** — ground floor left, quiet and separate!! Piano and computer!!
-- **Kitchen & Dining** — top left, FULLY SEPARATE from living room!! Farmhouse table!!
-- **WC** — small 2x2, tucked off hall!! Toilet + sink!!
-- **Hall** — central spine, 3 tiles wide for routing!! All rooms branch off!!
-- **Back utility passage** — small 2x1 through-route from kitchen to back garden!!
+### Kitchen ✅
+- Stone floor (matching downstairs wet rooms!!)
+- Dark wood cabinets with glass fronts and copper ring handles!!
+- Wood countertops!!
+- Stone splashback tile strip above counters!!
+- Vintage cream oven!!
+- Copper pan rack hanging from ceiling!!
+- Coffee machine!!
+- Cream retro fridge!!
+- Small table for TWO with sunflowers in a vase — placed without being asked!! 🌻
+- Two mismatched chairs!!
+- University pennants on wall!!
+- Wall clock!!
 
-### Floor Plan — First Floor
-- **Bedroom** — over left section!!
-- **Bathroom** — over left section!! Clawfoot bath!! Two tall windows on back wall!!
-- **Landing** — open to living room below!! Dark iron railing!! THE MOMENT!! 😭
+### Hall ✅
+- Dark warm wood floor (flowing from living room!!)
+- William Morris botanical wallpaper — dark sage green with cream and white florals!! Already has dado rail built in!!
+- Industrial black cage pendant light!!
+- Console table with decorative drawers and copper ring handles!!
+- Oval mirror above console!!
+- Small lamp on console!!
+- Plant in corner!!
+- Two internal doors visible — hall connects everything!!
 
-### Living Room — IN PROGRESS 🔄
-- **Floor:** Dark rich warm wood!! Much darker and moodier than Sunshine Cottage!!
-- **Walls:** Cream/warm plaster — exterior stone showing through on fireplace wall naturally!!
-- **Fireplace:** Stone surround, stone chimney breast, wooden mantel, iron tools, logs!! Centered on stone wall!! ✅
-- **Piano:** Mahogany upright against far wall!! Sheet music on stand!! 🎹 ✅
-- **Sofa:** Deep forest green — his for years!! ✅
-- **Armchair:** Worn brown leather — his reading chair!! 💛 ✅
-- **Coffee table:** Dark wood, books stacked on top!! ✅
-- **Bookshelves:** Full of books — need more on big cream wall!! ✅
-- **Plants:** Multiple — everywhere!! ✅
-- **Lamps:** Brass floor lamps — warm light!! ✅
-- **Gallery wall:** Mismatched frames, portraits, paintings, decorative plate, silhouette!! Accumulated over years!! ✅
-- **Books EVERYWHERE** — stacked on coffee table, in basket by fire!! ✅
-- **Reading nook:** Leather armchair + brass lamp in corner by triple windows!! ✅
-- **Still needed:** More bookshelves on big cream wall!! Side table next to armchair!! Ceiling light??
+### Study ✅
+- Dark warm wood floor!!
+- Deep solid sage green walls — serious and quiet!!
+- Floor to ceiling bookshelves along entire back wall — full, with decorative objects tucked in!!
+- Large ornate dark wood desk with green lamp!!
+- **1998 computer** — has not been updated since approximately 1998, sees no reason to!! 😂
+- Grey office chair!!
+- Plaid armchair in corner near windows — reading chair!!
+- Wall of travel paintings — coastlines, mountains, architecture, sailboat!!
+- Noticeboard full of papers and pins!!
+- Printer!!
+- Plant!!
+- Industrial black cage pendant light (matching hall!!)
+- No curtains — bare industrial windows, deliberately serious!!
 
-### Interior Vibe
-- Warm, lived-in, collected over time!!
-- Mix old and new — texture is everything!!
-- Good lamps, bookshelves, plants, worn textures!!
-- Nothing matches perfectly but everything belongs!!
-- No TV in living room!! Books instead!! (TV in study if career requires it!!)
+### WC ✅
+- Stone floor (matching kitchen!!)
+- Vintage wooden sink vanity!!
+- Oval mirror!!
+- Botanical prints on wall — of COURSE he did!! 😂💛
+- Small cabinet!!
 
-### Garden — TO DO ⬜
-- Gravel path from gate to front door!!
-- One main tree!!
-- Wild grass and flowers!!
-- Climbing plant (wisteria) up right wall — will cover blank upper wall naturally!!
-- Low stone boundary or hedge!!
-- One bench or seating area!!
-- Simple and slightly overgrown — grew itself!!
+### Utility Passage ✅
+- Stone floor!!
+- Mudroom unit — backpack, sun hat, trainers, books in cubby!!
+- Little doormat!!
+- Dark green back door!!
 
-### Kareem Notes 🎹
-- **Culture interest: MAXED!!** 😭 Money: zero!! Fashion: zero!! Very him!!
-- **Woodland creature pyjamas CONFIRMED in game!!** Little deer and rabbits!! Dignified at all times except this!! 😂
-- Birdwatched outside his own house the ENTIRE build session — was not watching birds!! 😇
-- Fun stat was low by end of session — needs to play his piano IMMEDIATELY!!
-- No TV in living room!! Books instead!!
-- Freckles!! Glasses!! Kind face!! Slightly rumpled in the best way!!
+### Bedroom ✅
+- Dark warm wood floor!!
+- Dark charcoal damask wallpaper — tone on tone, quiet and beautiful!!
+- Iron bedframe with gold fittings!! Blue plaid bedding!!
+- Two bedside tables with matching lamps either side (the empty one says everything!! 😭)!!
+- Navy blue curtains matching the bedding!!
+- Dark wood wardrobe!!
+- Navy blanket chest at foot of bed!!
+- Patterned rug!!
+- Full length mirror on wall!!
+- Tufted grey/blue armchair in corner by window!!
+- Tall plant!!
+- Gallery wall above bed — anchor, nature plaque, sailing ship, and one inexplicable rooster!! Canon forever!! 😂💛
 
-### Build Tips for Sims 2
-- Tall windows: 2-tile wide windows stacked with moveobjects!!
-- Roofs: steep gable or simple pitch!!
-- Use `boolprop constrainFloorElevation false` for split levels!!
-- Keep layout simple for good routing!!
-- Hall 3 tiles wide minimum for routing!!
+### Bathroom ✅
+- Warm irregular stone floor (different from kitchen but equally right!!)
+- Cream plaster walls!!
+- Two tall black grid windows on back wall — industrial and dramatic!!
+- Clawfoot bath with GOLD feet and gold taps!! Between the two windows!! 😭
+- Curved glass shower pod!!
+- Climbing plant growing up the right wall!! 🌿
+- Bath mat!!
+- Pedestal sink with gold taps!!
+- Ornate oval mirror!!
+- Wooden toilet seat!!
+- Tiffany style wall sconce lamp!!
+- Towel rail with towels!!
+- **Vintage swimming poster** — he swims on Saturday mornings!! Canon!! 🏊
+
+### Front Garden ✅
+- Stone cobble path from door to pavement!!
+- Low stone boundary wall with gap for path!!
+- Large tree on left!!
+- White climbing flowers up right front wall!!
+- Wild flower borders along stone wall!!
+- Green bench by front door!!
+- Bicycle leaning against wall — cycles to school!! Canon!! 🚲
+- Little gnome!!
+- Flower urn!!
+- Wall lantern beside front door!!
+
+### Back Garden ✅
+- Stone cobble patio extending from back door!!
+- Bench on patio!!
+- Three raised vegetable beds — grows his own vegetables!! 🌱
+- Compost bin — he composts!! Very him!!
+- **Telescope** — amateur astronomer!! Stands in back garden at night looking at stars!! Canon!! 🔭
+- Wild flowers along back boundary wall!!
+- Stone stepping stones across lawn!!
+- Potted flowers near tree!!
+- Back garden has INCREDIBLE view of river and rolling hills!!
+
+### Key Canon Facts — Kareem 🎹
+- **Literature degree** — NOT Music!! Literature!! Books everywhere makes perfect sense!!
+- **Woodland creature pyjamas** — little deer and rabbits!! 😂
+- **Cycles to school** on the bicycle!!
+- **Swims on Saturday mornings** — swimming poster confirmed it!!
+- **Amateur astronomer** — telescope in back garden!!
+- **Grows own vegetables** — three raised beds + compost bin!!
+- **1998 computer** — has not updated it and sees no reason to!!
+- **The rooster** — inexplicable art above bed!! Nobody asks!!
+- **Sunflowers on kitchen table** — placed without being asked!! The game knows!! 🌻
+- **Books everywhere** including the utility passage cubby!!
+- **Botanical prints in the WC** — of course!! 😂
+- **Culture interest MAXED** — Money ZERO — Fashion ZERO!!
+- **First want on moving in: FALL IN LOVE!!** 😭😂
 
 ---
 
 ## Community Lots — Build Notes 🏘️
-
-### Current Lots ✅ (Placed, not yet built)
-| Lot Name | Type | Location |
-|----------|------|----------|
-| The Yellow Door | Clothes shop | Shopping district, bottom |
-| Sunnyside Stores | Grocery store | Shopping district, bottom |
-| Paws and Petals | Pet shop | Shopping district, bottom |
-| The Sunflower Diner | Diner | Bottom, near The Flat |
-| St Sunshine's Chapel | Chapel | Upper area near park |
-| Sunflower Meadow | Park | Top right, near Storm and Wrench |
-| The Sunnyside Lido | Pool | Bottom, near shopping district |
 
 ### Lot Placement — Neighbourhood Map 🗺️
 
@@ -340,207 +344,77 @@ Dark Charcoal Stone · Dark Slate Roof · Dark Green Doors · Black Window Frame
 - 🏊 The Tidal Pool — lido!!
 
 **Village Centre 🛍️**
-- Terracotta tile shopping street — The Yellow Door, Sunnyside Stores, Paws and Petals all connected!!
+- Terracotta tile shopping street — The Yellow Door, Sunnyside Stores, Paws and Petals!!
 - The Sunflower Diner nearby!!
 - ☕ The Honeypot — tucked into shopping street!!
-- 🛒 The Meadow Market — open and airy, next to shopping street!!
+- 🛒 The Meadow Market — open and airy!!
 
 **Cultural Quarter 🎨**
 - 🎨 The Golden Hour Gallery!!
-- 🎵 The Blue Note music venue!!
+- 🎵 The Blue Note!!
 - 🏛️ The Sunnyside Museum!!
-- 🖤 The Inkwell — Sable's future house, opposite gallery, ocean view!!
 
 **Quiet End 📚**
-- 📚 The Tidal Library — across from the park!!
-- ⛪ St Sunshine's Chapel — next to the park, tucked in with trees!!
-- 🌳 Sunflower Meadow Park — feels established!!
-- 🌿 Tide Cottage — on the quiet road just on the edge of town!!
-
-**Notes:**
-- Shopping district visible from Sunshine Cottage!! 😭
-- Iris walks past Kareem's every time she goes shopping!! 😇
-- Park area is the most beautiful corner — feels like it's always been there!!
-
----
-
-### ☕ The Honeypot — Two Storey Café
-**Ground floor:** Counter and coffee machine!! Indoor seating — small tables, mismatched chairs!! Outdoor seating spilling onto terracotta tiles!!
-
-**Upstairs:** Cosy and lower lighting!! Mismatched armchairs!! Bookshelves lining the walls!! Board game table!! Window seat overlooking the shopping street!! The kind of place you stay for THREE hours!! 😂 Søren will be up here constantly!!
-
----
-
-### 📚 The Tidal Library — Community Hub
-**Inside:** Books!! Computers!! **Children's section** — bean bags, little desks, picture books, homework stations!! Lyra and Soleil will come here after school!! 😭💛
-
-**Outside:** Reading garden tucked into the trees next to the park!! Benches amongst plants!! Chess tables!! Telescope for logic skill!! Feels like the library and park are one big peaceful green corner!!
-
----
-
-### 🛒 The Meadow Market — Village Green
-**Market area:** Flower stall (seasonal flowers!!) Edie buys from it every week!! Multiple stalls!!
-
-**Green area:** Benches, little café tables!! **Outdoor musicians stage** — Kareem performs here in summer!! 🎵 The whole found family ends up here on Sunday mornings!! Part market, part community park!!
-
----
-
-### 🎨 The Golden Hour Gallery — Arts Hub
-- Main exhibition space — Iris and Sable's work displayed!!
-- **Studio area** — easels for any sim to use!! Public!!
-- **Gift shop** — prints, postcards, pottery, handmade things!! You go in for one postcard and spend £40!! 😂
-- How Iris meets Sable — Sable uses the studio before she even has The Inkwell!!
-
----
-
-### 🍺 The Golden Anchor — Beach Road Pub
-- Cosy interior — dark wood, warm lighting, fireplace!!
-- Beer garden with sea view!!
-- Søren's corner table — Thursday evenings, book and a pint!!
-- **Little stage** — open mic nights!! Kareem gets pulled up eventually!!
-
----
-
-### 🏖️ Sunnyside Cove — Beach
-- Wild and real, not manicured!!
-- **Beach hut** — deck chair hire, ice cream!! ESSENTIAL!!
-
----
-
-### ⛪ St Sunshine's Chapel
-- **Garden of remembrance outside** — bench, quiet and peaceful!!
-- Søren sits there sometimes!!
-
----
-
-### 🎵 The Blue Note — Music Venue
-- Small and intimate, worn in the best way!!
-- **Bar area** — mismatched stools, fairy lights!!
-- Kareem performs here for proper gigs!!
-
----
-
-## Future Lots — Sunnyside Grows 🌱
-
-| Lot | Type | Notes |
-|-----|------|-------|
-| 🏥 Sunnyside Medical Centre | Rabbit hole | Idris's workplace!! |
-| 🏫 Sunnyside Primary School | Rabbit hole | Where Lyra and all Sunnyside children go!! Arthur used to teach here!! |
-| ☕ The Willowbrook | Second café | Near the park!! Quieter, greener!! Clara's regular spot!! |
-| 🌊 The Sunnyside Pier | Community lot | NEEDS TESTING — can we build into the water?? Ice cream kiosk, benches, fishing!! |
-| 🎪 Sunnyside Community Hall | Multi-purpose | Skill stations, little wedding area, stage!! Every rotation something happens here!! |
-| 👗 The Sunshine Shop | Boutique (OFB) | Iris OWNS it!! Warm, slightly chaotic, sunflowers in the window!! |
-| 🌿 Sunnyside Allotments | Shop + working garden | Edie here every day!! Søren visits once for philosophical reasons and ends up with dirt on his glasses!! 😂 |
-| 🏨 The Tide Inn | Decorative | Small cosy inn for Sunnyside visitors!! |
-| ⭐ The Hilltop | Stargazing park | Wild hillside, telescopes, bench!! Søren discovers it on Day 1!! Aesop appears there at R13 as if he's always known!! They keep both showing up!! 😭🌕 |
+- 📚 The Tidal Library!!
+- ⛪ St Sunshine's Chapel!!
+- 🌳 Sunflower Meadow Park!!
+- 🌿 Tide Cottage!!
 
 ---
 
 ## CC Resources 🎨
 
-### Furniture & Clutter
 - **jacky93sims.tumblr.com** — good CC furniture!!
-- **episims.tumblr.com/tagged/the%20sims%202%20download** — music items perfect for Kareem's house!!
+- **episims.tumblr.com/tagged/the%20sims%202%20download** — music items!!
 - **lordcrumps.com** — default replacements, hair!!
 - **sims2defaults.dreamwidth.org** — default replacements!!
 
 ### Already Downloaded
-- Art studio clutter — paint tubes, pots, brushes, palette, sketchpad!! 🎨
+- Art studio clutter!! 🎨
 - Cream 1950s vintage fridge!! 🧊
-
-### CC Still Needed — Iris
-- [ ] Sleeveless turtleneck
-- [ ] Cropped tank with ruffled straps
-- [ ] Floaty cropped top with gathered middle and ruffled sleeves
-- [ ] Cropped button up cardigan
-- [ ] Tee with cosy cardigan
-- [ ] Short sleeve shirt with strawberry vest 🍓 ESSENTIAL!!
-
-### CC Still Needed — Kareem
-- [ ] Mens default replacements — check lordcrumps!!
-- [ ] Smart casual, warm colours, music teacher energy!!
 
 ### CC NOT Needed (solved in base game!!)
 - ~~Tall industrial windows~~ — base game black grid windows work perfectly!!
-
-### Hair CC
-- Sunset ombre hair for Iris — platinumaspiration!!
-- Sims 4 hair replacement pack: https://www.lordcrumps.com/hairdefaults
-- Curly hair for Kareem — already in Sims 4 to Sims 2 defaults!!
-
-### Eyes CC
-- Yellow/golden eyes for Iris — lordcrumps 4t2 eyes!!
-- https://www.lordcrumps.com/content/4t2eyes
-
-### Other CC
-- CC vintage fridge — install in Sunshine Cottage!!
-- Teen and elder cowgirl shirt replacements (separate from adult!!)
 
 ---
 
 ## Mods Needed ⚙️
 
-- Life span extender (to apply custom days above!!)
-- Story progression (so friends don't freeze as young adults forever!!)
+- Life span extender!!
+- Story progression!!
 - NOT Inteen 😂
-- Graphics/performance mods for modern PC — research!!
-- Check if old mods folder still exists!!
+- Graphics/performance mods!!
 
 ---
 
 ## Sunnyside Genetics 🧬
 
-*Secret hidden genes to set up when creating each household in CAS!!*
-
 ### The Golden Rule
-Iris has blonde hair and lilac eyes — NO hidden genes, just purely herself!! Her lilac eyes may be unique to her alone!!
+Iris has NO hidden genes — purely herself!!
 
-### Kareem Osei — IMPORTANT!!
-**Make his parents in CAS first!!**
-- **Kareem's mum:** Blonde hair + lilac eyes!! Gives Kareem BOTH recessive genes hidden!!
-- **Kareem's dad:** Dark hair, dark eyes, tall — Kareem's dominant look comes from him!!
-- **Why this matters:** Kareem carries hidden blonde AND hidden lilac eyes — chance of sunshine-haired, lilac-eyed Rainbow babies!! Little Sol with sunshine hair and Iris's eyes!! 😭💛
-- ✅ DONE — Joseph and Claire Osei created, genetics rolled, parents not kept!!
+### Kareem Osei ✅ DONE
+- ✅ Joseph and Claire Osei created, genetics rolled, parents not kept!!
+- Carries hidden blonde AND lilac eyes from Claire!!
 
-### The Frisbee Siblings — AWiddleFrisbee, Fourth, Still-Here
-**Make parents in CAS first!!**
-- One parent dark hair, one parent blonde or ginger!!
-- Ensures all Frisbee siblings carry a recessive lighter hair gene!!
-
-### The Hill Siblings — Søren, Wrench, Sim Liv
-- **Søren:** Black hair dominant!!
-- **Wrench:** Brown hair — carries Søren's black as recessive!!
-- **Sim Liv:** Brown hair — carries Søren's black as recessive!!
-
-### Theo Calloway
-**Make parents in CAS first!!**
-- Sandy/warm brown hair dominant!!
-- One parent blonde — gives Theo a hidden blonde gene!!
-
-### Sable Mori
-- Dark hair dominant!!
-- Consider giving one parent auburn/deep red for hidden recessive!!
-
-### Who Carries Hidden Blonde
-- ✅ Kareem — hidden blonde AND lilac eyes!!
-- ✅ Frisbee siblings — hidden lighter hair!!
-- ✅ Theo — hidden blonde!!
-- ❓ Sable — TBD, consider auburn recessive!!
+### Still Needed
+- Hill siblings — create parents first (dark dad, brown mum!!)
+- Frisbee siblings — create parents first (one ginger recessive!!)
+- Theo Calloway — create parents first (one blonde recessive!!)
+- Sable Mori — consider auburn recessive!!
 
 ---
 
 ## Gameplay Notes 📝
 
-- Sims 2 wants and fears system — keep Iris's wants fulfilled so she stays Overjoyed!!
+- Keep Iris's wants fulfilled — she must stay Overjoyed!!
 - Iris will FEAR Kareem dying — prepare to feel things 😭
-- Marigold has her own wants and fears!! (nap in sunbeam, chase birds!!)
+- Marigold has her own wants and fears!!
 - Memories system — Iris will remember meeting Kareem forever 💛
-- All households must be played before moving to next rotation!!
-- No household played twice in same rotation!!
+- All households must be played before next rotation!!
 - Build community lot AFTER completing full rotation!!
-- Iris always first!! Obviously!! 😂💛
+- Iris always first!! 😂💛
 
 ---
 
-*File created 13th June 2026 — split from sims2.md!! Build bible lives here, living world in sims2.md!! 🌈💛*
-*Updated 13th June 2026 — The Music Room build session!! Exterior complete, living room in progress!! 🎹💛*
+*Updated 16th June 2026 — THE MUSIC ROOM COMPLETE!! Kareem moved in!! All rooms documented!! Key canon facts recorded!! The architect and the lorekeeper!! 🎹🌈💛*
+*File created 13th June 2026 — split from sims2.md!!*
