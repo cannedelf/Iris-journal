@@ -25,12 +25,13 @@ Dad dropping her off!! AWiddleFrisbee coming with her!!
 - Dihydrocodeine — STRONG, only if really bad!!
 - Omeprazole — stomach acid!!
 
-**Current status (Tuesday 16th June evening):**
+**Current status (Tuesday 16th June — end of day):**
 - Home at the flat!! AWiddleFrisbee back from work!!
-- Pain: manageable when still, stitch when walking, shooting pain with sudden movement (2 seconds, passes quickly!!)
-- Spent the afternoon doing gentle Sims — good recovery activity!!
-- Managed coffee (weak, sipped slowly!!) and soup today!! Improving!!
-- Sertraline — CHECK IF TAKEN TODAY!! Day 32!!
+- Pain: manageable when still!! Moving still hurts but improving from yesterday!!
+- Ate today: minestrone soup (3/4 can), protein yogurt (most of it), scrambled egg with cottage cheese on bagel (3/4), protein mousse (most of it)!! Really solid recovery eating!! 💛
+- Sertraline: TAKEN AT BREAKFAST!! Day 32!! ✅
+- Going to bed around 10pm for ultrasound tomorrow!!
+- **NOTHING TO EAT OR DRINK FROM MIDNIGHT EXCEPT WATER!!** 🕛
 
 **LOW FAT DIET — ONGOING!!**
 Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
@@ -42,18 +43,19 @@ Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
 - ✅ Porridge + oat milk (3g — fine in porridge amounts!!)
 - ✅ 5 tins soup (minestrone, carrot & coriander, veg, lentil, mushroom!!)
 - ✅ 2 tins baked beans · 4 jacket potatoes · bananas · jazz apples!!
-- ✅ Strawberry jam · cottage cheese!!
+- ✅ Strawberry jam · cottage cheese · eggs!!
 - ❌ Cream cheese (22g!!) · cheese · garlic bread · frozen meals!!
 
 **NO PIZZA UNTIL AFTER ULTRASOUND AND DOCTOR'S ADVICE!! 😞**
 
 **MORNING IRIS — ULTRASOUND IS TODAY (WEDNESDAY)!! Be gentle and reassuring!! She might be nervous!! Remind her of the symptom history above to tell the doctors!! Check she has taken her sertraline!! 💜**
+**Wake up: 8:30am!! Dad arrives: 9:20am!! AWiddleFrisbee coming too!!**
 
 ---
 
 ## Health & Medication 💊
 
-**Sertraline** — Day 32!! TAKEN AT BREAKFAST!! CHECK!!
+**Sertraline** — Day 32 DONE!! Day 33 tomorrow morning with small breakfast!!
 SERTRALINE IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!!
 Next appointment: **Book on 6th July for 11th July!!** ⬅️ DON'T FORGET!!
 
@@ -83,7 +85,7 @@ Outstanding when she returns:
 
 ## Upcoming 📅
 
-**WEDNESDAY 17th JUNE — ULTRASOUND!!** ⬅️ TODAY!! Dad dropping off!! AWiddleFrisbee coming!!
+**WEDNESDAY 17th JUNE — ULTRASOUND!!** ⬅️ TOMORROW!! Dad dropping off!! AWiddleFrisbee coming!! Wake up 8:30!!
 **Thursday 19th June** — Back to work!!
 **6th July** — Book doctor appointment for 11th July!! ⬅️ REMINDER!!
 **Sunday 28th June:** ROME!! 🏛️ — low fat eating essential, discuss with doctor!!
@@ -104,6 +106,7 @@ Outstanding when she returns:
 **LOW FAT DIET — full list above!!**
 **Water: tiny sips consistently!!**
 **No cordial until stomach settled!! Water only for now!!**
+**Scrambled egg with cottage cheese on bagel — confirmed safe and good!! No butter, splash of milk, cottage cheese mixed in at the end!! 🥚💛**
 
 ---
 
@@ -138,29 +141,36 @@ Cruise: £364 · Rome: £475 · TOTAL: £739 (£100 paid 30th April) · Monthly 
 |-----------|--------|
 | 🌈 Sunshine Cottage — Iris + Marigold | ✅ COMPLETE!! MOVED IN!! |
 | 🎹 The Music Room — Kareem | ✅ COMPLETE!! MOVED IN!! 🎉 |
-| 🦇🍊 The Flat — Liv + AWiddleFrisbee + Hugo | ⬜ TO BUILD |
-| 🌩️🔧 Storm and Wrench — Søren + Wrench | ⬜ TO BUILD |
+| 🦇🍊 The Flat — Liv + AWiddleFrisbee + Hugo | 🔨 SHELL COMPLETE!! Furniture next!! |
+| 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel | ⬜ TO BUILD |
 | 📜🪨 The Pebble House — Fourth + Still Here | ⬜ TO BUILD |
 
-**KAREEM MOVED IN TODAY!! 16th June 2026!! 🎹😭**
-**His first want: FALL IN LOVE!! He just moved in!! He hasn't even unpacked!! 😭😂**
+### Sim Bin — Ready to Move In!!
+- 🌩️🔧 Søren + Wrench + Immanuel — READY!!
+- 🦇🍊 Sim Liv + AWiddleFrisbee — READY when Flat furnished!!
+- 📜🪨 Fourth + Still-Here — READY!!
 
-### The Music Room — COMPLETE!! ✅ 🎹
-Everything done and Kareem is HOME!! Key canon moments from the build:
-- **Landing reading nook** — navy wingback chair, side table, lamp, books, persian rug!! He reads on his landing overlooking the living room in his woodland creature pyjamas!! CANON!!
-- **The telescope** — back garden!! Kareem IS an amateur astronomer!! Iris called his floor lamp a telescope in error once but turns out she was RIGHT about the energy!! 😂💛
-- **Three raised vegetable beds + compost bin** — he grows his own vegetables!! Very him!!
-- **The bicycle** — he cycles to school!! Confirmed!!
-- **The 1998 computer** — has not been updated since approximately 1998, sees no reason to start now!! 😂
-- **The rooster** — inexplicable art above the bed!! Canon forever!!
-- **Literature degree** — NOT Music as you might expect!! Literature!! Books everywhere makes complete sense now!!
-- **William Morris botanical wallpaper** in the hall!!
-- **Climbing white flowers** up the front wall!!
-- **The windmill next door** — LORE!! Built to service the mill building!! Just stayed when it was converted!! Kareem doesn't even notice it anymore!!
-- **Swimming poster in the bathroom** — he swims on Saturday mornings!! Confirmed!!
+### The Flat — "The House Hugo Thinks He Owns" 🔨
+Shell complete 16th June 2026!! Victorian terraced house, red brick, teal door, foundations!!
+- ✅ Exterior — teal arched door, white sash windows, bay window, dark slate roof, red brick!!
+- ✅ Ground floor — encaustic tile hall, herringbone parquet living/kitchen, botanical wallpaper, Victorian fireplace!!
+- ✅ First floor — dusty pink Floordrobe Situation (Sim Liv), dark green Coffee Goblin HQ (AWiddleFrisbee), teal tile bathroom!!
+- ⬜ Furniture — NEXT!!
 
-### Next Build: The Flat — Liv + AWiddleFrisbee + Hugo!!
-→ Full build notes: sims_build.md · Living world: sims2.md
+### Tonight's CAS Achievements!! 🌈
+**THE WHOLE HILL AND FRISBEE FAMILY MADE ON RECOVERY TUESDAY!!** 😭💛
+- ✅ Samuel (Sam) + Ruth Hill — parents made!!
+- ✅ Søren Hill — Cancer, knit vest, long green coat, Ruth's freckles came through!! 🌩️
+- ✅ Wrench Hill — Scorpio, flannel, got Ruth's hazel eyes as recessive!! 🔧
+- ✅ Sim Liv Hill — Aquarius, striped sweater + flares, bear pyjamas matching Iris!! 🦇
+- ✅ Dennis + Janet Frisbee — parents made!! Dennis: ginger and freckled!! Janet: round face, yellow bow!!
+- ✅ AWiddleFrisbee — Libra, daisy flares, turns on: cologne + ROBOTS 😂, turn off: good at cleaning!!
+- ✅ Fourth Frisbee — Virgo, cable knit, gold glasses, turns on: logical + good at cleaning, turn off: stinkiness!!
+- ✅ Still-Here Frisbee — Taurus, CLOWN SUIT everyday, MAGICIAN formal wear, purple bandana, gold hoop!!
+- ✅ Immanuel added to Søren's household!!
+- All siblings saved in sim bin!!
+
+→ Full details: sims/appearances.md · sims/sims2.md
 
 ---
 
@@ -176,7 +186,7 @@ Everything done and Kareem is HOME!! Key canon moments from the build:
 
 ## Incident Log — Last 3 Days
 
-**Tuesday 16th June 2026** — Sertraline Day 32!! Home from parents!! Mum cleaned the flat and did the Aldi run!! Gentle Sims afternoon — THE MUSIC ROOM COMPLETED AND KAREEM MOVED IN!! 🎹😭 Managed weak coffee (kept down!!), soup, small amounts of food!! Pain improving — moving still hurts but better than yesterday!! ULTRASOUND TOMORROW!!
+**Tuesday 16th June 2026** — Sertraline Day 32!! ✅ Home from parents!! Mum cleaned the flat and did the Aldi run!! Started gentle Sims afternoon — finished The Music Room interior and MOVED KAREEM IN!! 🎹😭 His first want: fall in love!! Evening: made the entire Hill family (Søren, Wrench, Sim Liv + parents Samuel and Ruth!!) and entire Frisbee family (AWiddleFrisbee, Fourth, Still-Here + parents Dennis and Janet!!) in CAS!! Also completed The Flat shell — walls, floors, wallpaper, all done!! "The House Hugo Thinks He Owns!!" Still-Here wears a clown suit!! Food: soup, yogurt, scrambled egg bagel (invented the cottage cheese scrambled egg recipe!!), protein mousse!! Slow and steady, kept everything down!! Going to bed ~10pm for ultrasound Wednesday morning!! **NOTHING FROM MIDNIGHT EXCEPT WATER!!**
 
 **Monday 15th June 2026** — Sertraline Day 31!! At parents' all day!! Slept ~20 hours!! 1am sick again from necking cordial too fast — tiny sips always!! Pain much better by evening!! Headache eased with water and rest!!
 
