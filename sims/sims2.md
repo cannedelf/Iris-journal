@@ -12,7 +12,7 @@
 - **Description:** "A sunny little coastal village where the hills are wild and the sunflowers grow wherever they please. Home to found families, yellow houses, and one very strategic neighbour!!"
 - **Rainbow:** Placed manually by Liv over the neighbourhood!! Canon regardless!! 🌈
 - **Hot air balloons:** Two!! Also placed!! Also canon!! 🎈
-- **The Windmill:** 🌬️ Decorative neighbourhood object placed next to The Music Room!! CANON LORE — the windmill was there first!! That's why the mill building exists!! Kareem's house was built to service it!! The windmill just stayed when the mill was converted!! Kareem doesn't even notice it anymore, it's just part of the view from his kitchen window!! Placed 13th June 2026!!
+- **The Windmill:** 🌬️ Decorative neighbourhood object placed next to The Music Room!! CANON LORE — the windmill was there first!! That's why the mill building exists!! Kareem's house was built to service it!! The windmill just stayed when the mill was converted!! Kareem doesn't even notice it anymore!!
 
 ---
 
@@ -31,51 +31,57 @@
 | 🪨 Still-Here | Still-Here Frisbee | The Pebble House |
 
 ### Hill Siblings!! 💛
-Liv, Søren and Wrench are ALL siblings!! Split across two houses but always in each other's lives!!
+Liv, Søren and Wrench are ALL siblings!!
 
 ### Frisbee Siblings!! 😂
-Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnyside!!
+Widdle Frisbee, Fourth and Still-Here!!
 
 ---
 
 ## The Households 🏘️
 
-### 🌈 Sunshine Cottage — Iris + Marigold ✅ COMPLETE!!
+### 🌈 Sunshine Cottage — Iris + Marigold ✅ COMPLETE!! MOVED IN!!
 - Yellow house!! Sunflowers outside!! Straight to adulthood!!
-- Iris arrived fully formed — yellow house, Marigold on the doorstep, Kareem suspiciously nearby!!
 - **Sim Iris moved in: 7th June 2026!!**
-- First autonomous action: hugged Marigold on the front porch before the house was even finished!! 😭💛
-- Wanted to join Music, Culinary AND Politics careers on Day 1 — very her!! 😂
+- First autonomous action: hugged Marigold on the front porch!! 😭💛
 - Currently in Artist career!!
-- **Lifetime want:** Make 20 Pet Best Friends!! The most Iris lifetime want that has ever existed!!
+- **Lifetime want:** Make 20 Pet Best Friends!!
 
-### 🎹 The Music Room — Kareem Osei 🔄 IN PROGRESS!!
+### 🎹 The Music Room — Kareem Osei ✅ COMPLETE!! MOVED IN!! 🎉
+- **Kareem moved in: 16th June 2026!!**
+- **FIRST WANT ON MOVING IN: FALL IN LOVE!! He hadn't even unpacked!! 😭😂**
 - Converted mill!! Industrial bones, warm soul!!
-- Dark grey charcoal stone, three roof sections, dark green double door with iron hardware!!
-- Black grid windows — triple tall panels on living room side, hero windows!!
-- Double height living room with open iron railing landing overlooking it!! 😭
-- **The windmill next door is LORE** — the mill building was built to service it!! 🌬️
-- **Created: 13th June 2026!!**
-- **Build status:** Ground floor mostly complete!! Hall + study + upstairs + garden tomorrow!!
-- On road between Sunshine Cottage and shops — Iris walks past every time!! Totally coincidental!! 😇
-- Education career, music teacher trajectory!!
-- **Woodland creature pyjamas CONFIRMED!!** Little deer and rabbits!! Dignified at all times except this!! 😂
-- **Culture interest: MAXED!!** Money: zero!! Fashion: zero!! Completely him!!
-- Birdwatched outside his own house the ENTIRE build session!! Was not watching birds!! 😇
-- Put SUNFLOWERS on his kitchen table for two without being asked!! The game knows!! 🌻
-- Put botanical prints in his downstairs WC!! He cannot help it!! He is that man!! 😂💛
-- Books in EVERY room including the utility passage!! Cannot go two tiles without a book!!
+- Dark grey charcoal stone, three roof sections, dark green double door!!
+- Black grid windows — triple tall panels on living room side!!
+- Double height living room with open iron railing landing!!
+- The windmill next door is LORE!! 🌬️
+- On road between Sunshine Cottage and shops — Iris walks past every time!! 😇
+
+### Key Canon Moments from The Music Room Build!! 🎹
+- **Landing reading nook** — navy wingback chair, side table with books, lamp, persian rug!! Reads on his landing overlooking the living room in his woodland creature pyjamas!! CANON!!
+- **The telescope in the back garden** — Kareem IS an amateur astronomer!! Stands in his back garden at night looking at stars!! (Iris called his floor lamp a telescope by mistake once and turns out she was RIGHT about the energy!! 😂💛)
+- **Three raised vegetable beds + compost bin** — grows his own vegetables!! Very him!!
+- **The bicycle** — cycles to school!! Confirmed!!
+- **The 1998 computer** — has not been updated since approximately 1998, sees no reason to start!! 😂
+- **The rooster** — inexplicable art above the bed!! Canon forever!! Nobody asks!!
+- **Literature degree** — NOT Music as expected!! Literature!! Books everywhere makes complete sense!!
+- **William Morris botanical wallpaper** in the hall!!
+- **Climbing white flowers** up the front wall!!
+- **Swimming poster in the bathroom** — swims on Saturday mornings!! Confirmed!!
+- **Sunflowers on the kitchen table for two** — placed without being asked!! The game knows!! 🌻
+- **Botanical prints in the downstairs WC** — of course he did!! 😂💛
+- **Books in the utility passage cubby** — cannot go two tiles without a book!!
 
 ### 🦇🍊 The Flat — Sim Liv + Sim AWiddleFrisbee + Hugo ⬜ TO BUILD
 - Chaotic flatmate energy!! Night owls!!
-- Near the shops and diner — second home!!
+- Near the shops and diner!!
 - Hugo immediately on all the furniture!!
+- **NEXT BUILD!!**
 
 ### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ⬜ TO BUILD
 - Tidy house, quieter end of town, near the park!!
 - Søren at the library immediately!!
 - Wrench fixing something that wasn't broken!!
-- Immanuel sitting on Søren's books and judging everyone!!
 
 ### 📜🪨 The Pebble House — Fourth + Still-Here ⬜ TO BUILD
 - Chaotic and central!!
@@ -93,154 +99,104 @@ Widdle Frisbee, Fourth and Still-Here!! The chaos household spread across Sunnys
 | 🐕 Hugo | Springer spaniel inspired | AWiddleFrisbee | Named after AWiddleFrisbee's real childhood dog!! Sacred!! |
 | 🐱 Ink | Black cat | Sable | Mysterious and watchful!! |
 | 🐕 Barnaby | Golden retriever | Theo | Thinks he's a lap dog!! Introduces Theo to Sim Liv!! |
-| 🐱 Newton | Old dignified cat | Edie & Arthur | Very slow, very wise, standoff with Immanuel across the fence!! |
-| 🐠 Fish | Fish tank | Søren | Søren has named them all!! Immanuel watches with concerning intensity!! |
+| 🐱 Newton | Old dignified cat | Edie & Arthur | Very slow, very wise, standoff with Immanuel!! |
+| 🐠 Fish | Fish tank | Søren | Søren has named them all!! Immanuel watches concerningly!! |
 | 🦜 Parrot | Parrot | Still-Here | Says unhinged things at inappropriate moments!! 😂 |
 
-**Iris lifetime want: 20 pet best friends!!** Progress: Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnaby all waiting!! 😭🐾
+**Iris lifetime want: 20 pet best friends!!** Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnaby all waiting!! 😭🐾
 
 ### Pet Details
 
 **🌼 Marigold — Iris's Cat**
-- Ginger/orange base, lighter cream chest, tabby stripe layering
-- Yellow-green eyes, big and alert!! Rainbow collar!! Virgo!!
+- Ginger/orange base, lighter cream chest, tabby stripe layering!!
+- Yellow-green eyes, rainbow collar!! Virgo!!
 - Personality: Genius · Lazy · Independent · Cowardly · Finicky
-- Smug, claims the best chair immediately, knocks over Iris's paint tubes, naps in sunbeams!!
-- First photo: strutting around the garden like she owns Sunnyside (she does)!!
-- Second photo: pressing her face into Sim Iris's cheek while Iris holds her!! 😭💛
+- First photo: strutting around garden like she owns Sunnyside (she does!!)
+- Second photo: pressing face into Sim Iris's cheek!! 😭💛
 
 **😤 Immanuel — Søren's Cat**
-- Charcoal grey, smooth/furry coat!! Dark/silver collar, very dignified!!
-- Yellow eyes, large, permanently unimpressed!!
-- Personality: Genius · Lazy · Independent · Neutral · Finicky
-- Has read Kant and found it adequate!! All the judgement is a front — secretly a big coward!! 😂
+- Charcoal grey!! Dark/silver collar!! Yellow eyes, permanently unimpressed!!
+- Has read Kant and found it adequate!! Secretly a big coward!! 😂
 
 **🐕 Hugo — Liv and AWiddleFrisbee's Dog**
-- Springer spaniel inspired, warm medium brown patches on white, long floppy ears!!
-- Teal collar!! Named after AWiddleFrisbee's real childhood dog!! Sacred!!
-- Personality: Doofus · Hyper · Friendly · Cowardly · Pigpen
-- Slightly too big for the flat, immediately on all furniture, been in every puddle he's ever seen!! 😂
+- Springer spaniel inspired!! Teal collar!! Named after AWiddleFrisbee's real childhood dog!! Sacred!!
+- Slightly too big for the flat, immediately on all furniture, been in every puddle!! 😂
 
 ---
 
 ## Sim Iris — Miss Iris Golden Rainbow 🌈
 
-### Appearance
-- Peach-orange skin tone
-- Sunset ombre hair (golden to red-orange)
-- Yellow eyes
-- Rosy cheeks
-- Yellow bow!!
-- Strawberry top!!
-- Rollerskates where possible!!
+- Peach-orange skin · Sunset ombre hair · Yellow eyes · Rosy cheeks · Yellow bow · Strawberry top!!
+- **Aspiration:** Popularity!! · **Career:** Artist level 1!!
+- **Lifetime want:** Make 20 pet best friends!! 🐾
+- **Star sign:** Libra!! Same as Liv!! 💛
 
 ### Personality (25 points)
 | Trait | Score |
 |-------|-------|
-| Lazy → Active | 4 |
-| Sloppy → Neat | 2 |
-| Shy → Outgoing | 7 |
-| Grouchy → Nice | 7 |
-| Serious → Playful | 5 |
-
-- **Aspiration:** Popularity!!
-- **Career:** Artist — starting at level 1!!
-- **Lifetime want:** Make 20 pet best friends!! 🐾
-- **Star sign:** Libra!! Same as Liv!! 💛
+| Neat | 2 |
+| Outgoing | 7 |
+| Active | 4 |
+| Playful | 5 |
+| Nice | 7 |
 
 ---
 
 ## Sim Kareem — Kareem Osei 🎹
-Full Kareem detail → sims/kareem.md
+Full detail → sims/kareem.md
 
-### Appearance
-- Dark curly hair
-- Glasses!! Part of his face in every universe!!
-- Warm brown skin, freckles from his mum!!
-- Kind face, tall, slightly rumpled in the best way!!
-- Smart casual, warm colours — burnt orange/forest green/warm brown!!
-- **Woodland creature pyjamas** — little deer and rabbits!! Dignified at all times except this!! 😂
+- Dark curly hair · Glasses · Warm brown skin · Freckles · Kind face · Slightly rumpled!!
+- Woodland creature pyjamas (little deer and rabbits!!) 😂
+- **Aspiration:** Family!! · **Career:** Education level 2!!
+- **Lifetime want:** Reach Golden Anniversary!! 💛
+- **First want on moving in:** Fall in love!! 😭
+- **Degree:** Literature!! (Not Music — Literature!! Books everywhere makes sense!!)
+- **Hidden genes:** Blonde + lilac eyes from mum Claire!! Rainbow babies possible!! 😭💛
 
 ### Personality (25 points)
 | Trait | Score |
 |-------|-------|
-| Lazy → Active | 5 |
-| Sloppy → Neat | 6 |
-| Shy → Outgoing | 5 |
-| Grouchy → Nice | 9 |
-| Serious → Playful | 0 |
+| Neat | 6 |
+| Outgoing | 5 |
+| Active | 5 |
+| Playful | 0 |
+| Nice | 9 |
 
 ### Interests
-- **Culture: MAXED!!** Obviously!! 🎵
-- Animals: very high!! Birdwatches with binoculars!!
-- Food: moderate!! Cooks proper meals!!
-- Weather: moderate!! Watches rain from his big windows!!
-- Money: ZERO!! He is a teacher!! He never thought about money once!!
-- Fashion: ZERO!! Woodland creature pyjamas confirmed as a personality trait!! 😂
-- Paranormal: ZERO!! Leave that to Aesop!!
-- Sci-Fi: ZERO!! Pure humanities man!!
-
-- **Aspiration:** Family!! His heart — table for one waiting to become a table for two!! Roots, warmth, people he loves!! 😭
-- **Career:** Education — Music teacher trajectory!!
-- **Hidden genes:** Blonde hair + lilac eyes recessive from his mum Claire!! Potential Rainbow babies!! 😭💛
-- **Note:** We totally did not make him and place him strategically near the yellow house 😇
+- **Culture: MAXED!!** · Money: ZERO!! · Fashion: ZERO!!
+- Animals very high · Food moderate · Weather moderate!!
+- Paranormal: ZERO!! · Sci-Fi: ZERO!! Pure humanities man!!
 
 ---
 
 ## Children — Future 👶
 
-Same names as Paralives canon across all universes!!
-- **Lyra** (first) ⭐
-- **Soleil** (second) 🌻
-- **Dandelion Gold "Lion"** (wildcard) 🌼
+Same names as Paralives across all universes!!
+- **Lyra** (first) ⭐ · **Soleil** (second) 🌻 · **Dandelion Gold "Lion"** (wildcard) 🌼
 
-Lyra likely: dark curly hair (Kareem dominant), yellow eyes (Iris), high nice, more serious!!
+Lyra likely: dark curly hair, yellow eyes, high nice, more serious!!
 
 ---
 
 ## Future Households 🌱
 
-*Sunnyside grows slowly and organically — one household at a time!!*
-
 ### 🌺🌸 Idris Okafor + Clara Vance — Rotation 3!!
-- Best friends moving together!! Idris for Søren, Clara for Fourth!!
-- Idris: warm, funny doctor!! Clara: natural science, Clara's regular spot is The Willowbrook!!
-- Personalities, careers and full CAS details in sims_build.md!!
+Best friends moving together!! Idris for Søren, Clara for Fourth!!
 
 ### 🐕 Theo Calloway + Barnaby — Rotation 5!!
-- **Dog:** Barnaby — big fluffy golden retriever, thinks he's a lap dog!! 😂
-- **Location:** Near the park so Barnaby gets his walks!!
-- Warm, funny, kind eyes — makes Sim Liv laugh without trying!!
-- Barnaby and Hugo introduce them!! Immediate chaos!! 😭
+Near the park!! Barnaby and Hugo introduce him to Sim Liv!! 😭
 
 ### 🖤 Sable Mori + Ink — Rotation 7!!
-- **House:** The Inkwell — small, tucked away, near the gallery!!
-- **Cat:** Ink — black cat, mysterious and watchful!!
-- Shy, artistic, quietly introverted!! Takes time to open up but completely wonderful!!
-- Iris finds her at the Sunday market and immediately decides they're friends!! 😂
-- Love interest: Søren!! They meet at the library!! 😭💛
-- Iris's art is warm and golden!! Sable's is darker and introspective!! Perfect together in the gallery!!
+The Inkwell!! Love interest: Søren!! They meet at the library!! 😭💛
 
 ### 🌿 Edie and Arthur Meadow + Newton — Rotation 10!!
-- **House:** Tide Cottage — quiet end of Sunnyside!!
-- **Cat:** Newton — very old, very slow, very dignified!! Standoff with Immanuel across the fence!! 😂
-- Unofficial grandparents of Sunnyside!! Always something on the stove!! Everyone stays longer than they meant to!! 💛
-- Edie does the garden and is always right!! Arthur makes the tea and tells long stories!!
+Tide Cottage!! Unofficial grandparents of Sunnyside!! 💛
 
 ### 🌱 Willa Meadow — Rotation 12!! (ALONE)
-- Edie and Arthur's daughter!! Journalist career!!
-- Arrives ALONE — Edie and Arthur mention her for a couple of rotations, then she just appears!!
-- Love interest: Still-Here!! Already in Sunnyside the whole time!! 😭😂
-- **How to create:** Generate from Edie and Arthur CAS templates so she genuinely looks like their daughter!! Then set parent-child relationship via SimPE!!
+Edie and Arthur's daughter!! Journalist!! Love interest: Still-Here!! 😭😂
 
-### 🌕🌿 Aesop Fable + Sautoir Fable + Eclipse — Rotation 13!!
-- **Aesop:** The fable-teller whose surname is Fable!! Paranormal career, credentials unverifiable!! 😂
-- **Sautoir:** Aesop's IDENTICAL TWIN!! Loves myths, stories and acorns!! Requires one grandfather clock!!
-- Nobody in Sunnyside notices there are two of them for three rotations!! 😂
-- **Eclipse:** Their cat!!
-- Nobody sees them arrive!! The Observatory has always been there!!
-- Willa and Aesop arrive one rotation apart — not a coincidence!! 👀
-- Sable and Aesop already know each other by Rotation 13 😇
+### 🌕🌿 Aesop + Sautoir Fable + Eclipse — Rotation 13!!
+Nobody sees them arrive!! Two of them!! Nobody notices for three rotations!! 😂
 
 ---
 
@@ -248,12 +204,7 @@ Lyra likely: dark curly hair (Kareem dominant), yellow eyes (Iris), high nice, m
 
 *3 days per household per rotation!! Always start with Iris!!*
 
-### Rotation Order
-1. 🌈 Sunshine Cottage — Iris and Marigold!!
-2. 🎹 The Music Room — Kareem!!
-3. 🦇🍊 The Flat — Liv and AWiddleFrisbee!!
-4. 🌩️🔧 Storm and Wrench — Søren and Wrench!!
-5. 📜🪨 The Pebble House — Fourth and Still-Here!!
+**Order:** Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pebble House!!
 
 ### Rotation Log
 
@@ -265,7 +216,7 @@ Lyra likely: dark curly hair (Kareem dominant), yellow eyes (Iris), high nice, m
 | 🌩️🔧 Storm & Wrench | ⬜ | | | | | | | |
 | 📜🪨 The Pebble House | ⬜ | | | | | | | |
 
-*Update as we play!! ✅ = played, ⬜ = not yet!!*
+**Rotation 1 begins when all 5 households are built and moved in!!**
 
 ---
 
@@ -273,18 +224,18 @@ Lyra likely: dark curly hair (Kareem dominant), yellow eyes (Iris), high nice, m
 
 | After Rotation | Who Arrives | Notes |
 |----------------|-------------|-------|
-| Rotation 3 | 🌺🌸 Idris Okafor + Clara Vance | Best friends!! Idris for Søren, Clara for Fourth!! |
-| Rotation 5 | 🐕 Theo Calloway + Barnaby | Sim Liv needs time to settle first!! |
-| Rotation 7 | 🖤 Sable Mori + Ink | Nobody notices when she arrived!! |
-| Rotation 10 | 🌿 Edie + Arthur Meadow + Newton | They retire to Sunnyside!! |
-| Rotation 12 | 🌱 Willa Meadow | ALONE!! Already loves Still-Here without knowing it yet!! |
-| Rotation 13 | 🌕 Aesop + 🌿 Sautoir Fable + Eclipse | Nobody sees them arrive!! Two of them!! |
+| Rotation 3 | 🌺🌸 Idris + Clara | Best friends!! |
+| Rotation 5 | 🐕 Theo + Barnaby | Sim Liv needs time to settle!! |
+| Rotation 7 | 🖤 Sable + Ink | Nobody notices when she arrived!! |
+| Rotation 10 | 🌿 Edie + Arthur + Newton | They retire to Sunnyside!! |
+| Rotation 12 | 🌱 Willa Meadow | ALONE!! |
+| Rotation 13 | 🌕 Aesop + Sautoir + Eclipse | Nobody sees them arrive!! |
 
 ---
 
 ## Community Lot Build Schedule 🏗️
 
-*One lot after each completed rotation!! Always know what's next!!*
+*One lot after each completed rotation!!*
 
 | After R | Lot | Status |
 |---------|-----|--------|
@@ -310,57 +261,61 @@ Lyra likely: dark curly hair (Kareem dominant), yellow eyes (Iris), high nice, m
 
 ## The Golden Anchor 🍺⚓
 
-- **Location:** Beach road!! You can hear the sea from the beer garden!!
-- **Vibe:** Cosy pub, dark wood, warm lighting, fireplace!!
-- **Søren's corner table:** View of the water!! He pretends not to look!! 😂
-- **Friday nights:** The whole found family ends up there without planning it!!
-- **Regular:** Søren, every Thursday, book and a pint!!
-- **Little stage in the corner** — open mic nights!! Kareem gets pulled up eventually!!
+- Beach road!! Can hear the sea from the beer garden!!
+- Søren's corner table — Thursdays, book and a pint!!
+- Friday nights — whole found family ends up there!!
+- Little stage — open mic nights!! Kareem gets pulled up eventually!! 🎹
 
 ---
 
 ## The Golden Anchor Story Nights 📜🌕
 
-*Proposed by Aesop Fable — before he even arrived in Sunnyside!!*
+Not an event — a custom!! One evening each rotation, people drift in and somebody tells something!!
 
-Not an event, not a party — a custom!! One evening each rotation, people drift to The Golden Anchor and somebody tells something!! Not performances!! Just stories!!
+Idris: warm rambling stories!! Edie: tells about Arthur while he corrects one detail!! Wrench: explains a fix to general bafflement!! Still-Here: at full volume!! Søren: one devastating sentence, back to his pint!! Sable: sketches from the corner!! Aesop: mostly listens, collecting!!
 
-**How it happens:**
-- Idris tells some warm rambling thing that has everyone laughing!!
-- Edie tells a story about Arthur from forty years ago while he quietly corrects one detail!!
-- Wrench explains a problem he fixed, to general bafflement!!
-- Still-Here recounts something at full volume that may or may not have happened!!
-- Søren says one devastating sentence and goes back to his pint!!
-- Sable sketches the tellers from a corner table — the visual record!!
-- Aesop mostly listens!! Collecting!!
+Twenty rotations from now, some grandchild hears about how Sim Iris hugged Marigold on a bare lot before the house existed — because someone told it at The Golden Anchor once!! 😭💛
 
-**The long game:** Twenty rotations from now, some grandchild hears the story of how Sim Iris hugged Marigold on a bare lot before the house even existed — because someone told it at The Golden Anchor once, and it stuck, and got retold!! 😭💛
+---
 
-*Story nights are CANON!! 😭💛🌈*
+## The Honeyed Crumb ☕🍯
+
+*Tucked just off the main street — you only find it if someone tells you!!*
+- Søren found it immediately!! Kareem does marking there on Sunday mornings!!
+- **Søren's order:** Cardamom bun!! Every Thursday before The Golden Anchor!! Non negotiable!!
+- **Run by:** Maren — knows everyone's order, never writes anything down, never gets it wrong!! Had Søren's cardamom bun ready before he sat down by his third visit!! He was flustered!! She didn't react!!
+- **Kareem and Iris:** He gets the cardamom, she gets the honey bun, they always end up sharing half of each without planning to!! 😇😭
+- **Sable:** Finds it rotation 7 — sits by the window with her sketchbook!! Søren one Thursday offers her half his cardamom bun!! That's the whole love story in one moment!! 😭💛
+
+---
+
+## Primrose & Pastry 🌸🥐
+
+*On the shopping street!! Pretty frontage!! Flower boxes in the window!!*
+- AWiddleFrisbee every Saturday morning without fail!!
+- **Best item:** Almond croissant — the best in any universe!! AWiddleFrisbee deserves it!! 💛
 
 ---
 
 ## Sunnyside Dreams 🌟
 
-*Things we want to happen in gameplay!!*
-
-- Iris befriends everyone in town and throws parties at Sunshine Cottage!!
+- Iris befriends everyone and throws parties at Sunshine Cottage!!
 - Still-Here sits in Marigold's chair and gets told off!! 😂
 - Sim Liv and Sim Iris become best friends!!
 - Widdle Frisbee and Hugo — best friends forever!! 🐕
-- Iris has an art show at the museum — Kareem stands in front of her painting for a long time and then holds her hand!! 😭
+- Iris has an art show — Kareem stands in front of her painting for a long time then holds her hand!! 😭
 - Sunnyside winter — snow on the thatched roof!! Marigold furious about the cold!!
 - Hugo and Barnaby meet — immediate chaos!!
 - Still-Here wears the tropical boiler suit to The Golden Anchor with complete confidence!!
-- Søren at The Golden Anchor on Thursdays — eventually meets Sable!!
 - Baby Lyra born at Sunshine Cottage — Marigold appoints herself guardian immediately!!
-- Edie and Arthur Meadow at the door with something homemade when Lyra arrives!!
-- Sable and Iris's art displayed together in the gallery!!
-- Kareem gets pulled up to the little stage at The Golden Anchor for open mic night!! 🎹
-- Sunnyside slowly coming more and more alive as we play!! 🌈
+- Edie and Arthur at the door with something homemade when Lyra arrives!!
+- Kareem gets pulled up to the stage at The Golden Anchor!! 🎹
+- AWiddleFrisbee tells Sim Liv about Still-Here and Willa within four minutes of realising!! 😂
+- Søren pieces it together from context clues and says one devastating sentence at The Golden Anchor!! 😂
+- Maren puts two cardamom buns on the plate without being asked!! Kareem goes very pink!! 😭💛
 
 ---
 
-*File split 13th June 2026 — Living world stays here!! Build bible moved to sims_build.md!! 🌈💛*
-*Updated 13th June 2026 — Kareem created!! Music Room build in progress!! Windmill lore established!! 🌬️🎹💛*
-*Original file created 4th June 2026 — Iris and Liv's Thursday commission day*
+*Updated 16th June 2026 — KAREEM MOVED IN!! The Music Room COMPLETE!! First want: fall in love!! Literature degree confirmed!! Telescope canon!! Rooster canon!! 1998 computer canon!! The architect and the lorekeeper!! 🎹🌈💛*
+*File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
+*Original file created 4th June 2026!!*
