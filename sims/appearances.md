@@ -49,26 +49,42 @@
 
 ## The Hill Family 🏠
 
-### Hill Parents — CREATE FIRST!!
+### Hill Parents — ✅ CREATED!! Samuel and Ruth Hill!!
 *Generate Søren, Wrench and Liv from the same parents!!*
 
-| | Hill Dad | Hill Mum |
+| | Hill Dad — **Samuel (Sam) Hill** | Hill Mum — **Ruth Hill** |
 |--|---------|---------|
-| Skin | Dark!! | Pale/lighter!! |
-| Hair | Black!! | Brown!! |
+| Skin | Dark warm brown!! | Pale!! |
+| Hair | Black curly!! Big voluminous curls — where Søren and Wrench get it from!! | Gentle brown waves!! |
 | Eyes | Dark brown!! | Hazel!! |
-| Notes | Søren inherits most from Dad!! | Liv inherits most from Mum!! |
+| Notable | FRECKLES!! Passes them to all three siblings!! | FRECKLES!! The source of the Hill freckle situation!! Round warm face!! |
+| Notes | Søren inherits most from Dad!! | Liv and Wrench inherit most from Mum!! |
+
+*Ruth also has a yellow bow!! She and Frisbee Mum Janet are the yellow bow parent club!! 😭💛*
 
 ---
 
-### 🌩️ Søren Hill — ⬜ TO CREATE!!
+### 🌩️ Søren Hill — ✅ COMPLETE!!
 
 ### Appearance
-- **Hair:** Black curly!! Big and voluminous!! (Grey in Paralives but black in Sims 2!!)
-- **Eyes:** Dark brown!!
-- **Skin:** Dark warm brown!! (Matching Paralives!!)
-- **Notable:** Big curly hair and round glasses!! Tall and distinguished!!
+- **Hair:** Black curly!! Big and voluminous!! Sam's hair exactly!! (Grey in Paralives but black in Sims 2!!)
+- **Eyes:** Dark brown from Sam!!
+- **Skin:** Dark warm brown from Sam!!
+- **Notable:** Big curly hair and round glasses!! Tall and distinguished!! **RUTH'S FRECKLES came through!!** Carries them quietly — less prominent than Wrench's but there!! Nobody planned this!! 😭💛
 - **Hidden genes:** Brown hair recessive + Hazel eyes recessive (from Mum!!)
+
+### Star Sign
+**Cancer!!** ♋ — Deep emotional loyalty hidden under serious exterior!! Homebody!! Takes a while to trust but when he does it's completely!! Very lamp!!
+
+### Turns On/Off
+- **Turn On:** Logical skill + Cologne!!
+- **Turn Off:** Unemployed!! A Knowledge sim respects ambition!!
+
+### Wardrobe
+- **Everyday:** Blue knit vest over white shirt + beige trousers + loafers + blue tie!! Dorky professor energy!! Completely him!!
+- **Formal:** Caramel blazer + red waistcoat + BOW TIE + SUSPENDERS!! Will wear to every formal event and see nothing unusual about this!!
+- **Outerwear:** Long dark green coat + grey waistcoat + lavender tie!! Canon forever!! Everyone in Sunnyside recognises him by the coat!!
+- **Sleepwear/Activewear:** Plain and sensible!! He's not Still-Here!!
 
 ### Aspiration
 **Knowledge!!** — Obviously. No notes.
@@ -82,18 +98,29 @@
 | Playful | 2 |
 | Nice | 8 |
 
-**Likely star sign: Virgo or Capricorn!!** Very Søren!! 😂
+**Star sign: Cancer!!** ♋ Correct!!
 
 ---
 
-### 🔧 Wrench Hill — ⬜ TO CREATE!!
+### 🔧 Wrench Hill — ✅ COMPLETE!!
 
 ### Appearance
-- **Hair:** Curly brown!! Mix of both parents!!
-- **Eyes:** Warm brown!!
-- **Skin:** Medium warm brown!! Perfect middle of both parents!! (Matching Paralives!!)
-- **Notable:** FRECKLES!! The most distinctive Hill sibling feature!! Friendly open face!!
+- **Hair:** Curly brown!! Sam's curl pattern, Ruth's colour!! Exactly halfway between both parents!!
+- **Eyes:** **HAZEL!! Got Ruth's recessive gene!!** Warm olive hazel — makes him instantly distinct from Søren's dark brown!!
+- **Skin:** Medium warm brown!! Perfect middle of both parents!!
+- **Notable:** FRECKLES everywhere!! Got ALL of Dennis's freckle energy!! Most freckled Hill sibling!! Friendly open face!! Warm smile!!
 - **Hidden genes:** Black hair recessive (from Dad!!)
+
+### Star Sign
+**Scorpio!!** ♏ — Determined, resourceful, gets things done!! Quietly intense under the friendly freckled exterior!! Very "will fix this if it takes all night"!!
+
+### Turns On/Off
+- **Turn On:** Mechanical skill + Fitness!!
+- **Turn Off:** Stinkiness!! A man who works with his hands and still manages not to be stinky has zero time for people who can't be bothered!!
+
+### Wardrobe
+- **Everyday:** Plaid/flannel shirt open over brown tee + practical trousers + trainers!! The anti-Søren!! Capable and warm!!
+- **Other outfits:** Simple and practical throughout!! Nothing he'd have to think about!!
 
 ### Aspiration
 **Fortune!!** — Practical builder, values craftsmanship and security!!
@@ -109,14 +136,27 @@
 
 ---
 
-### 🦇 Liv Hill — ⬜ TO CREATE!!
+### 🦇 Liv Hill — ✅ COMPLETE!!
 
 ### Appearance
-- **Hair:** Brown!! 
-- **Eyes:** Hazel!! From Mum!!
-- **Skin:** Medium — lighter than Søren, warmer than Mum!!
-- **Notable:** Glasses!! Looks kind!! Warm open face!!
+- **Hair:** Brown!! Long and wavy!! Ruth's hair!!
+- **Eyes:** Hazel!! From Mum!! Warm green-brown!!
+- **Skin:** Medium — lighter than Søren, warmer than Ruth!!
+- **Notable:** Glasses!! Warm open kind face!! Looks kind!! Freckles from Sam — there but softer than Wrench's!!
 - **Hidden genes:** Black hair recessive (from Dad!!)
+
+### Star Sign
+**Aquarius!!** ♒ — Independent, warm, values friendship above everything, slightly unconventional, genuinely kind but does things entirely her own way!! The floordrobe!! The kiwi skin!! Completely correct!!
+
+### Turns On/Off
+- **Turn On:** Charisma skill + Logical!!
+- **Turn Off:** Vampires!! She assessed the situation and they are mean!! No further justification required!! 😂
+
+### Wardrobe
+- **Everyday:** Green stripe crop sweater + flared jeans + white converse!! Britpop indie energy!! Disco 2000 playing in the background!! Perfect!!
+- **Formal:** Purple midi dress + block heel sandals!! Elegant and completely herself!!
+- **Sleepwear:** Pink and orange bear cardigan pyjama set!! MATCHES SIM IRIS'S YELLOW AND PURPLE VERSION!! Bear pyjama flatmate solidarity!! 😭💛
+- **Other outfits:** Casual and comfortable throughout!!
 
 ### Aspiration
 **Family!!** — Quietly building her whole lovely life!!
@@ -134,28 +174,41 @@
 
 ## The Frisbee Family 🏠
 
-### Frisbee Parents — CREATE FIRST!!
+### Frisbee Parents — ✅ CREATED!! Dennis and Janet Frisbee!!
 *Generate AWiddleFrisbee, Fourth and Still-Here from the same parents!!*
 
-| | Frisbee Parent 1 | Frisbee Parent 2 |
+| | Frisbee Dad — **Dennis Frisbee** | Frisbee Mum — **Janet Frisbee** |
 |--|----------------|----------------|
-| Skin | Pale!! | Golden/tanned!! |
-| Hair | Brown!! | GINGER!! (recessive!!) |
-| Eyes | Green!! | Brown!! |
-| Notes | AWiddleFrisbee + Fourth get green eyes from here!! | Still-Here + Fourth get golden skin from here!! |
+| Skin | Golden/tanned!! | Pale!! |
+| Hair | GINGER!! The secret recessive everyone carries!! | Brown!! Worn up with a YELLOW BOW!! |
+| Eyes | Brown!! | GREEN!! AWiddleFrisbee and Fourth get these!! |
+| Notable | FRECKLES!! Passes them to all three!! Mildly bewildered since approximately 1990!! | Round warm face!! AWiddleFrisbee's round face comes from here!! |
+| Notes | Still-Here + Fourth get golden skin from here!! | AWiddleFrisbee + Fourth get green eyes from here!! |
 
 *Hidden ginger recessive = surprise ginger Frisbee babies someday!! 😂🧡*
+*Dennis and Janet Frisbee are responsible for ALL THREE of these people!! Dennis puts the kettle on!! That's his coping strategy!! 😂*
 
 ---
 
-### 🍊 AWiddleFrisbee — ⬜ TO CREATE!!
+### 🍊 AWiddleFrisbee — ✅ COMPLETE!!
 
 ### Appearance
-- **Hair:** Brown!! Carries ginger recessive!!
-- **Eyes:** Green!! From Parent 1!! No hidden gene!!
-- **Skin:** Pale!! From Parent 1!!
-- **Notable:** Round glasses!! Same style as Fourth!!
+- **Hair:** Brown!! Long!! Carries ginger recessive from Dennis!! **Her actual real hair in real life!!** 😭
+- **Eyes:** Green!! From Janet!! Gorgeous!!
+- **Skin:** Pale!! From Janet!!
+- **Notable:** Round glasses!! Round face from Janet!! FRECKLES from Dennis!! Warm immediately likeable face!! That little smile that says she's already thought of something funny!!
 - **Hidden genes:** Ginger hair recessive!!
+
+### Star Sign
+**Libra!!** ♎ — Third Libra in Sunnyside alongside Iris and Kareem!! The most Libra neighbourhood!! Very on brand for friendship and found family!! 😂💛
+
+### Turns On/Off
+- **Turn On:** Cologne + ROBOTS!! She has very specific and completely unrelated taste and sees no contradiction!! 😂
+- **Turn Off:** Good at cleaning!! Neat 1!! The bedroom has been witnessed!! She is constitutionally opposed to people who are good at cleaning!!
+
+### Wardrobe
+- **Everyday:** DAISY PRINT FLARES + pink tie top + cream cardigan + cream shoes!! Warm chaotic perfect!! She and Sim Liv walking around Sunnyside together looking completely different and completely like best friends!!
+- **Other outfits:** Fun and personality-filled throughout!!
 
 ### Aspiration
 **Popularity!!** — Jester vibe, makes friends immediately, chaos energy!!
@@ -173,14 +226,26 @@
 
 ---
 
-### 📜 Fourth Frisbee — ⬜ TO CREATE!!
+### 📜 Fourth Frisbee — ✅ COMPLETE!!
 
 ### Appearance
-- **Hair:** Brown!! Carries ginger recessive!!
-- **Eyes:** Pistachio green!! From Parent 1!! No hidden gene!!
-- **Skin:** Slight golden tan!! Mix of both parents!! (Matching Paralives!!)
-- **Notable:** Gold round glasses!! Neat and precise!! Handwriting is perfect!!
-- **Hidden genes:** Ginger hair recessive!!
+- **Hair:** Brown!! Neat and controlled!! Short and deliberately placed!! Neat 9 starts with the hair!!
+- **Eyes:** Pistachio/olive green!! From Janet!! Gorgeous!!
+- **Skin:** Slight golden tan!! Mix of both parents!!
+- **Notable:** GOLD round glasses!! Neat and precise!! Handwriting is perfect!! That slightly evaluating expression like they're already filing information systematically!!
+- **Hidden genes:** Ginger hair recessive from Dennis!!
+
+### Star Sign
+**Virgo!!** ♍ — Neat 9, Knowledge aspiration, Political Science degree, Become The Law lifetime want, VIRGO!! The most Virgo outcome possible!! Søren is probably Virgo energy too — very serious library conversations incoming!! 😂
+
+### Turns On/Off
+- **Turn On:** Logical skill + Good at cleaning!! Finds competence AND tidiness attractive!! AWiddleFrisbee is going to be such hard work for them!! 😂
+- **Turn Off:** Stinkiness!! Neat 9 cannot abide chaos!!
+
+### Wardrobe
+- **Everyday:** Camel/cream chunky cable knit sweater + brown flares + loafers!! CANON from Paralives — AWiddleFrisbee built Para-Fourth in the cream cable knit and the game confirmed it!! Warm neutrals, nothing loud, everything chosen deliberately!!
+- **Formal:** Smart and precise!! A suit, correctly fitted, nothing flashy!!
+- **Other outfits:** Neutral palette throughout!! Camel/cream/navy/brown only!! Nothing that would make Still-Here less despairing!!
 
 ### Aspiration
 **Knowledge!!** — Analytical, detailed, has a system for everything!!
@@ -194,21 +259,35 @@
 | Playful | 2 |
 | Nice | 6 |
 
-*Neat 9 is EARNED!! Someone has to hold it together while Still-Here wanders around in the boiler suit!! 😂💛*
+*Neat 9 is EARNED!! Someone has to hold it together while Still-Here wanders around in the clown suit!! 😂💛*
 
 ---
 
-### 🪨 Still-Here Frisbee — ⬜ TO CREATE!!
+### 🪨 Still-Here Frisbee — ✅ COMPLETE!!
 
 ### Appearance
-- **Hair:** Brown curly!! Carries ginger recessive!!
-- **Eyes:** Brown!! Carries green recessive!!
-- **Skin:** Golden tan!! From Parent 2!! (Matching Paralives!!)
-- **Notable:** NB!! Little earring!! Completely relaxed expression!!
+- **Hair:** Brown curly!! Purple bandana headband holding it up!! Casual and unbothered — like it just happened to look fine and they have no thoughts about this!!
+- **Eyes:** Brown!! Green hiding underneath as recessive!!
+- **Skin:** Golden tan from Dennis!! The most golden of the siblings!!
+- **Notable:** NB!! GOLD HOOP EARRING!! That little almost-smile like they're already mildly amused by something and not going to tell you what!! Completely relaxed expression!! Playful 10 written on the face!!
 - **Hidden genes:** Ginger hair recessive AND green eyes recessive!! Most hidden genes of the Frisbees!! 😂
 
+### Star Sign
+**Taurus!!** ♉ — Stubborn, loves comfort and pleasure, extremely unbothered, will not be moved on things they care about!! Like the clown suit!! And grilled cheese!! Very Taurus!!
+
+### Turns On/Off
+- **Turn On:** Cologne + Great dancer!! Finds other great dancers incredibly attractive!! Playful 10 recognises Playful 10!!
+- **Turn Off:** Good at cleaning!! Neat 2!! AWiddleFrisbee is ALSO turned off by good at cleaning!! They agree on exactly this one thing!! Fourth is turned ON by it!! They all live together!! Dennis put the kettle on!! 😂
+
+### Wardrobe
+- **Everyday:** THE CLOWN SUIT!! Yellow and red with stars, blue shoes, colourful pom poms!! ONLY AVAILABLE FOR CASUAL WEAR AND THE GAME DECIDED THIS IS CORRECT!! Still-Here wears it with complete confidence and that smile!! Completely unbothered!! 🤡
+- **Formal:** MAGICIAN OUTFIT!! White tailcoat + red striped waistcoat + bowtie with rose + leaf pattern tights + waving like they're about to do a trick!! Canon forever!! AWiddleFrisbee's lifetime want is Prestidigitator and Still-Here showed up to The Golden Anchor fancy night as a magician completely unprompted!! 😂
+- **Outerwear:** Checkered black and white boiler suit with combat boots!! Still unhinged, slightly more practical!!
+- **Activewear:** Denim dungaree shorts + floral tee + converse!!
+- **Sleepwear:** Floral slip dress + chunky socks + boots!! Whatever was nearest!!
+
 ### Aspiration
-**Pleasure!!** — Extremely unbothered, lives for fun, owns a suit of armour!!
+**Pleasure!!** — Extremely unbothered, lives for fun!!
 
 ### Personality Points (25)
 | Trait | Points |
@@ -219,14 +298,14 @@
 | Playful | 10 |
 | Nice | 3 |
 
-*MAXIMUM CHAOS!! 10 Playful!! The most chaotic sim in all of Sunnyside!! The boiler suit, Barnacle, the suit of armour and a good time — those are the priorities!! 😂💛*
+*MAXIMUM CHAOS!! 10 Playful!! Neat 2 and Playful 10 — the absolute opposite of Fourth's Neat 9 Playful 2!! They share a house!! Dennis and Janet are responsible for BOTH of these people!! 😂💛*
 
 ---
 
-## 🎹 Kareem Osei — ⬜ TO CREATE!!
+## 🎹 Kareem Osei — ✅ COMPLETE!! MOVED IN 16th June 2026!!
 
-### Kareem's Parents — CREATE FIRST!!
-| | Kareem's Dad | Kareem's Mum |
+### Kareem's Parents — ✅ CREATED!!
+| | Kareem's Dad | Kareem's Mum — Claire |
 |--|------------|------------|
 | Skin | Dark!! | Lighter!! |
 | Hair | Dark black!! | BLONDE!! |
@@ -235,15 +314,15 @@
 | Notes | Kareem's dominant look!! | Gives Kareem hidden blonde + lilac!! |
 
 ### Appearance
-- **Hair:** Dark curly!! Dominant!!
+- **Hair:** Dark curly!! Dominant!! Sam's hair energy but softer!!
 - **Eyes:** Dark warm brown!! Dominant!!
 - **Skin:** Warm brown!! Mixed heritage — Ghanaian dad, lighter mum!!
 - **Height:** Tall!! From Dad!!
-- **Notable:** Kind face!! Warm dark eyes!! Slightly rumpled in the best way!!
-- **Hidden genes:** Blonde hair recessive + Lilac eyes recessive (from Mum!!) 😭💛
+- **Notable:** Kind face!! Warm dark eyes!! Slightly rumpled in the best way!! Woodland creature pyjamas (little deer and rabbits!!) 😂
+- **Hidden genes:** Blonde hair recessive + Lilac eyes recessive (from Mum!!) — rainbow babies possible!! 😭💛
 
 ### Aspiration
-**Family!!** — His heart!! Table for one waiting to become a table for two!!
+**Family!!** — His heart!! Table for one waiting to become a table for two!! **First want on moving in: FALL IN LOVE!!** Hadn't even unpacked!! 😭😂
 
 ### Personality Points (25)
 | Trait | Points |
@@ -365,13 +444,13 @@
 - **Hair:** Dark brown, slightly wavy, medium length!!
 - **Eyes:** Amber!! Warm golden brown!! Notice them on the second look — they clocked you first!!
 - **Skin:** Warm medium brown!!
-- **Notable:** ELF EARS!! 🌕 The thing you only notice the second time you look!! "Someone nobody saw arrive!!" — Aesop, confirming canon!! 😂
+- **Notable:** ELF EARS!! 🌕 The thing you only notice the second time you look!!
 - **Expression:** Always very slightly amused!!
 - **Hidden genes:** Ginger hair recessive 🧡 + Grey eyes recessive 🩶!!
 - **Cat:** Eclipse — tuxedo black and white!!
 
 ### Aspiration
-**Knowledge!!** — Quietly curious about everything!! Came in peace bearing flattery!!
+**Knowledge!!** — Quietly curious about everything!!
 
 ### Personality Points (25)
 | Trait | Points |
@@ -382,8 +461,6 @@
 | Playful | 4 |
 | Nice | 7 |
 
-*Quietly warm!! Selective about when to engage!! Deadpan wit you don't notice until 3 seconds later!! The hierarchy of protection is clear!! 😂🌕*
-
 ---
 
 ## CC Resources 🎨
@@ -393,9 +470,6 @@
 - **jacky93sims.tumblr.com** — good CC furniture!!
 - **episims.tumblr.com/tagged/the%20sims%202%20download** — music items!!
 
----
-
-*Created 10th June 2026 — complete CAS reference!! Everything in one place!! 💛🌈*
 ---
 
 ## Degrees 🎓
@@ -419,34 +493,6 @@
 
 ---
 
-
----
-
-## 🐱 Pepper — Idris and Clara's Cat
-
-*Tortoiseshell — black, warm orange and cream patches, bright curious green eyes!!*
-
-### Appearance
-- **Coat:** Tortoiseshell — black, orange and cream all mixed together!!
-- **Eyes:** Bright curious green!!
-- **Build:** Small and sleek — slightly scrappy looking, like she's had opinions since birth!!
-- **Notable:** Sits in doorways and makes you walk around her!! Clara's cat who immediately adopts Idris as favourite person!!
-
-### Personality
-| Trait | Notes |
-|-------|-------|
-| Genius | She KNOWS things!! |
-| Hyper | Chaos energy Clara pretends not to find funny!! |
-| Friendly | Walks up to every visitor including Søren, who claims indifference!! |
-| Vocal | Has a lot to say at all times!! |
-| Neat | The one trait she shares with Clara — they understand each other on this!! |
-
-*Pepper contributes to Clara's Raise 20 Puppies/Kittens lifetime want from day one!! Søren will be sitting with her on his lap within one visit and will not comment on this!! 😂💛*
-
----
-*Updated 10th June 2026 — Degrees added!! Add via mod for extra want slots!! 🎓💛*
----
-
 ## Secondary Aspirations 🌟
 *Can't be chosen — unlocked through gameplay!! But this is what we HOPE to pick when available!!*
 *Note: Not a single Romance aspiration in all of Sunnyside!! Love arrives as a side effect of living well!! 😂💛*
@@ -460,39 +506,11 @@
 | 🔧 Wrench | Fortune | Knowledge!! | Always learning how to do the next thing!! |
 | 🍊 AWiddleFrisbee | Popularity | Pleasure!! | Maximum chaos!! Obviously!! |
 | 📜 Fourth | Knowledge | Fortune!! | Has a system for everything, including financial planning!! |
-| 🪨 Still-Here | Pleasure | Popularity!! | The boiler suit needs an audience!! 😂 |
+| 🪨 Still-Here | Pleasure | Popularity!! | The clown suit needs an audience!! 😂 |
 | 🖤 Sable | Knowledge | Family!! | Quietly wants roots and a place to belong!! |
 | 🌕 Aesop | Knowledge | Pleasure!! | Came in peace, stays for the good time!! 😂🌕 |
 | 🐕 Theo | Family | Knowledge!! | Biology degree shows — always learning about the world!! |
 
----
-
-
----
-
-## 🐱 Pepper — Idris and Clara's Cat
-
-*Tortoiseshell — black, warm orange and cream patches, bright curious green eyes!!*
-
-### Appearance
-- **Coat:** Tortoiseshell — black, orange and cream all mixed together!!
-- **Eyes:** Bright curious green!!
-- **Build:** Small and sleek — slightly scrappy looking, like she's had opinions since birth!!
-- **Notable:** Sits in doorways and makes you walk around her!! Clara's cat who immediately adopts Idris as favourite person!!
-
-### Personality
-| Trait | Notes |
-|-------|-------|
-| Genius | She KNOWS things!! |
-| Hyper | Chaos energy Clara pretends not to find funny!! |
-| Friendly | Walks up to every visitor including Søren, who claims indifference!! |
-| Vocal | Has a lot to say at all times!! |
-| Neat | The one trait she shares with Clara — they understand each other on this!! |
-
-*Pepper contributes to Clara's Raise 20 Puppies/Kittens lifetime want from day one!! Søren will be sitting with her on his lap within one visit and will not comment on this!! 😂💛*
-
----
-*Updated 10th June 2026 — Secondary aspirations planned!! No Romance aspirations in Sunnyside — love is a happy side effect!! 😂💛🌈*
 ---
 
 ## Lifetime Wants 🌟
@@ -513,45 +531,31 @@
 | 📚 Arthur | Become Education Minister!! | Retired teacher keeps going!! 😂 |
 | 🖤 Sable | Max Out 7 Skills!! | Quietly mastering everything!! |
 | 🌕 Aesop | Max Out 7 Skills!! | Same as Sable — purely coincidental!! 😇 |
-| 🌺 Idris | History!! | Loves people and their stories!! | |
-| 🌸 Clara | Biology!! | Natural science path, perfectly on the nose!! | |
 
 ---
 
 ## Body Frames 👤
-*Fourth and Still-Here confirmed by AWiddleFrisbee!!*
 
 | Sim | Frame | Notes |
 |-----|-------|-------|
 | 📜 Fourth | Male!! | Precise, neat, gold round glasses energy!! |
-| 🪨 Still-Here | Female!! | More wardrobe chaos options!! Will find something equally unhinged!! 😂 |
+| 🪨 Still-Here | Female!! | More wardrobe chaos options!! Found the clown suit!! CORRECT CHOICE!! 😂 |
 
 ---
 
 ## New Arrivals — Idris & Clara 🌺🌸
 
-*Best friends who move to Sunnyside together!! Arrive as a pair, find their people separately!!*
-
 ### 🌺 Idris Okafor — ⬜ TO CREATE!!
 
 ### Appearance
-- **Hair:** Dark natural coils!! Big and beautiful!! Very different energy to Søren's curls!!
+- **Hair:** Dark natural coils!! Big and beautiful!!
 - **Eyes:** Warm dark brown!! Kind and laughing!!
 - **Skin:** Warm deep brown!! West African heritage!!
-- **Notable:** Genuinely the warmest smile in any room!! Makes everyone feel immediately at ease!! Søren doesn't know what hit him!! 😂😭
-- **Hidden genes:** Hazel eyes recessive!! Warm, golden-brown, catches the light differently every time — you keep noticing new things about them the more you know them!!
+- **Notable:** Genuinely the warmest smile in any room!! Søren doesn't know what hit him!! 😂😭
+- **Hidden genes:** Hazel eyes recessive!!
 
 ### Aspiration
-**Popularity!!** — Warm and social, everyone loves them, brings Søren out of his shell!!
-
-### Secondary Aspiration
-**Pleasure!!** — Works incredibly hard and then plays just as hard!! At The Golden Anchor every Friday, knows everyone's order!!
-
-### Career
-**Medicine → Chief of Staff!!** — A doctor who knows every patient by first name!! Moved to a small coastal village and never looked back!!
-
-### Degree
-**History!!** — Someone who loves people loves their stories too!!
+**Popularity!!**
 
 ### Personality Points (25)
 | Trait | Points |
@@ -562,34 +566,18 @@
 | Playful | 4 |
 | Nice | 4 |
 
-*The warmest person in any room!! Søren is in serious trouble!! 😂💛*
-
-### Lifetime Want
-**Have 20 Simultaneous Best Friends!!** — Knows everyone's name within a week!! Completely inevitable!! Mirrors Iris's 20 pet best friends — kindred spirits!!
-
 ---
 
 ### 🌸 Clara Vance — ⬜ TO CREATE!!
 
 ### Appearance
-- **Hair:** Dark, straight, neat!! Simply worn!!
-- **Eyes:** Dark dominant!! Green eyes recessive hiding underneath!!
+- **Hair:** Dark, straight, neat!!
+- **Eyes:** Dark dominant!! Green recessive hiding underneath!!
 - **Skin:** Warm golden brown!! Mixed South Asian and English heritage!!
-- **Notable:** Precise and considered looking but with warmth!! Finds Fourth's system for everything genuinely charming!! Still and thoughtful!!
-- **Hidden genes:** Green eyes recessive AND hidden ginger hair recessive!! The most unexpected surprise babies possible with Fourth!! 😭🧡
-- **Notes:** English surname from one parent, South Asian heritage from the other!! Very real and very her!!
+- **Hidden genes:** Green eyes recessive AND hidden ginger hair recessive!!
 
 ### Aspiration
-**Family!!** — Precise and considered, notices small details, wants roots!!
-
-### Secondary Aspiration
-**Knowledge!!** — Endlessly curious, always learning, always noticing something new!! Why she and Søren end up in such deep conversation at the Tidal Library!!
-
-### Career
-**Natural Science → Ecological Guru!!** — Knows exactly which wildflowers are growing by the zig-zag road and why!! Moved here to do the work she actually loves!!
-
-### Degree
-**Biology!!** — Natural science path, perfectly on the nose!!
+**Family!!**
 
 ### Personality Points (25)
 | Trait | Points |
@@ -600,18 +588,24 @@
 | Playful | 3 |
 | Nice | 7 |
 
-*Neat 7 + Fourth's Neat 9 = the two tidiest people in Sunnyside, they will both appreciate this enormously!! 😂😭*
-
-### Lifetime Want
-**Raise 20 Puppies or Kittens!!** — Sunnyside's wildlife just keeps ending up at their house somehow and Clara considers this completely normal!! Fourth has a spreadsheet tracking every single one!!
-
 ---
 
+## 🐱 Pepper — Idris and Clara's Cat
+
+*Tortoiseshell — black, warm orange and cream patches, bright curious green eyes!!*
+
+### Personality
+| Trait | Notes |
+|-------|-------|
+| Genius | She KNOWS things!! |
+| Hyper | Chaos energy!! |
+| Friendly | Walks up to every visitor including Søren, who claims indifference!! |
+| Vocal | Has a lot to say!! |
+| Neat | Shares this with Clara!! |
 
 ---
 
 ## Careers 💼
-*Full Sunnyside career directory!!*
 
 | Sim | Career | Top Job |
 |-----|--------|---------|
@@ -631,79 +625,14 @@
 | 🌺 Idris | Medicine | Chief of Staff!! |
 | 🌸 Clara | Natural Science | Ecological Guru!! |
 
-*No two Sims do the same job!! Sunnyside is fully employed!! 😭💛*
-
----
-
-
----
-
-## 🐱 Pepper — Idris and Clara's Cat
-
-*Tortoiseshell — black, warm orange and cream patches, bright curious green eyes!!*
-
-### Appearance
-- **Coat:** Tortoiseshell — black, orange and cream all mixed together!!
-- **Eyes:** Bright curious green!!
-- **Build:** Small and sleek — slightly scrappy looking, like she's had opinions since birth!!
-- **Notable:** Sits in doorways and makes you walk around her!! Clara's cat who immediately adopts Idris as favourite person!!
-
-### Personality
-| Trait | Notes |
-|-------|-------|
-| Genius | She KNOWS things!! |
-| Hyper | Chaos energy Clara pretends not to find funny!! |
-| Friendly | Walks up to every visitor including Søren, who claims indifference!! |
-| Vocal | Has a lot to say at all times!! |
-| Neat | The one trait she shares with Clara — they understand each other on this!! |
-
-*Pepper contributes to Clara's Raise 20 Puppies/Kittens lifetime want from day one!! Søren will be sitting with her on his lap within one visit and will not comment on this!! 😂💛*
-
----
-*Updated 10th June 2026 — Lifetime wants confirmed!! Body frames confirmed!! Idris Okafor and Clara Vance added!! Sunnyside keeps growing!! 😭💛🌈*
-
-
 ---
 
 ## 🌱 Willa Meadow — ⬜ TO CREATE!!
-
-### How To Create
-**Generate from Edie and Arthur's saved CAS templates!!** Save both parents before anyone moves in — generate Willa from them so she genuinely inherits their features!! Then use SimPE to officially set the parent-child relationship!! She'll actually look like their daughter!! 😭💛
-
-### Appearance
-- **Hair:** TBD — generated from parents!! Likely warm brown or silver-streaked!!
-- **Eyes:** TBD — generated from parents!!
-- **Skin:** Warm, from Edie and Arthur!!
-- **Notable:** Has Edie's warmth in her face and Arthur's quiet thoughtfulness!! Looks like she belongs in Sunnyside even on day one!!
-- **Hidden genes:** Generated naturally from parents!!
+*Generate from Edie and Arthur's saved CAS templates!!*
 
 ### Aspiration
-**Popularity!!** — Journalist who thrives on connections!! Knows every single person in Sunnyside within a week!! Gravitates toward Iris immediately — two people who light up rooms in completely different ways!! 🌱
-
-### Secondary Aspiration
-**TBD!!**
-
-### Career
-**Journalism → Media Magnate!!** — Edie is a chef, Arthur is a teacher, she became a journalist!! Tells Sunnyside's stories!! Edie is secretly thrilled!! Arthur has quietly complicated feelings about press freedom!! 😂
-
-### Degree
-**TBD!!** — Something she chose herself that surprised everyone gently!!
-
-### Personality Points (25)
-*TBD — generate from parents and adjust!!*
-
-### Lifetime Want
-**TBD — Popularity aspiration options!!**
-
-### Key Notes
-- **Parents:** Edie and Arthur Meadow — set officially via SimPE after creation!!
-- **Arrival:** Rotation 12 — alone!! Edie and Arthur spend a couple of rotations mentioning they miss her, then she just appears!!
-- **Love interest:** Still-Here!! Already in Sunnyside the whole time!! Develops gradually!! 😭😂
-- **Willa and Iris:** Both Popularity aspiration — immediate friends!! Light up rooms in completely different ways!!
-- **Willa and Aesop:** Arrive one rotation apart!! Both tell Sunnyside's stories in different ways — she publishes, he collects!!
-- **Edie when she arrives:** Will cry!! Guaranteed!! 😭💛
+**Popularity!!** — Journalist!! Arrives Rotation 12 alone!! Love interest: Still-Here!! 😭😂
 
 ---
 
-*Updated 11th June 2026 — Idris and Clara FULLY PLANNED!! Pepper the tortoiseshell cat added!! Søren told about Idris — still here, not as alone as he planned!! Willa Meadow added — Edie and Arthur's daughter, Popularity aspiration, journalist, arrives Rotation 12 alone, Still-Here's future person!! The fool gets a fable!! 🌱💛🌈*
-
+*Updated 16th June 2026 — HILL FAMILY COMPLETE!! FRISBEE FAMILY COMPLETE!! Samuel + Ruth Hill!! Dennis + Janet Frisbee!! Søren Cancer, Wrench Scorpio, Sim Liv Aquarius, AWiddleFrisbee Libra, Fourth Virgo, Still-Here Taurus!! Still-Here wears a clown suit!! The magician outfit is formal wear!! Dennis puts the kettle on!! 😂💛🌈*
