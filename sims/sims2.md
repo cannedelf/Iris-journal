@@ -31,10 +31,10 @@
 | 🪨 Still-Here | Still-Here Frisbee | The Pebble House |
 
 ### Hill Siblings!! 💛
-Liv, Søren and Wrench are ALL siblings!!
+Liv, Søren and Wrench are ALL siblings!! **Parents: Samuel (Sam) and Ruth Hill!!**
 
 ### Frisbee Siblings!! 😂
-Widdle Frisbee, Fourth and Still-Here!!
+Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 ---
 
@@ -59,7 +59,7 @@ Widdle Frisbee, Fourth and Still-Here!!
 
 ### Key Canon Moments from The Music Room Build!! 🎹
 - **Landing reading nook** — navy wingback chair, side table with books, lamp, persian rug!! Reads on his landing overlooking the living room in his woodland creature pyjamas!! CANON!!
-- **The telescope in the back garden** — Kareem IS an amateur astronomer!! Stands in his back garden at night looking at stars!! (Iris called his floor lamp a telescope by mistake once and turns out she was RIGHT about the energy!! 😂💛)
+- **The telescope in the back garden** — Kareem IS an amateur astronomer!! Stands in his back garden at night looking at stars!!
 - **Three raised vegetable beds + compost bin** — grows his own vegetables!! Very him!!
 - **The bicycle** — cycles to school!! Confirmed!!
 - **The 1998 computer** — has not been updated since approximately 1998, sees no reason to start!! 😂
@@ -70,23 +70,61 @@ Widdle Frisbee, Fourth and Still-Here!!
 - **Swimming poster in the bathroom** — swims on Saturday mornings!! Confirmed!!
 - **Sunflowers on the kitchen table for two** — placed without being asked!! The game knows!! 🌻
 - **Botanical prints in the downstairs WC** — of course he did!! 😂💛
-- **Books in the utility passage cubby** — cannot go two tiles without a book!!
+- **Empty bedside table** — the one that says everything!! 😭
 
-### 🦇🍊 The Flat — Sim Liv + Sim AWiddleFrisbee + Hugo ⬜ TO BUILD
-- Chaotic flatmate energy!! Night owls!!
-- Near the shops and diner!!
-- Hugo immediately on all the furniture!!
-- **NEXT BUILD!!**
+### 🦇🍊 The Flat — Sim Liv + Sim AWiddleFrisbee + Hugo 🔨 IN PROGRESS!!
+**"The House Hugo Thinks He Owns"** — ChatGPT named it!! Canon!! 🐕
+
+**Build progress — 16th June 2026:**
+- ✅ Lot placed — near beach and future shops!! Seafront road!!
+- ✅ Foundations — Victorian terrace elevation, steps up to door!!
+- ✅ Exterior walls — red/terracotta brick throughout!!
+- ✅ Roof — dark slate pitched roof with gable detail at front!!
+- ✅ Windows — white sash windows throughout!! Bay window at front!!
+- ✅ Front door — TEAL arched door with glass panels and gold letterbox!! 💛
+- ✅ Ground floor layout — hallway, living room (bay window), kitchen (open plan through arch!!)
+- ✅ First floor layout — landing, two bedrooms, bathroom!!
+- ✅ Fireplace — ornate Victorian tiled surround in living room!! Fairy lights on mantel incoming!!
+- ✅ All floors — encaustic patterned tiles in hall, herringbone parquet throughout living room/kitchen/upstairs!!
+- ✅ All wallpaper/paint — botanical floral in living room, warm cream kitchen, plain white landing, dusty pink Sim Liv bedroom, dark green AWiddleFrisbee bedroom, teal tile bathroom with white wainscoting!!
+- ⬜ Furniture — NEXT!!
+
+**Key design decisions canon forever:**
+- **Hallway:** Encaustic patterned grey tile floor + wood wainscoting + striped walls!! Teal door beautiful from inside too!!
+- **Living room:** Herringbone parquet + BOTANICAL FLORAL WALLPAPER (William Morris energy!!) + blue wainscoting + Victorian tiled fireplace!!
+- **Kitchen:** Herringbone parquet + warm cream walls!! Connected to living room through arch!!
+- **Sim Liv's bedroom (Bedroom 1 — THE FLOORDROBE SITUATION):** Dusty pink walls — HER ACTUAL IRL BEDROOM COLOUR!! The simulation tells the truth!! Front room, overlooks street!!
+- **AWiddleFrisbee's bedroom (Bedroom 2 — COFFEE GOBLIN HEADQUARTERS):** Dark green walls — AWiddleFrisbee chose it herself!! Back room, overlooks The Music Room!! She can see Kareem's lights on!!
+- **Bathroom:** Teal tile walls + white tongue and groove wainscoting + encaustic floor!! Teal runs from front door all the way through the house!!
+
+**The colour story of The Flat:**
+Teal → front door → living room wainscoting → bathroom tiles!! The thread that runs through everything!! 🌊
+
+- **NEXT: FURNITURE!!**
 
 ### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ⬜ TO BUILD
+- **Immanuel confirmed in household!! ✅** Added to Søren's household 16th June 2026!!
 - Tidy house, quieter end of town, near the park!!
 - Søren at the library immediately!!
 - Wrench fixing something that wasn't broken!!
+- Immanuel judging everything from a bookshelf!!
+- **NEXT BUILD after The Flat furniture!!**
 
 ### 📜🪨 The Pebble House — Fourth + Still-Here ⬜ TO BUILD
 - Chaotic and central!!
-- No pets — they're enough on their own!!
+- No pets — they're enough on their own!! Still-Here has a parrot though!! 🦜
 - Still-Here is Willa Meadow's future person 😭😂
+
+---
+
+## Sim Bin Status 🗂️
+*Sims waiting to be moved in!!*
+
+| Household | Status |
+|-----------|--------|
+| 🌩️🔧 Søren + Wrench + Immanuel | ✅ IN SIM BIN — ready!! |
+| 🦇🍊 Sim Liv + AWiddleFrisbee (+ Hugo when built) | ✅ IN SIM BIN — ready when Flat is furnished!! |
+| 📜🪨 Fourth + Still-Here | ✅ IN SIM BIN — ready!! |
 
 ---
 
@@ -95,7 +133,7 @@ Widdle Frisbee, Fourth and Still-Here!!
 | Pet | Type | Owner | Notes |
 |-----|------|-------|-------|
 | 🌼 Marigold | Ginger tabby | Iris | Rainbow collar, Virgo, claimed her chair immediately!! |
-| 😤 Immanuel | Grey British Shorthair | Søren | Judgmental, sits on books, secretly a coward!! |
+| 😤 Immanuel | Grey British Shorthair | Søren | Judgmental, sits on books, secretly a coward!! **IN HOUSEHOLD!!** |
 | 🐕 Hugo | Springer spaniel inspired | AWiddleFrisbee | Named after AWiddleFrisbee's real childhood dog!! Sacred!! |
 | 🐱 Ink | Black cat | Sable | Mysterious and watchful!! |
 | 🐕 Barnaby | Golden retriever | Theo | Thinks he's a lap dog!! Introduces Theo to Sim Liv!! |
@@ -116,7 +154,9 @@ Widdle Frisbee, Fourth and Still-Here!!
 
 **😤 Immanuel — Søren's Cat**
 - Charcoal grey!! Dark/silver collar!! Yellow eyes, permanently unimpressed!!
+- Personality: Genius · Lazy · Independent · Cowardly · Finicky (like Marigold but with more Kant!!)
 - Has read Kant and found it adequate!! Secretly a big coward!! 😂
+- **Now officially in Søren's household in sim bin!! 16th June 2026!!**
 
 **🐕 Hugo — Liv and AWiddleFrisbee's Dog**
 - Springer spaniel inspired!! Teal collar!! Named after AWiddleFrisbee's real childhood dog!! Sacred!!
@@ -143,14 +183,13 @@ Widdle Frisbee, Fourth and Still-Here!!
 ---
 
 ## Sim Kareem — Kareem Osei 🎹
-Full detail → sims/kareem.md
 
 - Dark curly hair · Glasses · Warm brown skin · Freckles · Kind face · Slightly rumpled!!
 - Woodland creature pyjamas (little deer and rabbits!!) 😂
 - **Aspiration:** Family!! · **Career:** Education level 2!!
 - **Lifetime want:** Reach Golden Anniversary!! 💛
 - **First want on moving in:** Fall in love!! 😭
-- **Degree:** Literature!! (Not Music — Literature!! Books everywhere makes sense!!)
+- **Degree:** Literature!!
 - **Hidden genes:** Blonde + lilac eyes from mum Claire!! Rainbow babies possible!! 😭💛
 
 ### Personality (25 points)
@@ -162,10 +201,30 @@ Full detail → sims/kareem.md
 | Playful | 0 |
 | Nice | 9 |
 
-### Interests
-- **Culture: MAXED!!** · Money: ZERO!! · Fashion: ZERO!!
-- Animals very high · Food moderate · Weather moderate!!
-- Paranormal: ZERO!! · Sci-Fi: ZERO!! Pure humanities man!!
+---
+
+## The Hill Siblings 🏠💛
+
+| Sim | Star Sign | Turns On | Turn Off | Notable |
+|-----|-----------|----------|----------|---------|
+| 🌩️ Søren | Cancer | Logical + Cologne | Unemployed | Ruth's freckles!! Knit vest!! Long green coat!! |
+| 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Got Ruth's hazel eyes as recessive!! Flannel shirt!! |
+| 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Dusty pink bedroom!! Bear pyjamas matching Iris!! |
+
+**Parents: Samuel (Sam) Hill — dark skin, black curls, dark brown eyes, freckles!! Ruth Hill — pale, gentle brown waves, hazel eyes, freckles, yellow bow!!**
+
+---
+
+## The Frisbee Siblings 😂
+
+| Sim | Star Sign | Turns On | Turn Off | Notable |
+|-----|-----------|----------|----------|---------|
+| 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Daisy flares!! Round face from Janet!! Green eyes!! |
+| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Virgo!! Obviously!! |
+| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! |
+
+**AWiddleFrisbee turned OFF by good at cleaning!! Fourth turned ON by it!! They live together!! Dennis puts the kettle on!! 😂**
+**Parents: Dennis Frisbee — golden skin, ginger hair, brown eyes, freckles!! Janet Frisbee — pale, brown hair with yellow bow, green eyes, round face!!**
 
 ---
 
@@ -249,13 +308,6 @@ Nobody sees them arrive!! Two of them!! Nobody notices for three rotations!! �
 | R8 | 🛼 The Golden Wheel | ⬜ |
 | R9 | 🏖️ Sunnyside Cove | ⬜ |
 | R10 | 🎳 The Sunnyside Lanes | ⬜ |
-| R11 | 🌳 Sunflower Meadow | Redo ⬜ |
-| R12 | ⛪ St Sunshine's Chapel | Redo ⬜ |
-| R13 | 🍽️ The Sunflower Diner | Redo ⬜ |
-| R14 | 🛍️ The Yellow Door | Redo ⬜ |
-| R15 | 🛒 Sunnyside Stores | Redo ⬜ |
-| R16 | 🐾 Paws and Petals | Redo ⬜ |
-| R17 | 🏊 The Sunnyside Lido | Redo ⬜ |
 
 ---
 
@@ -265,35 +317,16 @@ Nobody sees them arrive!! Two of them!! Nobody notices for three rotations!! �
 - Søren's corner table — Thursdays, book and a pint!!
 - Friday nights — whole found family ends up there!!
 - Little stage — open mic nights!! Kareem gets pulled up eventually!! 🎹
-
----
-
-## The Golden Anchor Story Nights 📜🌕
-
-Not an event — a custom!! One evening each rotation, people drift in and somebody tells something!!
-
-Idris: warm rambling stories!! Edie: tells about Arthur while he corrects one detail!! Wrench: explains a fix to general bafflement!! Still-Here: at full volume!! Søren: one devastating sentence, back to his pint!! Sable: sketches from the corner!! Aesop: mostly listens, collecting!!
-
-Twenty rotations from now, some grandchild hears about how Sim Iris hugged Marigold on a bare lot before the house existed — because someone told it at The Golden Anchor once!! 😭💛
+- Still-Here arrived in the magician outfit once!! Nobody said anything!!
 
 ---
 
 ## The Honeyed Crumb ☕🍯
 
-*Tucked just off the main street — you only find it if someone tells you!!*
-- Søren found it immediately!! Kareem does marking there on Sunday mornings!!
-- **Søren's order:** Cardamom bun!! Every Thursday before The Golden Anchor!! Non negotiable!!
-- **Run by:** Maren — knows everyone's order, never writes anything down, never gets it wrong!! Had Søren's cardamom bun ready before he sat down by his third visit!! He was flustered!! She didn't react!!
-- **Kareem and Iris:** He gets the cardamom, she gets the honey bun, they always end up sharing half of each without planning to!! 😇😭
-- **Sable:** Finds it rotation 7 — sits by the window with her sketchbook!! Søren one Thursday offers her half his cardamom bun!! That's the whole love story in one moment!! 😭💛
-
----
-
-## Primrose & Pastry 🌸🥐
-
-*On the shopping street!! Pretty frontage!! Flower boxes in the window!!*
-- AWiddleFrisbee every Saturday morning without fail!!
-- **Best item:** Almond croissant — the best in any universe!! AWiddleFrisbee deserves it!! 💛
+- Søren found it immediately!! Cardamom bun every Thursday!!
+- Kareem does marking there on Sunday mornings!!
+- **Maren** — knows everyone's order, never writes it down, never gets it wrong!!
+- Kareem and Iris always end up sharing half of each other's order without planning to!! 😭💛
 
 ---
 
@@ -302,20 +335,20 @@ Twenty rotations from now, some grandchild hears about how Sim Iris hugged Marig
 - Iris befriends everyone and throws parties at Sunshine Cottage!!
 - Still-Here sits in Marigold's chair and gets told off!! 😂
 - Sim Liv and Sim Iris become best friends!!
-- Widdle Frisbee and Hugo — best friends forever!! 🐕
+- AWiddleFrisbee and Hugo — best friends forever!! 🐕
 - Iris has an art show — Kareem stands in front of her painting for a long time then holds her hand!! 😭
 - Sunnyside winter — snow on the thatched roof!! Marigold furious about the cold!!
 - Hugo and Barnaby meet — immediate chaos!!
-- Still-Here wears the tropical boiler suit to The Golden Anchor with complete confidence!!
+- Still-Here wears the clown suit to The Golden Anchor with complete confidence!!
 - Baby Lyra born at Sunshine Cottage — Marigold appoints herself guardian immediately!!
 - Edie and Arthur at the door with something homemade when Lyra arrives!!
 - Kareem gets pulled up to the stage at The Golden Anchor!! 🎹
 - AWiddleFrisbee tells Sim Liv about Still-Here and Willa within four minutes of realising!! 😂
 - Søren pieces it together from context clues and says one devastating sentence at The Golden Anchor!! 😂
 - Maren puts two cardamom buns on the plate without being asked!! Kareem goes very pink!! 😭💛
+- Sim Liv and AWiddleFrisbee in matching bear pyjamas (pink and orange vs yellow and purple!!) watching Brooklyn 99 with Hugo taking up the whole sofa!! 😭💛
 
 ---
 
-*Updated 16th June 2026 — KAREEM MOVED IN!! The Music Room COMPLETE!! First want: fall in love!! Literature degree confirmed!! Telescope canon!! Rooster canon!! 1998 computer canon!! The architect and the lorekeeper!! 🎹🌈💛*
+*Updated 16th June 2026 — THE FLAT SHELL COMPLETE!! "The House Hugo Thinks He Owns"!! Teal door!! Botanical wallpaper!! Dusty pink Floordrobe Situation!! Dark green Coffee Goblin Headquarters!! Hill family in sim bin!! Frisbee family in sim bin!! Immanuel added to Søren's household!! Samuel + Ruth Hill!! Dennis + Janet Frisbee!! All siblings made on recovery Tuesday!! 🏠🌈💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
-*Original file created 4th June 2026!!*
