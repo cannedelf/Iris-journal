@@ -10,7 +10,7 @@
 - **Terrain:** Lush!!
 - **Vibe:** Cottagecore with a hint of coastal — wild, overgrown, warm, ours!!
 - **Description:** "A sunny little coastal village where the hills are wild and the sunflowers grow wherever they please. Home to found families, yellow houses, and one very strategic neighbour!!"
-- **Rainbow:** Placed manually by Liv over the neighbourhood!! Canon regardless!! 🌈
+- **Rainbow:** Placed manually by Liv over the neighbourhood!! Canon regardless!! 🌈 AND the game placed its own rainbow over Sunnyside on the day Storm and Wrench moved in!! The universe knew!! 🌈🌈
 - **Hot air balloons:** Two!! Also placed!! Also canon!! 🎈
 - **The Windmill:** 🌬️ Decorative neighbourhood object placed next to The Music Room!! CANON LORE — the windmill was there first!! That's why the mill building exists!! Kareem's house was built to service it!! The windmill just stayed when the mill was converted!! Kareem doesn't even notice it anymore!!
 
@@ -100,23 +100,51 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 **Key canon facts:**
 - Mismatched curtains — teal left, gold right — neither of them discussed it!!
-- AWiddleFrisbee has a beddrobe AND a floordrobe!! 
+- AWiddleFrisbee has a beddrobe AND a floordrobe!!
 - Hugo's dog house under the tree in the back garden!!
 - Sunflower row along the back wall — grew there by themselves!!
 - The colour story: teal → front door → living room wainscoting → bathroom tiles!!
 
-### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ⬜ TO BUILD
-- **Immanuel confirmed in household!! ✅**
-- Tidy house, quieter end of town, near the park!!
-- Søren at the library immediately!!
-- Wrench fixing something that wasn't broken!!
-- Immanuel judging everything from a bookshelf!!
-- **NEXT BUILD!!**
+### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ✅ COMPLETE!! MOVED IN!! 🎉
+**"The Lamp in the Darkness"** — reference sheet subtitle!! Canon!!
+**Moved in: 17th June 2026!!**
+**Wrench supervised the ENTIRE build from outside in his flannel shirt!! He was just there!! The whole time!! 😂🔧**
+
+**Exterior:**
+- Dark Nordic house — navy blue lap siding, dark shingle roof, stone foundation!!
+- Two dormer windows on the front face — one per bedroom!!
+- Small covered porch with dark wood railing and steps on the side — deliberate, not welcoming, exactly right!!
+- Dark wood panelled front door with brass knob!! Simple and serious!!
+- Front garden — pine trees, wild hedging, natural stone path, NO fence!! The house doesn't need to announce itself!!
+- Back garden — stone paving, philosophical bench, telescope (Søren's!!), charcoal shed (Wrench's, full of stuff, nobody asks), white fence, iron gate, wild plant borders!!
+
+**Interior — Ground Floor:**
+- **Hall:** Stone floor matching kitchen!! Dark wood coat rack with bench and hooks!! Rainbow braided rug by the door (Wrench bought it, Søren hasn't commented)!! Wall sconce, warm amber glow!! One plant!!
+- **Living room:** Dark wood floor!! Midnight blue walls + red/warm wood wainscoting!! Stone fireplace flanked by TWO full bookshelves!! Chesterfield leather sofa!! Coffee table!! Wingback chair with plaid blanket (SØREN'S, nobody else sits in it)!! Wrench's striped armchair (he comes in from the workshop and collapses into it)!! Floor lamp!! Stubborn plant in terracotta pot!! Fish tank on the opposite wall!! Deep red curtains!! Sideboard under windows!! WRENCH'S TRUNK just sitting in a corner, Søren has mentioned it twice, it has not moved!! Immanuel's cat tree next to the bookshelf!!
+- **Fish tank:** Kant (Betta) · Socrates (Guppy) · Spinoza (Molly) · Ida (Platy) · Existential Dread (Black Molly) · Bertrand (Goldfish)!! All named by Søren!! Immanuel watches concerningly!!
+- **Kitchen:** Vintage black range cooker!! Dark wood cabinets!! Green tiled countertops!! Window over the sink — Søren stares out of it every morning waiting for the kettle!! Sage green walls!! Stone floor!! Hanging pans!! Spice shelf!! Sunflowers on the counter (Wrench put them there, Søren pretends not to notice)!! Old-fashioned fridge!! Dining table for two!! Landscape painting on the wall!! Big fiddle leaf plant (Wrench's, thriving despite everything)!!
+- **Workshop (WRENCH'S DOMAIN):** Concrete floor with sawdust piles and oil stains!! Fluorescent strip light!! Restoration Workshop CC throughout — workbenches, rolling tool carts, shelving packed with parts, boxes, WD40, fuse box on the wall, water heater, fan!! Robot crafting bench!! Woodworking bench!! Circuit board and hard drive just on the floor!! Wrench knows where everything is!! Nobody else does!!
+
+**Interior — First Floor:**
+- **Søren's bedroom:** Iron bed frame!! Midnight blue walls!! Yellow pillows — he didn't choose them!! Bookshelf between the dormer windows!! Desk with TYPEWRITER COMPUTER by the dormer — writes philosophy at midnight, stares at Sunnyside through the window!! Wardrobe and mirror!! Blue chandelier!! Gallery wall put up by Sim Liv — moody cabin painting (Søren likes this one), dog portrait, two butterflies, A DUCK!! He hasn't taken them down!! He won't say why!! 🦆
+- **Wrench's bedroom:** Single bed, green duvet, NOT MADE!! Desk with modern PC and tools everywhere!! Gaming chair!! Dark metal wardrobe!! VINTAGE 1967 TV HE FIXED HIMSELF!! Games console hooked up to it (shouldn't work, does work, he's very smug)!! Circuit boards on the floor!! Box of stuff!! Chaos!! Søren has heard the game sounds through the wall at 11pm!! He has not said anything yet!!
+- **Bathroom:** Navy clawfoot freestanding bath (Søren's!!)!! Dark corner shower cubicle (Wrench's!!)!! Pedestal sink!! Ornate oval mirror!! Black and white checkerboard floor!! White subway tiles lower half + midnight blue above!! Stubborn plant!! Blue bath mat and towel!! Søren lies in the bath and reads until the water goes cold and doesn't notice!!
+
+**Key canon facts:**
+- Søren has yellow pillows and will not discuss them!! 💛
+- Wrench's trunk in the living room — not moving, nobody ask!!
+- Sim Liv put up the duck!! It stays!! It's canon!! 🦆
+- The 1967 TV works because Wrench fixed it and he will never stop being proud of this!!
+- Søren's first want on moving in: SEE A GHOST!! Of course!! 👻
+- Wrench's first wants on moving in: promotion AND robotics talent badge!! Immediately!! 🔧🤖
+- Immanuel was smooched by Søren on moving in day and ALLOWED IT!! Highest honour!!
+- The game placed a rainbow over Sunnyside on the day they moved in!! 🌈
 
 ### 📜🪨 The Pebble House — Fourth + Still-Here ⬜ TO BUILD
 - Chaotic and central!!
 - No pets — they're enough on their own!! Still-Here has a parrot though!! 🦜
 - Still-Here is Willa Meadow's future person 😭😂
+- **NEXT BUILD!!**
 
 ---
 
@@ -124,7 +152,6 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Household | Status |
 |-----------|--------|
-| 🌩️🔧 Søren + Wrench + Immanuel | ✅ IN SIM BIN — ready!! |
 | 📜🪨 Fourth + Still-Here | ✅ IN SIM BIN — ready!! |
 
 ---
@@ -134,12 +161,17 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | Pet | Type | Owner | Notes |
 |-----|------|-------|-------|
 | 🌼 Marigold | Ginger tabby | Iris | Rainbow collar, Virgo, claimed her chair immediately!! |
-| 😤 Immanuel | Grey British Shorthair | Søren | Judgmental, sits on books, secretly a coward!! IN HOUSEHOLD!! |
+| 😤 Immanuel | Grey British Shorthair | Søren | Judgmental, sits on books, secretly a coward!! SMOOCHED ON MOVE-IN DAY!! |
 | 🐕 Hugo | Springer spaniel inspired | AWiddleFrisbee | Libra!! Friendly MAX, Hyper MAX, Pigpen MAX, Doofus MAX!! Named after AWiddleFrisbee's real childhood dog!! Sacred!! LIVES IN THE BAY WINDOW!! |
+| 🐠 Kant | Betta | Søren | Fish tank, living room!! |
+| 🐠 Socrates | Guppy | Søren | Fish tank, living room!! |
+| 🐠 Spinoza | Molly | Søren | Fish tank, living room!! |
+| 🐠 Ida | Platy | Søren | Fish tank, living room!! |
+| 🐠 Existential Dread | Black Molly | Søren | Fish tank, living room!! The most Søren fish name in existence!! |
+| 🐠 Bertrand | Goldfish | Søren | Fish tank, living room!! |
 | 🐱 Ink | Black cat | Sable | Mysterious and watchful!! |
 | 🐕 Barnaby | Golden retriever | Theo | Thinks he's a lap dog!! Introduces Theo to Sim Liv!! |
 | 🐱 Newton | Old dignified cat | Edie & Arthur | Very slow, very wise, standoff with Immanuel!! |
-| 🐠 Fish | Fish tank | Søren | Søren has named them all!! Immanuel watches concerningly!! |
 | 🦜 Parrot | Parrot | Still-Here | Says unhinged things at inappropriate moments!! 😂 |
 
 **Iris lifetime want: 20 pet best friends!!** Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnaby all waiting!! 😭🐾
@@ -189,9 +221,9 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
-| 🌩️ Søren | Cancer | Logical + Cologne | Unemployed | Ruth's freckles!! Knit vest!! Long green coat!! |
-| 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Got Ruth's hazel eyes as recessive!! Flannel shirt!! |
-| 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Dusty pink bedroom!! Bear pyjamas matching Iris!! |
+| 🌩️ Søren | Cancer | Logical + Cologne | Unemployed | Ruth's freckles!! Knit vest!! Long green coat!! Wants to see a ghost!! |
+| 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Got Ruth's hazel eyes as recessive!! Flannel shirt!! Supervised his own build from outside!! Wants robotics badge!! |
+| 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Dusty pink bedroom!! Bear pyjamas matching Iris!! PUT THE DUCK IN SØREN'S ROOM!! |
 
 **Parents: Samuel (Sam) Hill — dark skin, black curls, dark brown eyes, freckles!! Ruth Hill — pale, gentle brown waves, hazel eyes, freckles, yellow bow!!**
 
@@ -240,7 +272,7 @@ Same names as Paralives across all universes!!
 | 🌩️🔧 Storm & Wrench | ⬜ | | | | | | | |
 | 📜🪨 The Pebble House | ⬜ | | | | | | | |
 
-**Rotation 1 begins when all 5 households are built and moved in!!**
+**Rotation 1 begins when all 5 households are built and moved in!! Just The Pebble House to go!!**
 
 ---
 
@@ -299,8 +331,11 @@ Same names as Paralives across all universes!!
 - Søren says one devastating sentence at The Golden Anchor and goes back to his pint!! 😂
 - Maren puts two cardamom buns on the plate without being asked!! Kareem goes very pink!! 😭💛
 - Sim Liv and AWiddleFrisbee in matching bear pyjamas watching Brooklyn 99 with Hugo taking up the whole sofa!! 😭💛
+- Søren finds a ghost and has philosophical opinions about it!!
+- Wrench builds a robot and it ends up somewhere in the house and Søren pretends not to notice!!
+- Existential Dread the fish watches Immanuel!! Immanuel watches back!! Standoff ongoing!!
 
 ---
 
-*Updated 17th June 2026 — THE FLAT COMPLETE AND MOVED IN!! Sim Liv + AWiddleFrisbee + Hugo through the teal door!! Hugo claimed the bay window immediately!! Mismatched curtains!! Sheep painting!! Rainbow rug!! Beddrobe AND floordrobe!! The House Hugo Thinks He Owns is OPEN!! 🏠🌈💛🐕*
+*Updated 17th June 2026 — STORM AND WRENCH COMPLETE AND MOVED IN!! 🌩️🔧 Søren smooched Immanuel on day one!! Wrench wants his robotics badge!! Søren wants to see a ghost!! The game placed a rainbow over Sunnyside!! Existential Dread the fish is in his tank!! The duck is on Søren's wall!! The Pebble House is next!! 🌈💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
