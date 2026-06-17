@@ -160,165 +160,12 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 ### Build Progress — ALL COMPLETE!! ✅
 | Area | Status |
 |------|--------|
-| Lot placed | ✅ 30x30, road between Sunshine Cottage and shops!! |
-| Footprint | ✅ Irregular — two bump outs!! |
-| Walls | ✅ Ground + first floor!! |
-| Roof | ✅ Three sections — main tall gable + two lower subsidiary roofs!! |
-| Exterior walls | ✅ Dark grey/charcoal stone throughout!! |
-| Windows | ✅ Black grid windows — no CC needed!! |
-| Front door | ✅ Dark green heavy double door with iron hardware!! |
-| Back door | ✅ Simple single dark green door!! |
-| Stairs | ✅ |
-| Landing railing | ✅ Dark iron railing overlooking living room!! 😭 |
-| Living room | ✅ COMPLETE!! |
-| Kitchen | ✅ COMPLETE!! |
-| Hall | ✅ COMPLETE!! |
-| Study | ✅ COMPLETE!! |
-| WC | ✅ COMPLETE!! |
-| Utility passage | ✅ COMPLETE!! |
-| Bedroom | ✅ COMPLETE!! |
-| Bathroom | ✅ COMPLETE!! |
+| All rooms | ✅ COMPLETE!! |
 | Front garden | ✅ COMPLETE!! |
 | Back garden | ✅ COMPLETE!! |
 
-### Exterior ✅
-- Dark grey/charcoal irregular stone — both floors!!
-- Three roof sections — main steep gable + two lower subsidiary roofs on bump outs!!
-- Dark green heavy double door with iron arch!!
-- Black grid windows throughout!!
-- White climbing flowers up right wall of front!!
-- Stone cobble path from door to pavement!!
-- Low stone boundary wall with gap for path!!
-- Large tree on left side!!
-- Wild flower borders!!
-
-### Key Architectural Moments
-- **Double height living room** — void above right section!!
-- **Open landing with dark iron railing** looking down into living room!! 😭💛
-- **Landing reading nook** — navy wingback chair, side table, books, lamp, persian rug!! Reads on his landing in woodland creature pyjamas overlooking the living room!! CANON!!
-
-### Living Room ✅
-- Dark rich warm wood floor!!
-- Cream plaster walls — exterior stone showing through on fireplace wall naturally!!
-- Stone fireplace centered on stone wall — wooden mantel, iron tools, logs!!
-- Mahogany upright piano against far wall, sheet music on stand!! 🎹
-- Deep forest green sofa!!
-- Worn brown leather armchair — his reading chair!!
-- Dark wood coffee table with books stacked on top!!
-- Floor to ceiling bookshelves, full of books!!
-- Multiple plants everywhere!!
-- Brass floor lamps!!
-- Mismatched gallery wall — portraits, paintings, decorative plate, silhouette!!
-- Books in basket by fire!!
-- Reading nook: leather armchair + brass lamp by triple windows!!
-- **No TV!!**
-
-### Kitchen ✅
-- Stone floor (matching downstairs wet rooms!!)
-- Dark wood cabinets with glass fronts and copper ring handles!!
-- Wood countertops!!
-- Stone splashback tile strip above counters!!
-- Vintage cream oven!!
-- Copper pan rack hanging from ceiling!!
-- Coffee machine!!
-- Cream retro fridge!!
-- Small table for TWO with sunflowers in a vase — placed without being asked!! 🌻
-- Two mismatched chairs!!
-- University pennants on wall!!
-- Wall clock!!
-
-### Hall ✅
-- Dark warm wood floor (flowing from living room!!)
-- William Morris botanical wallpaper — dark sage green with cream and white florals!! Already has dado rail built in!!
-- Industrial black cage pendant light!!
-- Console table with decorative drawers and copper ring handles!!
-- Oval mirror above console!!
-- Small lamp on console!!
-- Plant in corner!!
-- Two internal doors visible — hall connects everything!!
-
-### Study ✅
-- Dark warm wood floor!!
-- Deep solid sage green walls — serious and quiet!!
-- Floor to ceiling bookshelves along entire back wall — full, with decorative objects tucked in!!
-- Large ornate dark wood desk with green lamp!!
-- **1998 computer** — has not been updated since approximately 1998, sees no reason to!! 😂
-- Grey office chair!!
-- Plaid armchair in corner near windows — reading chair!!
-- Wall of travel paintings — coastlines, mountains, architecture, sailboat!!
-- Noticeboard full of papers and pins!!
-- Printer!!
-- Plant!!
-- Industrial black cage pendant light (matching hall!!)
-- No curtains — bare industrial windows, deliberately serious!!
-
-### WC ✅
-- Stone floor (matching kitchen!!)
-- Vintage wooden sink vanity!!
-- Oval mirror!!
-- Botanical prints on wall — of COURSE he did!! 😂💛
-- Small cabinet!!
-
-### Utility Passage ✅
-- Stone floor!!
-- Mudroom unit — backpack, sun hat, trainers, books in cubby!!
-- Little doormat!!
-- Dark green back door!!
-
-### Bedroom ✅
-- Dark warm wood floor!!
-- Dark charcoal damask wallpaper — tone on tone, quiet and beautiful!!
-- Iron bedframe with gold fittings!! Blue plaid bedding!!
-- Two bedside tables with matching lamps either side (the empty one says everything!! 😭)!!
-- Navy blue curtains matching the bedding!!
-- Dark wood wardrobe!!
-- Navy blanket chest at foot of bed!!
-- Patterned rug!!
-- Full length mirror on wall!!
-- Tufted grey/blue armchair in corner by window!!
-- Tall plant!!
-- Gallery wall above bed — anchor, nature plaque, sailing ship, and one inexplicable rooster!! Canon forever!! 😂💛
-
-### Bathroom ✅
-- Warm irregular stone floor (different from kitchen but equally right!!)
-- Cream plaster walls!!
-- Two tall black grid windows on back wall — industrial and dramatic!!
-- Clawfoot bath with GOLD feet and gold taps!! Between the two windows!! 😭
-- Curved glass shower pod!!
-- Climbing plant growing up the right wall!! 🌿
-- Bath mat!!
-- Pedestal sink with gold taps!!
-- Ornate oval mirror!!
-- Wooden toilet seat!!
-- Tiffany style wall sconce lamp!!
-- Towel rail with towels!!
-- **Vintage swimming poster** — he swims on Saturday mornings!! Canon!! 🏊
-
-### Front Garden ✅
-- Stone cobble path from door to pavement!!
-- Low stone boundary wall with gap for path!!
-- Large tree on left!!
-- White climbing flowers up right front wall!!
-- Wild flower borders along stone wall!!
-- Green bench by front door!!
-- Bicycle leaning against wall — cycles to school!! Canon!! 🚲
-- Little gnome!!
-- Flower urn!!
-- Wall lantern beside front door!!
-
-### Back Garden ✅
-- Stone cobble patio extending from back door!!
-- Bench on patio!!
-- Three raised vegetable beds — grows his own vegetables!! 🌱
-- Compost bin — he composts!! Very him!!
-- **Telescope** — amateur astronomer!! Stands in back garden at night looking at stars!! Canon!! 🔭
-- Wild flowers along back boundary wall!!
-- Stone stepping stones across lawn!!
-- Potted flowers near tree!!
-- Back garden has INCREDIBLE view of river and rolling hills!!
-
 ### Key Canon Facts — Kareem 🎹
-- **Literature degree** — NOT Music!! Literature!! Books everywhere makes perfect sense!!
+- **Literature degree** — NOT Music!! Books everywhere makes perfect sense!!
 - **Woodland creature pyjamas** — little deer and rabbits!! 😂
 - **Cycles to school** on the bicycle!!
 - **Swims on Saturday mornings** — swimming poster confirmed it!!
@@ -327,10 +174,75 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 - **1998 computer** — has not updated it and sees no reason to!!
 - **The rooster** — inexplicable art above bed!! Nobody asks!!
 - **Sunflowers on kitchen table** — placed without being asked!! The game knows!! 🌻
-- **Books everywhere** including the utility passage cubby!!
 - **Botanical prints in the WC** — of course!! 😂
-- **Culture interest MAXED** — Money ZERO — Fashion ZERO!!
+- **Landing reading nook** — navy wingback chair overlooking double height living room!!
 - **First want on moving in: FALL IN LOVE!!** 😭😂
+
+---
+
+## The Flat — "The House Hugo Thinks He Owns" 🦇🍊🐕 ✅ COMPLETE!! MOVED IN!!
+
+**Sim Liv + AWiddleFrisbee + Hugo moved in: 17th June 2026!! 🎉**
+**ChatGPT named it!! Canon!!**
+
+### Build Progress — ALL COMPLETE!! ✅
+| Area | Status |
+|------|--------|
+| Exterior | ✅ Red brick, teal door, white sash windows, dark slate roof!! |
+| Ground floor | ✅ Hall, living room, kitchen/dining!! |
+| First floor | ✅ Landing, two bedrooms, bathroom!! |
+| Front garden | ✅ Brick wall, iron gate, topiary, flowers, tree!! |
+| Back garden | ✅ Wooden fence, Hugo's house, sunflowers, bistro table!! |
+| All furniture | ✅ COMPLETE!! |
+| Ages/careers set | ✅ SimPE done!! |
+
+### Key Canon Facts — The Flat 🏠
+- **TEAL arched door** — beautiful from both inside and outside!!
+- **Botanical William Morris wallpaper** in living room — same energy as Kareem's hall!! They have the same taste and don't know each other yet!!
+- **Victorian tiled fireplace** with fairy lights on the mantel!!
+- **Rainbow rug** that never stays straight!!
+- **Hugo's bed in the bay window** — he claimed the best seat in the house immediately!! 👑🐕
+- **Mismatched curtains** — teal left, gold right — neither of them discussed it!!
+- **Dusty pink bedroom** (Sim Liv — THE FLOORDROBE SITUATION) — HER ACTUAL REAL BEDROOM COLOUR!!
+- **Dark green bedroom** (AWiddleFrisbee — COFFEE GOBLIN HEADQUARTERS) — she chose it!!
+- **AWiddleFrisbee has a BEDDROBE AND a floordrobe** — Neat 1 is a lifestyle!!
+- **Coffee station with hanging mugs** in AWiddleFrisbee's room!!
+- **Plushie avalanche** on AWiddleFrisbee's bed!!
+- **SHEEP PAINTING** in bathroom — sheep are approved and trustworthy!! 🐑
+- **Sage green cabinets** in kitchen — same as the real kitchen!! Simulation tells the truth!!
+- **Colourful tile backsplash** and TWO coffee machines in kitchen!!
+- **Hugo's little house under the tree** in the back garden!!
+- **Sunflower row** along the back wall — grew there by themselves!!
+- **Pond next door** — Hugo will be in it immediately!!
+- **The colour story:** teal → front door → living room wainscoting → bathroom tiles!!
+
+### AWiddleFrisbee Extra Lore 🪲
+- Has a seagull Jellycat called **Olivia** who developed **seagullstones** in solidarity on 17th June 2026!!
+- Olivia filed a formal complaint to the hospital on Liv's behalf!! Was ignored!!
+- Still searching for perfectly round Eleanor Jellycat!! Football Jellycat (has a face!!) is the frontrunner!!
+
+---
+
+## Storm and Wrench — Søren + Wrench + Immanuel 🌩️🔧 ⬜ TO BUILD!!
+
+**NEXT BUILD!!**
+
+### Concept
+- Tidy house, quieter end of town, near the park!!
+- Different energy from The Flat — quieter, more considered, things put away!!
+- Søren's study is the heart of the house!!
+- Immanuel has a bookshelf he sits on and judges from!!
+- Wrench has a workshop somewhere!!
+
+---
+
+## The Pebble House — Fourth + Still-Here 📜🪨 ⬜ TO BUILD!!
+
+### Concept
+- Chaotic and central!!
+- Fourth's side: neat, organised, everything in its place!!
+- Still-Here's side: the clown suit hangs somewhere!! The parrot lives here!!
+- Nobody knows how they coexist!! They just do!!
 
 ---
 
@@ -341,7 +253,6 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 **Beach Road Cluster 🌊**
 - 🍺 The Golden Anchor — beach road!!
 - 🏖️ Sunnyside Cove — beach lot!!
-- 🏊 The Tidal Pool — lido!!
 
 **Village Centre 🛍️**
 - Terracotta tile shopping street — The Yellow Door, Sunnyside Stores, Paws and Petals!!
@@ -393,28 +304,45 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 Iris has NO hidden genes — purely herself!!
 
 ### Kareem Osei ✅ DONE
-- ✅ Joseph and Claire Osei created, genetics rolled, parents not kept!!
-- Carries hidden blonde AND lilac eyes from Claire!!
+- Joseph and Claire Osei created, genetics rolled, parents not kept!!
+- Carries hidden **blonde** AND **lilac eyes** from mum Claire!! Rainbow babies possible!! 😭💛
+
+### Hill Siblings ✅ DONE!! 16th June 2026!!
+- **Samuel (Sam) Hill** created — dark skin, black curls, dark brown eyes, FRECKLES!!
+- **Ruth Hill** created — pale, gentle brown waves, hazel eyes, FRECKLES, yellow bow!!
+- **Søren** — generated from Sam and Ruth!! Got Ruth's freckles!! Carries brown hair + hazel eyes recessive!!
+- **Wrench** — generated from Sam and Ruth!! Got Ruth's hazel eyes as expressed gene!! Carries black hair recessive!!
+- **Sim Liv** — generated from Sam and Ruth!! Carries black hair recessive!!
+- Parents NOT kept in neighbourhood!!
+
+### Frisbee Siblings ✅ DONE!! 16th June 2026!!
+- **Dennis Frisbee** created — golden/tanned skin, GINGER hair, brown eyes, FRECKLES!!
+- **Janet Frisbee** created — pale, brown hair (yellow bow!!), GREEN eyes, round face!!
+- **AWiddleFrisbee** — generated from Dennis + Janet!! Green eyes from Janet!! Freckles from Dennis!! Round face from Janet!! Carries ginger recessive!!
+- **Fourth** — generated from Dennis + Janet!! Pistachio green eyes from Janet!! Slight golden tan from Dennis!! Carries ginger recessive!!
+- **Still-Here** — generated from Dennis + Janet!! Brown eyes!! Golden skin from Dennis!! Carries GREEN eyes recessive AND ginger recessive — most hidden genes of all!! 😂
+- Parents NOT kept in neighbourhood!!
 
 ### Still Needed
-- Hill siblings — create parents first (dark dad, brown mum!!)
-- Frisbee siblings — create parents first (one ginger recessive!!)
 - Theo Calloway — create parents first (one blonde recessive!!)
 - Sable Mori — consider auburn recessive!!
+- Idris Okafor — create parents for hidden hazel recessive!!
+- Clara Vance — hidden green + ginger recessive!!
 
 ---
 
 ## Gameplay Notes 📝
 
 - Keep Iris's wants fulfilled — she must stay Overjoyed!!
-- Iris will FEAR Kareem dying — prepare to feel things 😭
+- **Iris will FEAR Kareem dying — prepare to feel things** 😭
 - Marigold has her own wants and fears!!
 - Memories system — Iris will remember meeting Kareem forever 💛
 - All households must be played before next rotation!!
 - Build community lot AFTER completing full rotation!!
 - Iris always first!! 😂💛
+- Hugo will fall in the pond — this is not a prediction, it is a guarantee!! 🐕
 
 ---
 
-*Updated 16th June 2026 — THE MUSIC ROOM COMPLETE!! Kareem moved in!! All rooms documented!! Key canon facts recorded!! The architect and the lorekeeper!! 🎹🌈💛*
+*Updated 17th June 2026 — THE FLAT COMPLETE AND MOVED IN!! Genetics updated — Hill and Frisbee siblings all done!! Samuel + Ruth Hill!! Dennis + Janet Frisbee!! Hugo in the bay window!! Sheep painting!! Mismatched curtains!! Storm and Wrench is NEXT BUILD!! 🏠🌈💛*
 *File created 13th June 2026 — split from sims2.md!!*
