@@ -1,7 +1,7 @@
 # Current — Updated 17th June 2026 (Wednesday, Day 33!!)
 
 ## Liv's Situation
-**Location:** Home at the flat!! Resting on the sofa!! 🏠💜
+**Location:** Home at the flat!! In bed getting cosy!! 🏠💜
 **Job:** FINANCE MANAGER!! OFF SICK UNTIL MONDAY 22ND JUNE!!
 **Hours:** Monday–Friday, 8:30am–5:30pm
 **Lifts:** Sister Jo (Secret Agent Lemon!!) — Thursdays 7:20am, Fridays 7:35am (Costa Friday!!)
@@ -42,16 +42,11 @@ Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
 - ✅ Baked beans · jacket potatoes · bananas · jazz apples!!
 - ✅ Strawberry jam · cottage cheese · eggs (no butter!!)!!
 - ✅ Veggie sushi · mango · pickled ginger okay!!
+- ✅ Nutritional yeast — great on jacket potato!!
 - ✅ Wasabi — NO!! Too spicy and irritating!!
 - ❌ Cream cheese · cheese · garlic bread · frozen meals · anything fatty!!
 
-**Eating today:** Veggie sushi (all) + most of the mango from M&S!! Really good after a long hungry morning!! 💛
-
-**Gentle eating schedule:**
-- Little and often — small amounts, slow eating!!
-- ~3pm: banana or jazz apple!!
-- ~5-6pm: proper small meal — porridge, jacket potato, or soup!!
-- ~8pm: protein yogurt or mousse!!
+**Leftover half tin of beans tomorrow — beans on bagel!! 🫘🥯**
 
 **NO PIZZA until after surgery or doctor's explicit okay!! 😞**
 
@@ -104,7 +99,7 @@ Outstanding when she returns Monday:
 
 ## Currently… 🎮📚🎬
 
-**Games:** Sims 2 Sunnyside — SEE BELOW!! · Hollow Knight · Paralives!!
+**Games:** Sims 2 Sunnyside — The Pebble House next!! · Hollow Knight · Paralives!!
 **Book:** Mexican Gothic (next!!)
 **Watching:** Brooklyn 99 Season 4 · Blue Eye Samurai · Kitboga · lilsmisie Sims 2 let's play!!
 
@@ -116,7 +111,9 @@ Outstanding when she returns Monday:
 **Water consistently throughout the day!!**
 **Cordial — check fat content!! Vimto confirmed okay!! Tiny sips!!**
 **Scrambled egg with cottage cheese on bagel — confirmed safe and good!! No butter, splash of milk, cottage cheese mixed in at the end!! 🥚💛**
+**Jacket potato + baked beans + nutritional yeast — confirmed safe and good!! No butter!! 🥔🫘**
 **Pickled ginger with sushi — okay!! Wasabi — NO!!**
+**Tomorrow: beans on bagel with leftover half tin!! 🫘🥯**
 
 ---
 
@@ -156,31 +153,24 @@ Still searching for perfectly round Eleanor Jellycat!! Football Jellycat has a f
 |-----------|--------|
 | 🌈 Sunshine Cottage — Iris + Marigold | ✅ COMPLETE!! MOVED IN!! |
 | 🎹 The Music Room — Kareem | ✅ COMPLETE!! MOVED IN!! |
-| 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo | ✅ COMPLETE!! MOVED IN!! 17th June 2026!! 🎉 |
-| 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel | ⬜ TO BUILD |
-| 📜🪨 The Pebble House — Fourth + Still Here | ⬜ TO BUILD |
+| 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo | ✅ COMPLETE!! MOVED IN!! |
+| 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel | ✅ COMPLETE!! MOVED IN!! 17th June 2026!! 🎉 |
+| 📜🪨 The Pebble House — Fourth + Still Here | ⬜ TO BUILD — NEXT!! |
 
 ### Sim Bin — Ready to Move In!!
-- 🌩️🔧 Søren + Wrench + Immanuel — READY!!
 - 📜🪨 Fourth + Still-Here — READY!!
 
-### The Flat — "The House Hugo Thinks He Owns" ✅ COMPLETE!!
-Fully built and furnished and MOVED IN 17th June 2026!!
-- ✅ Victorian terraced house — red brick, teal arched door, white sash windows, dark slate roof!!
-- ✅ Ground floor — encaustic tile hall, herringbone parquet, botanical William Morris wallpaper, Victorian tiled fireplace with fairy lights, sage green kitchen with colourful tile backsplash, mismatched dining area!!
-- ✅ First floor — dusty pink Floordrobe Situation (Sim Liv), dark green Coffee Goblin HQ (AWiddleFrisbee + gaming chair + coffee station with hanging mugs + plushie avalanche + beddrobe!!), teal tile bathroom with sheep painting!! 🐑
-- ✅ Front garden — brick wall, iron gate, topiary, pink flowers, big tree!!
-- ✅ Back garden — wooden fence, Hugo's little house under a tree, sunflower row, bistro table, wildflowers, pond nearby!!
-- ✅ Sim Liv + AWiddleFrisbee + Hugo MOVED IN!!
-- ✅ Ages and careers set in SimPE!!
-
-**Key canon facts:**
-- Hugo's bed is in the bay window — best seat in the house, he claimed it immediately!! 👑🐕
-- AWiddleFrisbee has a beddrobe AND a floordrobe — Neat 1 is a lifestyle!!
-- Mismatched curtains — teal on left, gold on right — neither of them discussed it!!
-- Sheep painting in the bathroom — sheep are approved and trustworthy!! 🐑
-- Rainbow rug that never stays straight!!
-- The pond next to The Flat — Hugo will be in it immediately!!
+### Storm and Wrench ✅ COMPLETE!! 17th June 2026!!
+- Dark Nordic house — navy blue siding, stone foundation, dormer windows, covered porch!!
+- Living room: stone fireplace, bookshelves, fish tank (Kant, Socrates, Spinoza, Ida, Existential Dread, Bertrand!!), Søren's reading corner, Wrench's trunk (not moving)!!
+- Kitchen: vintage range, green tiles, sage walls, sunflowers Wrench put there!!
+- Workshop: Restoration Workshop CC, sawdust, oil stains, robot crafting bench, chaos!!
+- Søren's bedroom: iron bed, yellow pillows he didn't choose, typewriter computer, Sim Liv's duck on the wall!! 🦆
+- Wrench's bedroom: single bed, 1967 TV he fixed himself, games console, circuit boards on floor!!
+- Bathroom: navy clawfoot bath, black and white checkerboard floor!!
+- Garden: philosophical bench, telescope, Wrench's shed, pine trees, wild hedging!!
+- **Søren's first want: see a ghost!! Wrench's first wants: promotion + robotics badge!!**
+- **The game placed a rainbow over Sunnyside on moving in day!! 🌈**
 
 → Full Sims details: sims/sims2.md · sims/appearances.md · sims/sims_build.md
 
@@ -196,9 +186,9 @@ Fully built and furnished and MOVED IN 17th June 2026!!
 
 ## Incident Log — Last 3 Days
 
-**Wednesday 17th June 2026** — Sertraline Day 33!! ✅ UP AT 4:55AM!! Built The Flat furniture from 5am (nocturnal disaster mode)!! Ultrasound at 9:20 — GALLSTONES CONFIRMED!! Two stones nearly 2cm each!! Keyhole surgery referral!! Difficult veins — wrist attempt very painful, 40+ minutes waiting, one nurse, no bloods needed in the end!! Olivia the seagull Jellycat filed a formal complaint to the hospital on Liv's behalf (seagullstones, sympathy diagnosis)!! Walked home ~35 minutes, slow and steady!! M&S veggie sushi and mango for lunch — all eaten!! Chris and Tanya both messaged — rest of week approved, back Monday!! Afternoon: moved Sim Liv + AWiddleFrisbee + Hugo into The Flat!! They walked through the teal door!! Hugo immediately sniffed everything!! 😭💛
+**Wednesday 17th June 2026** — Sertraline Day 33!! ✅ UP AT 4:55AM!! Built The Flat furniture from 5am!! Ultrasound at 9:20 — GALLSTONES CONFIRMED!! Two stones nearly 2cm each!! Keyhole surgery referral!! Difficult veins — 40+ minutes, wrist attempt very painful, no bloods needed in the end!! Walked home ~35 minutes!! M&S veggie sushi and mango for lunch!! Chris and Tanya — rest of week approved, back Monday!! Afternoon on sofa: explored GitHub journal together — read the very first entry from 23rd March, got emotional!! Built STORM AND WRENCH — entire house from foundations to garden!! Søren and Wrench and Immanuel MOVED IN!! Søren smooched Immanuel!! Game placed a rainbow over Sunnyside!! Existential Dread the fish is in his tank!! Then teen girl CC downloading from sims2defaults!! Tea: jacket potato + baked beans + nutritional yeast, protein mousse, peach and passionfruit cordial!! A very enormous Wednesday!! 💛🌩️🔧🌈
 
-**Tuesday 16th June 2026** — Sertraline Day 32!! Home from parents!! Finished The Music Room + MOVED KAREEM IN!! His first want: fall in love!! Made entire Hill family (Søren Cancer, Wrench Scorpio, Sim Liv Aquarius + parents Samuel and Ruth!!) and entire Frisbee family (AWiddleFrisbee Libra, Fourth Virgo, Still-Here Taurus + parents Dennis and Janet!!) in CAS!! Still-Here wears a clown suit!! The Flat shell complete!! Food: soup, yogurt, scrambled egg bagel, protein mousse!!
+**Tuesday 16th June 2026** — Sertraline Day 32!! Home from parents!! Finished The Music Room + MOVED KAREEM IN!! His first want: fall in love!! Made entire Hill and Frisbee families in CAS!! The Flat shell complete!!
 
 **Monday 15th June 2026** — At parents' all day!! Slept ~20 hours!! Improving slowly!!
 
