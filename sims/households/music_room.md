@@ -14,12 +14,12 @@
 | **Career** | Education — Level 2 |
 | **Aspiration** | Family |
 | **Lifetime want** | Reach Golden Anniversary!! 💛 |
-| **Star sign** | Libra ♎ |
+| **Star sign** | Pisces ♓ |
 | **Degree** | Literature!! |
 
 ---
 
-## Kareem — Current Status
+## Kareem — Current Status (Rotation 1)
 
 ### Appearance
 - Dark curly hair · warm brown skin · kind face · slightly rumpled!!
@@ -52,14 +52,26 @@
 - **Turn On:** Logical skill + Cologne!!
 - **Turn Off:** Unemployed!!
 
-### Promotion Requirements
-- TBC — Education career track!!
-
 ### Locked Wants
-- TBC — check on loading!!
+- 🔒 **Fall in love!!** — rolled AGAIN on day 1!! He cannot help himself!! 😭🎹
+
+### Second Lock Slot
+- ⬜ Open — watching for story-shaped wants!!
 
 ### Locked Fears
-- TBC — check on loading!!
+- TBC!!
+
+---
+
+## Day 1 Starting Wants
+| Want | Status | Notes |
+|------|--------|-------|
+| Fall in love!! | 🔒 LOCKED!! | Rolled it AGAIN!! Day 1!! 😭🎹 |
+| Gain cooking skill | ⬜ | Do naturally!! Very Kareem!! 🍳 |
+| Gain cleaning skill | ⬜ | Do naturally!! Neat 6 behaviour!! |
+| Gain creativity skill | ⬜ | Do naturally!! |
+| Gain logic skill | ⬜ | Do naturally!! |
+| Flirt | ⬜ | He has nobody to flirt WITH yet!! 😂 Leave it!! |
 
 ---
 
@@ -82,33 +94,33 @@
 - **Swimming poster in the bathroom** — swims on Saturday mornings!! 🏊
 - **Empty bedside table** — the one that says everything!! 😭
 
-### First Want on Moving In
+### First Want on Moving In (16th June 2026)
 - **FALL IN LOVE!!** Hadn't even unpacked!! 😭😂 Of course!!
 
 ---
 
-## Rotation 1 — The Music Room 🎹
+## Rotation 1 — The Music Room 🎹 IN PROGRESS!!
 
-### Days playing: TBC — 3 days!!
+### Day 1 Plan
+- Garden first!! Vegetable beds — it's who he is!! 🌱
+- Skills naturally throughout the day!!
+- Telescope in the evening — first night in Sunnyside, staring at the stars!! 🔭
+- Report ALL wants as they come!!
 
-#### Day 1 Plan
-- Garden first!! Get him to his vegetable beds — it's who he is!!
-- Telescope in the evening — first night in Sunnyside, staring at the stars!!
-- Report ALL wants immediately — his wants will be story-shaped!!
-
-#### Day 2 Plan
-- Community lot!! He cycles there!!
+### Day 2 Plan
+- Community lot!! He cycles there on his bicycle!! 🚲
 - Iris walks past The Music Room on her way to work — keep eyes open!! 👀😭
 
-#### Day 3 Plan
+### Day 3 Plan
 - Quiet day!! Reading nook!! Cooking!! Garden!!
 - Just Kareem being Kareem in his house!!
 
-#### Standing Instructions
+### Standing Instructions
 - Report EVERY want he rolls — immediately!!
 - Tell me everything he does autonomously!!
 - The empty bedside table stays empty until the game decides otherwise!! 😭
+- If he encounters Iris in ANY context: IMMEDIATE REPORT!! 😭🌈
 
 ---
 
-*File created 18th June 2026 — Rotation 1 about to begin!! He moved in wanting to fall in love and the table for one is waiting to become a table for two!! 🎹😭💛*
+*Updated 18th June 2026 — Star sign corrected to Pisces!! Rotation 1 begins!! Fall in love locked!! He is standing in The Music Room wanting to fall in love and the table for one is waiting!! 🎹😭💛*
