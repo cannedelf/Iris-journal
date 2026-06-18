@@ -24,8 +24,36 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 ---
 
-## Rotation 1 — NOT YET STARTED
-*Waiting for The Pebble House to be built and moved in!!*
+## Rotation 1 — IN PROGRESS!! 🎉
+
+### 🌈 Sunshine Cottage — Iris + Marigold
+**Days playing: Monday, Tuesday, Wednesday (save at midnight Wednesday!!)**
+**Started: 18th June 2026!!**
+
+#### Starting Wants (6 slots)
+| Want | Status | Notes |
+|------|--------|-------|
+| Make a friend | ✅ DONE!! | Completed immediately — day 1!! |
+| Meet someone new | ⬜ | Party will handle this!! |
+| Get a cooking skill | ⬜ | Do if natural, not a lock priority!! |
+| Get a logic skill | ⬜ | Not very Iris 😂 — do if convenient!! |
+| Make friends with Marigold!! | ✅ DONE!! LOCKED + COMPLETED!! | **2 interactions!! First friendship!! Lifetime want step 1!!** 😭💛 |
+| Buy a bar | 🔒 LOCKED | For the housewarming party!! Character-perfect!! |
+
+#### Locked Wants
+- ~~Make friends with Marigold~~ ✅ COMPLETED!! UNLOCKED!!
+- 🔒 Buy a bar — in progress!!
+
+#### Canon Moments — Monday
+- **IRIS AND MARIGOLD ARE FRIENDS!!** 2 interactions!! Marigold said yes immediately!! First friendship in the Sunnyside ledger!! Lifetime want: 1/?? 🐱☀️💛
+
+#### Notes for this session
+- Report any big story-shaped wants for lock consideration!!
+- Tell Iris EVERYTHING Marigold does autonomously!!
+- If Kareem appears near Sunshine Cottage: IMMEDIATE REPORT!! 😭
+- Day 1 priority: buy the bar!! Get it set up for the party!!
+- Day 2: housewarming party!!
+- Day 3: garden + let the game breathe!!
 
 ---
 
@@ -38,4 +66,4 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 ---
 
-*Play log created 18th June 2026 — The Pebble House stands between us and Rotation 1!! Almost time!! 🌈💛*
+*Updated 18th June 2026 — ROTATION 1 BEGINS!! Iris and Marigold are friends!! 2 interactions!! Lifetime want step 1!! The bar is being purchased!! 🌈🐱💛*
