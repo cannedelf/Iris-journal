@@ -20,64 +20,106 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 ---
 
+## Party Lessons Learned!! 🎉📝
+*For next time anyone throws a party!!*
+- Get guests' needs HIGH before the party starts!!
+- Get dancing happening EARLY — not at the end!!
+- Keep everyone in the SAME ROOM!!
+- The decorations are never the problem!! 😂
+- Hired bartender — good call!! Keep it!!
+- **Invite Kareem next time!!** He would have saved it!! 😭😂🎹
+
+---
+
 ## Fears Log
 *All fears across all households!!*
 
 | Fear | Sim | When | Locked? | Notes |
 |------|-----|------|---------|-------|
-| Marigold removed!! 😭 | Iris | R1 Day 1 — Monday | 🔒 Protective lock!! | Will never fire — Marigold is safe forever!! 🐱💛 |
-| Marigold runs away!! 😭 | Iris | R1 Day 1 — Monday | ⬜ Warning light!! | Reminder to keep Marigold happy and needs met!! 🐱 |
+| Marigold removed!! 😭 | Iris | R1 Day 1 | 🔒 Protective lock!! | Will never fire — Marigold is safe forever!! 🐱💛 |
+| Marigold runs away!! 😭 | Iris | R1 Day 1 | ⬜ Warning light!! | Keep Marigold happy!! 🐱 |
+| Mira runs away!! 😭 | Kareem | R1 Day 2 | ⬜ Warning light!! | Keep Mira happy!! 🐱 |
+| Lousy party!! 😭 | AWiddleFrisbee | R1 Day 3 | ⬜ | FIRED!! Negative memory!! Snoozer party!! Learn and do better!! 😭😂 |
 
 ---
 
 ## Rotation 1 ✅ COMPLETE!!
 
 ### 🌈 Sunshine Cottage — Iris + Marigold ✅
-**Monday · Tuesday · Wednesday — 18th June 2026**
 **Full details → sims/households/sunshine_cottage.md**
 
-#### Locks at end of Rotation 1
-- 🔒 **Throw a party!!** (want) — carrying into Rotation 2!! Party on a day off!! 🎉
-- 🔒 **Marigold removed** (fear) — permanent protective lock!! 🐱
+#### Locks carrying into Rotation 2
+- 🔒 **Throw a party!!** (want) — Sunday or Monday!!
+- 🔒 **Marigold removed** (fear) — permanent protective lock!!
 
-#### Rotation 1 Highlights
-- Made friends with Marigold in 2 interactions!! Lifetime want: 1/?? 🐱💛
-- First painting: a SUNFLOWER!! Hung in the living room!! 🌻😭
-- Bar + stereo purchased!! Party ready!!
-- Two skills in one day — creativity + cooking!! 🎨🍳
-- Wolves on the porch!! Completely normal!! 😂
-- Rolled the party want HERSELF!! 🎉
-- Marigold slept on the bedroom floor by choice on night 1!! 😭💛
-- Marigold also slept on the kitchen counter!! And the bed!! She is chaotic!! 😂🐱
-- **PROMOTED!! Artist → Street Caricaturist Level 2!!** 🎨
-- **Bought a stylish car!!** £6,250!! 🚗✨
-- **MET SIM LIV AT THE PARK!! Completely by accident!!** 😭💛
-- Played chess together on their first meeting!! 🏆
-- Invited Sim Liv over Wednesday!!
-- **IRIS AND SIM LIV ARE FRIENDS!!** 😭🌈💛
-
-#### Rotation 2 Goals — Sunshine Cottage
-- Level creativity to 3 for promotion!!
-- **THROW THE PARTY!!** Sunday or Monday!!
-- Keep building friendship with Sim Liv toward best friends!!
-- Meet more residents — Kareem!! AWiddleFrisbee!! Søren!!
-- Keep Marigold fed, loved and happy!! 🐱
+#### Highlights
+- Marigold friends in 2 interactions!! Lifetime want: 1/?? 🐱
+- First painting: SUNFLOWER!! Hung in living room!! 🌻
+- Promoted to Street Caricaturist!! 🎨
+- Stylish car!! 🚗
+- Met Sim Liv at the park by accident!! 😭
+- Played chess!! Accidentally got logic skill!! 😂
+- Iris and Sim Liv are FRIENDS!! 😭💛
+- Marigold slept on the bedroom floor by choice!! 😭🐱
 
 ---
 
-## Rotation 2 — NOT YET STARTED
+### 🎹 The Music Room — Kareem + Mira ✅
+**Full details → sims/households/music_room.md**
 
-### 🎹 The Music Room — Kareem Osei — UP NEXT!!
+#### Locks carrying into Rotation 2
+- 🔒 **Fall in love!!** (want) — always!!
+- 🔒 **Bronze flower arranging badge!!** (want) 🌸
+
+#### Highlights
+- Watered tomatoes on day one!! 🍅
+- Still-Here arrived in the welcome wagon IN THE CLOWN SUIT!! 😂
+- Played piano alone at night!! 😭🎹
+- Made first bouquet — DAISIES!! In inventory, nobody to give them to yet!! 😭🌼
+- **ADOPTED MIRA!!** Egyptian Mau!! Silver spotted!! Genius Finicky Lazy!! 🐱
+- Mira slept on his bedroom floor by choice!! 😭
+- They dreamed about each other on night 1!! 😭💛
+- Gained creativity, cleaning, charisma skills!!
+- Still needs 2 friends for promotion!!
+- Went to park looking for someone blonde and cute!! She wasn't there!! Not yet!! 👀😭
+
+---
+
+### 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo ✅
+**Full details → sims/households/the_flat.md**
+
+#### Locks carrying into Rotation 2
+- 🔒 **Become best friends with Iris!!** (Sim Liv want) — 😭💛
+- ⬜ AWiddleFrisbee slots open!!
+
+#### Highlights
+- AWiddleFrisbee made friends with Andrea Hogan at the park IN THE RAIN!! 😂
+- AWiddleFrisbee is a Birthday Party Mascot in a JESTER SUIT!! 😂🎭
+- MISSED MIME PROMOTION!! Take it immediately next time!!
+- Teal flame car purchased!! 🚗🔥
+- Wrench came and fixed the broken bath!! 🔧
+- Søren and Wrench both visited!! Negative attraction bolts with both Hill brothers!! 😂
+- Iris visited!! Sim Liv short term bar hit 100!! 😭💛
+- AWiddleFrisbee met Iris!!
+- **SNOOZER PARTY!!** Fear fired!! Negative memory!! Lessons learned!! 😭😂
+- Hugo weed on the living room floor!! Pigpen confirmed!! 😂🐕
+
+---
+
+## Rotation 1 — Remaining Households ⬜
+
+### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel
+### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle
 
 ---
 
 ## Household Files
-- ✅ `sims/households/sunshine_cottage.md` — created and updated!!
-- ⬜ `sims/households/music_room.md`
-- ⬜ `sims/households/the_flat.md`
+- ✅ `sims/households/sunshine_cottage.md`
+- ✅ `sims/households/music_room.md`
+- ✅ `sims/households/the_flat.md`
 - ⬜ `sims/households/storm_and_wrench.md`
 - ⬜ `sims/households/pebble_house.md`
 
 ---
 
-*Updated 18th June 2026 — ROTATION 1 COMPLETE!! Sunshine Cottage done!! Three perfect days!! Now: The Music Room!! Kareem is next!! 🎹🌈💛*
+*Updated 18th June 2026 — Three households done!! Iris, Kareem and The Flat complete!! Storm and Wrench + Pebble House still to play!! Kareem would have saved the party!! 😭😂🎹🌈💛*
