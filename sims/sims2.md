@@ -141,7 +141,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Immanuel was smooched by Søren on moving in day and ALLOWED IT!! Highest honour!!
 - The game placed a rainbow over Sunnyside on the day they moved in!! 🌈
 
-### 📜🪨 The Pebble House — Fourth + Still-Here 🔨 IN PROGRESS!! 18th June 2026!!
+### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle ✅ COMPLETE!! MOVED IN!! 18th June 2026!! 🎉🦜
 **"The Frisbee House"** — NOT JUST A HOUSE. IT'S A COLLABORATION!! 📜🪨🦜
 **"Two people who shouldn't work together but completely do. One of them is very tidy. The other one owns a parrot. The parrot has opinions."**
 
@@ -150,6 +150,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - No foundations — door straight onto the pavement!! You knock and you're immediately in the chaos!!
 - Central location — everyone passes The Frisbee House!! Very "everyone ends up here" energy!!
 - Pond nearby — Barnacle has strong opinions about the pond!! 🦜
+- Front garden: colourful overflowing flowers, stone path, bicycle leaning against fence (Fourth's!!)!!
+- Back garden: wild flower borders ALL colours, stepping stones path, telescope, wooden fence!!
 
 **Interior — Ground Floor:**
 - **Living room (THE CHAOS HUB):** Warm terracotta walls!! Warm wood floor!! Geometric patterned fireplace (colourful, came with the house, nobody questions it)!! Teal sofa with pink throw!! Beanbag (Still-Here's)!! Fourth's proper armchair!! Coffee table!! BOOKSHELF (Fourth's, organised by subject)!! Gallery wall — Fourth put up one print, Still-Here added four more, somehow works!! Board games table under the stairs!! Fiddle leaf plant!! TV!! BARNACLE'S CAGE by the front window — maximum surveillance!! 🦜
@@ -158,23 +160,25 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 **Interior — First Floor:**
 - **Fourth's bedroom (ORDER AND LOGIC):** Forest green walls!! Dark wood floor!! Dark wood bed, neatly made, dark bedding!! Geometric rug!! Desk with computer — neat, everything filed away!! Bookshelf organised by subject (alphabetical within categories, Fourth absolutely does this)!! Dark wardrobe!! Blue-grey curtains, both matching, hung on the same day!! Landscape painting!! Blue chandelier!! Carefully tended snake plant!! NOTHING ON THE FLOOR!!
-- **Still-Here's bedroom (THE INCIDENT):** TWO DIFFERENT WALLS — teal on one side, retro dotty striped wallpaper in red yellow and brown on the other!! Still-Here did this without asking!! Fourth opened the door and said something measured and went back downstairs!! Colourful chaotic bedding, NOT MADE!! Art supplies everywhere — easel, paints, canvases!! Fairy lights!! Crystals on every surface!! Questionable plants!! Disco ball!! Posters including "Mixed Signals"!! Everything accumulated with a story!!
+- **Still-Here's bedroom (THE INCIDENT):** TWO DIFFERENT WALLS — teal on one side, retro dotty striped wallpaper in red yellow and brown on the other!! Still-Here did this without asking!! Fourth opened the door and said something measured and went back downstairs!! Heart shaped bed, colourful bedding NOT MADE!! Art supplies everywhere — easel, paints, canvases, paint on the floor!! Fairy lights!! Crystals on every surface!! Questionable plants!! DISCO BALL!! Posters including "Mixed Signals"!! Full length Hollywood vanity mirror!! Overflowing clothes rack with shoes underneath!! Open suitcase with things spilling out!! Neon UFO sign!! Everything accumulated with a story!!
 - **Bathroom:** Clean and simple!! The one room that stays normal!! No clowns!! No experiments!! Just... a bathroom!!
 
 **Key canon facts:**
-- 🦜 **BARNACLE** — the parrot!! Resident!! Judge!! Rules the house!! Has opinions!! Best friends with Still-Here!! Watches everyone from his cage by the front window!!
+- 🦜 **BARNACLE** — the parrot!! Resident!! Judge!! Rules the house!! Has opinions!! Best friends with Still-Here!! Watches everyone from his cage by the front window!! 👑
+- **Fourth's first wants on moving in:** Level up skills!! Buy new clothes!! Woohoo!! He is a young adult in his own home for the first time and apparently has PLANS!! 📜😂
+- **Still-Here's first wants on moving in:** JUGGLE!! Make a friend!! Moved in, looked around, decided to juggle!! Completely correct!! 🤹🪨
 - Fourth's chairs at the dining table are different from Still-Here's — nobody discussed it, it just happened!!
 - The noticeboard has "WEDNESDAY" written on it with no further context!! Fourth has not asked!!
 - Still-Here put up two different wallpapers in their bedroom!! Fourth has not commented beyond one measured sentence!!
 - The window boxes are thriving — they started neat, now they're not, nobody is fixing this!!
+- Fourth cycles to work on his bicycle!! He locks it properly every single time!! Still-Here has borrowed it once without asking!! Fourth noticed!!
+- The back garden telescope — Fourth is quietly an amateur astronomer!! Still-Here doesn't know yet!!
 
 ---
 
 ## Sim Bin Status 🗂️
 
-| Household | Status |
-|-----------|--------|
-| 📜🪨 Fourth + Still-Here | ✅ IN SIM BIN — ready!! |
+*All households built and moved in!! No Sims waiting!!* ✅
 
 ---
 
@@ -256,8 +260,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
 | 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Daisy flares!! Round face from Janet!! Green eyes!! Beddrobe AND floordrobe!! |
-| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Virgo!! Obviously!! |
-| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! Purple bandana!! Best friends with Barnacle!! |
+| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Virgo!! First want: WOOHOO!! 😂 |
+| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! Purple bandana!! First want: JUGGLE!! 🤹 |
 
 **AWiddleFrisbee turned OFF by good at cleaning!! Fourth turned ON by it!! They live together!! Dennis puts the kettle on!! 😂**
 **Parents: Dennis Frisbee — golden skin, ginger hair, brown eyes, freckles!! Janet Frisbee — pale, brown hair with yellow bow, green eyes, round face!!**
@@ -294,8 +298,6 @@ Same names as Paralives across all universes!!
 | 🦇🍊 The Flat | ⬜ | | | | | | | |
 | 🌩️🔧 Storm & Wrench | ⬜ | | | | | | | |
 | 📜🪨 The Pebble House | ⬜ | | | | | | | |
-
-**Rotation 1 begins when The Pebble House is built and moved in!!**
 
 ---
 
@@ -361,8 +363,10 @@ Same names as Paralives across all universes!!
 - Existential Dread the fish watches Immanuel!! Immanuel watches back!! Standoff ongoing!!
 - Barnacle says something unhinged at an inappropriate moment at The Golden Anchor!! Nobody is surprised!! 🦜
 - Fourth organises something!! Still-Here undoes it!! Fourth reorganises!! This is their whole dynamic!! 😂
+- Still-Here juggles at a neighbourhood party!! Everyone watches!! Barnacle is unsurprised!! 🤹
+- Fourth levels up a skill and feels quietly satisfied!! Nobody else notices!! He doesn't need them to!! 📜
 
 ---
 
-*Updated 18th June 2026 — The Pebble House IN PROGRESS!! Barnacle named and canonised!! Community lots spread to every 2 rotations!! Vacation worlds added!! 🦜📜🪨🌈💛*
+*Updated 18th June 2026 — ALL FIVE HOUSEHOLDS COMPLETE AND MOVED IN!! ROTATION 1 READY!! Fourth wants woohoo!! Still-Here wants to juggle!! Barnacle judges everyone!! 🦜📜🪨🌈💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
