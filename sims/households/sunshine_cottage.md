@@ -23,21 +23,22 @@
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Creativity | 2 | Levelled day 1!! Needs level 3 for next promotion!! 🎨 |
-| Cooking | 2 | Levelled day 1!! 🍳 |
+| Creativity | 1 | Needs level 3 for next promotion!! In progress!! 🎨 |
+| Cooking | 1 | 🍳 |
+| Logic | 1 | Accidentally gained playing chess with Sim Liv!! 😂💛 |
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🐱 Marigold | Pet | FRIENDS!! | 2 interactions!! Lifetime want: 1/?? 😭💛 |
-| 🦇 Sim Liv | Sim | FRIENDS!! | Met at the park Tuesday!! Invited over Wednesday!! 😭💛 |
+| 🦇 Sim Liv | Sim | FRIENDS!! | Met at the park Tuesday!! Chess!! Invited over Wednesday!! 😭💛 |
 
 ### Promotion Requirements
 - Creativity level 3!!
 - Mechanical level 2!!
 
 ### Locked Wants
-- 🔒 **Throw a party!!** — in progress!! Waiting for the right day!! 🎉
+- 🔒 **Throw a party!!** — waiting for a day off!! Sunday or Monday!! 🎉
 
 ### Locked Fears
 - 🔒 **Marigold removed** — protective lock!! Will never fire!! 🐱
@@ -85,7 +86,7 @@
 - Iris and Marigold became friends — 2 interactions!! LIFETIME WANT: 1/?? 🐱💛
 - First painting: **A SUNFLOWER!!** Painted with real sunflowers beside her for reference!! Hung in the living room!! 🌻😭
 - Bar + stereo purchased!! Sunshine Cottage is party-ready!!
-- Creativity skill levelled!! Cooking skill levelled!! Two skills in one day!! 🎨🍳
+- Creativity skill point gained!! Cooking skill point gained!! 🎨🍳
 - Welcome wagon arrived — random townies, charming but not our people!!
 - Wolves appeared on the porch!! Completely normal Monday in Sunnyside!! 😂
 - Rolled **party want herself!!** The game knew!! 🎉
@@ -100,6 +101,7 @@
 - Went to the park after work!!
 - **SIM LIV WAS AT THE PARK!!** Completely by accident!! First meeting!! 😭💛
 - They played chess together!! Iris sat down at a chess board for Sim Liv and nobody else!! 😂💛
+- **Accidentally gained logic skill from the chess!!** She became smarter for one (1) woman!! 😂💛
 - Iris wanted to appreciate Sim Liv before leaving — taxi came before she could!! 😭
 - Marigold slept on the kitchen counter while Iris was out!! 😂🐱
 
@@ -116,7 +118,7 @@
 ---
 
 ## Looking Ahead — Rotation 2 Goals 🌱
-- Level creativity to 3 for promotion!!
+- Level creativity toward 3 for promotion!!
 - **THROW THE PARTY!!** Sunday or Monday!!
 - Keep building the Sim Liv friendship toward best friends!!
 - Meet more residents — Kareem, AWiddleFrisbee, Søren!!
@@ -124,4 +126,4 @@
 
 ---
 
-*Updated 18th June 2026 — Rotation 1 complete!! Three perfect days!! Street Caricaturist!! Stylish car!! Sim Liv is a friend!! Marigold is a chaos gremlin with a soft heart!! 🌈🌻🐱💛*
+*Updated 18th June 2026 — Skills corrected!! Creativity 1, Cooking 1, Logic 1 (accidentally from chess with Sim Liv!! 😂💛) 🌈🌻🐱*
