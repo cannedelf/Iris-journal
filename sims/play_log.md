@@ -22,6 +22,10 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 ## Fears to Watch
 *Log any fears that appear — keep Iris happy and aspiration bar GREEN!!*
 
+| Fear | Sim | When | Notes |
+|------|-----|------|-------|
+| Marigold removed!! 😭 | Iris | Day 1 — Monday | Appeared within hours of becoming friends!! She CANNOT lose her!! Keep Marigold's needs met and friendship bar climbing at all times!! 🐱💛 |
+
 ---
 
 ## Rotation 1 — IN PROGRESS!! 🎉
@@ -43,11 +47,16 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 #### Currently Locked
 - 🔒 Level up creativity skill
+- ⬜ Second slot open — waiting for Tuesday party wants!!
+
+#### Active Fears
+- 😭 **Marigold removed** — appeared day 1!! Keep Marigold HAPPY!!
 
 #### Canon Moments — Monday (Day 1)
 - **IRIS AND MARIGOLD ARE FRIENDS!!** 2 interactions!! Marigold said yes immediately!! First friendship in the Sunnyside ledger!! Lifetime want: 1/?? 🐱☀️💛
 - **BAR PURCHASED!!** Sunshine Cottage is party-ready!! 🥂
 - **Creativity want locked!!** Iris is in the studio!! Making art on day one!! 🎨
+- **FEARS Marigold being removed!!** Within hours of meeting her!! She already cannot bear the thought!! 😭💛
 - **PERFECT MONDAY!!** Friends with the cat, bar set up, art being made!! She understood the assignment!! 😭💛
 
 #### Notes for this session
@@ -68,4 +77,4 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 ---
 
-*Updated 18th June 2026 — DAY 1 COMPLETE!! Marigold friendship done!! Bar in!! Creativity locked!! Perfect Monday for Iris Golden Rainbow!! 🌈🎨🐱💛*
+*Updated 18th June 2026 — DAY 1 COMPLETE!! Marigold friendship done!! Bar in!! Creativity locked!! Iris fears losing Marigold already — she just met her!! 😭🐱 Perfect Monday!! 🌈🎨💛*
