@@ -13,6 +13,7 @@
 - **Rainbow:** Placed manually by Liv over the neighbourhood!! Canon regardless!! 🌈 AND the game placed its own rainbow over Sunnyside on the day Storm and Wrench moved in!! The universe knew!! 🌈🌈
 - **Hot air balloons:** Two!! Also placed!! Also canon!! 🎈
 - **The Windmill:** 🌬️ Decorative neighbourhood object placed next to The Music Room!! CANON LORE — the windmill was there first!! That's why the mill building exists!! Kareem's house was built to service it!! The windmill just stayed when the mill was converted!! Kareem doesn't even notice it anymore!!
+- **Vacation worlds:** Twikkii Island + Three Lakes + Takemizu Village — added for holidays!! Residents can travel!! 🌴🏔️🎋
 
 ---
 
@@ -140,11 +141,32 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Immanuel was smooched by Søren on moving in day and ALLOWED IT!! Highest honour!!
 - The game placed a rainbow over Sunnyside on the day they moved in!! 🌈
 
-### 📜🪨 The Pebble House — Fourth + Still-Here ⬜ TO BUILD
-- Chaotic and central!!
-- No pets — they're enough on their own!! Still-Here has a parrot though!! 🦜
-- Still-Here is Willa Meadow's future person 😭😂
-- **NEXT BUILD!!**
+### 📜🪨 The Pebble House — Fourth + Still-Here 🔨 IN PROGRESS!! 18th June 2026!!
+**"The Frisbee House"** — NOT JUST A HOUSE. IT'S A COLLABORATION!! 📜🪨🦜
+**"Two people who shouldn't work together but completely do. One of them is very tidy. The other one owns a parrot. The parrot has opinions."**
+
+**Exterior:**
+- Warm terracotta brick!! Dark roof!! TEAL ARCHED DOOR!! Overflowing window boxes!! Iron fence right on the street!!
+- No foundations — door straight onto the pavement!! You knock and you're immediately in the chaos!!
+- Central location — everyone passes The Frisbee House!! Very "everyone ends up here" energy!!
+- Pond nearby — Barnacle has strong opinions about the pond!! 🦜
+
+**Interior — Ground Floor:**
+- **Living room (THE CHAOS HUB):** Warm terracotta walls!! Warm wood floor!! Geometric patterned fireplace (colourful, came with the house, nobody questions it)!! Teal sofa with pink throw!! Beanbag (Still-Here's)!! Fourth's proper armchair!! Coffee table!! BOOKSHELF (Fourth's, organised by subject)!! Gallery wall — Fourth put up one print, Still-Here added four more, somehow works!! Board games table under the stairs!! Fiddle leaf plant!! TV!! BARNACLE'S CAGE by the front window — maximum surveillance!! 🦜
+- **Kitchen (FUNCTIONAL, SLIGHTLY MESSY):** Encaustic patterned tiles flowing from living room through arch!! Terracotta walls continuing!! Mustard and teal cabinets!! Gas range!! Fridge covered in magnets and notes!! Hanging pans!! Hanging dried herbs!! Shelves with cookbooks and jars (labelled by Fourth, ignored by Still-Here)!! Sputnik clock!! Kettle always on!! Round dining table for two — MISMATCHED CHAIRS, nobody discussed it!! Noticeboard — Fourth's neat lists AND Still-Here's additions (a drawing of Barnacle and "WEDNESDAY" with no further context)!! Back door!!
+- **Downstairs loo:** Simple!! Clean!! No clowns!! No experiments!! Just a loo!!
+
+**Interior — First Floor:**
+- **Fourth's bedroom (ORDER AND LOGIC):** Forest green walls!! Dark wood floor!! Dark wood bed, neatly made, dark bedding!! Geometric rug!! Desk with computer — neat, everything filed away!! Bookshelf organised by subject (alphabetical within categories, Fourth absolutely does this)!! Dark wardrobe!! Blue-grey curtains, both matching, hung on the same day!! Landscape painting!! Blue chandelier!! Carefully tended snake plant!! NOTHING ON THE FLOOR!!
+- **Still-Here's bedroom (THE INCIDENT):** TWO DIFFERENT WALLS — teal on one side, retro dotty striped wallpaper in red yellow and brown on the other!! Still-Here did this without asking!! Fourth opened the door and said something measured and went back downstairs!! Colourful chaotic bedding, NOT MADE!! Art supplies everywhere — easel, paints, canvases!! Fairy lights!! Crystals on every surface!! Questionable plants!! Disco ball!! Posters including "Mixed Signals"!! Everything accumulated with a story!!
+- **Bathroom:** Clean and simple!! The one room that stays normal!! No clowns!! No experiments!! Just... a bathroom!!
+
+**Key canon facts:**
+- 🦜 **BARNACLE** — the parrot!! Resident!! Judge!! Rules the house!! Has opinions!! Best friends with Still-Here!! Watches everyone from his cage by the front window!!
+- Fourth's chairs at the dining table are different from Still-Here's — nobody discussed it, it just happened!!
+- The noticeboard has "WEDNESDAY" written on it with no further context!! Fourth has not asked!!
+- Still-Here put up two different wallpapers in their bedroom!! Fourth has not commented beyond one measured sentence!!
+- The window boxes are thriving — they started neat, now they're not, nobody is fixing this!!
 
 ---
 
@@ -169,10 +191,10 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | 🐠 Ida | Platy | Søren | Fish tank, living room!! |
 | 🐠 Existential Dread | Black Molly | Søren | Fish tank, living room!! The most Søren fish name in existence!! |
 | 🐠 Bertrand | Goldfish | Søren | Fish tank, living room!! |
+| 🦜 Barnacle | Parrot | Still-Here | Resident!! Judge!! Rules the house!! Has opinions!! Best friends with Still-Here!! Watches everyone from his cage by the front window!! 👑 |
 | 🐱 Ink | Black cat | Sable | Mysterious and watchful!! |
 | 🐕 Barnaby | Golden retriever | Theo | Thinks he's a lap dog!! Introduces Theo to Sim Liv!! |
 | 🐱 Newton | Old dignified cat | Edie & Arthur | Very slow, very wise, standoff with Immanuel!! |
-| 🦜 Parrot | Parrot | Still-Here | Says unhinged things at inappropriate moments!! 😂 |
 
 **Iris lifetime want: 20 pet best friends!!** Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnaby all waiting!! 😭🐾
 
@@ -235,7 +257,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 |-----|-----------|----------|----------|---------|
 | 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Daisy flares!! Round face from Janet!! Green eyes!! Beddrobe AND floordrobe!! |
 | 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Virgo!! Obviously!! |
-| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! Purple bandana!! |
+| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! Purple bandana!! Best friends with Barnacle!! |
 
 **AWiddleFrisbee turned OFF by good at cleaning!! Fourth turned ON by it!! They live together!! Dennis puts the kettle on!! 😂**
 **Parents: Dennis Frisbee — golden skin, ginger hair, brown eyes, freckles!! Janet Frisbee — pale, brown hair with yellow bow, green eyes, round face!!**
@@ -263,6 +285,7 @@ Same names as Paralives across all universes!!
 ## Rotation Tracker 🔄
 
 **Order:** Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pebble House!!
+**3 Sim days per household per rotation!!**
 
 | Household | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 |
 |-----------|----|----|----|----|----|----|----|----|
@@ -272,7 +295,7 @@ Same names as Paralives across all universes!!
 | 🌩️🔧 Storm & Wrench | ⬜ | | | | | | | |
 | 📜🪨 The Pebble House | ⬜ | | | | | | | |
 
-**Rotation 1 begins when all 5 households are built and moved in!! Just The Pebble House to go!!**
+**Rotation 1 begins when The Pebble House is built and moved in!!**
 
 ---
 
@@ -291,18 +314,20 @@ Same names as Paralives across all universes!!
 
 ## Community Lot Build Schedule 🏗️
 
+**Spread out for more playing time!! Build after every 2 rotations!!**
+
 | After R | Lot | Status |
 |---------|-----|--------|
-| R1 | 🍺 The Golden Anchor | ⬜ |
-| R2 | ☕ The Honeypot | ⬜ |
-| R3 | 📚 The Tidal Library | ⬜ |
-| R4 | 🛒 The Meadow Market | ⬜ |
-| R5 | 🎨 The Golden Hour Gallery | ⬜ |
-| R6 | 🎵 The Blue Note | ⬜ |
-| R7 | 🏛️ The Sunnyside Museum | ⬜ |
-| R8 | 🛼 The Golden Wheel | ⬜ |
-| R9 | 🏖️ Sunnyside Cove | ⬜ |
-| R10 | 🎳 The Sunnyside Lanes | ⬜ |
+| R2 | 🍺 The Golden Anchor | ⬜ |
+| R4 | ☕ The Honeyed Crumb | ⬜ |
+| R6 | 📚 The Tidal Library | ⬜ |
+| R8 | 🛒 The Meadow Market | ⬜ |
+| R10 | 🎨 The Golden Hour Gallery | ⬜ |
+| R12 | 🎵 The Blue Note | ⬜ |
+| R14 | 🏛️ The Sunnyside Museum | ⬜ |
+| R16 | 🛼 The Golden Wheel | ⬜ |
+| R18 | 🏖️ Sunnyside Cove | ⬜ |
+| R20 | 🎳 The Sunnyside Lanes | ⬜ |
 
 ---
 
@@ -334,8 +359,10 @@ Same names as Paralives across all universes!!
 - Søren finds a ghost and has philosophical opinions about it!!
 - Wrench builds a robot and it ends up somewhere in the house and Søren pretends not to notice!!
 - Existential Dread the fish watches Immanuel!! Immanuel watches back!! Standoff ongoing!!
+- Barnacle says something unhinged at an inappropriate moment at The Golden Anchor!! Nobody is surprised!! 🦜
+- Fourth organises something!! Still-Here undoes it!! Fourth reorganises!! This is their whole dynamic!! 😂
 
 ---
 
-*Updated 17th June 2026 — STORM AND WRENCH COMPLETE AND MOVED IN!! 🌩️🔧 Søren smooched Immanuel on day one!! Wrench wants his robotics badge!! Søren wants to see a ghost!! The game placed a rainbow over Sunnyside!! Existential Dread the fish is in his tank!! The duck is on Søren's wall!! The Pebble House is next!! 🌈💛*
+*Updated 18th June 2026 — The Pebble House IN PROGRESS!! Barnacle named and canonised!! Community lots spread to every 2 rotations!! Vacation worlds added!! 🦜📜🪨🌈💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
