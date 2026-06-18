@@ -45,11 +45,12 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Yellow house!! Sunflowers outside!! Straight to adulthood!!
 - **Sim Iris moved in: 7th June 2026!!**
 - First autonomous action: hugged Marigold on the front porch!! 😭💛
-- Currently in Artist career!!
+- **Career: Street Caricaturist — Level 2!! Promoted Rotation 1!!** 🎨
 - **Lifetime want:** Make 20 Pet Best Friends!!
 
-### 🎹 The Music Room — Kareem Osei ✅ COMPLETE!! MOVED IN!! 🎉
+### 🎹 The Music Room — Kareem Osei + Mira ✅ COMPLETE!! MOVED IN!! 🎉
 - **Kareem moved in: 16th June 2026!!**
+- **Mira adopted: Rotation 1, Day 2!!** Egyptian Mau!! Silver spotted!! 🐱
 - **FIRST WANT ON MOVING IN: FALL IN LOVE!! He hadn't even unpacked!! 😭😂**
 - Converted mill!! Industrial bones, warm soul!!
 - Dark grey charcoal stone, three roof sections, dark green double door!!
@@ -61,7 +62,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 ### Key Canon Moments from The Music Room Build!! 🎹
 - **Landing reading nook** — navy wingback chair, side table with books, lamp, persian rug!! Reads on his landing overlooking the living room in his woodland creature pyjamas!! CANON!!
 - **The telescope in the back garden** — Kareem IS an amateur astronomer!!
-- **Three raised vegetable beds + compost bin** — grows his own vegetables!!
+- **Three raised vegetable beds + compost bin** — grows his own vegetables!! Two tomato plants so far!!
+- **Florist bench in the back garden** — added Rotation 1!! 🌸
 - **The bicycle** — cycles to school!! Confirmed!!
 - **The 1998 computer** — has not been updated since approximately 1998!! 😂
 - **The rooster** — inexplicable art above the bed!! Canon forever!! Nobody asks!!
@@ -72,6 +74,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - **Sunflowers on the kitchen table for two** — placed without being asked!! 🌻
 - **Botanical prints in the downstairs WC** — of course!! 😂💛
 - **Empty bedside table** — the one that says everything!! 😭
+- **Bouquet of daisies in inventory** — his first arrangement!! Nobody to give them to yet!! 😭🌼
+- **Piano mod fixed!!** Atavera-CustomInstrumentHack removed!! Kareem can play!! 🎹
 
 ### 🦇🍊 The Flat — Sim Liv + Sim AWiddleFrisbee + Hugo ✅ COMPLETE!! MOVED IN!! 🎉
 **"The House Hugo Thinks He Owns"** — ChatGPT named it!! Canon!! 🐕
@@ -104,7 +108,10 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - AWiddleFrisbee has a beddrobe AND a floordrobe!!
 - Hugo's dog house under the tree in the back garden!!
 - Sunflower row along the back wall — grew there by themselves!!
-- The colour story: teal → front door → living room wainscoting → bathroom tiles!!
+- The colour story: teal → front door → living room wainscoting → bathroom tiles → TEAL FLAME CAR!! 😂
+- **AWiddleFrisbee's car: teal flame decals!!** Same base as Iris's stylish car, completely different energy!! 😂
+- **Bar + stereo purchased Rotation 1!!** Party ready!!
+- **Snoozer party, Rotation 1 Day 3!!** Lessons learned for next time!! 😭😂
 
 ### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ✅ COMPLETE!! MOVED IN!! 🎉
 **"The Lamp in the Darkness"** — reference sheet subtitle!! Canon!!
@@ -186,9 +193,10 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Pet | Type | Owner | Notes |
 |-----|------|-------|-------|
-| 🌼 Marigold | Ginger tabby | Iris | Rainbow collar, Virgo, claimed her chair immediately!! |
+| 🌼 Marigold | Ginger tabby | Iris | Rainbow collar, Virgo, chaos gremlin with a soft heart!! Slept on Iris's bedroom floor by choice on night 1!! 😭💛 |
+| 🐱 Mira | Egyptian Mau | Kareem | Silver spotted coat, green eyes!! Genius · Lazy · Friendly · Unbothered · Finicky!! Adopted Rotation 1 Day 2!! Slept on Kareem's bedroom floor by choice!! They dreamed about each other!! 😭💛 |
 | 😤 Immanuel | Grey British Shorthair | Søren | Judgmental, sits on books, secretly a coward!! SMOOCHED ON MOVE-IN DAY!! |
-| 🐕 Hugo | Springer spaniel inspired | AWiddleFrisbee | Libra!! Friendly MAX, Hyper MAX, Pigpen MAX, Doofus MAX!! Named after AWiddleFrisbee's real childhood dog!! Sacred!! LIVES IN THE BAY WINDOW!! |
+| 🐕 Hugo | Springer spaniel inspired | AWiddleFrisbee | Libra!! Friendly MAX, Hyper MAX, Pigpen MAX, Doofus MAX!! Named after AWiddleFrisbee's real childhood dog!! Sacred!! LIVES IN THE BAY WINDOW!! Weed on the living room floor Rotation 1 Day 2!! 😂 |
 | 🐠 Kant | Betta | Søren | Fish tank, living room!! |
 | 🐠 Socrates | Guppy | Søren | Fish tank, living room!! |
 | 🐠 Spinoza | Molly | Søren | Fish tank, living room!! |
@@ -196,18 +204,18 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | 🐠 Existential Dread | Black Molly | Søren | Fish tank, living room!! The most Søren fish name in existence!! |
 | 🐠 Bertrand | Goldfish | Søren | Fish tank, living room!! |
 | 🦜 Barnacle | Parrot | Still-Here | Resident!! Judge!! Rules the house!! Has opinions!! Best friends with Still-Here!! Watches everyone from his cage by the front window!! 👑 |
-| 🐱 Ink | Black cat | Sable | Mysterious and watchful!! |
-| 🐕 Barnaby | Golden retriever | Theo | Thinks he's a lap dog!! Introduces Theo to Sim Liv!! |
-| 🐱 Newton | Old dignified cat | Edie & Arthur | Very slow, very wise, standoff with Immanuel!! |
+| 🐱 Ink | Black cat | Sable | Future resident — Rotation 7!! |
+| 🐕 Barnaby | Golden retriever | Theo | Future resident — Rotation 5!! |
+| 🐱 Newton | Old dignified cat | Edie & Arthur | Future resident — Rotation 10!! |
 
-**Iris lifetime want: 20 pet best friends!!** Marigold already her best friend!! Hugo, Immanuel, Newton, Ink, Barnaby all waiting!! 😭🐾
+**Iris lifetime want: 20 pet best friends!!** Marigold: 1!! Hugo, Immanuel, Mira, Newton, Ink, Barnaby all waiting!! 😭🐾
 
 ---
 
 ## Sim Iris — Miss Iris Golden Rainbow 🌈
 
 - Peach-orange skin · Sunset ombre hair · Yellow eyes · Rosy cheeks · Yellow bow!!
-- **Aspiration:** Popularity!! · **Career:** Artist level 1!!
+- **Aspiration:** Popularity!! · **Career: Street Caricaturist — Level 2!! Promoted Rotation 1!!** 🎨
 - **Lifetime want:** Make 20 pet best friends!! 🐾
 - **Star sign:** Libra!! Same as Liv!! 💛
 
@@ -231,6 +239,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - **First want on moving in:** Fall in love!! 😭
 - **Degree:** Literature!!
 - **Hidden genes:** Blonde + lilac eyes from mum Claire!! Rainbow babies possible!! 😭💛
+- **Has a bouquet of daisies in his inventory!!** His first arrangement!! Nobody to give them to yet!! 😭🌼
 
 ### Personality (25 points)
 | Trait | Score |
@@ -249,7 +258,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 |-----|-----------|----------|----------|---------|
 | 🌩️ Søren | Cancer | Logical + Cologne | Unemployed | Ruth's freckles!! Knit vest!! Long green coat!! Wants to see a ghost!! |
 | 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Got Ruth's hazel eyes as recessive!! Flannel shirt!! Supervised his own build from outside!! Wants robotics badge!! |
-| 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Dusty pink bedroom!! Bear pyjamas matching Iris!! PUT THE DUCK IN SØREN'S ROOM!! |
+| 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Dusty pink bedroom!! Bear pyjamas matching Iris!! PUT THE DUCK IN SØREN'S ROOM!! Short term 100 with Iris already!! 😭💛 |
 
 **Parents: Samuel (Sam) Hill — dark skin, black curls, dark brown eyes, freckles!! Ruth Hill — pale, gentle brown waves, hazel eyes, freckles, yellow bow!!**
 
@@ -259,9 +268,9 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
-| 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Daisy flares!! Round face from Janet!! Green eyes!! Beddrobe AND floordrobe!! |
+| 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Daisy flares!! Jester suit for work!! Birthday Party Mascot!! Teal flame car!! Snoozer party!! 😂 |
 | 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Virgo!! First want: WOOHOO!! 😂 |
-| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! Purple bandana!! First want: JUGGLE!! 🤹 |
+| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! Purple bandana!! First want: JUGGLE!! Appears at every community lot!! 🤹 |
 
 **AWiddleFrisbee turned OFF by good at cleaning!! Fourth turned ON by it!! They live together!! Dennis puts the kettle on!! 😂**
 **Parents: Dennis Frisbee — golden skin, ginger hair, brown eyes, freckles!! Janet Frisbee — pale, brown hair with yellow bow, green eyes, round face!!**
@@ -293,9 +302,9 @@ Same names as Paralives across all universes!!
 
 | Household | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 |
 |-----------|----|----|----|----|----|----|----|----|
-| 🌈 Sunshine Cottage | ⬜ | | | | | | | |
-| 🎹 The Music Room | ⬜ | | | | | | | |
-| 🦇🍊 The Flat | ⬜ | | | | | | | |
+| 🌈 Sunshine Cottage | ✅ | | | | | | | |
+| 🎹 The Music Room | ✅ | | | | | | | |
+| 🦇🍊 The Flat | ✅ | | | | | | | |
 | 🌩️🔧 Storm & Wrench | ⬜ | | | | | | | |
 | 📜🪨 The Pebble House | ⬜ | | | | | | | |
 
@@ -365,8 +374,9 @@ Same names as Paralives across all universes!!
 - Fourth organises something!! Still-Here undoes it!! Fourth reorganises!! This is their whole dynamic!! 😂
 - Still-Here juggles at a neighbourhood party!! Everyone watches!! Barnacle is unsurprised!! 🤹
 - Fourth levels up a skill and feels quietly satisfied!! Nobody else notices!! He doesn't need them to!! 📜
+- Kareem gives someone the daisies from his inventory!! 😭🌼
 
 ---
 
-*Updated 18th June 2026 — ALL FIVE HOUSEHOLDS COMPLETE AND MOVED IN!! ROTATION 1 READY!! Fourth wants woohoo!! Still-Here wants to juggle!! Barnacle judges everyone!! 🦜📜🪨🌈💛*
+*Updated 18th June 2026 — Rotation 1: Sunshine Cottage ✅ · The Music Room ✅ · The Flat ✅ · Storm and Wrench ⬜ · Pebble House ⬜!! Mira adopted!! Daisies in inventory!! Snoozer party survived!! 🌈🐱🌼💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
