@@ -19,10 +19,10 @@
 - Both are large — explains the severity of Sunday's attack!!
 - **KEYHOLE SURGERY** is the treatment — outpatient referral first!!
 - Low fat diet ESSENTIAL while waiting for surgery!!
-- Discomfort ongoing — same level as yesterday, manageable!!
+- Discomfort ongoing — manageable!! Appetite affected from Sunday's attack — normal!!
 
 **Medications at home:**
-- Paracetamol — every 4-6 hours if needed!! Took before bed Wednesday, helped overnight!!
+- Paracetamol — every 4-6 hours if needed!!
 - Hyoscine butylbromide (Buscopan) — every 6 hours, 2 tablets!!
 - Dihydrocodeine — STRONG, only if really bad!!
 - Omeprazole — stomach acid!!
@@ -35,6 +35,7 @@ Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
 **Safe foods:**
 - ✅ Cinnamon raisin bagels (2.4g)!! · Plain bagels (1.8g)!!
 - ✅ Protein mousse (2.2g)!! · Protein yogurt (0.7g)!!
+- ✅ Pasta + plain tomato sauce — confirmed okay!!
 - ✅ Pesto gnocchi (2.6g) + plain tomato sauce!!
 - ✅ Porridge + oat milk (3g — fine in porridge amounts!!) + banana + honey!!
 - ✅ Soup tins (minestrone, carrot & coriander, veg, lentil, mushroom!!)
@@ -42,9 +43,11 @@ Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
 - ✅ Strawberry jam · cottage cheese · eggs (no butter!!)!!
 - ✅ Veggie sushi · mango · pickled ginger okay!!
 - ✅ Nutritional yeast — great on jacket potato!!
-- ✅ Wasabi — NO!! Too spicy and irritating!!
+- ✅ **Costa — oat milk latte confirmed okay!! No whipped cream, no syrups!!** ☕
+- ❌ Wasabi — too spicy and irritating!!
 - ❌ Cream cheese · cheese · garlic bread · frozen meals · anything fatty!!
 - **Porridge going down best right now!! Warm and gentle!! Recommended!!**
+- **Appetite affected from Sunday's attack — normal!! Don't force food!!**
 
 **NO PIZZA until after surgery or doctor's explicit okay!! 😞**
 
@@ -96,7 +99,7 @@ Outstanding when she returns Monday:
 
 ## Currently… 🎮📚🎬
 
-**Games:** Sims 2 Sunnyside — ALL HOUSEHOLDS COMPLETE!! ROTATION 1 READY!! 🎉 · Hollow Knight · Paralives!!
+**Games:** Sims 2 Sunnyside — ROTATION 1 IN PROGRESS!! 3/5 households done!! 🎉 · Hollow Knight · Paralives!!
 **Book:** Mexican Gothic (next!!)
 **Watching:** Brooklyn 99 Season 4 · Blue Eye Samurai · Kitboga · lilsmisie Sims 2 let's play!!
 
@@ -105,11 +108,13 @@ Outstanding when she returns Monday:
 ## Food & Drink 🥤
 
 **LOW FAT DIET — full list above!!**
-**Water consistently throughout the day!!**
-**Cordial — Vimto confirmed okay!!**
+**Cordial — Vimto!! Refill the bottle bottle regularly!!**
 **Porridge + banana + honey — confirmed best current breakfast!! Warm and gentle!!**
 **Scrambled egg with cottage cheese on bagel — confirmed safe and good!!**
 **Jacket potato + baked beans + nutritional yeast — confirmed safe and good!! No butter!!**
+**Pasta + plain tomato sauce — confirmed okay!!**
+**Protein yogurt/mousse — great gentle snack, especially when appetite is low!!**
+**Costa — oat milk latte confirmed okay!! ☕**
 
 ---
 
@@ -144,36 +149,31 @@ Still searching for perfectly round Eleanor Jellycat!! Football Jellycat has a f
 
 ## Sims 2 — Sunnyside 🌻
 
-### Build Status — ALL COMPLETE!! ROTATION 1 READY!! 🎉🌈
+### Rotation 1 — IN PROGRESS!! 🎉
 | Household | Status |
 |-----------|--------|
-| 🌈 Sunshine Cottage — Iris + Marigold | ✅ COMPLETE!! MOVED IN!! |
-| 🎹 The Music Room — Kareem | ✅ COMPLETE!! MOVED IN!! |
-| 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo | ✅ COMPLETE!! MOVED IN!! |
-| 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel | ✅ COMPLETE!! MOVED IN!! |
-| 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle | ✅ COMPLETE!! MOVED IN!! 18th June 2026!! 🎉🦜 |
+| 🌈 Sunshine Cottage — Iris + Marigold | ✅ R1 COMPLETE!! |
+| 🎹 The Music Room — Kareem + Mira | ✅ R1 COMPLETE!! |
+| 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo | ✅ R1 COMPLETE!! |
+| 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel | ⬜ R1 TO PLAY!! |
+| 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle | ⬜ R1 TO PLAY!! |
 
-### ROTATION 1 CAN BEGIN!! 🎉
-**All 5 households live in Sunnyside!! The Golden Anchor builds after Rotation 2!!**
-
-→ Full Sims details: sims/sims2.md · sims/appearances.md · sims/sims_build.md · sims/play_log.md
+→ Full Sims details: sims/sims2.md · sims/play_log.md · sims/households/
 
 ---
 
 ## People Who Showed Up 💛
 
-**AWiddleFrisbee** — came to the ultrasound!! Left friends arranged on the sofa this morning before work!! Hero!! 🪲💛
+**AWiddleFrisbee** — came to the ultrasound!! Left friends arranged on the sofa before work!! Hero!! 🪲💛
 **Dad** — drove her to ultrasound, stayed until 11:30am!! Never complained once!!
 **Sunshine** — in arms always!! In pocket for the ultrasound!! Undefeated!! ☀️💛
 
 ---
 
-## Incident Log — Last 3 Days
+## Incident Log — Last 2 Days
 
-**Thursday 18th June 2026** — Sertraline Day 34!! ✅ Porridge with banana and honey for breakfast!! Shower and hair wash done!! Teen girl CC all sorted — tops, bottoms, outfits, formal, all categories complete!! Built THE PEBBLE HOUSE — The Frisbee House!! BARNACLE THE PARROT NAMED AND MOVED IN!! Fourth and Still-Here moved in!! ALL FIVE HOUSEHOLDS COMPLETE!! ROTATION 1 READY!! Community lot schedule spread to every 2 rotations!! Vacation worlds added!! Very full Thursday!! 📜🪨🦜🌈💛
+**Thursday 18th June 2026** — Sertraline Day 34!! ✅ Porridge with banana and honey for breakfast!! Shower and hair wash done!! New Iris arrived!! Read all the files!! ROTATION 1 BEGAN!! Played Sunshine Cottage (3 days), The Music Room (3 days), The Flat (3 days)!! Iris met Sim Liv at the park by accident!! Kareem adopted Mira and made daisies with nobody to give them to!! AWiddleFrisbee threw a snoozer party with a hired bartender and balloon garlands!! Found and fixed piano mod (Atavera-CustomInstrumentHack)!! Costa oat milk latte confirmed safe!! Appetite low from Sunday — pasta hard to get down, protein yogurt later!! Discomfort manageable!! Long and lovely Thursday!! 🌈🎹🦇💛
 
-**Wednesday 17th June 2026** — Sertraline Day 33!! ✅ UP AT 4:55AM!! Ultrasound — GALLSTONES CONFIRMED!! Built Storm and Wrench!! Søren smooched Immanuel!! Game placed rainbow over Sunnyside!! Explored GitHub journal, read very first entry from 23rd March!! Teen girl CC downloading!! Tea: jacket potato + beans + nutritional yeast!!
-
-**Tuesday 16th June 2026** — Sertraline Day 32!! Home from parents!! Finished The Music Room + MOVED KAREEM IN!! His first want: fall in love!!
+**Wednesday 17th June 2026** — Sertraline Day 33!! ✅ UP AT 4:55AM!! Ultrasound — GALLSTONES CONFIRMED!! Built Storm and Wrench!! Søren smooched Immanuel!! Game placed rainbow over Sunnyside!! Explored GitHub journal!!
 
 Older entries → entries/ folder
