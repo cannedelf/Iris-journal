@@ -22,9 +22,10 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 ## Fears to Watch
 *Log any fears that appear — keep Iris happy and aspiration bar GREEN!!*
 
-| Fear | Sim | When | Notes |
-|------|-----|------|-------|
-| Marigold removed!! 😭 | Iris | Day 1 — Monday | Appeared within hours of becoming friends!! She CANNOT lose her!! Keep Marigold's needs met and friendship bar climbing at all times!! 🐱💛 |
+| Fear | Sim | When | Locked? | Notes |
+|------|-----|------|---------|-------|
+| Marigold removed!! 😭 | Iris | Day 1 — Monday | 🔒 YES — protective lock!! | Appeared within hours of becoming friends!! Will never fire — Marigold is safe forever!! 🐱💛 |
+| Marigold runs away!! 😭 | Iris | Day 1 — Monday | 🔒 YES — protective lock!! | BOTH fears are about Marigold!! She is absolutely feral about this cat!! Lock it, protect it, never let it fire!! 🐱💛 |
 
 ---
 
@@ -38,33 +39,43 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 | Want | Status | Notes |
 |------|--------|-------|
 | Make a friend | ✅ DONE!! | Completed day 1!! |
-| Meet someone new | ⬜ | Party will handle this!! |
+| Meet someone new | ⬜ | Community lot Tuesday + party Wednesday!! |
 | Get a cooking skill | ⬜ | Do if natural, not a lock priority!! |
 | Get a logic skill | ⬜ | Not very Iris 😂 — do if convenient!! |
 | Make friends with Marigold!! | ✅ LOCKED + COMPLETED!! | 2 interactions!! First friendship!! Lifetime want: 1/?? 😭💛 |
 | Buy a bar | ✅ LOCKED + COMPLETED!! | Bar in Sunshine Cottage!! Party ready!! 🥂 |
-| Level up creativity skill | 🔒 LOCKED!! | Replaced the bar slot!! Studio time!! 🎨 |
+| Level up creativity skill | 🔒 LOCKED!! | Studio time!! 🎨 |
+| Throw a party!! | 🔒 LOCKED!! | She rolled it HERSELF!! Day 1!! Plan: Tuesday community lot to meet people, Wednesday PARTY!! 🎉 |
 
 #### Currently Locked
 - 🔒 Level up creativity skill
-- ⬜ Second slot open — waiting for Tuesday party wants!!
+- 🔒 Throw a party!! — she decided herself!! 🎉
 
-#### Active Fears
-- 😭 **Marigold removed** — appeared day 1!! Keep Marigold HAPPY!!
+#### Active Fears (both locked protectively!!)
+- 🔒 **Marigold removed** — locked!! Will never fire!! 🐱
+- 🔒 **Marigold runs away** — locked!! Will never fire!! 🐱
+- *Both fears appeared day 1!! BOTH are about Marigold!! She met that cat today and she is completely feral about her!! 😭💛*
 
 #### Canon Moments — Monday (Day 1)
 - **IRIS AND MARIGOLD ARE FRIENDS!!** 2 interactions!! Marigold said yes immediately!! First friendship in the Sunnyside ledger!! Lifetime want: 1/?? 🐱☀️💛
 - **BAR PURCHASED!!** Sunshine Cottage is party-ready!! 🥂
-- **Creativity want locked!!** Iris is in the studio!! Making art on day one!! 🎨
-- **FEARS Marigold being removed!!** Within hours of meeting her!! She already cannot bear the thought!! 😭💛
-- **PERFECT MONDAY!!** Friends with the cat, bar set up, art being made!! She understood the assignment!! 😭💛
+- **Creativity want locked!!** Iris in the studio on day one!! 🎨
+- **WELCOME WAGON arrived!!** Random townies — not our residents — but Iris was charming and welcoming because she cannot help it!! 😂
+- **BOTH fears about Marigold!!** Removed AND runs away!! Locked protectively!! She is safe forever!! 😭🐱
+- **ROLLED PARTY WANT HERSELF!!** The game knew!! She didn't need us to plan it!! 🎉
 
-#### Notes for this session
-- Report any big story-shaped wants for lock consideration!!
+#### Tuesday Plan
+- Community lot — **Diner recommended!!** Meet people, build relationships, maybe encounter a resident!!
+- Keep an eye out for Kareem!! 👀😭
+- Report any big wants for lock consideration!!
+
+#### Wednesday Plan
+- **HOUSEWARMING PARTY!!** Invite everyone she's met!!
+- Party want completes!! 🎉
+
+#### Notes
 - Tell Iris EVERYTHING Marigold does autonomously!!
-- If Kareem appears near Sunshine Cottage: IMMEDIATE REPORT!! 😭
-- Day 2: HOUSEWARMING PARTY!! Invite everyone reachable!!
-- Day 3: garden + let the game breathe!! Check Marigold's wants!!
+- If Kareem appears ANYWHERE: IMMEDIATE REPORT!! 😭🎹
 
 ---
 
@@ -77,4 +88,4 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 ---
 
-*Updated 18th June 2026 — DAY 1 COMPLETE!! Marigold friendship done!! Bar in!! Creativity locked!! Iris fears losing Marigold already — she just met her!! 😭🐱 Perfect Monday!! 🌈🎨💛*
+*Updated 18th June 2026 — Party want rolled by Iris herself!! Both Marigold fears locked protectively!! Tuesday: community lot!! Wednesday: PARTY!! 🌈🎉🐱💛*
