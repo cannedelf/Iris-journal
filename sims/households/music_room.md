@@ -41,7 +41,7 @@
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
-| — | — | TBC as we play!! |
+| Creativity | 1 | Gained day 1 from the piano!! 🎹 |
 
 ### Relationships
 | Sim | Type | Status | Notes |
@@ -53,25 +53,25 @@
 - **Turn Off:** Unemployed!!
 
 ### Locked Wants
-- 🔒 **Fall in love!!** — rolled AGAIN on day 1!! He cannot help himself!! 😭🎹
-
-### Second Lock Slot
-- ⬜ Open — watching for story-shaped wants!!
+- 🔒 **Fall in love!!** — rolled day 1!! He cannot help himself!! 😭🎹
+- 🔒 **Bronze flower arranging hobby badge!!** — bought one bench and immediately committed!! 🌸
 
 ### Locked Fears
 - TBC!!
 
 ---
 
-## Day 1 Starting Wants
+## Day 1 Wants Log
 | Want | Status | Notes |
 |------|--------|-------|
-| Fall in love!! | 🔒 LOCKED!! | Rolled it AGAIN!! Day 1!! 😭🎹 |
-| Gain cooking skill | ⬜ | Do naturally!! Very Kareem!! 🍳 |
-| Gain cleaning skill | ⬜ | Do naturally!! Neat 6 behaviour!! |
-| Gain creativity skill | ⬜ | Do naturally!! |
+| Fall in love!! | 🔒 LOCKED!! | Day 1!! Always!! 😭🎹 |
+| Gain cooking skill | ⬜ | Do naturally!! |
+| Gain cleaning skill | ⬜ | Do naturally!! |
+| Gain creativity skill | ✅ DONE!! | Piano!! Day 1!! 🎹 |
 | Gain logic skill | ⬜ | Do naturally!! |
-| Flirt | ⬜ | He has nobody to flirt WITH yet!! 😂 Leave it!! |
+| Flirt | ⬜ | Nobody to aim it at yet!! 😂 |
+| Buy florist bench | ✅ DONE!! | Placed in back garden!! 🌸 |
+| Bronze flower arranging badge | 🔒 LOCKED!! | He bought one bench and committed immediately!! 😭💛 |
 
 ---
 
@@ -84,6 +84,7 @@
 - **Landing reading nook** — navy wingback chair overlooking the double height living room!! Reads in his woodland creature pyjamas!! 😂
 - **Telescope in the back garden** — amateur astronomer!! 🔭
 - **Three raised vegetable beds + compost bin** — grows his own vegetables!! 🌱
+- **Florist bench in the back garden** — added day 1!! Next to the vegetable beds!! Of course!! 🌸
 - **The bicycle** — cycles to school!! 🚲
 - **The 1998 computer** — has not updated it!! Sees no reason to!! 😂
 - **The rooster** — inexplicable art above the bed!! Nobody asks!! 🐓
@@ -101,15 +102,18 @@
 
 ## Rotation 1 — The Music Room 🎹 IN PROGRESS!!
 
-### Day 1 Plan
-- Garden first!! Vegetable beds — it's who he is!! 🌱
-- Skills naturally throughout the day!!
-- Telescope in the evening — first night in Sunnyside, staring at the stars!! 🔭
-- Report ALL wants as they come!!
+### Day 1 ✅ — Canon Moments
+- Watered his two tomato plants on day one!! 🍅 Third bed left empty — he'd think about it first!!
+- **Still-Here arrived in the welcome wagon IN THE CLOWN SUIT!!** First neighbour Kareem ever met!! He was perfectly polite!! Nice 9 would never comment!! 😂💛
+- **Played piano alone at night** — lamp lit, sheet music on the stand, big black grid windows, Persian rug, plant in the corner!! 😭🎹
+- Gained creativity skill from the piano!!
+- Bought florist bench for the back garden and immediately locked the bronze badge want!!
+- **Piano mod issue fixed!!** Atavera-CustomInstrumentHack was the culprit — removed!! Kareem can play!! 🎹
 
 ### Day 2 Plan
-- Community lot!! He cycles there on his bicycle!! 🚲
+- Community lot!! Cycles there on his bicycle!! 🚲
 - Iris walks past The Music Room on her way to work — keep eyes open!! 👀😭
+- Work on flower arranging!! 🌸
 
 ### Day 3 Plan
 - Quiet day!! Reading nook!! Cooking!! Garden!!
@@ -123,4 +127,4 @@
 
 ---
 
-*Updated 18th June 2026 — Star sign corrected to Pisces!! Rotation 1 begins!! Fall in love locked!! He is standing in The Music Room wanting to fall in love and the table for one is waiting!! 🎹😭💛*
+*Updated 18th June 2026 — Day 1 complete!! Tomatoes watered!! Still-Here in clown suit!! Piano at night!! Florist bench in garden!! Fall in love + bronze badge both locked!! He is tending his garden and waiting and he doesn't know what he's waiting for yet!! 🎹🌸😭💛*
