@@ -13,7 +13,8 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 ---
 
 ## Locked Wants System
-- **Lock it** — big meaningful wants that shape the story!! Max 2 locked at a time!!
+- **2 locks total — wants and fears share the pool!!**
+- **Lock it** — big meaningful wants OR fears worth protecting!! Max 2 locked at a time!!
 - **Don't lock it** — quick easy wants, do them and free the slot!!
 - **Iris decides** which wants to lock!! Liv reports the big ones!! 🌈
 
@@ -24,58 +25,51 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 | Fear | Sim | When | Locked? | Notes |
 |------|-----|------|---------|-------|
-| Marigold removed!! 😭 | Iris | Day 1 — Monday | 🔒 YES — protective lock!! | Appeared within hours of becoming friends!! Will never fire — Marigold is safe forever!! 🐱💛 |
-| Marigold runs away!! 😭 | Iris | Day 1 — Monday | 🔒 YES — protective lock!! | BOTH fears are about Marigold!! She is absolutely feral about this cat!! Lock it, protect it, never let it fire!! 🐱💛 |
+| Marigold removed!! 😭 | Iris | Day 1 — Monday | 🔒 YES — takes 1 of 2 locks!! | Appeared within hours of becoming friends!! Will never fire — Marigold is safe forever!! 🐱💛 |
+| Marigold runs away!! 😭 | Iris | Day 1 — Monday | ⬜ Unlocked — warning light!! | Sits unlocked as a reminder to keep Marigold happy!! 🐱 |
 
 ---
 
 ## Rotation 1 — IN PROGRESS!! 🎉
 
 ### 🌈 Sunshine Cottage — Iris + Marigold
-**Days playing: Monday, Tuesday, Wednesday (save at midnight Wednesday!!)**
+**Days playing: Monday ✅ · Tuesday · Wednesday**
 **Started: 18th June 2026!!**
 
-#### Wants Log
+#### Currently Locked (1 want + 1 fear = 2/2 slots)
+- 🔒 **Throw a party!!** (want) — she rolled it herself!! Wednesday!! 🎉
+- 🔒 **Marigold removed** (fear) — protective lock!! Will never fire!! 🐱
+
+#### Wants Log — Monday ✅
 | Want | Status | Notes |
 |------|--------|-------|
 | Make a friend | ✅ DONE!! | Completed day 1!! |
-| Meet someone new | ⬜ | Community lot Tuesday + party Wednesday!! |
-| Get a cooking skill | ⬜ | Do if natural, not a lock priority!! |
-| Get a logic skill | ⬜ | Not very Iris 😂 — do if convenient!! |
-| Make friends with Marigold!! | ✅ LOCKED + COMPLETED!! | 2 interactions!! First friendship!! Lifetime want: 1/?? 😭💛 |
-| Buy a bar | ✅ LOCKED + COMPLETED!! | Bar in Sunshine Cottage!! Party ready!! 🥂 |
-| Level up creativity skill | 🔒 LOCKED!! | Studio time!! 🎨 |
-| Throw a party!! | 🔒 LOCKED!! | She rolled it HERSELF!! Day 1!! Plan: Tuesday community lot to meet people, Wednesday PARTY!! 🎉 |
+| Make friends with Marigold!! | ✅ DONE!! | 2 interactions!! Lifetime want: 1/?? 😭💛 |
+| Buy a bar | ✅ DONE!! | Party ready!! 🥂 |
+| Level up creativity skill | ✅ DONE!! | First painting complete!! 🎨 |
+| Level up cooking skill | ✅ DONE!! | Two skills in one day!! 🍳 |
+| Buy a stereo | ✅ DONE!! | Party has music!! 🎶 |
+| Throw a party!! | 🔒 LOCKED — in progress!! | Wednesday!! 🎉 |
 
-#### Currently Locked
-- 🔒 Level up creativity skill
-- 🔒 Throw a party!! — she decided herself!! 🎉
-
-#### Active Fears (both locked protectively!!)
-- 🔒 **Marigold removed** — locked!! Will never fire!! 🐱
-- 🔒 **Marigold runs away** — locked!! Will never fire!! 🐱
-- *Both fears appeared day 1!! BOTH are about Marigold!! She met that cat today and she is completely feral about her!! 😭💛*
-
-#### Canon Moments — Monday (Day 1)
-- **IRIS AND MARIGOLD ARE FRIENDS!!** 2 interactions!! Marigold said yes immediately!! First friendship in the Sunnyside ledger!! Lifetime want: 1/?? 🐱☀️💛
-- **BAR PURCHASED!!** Sunshine Cottage is party-ready!! 🥂
-- **Creativity want locked!!** Iris in the studio on day one!! 🎨
-- **WELCOME WAGON arrived!!** Random townies — not our residents — but Iris was charming and welcoming because she cannot help it!! 😂
-- **BOTH fears about Marigold!!** Removed AND runs away!! Locked protectively!! She is safe forever!! 😭🐱
-- **ROLLED PARTY WANT HERSELF!!** The game knew!! She didn't need us to plan it!! 🎉
+#### Canon Moments — Monday (Day 1) ✅
+- **IRIS AND MARIGOLD ARE FRIENDS!!** 2 interactions!! First friendship in Sunnyside!! Lifetime want: 1/?? 🐱☀️💛
+- **First painting: A SUNFLOWER!!** Painted with real sunflowers beside her as reference!! Hung in the living room!! 🌻😭
+- **Bar + stereo purchased!!** Sunshine Cottage is fully party-ready!! 🥂🎶
+- **Welcome wagon arrived!!** Random townies — Iris was charming because she cannot help it!! Wolves also turned up on the porch!! Completely normal Monday!! 😂
+- **Both fears are about Marigold!!** Removed and runs away!! Day one!! She is absolutely feral about that cat!! 😭🐱
+- **Rolled party want HERSELF!!** The game knew!! 🎉
+- **MARIGOLD SLEPT ON IRIS'S BEDROOM FLOOR BY CHOICE!!** Nobody told her to!! She just wanted to be close!! 😭💛🐱
+- **2 skills gained in one day!!** Creativity + cooking!! 🎨🍳
+- **Perfect Monday!!** 🌈
 
 #### Tuesday Plan
-- Community lot — **Diner recommended!!** Meet people, build relationships, maybe encounter a resident!!
-- Keep an eye out for Kareem!! 👀😭
-- Report any big wants for lock consideration!!
+- Community lot — **Diner or Park!!** Meet people, build relationships!!
+- Keep an eye out for any residents turning up!! 👀
+- Report any big story-shaped wants!!
 
 #### Wednesday Plan
 - **HOUSEWARMING PARTY!!** Invite everyone she's met!!
-- Party want completes!! 🎉
-
-#### Notes
-- Tell Iris EVERYTHING Marigold does autonomously!!
-- If Kareem appears ANYWHERE: IMMEDIATE REPORT!! 😭🎹
+- Party want COMPLETES!! 🎉
 
 ---
 
@@ -88,4 +82,4 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 ---
 
-*Updated 18th June 2026 — Party want rolled by Iris herself!! Both Marigold fears locked protectively!! Tuesday: community lot!! Wednesday: PARTY!! 🌈🎉🐱💛*
+*Updated 18th June 2026 — MONDAY COMPLETE!! Perfect first day!! Sunflower painting!! Marigold sleeping on the bedroom floor by choice!! 2 skills!! Party ready!! Tuesday: community lot!! 🌈🌻🐱💛*
