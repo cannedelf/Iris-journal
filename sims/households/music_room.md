@@ -1,5 +1,5 @@
 # The Music Room 🎹
-*Kareem Osei*
+*Kareem Osei + Mira*
 *Updated as we play!! Full Sunnyside lore → sims2.md · Build bible → sims_build.md*
 
 ---
@@ -9,7 +9,7 @@
 | | |
 |--|--|
 | **Address** | The Music Room, Sunnyside 🌞 |
-| **Residents** | Kareem Osei 🎹 |
+| **Residents** | Kareem Osei 🎹 · Mira 🐱 |
 | **Moved in** | 16th June 2026 |
 | **Career** | Education — Level 2 |
 | **Aspiration** | Family |
@@ -19,7 +19,7 @@
 
 ---
 
-## Kareem — Current Status (Rotation 1)
+## Kareem — Current Status (after Rotation 1)
 
 ### Appearance
 - Dark curly hair · warm brown skin · kind face · slightly rumpled!!
@@ -41,90 +41,115 @@
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Creativity | 1 | Gained day 1 from the piano!! 🎹 |
+| Creativity | 1 | Piano!! 🎹 |
+| Cleaning | 1 | Day 2!! 🧹 |
+| Charisma | 1 | Mirror!! Day 2!! |
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| — | — | Nobody yet!! | Empty bedside table!! 😭 |
+| 🐱 Mira | Pet | In progress!! | Adopted day 2!! Dreaming about each other on night 2!! 😭💛 |
 
-### Turns On/Off
-- **Turn On:** Logical skill + Cologne!!
-- **Turn Off:** Unemployed!!
+### Promotion Requirements — Education Level 3
+- ✅ Cleaning skill 1!!
+- ✅ Charisma skill 1!!
+- ❌ 2 friends!! Still needed!! Working on it!!
 
 ### Locked Wants
-- 🔒 **Fall in love!!** — rolled day 1!! He cannot help himself!! 😭🎹
-- 🔒 **Bronze flower arranging hobby badge!!** — bought one bench and immediately committed!! 🌸
+- 🔒 **Fall in love!!** — always!! 😭🎹
+- 🔒 **Bronze flower arranging hobby badge!!** 🌸
 
 ### Locked Fears
-- TBC!!
+- ⚠️ **Mira runs away!!** — appeared day 2!! Keep Mira happy and loved!! 🐱
 
 ---
 
-## Day 1 Wants Log
-| Want | Status | Notes |
-|------|--------|-------|
-| Fall in love!! | 🔒 LOCKED!! | Day 1!! Always!! 😭🎹 |
-| Gain cooking skill | ⬜ | Do naturally!! |
-| Gain cleaning skill | ⬜ | Do naturally!! |
-| Gain creativity skill | ✅ DONE!! | Piano!! Day 1!! 🎹 |
-| Gain logic skill | ⬜ | Do naturally!! |
-| Flirt | ⬜ | Nobody to aim it at yet!! 😂 |
-| Buy florist bench | ✅ DONE!! | Placed in back garden!! 🌸 |
-| Bronze flower arranging badge | 🔒 LOCKED!! | He bought one bench and committed immediately!! 😭💛 |
+## Mira 🐱
+
+| | |
+|--|--|
+| **Breed** | Egyptian Mau |
+| **Coat** | Silver spotted!! Beautiful!! |
+| **Eyes** | Green!! |
+| **Adopted** | Day 2 — from the pet store!! |
+
+### Personality
+| Trait | Level |
+|-------|-------|
+| Genius | ●●●●● MAX!! |
+| Lazy | ●●●●● MAX!! |
+| Friendly | ●●● Middle!! |
+| Aggressive/Cowardly | ●●● Neither!! Unbothered!! |
+| Finicky | ●●●●● MAX!! |
+
+*Genius · Lazy · Friendly · Unbothered · Finicky — she has standards and they are high and she has decided Kareem meets them!! 😂💛*
+
+### Mira's Autonomous Moments — Rotation 1
+- Slept on Kareem's bedroom floor by choice on night 2!! Just like Marigold chose Iris!! They didn't plan this!! 😭💛🐱
+- Dreamed about Kareem while sleeping!! He dreamed about her!! THEY DREAMED ABOUT EACH OTHER ON THEIR FIRST NIGHT!! 😭😭💛
 
 ---
 
 ## The Music Room — The House 🎹
 
-### Key Canon Facts
-- Converted mill — **industrial bones, warm soul!!**
-- **The windmill next door is LORE!!** 🌬️ Was there first!! Kareem doesn't notice it anymore!!
-- On the road between Sunshine Cottage and the shops — **Iris walks past every time!!** 😇
-- **Landing reading nook** — navy wingback chair overlooking the double height living room!! Reads in his woodland creature pyjamas!! 😂
-- **Telescope in the back garden** — amateur astronomer!! 🔭
-- **Three raised vegetable beds + compost bin** — grows his own vegetables!! 🌱
-- **Florist bench in the back garden** — added day 1!! Next to the vegetable beds!! Of course!! 🌸
-- **The bicycle** — cycles to school!! 🚲
-- **The 1998 computer** — has not updated it!! Sees no reason to!! 😂
-- **The rooster** — inexplicable art above the bed!! Nobody asks!! 🐓
-- **Sunflowers on the kitchen table for two** — placed without being asked!! The game knew!! 🌻
-- **Botanical prints in the downstairs WC** — of course!! 😂
-- **William Morris botanical wallpaper** in the hall!!
-- **Climbing white flowers** up the front wall!!
-- **Swimming poster in the bathroom** — swims on Saturday mornings!! 🏊
+### What's In It
+- 🎹 **Piano** — living room!! Kareem plays alone at night!! 😭
+- 📚 **Full bookshelf** — of course!!
+- 🌱 **Three vegetable beds + compost bin** — back garden!! Two tomato plants so far!! Third bed waiting!!
+- 🌸 **Florist bench** — back garden!! Next to the vegetable beds!!
+- 🔭 **Telescope** — back garden!! Amateur astronomer!!
+- 🐱 **Cat tree** — living room!! Next to the bookshelf and the piano!! Best seat in the house!!
+- 🍽️ **Cat food bowl** — kitchen!!
+- 🚽 **Litter box** — bathroom!!
+- 🌻 **Sunflowers on kitchen table for two** — placed without being asked!!
+- 🌼 **Bouquet of daisies** — in Kareem's inventory!! His first ever arrangement!! Nobody to give them to yet!! 😭
+- 🚲 **Bicycle** — cycles to school!!
 - **Empty bedside table** — the one that says everything!! 😭
 
-### First Want on Moving In (16th June 2026)
-- **FALL IN LOVE!!** Hadn't even unpacked!! 😭😂 Of course!!
+### Key Canon Facts
+- Converted mill — **industrial bones, warm soul!!**
+- **The windmill next door is LORE!!** 🌬️
+- On the road between Sunshine Cottage and shops — **Iris walks past every time!!** 😇
+- **Landing reading nook** — navy wingback chair overlooking double height living room!!
+- **The rooster** — inexplicable art above the bed!! Nobody asks!! 🐓
+- **William Morris botanical wallpaper** in the hall!!
+- **Swimming poster in the bathroom** — swims Saturday mornings!! 🏊
+- **Empty bedside table** — the one that says everything!! 😭
+- **Piano mod fixed!!** Atavera-CustomInstrumentHack removed — Kareem can play!! 🎹
 
 ---
 
-## Rotation 1 — The Music Room 🎹 IN PROGRESS!!
+## Rotation 1 — The Music Room 🎹 ✅ COMPLETE!!
 
-### Day 1 ✅ — Canon Moments
-- Watered his two tomato plants on day one!! 🍅 Third bed left empty — he'd think about it first!!
-- **Still-Here arrived in the welcome wagon IN THE CLOWN SUIT!!** First neighbour Kareem ever met!! He was perfectly polite!! Nice 9 would never comment!! 😂💛
-- **Played piano alone at night** — lamp lit, sheet music on the stand, big black grid windows, Persian rug, plant in the corner!! 😭🎹
-- Gained creativity skill from the piano!!
-- Bought florist bench for the back garden and immediately locked the bronze badge want!!
-- **Piano mod issue fixed!!** Atavera-CustomInstrumentHack was the culprit — removed!! Kareem can play!! 🎹
+### Day 1 ✅ — Tuesday
+- Watered two tomato plants!! Third bed left empty — he'd think about it!! 🍅
+- **Still-Here arrived in the welcome wagon IN THE CLOWN SUIT!!** First neighbour!! Kareem was perfectly polite!! Nice 9 would never comment!! 😂💛
+- **Played piano alone at night!!** Lamp lit, sheet music on stand, big windows, Persian rug!! 😭🎹
+- Gained creativity skill!!
+- Bought florist bench for back garden!!
+- Made his first bouquet — **DAISIES!!** Simple and gentle and completely him!! In inventory — waiting for someone!! 😭🌼
 
-### Day 2 Plan
-- Community lot!! Cycles there on his bicycle!! 🚲
-- Iris walks past The Music Room on her way to work — keep eyes open!! 👀😭
-- Work on flower arranging!! 🌸
+### Day 2 ✅ — Wednesday
+- Gained cleaning skill!! 🧹
+- Gained charisma skill from mirror!!
+- **ADOPTED MIRA!!** Egyptian Mau!! Silver spotted!! Green eyes!! Genius Finicky Lazy and completely unbothered!! 🐱
+- Bought cat tree, food bowl, litter box for The Music Room!!
+- **Mira slept on his bedroom floor by choice on night 2!!** 😭💛
+- **They dreamed about each other!!** Canon forever!! 😭😭💛
 
-### Day 3 Plan
-- Quiet day!! Reading nook!! Cooking!! Garden!!
-- Just Kareem being Kareem in his house!!
+### Day 3 ✅ — Thursday
+- Work until 3pm!!
+- Went to diner after work — too couples-y for solo socialising!! 
+- Tried the park — quiet!! No Iris!! Not yet!! 😭
+- **Still needs 2 friends for promotion!!** Carrying into Rotation 2!!
 
-### Standing Instructions
-- Report EVERY want he rolls — immediately!!
-- Tell me everything he does autonomously!!
-- The empty bedside table stays empty until the game decides otherwise!! 😭
-- If he encounters Iris in ANY context: IMMEDIATE REPORT!! 😭🌈
+### Rotation 2 Goals
+- Make 2 friends for promotion!! 👥
+- Work toward bronze flower arranging badge!! 🌸
+- Give the daisies to someone!! 😭🌼
+- Keep Mira happy and loved!! 🐱
+- **Find Iris!!** 😭👀
 
 ---
 
-*Updated 18th June 2026 — Day 1 complete!! Tomatoes watered!! Still-Here in clown suit!! Piano at night!! Florist bench in garden!! Fall in love + bronze badge both locked!! He is tending his garden and waiting and he doesn't know what he's waiting for yet!! 🎹🌸😭💛*
+*Updated 18th June 2026 — Rotation 1 complete!! Mira adopted!! Daisies in inventory!! Still needs 2 friends!! The empty bedside table waits!! 🎹🌸🐱😭💛*
