@@ -37,13 +37,15 @@
 
 ### Career
 - **Science — Field Research, Level 3!!** 🔬
+- Was promoted to Science Teacher Level 4 then immediately demoted back!! The principal was wrong!! 😭🌩️
 
-### Skills (after Rotation 1 Day 2)
+### Skills (after Rotation 1)
 | Skill | Level | Notes |
 |-------|-------|-------|
 | Cooking | 3 | ✅ Up from 2!! |
-| Logic | 2 | ✅ Up from 1!! Telescope!! 🔭 |
+| Logic | 3 | ✅ Up from 1!! Telescope every night!! 🔭 |
 | Cleaning | 6 | ✅ Up from 5!! Read the book!! |
+| Creativity | 1 | ✅ New!! Piano!! 🎹 |
 
 ### Relationships
 | Sim | Type | Status | Notes |
@@ -52,11 +54,11 @@
 | 😤 Immanuel | Pet | Smooched on move-in day!! | Highest honour!! 😭 |
 
 ### Promotion Requirements — Science Level 4
-- ✅ **1 household friend!!** — Wrench made friends with Andrea!! 👥💕
+- ✅ **1 household friend!!** — Wrench made friends with Andrea AND AWiddleFrisbee!! 👥💕
 
 ### Locked Wants
 - 🔒 **Be saved from death!!** 💀 — big dramatic Knowledge want, absolutely protect it!!
-- ⬜ **Slot open!!** — See A Ghost unlocked (no dead Sims in Sunnyside yet!!)
+- 🔒 **Logic 4!!** 🔭 — long road from 3, meaningful, telescope every night!!
 
 ### Locked Fears
 *(shares the 2-lock pool with wants!!)*
@@ -66,7 +68,8 @@
 ## Wrench 🔧
 
 ### Appearance
-- Flannel shirt!!
+- Dungarees (new!! teal, everyday) · Smart flannel (new!! date outfit) · Watch (new!!) 🕐
+- Flannel shirt (original!!) · sturdy boots!!
 - Star sign: **Scorpio** ♏
 - Turns on: Mechanical + Fitness · Turns off: Stinkiness
 - **Hidden genes:** Hazel eyes recessive from Ruth!!
@@ -84,21 +87,26 @@
 - **Knowledge!!**
 
 ### Career
-- **Architect — Cement Mixer, Level 1!!** 🏗️ Demoted Day 2 for doing the right thing!! He is FURIOUS!!
+- **Architect — Cement Mixer, Level 1!!** 🏗️
+- Was Bricklayer Level 2 — demoted Day 2 for doing the right thing!! He is FURIOUS and has a GRUDGE!! 😭🔧
 
-### Skills
+### Skills (after Rotation 1)
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Mechanical | 1 | Just getting started!! 🔧 |
+| Cooking | 1 | 🍳 |
+| Mechanical | 1 | 🔧 |
+| Logic | 1 | Chess table at the park!! ♟️ |
+| Creativity | 2 | Highest skill!! Very funny!! 😂 |
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🌩️ Søren | Sibling | Brothers!! | |
-| 💕 Andrea Hogan | Friend!! | 2 bolts!! | Slacker career level 6!! Made friends Day 2!! Best thing about a terrible day!! 😭💕 |
+| 💕 Andrea Hogan | Friend!! | 2 bolts!! | Made friends Day 2!! Came over in a yellow dress on his worst day!! 😭💕 |
+| 🍊 AWiddleFrisbee | Friend!! | | Made friends Day 3 at the park!! Negative attraction but brilliant friendship!! 😂 |
 
 ### Promotion Requirements — Architect Level 2
-- TBC — fill in when loaded!!
+- TBC — fill in next rotation!!
 
 ### Locked Wants
 - 🔒 **Bronze robotics talent badge!!** 🤖 — most him, will take real time!!
@@ -106,19 +114,6 @@
 
 ### Locked Fears
 *(shares the 2-lock pool with wants!!)*
-
----
-
-## Starting Wants — Wrench
-| Want | Locked? | Notes |
-|------|---------|-------|
-| Earn money | ✅ | Done!! |
-| Earn £100 | ✅ | Done!! |
-| Get creativity level 1 | ⬜ | Still to do!! |
-| Woohoo!! | ⬜ | 😂 Will happen when it happens!! |
-| Bronze toy making badge | ⬜ | Unlocked — work toward naturally!! 🧸 |
-| Bronze robotics badge | 🔒 | Takes time — protect it!! 🤖 |
-| Promotion!! | 🔒 | He has a grudge!! 🏗️ |
 
 ---
 
@@ -170,8 +165,9 @@
 - **Wrench's trunk** in the living room — not moving, Søren has mentioned it twice, it has not moved!! 🔧
 - **Philosophical bench in the back garden** — Søren's!! 🪑
 - **Telescope** — back garden!! Søren's!! Logic ticks up here every night!! 🔭
+- **Piano** — new!! Rotation 1!! Søren plays alone in the evenings!! 🎹 Wrench can hear it through the wall!!
 - **Charcoal shed** — Wrench's!! Full of stuff!! Nobody asks!!
-- **Workshop** — Wrench's domain!! Robotics bench + toy making bench!! NOBODY ELSE TOUCHES ANYTHING!! Woodworking bench swapped out for toy making bench Day 1!!
+- **Workshop** — Wrench's domain!! Robotics bench + toy making bench!! NOBODY ELSE TOUCHES ANYTHING!! Woodworking bench swapped out for toy making bench Rotation 1!!
 - **Red truck in the driveway!!** 🛻 Wrench bought it!! Has a toolbox in the back!! Canon immediately!!
 - **Food processor** — new in the kitchen!! Wrench bought it!! 🥘
 - **Søren's bedroom:** Yellow pillows — HE DIDN'T CHOOSE THEM!! HE HASN'T MOVED THEM!! Won't discuss!! 💛
@@ -184,7 +180,7 @@
 
 ---
 
-## Rotation 1 🌩️🔧
+## Rotation 1 ✅ COMPLETE!! 🎉🌩️🔧
 
 ### Starting Wants — Søren
 | Want | Locked? | Notes |
@@ -215,25 +211,51 @@
 ### Day 2 ✅ — The Worst Best Day!!
 **Wrench:**
 - **Went to work as a Bricklayer** — hard hat, suspenders, work gloves, red truck!! 🛻👷
-- **Work event: sinking wall!!** Chose to rebuild properly — foundation was soft, he noticed, he fixed it!! ✅
+- **Work event: sinking wall!!** Chose to rebuild properly — foundation was soft, he noticed, he fixed it!! The correct decision!! ✅
 - **GOT DEMOTED to Cement Mixer!!** Rebuilding took all day, boss was furious!! Demoted for doing the right thing!! 😭🔧
-- **Came home and cried in his hard hat in the hallway!! 😭** Still had his gloves on!!
-- **Burned the mac and cheese!! 😭** Two bad memories back to back!!
+- **Came home and cried in his hard hat in the hallway!!** Still had his gloves on!! 😭
+- **Burned the mac and cheese!!** Two bad memories back to back!! 😭
 - **Cried into his lunch meat sandwich!!** The most defeated sandwich in Sunnyside!!
 - **Called Andrea Hogan — she said YES!!** 💕
-- **MADE FRIENDS WITH ANDREA!!** 😭💕 Best thing about a terrible day!!
-- Andrea: braided bun, yellow dress, Capricorn, Slacker Projectionist level 6, 2 bolts with Wrench!! 💕
+- **MADE FRIENDS WITH ANDREA!!** Best thing about a terrible day!! 😭💕
 
 **Søren:**
-- **Promotion requirements now met!!** Wrench made a friend — household friend unlocked!! ✅🔬
-- Ready for promotion next time he goes to work!! 🎉
+- **Promoted to Science Teacher Level 4!!** 🎉🌩️
+- **Took students to the video arcade for SCIENCE!!** Had lectures prepared on reflection and refraction!! Children were hypnotised!! 🕹️
+- **Principal showed up!! DEMOTED back to Field Researcher!!** 😭🌩️
+- Promotion requirements still met — Wrench made a household friend!!
 
-### Day 3 —
-*(fill in as we play!!)*
+### Day 3 ✅ — Park Day!!
+**Wrench:**
+- **Day off!!** Had the career blues — wanted to quit his job!! 😭
+- **Went to the park — played chess!!** Logic 1 gained!! ♟️ Career crisis averted!!
+- **Bought new clothes!!** Dungarees (everyday!!), smart flannel (date outfit!!), watch!! 🕐
+- **Made friends with AWiddleFrisbee at the park!!** 🍊😂 Negative attraction, brilliant friendship!!
+- **A WITCH WAS AT THE PARK!!** Wrench didn't notice!! Søren wasn't there!! The universe is cruel!! 🧙‍♀️😭
+- **Whole found family at the clothes shop!!** Iris!! Kareem!! Sim Liv!! All there by accident!! Kareem left before anyone could talk to him!! 😭🌼
+
+**Søren:**
+- **Read anger management book!!** "I'll try not to get furious with other Sims if I can help it!!" 😂🌩️
+- **Got a piano!!** 🎹 Plays alone in the evenings!! Wrench can hear it through the wall!!
+- **Telescope — logic 2 → 3!!** ✅ 🔭
+- **Creativity 1 gained!!** Piano!! 🎹
+- **Discovered a previously unknown star!!** Paid £211 by the SimCity Astronomy Club!! 💫
+
+### Locks Carrying into Rotation 2
+**Søren:**
+- 🔒 Be saved from death!! 💀
+- 🔒 Logic 4!! 🔭
+
+**Wrench:**
+- 🔒 Bronze robotics badge!! 🤖
+- 🔒 Promotion!! 🏗️ He has a grudge!!
 
 ### Rotation 2 Goals
-*(fill in at the end!!)*
+- Søren: Logic 4 (telescope every night!!), make a friend of his own, get promoted again!! 🔬
+- Wrench: Work back up to Bricklayer and BEYOND!! Keep on the robotics bench!! Ask Andrea on a date!! 💕
+- Get Søren to see a ghost somehow!! 👻
+- Immanuel: continue judging everyone from the bookshelf!! 😤
 
 ---
 
-*Updated 19th June 2026 — Day 2 done!! Wrench demoted for doing the right thing, cried in his hard hat, then made friends with Andrea Hogan!! Søren's promotion requirements now met!! 🌩️🔧💕😭💛*
+*Updated 19th June 2026 — Rotation 1 COMPLETE!! Søren: logic 3, cleaning 6, cooking 3, creativity 1, discovered a star, promoted AND demoted!! Wrench: demoted for integrity, cried in his hard hat, made friends with Andrea and AWiddleFrisbee, bought dungarees!! The witch was at the park and nobody told Søren!! 🌩️🔧💕😭💛*
