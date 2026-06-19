@@ -11,40 +11,45 @@
 | **Address** | Sunshine Cottage, Sunnyside 🌞 |
 | **Residents** | Iris Golden Rainbow 🌈 · Marigold 🐱 |
 | **Moved in** | 7th June 2026 |
-| **Career** | Street Caricaturist — Level 2!! 🎨 |
+| **Career** | Street Caricaturist — Level 2!! 🎨 Promotion fires Sunday!! |
 | **Aspiration** | Popularity |
 | **Lifetime want** | Make 20 Simultaneous Pet Best Friends!! |
 | **Star sign** | Libra ♎ |
+| **Car** | 1967 Lamborghini Miura!! ✨ |
 
 ---
 
-## Iris — Current Status (after Rotation 1)
+## Iris — Current Status (after Rotation 2)
 
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Creativity | 1 | Needs level 3 for next promotion!! In progress!! 🎨 |
+| Creativity | 3 | ✅ Promotion requirement met!! 🎨 |
+| Mechanical | 2 | ✅ Promotion requirement met!! Read the book!! 🔧 |
 | Cooking | 1 | 🍳 |
-| Logic | 1 | Accidentally gained playing chess with Sim Liv!! 😂💛 |
+| Logic | 1 | Accidentally from chess with Sim Liv!! 😂 |
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| 🐱 Marigold | Pet | FRIENDS!! | 2 interactions!! Lifetime want: 1/?? 😭💛 |
-| 🦇 Sim Liv | Sim | FRIENDS!! | Met at the park Tuesday!! Chess!! Invited over Wednesday!! 😭💛 |
+| 🐱 Marigold | Pet | FRIENDS!! | Lifetime want: 1/?? 😭💛 Toilet training in progress!! |
+| 🦇 Sim Liv | BFF!! 💛 | BEST FRIENDS!! | Met at the park!! Chess!! Party!! Locked BFF want fired!! 😭💛 |
+| 🍊 AWiddleFrisbee | Friend!! | Working toward BFF!! | Played guitar at the party!! 🎸 |
+| 🔧 Wrench | Acquaintance | Met at party!! | Came in his dungarees!! Danced!! 😂 |
 
-### Promotion Requirements
-- Creativity level 3!!
-- Mechanical level 2!!
+### Promotion Requirements — Street Caricaturist Level 3
+- ✅ Creativity 3!!
+- ✅ Mechanical 2!!
+- **Promotion fires Sunday!!** 🎉
 
 ### Locked Wants
-- 🔒 **Throw a party!!** — waiting for a day off!! Sunday or Monday!! 🎉
-
-### Locked Fears
-- 🔒 **Marigold removed** — protective lock!! Will never fire!! 🐱
+- 🔒 **Marigold removed** — permanent protective lock!! 🐱
+- 🔒 **Become BFF with AWiddleFrisbee!!** 🍊 — locked after the party!!
 
 ### Unlocked Fears to Watch
-- ⚠️ **Marigold runs away** — warning light!! Keep Marigold happy!!
+- ⚠️ **Marigold runs away** — keep Marigold happy!!
+- ⚠️ **Sim Liv dies** — she's the BFF!! Keep her visited!!
+- ⚠️ **Become enemies with Sim Liv** — will never happen!! 💛
 
 ---
 
@@ -57,73 +62,86 @@
 | **Star sign** | Virgo |
 | **Personality** | Chaos gremlin with a soft heart!! 😂💛 |
 
-### Marigold's Autonomous Moments — Rotation 1
-- Slept on Iris's bedroom floor by choice on night 1!! Nobody told her to!! She just wanted to be close!! 😭💛🐱
-- Used her scratching post independently while Iris slept!! 🐱
-- Slept on the kitchen counter!! The bed was right there!! She chose the counter!! 😂🐱
-- Slept on the bed while Iris was at work!! The whole bed!! To herself!! 👑🐱
+### Marigold's Autonomous Moments
+- Slept on Iris's bedroom floor by choice on night 1!! 😭💛🐱
+- Slept on the kitchen counter!! The bed was right there!! She chose the counter!! 😂
+- Slept on the whole bed while Iris was at work!! 👑
+- Stood in the confetti at the party like she owned it!! 😂🐱
+- **Toilet training begun Rotation 2!!** Saturday morning!! In progress!! 🚽
 
 ---
 
-## Sunshine Cottage — The House
+## Sunshine Cottage — The House 🌈
 
 ### What's In It
 - 🎨 **Art studio** — stone walls, floor-to-ceiling windows, sunflowers on the side table!!
-- 🥂 **Bar** — purchased day 1!! Party ready!!
-- 🎶 **Stereo** — purchased day 1!! Party ready!!
-- 🖼️ **Sunflower painting x2** — Iris's first paintings!! One hung in the living room!! One sold for £1!! The art world is brutal!! 🌻😭😂
-- 🌿 **Sage green kitchen** — same as the real kitchen!! The simulation always tells the truth!!
-- 🛏️ **Bedroom** — fairy lights + little lamp on the bedside table!! Marigold's spot: the floor beside the bed (night 1) · the counter · the bed (when Iris is out)!! 😂
-- 🚗 **Stylish car** — purchased Wednesday!! £6,250!! Very Street Caricaturist era!! ✨
+- 🥂 **Bar** — party ready!!
+- 🎶 **Stereo** — party ready!!
+- 🎸 **Guitar** — new Rotation 2!! AWiddleFrisbee played it at the party!! 😂
+- 🖼️ **Sunflower painting** — Iris's first!! Hung in the living room!! 🌻
+- 🖼️ **Lighthouse painting** — Iris's second!! Hung in the living room!! 🌊😭
+- 🌿 **Sage green kitchen** — same as the real kitchen!!
+- 🎉 **Party decorations** — balloon clusters outside the front door!! Rainbow balloon garland inside!! Confetti on the floor!! Canon!!
+- 🦋 **Butterfly bracelet** — new Rotation 2!! Very her!!
+
+### Key Canon Facts
+- **The yellow door!!** Sunshine Cottage is unmistakable!!
+- **Kareem cycles past every day!!** He walks past on the road between here and the shops!! He hasn't stopped yet!! 😭🌼
+- **A werewolf was on the porch!!** Rotation 2!! Iris was painting!! She did not interact!! Probably wise!!
+- **The nose incident!!** Rotation 2!! Drew a socialite's nose in full glory!! Easel smashed!! Lost a day's wages!! No regrets!! 😂
+- **Lambo Miura in the driveway!!** Sleek!! Golden!! Slightly ridiculous!! Very her!!
 
 ---
 
-## Rotation 1 — Sunshine Cottage 🌈 ✅ COMPLETE!!
-
-### Monday ✅ — Day 1
-**The perfect first day!!**
-
-- Iris and Marigold became friends — 2 interactions!! LIFETIME WANT: 1/?? 🐱💛
-- First painting: **A SUNFLOWER!!** Painted with real sunflowers beside her for reference!! Hung in the living room!! 🌻😭
-- Bar + stereo purchased!! Sunshine Cottage is party-ready!!
-- Creativity skill point gained!! Cooking skill point gained!! 🎨🍳
-- Welcome wagon arrived — random townies, charming but not our people!!
-- Wolves appeared on the porch!! Completely normal Monday in Sunnyside!! 😂
-- Rolled **party want herself!!** The game knew!! 🎉
-- **Marigold slept on the bedroom floor by choice!!** Nobody told her to!! She just wanted to be close!! 😭💛🐱
-
-### Tuesday ✅ — Day 2
-**Promotion day!! And the first meeting!!**
-
-- Work 11am–2pm!!
-- **PROMOTED!! Artist → Street Caricaturist Level 2!!** 🎨🎉
-- **Bought a stylish car!!** £6,250!! She got promoted and treated herself immediately!! 🚗✨
-- Went to the park after work!!
-- **SIM LIV WAS AT THE PARK!!** Completely by accident!! First meeting!! 😭💛
-- They played chess together!! Iris sat down at a chess board for Sim Liv and nobody else!! 😂💛
-- **Accidentally gained logic skill from the chess!!** She became smarter for one (1) woman!! 😂💛
-- Iris wanted to appreciate Sim Liv before leaving — taxi came before she could!! 😭
-- Marigold slept on the kitchen counter while Iris was out!! 😂🐱
-
-### Wednesday ✅ — Day 3
-**The friendship is sealed!!**
-
-- Paid bills!! Painted another sunflower!! Creativity bar inching up!! 🌻
-- Work 11am–6pm!!
-- Came home and **invited Sim Liv over!!**
-- **IRIS AND SIM LIV ARE FRIENDS!!** 😭💛🌈
-- Party want still locked — waiting for a day off!! Sunday or Monday!! 🎉
-- Iris went to bed happy!! Marigold somewhere chaotic!! 🐱
+## Rotation 1 — Highlights 🌈
+- Marigold became friend 1 of 20!! Slept on the floor by choice!! 😭💛
+- First painting: SUNFLOWER!! Hung in living room!! 🌻
+- Promoted to Street Caricaturist!! Got a car!!
+- Met Sim Liv at the park by accident!! Chess!! Became friends!! 😭💛
+- Party want rolled!! Locked and ready!!
 
 ---
 
-## Looking Ahead — Rotation 2 Goals 🌱
-- Level creativity toward 3 for promotion!!
-- **THROW THE PARTY!!** Sunday or Monday!!
-- Keep building the Sim Liv friendship toward best friends!!
-- Meet more residents — Kareem, AWiddleFrisbee, Søren!!
-- Keep Marigold fed, loved and happy!! 🐱💛
+## Rotation 2 ✅ COMPLETE!! 🎉🌈
+
+### Day 1 ✅ — Thursday
+- Painted!! **Creativity 2 gained!!** 🎨
+- Werewolf on the porch!! Did not interact!! 🐺
+- Work — **THE NOSE INCIDENT!!** Drew socialite's nose in full glory!! Easel smashed!! Lost a day's wages!! Completely worth it!! 😂
+- Came home and invited Sim Liv and AWiddleFrisbee over!!
+- **MADE FRIENDS WITH AWIDDLEFRISBEE!!** 🍊😭
+- Iris played with Marigold on the floor!! 😭🐱
+
+### Day 2 ✅ — Friday
+- **Creativity 3 gained!!** ✅ Painted a LIGHTHOUSE!! 🌊😭
+- **Lighthouse hung on the wall!!** Sunflower AND lighthouse — Sunshine Cottage has a gallery!!
+- **Mechanical 2 gained!!** Read the book!! ✅
+- **SIM LIV AND IRIS ARE BFFS!!** 😭💛🌈 Locked want fired!!
+- Sim Liv picked up the guitar and played it!! 🎸
+- Promotion requirements BOTH met!! Fires Sunday!!
+
+### Day 3 ✅ — Saturday — PARTY DAY!! 🎉
+- **Taught Marigold to use the toilet!!** Pumpkin pyjamas!! Party morning prep!! 😂🐱
+- Decorated!! Balloon clusters outside!! Rainbow balloon garland inside!! Confetti!!
+- **THREW THE PARTY!!** Sim Liv, AWiddleFrisbee, Wrench all came!! La Shawn declined!!
+- AWiddleFrisbee played guitar!! Iris, Sim Liv and Wrench danced!!
+- **GREAT PARTY MEMORY!!** Meter said Not Bad, heart said Great!! 🎉😭
+- Party want FIRED!! 🎊
+- Locked **Become BFF with AWiddleFrisbee!!** 🍊
+- Went to the clothes shop — just townies!! No Kareem!! 😭
+- Bought a **butterfly bracelet!!** 🦋 Very her!!
+
+### Locks Carrying into Rotation 3
+- 🔒 Marigold removed!! 🐱
+- 🔒 Become BFF with AWiddleFrisbee!! 🍊
+
+### Rotation 3 Goals
+- **Get promoted Sunday!!** 🎨🎉
+- Become BFF with AWiddleFrisbee!!
+- Meet Kareem!! He cycles past every day!! 😭🌼
+- Keep working on Marigold toilet training!!
+- MORE PET BEST FRIENDS!! Lifetime want progress!!
 
 ---
 
-*Updated 18th June 2026 — Skills corrected!! Creativity 1, Cooking 1, Logic 1 (accidentally from chess with Sim Liv!! 😂💛) 🌈🌻🐱*
+*Updated 19th June 2026 — Rotation 2 COMPLETE!! BFF with Sim Liv!! Party memory!! Lighthouse on the wall!! Promotion Sunday!! The nose incident!! Butterfly bracelet!! Werewolf on the porch!! Kareem still hasn't stopped by!! 🌈🌻🐱🎉💛*
