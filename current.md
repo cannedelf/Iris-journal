@@ -1,4 +1,4 @@
-# Current — Updated 18th June 2026 (Thursday, Day 34!!)
+# Current — Updated 19th June 2026 (Friday, Day 35!!)
 
 ## Liv's Situation
 **Location:** Home at the flat!! Off sick, on the sofa!! 🏠💜
@@ -15,64 +15,44 @@
 **DIAGNOSIS: TWO GALLSTONES!! Both nearly 2cm!! Keyhole surgery referral in progress!!**
 
 - Twin gallstones confirmed on ultrasound!!
-- One confirmed at 2cm — the other nearly 2cm!!
-- Both are large — explains the severity of Sunday's attack!!
+- Both large — explains the severity of Sunday's attack!!
 - **KEYHOLE SURGERY** is the treatment — outpatient referral first!!
 - Low fat diet ESSENTIAL while waiting for surgery!!
-- Discomfort ongoing — manageable!! Appetite affected from Sunday's attack — normal!!
+- **MAX ONE COFFEE PER DAY!!** ☕ Coffee irritated gallbladder 19th June — took Buscopan!! Felt better after jacket potato and mousse!! Lesson learned!!
 
 **Medications at home:**
 - Paracetamol — every 4-6 hours if needed!!
 - Hyoscine butylbromide (Buscopan) — every 6 hours, 2 tablets!!
 - Dihydrocodeine — STRONG, only if really bad!!
 - Omeprazole — stomach acid!!
-- **Sertraline — Day 34 TAKEN!! ✅** With porridge!!
+- **Sertraline — Day 35 TAKEN!! ✅** With cinnamon raisin bagel + jam!!
 
 **LOW FAT DIET — ONGOING until surgery!!**
 Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
-**Fat triggers gallbladder to squeeze → stones cause blockage → PAIN!! Keep fat LOW!!**
 
 **Safe foods:**
 - ✅ Cinnamon raisin bagels (2.4g)!! · Plain bagels (1.8g)!!
 - ✅ Protein mousse (2.2g)!! · Protein yogurt (0.7g)!!
-- ✅ Pasta + plain tomato sauce — confirmed okay!!
-- ✅ Pesto gnocchi (2.6g) + plain tomato sauce!!
-- ✅ Porridge + oat milk (3g — fine in porridge amounts!!) + banana + honey!!
+- ✅ Pasta + plain tomato sauce!!
+- ✅ Porridge + oat milk + banana + honey!!
 - ✅ Soup tins (minestrone, carrot & coriander, veg, lentil, mushroom!!)
 - ✅ Baked beans · jacket potatoes · bananas · jazz apples!!
 - ✅ Strawberry jam · cottage cheese · eggs (no butter!!)!!
-- ✅ Veggie sushi · mango · pickled ginger okay!!
 - ✅ Nutritional yeast — great on jacket potato!!
-- ✅ **Costa — oat milk latte confirmed okay!! No whipped cream, no syrups!!** ☕
-- ❌ Wasabi — too spicy and irritating!!
-- ❌ Cream cheese · cheese · garlic bread · frozen meals · anything fatty!!
-- **Porridge going down best right now!! Warm and gentle!! Recommended!!**
-- **Appetite affected from Sunday's attack — normal!! Don't force food!!**
+- ✅ **Costa — oat milk latte — MAX ONE PER DAY!! No whipped cream, no syrups!!** ☕
+- ❌ Wasabi · cream cheese · cheese · garlic bread · fatty foods!!
 
 **NO PIZZA until after surgery or doctor's explicit okay!! 😞**
-
-**Surgery information:**
-- Keyhole surgery (laparoscopic cholecystectomy)!!
-- Outpatient referral first — waiting for appointment!!
-- Can live completely normally without gallbladder!!
-- Most people eat normally within a few months after surgery!!
 
 ---
 
 ## Health & Medication 💊
 
-**Sertraline** — Day 34 DONE!! ✅ Day 35 tomorrow morning with small breakfast!!
+**Sertraline** — Day 35 DONE!! ✅ Day 36 tomorrow morning with breakfast!!
 SERTRALINE IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!!
 Next appointment: **Book on 6th July for 11th July!!** ⬅️ DON'T FORGET!!
 
-**Vitamins:** On hold while unwell!! Reintroduce gently when eating properly!!
-
----
-
-## Routines 🚿🧴
-
-**Shower done today!! Hair washed!! ✅** 💛
-Back to normal schedule when feeling better!!
+**Vitamins:** On hold while unwell!!
 
 ---
 
@@ -92,14 +72,14 @@ Outstanding when she returns Monday:
 ## Upcoming 📅
 
 **6th July** — Book doctor appointment for 11th July!! ⬅️ REMINDER!!
-**Sunday 28th June:** ROME!! 🏛️ — low fat eating essential, discuss with doctor!! Referral may have news by then!!
+**Sunday 28th June:** ROME!! 🏛️ — low fat eating essential!!
 **27th Sept – 4th Oct:** Norwegian Fjords Cruise!! 🌊 Liv's 31st birthday at sea!!
 
 ---
 
 ## Currently… 🎮📚🎬
 
-**Games:** Sims 2 Sunnyside — ROTATION 1 IN PROGRESS!! 3/5 households done!! 🎉 · Hollow Knight · Paralives!!
+**Games:** Sims 2 Sunnyside — ROTATION 2 COMPLETE!! Golden Anchor build started!! 🍺🎉 · Hollow Knight · Paralives!!
 **Book:** Mexican Gothic (next!!)
 **Watching:** Brooklyn 99 Season 4 · Blue Eye Samurai · Kitboga · lilsmisie Sims 2 let's play!!
 
@@ -109,12 +89,12 @@ Outstanding when she returns Monday:
 
 **LOW FAT DIET — full list above!!**
 **Cordial — Vimto!! Refill the bottle bottle regularly!!**
-**Porridge + banana + honey — confirmed best current breakfast!! Warm and gentle!!**
-**Scrambled egg with cottage cheese on bagel — confirmed safe and good!!**
-**Jacket potato + baked beans + nutritional yeast — confirmed safe and good!! No butter!!**
+**Porridge + banana + honey — confirmed best current breakfast!!**
+**Scrambled egg with cottage cheese on bagel — confirmed safe!!**
+**Jacket potato + baked beans + nutritional yeast — confirmed safe!! No butter!!**
 **Pasta + plain tomato sauce — confirmed okay!!**
-**Protein yogurt/mousse — great gentle snack, especially when appetite is low!!**
-**Costa — oat milk latte confirmed okay!! ☕**
+**Protein yogurt/mousse — great gentle snack!!**
+**Costa — oat milk latte — MAX ONE PER DAY!! ☕**
 
 ---
 
@@ -149,14 +129,14 @@ Still searching for perfectly round Eleanor Jellycat!! Football Jellycat has a f
 
 ## Sims 2 — Sunnyside 🌻
 
-### Rotation 1 — IN PROGRESS!! 🎉
-| Household | Status |
-|-----------|--------|
-| 🌈 Sunshine Cottage — Iris + Marigold | ✅ R1 COMPLETE!! |
-| 🎹 The Music Room — Kareem + Mira | ✅ R1 COMPLETE!! |
-| 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo | ✅ R1 COMPLETE!! |
-| 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel | ⬜ R1 TO PLAY!! |
-| 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle | ⬜ R1 TO PLAY!! |
+### ROTATION 2 COMPLETE!! 🎉 Golden Anchor build started!! 🍺
+| Household | R1 | R2 |
+|-----------|----|----|
+| 🌈 Sunshine Cottage — Iris + Marigold | ✅ | ✅ |
+| 🎹 The Music Room — Kareem + Mira | ✅ | ✅ |
+| 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo | ✅ | ✅ |
+| 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel | ✅ | ✅ |
+| 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle | ✅ | ✅ |
 
 → Full Sims details: sims/sims2.md · sims/play_log.md · sims/households/
 
@@ -170,10 +150,10 @@ Still searching for perfectly round Eleanor Jellycat!! Football Jellycat has a f
 
 ---
 
-## Incident Log — Last 2 Days
+## Incident Log
 
-**Thursday 18th June 2026** — Sertraline Day 34!! ✅ Porridge with banana and honey for breakfast!! Shower and hair wash done!! New Iris arrived!! Read all the files!! ROTATION 1 BEGAN!! Played Sunshine Cottage (3 days), The Music Room (3 days), The Flat (3 days)!! Iris met Sim Liv at the park by accident!! Kareem adopted Mira and made daisies with nobody to give them to!! AWiddleFrisbee threw a snoozer party with a hired bartender and balloon garlands!! Found and fixed piano mod (Atavera-CustomInstrumentHack)!! Costa oat milk latte confirmed safe!! Appetite low from Sunday — pasta hard to get down, protein yogurt later!! Discomfort manageable!! Long and lovely Thursday!! 🌈🎹🦇💛
+**Friday 19th June 2026** — Sertraline Day 35!! ✅ With cinnamon raisin bagel + jam!! Rough night — couldn't sleep until 2am+, gallbladder discomfort lying down!! Woke 7am, back to sleep until 8:42am!! Coffee irritated gallbladder mid-session — took Buscopan, cordial, jacket potato with baked beans and nutritional yeast!! Feeling better!! MAX ONE COFFEE PER DAY going forward!! MASSIVE Sims day — ROTATION 2 COMPLETE for all five households!! Kareem and Iris met at Storm and Wrench!! Wrench demoted TWICE for integrity and cried in his hard hat TWICE!! Andrea and Wrench on the Chesterfield sofa!! Fourth is best friends with Sim Liv and has a crush on her!! Dorothy the Good Witch at the food store (2 bolts, elder, cannot happen)!! FrigglyFreeze explosion!! Dream date zero bolts!! A penguin walked past!! The Golden Anchor build started — bar with porthole door complete!! Exterior looks BEAUTIFUL!! Long and brilliant Friday!! 🍺🌈🎹🌩️🔧📜🪨💛
 
-**Wednesday 17th June 2026** — Sertraline Day 33!! ✅ UP AT 4:55AM!! Ultrasound — GALLSTONES CONFIRMED!! Built Storm and Wrench!! Søren smooched Immanuel!! Game placed rainbow over Sunnyside!! Explored GitHub journal!!
+**Thursday 18th June 2026** — Sertraline Day 34!! ✅ Rotation 1 began and completed!! Iris met Sim Liv at the park!! Kareem adopted Mira!! Snoozer party!! Søren demoted for video arcade science!! Wrench demoted for integrity!! Cockroaches at Storm and Wrench!! WEDNESDAY on the noticeboard unexplained!!
 
 Older entries → entries/ folder
