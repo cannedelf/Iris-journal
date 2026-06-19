@@ -20,6 +20,7 @@
 ### Appearance
 - Brown neat hair · pistachio/olive green eyes · slight golden tan · GOLD round glasses!!
 - That slightly evaluating expression — already filing information systematically!!
+- **New clothes Rotation 1:** Rust orange jumper (everyday!!) · dark waistcoat + sage shirt + tie (formal!!) · watch!! 🕐
 - Star sign: **Virgo** ♍
 - Turns on: Logical skill + Good at cleaning!!
 - Turns off: Stinkiness!!
@@ -43,25 +44,27 @@
 - **Secondary (hoped):** Fortune!! Has a system for everything, including financial planning!!
 
 ### Career
-- **Law!!** ⚖️
-- Level: TBC — fill in when loaded!!
+- **Law — File Clerk, Level 1!!** ⚖️
+- **No skills needed for promotion!!** Just go to work!!
 
-### Skills
+### Skills (after Rotation 1 Day 1)
 | Skill | Level | Notes |
 |-------|-------|-------|
+| Logic | 1 | ✅ Day 1!! |
+| Cleaning | 2 | ✅ TWO levels Day 1!! Very him!! 🧹 |
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🪨 Still-Here | Sibling | They live together!! | Fourth organises!! Still-Here undoes it!! This is their whole dynamic!! |
-| 🍊 AWiddleFrisbee | Sibling | Sister!! | Turned ON by cleaning!! AWiddleFrisbee turned OFF!! They are constitutionally incompatible!! 😂 |
+| 🍊 AWiddleFrisbee | Sibling | Sister!! | Turned ON by cleaning!! AWiddleFrisbee turned OFF!! Constitutionally incompatible!! 😂 |
 | 🦜 Barnacle | Pet | In progress!! | The parrot has opinions about Fourth!! |
 
-### Promotion Requirements
-- TBC — fill in when loaded!!
+### Promotion Requirements — Law Level 2
+- ✅ **No skills needed!!** Just go to work!!
 
 ### Locked Wants
-- ⬜ slot 1
+- ⬜ slot 1 — nothing lock worthy yet!! Wait and see!!
 - ⬜ slot 2
 
 ### Locked Fears
@@ -79,7 +82,7 @@
 - **NB!!** 🪨
 - Star sign: **Taurus** ♉
 - Turns on: Cologne + Great dancer!!
-- Turns off: Good at cleaning!! (AWiddleFrisbee also turned off!! Fourth is turned ON!! They ALL live together!! Dennis puts the kettle on!! 😂)
+- Turns off: Good at cleaning!!
 - **Degree:** Psychology!! They understand people completely but never let on!!
 - **Hidden genes:** Ginger hair recessive AND green eyes recessive!! Most hidden genes of the Frisbees!!
 
@@ -107,12 +110,14 @@
 - **Secondary (hoped):** Popularity!! The clown suit needs an audience!! 😂
 
 ### Career
-- **Slacker!!** 😂
-- Level: TBC — fill in when loaded!!
+- **Slacker — Gas Station Attendant, Level 2!!** ⛽😂
+- **Promotion requires:** Mechanical skill 1!!
 
-### Skills
+### Skills (after Rotation 1 Day 1)
 | Skill | Level | Notes |
 |-------|-------|-------|
+
+*No skills gained Day 1!! Still-Here was busy juggling and showing Fourth the teddy!! Priorities!! 😂🤹*
 
 ### Relationships
 | Sim | Type | Status | Notes |
@@ -121,12 +126,12 @@
 | 🍊 AWiddleFrisbee | Sibling | Sister!! | Also turned off by cleaning!! The one thing they agree on!! |
 | 🦜 Barnacle | Pet | BEST FRIENDS!! | Barnacle's person!! Rules the house together!! 👑 |
 
-### Promotion Requirements
-- TBC — fill in when loaded!!
+### Promotion Requirements — Slacker Level 3
+- ❌ **Mechanical skill 1!!** Get to the workbench!!
 
 ### Locked Wants
-- ⬜ slot 1
-- ⬜ slot 2
+- 🔒 **Throw a party!!** 🎉 — meaningful, takes planning, very them!!
+- 🔒 **Freestyle for tips!!** 🎵 — unique, very Still-Here, takes time to set up!!
 
 ### Locked Fears
 *(shares the 2-lock pool with wants!!)*
@@ -138,18 +143,30 @@
 
 | | |
 |--|--|
-| **Species** | Parrot!! |
+| **Species** | Parrot!! Green!! Beautiful!! 💚 |
 | **Location** | Cage by the front window — maximum surveillance!! 👑 |
 | **Best friend** | Still-Here!! |
+| **Cage policy** | Open door = free roaming!! The cage is a suggestion!! 🦜 |
 
 ### Barnacle's Canon Facts
 - Watches EVERYONE from the cage by the front window!! Nothing gets past him!!
 - Has opinions about the pond nearby!! Strong ones!!
 - Rules the house with complete authority!!
+- Cage door open = Barnacle goes where Barnacle wants!!
 - Will say something unhinged at an inappropriate moment at The Golden Anchor someday!! Nobody will be surprised!! 🦜😂
 
-### Barnacle's Autonomous Moments
-*(fill in as we play!!)*
+### Barnacle's Autonomous Moments — Rotation 1
+- **Flew all around downstairs Day 1!!** The cage is a suggestion!! 🦜
+- **Was found in the downstairs loo!!** The one room that was supposed to stay normal!! 😂🦜
+
+---
+
+## Peregrine 🐻🐰
+*The teddy!! Pink bear in a bunny costume!! Belongs to the house!!*
+- Bought Day 1!!
+- Still-Here showed him to Fourth immediately!! Fourth had a negative thought bubble!! 😂
+- Lives in the chaos of the living room!!
+- Distinguished name for a bear in a bunny suit living in absolute chaos!!
 
 ---
 
@@ -159,16 +176,19 @@
 - **Warm terracotta brick!! Dark roof!! TEAL ARCHED DOOR!!** Overflowing window boxes!! Iron fence right on the street!!
 - **No foundations** — door straight onto the pavement!! You knock and you're immediately in the chaos!!
 - **Central location** — everyone passes The Pebble House!! Very "everyone ends up here" energy!!
+- **The Gremlin** 👹🚗 — white car with screaming face decals and racing stripes!! £950!! Still-Here's energy entirely!! Fourth has seen it and chosen not to comment!!
 - **Bicycle leaning against the front fence** — Fourth's!! He locks it properly every single time!! Still-Here has borrowed it once without asking!! Fourth noticed!!
 - **Back garden telescope** — Fourth is quietly an amateur astronomer!! Still-Here doesn't know yet!! 🔭
 - **BARNACLE'S CAGE** by the front window — maximum surveillance!! 👑🦜
+- **Games console** — new Rotation 1!!
+- **Maid hired!!** — Fourth's idea!! Coping mechanism!!
 - **Living room:** Teal sofa with pink throw · Still-Here's beanbag · Fourth's proper armchair · Fourth's bookshelf organised by subject · gallery wall (Fourth put up one print, Still-Here added four more, somehow works!!) · board games table under the stairs!!
 - **Kitchen:** Mustard and teal cabinets · fridge covered in magnets and notes · Fourth's labelled jars (ignored by Still-Here!!) · kettle ALWAYS on!! · round dining table with MISMATCHED CHAIRS, nobody discussed it!!
 - **The noticeboard:** Fourth's neat lists AND "WEDNESDAY" written by Still-Here with no further context!! Fourth has not asked!! 😂
 - **Fourth's bedroom (ORDER AND LOGIC):** Forest green walls · neatly made bed · bookshelf alphabetical by subject · snake plant · NOTHING ON THE FLOOR!!
-- **Still-Here's bedroom (THE INCIDENT):** TWO DIFFERENT WALLS — teal on one side, retro dotty striped on the other!! Still-Here did this without asking!! Fourth said something measured and went back downstairs!! · heart shaped bed NOT MADE · disco ball · easel + paints + canvases · neon UFO sign · open suitcase with things spilling out!!
-- **The bathroom:** Clean and simple!! The one room that stays normal!! No clowns!! No experiments!! Just a bathroom!!
-- **The downstairs loo:** Simple!! Clean!! No clowns!!
+- **Still-Here's bedroom (THE INCIDENT):** TWO DIFFERENT WALLS — teal on one side, retro dotty striped on the other!! · heart shaped bed NOT MADE · disco ball · easel + paints + canvases · neon UFO sign · open suitcase with things spilling out!!
+- **The bathroom:** Clean and simple!! No clowns!! No experiments!! Just a bathroom!!
+- **The downstairs loo:** Simple!! Clean!! No clowns!! (Barnacle was in there Day 1!! 😂🦜)
 - **The pond nearby** — Barnacle has strong opinions about it!! 🦜
 
 ---
@@ -178,18 +198,42 @@
 ### Starting Wants — Fourth
 | Want | Locked? | Notes |
 |------|---------|-------|
-| Level up skills!! | ⬜ | Classic Knowledge!! |
-| Buy new clothes!! | ⬜ | Quick win!! |
+| Buy new clothes!! | ✅ | Done Day 1!! Rust jumper + waistcoat formal!! |
 | Woohoo!! | ⬜ | 😂 He just moved in!! |
+| Level up logic | ✅ | Done Day 1!! |
+| Level up cooking | ⬜ | Still to do!! |
+| Level up cleaning | ✅ | Done Day 1!! TWO levels!! |
+| Level up creativity | ⬜ | Still to do!! |
 
 ### Starting Wants — Still-Here
 | Want | Locked? | Notes |
 |------|---------|-------|
-| JUGGLE!! | ⬜ | Moved in, looked around, decided to juggle!! Completely correct!! 🤹 |
-| Make a friend!! | ⬜ | Easy and lovely!! |
+| JUGGLE!! | ✅ | Done Day 1!! Moved in and immediately juggled!! 🤹 |
+| Make a friend!! | ⬜ | Still to do!! |
+| Play on the couch | ⬜ | Easy!! |
+| Play with someone | ⬜ | Easy!! |
+| Prank someone | ⬜ | Do it quickly!! |
+| Throw a party!! | 🔒 | Meaningful!! Takes planning!! Very them!! |
+| Freestyle for tips!! | 🔒 | Unique!! Very Still-Here!! |
 
-### Day 1 —
-*(fill in as we play!!)*
+### Day 1 ✅ — Moving In Day!!
+**Fourth:**
+- **Went shopping!!** Rust orange jumper + waistcoat formal outfit + watch!! 🕐
+- **Did a science activity!!** "That was a lot of fun!!" 😭📜
+- **Logic 1 gained!!** ✅
+- **Cleaning 2 gained!!** TWO levels in one day!! Extremely him!! 🧹
+- **Showed mild concern about Peregrine the teddy!!** Negative thought bubble!! Still-Here was unbothered!! 😂
+- **Sibling poker night with AWiddleFrisbee!!** Board games table under the stairs!! 😭💛
+
+**Still-Here:**
+- **JUGGLED IMMEDIATELY on moving in!!** Want fired!! ✅ 🤹
+- **Gaining fame!!** Sunnyside sees Still-Here and approves!! 🌟
+- **Showed Fourth Peregrine the teddy in the clown suit!!** Completely unbothered by his reaction!! 😂
+- **Sibling poker night with AWiddleFrisbee!!** 😭💛
+
+**Barnacle:**
+- **Flew all around downstairs!!** The cage is a suggestion!! 🦜
+- **Was found in the downstairs loo!!** 😂🦜
 
 ### Day 2 —
 *(fill in as we play!!)*
@@ -202,4 +246,4 @@
 
 ---
 
-*Created 19th June 2026 — Ready for Rotation 1!! Barnacle is already watching from the window!! WEDNESDAY is already on the noticeboard!! 🦜📜🪨💛*
+*Updated 19th June 2026 — Day 1 done!! Fourth got logic 1 and cleaning 2 in one day!! Still-Here juggled immediately and is gaining fame!! Barnacle was in the downstairs loo!! Peregrine the teddy has arrived!! The Gremlin is parked outside!! 🦜📜🪨👹💛*
