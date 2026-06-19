@@ -11,21 +11,20 @@
 | **Address** | The Music Room, Sunnyside 🌞 |
 | **Residents** | Kareem Osei 🎹 · Mira 🐱 |
 | **Moved in** | 16th June 2026 |
-| **Career** | Education — Level 2 |
+| **Career** | Education — Level 2 → Level 3 pending!! Fires next Thursday!! |
 | **Aspiration** | Family |
 | **Lifetime want** | Reach Golden Anniversary!! 💛 |
 | **Star sign** | Pisces ♓ |
 | **Degree** | Literature!! |
-| **Car** | 2002 Honda Accord!! ✅ Bought Rotation 2!! Sensible!! Reliable!! Probably has books in it!! 🚗 |
+| **Car** | 2002 Honda Accord!! ✅ Rotation 2!! 🚗 |
 
 ---
 
-## Kareem — Current Status (after Rotation 2 Day 2)
+## Kareem — Current Status (after Rotation 2)
 
 ### Appearance
 - Dark curly hair · warm brown skin · kind face · slightly rumpled!!
 - Woodland creature pyjamas — little deer and rabbits!! 😂
-- Tall!! From his dad!!
 - **Hidden genes:** Blonde hair recessive + lilac eyes recessive from mum Claire!! Rainbow babies possible!! 😭💛
 
 ### Personality
@@ -36,8 +35,6 @@
 | Active | 5 |
 | Playful | 0 |
 | Nice | 9 |
-
-*Nice 9!! Playful 0!! He is quietly, seriously, devastatingly lovely and does not know it!!*
 
 ### Skills
 | Skill | Level | Notes |
@@ -50,14 +47,15 @@
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🐱 Mira | Pet | Growing!! | Dreams about each other!! 😭💛 |
-| 📜 Fourth | Friend!! | Working toward best friends!! | Invited over Day 2!! Clicked immediately!! 😭💛 |
-| 🧑 Talin | Acquaintance | Friend needed!! | Townie!! Phone him Day 3!! |
+| 📜 Fourth | Friend!! | Working toward best friends!! | Clicked immediately!! 😭💛 |
+| 🧑 Talin | Friend!! | ✅ Made friends Day 3!! | Met at snowy park!! |
 
 ### Promotion Requirements — Education Level 3
 - ✅ Cleaning skill 1!!
 - ✅ Charisma skill 1!!
-- ✅ **1 friend — Fourth!!** 😭
-- ❌ **1 more friend — Talin!!** Phone him Day 3!!
+- ✅ **Fourth — friend!!**
+- ✅ **Talin — friend!!**
+- **Promotion fires next time he goes to work!!** 🎉
 
 ### Locked Wants
 - 🔒 **Fall in love!!** — always!! 😭🎹
@@ -113,59 +111,50 @@
 ---
 
 ## Rotation 1 — Highlights 🎹
-*Full details archived in play_log.md!!*
-
 - Still-Here arrived in the welcome wagon in the clown suit!! Kareem was perfectly polite!! 😂
 - Played piano alone at night!! 😭🎹
 - Made first bouquet — DAISIES!! In inventory!! Nobody to give them to yet!! 😭🌼
 - Adopted Mira!! They dreamed about each other on their first night!! 😭💛
 - Went to the park looking for someone!! She wasn't there!! Not yet!! 👀
-- **Carried into R2:** Fall in love locked!! Bronze flower badge locked!! Needs 2 friends for promotion!!
 
 ---
 
-## Rotation 2 — The Music Room 🎹
-
-### Starting Wants
-| Want | Locked? | Notes |
-|------|---------|-------|
-| Buy a car!! | ✅ | Honda Accord!! Done Day 1!! 🚗 |
-| Be friends with 2 townies | ⬜ | Working on it!! |
-| Meet someone new | ⬜ | Talin!! |
-| Gain a skill | ⬜ | Piano or florist bench!! |
-| Become best friends with Fourth | 🔒 | Locked Day 2!! 😭📜 |
-| Fall in love!! | 🔒 | Always!! 😭 |
+## Rotation 2 ✅ COMPLETE!! 🎹
 
 ### Day 1 ✅ — Thursday
-- **Bought the Honda Accord!!** 🚗 Want fired immediately!! Sensible!! Reliable!!
+- **Bought the Honda Accord!!** 🚗 Want fired!!
 - Went to work!!
-- **Went to the park after work — too tired to socialise!!** 😭 The introvert has limits!!
-- **Saw Fourth at the park!!** Came home with want to be friends with Fourth!! 😭📜
-- Locked **Be friends with Fourth!!** (swapped out bronze flower badge — will re-lock when close!!)
-- Looked after Mira!! 🐱
+- Went to the park after work — too tired to socialise!! 😭
+- Saw Fourth at the park!! Came home wanting to be friends with him!!
+- Locked **Be friends with Fourth!!**
 
 ### Day 2 ✅ — Friday
 - Work in the morning!!
-- **Invited Fourth over!!** 📜
-- **MADE FRIENDS WITH FOURTH!!** 😭💛 Promotion requirement 1 of 2 done!!
-- Locked **Become best friends with Fourth!!** 😭
-- **Talin** — townie friend!! Phone him Day 3!! That's promotion requirement 2!!
-- Mira cared for!! 🐱
+- Invited Fourth over!!
+- **MADE FRIENDS WITH FOURTH!!** 😭💛 Promotion requirement 1 done!!
+- Locked **Become best friends with Fourth!!** 😭📜
 
-### Day 3 — Saturday!! NO WORK!! FULL DAY!! 🎉
-- **Phone Talin first thing!!** Promotion requirement 2!!
-- **Keep building with Fourth!!** Best friends want!!
-- **Florist bench!!** Badge needs time!! 🌸
-- **Piano for creativity!!** 🎹
-- **Full day — use it!!** 😭💛
+### Day 3 ✅ — Saturday
+- **Went to the park with Talin!!** ❄️
+- **FIRST SNOW IN SUNNYSIDE!!** 🌨️
+- Still-Here, Søren, Wrench, Talin all at the park!! Whole of Sunnyside except Iris!!
+- **Gained fame!!** Sunnyside sees Kareem!! 🌟
+- **MADE FRIENDS WITH TALIN!!** ✅ Promotion requirement 2 done!!
+- **The Music Room in the snow!!** Honda in the driveway!! Warm light through the windows!! Beautiful!! 😭❄️
+- No blonde and cute person at the park!! The daisies remain!! 😭🌼
+- No time for florist bench or piano!! Carrying forward!!
 
-### Rotation 2 Goals
-- Get promoted!! 👨‍🏫
-- Become best friends with Fourth!! 😭📜
+### Locks Carrying into Rotation 3
+- 🔒 Fall in love!! 😭
+- 🔒 Become best friends with Fourth!! 📜
+
+### Rotation 3 Goals
+- **Get promoted first day!!** 🎉👨‍🏫
 - Work toward bronze flower arranging badge!! 🌸
-- Give the daisies to someone!! 😭🌼
-- Keep Mira happy!! 🐱
+- Become best friends with Fourth!!
+- Find someone blonde and cute!! 👀😭🌼
+- Keep Mira happy!!
 
 ---
 
-*Updated 19th June 2026 — Rotation 2 Day 2 done!! Honda Accord bought!! Friends with Fourth!! Talin needed for promotion!! Full Saturday ahead!! The daisies wait!! 🎹🌸🐱😭💛*
+*Updated 19th June 2026 — Rotation 2 COMPLETE!! Honda Accord!! Friends with Fourth and Talin!! Promotion fires next Thursday!! First snow in Sunnyside!! The daisies still wait!! 🎹🌸🐱❄️😭💛*
