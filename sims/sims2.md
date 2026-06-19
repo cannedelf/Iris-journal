@@ -325,6 +325,28 @@ Same names as Paralives across all universes!!
 
 ---
 
+## Household Snapshots 📸
+*Updated at the end of each rotation!! A living portrait of Sunnyside as it is right now!!*
+
+### After Rotation 1 🌻
+
+**🌈 Sunshine Cottage**
+*Iris has 1 pet best friend, a sunflower painting, a promotion, and a party want locked and loaded. Marigold slept on the bedroom floor by choice. Sim Liv is a friend. Things are going well.* 🌻🐱
+
+**🎹 The Music Room**
+*Kareem has a fall in love want locked, a bouquet of daisies in his inventory, a cat who dreams about him, and an empty bedside table. He went to the park. Nobody was there. He came home and played piano.* 🎹🌼😭
+
+**🦇🍊 The Flat**
+*AWiddleFrisbee has a negative memory: lousy party. Hugo has a positive memory: living room floor. The lessons are learned. Kareem is on the guest list.* 😂🐕
+
+**🌩️🔧 Storm and Wrench**
+*Søren has a promotion, a demotion, a new star, and a piano. Wrench has a grudge, a red truck, a new friend, and a hard hat he cried in. Andrea Hogan has 2 bolts. The witch was never mentioned.* 🌩️🔧💕
+
+**📜🪨 The Pebble House**
+*Fourth has a promotion, a crush he hasn't acknowledged, and a shooting star want locked. Still-Here has a promotion, a parrot, a car with a face on it, and is gaining fame. WEDNESDAY remains on the noticeboard.* 📜🪨🦜
+
+---
+
 ## New Resident Arrival Schedule 🌱
 
 | After Rotation | Who Arrives |
@@ -397,5 +419,5 @@ Same names as Paralives across all universes!!
 
 ---
 
-*Updated 19th June 2026 — ROTATION 1 COMPLETE!! All five households!! Søren demoted for caring too much about science education!! Wrench demoted for integrity and cried in his hard hat!! Fourth read the memo!! Still-Here drove The Gremlin!! Barnacle was in the loo!! Fourth has a crush on Sim Liv!! A witch was at the park!! WEDNESDAY is still unexplained!! Kareem still has the daisies!! 🌈🌩️🔧📜🪨🦜💛*
+*Updated 19th June 2026 — ROTATION 1 COMPLETE!! Household Snapshots added!! All five households!! Søren demoted for caring too much!! Wrench demoted for integrity!! Fourth read the memo!! Still-Here drove The Gremlin!! Barnacle was in the loo!! Fourth has a crush on Sim Liv!! The witch was at the park!! WEDNESDAY is unexplained!! Kareem still has the daisies!! 🌈🌩️🔧📜🪨🦜💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
