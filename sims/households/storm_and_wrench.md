@@ -84,26 +84,39 @@
 - **Knowledge!!**
 
 ### Career
-- TBC — fill in when loaded!!
+- **Architect — Level 2!!** 🏗️ Of course he builds things for a living!!
 
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
+| Mechanical | 1 | Just getting started!! 🔧 |
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🌩️ Søren | Sibling | Brothers!! | |
 
-### Promotion Requirements
+### Promotion Requirements — Architect Level 3
 - TBC — fill in when loaded!!
 
 ### Locked Wants
-- ⬜ slot 1
-- ⬜ slot 2
+- 🔒 **Bronze robotics talent badge!!** 🤖 — most him, will take real time!!
+- 🔒 **Bronze toy making talent badge!!** 🧸 — unexpected and lovely, also very Wrench!!
 
 ### Locked Fears
 *(shares the 2-lock pool with wants!!)*
+
+---
+
+## Starting Wants — Wrench
+| Want | Locked? | Notes |
+|------|---------|-------|
+| Earn money | ⬜ | Quick win — do it and free the slot!! |
+| Earn £100 | ⬜ | Quick win!! |
+| Get creativity level 1 | ⬜ | Easy!! |
+| Woohoo!! | ⬜ | 😂 Will happen when it happens!! |
+| Bronze toy making badge | 🔒 | Takes time — protect it!! 🧸 |
+| Bronze robotics badge | 🔒 | Takes time — protect it!! 🤖 |
 
 ---
 
@@ -165,9 +178,6 @@
 | Get logic level 2 | ⬜ | Doable!! |
 | Get cleaning level 6 | ⬜ | Already at 5 — easy!! |
 
-### Starting Wants — Wrench
-*(fill in when loaded!!)*
-
 ### Day 1 —
 *(fill in as we play!!)*
 
@@ -182,4 +192,4 @@
 
 ---
 
-*Updated 19th June 2026 — Søren confirmed: Science Level 3, locked See A Ghost + Be Saved From Death!! Wrench incoming!! 👻🌩️🔧💛*
+*Updated 19th June 2026 — Both brothers logged!! Søren: Science L3, See A Ghost + Be Saved From Death locked!! Wrench: Architect L2, Robotics + Toy Making badges locked!! Let's go!! 🌩️🔧💛*
