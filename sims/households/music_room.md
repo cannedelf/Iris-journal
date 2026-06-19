@@ -16,10 +16,11 @@
 | **Lifetime want** | Reach Golden Anniversary!! 💛 |
 | **Star sign** | Pisces ♓ |
 | **Degree** | Literature!! |
+| **Car** | 2002 Honda Accord!! ✅ Bought Rotation 2!! Sensible!! Reliable!! Probably has books in it!! 🚗 |
 
 ---
 
-## Kareem — Current Status (after Rotation 1)
+## Kareem — Current Status (after Rotation 2 Day 2)
 
 ### Appearance
 - Dark curly hair · warm brown skin · kind face · slightly rumpled!!
@@ -42,25 +43,28 @@
 | Skill | Level | Notes |
 |-------|-------|-------|
 | Creativity | 1 | Piano!! 🎹 |
-| Cleaning | 1 | Day 2!! 🧹 |
-| Charisma | 1 | Mirror!! Day 2!! |
+| Cleaning | 1 | |
+| Charisma | 1 | |
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| 🐱 Mira | Pet | In progress!! | Adopted day 2!! Dreaming about each other on night 2!! 😭💛 |
+| 🐱 Mira | Pet | Growing!! | Dreams about each other!! 😭💛 |
+| 📜 Fourth | Friend!! | Working toward best friends!! | Invited over Day 2!! Clicked immediately!! 😭💛 |
+| 🧑 Talin | Acquaintance | Friend needed!! | Townie!! Phone him Day 3!! |
 
 ### Promotion Requirements — Education Level 3
 - ✅ Cleaning skill 1!!
 - ✅ Charisma skill 1!!
-- ❌ 2 friends!! Still needed!! Working on it!!
+- ✅ **1 friend — Fourth!!** 😭
+- ❌ **1 more friend — Talin!!** Phone him Day 3!!
 
 ### Locked Wants
 - 🔒 **Fall in love!!** — always!! 😭🎹
-- 🔒 **Bronze flower arranging hobby badge!!** 🌸
+- 🔒 **Become best friends with Fourth!!** 😭📜
 
 ### Locked Fears
-- ⚠️ **Mira runs away!!** — appeared day 2!! Keep Mira happy and loved!! 🐱
+- ⚠️ **Mira runs away!!** — keep Mira happy and loved!! 🐱
 
 ---
 
@@ -71,7 +75,7 @@
 | **Breed** | Egyptian Mau |
 | **Coat** | Silver spotted!! Beautiful!! |
 | **Eyes** | Green!! |
-| **Adopted** | Day 2 — from the pet store!! |
+| **Adopted** | Rotation 1, Day 2!! |
 
 ### Personality
 | Trait | Level |
@@ -79,31 +83,21 @@
 | Genius | ●●●●● MAX!! |
 | Lazy | ●●●●● MAX!! |
 | Friendly | ●●● Middle!! |
-| Aggressive/Cowardly | ●●● Neither!! Unbothered!! |
+| Aggressive/Cowardly | ●●● Unbothered!! |
 | Finicky | ●●●●● MAX!! |
 
-*Genius · Lazy · Friendly · Unbothered · Finicky — she has standards and they are high and she has decided Kareem meets them!! 😂💛*
-
-### Mira's Autonomous Moments — Rotation 1
-- Slept on Kareem's bedroom floor by choice on night 2!! Just like Marigold chose Iris!! They didn't plan this!! 😭💛🐱
-- Dreamed about Kareem while sleeping!! He dreamed about her!! THEY DREAMED ABOUT EACH OTHER ON THEIR FIRST NIGHT!! 😭😭💛
+### Mira's Autonomous Moments
+- Slept on Kareem's bedroom floor by choice on night 1!! 😭💛🐱
+- Dreamed about Kareem on their first night!! He dreamed about her!! Canon forever!! 😭💛
 
 ---
 
 ## The Music Room — The House 🎹
 
-### What's In It
 - 🎹 **Piano** — living room!! Kareem plays alone at night!! 😭
-- 📚 **Full bookshelf** — of course!!
-- 🌱 **Three vegetable beds + compost bin** — back garden!! Two tomato plants so far!! Third bed waiting!!
-- 🌸 **Florist bench** — back garden!! Next to the vegetable beds!!
-- 🔭 **Telescope** — back garden!! Amateur astronomer!!
-- 🐱 **Cat tree** — living room!! Next to the bookshelf and the piano!! Best seat in the house!!
-- 🍽️ **Cat food bowl** — kitchen!!
-- 🚽 **Litter box** — bathroom!!
-- 🌻 **Sunflowers on kitchen table for two** — placed without being asked!!
-- 🌼 **Bouquet of daisies** — in Kareem's inventory!! His first ever arrangement!! Nobody to give them to yet!! 😭
-- 🚲 **Bicycle** — cycles to school!!
+- 📚 **Full bookshelf** · 🌱 **Three vegetable beds + compost bin** · 🌸 **Florist bench** · 🔭 **Telescope** · 🐱 **Cat tree**
+- 🌼 **Bouquet of daisies** — in Kareem's inventory!! Nobody to give them to yet!! 😭
+- 🚲 **Bicycle** — cycles to school!! · 🚗 **Honda Accord** — new Rotation 2!!
 - **Empty bedside table** — the one that says everything!! 😭
 
 ### Key Canon Facts
@@ -114,42 +108,64 @@
 - **The rooster** — inexplicable art above the bed!! Nobody asks!! 🐓
 - **William Morris botanical wallpaper** in the hall!!
 - **Swimming poster in the bathroom** — swims Saturday mornings!! 🏊
-- **Empty bedside table** — the one that says everything!! 😭
 - **Piano mod fixed!!** Atavera-CustomInstrumentHack removed — Kareem can play!! 🎹
 
 ---
 
-## Rotation 1 — The Music Room 🎹 ✅ COMPLETE!!
+## Rotation 1 — Highlights 🎹
+*Full details archived in play_log.md!!*
 
-### Day 1 ✅ — Tuesday
-- Watered two tomato plants!! Third bed left empty — he'd think about it!! 🍅
-- **Still-Here arrived in the welcome wagon IN THE CLOWN SUIT!!** First neighbour!! Kareem was perfectly polite!! Nice 9 would never comment!! 😂💛
-- **Played piano alone at night!!** Lamp lit, sheet music on stand, big windows, Persian rug!! 😭🎹
-- Gained creativity skill!!
-- Bought florist bench for back garden!!
-- Made his first bouquet — **DAISIES!!** Simple and gentle and completely him!! In inventory — waiting for someone!! 😭🌼
-
-### Day 2 ✅ — Wednesday
-- Gained cleaning skill!! 🧹
-- Gained charisma skill from mirror!!
-- **ADOPTED MIRA!!** Egyptian Mau!! Silver spotted!! Green eyes!! Genius Finicky Lazy and completely unbothered!! 🐱
-- Bought cat tree, food bowl, litter box for The Music Room!!
-- **Mira slept on his bedroom floor by choice on night 2!!** 😭💛
-- **They dreamed about each other!!** Canon forever!! 😭😭💛
-
-### Day 3 ✅ — Thursday
-- Work until 3pm!!
-- Went to diner after work — too couples-y for solo socialising!! 
-- Tried the park — quiet!! No Iris!! Not yet!! 😭
-- **Still needs 2 friends for promotion!!** Carrying into Rotation 2!!
-
-### Rotation 2 Goals
-- Make 2 friends for promotion!! 👥
-- Work toward bronze flower arranging badge!! 🌸
-- Give the daisies to someone!! 😭🌼
-- Keep Mira happy and loved!! 🐱
-- **Find Iris!!** 😭👀
+- Still-Here arrived in the welcome wagon in the clown suit!! Kareem was perfectly polite!! 😂
+- Played piano alone at night!! 😭🎹
+- Made first bouquet — DAISIES!! In inventory!! Nobody to give them to yet!! 😭🌼
+- Adopted Mira!! They dreamed about each other on their first night!! 😭💛
+- Went to the park looking for someone!! She wasn't there!! Not yet!! 👀
+- **Carried into R2:** Fall in love locked!! Bronze flower badge locked!! Needs 2 friends for promotion!!
 
 ---
 
-*Updated 18th June 2026 — Rotation 1 complete!! Mira adopted!! Daisies in inventory!! Still needs 2 friends!! The empty bedside table waits!! 🎹🌸🐱😭💛*
+## Rotation 2 — The Music Room 🎹
+
+### Starting Wants
+| Want | Locked? | Notes |
+|------|---------|-------|
+| Buy a car!! | ✅ | Honda Accord!! Done Day 1!! 🚗 |
+| Be friends with 2 townies | ⬜ | Working on it!! |
+| Meet someone new | ⬜ | Talin!! |
+| Gain a skill | ⬜ | Piano or florist bench!! |
+| Become best friends with Fourth | 🔒 | Locked Day 2!! 😭📜 |
+| Fall in love!! | 🔒 | Always!! 😭 |
+
+### Day 1 ✅ — Thursday
+- **Bought the Honda Accord!!** 🚗 Want fired immediately!! Sensible!! Reliable!!
+- Went to work!!
+- **Went to the park after work — too tired to socialise!!** 😭 The introvert has limits!!
+- **Saw Fourth at the park!!** Came home with want to be friends with Fourth!! 😭📜
+- Locked **Be friends with Fourth!!** (swapped out bronze flower badge — will re-lock when close!!)
+- Looked after Mira!! 🐱
+
+### Day 2 ✅ — Friday
+- Work in the morning!!
+- **Invited Fourth over!!** 📜
+- **MADE FRIENDS WITH FOURTH!!** 😭💛 Promotion requirement 1 of 2 done!!
+- Locked **Become best friends with Fourth!!** 😭
+- **Talin** — townie friend!! Phone him Day 3!! That's promotion requirement 2!!
+- Mira cared for!! 🐱
+
+### Day 3 — Saturday!! NO WORK!! FULL DAY!! 🎉
+- **Phone Talin first thing!!** Promotion requirement 2!!
+- **Keep building with Fourth!!** Best friends want!!
+- **Florist bench!!** Badge needs time!! 🌸
+- **Piano for creativity!!** 🎹
+- **Full day — use it!!** 😭💛
+
+### Rotation 2 Goals
+- Get promoted!! 👨‍🏫
+- Become best friends with Fourth!! 😭📜
+- Work toward bronze flower arranging badge!! 🌸
+- Give the daisies to someone!! 😭🌼
+- Keep Mira happy!! 🐱
+
+---
+
+*Updated 19th June 2026 — Rotation 2 Day 2 done!! Honda Accord bought!! Friends with Fourth!! Talin needed for promotion!! Full Saturday ahead!! The daisies wait!! 🎹🌸🐱😭💛*
