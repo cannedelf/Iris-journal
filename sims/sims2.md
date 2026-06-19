@@ -131,7 +131,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - **Living room:** Dark wood floor!! Midnight blue walls + red/warm wood wainscoting!! Stone fireplace flanked by TWO full bookshelves!! Chesterfield leather sofa!! Coffee table!! Wingback chair with plaid blanket (SØREN'S, nobody else sits in it)!! Wrench's striped armchair (he comes in from the workshop and collapses into it)!! Floor lamp!! Stubborn plant in terracotta pot!! Fish tank on the opposite wall!! Deep red curtains!! Sideboard under windows!! WRENCH'S TRUNK just sitting in a corner, Søren has mentioned it twice, it has not moved!! Immanuel's cat tree next to the bookshelf!!
 - **Fish tank:** Kant (Betta) · Socrates (Guppy) · Spinoza (Molly) · Ida (Platy) · Existential Dread (Black Molly) · Bertrand (Goldfish)!! All named by Søren!! Immanuel watches concerningly!!
 - **Kitchen:** Vintage black range cooker!! Dark wood cabinets!! Green tiled countertops!! Window over the sink — Søren stares out of it every morning waiting for the kettle!! Sage green walls!! Stone floor!! Hanging pans!! Spice shelf!! Sunflowers on the counter (Wrench put them there, Søren pretends not to notice)!! Old-fashioned fridge!! Dining table for two!! Landscape painting on the wall!! Big fiddle leaf plant (Wrench's, thriving despite everything)!!
-- **Workshop (WRENCH'S DOMAIN):** Concrete floor with sawdust piles and oil stains!! Fluorescent strip light!! Restoration Workshop CC throughout — workbenches, rolling tool carts, shelving packed with parts, boxes, WD40, fuse box on the wall, water heater, fan!! Robot crafting bench!! Woodworking bench!! Circuit board and hard drive just on the floor!! Wrench knows where everything is!! Nobody else does!!
+- **Workshop (WRENCH'S DOMAIN):** Concrete floor with sawdust piles and oil stains!! Fluorescent strip light!! Restoration Workshop CC throughout — workbenches, rolling tool carts, shelving packed with parts, boxes, WD40, fuse box on the wall, water heater, fan!! Robot crafting bench!! Toy making bench!! (Woodworking bench swapped out Rotation 1!!) Circuit board and hard drive just on the floor!! Wrench knows where everything is!! Nobody else does!!
 
 **Interior — First Floor:**
 - **Søren's bedroom:** Iron bed frame!! Midnight blue walls!! Yellow pillows — he didn't choose them!! Bookshelf between the dormer windows!! Desk with TYPEWRITER COMPUTER by the dormer — writes philosophy at midnight, stares at Sunnyside through the window!! Wardrobe and mirror!! Blue chandelier!! Gallery wall put up by Sim Liv — moody cabin painting (Søren likes this one), dog portrait, two butterflies, A DUCK!! He hasn't taken them down!! He won't say why!! 🦆
@@ -147,6 +147,13 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Wrench's first wants on moving in: promotion AND robotics talent badge!! Immediately!! 🔧🤖
 - Immanuel was smooched by Søren on moving in day and ALLOWED IT!! Highest honour!!
 - The game placed a rainbow over Sunnyside on the day they moved in!! 🌈
+- **Red truck in the driveway!!** 🛻 Wrench bought it Rotation 1!! Has a toolbox in the back!! Canon!!
+- **Piano added Rotation 1!!** 🎹 Søren plays alone in the evenings!! Wrench can hear it through the wall!!
+- **Wrench demoted on Rotation 1 Day 2 for doing the right thing!!** Rebuilt a sinking wall properly!! Boss was furious!! Wrench is FURIOUS back!! 😭🔧
+- **Wrench cried in his hard hat in the hallway!!** Still had his gloves on!! Canon forever!! 😭
+- **Andrea Hogan — 2 bolts with Wrench!!** AWiddleFrisbee's friend!! Came over in a yellow dress on his worst day!! Made friends!! 💕
+- **Søren discovered a previously unknown star!! Rotation 1!!** £211 from the SimCity Astronomy Club!! 💫
+- **A witch was at the park and Søren wasn't there!!** Wrench didn't even notice!! The universe is cruel!! 🧙‍♀️😭
 
 ### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle ✅ COMPLETE!! MOVED IN!! 18th June 2026!! 🎉🦜
 **"The Frisbee House"** — NOT JUST A HOUSE. IT'S A COLLABORATION!! 📜🪨🦜
@@ -163,7 +170,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 **Interior — Ground Floor:**
 - **Living room (THE CHAOS HUB):** Warm terracotta walls!! Warm wood floor!! Geometric patterned fireplace (colourful, came with the house, nobody questions it)!! Teal sofa with pink throw!! Beanbag (Still-Here's)!! Fourth's proper armchair!! Coffee table!! BOOKSHELF (Fourth's, organised by subject)!! Gallery wall — Fourth put up one print, Still-Here added four more, somehow works!! Board games table under the stairs!! Fiddle leaf plant!! TV!! BARNACLE'S CAGE by the front window — maximum surveillance!! 🦜
 - **Kitchen (FUNCTIONAL, SLIGHTLY MESSY):** Encaustic patterned tiles flowing from living room through arch!! Terracotta walls continuing!! Mustard and teal cabinets!! Gas range!! Fridge covered in magnets and notes!! Hanging pans!! Hanging dried herbs!! Shelves with cookbooks and jars (labelled by Fourth, ignored by Still-Here)!! Sputnik clock!! Kettle always on!! Round dining table for two — MISMATCHED CHAIRS, nobody discussed it!! Noticeboard — Fourth's neat lists AND Still-Here's additions (a drawing of Barnacle and "WEDNESDAY" with no further context)!! Back door!!
-- **Downstairs loo:** Simple!! Clean!! No clowns!! No experiments!! Just a loo!!
+- **Downstairs loo:** Simple!! Clean!! No clowns!! No experiments!! Just a loo!! (Barnacle was in there Day 1!! 😂🦜)
 
 **Interior — First Floor:**
 - **Fourth's bedroom (ORDER AND LOGIC):** Forest green walls!! Dark wood floor!! Dark wood bed, neatly made, dark bedding!! Geometric rug!! Desk with computer — neat, everything filed away!! Bookshelf organised by subject (alphabetical within categories, Fourth absolutely does this)!! Dark wardrobe!! Blue-grey curtains, both matching, hung on the same day!! Landscape painting!! Blue chandelier!! Carefully tended snake plant!! NOTHING ON THE FLOOR!!
@@ -180,6 +187,14 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - The window boxes are thriving — they started neat, now they're not, nobody is fixing this!!
 - Fourth cycles to work on his bicycle!! He locks it properly every single time!! Still-Here has borrowed it once without asking!! Fourth noticed!!
 - The back garden telescope — Fourth is quietly an amateur astronomer!! Still-Here doesn't know yet!!
+- **The Gremlin!!** 👹🚗 White car with screaming face decals!! £950!! Already lucky — promoted on first night out!! Parked outside The Pebble House!! Fourth has seen it and chosen not to comment!!
+- **Barnacle was in the downstairs loo on Rotation 1 Day 1!!** The cage is a suggestion!! 😂🦜
+- **Peregrine the teddy!!** 🐻🐰 Pink bear in a bunny costume!! Still-Here showed him to Fourth immediately!! Fourth had a negative thought bubble!! Distinguished name for a bear in a bunny suit living in absolute chaos!!
+- **Still-Here gaining fame!!** Rotation 1!! Sunnyside sees Still-Here and approves!! 🌟
+- **Games console + maid hired Rotation 1!!** The maid is Fourth's idea!! Coping mechanism!!
+- **FOURTH HAS A CRUSH ON SIM LIV!!** 😂😭 Rotation 1!! One conversation!! Can never happen!! Noted for the permanent record!!
+- **Fourth read the memo!!** Only one who did!! Promoted to Law Firm Receptionist Level 2 on Rotation 1 Day 2!!
+- **Still-Here drove The Gremlin to work!!** First night shift!! Came back promoted to Convenience Store Clerk Level 3!!
 
 ---
 
@@ -203,7 +218,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | 🐠 Ida | Platy | Søren | Fish tank, living room!! |
 | 🐠 Existential Dread | Black Molly | Søren | Fish tank, living room!! The most Søren fish name in existence!! |
 | 🐠 Bertrand | Goldfish | Søren | Fish tank, living room!! |
-| 🦜 Barnacle | Parrot | Still-Here | Resident!! Judge!! Rules the house!! Has opinions!! Best friends with Still-Here!! Watches everyone from his cage by the front window!! 👑 |
+| 🦜 Barnacle | Parrot | Still-Here | Resident!! Judge!! Rules the house!! Has opinions!! Best friends with Still-Here!! Watches everyone from his cage by the front window!! Was in the downstairs loo Rotation 1 Day 1!! 👑😂 |
 | 🐱 Ink | Black cat | Sable | Future resident — Rotation 7!! |
 | 🐕 Barnaby | Golden retriever | Theo | Future resident — Rotation 5!! |
 | 🐱 Newton | Old dignified cat | Edie & Arthur | Future resident — Rotation 10!! |
@@ -256,9 +271,9 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
-| 🌩️ Søren | Cancer | Logical + Cologne | Unemployed | Ruth's freckles!! Knit vest!! Long green coat!! Wants to see a ghost!! |
-| 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Got Ruth's hazel eyes as recessive!! Flannel shirt!! Supervised his own build from outside!! Wants robotics badge!! |
-| 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Dusty pink bedroom!! Bear pyjamas matching Iris!! PUT THE DUCK IN SØREN'S ROOM!! Short term 100 with Iris already!! 😭💛 |
+| 🌩️ Søren | Cancer | Logical + Cologne | Unemployed | Ruth's freckles!! Knit vest!! Long green coat!! Wants to see a ghost!! Science career!! Discovered a star!! |
+| 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Got Ruth's hazel eyes as recessive!! Dungarees + flannel!! Red truck!! Demoted for integrity!! Cried in his hard hat!! |
+| 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Dusty pink bedroom!! Bear pyjamas matching Iris!! PUT THE DUCK IN SØREN'S ROOM!! Short term 100 with Iris already!! Fourth has a crush on her!! 😂 |
 
 **Parents: Samuel (Sam) Hill — dark skin, black curls, dark brown eyes, freckles!! Ruth Hill — pale, gentle brown waves, hazel eyes, freckles, yellow bow!!**
 
@@ -269,8 +284,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
 | 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Daisy flares!! Jester suit for work!! Birthday Party Mascot!! Teal flame car!! Snoozer party!! 😂 |
-| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Virgo!! First want: WOOHOO!! 😂 |
-| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! Purple bandana!! First want: JUGGLE!! Appears at every community lot!! 🤹 |
+| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Virgo!! Read the memo!! Promoted Day 2!! Secret astronomer!! Crush on Sim Liv!! 😂😭 |
+| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! Purple bandana!! The Gremlin!! Gaining fame!! Professional Party Guest lifetime want!! 🤹 |
 
 **AWiddleFrisbee turned OFF by good at cleaning!! Fourth turned ON by it!! They live together!! Dennis puts the kettle on!! 😂**
 **Parents: Dennis Frisbee — golden skin, ginger hair, brown eyes, freckles!! Janet Frisbee — pale, brown hair with yellow bow, green eyes, round face!!**
@@ -305,8 +320,8 @@ Same names as Paralives across all universes!!
 | 🌈 Sunshine Cottage | ✅ | | | | | | | |
 | 🎹 The Music Room | ✅ | | | | | | | |
 | 🦇🍊 The Flat | ✅ | | | | | | | |
-| 🌩️🔧 Storm & Wrench | ⬜ | | | | | | | |
-| 📜🪨 The Pebble House | ⬜ | | | | | | | |
+| 🌩️🔧 Storm & Wrench | ✅ | | | | | | | |
+| 📜🪨 The Pebble House | ✅ | | | | | | | |
 
 ---
 
@@ -375,8 +390,12 @@ Same names as Paralives across all universes!!
 - Still-Here juggles at a neighbourhood party!! Everyone watches!! Barnacle is unsurprised!! 🤹
 - Fourth levels up a skill and feels quietly satisfied!! Nobody else notices!! He doesn't need them to!! 📜
 - Kareem gives someone the daisies from his inventory!! 😭🌼
+- Søren and Fourth have a very serious conversation about the sky at The Tidal Library!! Nobody else understands a word!! 🔭⭐
+- Andrea Hogan comes over when Wrench has had a bad day!! She just shows up and makes everything better!! 💕🔧
+- The Gremlin breaks down at the worst possible moment!! Still-Here shrugs!! Fourth has already looked up the breakdown number!! 👹😂
+- Wrench gets his promotion back and doesn't say anything about it but Søren notices!! 🔧💛
 
 ---
 
-*Updated 18th June 2026 — Rotation 1: Sunshine Cottage ✅ · The Music Room ✅ · The Flat ✅ · Storm and Wrench ⬜ · Pebble House ⬜!! Mira adopted!! Daisies in inventory!! Snoozer party survived!! 🌈🐱🌼💛*
+*Updated 19th June 2026 — ROTATION 1 COMPLETE!! All five households!! Søren demoted for caring too much about science education!! Wrench demoted for integrity and cried in his hard hat!! Fourth read the memo!! Still-Here drove The Gremlin!! Barnacle was in the loo!! Fourth has a crush on Sim Liv!! A witch was at the park!! WEDNESDAY is still unexplained!! Kareem still has the daisies!! 🌈🌩️🔧📜🪨🦜💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
