@@ -18,22 +18,27 @@
 ## Søren 🌩️
 
 ### Appearance
-- Knit vest · long green coat · Ruth's freckles!!
+- Blue knit vest · long dark green coat · Ruth's freckles!! · big black curls · round glasses!!
 - Star sign: **Cancer** ♋
 - Turns on: Logical + Cologne · Turns off: Unemployed
-- **Hidden genes:** Ruth's freckles passed down!!
+- **Degree:** Philosophy!! Obviously. No notes.
+- **Hidden genes:** Brown hair recessive + hazel eyes recessive from Ruth!!
 
 ### Personality
 | Trait | Score |
 |-------|-------|
-| Neat | |
-| Outgoing | |
-| Active | |
-| Playful | |
-| Nice | |
+| Neat | 8 |
+| Outgoing | 3 |
+| Active | 4 |
+| Playful | 2 |
+| Nice | 8 |
+
+*Neat 8 and Nice 8!! He tidies everything and thinks carefully before he speaks!! Outgoing 3 — he doesn't seek people out but when they're there he's completely present!!*
 
 ### Aspiration
-- **Knowledge!!**
+- **Knowledge!!** — Obviously. No notes.
+- **Lifetime want:** Become Mad Scientist!! 🔬 Quietly the most unhinged outcome!! 😂
+- **Secondary (hoped):** Family!! Secretly just wants his people!! 😭
 
 ### Career
 - **Science — Field Research, Level 3!!** 🔬
@@ -51,10 +56,12 @@
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🔧 Wrench | Sibling | Brothers!! | |
+| 🦇 Sim Liv | Sibling | Sister!! | Hill siblings together!! |
 | 😤 Immanuel | Pet | Smooched on move-in day!! | Highest honour!! 😭 |
 
 ### Promotion Requirements — Science Level 4
 - ✅ **1 household friend!!** — Wrench made friends with Andrea AND AWiddleFrisbee!! 👥💕
+- ✅ **Ready to promote next time he goes to work!!** 🎉
 
 ### Locked Wants
 - 🔒 **Be saved from death!!** 💀 — big dramatic Knowledge want, absolutely protect it!!
@@ -68,27 +75,33 @@
 ## Wrench 🔧
 
 ### Appearance
-- Dungarees (new!! teal, everyday) · Smart flannel (new!! date outfit) · Watch (new!!) 🕐
-- Flannel shirt (original!!) · sturdy boots!!
+- Dungarees (new!! teal, everyday) · Smart flannel (date outfit) · Original flannel shirt · sturdy boots · watch!! 🕐
+- Curly brown hair · hazel eyes · freckles everywhere!! Most freckled Hill sibling!!
 - Star sign: **Scorpio** ♏
 - Turns on: Mechanical + Fitness · Turns off: Stinkiness
-- **Hidden genes:** Hazel eyes recessive from Ruth!!
+- **Degree:** Physics!! Engineering adjacent!!
+- **Hidden genes:** Black hair recessive from Dad!!
 
 ### Personality
 | Trait | Score |
 |-------|-------|
-| Neat | |
-| Outgoing | |
-| Active | |
-| Playful | |
-| Nice | |
+| Neat | 6 |
+| Outgoing | 5 |
+| Active | 7 |
+| Playful | 3 |
+| Nice | 4 |
+
+*Active 7 — always doing something!! Quietly intense under the friendly freckled exterior!! Very "will fix this if it takes all night"!!*
 
 ### Aspiration
-- **Knowledge!!**
+- **Fortune!!** — Practical builder, values craftsmanship and security!!
+- **Lifetime want:** Become City Planner!! 🏗️ He helped BUILD Sunnyside!!
+- **Secondary (hoped):** Knowledge!! Always learning how to do the next thing!!
 
 ### Career
 - **Architect — Cement Mixer, Level 1!!** 🏗️
-- Was Bricklayer Level 2 — demoted Day 2 for doing the right thing!! He is FURIOUS and has a GRUDGE!! 😭🔧
+- No requirements for Level 1 promotion — just go to work!!
+- Was Bricklayer Level 2 — demoted for doing the right thing!! He is FURIOUS and has a GRUDGE!! 😭🔧
 
 ### Skills (after Rotation 1)
 | Skill | Level | Notes |
@@ -102,11 +115,12 @@
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🌩️ Søren | Sibling | Brothers!! | |
+| 🦇 Sim Liv | Sibling | Sister!! | Hill siblings together!! |
 | 💕 Andrea Hogan | Friend!! | 2 bolts!! | Made friends Day 2!! Came over in a yellow dress on his worst day!! 😭💕 |
-| 🍊 AWiddleFrisbee | Friend!! | | Made friends Day 3 at the park!! Negative attraction but brilliant friendship!! 😂 |
+| 🍊 AWiddleFrisbee | Friend!! | | Made friends Day 3 at the park!! Negative attraction, brilliant friendship!! 😂 |
 
 ### Promotion Requirements — Architect Level 2
-- TBC — fill in next rotation!!
+- ✅ **No requirements at Level 1!!** Just go to work!!
 
 ### Locked Wants
 - 🔒 **Bronze robotics talent badge!!** 🤖 — most him, will take real time!!
@@ -252,10 +266,10 @@
 
 ### Rotation 2 Goals
 - Søren: Logic 4 (telescope every night!!), make a friend of his own, get promoted again!! 🔬
-- Wrench: Work back up to Bricklayer and BEYOND!! Keep on the robotics bench!! Ask Andrea on a date!! 💕
+- Wrench: Just go to work — no requirements at Level 1!! Work back up and BEYOND!! Keep on the robotics bench!! Ask Andrea on a date!! 💕
 - Get Søren to see a ghost somehow!! 👻
 - Immanuel: continue judging everyone from the bookshelf!! 😤
 
 ---
 
-*Updated 19th June 2026 — Rotation 1 COMPLETE!! Søren: logic 3, cleaning 6, cooking 3, creativity 1, discovered a star, promoted AND demoted!! Wrench: demoted for integrity, cried in his hard hat, made friends with Andrea and AWiddleFrisbee, bought dungarees!! The witch was at the park and nobody told Søren!! 🌩️🔧💕😭💛*
+*Updated 19th June 2026 — Rotation 1 COMPLETE!! Personality scores added!! Søren: Neat 8, Nice 8, Outgoing 3!! Wrench: Fortune aspiration, Active 7, hazel eyes from Ruth!! Both Hill siblings added to relationships!! Wrench needs nothing for Level 1 promotion — just go to work!! 🌩️🔧💕😭💛*
