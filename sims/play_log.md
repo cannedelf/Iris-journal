@@ -43,7 +43,7 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 ---
 
-## Rotation 1 ✅ COMPLETE!!
+## Rotation 1 ✅ COMPLETE!! ALL FIVE HOUSEHOLDS DONE!! 🎉🌻
 
 ### 🌈 Sunshine Cottage — Iris + Marigold ✅
 **Full details → sims/households/sunshine_cottage.md**
@@ -106,10 +106,63 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 ---
 
-## Rotation 1 — Remaining Households ⬜
+### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ✅
+**Full details → sims/households/storm_and_wrench.md**
 
-### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel
-### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle
+#### Locks carrying into Rotation 2
+**Søren:**
+- 🔒 **Be saved from death!!** 💀
+- 🔒 **Logic 4!!** 🔭
+
+**Wrench:**
+- 🔒 **Bronze robotics badge!!** 🤖
+- 🔒 **Promotion!!** 🏗️ He has a grudge!!
+
+#### Highlights
+- **Søren got cleaning 6, cooking 3, logic 3, creativity 1 all in one rotation!!** Three skills on Day 1 alone!! 💛
+- **Søren promoted to Science Teacher then immediately demoted!!** Took students to the video arcade FOR SCIENCE!! Principal showed up!! Demoted back to Field Researcher!! The principal was WRONG!! 😭🌩️
+- **Søren discovered a previously unknown star!!** Paid £211!! 💫
+- **Søren wants to see a ghost AND a wolf!!** No dead Sims in Sunnyside so ghost unlocked for now!! 👻🐺
+- **Wrench demoted on Day 2 for doing the right thing!!** Rebuilt a sinking wall properly!! Boss was furious!! He is FURIOUS back!! 😭🔧
+- **Wrench cried in his hard hat in the hallway!!** Still had his gloves on!! 😭
+- **Burned the mac and cheese!!** Two bad memories in one day!!
+- **Andrea Hogan — 2 bolts with Wrench!!** AWiddleFrisbee's friend!! Came over in a yellow dress on his worst day!! Made friends!! 😭💕
+- **Wrench made friends with AWiddleFrisbee at the park!!** Negative attraction, brilliant friendship!! 😂🍊
+- **Søren got a piano!!** 🎹 Plays alone in the evenings!! Wrench can hear it through the wall!!
+- **Red truck purchased!!** 🛻 Toolbox in the back!! Canon!!
+- **Wrench bought dungarees and smart flannel!!** 👖
+- **A WITCH WAS AT THE PARK and Søren wasn't there!!** Wrench didn't even notice!! The universe is cruel!! 🧙‍♀️😭
+- **Whole found family at the clothes shop by accident!!** Iris!! Kareem!! Sim Liv!! Wrench!! Kareem left before anyone could talk to him!! 😭🌼
+- **Søren read the anger management book!!** "I'll try not to get furious if I can help it!!" 😂
+- **Workshop upgraded!!** Woodworking bench swapped for toy making bench!! Robotics + toy making benches now in there!!
+
+---
+
+### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle ✅
+**Full details → sims/households/pebble_house.md**
+
+#### Locks carrying into Rotation 2
+**Fourth:**
+- 🔒 **See a shooting star!!** ⭐
+
+**Still-Here:**
+- 🔒 **Throw a party!!** 🎉
+- 🔒 **Get a pet!!** 🐾
+
+#### Highlights
+- **BARNACLE was in the downstairs loo on Day 1!!** The cage is a suggestion!! 😂🦜
+- **Sibling poker night with AWiddleFrisbee!!** All three Frisbees at the board games table!! 😭💛
+- **Still-Here juggled IMMEDIATELY on moving in!!** Moved in, looked around, decided to juggle!! 🤹
+- **Still-Here is gaining fame!!** Sunnyside approves!! 🌟
+- **Still-Here introduced Fourth to Peregrine the teddy!!** Fourth had a negative thought bubble!! Still-Here was unbothered!! 😂🐻🐰
+- **Fourth read the memo!!** ONLY ONE WHO DID!! Mr. Vanderseaux was delighted!! Promoted to Law Firm Receptionist Level 2!! 🎉📜
+- **Still-Here drove The Gremlin to work!!** 👹🚗 First night shift!! Came back promoted to Convenience Store Clerk Level 3!! 🎉
+- **The Gremlin!!** White car with screaming face decals!! £950!! Already lucky!! 👹
+- **Peregrine the teddy!!** Pink bear in a bunny costume!! Distinguished name!! 🐻🐰
+- **Fourth played with a mystery dog at the front gate!!** Came home from work and immediately found a dog!! 😭🐕
+- **FOURTH HAS A CRUSH ON SIM LIV!!** 😂😭 One conversation!! Can never happen!! Noted for the permanent record!!
+- **WEDNESDAY is still on the noticeboard with no further context!!** Fourth has not asked!! 😂
+- **Fourth is secretly an amateur astronomer!!** Still-Here doesn't know yet!! 🔭⭐
 
 ---
 
@@ -117,9 +170,9 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 - ✅ `sims/households/sunshine_cottage.md`
 - ✅ `sims/households/music_room.md`
 - ✅ `sims/households/the_flat.md`
-- ⬜ `sims/households/storm_and_wrench.md`
-- ⬜ `sims/households/pebble_house.md`
+- ✅ `sims/households/storm_and_wrench.md`
+- ✅ `sims/households/pebble_house.md`
 
 ---
 
-*Updated 18th June 2026 — Three households done!! Iris, Kareem and The Flat complete!! Storm and Wrench + Pebble House still to play!! Kareem would have saved the party!! 😭😂🎹🌈💛*
+*Updated 19th June 2026 — ROTATION 1 COMPLETE!! All five households done!! Søren demoted for caring too much!! Wrench demoted for integrity and cried in his hard hat!! Fourth read the memo!! Still-Here drove The Gremlin!! Barnacle was in the loo!! Fourth has a crush on Sim Liv!! The witch was at the park!! WEDNESDAY is unexplained!! Kareem still has the daisies!! 🌈🌩️🔧📜🪨🦜💛*
