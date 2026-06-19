@@ -36,11 +36,14 @@
 - **Knowledge!!**
 
 ### Career
-- TBC — fill in when loaded!!
+- **Science — Field Research, Level 3!!** 🔬
 
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
+| Cooking | 2 | |
+| Logic | 1 | |
+| Cleaning | 5 | Søren tidies everything!! |
 
 ### Relationships
 | Sim | Type | Status | Notes |
@@ -48,12 +51,12 @@
 | 🔧 Wrench | Sibling | Brothers!! | |
 | 😤 Immanuel | Pet | Smooched on move-in day!! | Highest honour!! 😭 |
 
-### Promotion Requirements
-- TBC — fill in when loaded!!
+### Promotion Requirements — Science Level 4
+- ❌ **1 household friend!!** — if Wrench makes a friend it counts!! 👥
 
 ### Locked Wants
-- ⬜ slot 1
-- ⬜ slot 2
+- 🔒 **See a ghost!!** 👻 — meaningful, will take time, very him!!
+- 🔒 **Be saved from death!!** 💀 — big dramatic Knowledge want, absolutely protect it!!
 
 ### Locked Fears
 *(shares the 2-lock pool with wants!!)*
@@ -152,18 +155,26 @@
 
 ## Rotation 1 🌩️🔧
 
-### Starting Wants
-- Søren: **SEE A GHOST!!** 👻 (of course!!)
-- Wrench: **Promotion!!** + **Robotics talent badge!!** 🔧🤖
-- Fill in full wants when loaded!!
+### Starting Wants — Søren
+| Want | Locked? | Notes |
+|------|---------|-------|
+| See a ghost!! | 🔒 | Very him!! Will take time!! |
+| Be saved from death!! | 🔒 | BIG Knowledge want!! Protect it!! |
+| Gain a cooking skill | ⬜ | Quick win!! |
+| Get cooking level 3 | ⬜ | Doable!! |
+| Get logic level 2 | ⬜ | Doable!! |
+| Get cleaning level 6 | ⬜ | Already at 5 — easy!! |
 
-### Day 1 ✅ —
+### Starting Wants — Wrench
+*(fill in when loaded!!)*
+
+### Day 1 —
 *(fill in as we play!!)*
 
-### Day 2 ✅ —
+### Day 2 —
 *(fill in as we play!!)*
 
-### Day 3 ✅ —
+### Day 3 —
 *(fill in as we play!!)*
 
 ### Rotation 2 Goals
@@ -171,4 +182,4 @@
 
 ---
 
-*Created 19th June 2026 — Rotation 1 about to begin!! Immanuel is already on the bookshelf judging everything!! 😤🌩️🔧💛*
+*Updated 19th June 2026 — Søren confirmed: Science Level 3, locked See A Ghost + Be Saved From Death!! Wrench incoming!! 👻🌩️🔧💛*
