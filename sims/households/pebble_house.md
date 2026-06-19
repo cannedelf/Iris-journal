@@ -44,10 +44,10 @@
 - **Secondary (hoped):** Fortune!! Has a system for everything, including financial planning!!
 
 ### Career
-- **Law — File Clerk, Level 1!!** ⚖️
-- **No skills needed for promotion!!** Just go to work!!
+- **Law — Law Firm Receptionist, Level 2!!** ⚖️ Promoted Day 2!! Read the memo!! Nobody else did!! 😭📜
+- **Promotion requires:** 2 family friends!! ✅ DONE!! Sim Liv + Benjamin Kirby!!
 
-### Skills (after Rotation 1 Day 1)
+### Skills (after Rotation 1 Day 2)
 | Skill | Level | Notes |
 |-------|-------|-------|
 | Logic | 1 | ✅ Day 1!! |
@@ -59,13 +59,15 @@
 | 🪨 Still-Here | Sibling | They live together!! | Fourth organises!! Still-Here undoes it!! This is their whole dynamic!! |
 | 🍊 AWiddleFrisbee | Sibling | Sister!! | Turned ON by cleaning!! AWiddleFrisbee turned OFF!! Constitutionally incompatible!! 😂 |
 | 🦜 Barnacle | Pet | In progress!! | The parrot has opinions about Fourth!! |
+| 🦇 Sim Liv | Friend!! | 1 bolt!! | Made friends Day 2!! Clicked immediately!! Both quietly intelligent!! 😭💛 |
+| 🧑 Benjamin Kirby | Family friend!! | Via Still-Here!! | Counts toward promotion!! |
 
-### Promotion Requirements — Law Level 2
-- ✅ **No skills needed!!** Just go to work!!
+### Promotion Requirements — Law Level 3
+- TBC — fill in next rotation!!
 
 ### Locked Wants
-- ⬜ slot 1 — nothing lock worthy yet!! Wait and see!!
-- ⬜ slot 2
+- 🔒 **See a shooting star!!** ⭐ — secret astronomer!! Meaningful and lovely!! Telescope every night!!
+- ⬜ slot 2 — save for something good!!
 
 ### Locked Fears
 *(shares the 2-lock pool with wants!!)*
@@ -110,14 +112,13 @@
 - **Secondary (hoped):** Popularity!! The clown suit needs an audience!! 😂
 
 ### Career
-- **Slacker — Gas Station Attendant, Level 2!!** ⛽😂
-- **Promotion requires:** Mechanical skill 1!!
+- **Slacker — Convenience Store Clerk, Level 3!!** 🏪 Promoted Day 2!! Drove to work in The Gremlin and came straight back with a promotion!! 👹😂
+- **Promotion requires:** Charisma skill 1!!
 
-### Skills (after Rotation 1 Day 1)
+### Skills (after Rotation 1 Day 2)
 | Skill | Level | Notes |
 |-------|-------|-------|
-
-*No skills gained Day 1!! Still-Here was busy juggling and showing Fourth the teddy!! Priorities!! 😂🤹*
+| Mechanical | 1 | ✅ Day 2!! Promotion requirement sorted!! 🔧 |
 
 ### Relationships
 | Sim | Type | Status | Notes |
@@ -125,9 +126,10 @@
 | 📜 Fourth | Sibling | They live together!! | Fourth organises!! Still-Here undoes it!! This is their whole dynamic!! |
 | 🍊 AWiddleFrisbee | Sibling | Sister!! | Also turned off by cleaning!! The one thing they agree on!! |
 | 🦜 Barnacle | Pet | BEST FRIENDS!! | Barnacle's person!! Rules the house together!! 👑 |
+| 🧑 Benjamin Kirby | Friend!! | 1 bolt → unattracted after friendship!! | Ginger hair!! Green eyes!! Still-Here's hidden genes!! Made friends Day 2!! Counts as Fourth's family friend!! |
 
-### Promotion Requirements — Slacker Level 3
-- ❌ **Mechanical skill 1!!** Get to the workbench!!
+### Promotion Requirements — Slacker Level 4
+- ❌ **Charisma skill 1!!** Mirror or socialising!! Day 3 priority!!
 
 ### Locked Wants
 - 🔒 **Throw a party!!** 🎉 — meaningful, takes planning, very them!!
@@ -135,6 +137,17 @@
 
 ### Locked Fears
 *(shares the 2-lock pool with wants!!)*
+
+---
+
+## Benjamin Kirby 🧑
+*Townie — Still-Here's friend!! Counts as Fourth's family friend!!*
+
+| | |
+|--|--|
+| **Attraction** | 1 bolt with Still-Here → unattracted after friendship!! |
+| **Appearance** | Ginger hair!! Green eyes!! Yellow striped jacket!! Warm toned!! |
+| **Notable** | Has Still-Here's exact recessive genes!! Ginger + green!! The potential!! 😂😭 |
 
 ---
 
@@ -176,7 +189,7 @@
 - **Warm terracotta brick!! Dark roof!! TEAL ARCHED DOOR!!** Overflowing window boxes!! Iron fence right on the street!!
 - **No foundations** — door straight onto the pavement!! You knock and you're immediately in the chaos!!
 - **Central location** — everyone passes The Pebble House!! Very "everyone ends up here" energy!!
-- **The Gremlin** 👹🚗 — white car with screaming face decals and racing stripes!! £950!! Still-Here's energy entirely!! Fourth has seen it and chosen not to comment!!
+- **The Gremlin** 👹🚗 — white car with screaming face decals and racing stripes!! £950!! Still-Here's energy entirely!! Fourth has seen it and chosen not to comment!! Already proven lucky — first night out and Still-Here got promoted!!
 - **Bicycle leaning against the front fence** — Fourth's!! He locks it properly every single time!! Still-Here has borrowed it once without asking!! Fourth noticed!!
 - **Back garden telescope** — Fourth is quietly an amateur astronomer!! Still-Here doesn't know yet!! 🔭
 - **BARNACLE'S CAGE** by the front window — maximum surveillance!! 👑🦜
@@ -199,22 +212,27 @@
 | Want | Locked? | Notes |
 |------|---------|-------|
 | Buy new clothes!! | ✅ | Done Day 1!! Rust jumper + waistcoat formal!! |
-| Woohoo!! | ⬜ | 😂 He just moved in!! |
+| Woohoo!! | ⬜ | 😂 He just moved in!! Still pending!! |
 | Level up logic | ✅ | Done Day 1!! |
-| Level up cooking | ⬜ | Still to do!! |
+| Level up cooking | ⬜ | Day 3!! |
 | Level up cleaning | ✅ | Done Day 1!! TWO levels!! |
-| Level up creativity | ⬜ | Still to do!! |
+| Level up creativity | ⬜ | Day 3!! |
+| See a shooting star!! | 🔒 | Locked Day 2!! Secret astronomer!! ⭐ |
+| Cook toaster pastries | ✅ | Done Day 2!! Breakfast!! |
 
 ### Starting Wants — Still-Here
 | Want | Locked? | Notes |
 |------|---------|-------|
-| JUGGLE!! | ✅ | Done Day 1!! Moved in and immediately juggled!! 🤹 |
-| Make a friend!! | ⬜ | Still to do!! |
-| Play on the couch | ⬜ | Easy!! |
-| Play with someone | ⬜ | Easy!! |
+| JUGGLE!! | ✅ | Done Day 1!! 🤹 |
+| Make a friend!! | ✅ | Benjamin Kirby!! Done Day 2!! |
+| Play on the couch | ⬜ | Still to do!! |
+| Play with someone | ⬜ | Still to do!! |
 | Prank someone | ⬜ | Do it quickly!! |
-| Throw a party!! | 🔒 | Meaningful!! Takes planning!! Very them!! |
-| Freestyle for tips!! | 🔒 | Unique!! Very Still-Here!! |
+| Throw a party!! | 🔒 | Meaningful!! Takes planning!! |
+| Freestyle for tips!! | 🔒 | Very Still-Here!! |
+| Have a bubble bath | ⬜ | Do they have a bath?? Check!! |
+| Go on a date | ⬜ | Nobody specific yet!! |
+| Juggle (again!!) | ⬜ | Let it happen naturally!! |
 
 ### Day 1 ✅ — Moving In Day!!
 **Fourth:**
@@ -235,8 +253,25 @@
 - **Flew all around downstairs!!** The cage is a suggestion!! 🦜
 - **Was found in the downstairs loo!!** 😂🦜
 
-### Day 2 —
-*(fill in as we play!!)*
+### Day 2 ✅ — Promotion Day!!
+**Fourth:**
+- **Work event: Mr. Vanderseaux's files!!** Chose to order by colour — client's preference over personal system!! It physically hurt him!! 😂📜
+- **READ THE MEMO!!** Was the only File Clerk who did!! Mr. Vanderseaux was delighted!!
+- **PROMOTED to Law Firm Receptionist Level 2!!** 🎉⚖️
+- **Cook toaster pastries for breakfast!!** Want fired!! ✅ 🥐
+- **Made friends with Sim Liv!!** 😭💛 1 bolt!! Clicked immediately!! Both quietly intelligent!!
+- **2 family friends met!!** Sim Liv + Benjamin Kirby via Still-Here!! Promotion requirements unlocked!! ✅
+- **Locked want: See a shooting star!!** ⭐ Secret astronomer era begins!!
+
+**Still-Here:**
+- **Got mechanical skill 1!!** ✅ Promotion requirement sorted!! 🔧
+- **Made friends with Benjamin Kirby!!** 😭🧑 Ginger hair!! Green eyes!! Her hidden genes!! 1 bolt → unattracted after friendship!!
+- **Went to work in The Gremlin!!** First night shift!! 👹⛽
+- **PROMOTED to Convenience Store Clerk Level 3!!** 🎉🏪 Came back with a promotion on the first night!!
+- **Next promotion needs:** Charisma skill 1!!
+
+**Barnacle:**
+- Watching everything from the cage!! 🦜
 
 ### Day 3 —
 *(fill in as we play!!)*
@@ -246,4 +281,4 @@
 
 ---
 
-*Updated 19th June 2026 — Day 1 done!! Fourth got logic 1 and cleaning 2 in one day!! Still-Here juggled immediately and is gaining fame!! Barnacle was in the downstairs loo!! Peregrine the teddy has arrived!! The Gremlin is parked outside!! 🦜📜🪨👹💛*
+*Updated 19th June 2026 — Day 2 done!! BOTH PROMOTED!! Fourth read the memo and became Law Firm Receptionist!! Still-Here drove The Gremlin to work and came back with a promotion!! Fourth locked See A Shooting Star!! Sim Liv and Fourth are friends!! Benjamin Kirby has Still-Here's exact recessive genes!! 📜🪨⭐👹💛*
