@@ -40,7 +40,7 @@
 
 ### Aspiration
 - **Knowledge!!** — Analytical, detailed, has a system for everything!!
-- **Lifetime want:** Become The Law!! ⚖️ Very on the nose!! Very Fourth!!
+- **Lifetime want:** Max Out 7 Skills!! 📚 Quietly mastering everything, one skill at a time!!
 - **Secondary (hoped):** Fortune!! Has a system for everything, including financial planning!!
 
 ### Career
@@ -59,12 +59,11 @@
 | 🪨 Still-Here | Sibling | They live together!! | Fourth organises!! Still-Here undoes it!! This is their whole dynamic!! |
 | 🍊 AWiddleFrisbee | Sibling | Sister!! | Constitutionally incompatible about cleaning!! 😂 |
 | 🦜 Barnacle | Pet | In progress!! | The parrot has opinions about Fourth!! |
-| 🦇 Sim Liv | Friend!! 💛 | 1 bolt + CRUSH!! | Made friends Day 2!! Clicked immediately!! Fourth developed a crush by Day 3!! Can never happen!! Noted for the record!! 😂😭 |
-| 🧑 Benjamin Kirby | Family friend!! | Via Still-Here!! | Counts toward promotion!! |
+| 🦇 Sim Liv | Friend!! 💛 | 1 bolt + CRUSH!! | Made friends Day 2!! Clicked immediately!! Fourth developed a crush by Day 3!! Can never happen!! Noted for the permanent record!! 😂😭 |
 | 🐕 Mystery dog | Brief encounter!! | Day 3!! | Came to the front gate!! Fourth played with it immediately!! Very unexpected!! 😭 |
 
 ### Promotion Requirements — Law Level 3
-- TBC — fill in next rotation!!
+- ✅ **Already met!!** Ready to promote next time he goes to work!! 🎉
 
 ### Locked Wants
 - 🔒 **See a shooting star!!** ⭐ — secret astronomer!! Meaningful and lovely!! Telescope every night!!
@@ -109,11 +108,11 @@
 
 ### Aspiration
 - **Pleasure!!** — Extremely unbothered, lives for fun!!
-- **Lifetime want:** GRILLED CHEESE!! 🧀 Canon!! Will assign when possible!!
-- **Secondary (hoped):** Popularity!! The clown suit needs an audience!! 😂
+- **Lifetime want:** Become a Professional Party Guest!! 🎉 Top of the Slacker career!! Most correct lifetime want in Sunnyside!!
+- **Secondary aspiration (hoped):** GRILLED CHEESE!! 🧀 It's an aspiration!! Will unlock when possible!! Canon!!
 
 ### Career
-- **Slacker — Convenience Store Clerk, Level 3!!** 🏪 Promoted Day 2!! Drove The Gremlin to work and came straight back with a promotion!! 👹😂
+- **Slacker — Convenience Store Clerk, Level 3!!** 🏪 Promoted Day 2!! Drove The Gremlin to work and came straight back!! 👹😂
 - **Promotion requires:** Charisma skill 1!! ✅ DONE!! Ready for next rotation!!
 
 ### Skills (after Rotation 1)
@@ -128,7 +127,7 @@
 | 📜 Fourth | Sibling | They live together!! | Fourth organises!! Still-Here undoes it!! This is their whole dynamic!! |
 | 🍊 AWiddleFrisbee | Sibling | Sister!! | The one thing they agree on: cleaning is bad!! |
 | 🦜 Barnacle | Pet | BEST FRIENDS!! | Barnacle's person!! Rules the house together!! 👑 |
-| 🧑 Benjamin Kirby | Friend!! | 1 bolt → unattracted after friendship!! | Ginger hair!! Green eyes!! Still-Here's hidden genes!! 😂 |
+| 🧑 Benjamin Kirby | Friend!! | 1 bolt → unattracted after friendship!! | Ginger hair!! Green eyes!! Still-Here's hidden genes!! Still-Here's friend only!! 😂 |
 
 ### Promotion Requirements — Slacker Level 4
 - ✅ **Charisma skill 1!!** DONE!! Ready to promote next rotation!!
@@ -143,7 +142,7 @@
 ---
 
 ## Benjamin Kirby 🧑
-*Townie — Still-Here's friend!! Counts as Fourth's family friend!!*
+*Townie — Still-Here's friend!!*
 
 | | |
 |--|--|
@@ -180,7 +179,6 @@
 *The teddy!! Pink bear in a bunny costume!! Belongs to the house!!*
 - Bought Day 1!!
 - Still-Here showed him to Fourth immediately!! Fourth had a negative thought bubble!! 😂
-- Lives in the chaos of the living room!!
 - Distinguished name for a bear in a bunny suit living in absolute chaos!!
 
 ---
@@ -191,7 +189,7 @@
 - **Warm terracotta brick!! Dark roof!! TEAL ARCHED DOOR!!** Overflowing window boxes!! Iron fence right on the street!!
 - **No foundations** — door straight onto the pavement!! You knock and you're immediately in the chaos!!
 - **Central location** — everyone passes The Pebble House!! Very "everyone ends up here" energy!!
-- **The Gremlin** 👹🚗 — white car with screaming face decals and racing stripes!! £950!! Still-Here's energy entirely!! Already lucky — promoted on first night out!!
+- **The Gremlin** 👹🚗 — white car with screaming face decals and racing stripes!! £950!! Already lucky — promoted on first night out!!
 - **Bicycle leaning against the front fence** — Fourth's!! He locks it properly every single time!!
 - **Back garden telescope** — Fourth is quietly an amateur astronomer!! Still-Here doesn't know yet!! 🔭
 - **BARNACLE'S CAGE** by the front window — maximum surveillance!! 👑🦜
@@ -258,21 +256,21 @@
 
 **Still-Here:**
 - Got mechanical skill 1!! ✅
-- Made friends with Benjamin Kirby!! 🧑
+- Made friends with Benjamin Kirby!! 🧑 Still-Here's friend only!!
 - Drove The Gremlin to work!! 👹
 - **PROMOTED to Convenience Store Clerk Level 3!!** 🎉🏪
 
 ### Day 3 ✅ — Last Day!!
 **Fourth:**
-- Went straight to work!!
-- Came home and played with a mystery dog at the front gate!! 😭🐕 Completely spontaneous!! Very him!!
-- **DEVELOPED A CRUSH ON SIM LIV!!** 😂😭 One conversation!! Can never happen!! Noted for the permanent record!!
+- Went straight to work!! Already has everything for Level 3 promotion!! ✅
+- Came home and played with a mystery dog at the front gate!! 😭🐕
+- **DEVELOPED A CRUSH ON SIM LIV!!** 😂😭 Can never happen!! Noted for the permanent record!!
 - Creativity 2 + Cleaning 3 gained!! ✅
 
 **Still-Here:**
 - Went straight to work!!
 - Got charisma 1 on return!! ✅ Practiced in the mirror!! In the clown suit!!
-- Locked: get a pet!! 🔒🐾 (replaced freestyle for tips!!)
+- Locked: get a pet!! 🔒🐾
 - Promotion ready for Rotation 2!!
 
 ### Locks Carrying into Rotation 2
@@ -285,11 +283,11 @@
 - 🔒 Get a pet!! 🐾
 
 ### Rotation 2 Goals
-- Fourth: telescope every night for shooting star!! Cooking skill!! Woohoo situation!! 😂 More friends!!
+- Fourth: get promoted IMMEDIATELY!! Telescope every night for shooting star!! Cooking skill!! 😂
 - Still-Here: get promoted!! Throw that party!! Work toward a pet!! 🐾
 - Barnacle: continue ruling everything!! 🦜👑
 - Fourth and Sim Liv: friends only!! He'll be fine!! Probably!! 😂😭
 
 ---
 
-*Updated 19th June 2026 — Rotation 1 COMPLETE!! Both promoted!! Fourth read the memo!! Still-Here drove The Gremlin!! Fourth has a secret crush on Sim Liv and a secret telescope!! Barnacle was in the loo!! Peregrine arrived!! WEDNESDAY is still unexplained!! 🦜📜🪨👹⭐💛*
+*Updated 19th June 2026 — Corrections: Fourth lifetime want = Max Out 7 Skills!! Still-Here lifetime want = Become Professional Party Guest!! Grilled Cheese = secondary aspiration!! Benjamin is Still-Here's friend only!! Fourth already has Level 3 promotion requirements met!! 🦜📜🪨👹⭐💛*
