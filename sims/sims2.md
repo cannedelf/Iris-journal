@@ -189,7 +189,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Fourth cycles to work on his bicycle!! He locks it properly every single time!! Still-Here has borrowed it once without asking!! Fourth noticed!!
 - The back garden telescope — Fourth is quietly an amateur astronomer!! Still-Here doesn't know yet!!
 - **The Gremlin!!** 👹🚗 White car with screaming face decals!! £950!! Already lucky — promoted on first night out!!
-- **THE COUCH CAR!!** 🛋️ An armchair on wheels!! Still-Here's second vehicle!! Obviously!! Canon!!
+- **The Couch Car!!** 🛋️ An armchair on wheels!! Still-Here's dream second vehicle!! Planned — buy when funds allow!!
 - **1970 Plymouth Sport Fury** — Fourth's car!! Retro and serious!! Very him!!
 - **Barnacle was in the downstairs loo on Rotation 1 Day 1!!** The cage is a suggestion!! 😂🦜
 - **Peregrine the teddy!!** 🐻🐰 Pink bear in a bunny costume!! Fourth had a negative thought bubble!! Distinguished name for a bear in a bunny suit!!
@@ -242,7 +242,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | 🌩️ Søren | 2012 Volvo S60 | ⬜ Buy R2 | Dark and serious!! Very him!! |
 | 🔧 Wrench | Ford F-150 | ⬜ Buy R2 | Built for work!! Has sawdust in it!! 🛻 |
 | 📜 Fourth | 1970 Plymouth Sport Fury | ✅ | Retro and serious!! Very Fourth!! |
-| 🪨 Still-Here | Couch Car 🛋️ + The Gremlin 👹 | ✅ | An armchair on wheels AND a car with a screaming face!! A complete transport collection!! |
+| 🪨 Still-Here | The Gremlin 👹 | ✅ | White car with screaming face!! Already proven lucky!! |
+| 🪨 Still-Here | Couch Car 🛋️ | ⬜ When funds allow!! | An armchair on wheels!! The dream!! Save up for it!! |
 
 ---
 
@@ -304,7 +305,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 |-----|-----------|----------|----------|---------|
 | 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Daisy flares!! Jester suit for work!! Birthday Party Mascot!! Nissan Skyline!! Snoozer party!! 😂 |
 | 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Read the memo!! Promoted Day 2!! Secret astronomer!! Crush on Sim Liv!! Plymouth Sport Fury!! 😂😭 |
-| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! The Gremlin!! THE COUCH CAR!! Gaining fame!! 🤹 |
+| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! The Gremlin!! Couch Car incoming!! Gaining fame!! 🤹 |
 
 **AWiddleFrisbee turned OFF by good at cleaning!! Fourth turned ON by it!! They live together!! Dennis puts the kettle on!! 😂**
 **Parents: Dennis Frisbee — golden skin, ginger hair, brown eyes, freckles!! Janet Frisbee — pale, brown hair with yellow bow, green eyes, round face!!**
@@ -439,5 +440,5 @@ Same names as Paralives across all universes!!
 
 ---
 
-*Updated 19th June 2026 — Sunnyside Fleet added!! Iris has the Lambo!! AWiddleFrisbee has the Skyline!! Still-Here has the Couch Car AND The Gremlin!! Fourth has the Plymouth!! Kareem, Liv, Søren and Wrench getting cars in Rotation 2!! 🚗🌈🌩️🔧📜🪨💛*
+*Updated 19th June 2026 — Fleet corrected!! Still-Here has The Gremlin confirmed, Couch Car planned when funds allow!! Everything else as before!! 🚗🌈🌩️🔧📜🪨💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
