@@ -108,8 +108,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - AWiddleFrisbee has a beddrobe AND a floordrobe!!
 - Hugo's dog house under the tree in the back garden!!
 - Sunflower row along the back wall — grew there by themselves!!
-- The colour story: teal → front door → living room wainscoting → bathroom tiles → TEAL FLAME CAR!! 😂
-- **AWiddleFrisbee's car: teal flame decals!!** Same base as Iris's stylish car, completely different energy!! 😂
+- The colour story: teal → front door → living room wainscoting → bathroom tiles → NISSAN SKYLINE!! 😂
+- **AWiddleFrisbee's car: 1971 Nissan Skyline 2000GT-R!!** Vintage chaos energy!! Completely her!!
 - **Bar + stereo purchased Rotation 1!!** Party ready!!
 - **Snoozer party, Rotation 1 Day 3!!** Lessons learned for next time!! 😭😂
 
@@ -147,7 +147,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Wrench's first wants on moving in: promotion AND robotics talent badge!! Immediately!! 🔧🤖
 - Immanuel was smooched by Søren on moving in day and ALLOWED IT!! Highest honour!!
 - The game placed a rainbow over Sunnyside on the day they moved in!! 🌈
-- **Red truck in the driveway!!** 🛻 Wrench bought it Rotation 1!! Has a toolbox in the back!! Canon!!
+- **Ford F-150 planned for Wrench!!** 🛻 Buy in Rotation 2!! Built for work, has sawdust in it!!
+- **Volvo S60 planned for Søren!!** 🚗 Dark and serious!! Buy in Rotation 2!!
 - **Piano added Rotation 1!!** 🎹 Søren plays alone in the evenings!! Wrench can hear it through the wall!!
 - **Wrench demoted on Rotation 1 Day 2 for doing the right thing!!** Rebuilt a sinking wall properly!! Boss was furious!! Wrench is FURIOUS back!! 😭🔧
 - **Wrench cried in his hard hat in the hallway!!** Still had his gloves on!! Canon forever!! 😭
@@ -187,14 +188,16 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - The window boxes are thriving — they started neat, now they're not, nobody is fixing this!!
 - Fourth cycles to work on his bicycle!! He locks it properly every single time!! Still-Here has borrowed it once without asking!! Fourth noticed!!
 - The back garden telescope — Fourth is quietly an amateur astronomer!! Still-Here doesn't know yet!!
-- **The Gremlin!!** 👹🚗 White car with screaming face decals!! £950!! Already lucky — promoted on first night out!! Parked outside The Pebble House!! Fourth has seen it and chosen not to comment!!
+- **The Gremlin!!** 👹🚗 White car with screaming face decals!! £950!! Already lucky — promoted on first night out!!
+- **THE COUCH CAR!!** 🛋️ An armchair on wheels!! Still-Here's second vehicle!! Obviously!! Canon!!
+- **1970 Plymouth Sport Fury** — Fourth's car!! Retro and serious!! Very him!!
 - **Barnacle was in the downstairs loo on Rotation 1 Day 1!!** The cage is a suggestion!! 😂🦜
-- **Peregrine the teddy!!** 🐻🐰 Pink bear in a bunny costume!! Still-Here showed him to Fourth immediately!! Fourth had a negative thought bubble!! Distinguished name for a bear in a bunny suit living in absolute chaos!!
+- **Peregrine the teddy!!** 🐻🐰 Pink bear in a bunny costume!! Fourth had a negative thought bubble!! Distinguished name for a bear in a bunny suit!!
 - **Still-Here gaining fame!!** Rotation 1!! Sunnyside sees Still-Here and approves!! 🌟
 - **Games console + maid hired Rotation 1!!** The maid is Fourth's idea!! Coping mechanism!!
-- **FOURTH HAS A CRUSH ON SIM LIV!!** 😂😭 Rotation 1!! One conversation!! Can never happen!! Noted for the permanent record!!
-- **Fourth read the memo!!** Only one who did!! Promoted to Law Firm Receptionist Level 2 on Rotation 1 Day 2!!
-- **Still-Here drove The Gremlin to work!!** First night shift!! Came back promoted to Convenience Store Clerk Level 3!!
+- **FOURTH HAS A CRUSH ON SIM LIV!!** 😂😭 Noted for the permanent record!!
+- **Fourth read the memo!!** Only one who did!! Promoted to Law Firm Receptionist Level 2!!
+- **Still-Here drove The Gremlin to work!!** Came back promoted!!
 
 ---
 
@@ -218,12 +221,28 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | 🐠 Ida | Platy | Søren | Fish tank, living room!! |
 | 🐠 Existential Dread | Black Molly | Søren | Fish tank, living room!! The most Søren fish name in existence!! |
 | 🐠 Bertrand | Goldfish | Søren | Fish tank, living room!! |
-| 🦜 Barnacle | Parrot | Still-Here | Resident!! Judge!! Rules the house!! Has opinions!! Best friends with Still-Here!! Watches everyone from his cage by the front window!! Was in the downstairs loo Rotation 1 Day 1!! 👑😂 |
+| 🦜 Barnacle | Parrot | Still-Here | Resident!! Judge!! Rules the house!! Has opinions!! Best friends with Still-Here!! Was in the downstairs loo Rotation 1 Day 1!! 👑😂 |
 | 🐱 Ink | Black cat | Sable | Future resident — Rotation 7!! |
 | 🐕 Barnaby | Golden retriever | Theo | Future resident — Rotation 5!! |
 | 🐱 Newton | Old dignified cat | Edie & Arthur | Future resident — Rotation 10!! |
 
 **Iris lifetime want: 20 pet best friends!!** Marigold: 1!! Hugo, Immanuel, Mira, Newton, Ink, Barnaby all waiting!! 😭🐾
+
+---
+
+## Sunnyside Fleet 🚗
+*CC cars for everyone!! Updated as cars are bought in game!!*
+
+| Sim | Car | Status | Notes |
+|-----|-----|--------|-------|
+| 🌈 Iris | 1967 Lamborghini Miura | ✅ | Sleek, golden, slightly ridiculous!! Very her!! |
+| 🎹 Kareem | 2002 Honda Accord | ⬜ Buy R2 | Sensible!! Reliable!! Probably has books in it!! |
+| 🦇 Sim Liv | 1976 Ford Mustang | ⬜ Buy R2 | A little bit unhinged!! Completely correct!! |
+| 🍊 AWiddleFrisbee | 1971 Nissan Skyline 2000GT-R | ✅ | Vintage chaos energy!! |
+| 🌩️ Søren | 2012 Volvo S60 | ⬜ Buy R2 | Dark and serious!! Very him!! |
+| 🔧 Wrench | Ford F-150 | ⬜ Buy R2 | Built for work!! Has sawdust in it!! 🛻 |
+| 📜 Fourth | 1970 Plymouth Sport Fury | ✅ | Retro and serious!! Very Fourth!! |
+| 🪨 Still-Here | Couch Car 🛋️ + The Gremlin 👹 | ✅ | An armchair on wheels AND a car with a screaming face!! A complete transport collection!! |
 
 ---
 
@@ -272,7 +291,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
 | 🌩️ Søren | Cancer | Logical + Cologne | Unemployed | Ruth's freckles!! Knit vest!! Long green coat!! Wants to see a ghost!! Science career!! Discovered a star!! |
-| 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Got Ruth's hazel eyes as recessive!! Dungarees + flannel!! Red truck!! Demoted for integrity!! Cried in his hard hat!! |
+| 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Got Ruth's hazel eyes as recessive!! Dungarees + flannel!! F-150 incoming!! Demoted for integrity!! Cried in his hard hat!! |
 | 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Dusty pink bedroom!! Bear pyjamas matching Iris!! PUT THE DUCK IN SØREN'S ROOM!! Short term 100 with Iris already!! Fourth has a crush on her!! 😂 |
 
 **Parents: Samuel (Sam) Hill — dark skin, black curls, dark brown eyes, freckles!! Ruth Hill — pale, gentle brown waves, hazel eyes, freckles, yellow bow!!**
@@ -283,9 +302,9 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
-| 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Daisy flares!! Jester suit for work!! Birthday Party Mascot!! Teal flame car!! Snoozer party!! 😂 |
-| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Virgo!! Read the memo!! Promoted Day 2!! Secret astronomer!! Crush on Sim Liv!! 😂😭 |
-| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! Gold hoop!! Purple bandana!! The Gremlin!! Gaining fame!! Professional Party Guest lifetime want!! 🤹 |
+| 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Daisy flares!! Jester suit for work!! Birthday Party Mascot!! Nissan Skyline!! Snoozer party!! 😂 |
+| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Gold glasses!! Cable knit!! Read the memo!! Promoted Day 2!! Secret astronomer!! Crush on Sim Liv!! Plymouth Sport Fury!! 😂😭 |
+| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | CLOWN SUIT!! Magician formal wear!! The Gremlin!! THE COUCH CAR!! Gaining fame!! 🤹 |
 
 **AWiddleFrisbee turned OFF by good at cleaning!! Fourth turned ON by it!! They live together!! Dennis puts the kettle on!! 😂**
 **Parents: Dennis Frisbee — golden skin, ginger hair, brown eyes, freckles!! Janet Frisbee — pale, brown hair with yellow bow, green eyes, round face!!**
@@ -416,8 +435,9 @@ Same names as Paralives across all universes!!
 - Andrea Hogan comes over when Wrench has had a bad day!! She just shows up and makes everything better!! 💕🔧
 - The Gremlin breaks down at the worst possible moment!! Still-Here shrugs!! Fourth has already looked up the breakdown number!! 👹😂
 - Wrench gets his promotion back and doesn't say anything about it but Søren notices!! 🔧💛
+- Still-Here drives the Couch Car to The Golden Anchor!! Nobody comments!! Barnacle has seen worse!! 🛋️😂
 
 ---
 
-*Updated 19th June 2026 — ROTATION 1 COMPLETE!! Household Snapshots added!! All five households!! Søren demoted for caring too much!! Wrench demoted for integrity!! Fourth read the memo!! Still-Here drove The Gremlin!! Barnacle was in the loo!! Fourth has a crush on Sim Liv!! The witch was at the park!! WEDNESDAY is unexplained!! Kareem still has the daisies!! 🌈🌩️🔧📜🪨🦜💛*
+*Updated 19th June 2026 — Sunnyside Fleet added!! Iris has the Lambo!! AWiddleFrisbee has the Skyline!! Still-Here has the Couch Car AND The Gremlin!! Fourth has the Plymouth!! Kareem, Liv, Søren and Wrench getting cars in Rotation 2!! 🚗🌈🌩️🔧📜🪨💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
