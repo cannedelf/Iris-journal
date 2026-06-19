@@ -38,7 +38,7 @@
 ### Career
 - **Science — Field Research, Level 3!!** 🔬
 
-### Skills (after Rotation 1 Day 1)
+### Skills (after Rotation 1 Day 2)
 | Skill | Level | Notes |
 |-------|-------|-------|
 | Cooking | 3 | ✅ Up from 2!! |
@@ -52,7 +52,7 @@
 | 😤 Immanuel | Pet | Smooched on move-in day!! | Highest honour!! 😭 |
 
 ### Promotion Requirements — Science Level 4
-- ❌ **1 household friend!!** — if Wrench makes a friend it counts!! 👥
+- ✅ **1 household friend!!** — Wrench made friends with Andrea!! 👥💕
 
 ### Locked Wants
 - 🔒 **Be saved from death!!** 💀 — big dramatic Knowledge want, absolutely protect it!!
@@ -84,7 +84,7 @@
 - **Knowledge!!**
 
 ### Career
-- **Architect — Level 2!!** 🏗️ Of course he builds things for a living!!
+- **Architect — Cement Mixer, Level 1!!** 🏗️ Demoted Day 2 for doing the right thing!! He is FURIOUS!!
 
 ### Skills
 | Skill | Level | Notes |
@@ -95,14 +95,14 @@
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🌩️ Søren | Sibling | Brothers!! | |
-| 💕 Andrea Hogan | Townie | 2 bolts!! | AWiddleFrisbee's friend!! Rejected invite Day 1!! Try again!! |
+| 💕 Andrea Hogan | Friend!! | 2 bolts!! | Slacker career level 6!! Made friends Day 2!! Best thing about a terrible day!! 😭💕 |
 
-### Promotion Requirements — Architect Level 3
+### Promotion Requirements — Architect Level 2
 - TBC — fill in when loaded!!
 
 ### Locked Wants
 - 🔒 **Bronze robotics talent badge!!** 🤖 — most him, will take real time!!
-- 🔒 **Bronze toy making talent badge!!** 🧸 — unexpected and lovely, also very Wrench!!
+- 🔒 **Promotion!!** 🏗️ — demoted Day 2, locked immediately, he has a GRUDGE!!
 
 ### Locked Fears
 *(shares the 2-lock pool with wants!!)*
@@ -112,12 +112,13 @@
 ## Starting Wants — Wrench
 | Want | Locked? | Notes |
 |------|---------|-------|
-| Earn money | ⬜ | Quick win — do it and free the slot!! |
-| Earn £100 | ⬜ | Quick win!! |
-| Get creativity level 1 | ⬜ | Easy!! |
+| Earn money | ✅ | Done!! |
+| Earn £100 | ✅ | Done!! |
+| Get creativity level 1 | ⬜ | Still to do!! |
 | Woohoo!! | ⬜ | 😂 Will happen when it happens!! |
-| Bronze toy making badge | 🔒 | Takes time — protect it!! 🧸 |
+| Bronze toy making badge | ⬜ | Unlocked — work toward naturally!! 🧸 |
 | Bronze robotics badge | 🔒 | Takes time — protect it!! 🤖 |
+| Promotion!! | 🔒 | He has a grudge!! 🏗️ |
 
 ---
 
@@ -140,6 +141,20 @@
 
 ### Immanuel's Autonomous Moments
 - **Allowed Søren to smooch him on move-in day!!** Highest honour ever bestowed!! 😭
+- **Allowed Wrench to play with him Day 1!!** Bond established!! 😤💛
+
+---
+
+## Andrea Hogan 💕
+*Townie — Wrench's friend!! May become more one day!! 👀*
+
+| | |
+|--|--|
+| **Career** | Slacker — Projectionist, Level 6!! 😂 |
+| **Star sign** | Capricorn ♑ |
+| **Attraction** | 2 bolts with Wrench!! 💕 |
+| **Connection** | Met AWiddleFrisbee at the park in the rain!! |
+| **Appearance** | Braided bun · warm deep brown skin · green eyes · yellow dress!! 💛 |
 
 ---
 
@@ -182,6 +197,7 @@
 | Get cleaning level 6 | ✅ | Done Day 1!! |
 
 ### Day 1 ✅ — Skills Day!!
+**Søren:**
 - **Read the cleaning book** — cleaning 5 → 6!! ✅ 🧹
 - **Cooked** — cooking 2 → 3!! ✅ 🍳
 - **Telescope in the evening** — logic 1 → 2!! ✅ 🔭
@@ -189,17 +205,28 @@
 - Wants to see a ghost AND a wolf!! Unlocked ghost want (no dead Sims in Sunnyside yet!!) 👻🐺
 - Three skills in one day!! Incredible!! 💛
 
-### Day 1 ✅ — Wrench
+**Wrench:**
 - **Made toy robots on the robotics bench!!** Badge ticking up!! 🤖
 - **Made lunch meat sandwiches** — functional, no nonsense, completely him!! 🥪
 - **Played with Immanuel!!** Immanuel allowed it!! Bond established!! 😭😤
 - **Bought:** red truck 🛻 · food processor 🥘 · various other appliances 😂
-- Tried to invite **Andrea Hogan** over — she rejected it!! Try again Day 2!! 💕
-- Negative attraction confirmed: both Hill brothers ↔ both Frisbees!! Canon!! 😂
-- **2 bolts with Andrea Hogan!!** AWiddleFrisbee's friend!! Very promising!! 💕
+- Tried to invite **Andrea Hogan** over — she rejected it!! 💕
 
-### Day 2 —
-*(fill in as we play!!)*
+### Day 2 ✅ — The Worst Best Day!!
+**Wrench:**
+- **Went to work as a Bricklayer** — hard hat, suspenders, work gloves, red truck!! 🛻👷
+- **Work event: sinking wall!!** Chose to rebuild properly — foundation was soft, he noticed, he fixed it!! ✅
+- **GOT DEMOTED to Cement Mixer!!** Rebuilding took all day, boss was furious!! Demoted for doing the right thing!! 😭🔧
+- **Came home and cried in his hard hat in the hallway!! 😭** Still had his gloves on!!
+- **Burned the mac and cheese!! 😭** Two bad memories back to back!!
+- **Cried into his lunch meat sandwich!!** The most defeated sandwich in Sunnyside!!
+- **Called Andrea Hogan — she said YES!!** 💕
+- **MADE FRIENDS WITH ANDREA!!** 😭💕 Best thing about a terrible day!!
+- Andrea: braided bun, yellow dress, Capricorn, Slacker Projectionist level 6, 2 bolts with Wrench!! 💕
+
+**Søren:**
+- **Promotion requirements now met!!** Wrench made a friend — household friend unlocked!! ✅🔬
+- Ready for promotion next time he goes to work!! 🎉
 
 ### Day 3 —
 *(fill in as we play!!)*
@@ -209,4 +236,4 @@
 
 ---
 
-*Updated 19th June 2026 — Day 1 done!! Søren hit cleaning 6, cooking 3, logic 2 all in one day!! Wrench bought a truck and made robots!! Andrea Hogan has 2 bolts with Wrench!! Try invite again Day 2!! 🌩️🔧💛*
+*Updated 19th June 2026 — Day 2 done!! Wrench demoted for doing the right thing, cried in his hard hat, then made friends with Andrea Hogan!! Søren's promotion requirements now met!! 🌩️🔧💕😭💛*
