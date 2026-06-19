@@ -9,18 +9,19 @@
 
 | Sim | Career | Level | Aspiration | Lifetime Want | Star Sign |
 |-----|--------|-------|-----------|--------------|-----------|
-| 🦇 Sim Liv Hill | Business | 1 | Family | Graduate 3 Children from College!! | Aquarius ♒ |
-| 🍊 AWiddleFrisbee | Entertainment | 2 — Birthday Party Mascot!! 🎭 | Popularity | Become Prestidigitator!! | Libra ♎ |
+| 🦇 Sim Liv Hill | Business — Junior Executive | 4!! 🎉 | Family | Graduate 3 Children from College!! | Aquarius ♒ |
+| 🍊 AWiddleFrisbee | Entertainment — Lounge Singer | 4!! 🎉 | Popularity | Become Prestidigitator!! | Libra ♎ |
 
 ---
 
-## Sim Liv — Current Status (after Rotation 1)
+## Sim Liv — Current Status (after Rotation 2)
 
 ### Appearance
 - Brown wavy hair · hazel eyes · glasses · warm open face · freckles!!
 - Green stripe crop sweater + flared jeans + white converse!!
-- Bear pyjamas — pink and orange!! Matches Iris's yellow and purple version!! 😭💛
+- Bear pyjamas — pink and orange!! 😭💛
 - **Hidden genes:** Black hair recessive from Dad!!
+- **Car:** 1976 Ford Mustang!! ⬜ Still to buy!!
 
 ### Personality
 | Trait | Score |
@@ -34,35 +35,37 @@
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Cooking | 1 | Gained Rotation 1!! 🍳 |
-| Cleaning | 1 | Gained Rotation 1!! 🧹 |
-| Charisma | 1 | Gained Rotation 1!! |
+| Cooking | 1 | |
+| Cleaning | 1 | |
+| Charisma | 2 | ✅ Gained Rotation 2!! Promotion requirement!! |
+| Creativity | 1 | ✅ Gained at Iris's party!! From Iris's guitar!! 😭💛 |
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| 🌈 Iris | Sim | FRIENDS!! | Short term 100!! Long term climbing!! 😭💛 |
-| 🍊 AWiddleFrisbee | Household | Friends!! | Lives together!! |
+| 🌈 Iris | BFF!! | Best friends!! | 😭💛 |
+| 🍊 AWiddleFrisbee | Household | Working toward BFF!! | 🔒 Locked!! |
+| 📜 Fourth | Crush!! | Wants to be best friends!! | 😂😭 The game is winning!! |
 
-### Promotion Requirements
-- TBC — check Business career track!!
+### Promotion Requirements — Business Level 5
+- TBC — check next rotation!!
 
 ### Locked Wants
-- 🔒 **Become best friends with Iris!!** — her whole want board is basically just Iris!! 😭💛
+- 🔒 **Become best friends with AWiddleFrisbee!!** 🍊
+- ⬜ Slot open!!
 
-### Memories
-- 🌟 **Gaining fame** — the game noticed she's a good Sim!! Good things coming!! 😭💛
+### Hobby
+- 🌸 **Florist bench!!** — bronze badge in progress!! Making daisies!! 😭🌼
 
 ---
 
-## AWiddleFrisbee — Current Status (after Rotation 1)
+## AWiddleFrisbee — Current Status (after Rotation 2)
 
 ### Appearance
-- Brown long hair · green eyes · round glasses · round face from Janet!! Freckles from Dennis!!
+- Brown long hair · green eyes · round glasses · round face · freckles!!
 - Daisy print flares + pink tie top + cream cardigan!!
-- **Work outfit: JESTER SUIT!!** Rainbow hat, pom poms, the works!! 😂🎭
-- **Hidden genes:** Ginger hair recessive from Dennis!!
-- Seagull Jellycat called **Olivia** — has seagullstones!! Filed a formal complaint!! Was ignored!! 😂🐦
+- **Work outfit: now a LOUNGE SINGER!!** 🎤
+- **Hidden genes:** Ginger hair recessive!!
 
 ### Personality
 | Trait | Score |
@@ -76,41 +79,23 @@
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
-| — | — | TBC!! |
+| Charisma | 1 | Promotion requirement!! |
+| Creativity | 2 | Promotion requirement!! |
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| 🦇 Sim Liv | Household | Friends!! | Lives together!! |
-| 🤝 Andrea Hogan | Townie | FRIENDS!! | Made at the park in the RAIN!! 😂💛 |
-| 🪨 Still-Here | Sibling | Known | Frisbee sibling!! |
-| 📜 Fourth | Sibling | Known | Frisbee sibling!! |
-| 🌩️ Søren | Acquaintance | Met at party | Negative attraction bolt!! 😂 |
-| 🔧 Wrench | Acquaintance | Met at party | Negative attraction bolt!! 😂 |
+| 🦇 Sim Liv | Household | Friends!! Working toward BFF!! | |
+| 🌈 Iris | BFF!! | Best friends!! Fired quietly!! 😂😭🌈 | |
+| 🤝 Andrea Hogan | Townie | Friends!! | |
+| 🔧 Wrench | Friend!! | Working toward best friends!! 🔒 | Called her!! 😭💛 |
 
-### Attraction Notes
-- ❌ Negative bolts with Søren AND Wrench!! The Hill brothers are simply not it!! 😂
-- AWiddleFrisbee's person is still out there somewhere!!
-
-### Promotion Requirements — Entertainment Level 3
-- ✅ Friends requirement met!! (Andrea + Sim Liv via Iris connection!!)
-- **MISSED MIME PROMOTION!!** Waited too long!! Take it immediately next time!!
+### Promotion Requirements — Entertainment Level 5
+- TBC — check next rotation!!
 
 ### Locked Wants
-- ⬜ Open — party want completed (badly!!)
-
-### Memories
-- 💔 **Lousy party** — negative memory!! The snoozer hurt!! But she's still in the green!! 💛
-
----
-
-## Party Lessons Learned!! 🎉📝
-*For next time AWiddleFrisbee throws a party!!*
-- Get guests' needs HIGH before the party starts!!
-- Get dancing happening EARLY — not at the end!!
-- Keep everyone in the SAME ROOM!!
-- The decorations were PERFECT — that wasn't the problem!! 😂
-- Hired bartender was a good call — keep that!!
+- 🔒 **Become best friends with Wrench!!** 🔧
+- ⬜ Slot open!!
 
 ---
 
@@ -130,70 +115,88 @@
 | Pigpen | MAX!! |
 | Doofus | MAX!! |
 
-### Hugo's Autonomous Moments — Rotation 1
-- Weed on the living room floor day 2!! Maximum Pigpen confirmed!! 😂🐕
-- Stayed cosy in his bay window bed while Iris visited!! 👑🐕
+### Hugo's Autonomous Moments
+- Weed on the living room floor Rotation 1!! 😂
+- **Knocked over the bin and ate from it Rotation 2!! 🗑️**
+- **Attacked the rainbow rug Rotation 2!!** 🌈😂
+- **Slept in his garden house like a perfect angel!!** 😭🐕
+- Stayed cosy in his bay window while Iris visited!!
 
 ---
 
 ## The Flat — The House 🏠
 
 ### What's In It
-- 🥂 **Bar** — purchased day 1!!
-- 🎶 **Stereo** — purchased day 2!!
-- 🚗 **Teal flame car** — AWiddleFrisbee's!! Black with teal flame decals!! Same base car as Iris, completely different energy!! 😂✨
-- 🎈 **Party decorations** — balloon garland, streamers, balloon bouquet with tassels!! Still up!!
-- 🍾 **Champagne** — indoors!!
-- 🍽️ **Buffet table** — outside with balloons!!
+- 🥂 **Bar** · 🎶 **Stereo** · 🎸 **Guitar** (Sim Liv played it at Iris's party!!)
+- 🚗 **Teal flame Nissan Skyline** — AWiddleFrisbee's!! Updated Rotation 2!!
+- 🌸 **Florist bench** — new Rotation 2!! Sim Liv's!! Bronze badge in progress!!
+- 🌼 **Sim Liv making daisies!!** 😭 Kareem has daisies in his inventory!! They don't know yet!!
 
 ### Key Canon Facts
-- **TEAL arched door** — beautiful from inside and outside!!
-- **Hugo's bed in the bay window** — claimed immediately!! 👑🐕
-- **Mismatched curtains** — teal left, gold right — nobody discussed it!!
-- **Dusty pink bedroom** (Sim Liv — THE FLOORDROBE SITUATION)!!
-- **Dark green bedroom** (AWiddleFrisbee — COFFEE GOBLIN HEADQUARTERS)!!
-- **AWiddleFrisbee has a beddrobe AND a floordrobe!!**
+- **TEAL arched door!!**
+- **Hugo's bed in the bay window!!** 👑🐕
+- **Hugo's garden house!!** He fits in it!! Just about!! 😂
+- **Mismatched curtains** — teal left, gold right!!
+- **Dusty pink bedroom** (Sim Liv — THE FLOORDROBE SITUATION!!)
+- **Dark green bedroom** (AWiddleFrisbee — COFFEE GOBLIN HEADQUARTERS!!)
 - **SHEEP PAINTING** in bathroom!! 🐑
-- **Sage green cabinets** — same as the real kitchen!!
+- **Sage green cabinets!!**
 - **TWO coffee machines!!**
-- **Rainbow rug** that never stays straight!!
-- **The colour story:** teal → front door → wainscoting → bathroom tiles → TEAL FLAME CAR!! 😂
+- **Rainbow rug that never stays straight!!** Hugo tried to destroy it!! 😂
+- **The pond next door** — Hugo has not fallen in yet!! It's coming!! 🐕💦
 
 ---
 
-## Rotation 1 — The Flat 🦇🍊🐕 ✅ COMPLETE!!
-
-### Day 1 ✅
-- AWiddleFrisbee went to the park in the RAIN and made friends with Andrea Hogan!! 😂💛
-- Sim Liv played with Hugo!! Got cooking skill!!
-- Hugo weed on the living room floor!! Maximum Pigpen!! 😂🐕
-- AWiddleFrisbee and Sim Liv became friends!!
-- **Iris visited!!** Sim Liv and Iris short term bar hit 100!! 😭💛
-- AWiddleFrisbee met Iris!!
-- Teal flame car purchased!! 🚗🔥
-
-### Day 2 ✅
-- AWiddleFrisbee went to work as Birthday Party Mascot in JESTER SUIT!! 😂🎭
-- **MISSED MIME PROMOTION!!** Waited too long!! Next time immediately!!
-- Wrench visited and fixed the broken bath!! 🔧
-- Søren came with Wrench!! Both Hill brothers at The Flat!!
-- AWiddleFrisbee met both Hill brothers — negative attraction bolts with both!! 😂
-- Stereo purchased!! 🎶
-- Sim Liv gained cleaning + charisma skills!!
-
-### Day 3 ✅
-- AWiddleFrisbee decorated for party — BALLOON GARLAND!! STREAMERS!! CHAMPAGNE!! BUFFET TABLE!! HIRED BARTENDER!! 🎈🍾
-- Guests: Iris, Fourth, Still-Here, Søren, Wrench, Andrea!!
-- **PARTY WAS A SNOOZER!!** 😭 Fear fired!! Negative memory!!
-- Still in the green aspiration-wise!! Resilient!! 💛
-
-### Rotation 2 Goals
-- Take the MIME promotion immediately when offered!! 🎭
-- Throw a BETTER party — needs high, dance early, same room!!
-- Keep building Iris friendship for AWiddleFrisbee!!
-- Push Sim Liv and Iris long term bar toward 50 — BEST FRIENDS!!
-- Find out who AWiddleFrisbee DOES have positive bolts with!! 👀
+## Rotation 1 — Highlights 🦇🍊
+- AWiddleFrisbee made friends with Andrea in the RAIN!!
+- Hugo weed on the living room floor!! 😂
+- Iris visited!! Sim Liv and Iris short term bar hit 100!!
+- Teal flame car purchased!!
+- AWiddleFrisbee missed the Mime promotion!! Never again!!
+- **SNOOZER PARTY!!** Negative memory!! Lessons learned!!
 
 ---
 
-*Updated 18th June 2026 — Rotation 1 complete!! Snoozer party!! Teal flame car!! Jester suit!! Iris visited!! Hugo weed on the floor!! The Flat is fully alive!! 🦇🍊🐕😂💛*
+## Rotation 2 ✅ COMPLETE!! 🎉🦇🍊🐕
+
+### Day 1 ✅ — Thursday
+- **Sim Liv promoted to Executive Assistant Level 2!!** 💼🎉 Told the boss about investment opportunity!!
+- **AWiddleFrisbee promoted to Mime Level 3!!** 🎭🎉 Didn't miss it this time!!
+- Hugo knocked over the bin and ate from it!! 😂🗑️
+- Hugo tried to destroy the rainbow rug!! 😂
+- Fourth phoned Sim Liv!! Friendship went up!! Hung up!! 😂📜
+- **Iris called AWiddleFrisbee — BFF!!** 😭🌈🍊 Fired quietly in the background!!
+
+### Day 2 ✅ — Friday
+- **Sim Liv promoted to Field Sales Representative Level 3!!** 💼🎉
+- AWiddleFrisbee got charisma from mirror!! Wrench called her!! 😭🔧
+- Hugo slept in his garden house like a perfect angel!! 😭🐕
+- Sim Liv STILL wants to be best friends with Fourth!! 😂😭
+
+### Day 3 ✅ — Saturday
+- **Sim Liv promoted to Junior Executive Level 4!!** 💼🎉 THREE promotions in one rotation!!
+- **AWiddleFrisbee promoted to Lounge Singer Level 4!!** 🎤🎉
+- **DOUBLE PROMOTION SATURDAY!!** 🎉🎉
+- Sim Liv used the florist bench!! Making DAISIES!! 😭🌼
+- Bronze flower badge ticking up!! 🌸
+- Creativity gained from Iris's guitar at the party!! Iris accidentally gave Sim Liv her promotion requirement!! 😭💛
+
+### Locks Carrying into Rotation 3
+**Sim Liv:**
+- 🔒 Become best friends with AWiddleFrisbee!! 🍊
+- ⬜ Slot open!!
+
+**AWiddleFrisbee:**
+- 🔒 Become best friends with Wrench!! 🔧
+- ⬜ Slot open!!
+
+### Rotation 3 Goals
+- Buy the Ford Mustang for Sim Liv!! 🚗
+- Keep Sim Liv away from Fourth!! 😂
+- Work toward bronze flower badge!! 🌸
+- AWiddleFrisbee and Wrench — keep building!!
+- Hugo to fall in the pond!! It's time!! 🐕💦
+
+---
+
+*Updated 19th June 2026 — Rotation 2 COMPLETE!! THREE promotions for Sim Liv!! Double promotion Saturday!! BFF with Iris for AWiddleFrisbee!! Sim Liv making daisies!! Fourth situation ongoing!! Hugo ate from the bin!! The pond awaits!! 🦇🍊🐕😂💛*
