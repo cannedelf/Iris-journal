@@ -1,6 +1,6 @@
 # Sunnyside Names 🌈
 *Baby name lists for every Sunnyside resident!! When two Sims have a child, cross-reference both lists to find the perfect name!!*
-*Updated 11th June 2026 💛*
+*Updated 20th June 2026 💛*
 
 ---
 
@@ -9,6 +9,14 @@ Each Sim has their own name list reflecting their personality, heritage and vibe
 When two Sims have a child — look at both lists and find the overlap!!
 The baby's name should feel like BOTH parents in equal measure!!
 Confirmed babies are marked with ⭐!!
+
+---
+
+## ⭐ Confirmed Sunnyside Babies!!
+
+| Baby | Parents | Born | Notes |
+|------|---------|------|-------|
+| 💚 **Cassian Hill** | Søren Hill + P.T. 83 👽 | Day 3 Rotation 3!! | Little green boy!! Alien print cot!! UFO light!! Literary + celestial!! Travels between worlds — because one of his parents literally does!! P.T. 83 pays child support on time from space!! 😭👽💚 |
 
 ---
 
@@ -48,9 +56,11 @@ Confirmed babies are marked with ⭐!!
 
 **Girls:** Solveig, Astrid, Elowen, Simone, Sylvia, Ingrid, Reverie, Isolde, Auden, Signe
 
-**Boys:** Camus, Pascal, Emerson, Leif, Viggo, Fen, Birch, Cassian
+**Boys:** Camus, Pascal, Emerson, Leif, Viggo, Fen, Birch, ~~Cassian~~ ⭐ *USED — Cassian Hill, born Rotation 3!!*
 
 **Søren's vibe:** Norse and philosophical and quietly dark romantic!! Philosopher names — Simone de Beauvoir, Sylvia Plath, Camus, Pascal, Emerson!! Viggo = Aragorn energy, would cite three academic reasons why it's a serious Nordic name!! 😂 Reverie chosen at 2am and never crossed off!!
+
+**Future partner: Idris Okafor — names below!!**
 
 ---
 
@@ -131,7 +141,7 @@ Confirmed babies are marked with ⭐!!
 - **Flint** — cottagecore AND mechanical!!
 - **Birch** — on AWiddleFrisbee's list, Wrench would feel it!!
 
-**Bramble Hill!! Colt Hill!! Flint Hill!! Birch Hill!!** 😭💛
+**Bramble Frisbee!! Colt Frisbee!! Flint Frisbee!! Birch Frisbee!!** 😭💛
 
 ---
 
@@ -196,7 +206,7 @@ Confirmed babies are marked with ⭐!!
 - **Caspian** — on BOTH lists, completely inevitable!! 😂
 - **Elio** — warm and golden and unexpected for two quietly dark people!!
 
-**Ren Hill-Mori!! Lumi Hill-Mori!! Caspian Hill-Mori!! Elio Hill-Mori!!** 😭🖤🌕
+**Ren Mori!! Lumi Mori!! Caspian Mori!! Elio Mori!!** 😭🖤🌕
 
 ---
 
@@ -211,26 +221,18 @@ Brie, Edam, Paneer, Beaufort, Manchego, Pecorino, Monterey, Colby, Gouda, Havart
 
 ---
 
-
----
-
 ## Surnames 💛
 *The Rainbow Rule: if Rainbow is available it WINS!! No hyphenating required!! Iris is the founding Sim of Sunnyside and Rainbow is the superior surname!!*
 
 | Couple | Surname | Notes |
 |--------|---------|-------|
 | 🌈 Iris + Kareem | **Rainbow** | Obviously!! No competition!! |
-| 🌩️ Søren + Idris | **Hill-Okafor** | Obinna Hill-Okafor is too beautiful not to hyphenate!! 😭 |
+| 🌩️ Søren + P.T. 83 | **Hill** | Cassian Hill!! Literary and celestial and perfectly his!! 👽💚 |
+| 🌩️ Søren + Idris (future) | **Hill-Okafor** | Obinna Hill-Okafor is too beautiful not to hyphenate!! 😭 |
 | 🍊 AWiddleFrisbee + Wrench | **Frisbee** | Wrench gives up Hill willingly because it's AWiddleFrisbee and of course he does!! 😂💛 |
 | 📜 Fourth + Clara | **Frisbee-Vance** | Rosalind Frisbee-Vance is Shakespearean and perfect!! Very Fourth!! |
 | 🦇 Sim Liv + Theo | **Calloway-Hill** | Juniper Calloway-Hill is too beautiful to give up either name!! |
 | 🌕 Aesop + Sable | **Mori** | Aesop Fable takes Sable's name!! Has three philosophical reasons prepared!! 😂🖤 |
-
-**Wrench Frisbee!! Completely unhinged and completely right!!** 😂💛
-**Celestine Rainbow!! Kofi Rainbow!! Amara Rainbow!!** 😭🌈
-
----
-
 
 ---
 
@@ -261,22 +263,11 @@ Brie, Edam, Paneer, Beaufort, Manchego, Pecorino, Monterey, Colby, Gouda, Havart
 ---
 
 ## 🌱 Willa Meadow — Future Arrival!!
-*Edie and Arthur's grown up child!! Arrives in Sunnyside later — moved away years ago and came back, or heard about this lovely coastal village and wanted to see it for themselves!!*
+*Edie and Arthur's grown up child!!*
 
 - **Name:** Willa Meadow!! 🌿
-- **Parents:** Edie and Arthur — set via SimPE relationship editor after creation!!
-- **Vibe:** Has Edie's warmth and Arthur's quiet thoughtfulness!! Slightly unexpected career that her parents are quietly very proud of!!
-- **Career:** TBD!! Something she chose herself that surprised everyone gently!!
-- **Arrival:** Later in the rotational play — a proper story moment when she turns up!!
+- **Arrival:** Later in the rotational play — a proper story moment!!
 - **Note:** Edie will cry when she arrives!! This is not a prediction, this is a guarantee!! 😭💛
-- **Søren:** Will have a new reading companion at the Tidal Library within the first week and will not comment on this!! 😂
-
-*SimPE can edit family trees and relationships — create Willa as a young adult, then set Edie and Arthur as parents after the fact!!*
-
----
-
-## Still To Do!! 🌱
-- ✅ Edie and Arthur Meadow — DONE!! Willa Meadow planned!!
 
 ---
 
@@ -288,6 +279,6 @@ The teacher will simply give up!! 😂
 ---
 
 *Created 11th June 2026 — full names session with Iris and Liv!!*
+*Updated 20th June 2026 — CASSIAN HILL BORN!! First confirmed Sunnyside baby!! Son of Søren and P.T. 83!! Literary + celestial + travels between worlds!! The alien print cot knew!! 👽💚😭*
 *The Sims lets you name a child Dandelion and nobody bats an eye and that is one of its greatest gifts!! 🌼*
 *Biscuit is canon!! Wensleydale is canon!! Everything is canon!! 💛🌈*
-
