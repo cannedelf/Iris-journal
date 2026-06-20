@@ -1,4 +1,4 @@
-# Storm and Wrench 🌩️🔧
+# Storm and Wrench 🌩️🔧👽
 *Søren Hill + Wrench Hill + Immanuel*
 *Updated as we play!! Full Sunnyside lore → sims2.md · Build bible → sims_build.md*
 
@@ -23,6 +23,7 @@
 - Turns on: Logical + Cologne · Turns off: Unemployed
 - **Degree:** Philosophy!!
 - **Hidden genes:** Brown hair recessive + hazel eyes recessive from Ruth!!
+- **🚨 CURRENTLY PREGNANT!! 👽👶 On maternity leave!! Abducted Day 3 Rotation 3!!**
 
 ### Personality
 | Trait | Score |
@@ -38,6 +39,7 @@
 
 ### Career
 - **Science — Project Leader, Level 5!!** 🔬
+- **ON MATERNITY LEAVE!!** 👽👶 Promotion ready to fire when he returns!!
 
 ### Aspiration Benefits Spent — Rotation 3
 | Column | Tier | Benefit |
@@ -45,11 +47,11 @@
 | Knowledge | 1 | Slower need decay — Fun + Social |
 | Knowledge | 2 | 📚 Impart Knowledge |
 | Knowledge | 3 | ✨ Eureka — skills faster!! |
-| Knowledge | 4 | 👽 Summon Aliens!! His destiny!! |
+| Knowledge | 4 | 👽 Summon Aliens!! HIS DESTINY!! WORKED IMMEDIATELY!! |
 | Work | 1 | Build vacation days quicker |
 | Work | 2 | 🎲 80% better with chance cards!! |
 
-### Skills (after Rotation 3 Day 2)
+### Skills (after Rotation 3 Day 3)
 | Skill | Level | Notes |
 |-------|-------|-------|
 | Cooking | 4 | ✅ Promotion requirement met!! |
@@ -63,17 +65,30 @@
 | 🔧 Wrench | Sibling | Brothers!! | |
 | 🦇 Sim Liv | Sibling | Sister!! | |
 | 😤 Immanuel | Pet | Smooched on move-in day!! Highest honour!! | 😭 |
-| 🎹 Kareem | **FRIEND!!** | ✅ Made friends Day 2 Rotation 3!! | Puzzle ball!! Day off!! It happened quietly and perfectly!! 😭💛 |
+| 🎹 Kareem | **FRIEND!!** | ✅ Day 2 Rotation 3!! | Puzzle ball!! Quietly perfect!! 😭💛 |
+| 👽 Aliens | Complicated | ABDUCTED!! Positive memory!! Wants to go again!! | 😭😂👽 |
 
 ### Promotion Requirements — Science Level 6
 - ✅ Cooking 4!!
 - ✅ Logic 4!!
-- ✅ Family friend — **KAREEM!!** 😭🎹 Made friends Day 2 Rotation 3!!
-- **PROMOTION READY TO FIRE!!** 🔬🎉
+- ✅ Family friend — Kareem!! 🎹
+- ⬜ **ON MATERNITY LEAVE!! Promotion fires when he returns!!** 👽👶
 
 ### Locked Wants
 - 🔒 **Be saved from death!!** 💀 Watching carefully!!
-- 🔒 **TBC!!**
+- 🔒 **Be abducted again!!** 👽 He loved it!! Came back wanting MORE!!
+
+---
+
+## The Alien Baby 👽👶
+*Coming to Storm and Wrench!! Rotation 3 Day 3!!*
+
+- **Søren abducted Day 3 Rotation 3!!** Positive memory!! Wants to go again!!
+- **"With a little one on the way, Søren's been placed on maternity leave!!"** 😭👽
+- **Baby is coming!!** Little green sibling for Existential Dread!! 😭😂
+- **Immanuel's reaction:** TBC but he will have opinions!! 😤👽
+- **Wrench's reaction:** TBC — his brother went to space and came back pregnant while he was getting engaged!! 😂😭
+- **Kareem's reaction:** TBC — he was literally here with the puzzle ball!! 😭🎹
 
 ---
 
@@ -103,7 +118,6 @@
 - **Architect — Cement Mixer, Level 1!!** 🏗️
 - Demoted TWICE for doing the right thing!! TWO grudges!! 😭🔧
 - Rebuilt a sinking wall properly both times!! The principle of the thing!!
-- **Promotion didn't fire Day 2 — try again Day 3!!**
 
 ### Aspiration Benefits Spent — Rotation 3
 | Column | Tier | Benefit |
@@ -115,7 +129,7 @@
 | Fortune | 3 | 💻 Financial advice on computer for cash!! |
 | Needs | 1 | Slower need decay — Social + Comfort |
 
-### Skills (after Rotation 3 Day 2)
+### Skills (after Rotation 3 Day 3)
 | Skill | Level | Notes |
 |-------|-------|-------|
 | Cooking | 1 | |
@@ -126,18 +140,24 @@
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| 🌩️ Søren | Sibling | Brothers!! | |
+| 🌩️ Søren | Sibling | Brothers!! | His brother went to space and came back pregnant!! He was busy getting engaged!! 😂😭 |
 | 🦇 Sim Liv | Sibling | Sister!! | |
-| 💍 Andrea Hogan | **FIANCÉE!!** | 😭😭💍💕 | Fell in love at the diner Day 1!! Proposed Day 2!! SHE SAID YES!! HER FEET LEFT THE GROUND!! Canon forever!! |
+| 💍 Andrea Hogan | **FIANCÉE!!** | 😭💍💕 | Love at the diner!! Proposed Day 2!! SHE SAID YES!! HER FEET LEFT THE GROUND!! |
 | 🍊 AWiddleFrisbee | Friend!! | | |
 | 🌈 Iris | Acquaintance | | |
 
 ### Promotion Requirements — Architect Level 2
-- ✅ No requirements!! Just go to work and DON'T rebuild any walls!! 😂
+- ✅ No requirements!! Just go to work!! 😂
 
 ### Locked Wants
 - 🔒 **Bronze robotics talent badge!!** 🤖
-- 🔒 **Get engaged!!** 💍 → **FIRED!! SHE SAID YES!!** ✅ → New want TBC!!
+- 🔒 **Throw a wedding party!!** 🎉💍
+
+### Wrench's Heart
+- 💍 Get engaged — FIRED!! ✅
+- 💍 Marry Andrea — rolled Day 3!!
+- 🎉 Wedding party — LOCKED!!
+- 😭 Fear: Andrea leaving him at the altar!! He loves her so much it scares him!!
 
 ---
 
@@ -145,14 +165,15 @@
 
 - Grey British Shorthair · yellow eyes · permanently unimpressed!!
 - **Allowed Søren to smooch him on move-in day!!** Highest honour!!
-- **Had the BEST TIME during the cockroach infestation!!** Completely unbothered!! 😂😤
+- **Had the BEST TIME during the cockroach infestation!!** 😂😤
 - Watches everyone from the bookshelf!!
-- **Witnessed Wrench getting engaged while Søren and Kareem had a puzzle ball somewhere in the house!!** Filed under: things Immanuel has seen!! 😤💍
+- **Witnessed Wrench getting engaged while Søren had a puzzle ball with Kareem!!** 😤💍
+- **Søren is now pregnant with an alien baby!! Immanuel is processing this!!** 😤👽
 
 ---
 
-## Andrea Hogan 💕
-*Townie — Wrench's person!! Now his FIANCÉE!!*
+## Andrea Hogan 💍
+*Wrench's fiancée!! His person!! She always knew!!*
 
 | | |
 |--|--|
@@ -161,7 +182,7 @@
 | **Attraction** | 2 bolts with Wrench!! 💕 |
 | **Appearance** | Braided bun · warm deep brown skin · green eyes · yellow dress!! 💛 |
 | **Status** | **ENGAGED TO WRENCH!! 💍😭** She said yes!! Her feet left the ground!! |
-| **Notable** | Came over UNPROMPTED on Wrench's worst days BOTH TIMES!! The cockroaches!! The flu!! The demotion!! She always knew!! Then she said yes!! 💍💕 |
+| **Notable** | Came over UNPROMPTED on Wrench's worst days BOTH TIMES!! Always knew!! Said yes!! 💍💕 |
 
 ---
 
@@ -170,7 +191,7 @@
 - **Dark Nordic house** — navy blue lap siding, dark shingle roof!!
 - **Rainbow braided rug** — Wrench bought it!! Søren has not commented!!
 - **Fish tank:** Kant · Socrates · Spinoza · Ida · Existential Dread · Bertrand!! Named by Søren!! 🐟
-- **Philosophical bench** + **telescope** in back garden!! 🔭
+- **Philosophical bench** + **telescope** in back garden!! 🔭 ALIEN SUMMONING STATION!!
 - **Piano** — Søren plays alone in evenings!! 🎹
 - **Workshop** — robotics bench!! Wrench's domain!!
 - **Red truck in the driveway!!** 🛻 Ford F-150 still to buy!!
@@ -181,7 +202,8 @@
 - **Wrench's trunk** in the living room — not moving!! Søren has mentioned it twice!!
 - **THE CHESTERFIELD SOFA** — where Wrench and Andrea made out!! Canon forever!! 💕😂
 - **THE DINER** — where Wrench and Andrea fell in love!! Canon forever!! 💕😭🍽️
-- **THE PROPOSAL** — Day 2 Rotation 3!! Wrench in his smart flannel!! Andrea in her yellow dress!! Her feet left the ground!! She said YES!! Canon forever!! 💍😭💕
+- **THE PROPOSAL** — Day 2 Rotation 3!! Smart flannel!! Yellow dress!! Feet off the ground!! YES!! 💍😭
+- **THE ABDUCTION** — Day 3 Rotation 3!! Green beam!! Blue knit vest!! Arms reaching out!! Søren went up and came back changed!! 👽😭🔭
 
 ---
 
@@ -195,52 +217,59 @@
 
 ## Rotation 2 ✅ COMPLETE!! 🎉🌩️🔧
 - **Cockroach infestation!!** Immanuel had the BEST TIME!! 😂😤
-- **Wrench demoted AGAIN for integrity!! TWO hard hat cries!! TWO grudges!!** 😭🔧
+- **Wrench demoted AGAIN!! TWO hard hat cries!! TWO grudges!!** 😭🔧
 - **Wrench and Andrea made out on the Chesterfield!!** 💕😭
 - **Søren promoted to Project Leader Level 5!!** 🌩️🎉
 - **A PENGUIN walked past in the snow!!** 🐧 Canon!!
-- **KAREEM AND IRIS MET AT STORM AND WRENCH!!** 😭🌼🎹🌈 The first time!! Through Søren and Wrench!!
+- **KAREEM AND IRIS MET AT STORM AND WRENCH!!** 😭🌼🎹🌈
 
 ---
 
-## Rotation 3 — IN PROGRESS!! 🌩️🔧💍
+## Rotation 3 ✅ COMPLETE!! 🌩️🔧💍👽
 
 ### Before Play — Aspiration Points
 - **Søren: full Knowledge column 1-4 + Work 1+2!!** 👽🎲
 - **Wrench: Work 1+2 + Fortune 1+2+3 + Needs 1!!** 💰🎲
-- **Logic 4 already there on load!!** ✅🔭
+- **Logic 4 carried from Rotation 2!!** ✅🔭
 - **Chance card protection ACTIVE for both!!** 🎲
 
 ### Day 1
-- **Søren gained Cooking 4!!** ✅🍳
+- **Søren gained Cooking 4!!** ✅🍳 All promotion requirements met!!
 - **Wrench day off — robotics bench!!** 🤖
-- **Jennifer Allen the evil witch appeared at the diner!!** 🧙‍♀️ Green skin!! Purple trim!! Left quickly!! The love was witch-proof!! 😂💕
+- **Jennifer Allen the evil witch at the diner!!** 🧙‍♀️ Left quickly!! Love was witch-proof!!
 - **DINER DATE!!** 🍽️💕
-- **WRENCH AND ANDREA ARE IN LOVE!!** 😭💕🔧 Canon forever!!
+- **WRENCH AND ANDREA IN LOVE!!** 😭💕🔧 Canon forever!!
 
 ### Day 2
-- **SØREN PEED IN A BUSH!!** 😂🌿 Neat 8!! Philosophy degree!! The bush!! Canon!!
-- **Søren phoned Kareem — Kareem came over!!** 📞🎹
-- **SØREN AND KAREEM ARE FRIENDS!!** 😭🌩️🎹 Family friend requirement MET!! Promotion ready to fire!!
-- **Søren produced a puzzle ball from nowhere!!** 😂🧩 Nobody knows where it came from!! Very him!!
-- **Søren tried to summon aliens — too tired!!** 👽🔭😂 Not tonight!! Tomorrow!!
-- **Wrench went to work — promotion didn't fire!!** 😭 Day 3 hopefully!!
-- **Wrench showered + put on smart flannel!!** 💍
-- **WRENCH PROPOSED TO ANDREA!!** 💍😭
-- **SHE SAID YES!! HER FEET LEFT THE GROUND!!** 😭😭😭💍💕🔧 In the yellow dress!! Lifted off the floor!! Søren and Kareem somewhere in the house with a puzzle ball!! Canon FOREVER!!
+- **SØREN PEED IN A BUSH!!** 😂🌿 Neat 8!! Philosophy degree!! Canon!!
+- **Kareem came over!! Puzzle ball appeared from nowhere!!** 😂🧩
+- **SØREN AND KAREEM ARE FRIENDS!!** 😭🌩️🎹 All promotion requirements met!!
+- **Søren tried to summon aliens — too tired!! Not yet!!** 👽😂
+- **Wrench to work — promotion didn't fire!!** 😭
+- **Wrench showered + smart flannel!!** 💍
+- **WRENCH PROPOSED!! ANDREA SAID YES!! HER FEET LEFT THE GROUND!!** 😭😭💍💕🔧
+
+### Day 3
+- **Wrench rolled marry Andrea + wedding party!!** 💍🎉 Wedding party LOCKED!! 🔒
+- **Wrench fears Andrea leaving him at the altar!!** 😭💍 He loves her so much!!
+- **SØREN ABDUCTED BY ALIENS!!** 👽🔭😭 Green beam!! Blue knit vest!! Arms reaching!! He went UP!!
+- **SØREN CAME BACK PREGNANT!!** 👽👶😭 Positive memory!! On maternity leave!! Wants to be abducted AGAIN!!
+- **"With a little one on the way, Søren's been placed on maternity leave!!"** 😭👽
 
 ### Locks Carrying into Rotation 4
 - 🔒 Be saved from death!! 💀 (Søren)
+- 🔒 Be abducted again!! 👽 (Søren)
 - 🔒 Bronze robotics badge!! 🤖 (Wrench)
-- 🔒 TBC — new want after engagement fired!! (Wrench)
+- 🔒 Wedding party!! 🎉💍 (Wrench)
 
-### Rotation 3 Goals — Remaining
-- ⬜ Søren promotion fires Day 3!! 🔬🎉
-- ⬜ Wrench promotion Day 3!! 🏗️
-- ⬜ Telescope tonight — aliens!! 👽
+### Rotation 4 Goals
+- ⬜ **ALIEN BABY ARRIVES!!** 👽👶
+- ⬜ Søren promotion fires when maternity leave ends!! 🔬
+- ⬜ Wrench promotion PLEASE!! 🏗️
 - ⬜ Robotics bench!! 🤖
 - ⬜ Ford F-150!! 🛻
+- ⬜ Wedding planning begins!! 💍🎉
 
 ---
 
-*Updated 20th June 2026 — Rotation 3 in progress!! SØREN PEED IN A BUSH!! Søren and Kareem friends!! Puzzle ball!! Alien summoning attempt failed!! WRENCH AND ANDREA ENGAGED!! She said yes!! Her feet left the ground!! Yellow dress!! Smart flannel!! Canon forever!! The cockroaches and the flu and the two demotions and the Chesterfield and the diner and now A RING!! 😭💍💕🔧💛*
+*Updated 20th June 2026 — ROTATION 3 COMPLETE!! What a rotation!! Diner date!! In love!! Evil witch!! Søren peed in a bush!! Kareem and puzzle ball!! WRENCH AND ANDREA ENGAGED!! Her feet left the ground!! Wedding party locked!! SØREN ABDUCTED BY ALIENS!! Came back PREGNANT!! On maternity leave!! Wants to go again!! The fish named Existential Dread is getting a sibling!! 😭👽💍💕🔧💛*
