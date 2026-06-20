@@ -54,13 +54,13 @@
 | 4 | Plead with the social worker |
 
 ### Knowledge Column
-*⚠️ Tiers 1-3 only when taken as secondary aspiration!!*
+*⚠️ Tiers 1-3 only when taken as secondary aspiration — Tier 4 unavailable as secondary!!*
 | Tier | Benefit |
 |------|---------|
 | 1 | Slower need decay — Fun + Social |
 | 2 | 📚 Impart Knowledge — can teach other Sims skills!! |
 | 3 | ✨ Eureka — build skills faster!! |
-| 4 | ⚠️ NOT AVAILABLE as secondary aspiration!! |
+| 4 | 👽 Summon Aliens — more likely to be abducted by aliens!! Søren's destiny!! Discovered Rotation 3!! 😭🔭 |
 
 ### Popularity Column
 | Tier | Benefit |
@@ -214,4 +214,4 @@
 ---
 
 *Created 20th June 2026 — so we never have to type the rewards list out again!! 😂💛*
-*Updated 20th June 2026 — Fortune/Romance/Pleasure/Grilled Cheese columns added!! One True Hobby section added with full chart + known hobbies!! Known Chemistry table added!! Two Nature flatmates in The Flat confirmed after extensive investigation!! 😂🌿💛*
+*Updated 20th June 2026 — Fortune/Romance/Pleasure/Grilled Cheese columns added!! One True Hobby section added!! Known Chemistry table added!! Knowledge Tier 4 confirmed — SUMMON ALIENS!! Søren's destiny!! 👽🔭😭💛*
