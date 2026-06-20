@@ -11,45 +11,71 @@
 | **Address** | Sunshine Cottage, Sunnyside 🌞 |
 | **Residents** | Iris Golden Rainbow 🌈 · Marigold 🐱 |
 | **Moved in** | 7th June 2026 |
-| **Career** | Street Caricaturist — Level 2!! 🎨 Promotion fires Sunday!! |
-| **Aspiration** | Popularity |
+| **Career** | Comic Book Penciller — Level 4!! 🎨 Her own series!! SpiderSim!! |
+| **Aspiration** | Popularity + Family (secondary!!) |
 | **Lifetime want** | Make 20 Simultaneous Pet Best Friends!! |
 | **Star sign** | Libra ♎ |
 | **Car** | 1967 Lamborghini Miura!! ✨ |
 
 ---
 
-## Iris — Current Status (after Rotation 2)
+## Iris — Current Status (after Rotation 3)
 
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Creativity | 3 | ✅ Promotion requirement met!! 🎨 |
-| Mechanical | 2 | ✅ Promotion requirement met!! Read the book!! 🔧 |
+| Creativity | 4 | 🎨 Thinking Cap!! |
+| Mechanical | 3 | 🔧 Thinking Cap!! |
 | Cooking | 1 | 🍳 |
 | Logic | 1 | Accidentally from chess with Sim Liv!! 😂 |
+| Charisma | 1 | Making contacts in the art biz!! |
+
+### Promotion Requirements — Comic Book Penciller Level 5
+- ⬜ Creativity 5!!
+- ⬜ Mechanical 4!!
+- ⬜ Charisma 3!! (1 gained so far!!)
+- ⬜ Cooking 2!!
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| 🐱 Marigold | Pet | FRIENDS!! | Lifetime want: 1/?? 😭💛 Toilet training in progress!! |
-| 🦇 Sim Liv | BFF!! 💛 | BEST FRIENDS!! | Met at the park!! Chess!! Party!! Locked BFF want fired!! 😭💛 |
-| 🍊 AWiddleFrisbee | Friend!! | Working toward BFF!! | Played guitar at the party!! 🎸 |
-| 🔧 Wrench | Acquaintance | Met at party!! | Came in his dungarees!! Danced!! 😂 |
+| 🐱 Marigold | Pet | FRIENDS!! | Lifetime want: 1/?? 😭💛 Kibbled!! Five days younger!! Safe!! |
+| 🦇 Sim Liv | BFF!! | BEST FRIENDS!! | Met at the park!! Chess!! Party!! 😭💛 |
+| 🍊 AWiddleFrisbee | BFF!! | BEST FRIENDS!! | Fired quietly during The Flat rotation!! 🍊😭 |
+| 🔧 Wrench | Friend!! | Met at party!! Danced!! | 😂 |
+| 🎹 Kareem | BEST FRIENDS!! 🌼 | Best friends as of Rotation 3!! | He called her Sunday!! She invited him over!! HE KISSED HER IN THE SUNFLOWERS!! 😭🌻 |
 
-### Promotion Requirements — Street Caricaturist Level 3
-- ✅ Creativity 3!!
-- ✅ Mechanical 2!!
-- **Promotion fires Sunday!!** 🎉
+### Aspiration Benefits
+| Benefit | Column | Notes |
+|---------|--------|-------|
+| 🌴 Build vacation days quicker | Work | |
+| 🎲 80% better with chance cards | Work | Protection!! No role sheet incidents!! 😂 |
+| 👥 1 less friend for promotion | Work | Career climbing!! |
+| 😊 Slower need decay — Social + Comfort | Needs | |
+| 🍲 Grandma's Comfort Soup | Family | Opens Family column!! |
+| 🌼 Secondary Aspiration — Family | Popularity | Iris and Kareem holding each other's aspirations!! 😭 |
+
+### Aspiration Rewards
+| Reward | Cost | Notes |
+|--------|------|-------|
+| 🎓 Thinking Cap | 16,000 | Skills build quicker!! Already paid for itself!! |
+| 🐱 Kibble of Life | 12,000 | Marigold!! Five days younger!! Never fails!! 😭💛 |
+| 😎 Cool Shades | 10,000 | First social interaction amplified!! Very her!! |
+| | | 6,100 points remaining!! |
 
 ### Locked Wants
 - 🔒 **Marigold removed** — permanent protective lock!! 🐱
-- 🔒 **Become BFF with AWiddleFrisbee!!** 🍊 — locked after the party!!
+- 🔒 **Become BFF with Kareem!!** 🌼🎹 — rolled after best friends fired!!
 
 ### Unlocked Fears to Watch
 - ⚠️ **Marigold runs away** — keep Marigold happy!!
 - ⚠️ **Sim Liv dies** — she's the BFF!! Keep her visited!!
 - ⚠️ **Become enemies with Sim Liv** — will never happen!! 💛
+
+### Turn-Ons and Turn-Off
+- ✅ **Brown hair** — Kareem!! 😭🌼
+- ✅ **Creativity** — Kareem has Creativity 6!! 😭🌼
+- ❌ **Cologne** — Kareem doesn't wear it!! ✅
 
 ---
 
@@ -61,6 +87,7 @@
 | **Collar** | Rainbow!! |
 | **Star sign** | Virgo |
 | **Personality** | Chaos gremlin with a soft heart!! 😂💛 |
+| **Kibbled!!** | Five days younger!! Rotation 3!! 💛 |
 
 ### Marigold's Autonomous Moments
 - Slept on Iris's bedroom floor by choice on night 1!! 😭💛🐱
@@ -68,6 +95,7 @@
 - Slept on the whole bed while Iris was at work!! 👑
 - Stood in the confetti at the party like she owned it!! 😂🐱
 - **Toilet training begun Rotation 2!!** Saturday morning!! In progress!! 🚽
+- **SLEPT THROUGH THE KITCHEN FIRE!! Rotation 3!!** Completely unbothered!! Used the litter box immediately after!! Canon forever!! 😂🔥🐱
 
 ---
 
@@ -77,18 +105,23 @@
 - 🎨 **Art studio** — stone walls, floor-to-ceiling windows, sunflowers on the side table!!
 - 🥂 **Bar** — party ready!!
 - 🎶 **Stereo** — party ready!!
-- 🎸 **Guitar** — new Rotation 2!! AWiddleFrisbee played it at the party!! 😂
+- 🎸 **Guitar** — AWiddleFrisbee played it at the party!! 😂
 - 🖼️ **Sunflower painting** — Iris's first!! Hung in the living room!! 🌻
 - 🖼️ **Lighthouse painting** — Iris's second!! Hung in the living room!! 🌊😭
-- 🌿 **Sage green kitchen** — same as the real kitchen!!
+- 🌿 **Sage green kitchen** — same as the real kitchen!! Survived the fire!! 🔥
 - 🎉 **Party decorations** — balloon clusters outside the front door!! Rainbow balloon garland inside!! Confetti on the floor!! Canon!!
-- 🦋 **Butterfly bracelet** — new Rotation 2!! Very her!!
+- 🦋 **Butterfly bracelet** — very her!! Kareem is turned on by jewellery!! 😭🌼
+- 🎓 **Thinking Cap** — in the rewards panel!! Glowing green lightbulb!! Worn while painting!! 😂
+- 🐱 **Kibble of Life** — in the rewards panel!! For Marigold!!
+- 😎 **Cool Shades** — in the rewards panel!! Very her!!
 
 ### Key Canon Facts
 - **The yellow door!!** Sunshine Cottage is unmistakable!!
-- **Kareem cycles past every day!!** He walks past on the road between here and the shops!! He hasn't stopped yet!! 😭🌼
-- **A werewolf was on the porch!!** Rotation 2!! Iris was painting!! She did not interact!! Probably wise!!
-- **The nose incident!!** Rotation 2!! Drew a socialite's nose in full glory!! Easel smashed!! Lost a day's wages!! No regrets!! 😂
+- **Kareem lives on the road between here and the shops!!** He walks past every time!! He's stopped now!! 😭🌼
+- **A werewolf was on the porch!!** Rotation 2!! Iris was painting!! She did not interact!!
+- **The nose incident!!** Rotation 2!! Drew a socialite's nose in full glory!! No regrets!! 😂
+- **The kitchen fire!!** Rotation 3!! Iris was at work!! Marigold slept through it!! Fire alarm saved everything!! 🔥🐱
+- **THE SUNFLOWERS!!** Rotation 3 Day 2!! Kareem kissed Iris in the front garden sunflowers!! The Lamborghini witnessed it!! Her yellow bow!! His glasses!! The -35 and watch us!! 😭🌻🌼🎹
 - **Lambo Miura in the driveway!!** Sleek!! Golden!! Slightly ridiculous!! Very her!!
 
 ---
@@ -104,44 +137,63 @@
 
 ## Rotation 2 ✅ COMPLETE!! 🎉🌈
 
-### Day 1 ✅ — Thursday
-- Painted!! **Creativity 2 gained!!** 🎨
+### Highlights
+- THE NOSE INCIDENT!! Drew socialite's nose in full glory!! No regrets!! 😂🎨
 - Werewolf on the porch!! Did not interact!! 🐺
-- Work — **THE NOSE INCIDENT!!** Drew socialite's nose in full glory!! Easel smashed!! Lost a day's wages!! Completely worth it!! 😂
-- Came home and invited Sim Liv and AWiddleFrisbee over!!
-- **MADE FRIENDS WITH AWIDDLEFRISBEE!!** 🍊😭
-- Iris played with Marigold on the floor!! 😭🐱
-
-### Day 2 ✅ — Friday
-- **Creativity 3 gained!!** ✅ Painted a LIGHTHOUSE!! 🌊😭
-- **Lighthouse hung on the wall!!** Sunflower AND lighthouse — Sunshine Cottage has a gallery!!
-- **Mechanical 2 gained!!** Read the book!! ✅
-- **SIM LIV AND IRIS ARE BFFS!!** 😭💛🌈 Locked want fired!!
-- Sim Liv picked up the guitar and played it!! 🎸
-- Promotion requirements BOTH met!! Fires Sunday!!
-
-### Day 3 ✅ — Saturday — PARTY DAY!! 🎉
-- **Taught Marigold to use the toilet!!** Pumpkin pyjamas!! Party morning prep!! 😂🐱
-- Decorated!! Balloon clusters outside!! Rainbow balloon garland inside!! Confetti!!
-- **THREW THE PARTY!!** Sim Liv, AWiddleFrisbee, Wrench all came!! La Shawn declined!!
-- AWiddleFrisbee played guitar!! Iris, Sim Liv and Wrench danced!!
-- **GREAT PARTY MEMORY!!** Meter said Not Bad, heart said Great!! 🎉😭
-- Party want FIRED!! 🎊
-- Locked **Become BFF with AWiddleFrisbee!!** 🍊
-- Went to the clothes shop — just townies!! No Kareem!! 😭
-- Bought a **butterfly bracelet!!** 🦋 Very her!!
-
-### Locks Carrying into Rotation 3
-- 🔒 Marigold removed!! 🐱
-- 🔒 Become BFF with AWiddleFrisbee!! 🍊
-
-### Rotation 3 Goals
-- **Get promoted Sunday!!** 🎨🎉
-- Become BFF with AWiddleFrisbee!!
-- Meet Kareem!! He cycles past every day!! 😭🌼
-- Keep working on Marigold toilet training!!
-- MORE PET BEST FRIENDS!! Lifetime want progress!!
+- BFF with Sim Liv!! 😭💛🌈
+- GREAT PARTY MEMORY!! 🎉
+- Lighthouse on the wall!! 🌊
+- Butterfly bracelet!! 🦋
+- Marigold toilet training begun!! 🚽
 
 ---
 
-*Updated 19th June 2026 — Rotation 2 COMPLETE!! BFF with Sim Liv!! Party memory!! Lighthouse on the wall!! Promotion Sunday!! The nose incident!! Butterfly bracelet!! Werewolf on the porch!! Kareem still hasn't stopped by!! 🌈🌻🐱🎉💛*
+## Rotation 3 ✅ COMPLETE!! 🌻🌼🎹
+
+### Day 1 — Sunday
+- **Kareem called her!!** 📞😭🌼 Before breakfast!!
+- **BFF with AWiddleFrisbee fired!!** ✅🍊 Happened during The Flat rotation quietly!!
+- Locked **Become best friends with Kareem!!** 🔒🌼
+- **Promoted to Souvenir Whittler Level 3!!** 🦙🎉 §630 bonus!!
+- Secondary aspiration FAMILY added!! 😭🌼
+- Aspiration benefits spent — Work 1/2/3, Needs 1, Family 2!!
+- **Thinking Cap + Kibble of Life + Cool Shades purchased!!** 🎓🐱😎
+- **MARIGOLD KIBBLED!!** Five days younger!! Safe!! 😭💛🐱
+- Thinking Cap on!! Creativity 4 + Mechanical 3 gained!!
+
+### Day 2 — Monday
+- **KITCHEN FIRE!!** 🔥😭 Iris at work!! Fire alarm!! Firefighter!! Sage green kitchen survived!!
+- **MARIGOLD SLEPT THROUGH THE ENTIRE FIRE!!** 😂🐱 Used the litter box immediately after!!
+- **Promoted to Comic Book Penciller Level 4!!** 🎨🎉 §630 bonus!! SpiderSim!!
+- *"What a good week it's been! I hope I can keep this up!!"* 😭💛 Same words as Kareem!!
+- **KAREEM CAME OVER!!** 🌼🎹
+- **KAREEM FLIRTED IN THE FRONT GARDEN!!** 😭🌼
+- **MUTUAL CRUSHES IN THE SUNFLOWERS!!** 😭🌻
+- **FIRST KISS!! IN THE SUNFLOWERS!! YELLOW BOW!! HIS GLASSES!! THE LAMBORGHINI WATCHING!!** 😭😭😭🌻🌼🎹🌈
+- **GAME SAVED IMMEDIATELY!!** Canon protected forever!! 💾
+
+### Day 3 — Tuesday
+- Work — Charisma 1 gained!! Making contacts in the art biz!!
+- **FEMINIST AWAKENING WHILE PENCILLING SPIDERSIM ISSUE 172!!** 😭🎨
+- Drew women her way!! Editor loved it!! **§5,000 BONUS + HER OWN SERIES!!** 💰🎨
+- Invited Kareem back over!!
+- **BEST FRIENDS WITH KAREEM!!** 😭🌼🎹 Want fired!!
+- Rolled **Become BFF with Kareem!!** Locked immediately!! 🔒
+- Kareem went home!! Iris went to bed happy!! 🌈💛
+
+### Locks Carrying into Rotation 4
+- 🔒 Marigold removed!! 🐱
+- 🔒 Become BFF with Kareem!! 🌼🎹
+
+### Rotation 4 Goals
+- Build Charisma — 2 more needed!! 🗣️
+- Cooking 2!!
+- Creativity 5!!
+- Mechanical 4!!
+- Get Kareem over as much as possible — relationship AND Charisma!! 🌼😂
+- More pet best friends!! Marigold is only 1 of 20!! 🐾
+- Keep Marigold happy and healthy!!
+
+---
+
+*Updated 20th June 2026 — Rotation 3 COMPLETE!! Kitchen fire!! Marigold slept through it!! Comic Book Penciller!! SpiderSim!! Her own series!! §5,000 bonus!! Feminist awakening!! KAREEM KISSED IRIS IN THE SUNFLOWERS!! MUTUAL CRUSHES!! BEST FRIENDS!! BFF WANT LOCKED!! The -35 and WATCH US!! 🌻🌼🎹🌈🔥🐱💛*
