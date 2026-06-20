@@ -26,6 +26,7 @@
 
 ## Aspiration Benefits 📊
 *By aspiration type — costs 1 point each, unlock bottom to top within each column!!*
+*⚠️ Secondary aspiration columns only go up to Tier 3 — Tier 4 unavailable!!*
 
 ### Needs Column (all aspirations)
 | Tier | Benefit |
@@ -52,12 +53,13 @@
 | 4 | Plead with the social worker |
 
 ### Knowledge Column
+*⚠️ Tiers 1-3 only when taken as secondary aspiration!!*
 | Tier | Benefit |
 |------|---------|
-| 1 | — |
-| 2 | Slower need decay — Fun + Social |
-| 3 | 📚 Impart Knowledge — can teach other Sims skills!! |
-| 4 | ✨ Eureka — build skills faster!! |
+| 1 | Slower need decay — Fun + Social |
+| 2 | 📚 Impart Knowledge — can teach other Sims skills!! |
+| 3 | ✨ Eureka — build skills faster!! |
+| 4 | ⚠️ NOT AVAILABLE as secondary aspiration!! |
 
 ### Popularity Column
 | Tier | Benefit |
@@ -68,7 +70,7 @@
 | 4 | Makes friends faster!! |
 
 ### Secondary Aspiration
-*Costs 1 point — unlocks that aspiration's column!!*
+*Costs 1 point — unlocks that aspiration's column up to Tier 3!!*
 Options: Knowledge · Popularity · Romance · Fortune · Pleasure · Grilled Cheese 😂
 *Choose wisely!! Cannot be undone!!*
 
