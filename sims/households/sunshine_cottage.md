@@ -39,11 +39,11 @@
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| 🐱 Marigold | Pet | FRIENDS!! | Lifetime want: 1/?? 😭💛 Kibbled!! Five days younger!! Safe!! |
+| 🐱 Marigold | Pet | **PET BEST FRIEND!!** 😭💛 | Lifetime want: 1/20!! Kibbled!! Five days younger!! Safe!! |
 | 🦇 Sim Liv | BFF!! | BEST FRIENDS!! | Met at the park!! Chess!! Party!! 😭💛 |
 | 🍊 AWiddleFrisbee | BFF!! | BEST FRIENDS!! | Fired quietly during The Flat rotation!! 🍊😭 |
 | 🔧 Wrench | Friend!! | Met at party!! Danced!! | 😂 |
-| 🎹 Kareem | BEST FRIENDS!! 🌼 | Best friends as of Rotation 3!! | He called her Sunday!! She invited him over!! HE KISSED HER IN THE SUNFLOWERS!! 😭🌻 |
+| 🎹 Kareem | BEST FRIENDS!! 🌼 | Best friends as of Rotation 3!! | HE KISSED HER IN THE SUNFLOWERS!! 😭🌻 |
 
 ### Aspiration Benefits
 | Benefit | Column | Notes |
@@ -88,6 +88,7 @@
 | **Star sign** | Virgo |
 | **Personality** | Chaos gremlin with a soft heart!! 😂💛 |
 | **Kibbled!!** | Five days younger!! Rotation 3!! 💛 |
+| **Status** | **PET BEST FRIEND!! 1/20!! 😭💛** |
 
 ### Marigold's Autonomous Moments
 - Slept on Iris's bedroom floor by choice on night 1!! 😭💛🐱
@@ -159,6 +160,7 @@
 - Aspiration benefits spent — Work 1/2/3, Needs 1, Family 2!!
 - **Thinking Cap + Kibble of Life + Cool Shades purchased!!** 🎓🐱😎
 - **MARIGOLD KIBBLED!!** Five days younger!! Safe!! 😭💛🐱
+- **MARIGOLD IS NOW A PET BEST FRIEND!! 1/20!!** 😭💛🐾
 - Thinking Cap on!! Creativity 4 + Mechanical 3 gained!!
 
 ### Day 2 — Monday
@@ -191,9 +193,9 @@
 - Creativity 5!!
 - Mechanical 4!!
 - Get Kareem over as much as possible — relationship AND Charisma!! 🌼😂
-- More pet best friends!! Marigold is only 1 of 20!! 🐾
+- More pet best friends!! Marigold is 1/20!! 🐾
 - Keep Marigold happy and healthy!!
 
 ---
 
-*Updated 20th June 2026 — Rotation 3 COMPLETE!! Kitchen fire!! Marigold slept through it!! Comic Book Penciller!! SpiderSim!! Her own series!! §5,000 bonus!! Feminist awakening!! KAREEM KISSED IRIS IN THE SUNFLOWERS!! MUTUAL CRUSHES!! BEST FRIENDS!! BFF WANT LOCKED!! The -35 and WATCH US!! 🌻🌼🎹🌈🔥🐱💛*
+*Updated 20th June 2026 — Rotation 3 COMPLETE!! Kitchen fire!! Marigold slept through it!! Marigold is pet best friend 1/20!! Comic Book Penciller!! SpiderSim!! Her own series!! §5,000 bonus!! Feminist awakening!! KAREEM KISSED IRIS IN THE SUNFLOWERS!! MUTUAL CRUSHES!! BEST FRIENDS!! BFF WANT LOCKED!! The -35 and WATCH US!! 🌻🌼🎹🌈🔥🐱💛*
