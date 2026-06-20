@@ -37,13 +37,23 @@
 - **Knowledge!!** · **Lifetime want:** Become Mad Scientist!! 🔬
 
 ### Career
-- **Science — Project Leader, Level 5!!** 🔬 Promoted Rotation 2!! 🎉
+- **Science — Project Leader, Level 5!!** 🔬
 
-### Skills (after Rotation 2)
+### Aspiration Benefits Spent — Rotation 3
+| Column | Tier | Benefit |
+|--------|------|---------|
+| Knowledge | 1 | Slower need decay — Fun + Social |
+| Knowledge | 2 | 📚 Impart Knowledge |
+| Knowledge | 3 | ✨ Eureka — skills faster!! |
+| Knowledge | 4 | 👽 Summon Aliens!! His destiny!! |
+| Work | 1 | Build vacation days quicker |
+| Work | 2 | 🎲 80% better with chance cards!! |
+
+### Skills (after Rotation 3 Day 1)
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Cooking | 3 | Needs 4 for next promotion!! |
-| Logic | 3 | Needs 4!! 🔒 Telescope every night!! |
+| Cooking | 4 | ✅ Promotion requirement met!! Gained Rotation 3 Day 1!! |
+| Logic | 4 | ✅ Carried from Rotation 2!! Promotion requirement met!! 🔭 |
 | Cleaning | 6 | ✅ |
 | Creativity | 1 | Piano!! 🎹 |
 
@@ -56,12 +66,13 @@
 | 🎹 Kareem | Acquaintance | Spoke on phone!! | Not friends yet!! Working toward it!! 💛 |
 
 ### Promotion Requirements — Science Level 6
-- ❌ Cooking 4!! In progress!!
-- ❌ Family friend!! Needs one of his own!! Kareem?? 👀
+- ✅ Cooking 4!! Done!! Rotation 3!!
+- ✅ Logic 4!! Done!! Carried from Rotation 2!!
+- ⬜ Family friend!! Needs one of his own!! Kareem?? 👀
 
 ### Locked Wants
-- 🔒 **Be saved from death!!** 💀
-- 🔒 **Logic 4!!** 🔭
+- 🔒 **Be saved from death!!** 💀 Watching carefully!!
+- 🔒 **TBC — Logic 4 fired on load!!**
 
 ---
 
@@ -89,14 +100,24 @@
 
 ### Career
 - **Architect — Cement Mixer, Level 1!!** 🏗️
-- Demoted TWICE for doing the right thing!! He has TWO grudges now!! 😭🔧
-- Rebuilt a sinking wall properly both times!! The principal of the thing!!
+- Demoted TWICE for doing the right thing!! TWO grudges!! 😭🔧
+- Rebuilt a sinking wall properly both times!! The principle of the thing!!
+
+### Aspiration Benefits Spent — Rotation 3
+| Column | Tier | Benefit |
+|--------|------|---------|
+| Work | 1 | Build vacation days quicker |
+| Work | 2 | 🎲 80% better with chance cards!! No more demotions!! |
+| Fortune | 1 | 💰 Bump in salary!! |
+| Fortune | 2 | Slower need decay — Fun + Comfort |
+| Fortune | 3 | 💻 Financial advice on computer for cash!! |
+| Needs | 1 | Slower need decay — Social + Comfort |
 
 ### Skills (after Rotation 2)
 | Skill | Level | Notes |
 |-------|-------|-------|
 | Cooking | 1 | |
-| Mechanical | 1 | |
+| Mechanical | 1 | Robotics badge progress slow at this level!! |
 | Logic | 1 | |
 | Creativity | 2 | |
 
@@ -104,17 +125,17 @@
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🌩️ Søren | Sibling | Brothers!! | |
-| 🦇 Sim Liv | Sibling | Sister!! | |
-| 💕 Andrea Hogan | **Crush!!** | Friends + crush!! | Made out on the Chesterfield sofa!! 😭💕 She keeps showing up on his worst days!! |
+| 🦇 Sim Liv | Sibling | Sisters!! | |
+| 💕 Andrea Hogan | **IN LOVE!!** | 💕😭 | Diner date Day 1 Rotation 3!! IT JUST FIRED!! Canon forever!! |
 | 🍊 AWiddleFrisbee | Friend!! | | |
-| 🌈 Iris | Acquaintance | Met Rotation 2!! | She came over!! Kareem was there too!! 😭🌼 |
+| 🌈 Iris | Acquaintance | Met Rotation 2!! | |
 
 ### Promotion Requirements — Architect Level 2
 - ✅ No requirements!! Just go to work and DON'T rebuild any walls!! 😂
 
 ### Locked Wants
-- 🔒 **Bronze robotics talent badge!!** 🤖
-- 🔒 **Promotion!!** 🏗️ TWO grudges!! TWO demotions!! HE WILL GET THERE!!
+- 🔒 **Bronze robotics talent badge!!** 🤖 Progress slow at Mechanical 1 — keep building!!
+- 🔒 **Promotion!!** 🏗️ TWO grudges!! Chance card protection now active!! He WILL get there!!
 
 ---
 
@@ -136,7 +157,8 @@
 | **Star sign** | Capricorn ♑ |
 | **Attraction** | 2 bolts with Wrench!! 💕 |
 | **Appearance** | Braided bun · warm deep brown skin · green eyes · yellow dress!! 💛 |
-| **Notable** | Came over UNPROMPTED on Wrench's worst days!! BOTH TIMES!! 💕 |
+| **Status** | **IN LOVE WITH WRENCH!! 😭💕** Diner date Rotation 3 Day 1!! |
+| **Notable** | Came over UNPROMPTED on Wrench's worst days!! BOTH TIMES!! The cockroaches!! The flu!! The demotion!! She always knew!! 💕 |
 
 ---
 
@@ -155,6 +177,7 @@
 - **Sunflowers in the kitchen** — Wrench put them there!! Søren pretends not to notice!! 🌻
 - **Wrench's trunk** in the living room — not moving!! Søren has mentioned it twice!!
 - **THE CHESTERFIELD SOFA** — where Wrench and Andrea made out!! Canon forever!! 💕😂
+- **THE DINER** — where Wrench and Andrea fell in love!! Canon forever!! 💕😭🍽️
 
 ---
 
@@ -167,51 +190,42 @@
 ---
 
 ## Rotation 2 ✅ COMPLETE!! 🎉🌩️🔧
-
-### Day 1 ✅ — Thursday
-- **Wrench promoted to Bricklayer Level 2!!** 🎉🏗️
-- **Søren promoted to Science Teacher Level 4!!** 🎉🌩️ (again!!)
-- **COCKROACH INFESTATION!!** 🪳😭 Both at work!! Immanuel alone with them!!
-- **Exterminator called!!** ✅ But Søren has a BAD MEMORY from the roaches!! 😭
-- **Immanuel had the best time!!** Completely unbothered!! 😂😤
-- **Andrea came over UNPROMPTED!!** 💕
-- **Wrench developed a crush on Andrea!!** 😭💕
-- **Wrench got flu from the cockroaches!!** 🤧 Couldn't ask her out!!
-
-### Day 2 ✅ — Friday
-- Wrench recovered from flu!! ✅
-- **SINKING WALL WORK EVENT AGAIN!!** Rebuilt it properly AGAIN!! Got DEMOTED AGAIN!! 😭🔧
-- **Wrench cried in his hard hat in the hallway AGAIN!!** Still had his gloves on!!
-- **Invited Andrea over — THEY MADE OUT ON THE CHESTERFIELD SOFA!!** 💕😭😂
-- **Søren promoted to Project Leader Level 5!!** 🎉🌩️ £630 bonus!!
-- 🔒 Locked Promotion again for Wrench!! Two grudges now!!
-- **A PENGUIN walked past Storm and Wrench in the snow!!** 🐧😭 Canon!!
-- Søren called Kareem on the phone!! Not friends yet but working on it!! 🎹
-
-### Day 3 ✅ — Saturday
-- Wrench home at 3pm — **invited Iris over!!** 🌈
-- Søren home at 5pm — **invited Kareem over!!** 🎹
-- **KAREEM AND IRIS MET AT STORM AND WRENCH!!** 😭🌼🎹🌈
-- They spoke!! Couldn't see bolts as visitors!! Got late — guests left!!
-- Canon forever!! The first time!! Through Søren and Wrench!! 😭💛
-
-### Locks Carrying into Rotation 3
-**Søren:**
-- 🔒 Be saved from death!! 💀
-- 🔒 Logic 4!! 🔭
-
-**Wrench:**
-- 🔒 Bronze robotics badge!! 🤖
-- 🔒 Promotion!! 🏗️ TWO grudges!!
-
-### Rotation 3 Goals
-- Søren: cooking 4 + make a friend!! Kareem?? 🎹💛
-- Søren: logic 4 — telescope every night!! 🔭
-- Wrench: get promoted and STAY promoted!! 🏗️
-- Wrench: ask Andrea on a proper date!! 💕
-- Wrench: buy the Ford F-150!! 🛻
-- Immanuel: continue being completely unbothered by everything!! 😤
+- **Cockroach infestation!!** Immanuel had the BEST TIME!! 😂😤
+- **Wrench demoted AGAIN for integrity!! TWO hard hat cries!! TWO grudges!!** 😭🔧
+- **Wrench and Andrea made out on the Chesterfield!!** 💕😭
+- **Søren promoted to Project Leader Level 5!!** 🌩️🎉
+- **A PENGUIN walked past in the snow!!** 🐧 Canon!!
+- **KAREEM AND IRIS MET AT STORM AND WRENCH!!** 😭🌼🎹🌈 The first time!! Through Søren and Wrench!!
 
 ---
 
-*Updated 19th June 2026 — Rotation 2 COMPLETE!! Double promotions!! Cockroach infestation!! Flu from the roaches!! Andrea on the Chesterfield sofa!! Wrench demoted TWICE for integrity!! A penguin!! Kareem and Iris met at Storm and Wrench!! The daisies were nearby!! 🌩️🔧💕🐧😭💛*
+## Rotation 3 — IN PROGRESS!! 🌩️🔧💕
+
+### Before Play — Aspiration Points
+- **Søren: full Knowledge column 1-4 + Work 1+2!!** 👽🎲
+- **Wrench: Work 1+2 + Fortune 1+2+3 + Needs 1!!** 💰🎲
+- **Logic 4 already there on load!! Carried from Rotation 2!!** ✅🔭
+- **Chance card protection ACTIVE for both!!** No more demotions!! 🎲
+
+### Day 1
+- **Søren gained Cooking 4!!** ✅🍳 Promotion requirements met — just needs a family friend now!!
+- **Wrench had the day off — on the robotics bench!!** 🤖 Badge progress slow at Mechanical 1!!
+- **Wrench had low hunger + social — phoned Andrea!!** 📞💕
+- **DINER DATE!!** 🍽️💕
+- **WRENCH AND ANDREA ARE IN LOVE!!** 😭😭😭💕🔧 It just fired!! At the diner!! After the cockroaches and the flu and the demotions and the Chesterfield!! THEY ARE IN LOVE!! Canon forever!!
+
+### Locks Carrying into Rotation 4
+- 🔒 Be saved from death!! 💀 (Søren)
+- 🔒 Bronze robotics badge!! 🤖 (Wrench)
+- 🔒 Promotion!! 🏗️ (Wrench)
+
+### Rotation 3 Goals — Remaining
+- ⬜ Søren needs a family friend — invite Kareem!! 🎹
+- ⬜ Wrench to work — promoted and KEEP IT!! 🏗️
+- ⬜ More robotics bench time!! 🤖
+- ⬜ Telescope for Søren — alien summoning era!! 👽
+- ⬜ Ford F-150 for Wrench!! 🛻
+
+---
+
+*Updated 20th June 2026 — Rotation 3 in progress!! Aspiration points spent!! Logic 4 carried!! Cooking 4 gained!! Chance card protection active!! WRENCH AND ANDREA IN LOVE AT THE DINER!! After the cockroaches and the flu and two demotions and the Chesterfield sofa — they got there anyway!! Canon forever!! 😭💕🔧🍽️💛*
