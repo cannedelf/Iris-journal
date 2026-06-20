@@ -76,7 +76,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - **Sunflowers on the kitchen table for two** — placed without being asked!! 🌻
 - **Botanical prints in the downstairs WC** — of course!! 😂💛
 - **Empty bedside table** — the one that says everything!! 😭
-- **Bouquet of daisies in inventory** — his first arrangement!! Nobody to give them to yet!! 😭🌼
+- **Bouquet of daisies in inventory** — his first arrangement!! Still waiting!! 😭🌼
 - **Piano mod fixed!!** Atavera-CustomInstrumentHack removed!! Kareem can play!! 🎹
 - **Honda Accord in the driveway!!** Bought Rotation 2!! 🚗
 
@@ -217,12 +217,13 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 - Dark curly hair · Glasses · Warm brown skin · Freckles · Kind face · Slightly rumpled!!
 - Woodland creature pyjamas (little deer and rabbits!!) 😂
-- **Aspiration:** Family!! · **Career:** Education — Level 3 pending next Thursday!!
+- **Aspiration:** Family + Knowledge (secondary!!) · **Career:** Education — Level 2 Teacher!! 👨‍🏫
 - **Lifetime want:** Reach Golden Anniversary!! 💛
 - **Degree:** Literature!!
 - **Hidden genes:** Blonde + lilac eyes from mum Claire!! Rainbow babies possible!! 😭💛
-- **Has a bouquet of daisies in his inventory!!** Nobody to give them to yet!! 😭🌼
+- **Has a bouquet of daisies in his inventory!!** Still waiting!! 😭🌼
 - **Met Iris at Storm and Wrench, Rotation 2!!** They spoke!! The daisies were nearby!! 😭
+- **Friends with Iris, Rotation 3!!** She phoned him!! Tuesday evening!! 📞😭🌼
 
 ### Personality (25 points)
 | Trait | Score |
@@ -282,7 +283,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | Household | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 |
 |-----------|----|----|----|----|----|----|----|----|
 | 🌈 Sunshine Cottage | ✅ | ✅ | | | | | | |
-| 🎹 The Music Room | ✅ | ✅ | | | | | | |
+| 🎹 The Music Room | ✅ | ✅ | ✅ | | | | | |
 | 🦇🍊 The Flat | ✅ | ✅ | | | | | | |
 | 🌩️🔧 Storm & Wrench | ✅ | ✅ | | | | | | |
 | 📜🪨 The Pebble House | ✅ | ✅ | | | | | | |
@@ -325,6 +326,11 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 **📜🪨 The Pebble House**
 *Fourth is best friends with Sim Liv, has 2 bolts with a good witch who is an elder, and has discovered two unknown stars but not a shooting one. Still-Here caused a frozen explosion, mopped a ceiling, and took Benjamin on a dream date in a magician suit. He had the best time of his life and has zero bolts.* 📜🪨🦜😂
+
+### After Rotation 3 (Music Room only so far) 🎹
+
+**🎹 The Music Room**
+*Kareem got demoted for doing the right thing on his first day as Level 3 Teacher, ate comfort soup for lunch, had an awkward first visit from Iris, went back to work, got promoted to Level 2 again, played piano by the lamp with the snow outside, looked at the stars, and then Iris phoned him. They're friends now. The daisies are still in his inventory.* 🎹🌼📞❄️😭💛
 
 ---
 
@@ -387,7 +393,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Still-Here wears the clown suit to The Golden Anchor with complete confidence!!
 - Baby Lyra born at Sunshine Cottage — Marigold appoints herself guardian!!
 - Edie and Arthur at the door with something homemade when Lyra arrives!!
-- Kareem gets pulled up to the stage at The Golden Anchor!! 🎹
+- ✅ **KAREEM ON THE STAGE AT THE GOLDEN ANCHOR!! Rotation 3 Day 1!! Nobody pulled him up — he just sat down and played!! The spotlights were red and yellow!! It was the pub's first ever live music moment!! It was always going to be him!!** 🎹⚓😭
 - AWiddleFrisbee tells Sim Liv about Still-Here and Willa within four minutes!! 😂
 - Søren says one devastating sentence at The Golden Anchor and goes back to his pint!! 😂
 - Maren puts two cardamom buns on the plate without being asked!! Kareem goes very pink!! 😭💛
@@ -411,5 +417,5 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 ---
 
-*Updated 20th June 2026 — THE GOLDEN ANCHOR IS OPEN!! Beach road!! Sea views!! Søren's corner!! Kareem's stage!! The porthole door!! The red phone box!! Maren's staff room!! The fruit machines!! It has always been there!! Rotation 3 next — starting with Kareem!! 🍺⚓🎹🌈💛*
+*Updated 20th June 2026 — Rotation 3 Music Room COMPLETE!! Kareem sat down at the stage himself and played!! Best friends with Fourth in the pub on the first Sunday!! Monday never happened!! Iris came over!! Iris PHONED HIM!! FRIENDS WITH IRIS!! The daisies are still in his inventory and the bedside table is still empty but she called him on a Tuesday night and that's everything!! 🎹🌼📞❄️💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
