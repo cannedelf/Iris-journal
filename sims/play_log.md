@@ -197,13 +197,78 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 
 ---
 
+## Rotation 3 — IN PROGRESS!! 🌻
+
+### 🎹 The Music Room — Kareem + Mira ✅ COMPLETE!!
+**Full details → sims/households/music_room.md**
+
+#### Locks carrying into Rotation 4
+- 🔒 **Fall in love!!** 😭🌼
+- 🔒 **TBC — didn't check when Iris friendship fired!!** 👀
+
+#### Highlights
+- **FIRST VISIT TO THE GOLDEN ANCHOR!!** ⚓🍺 Sunday!! Alone!! AWiddleFrisbee already there!!
+- **FOURTH WALKED IN AUTONOMOUSLY!!** 😭📜
+- **BEST FRIENDS WITH FOURTH!! IN THE PUB!! ON THE FIRST SUNDAY!!** 😭📜💛
+- **FIRST PERSON TO PLAY THE GOLDEN ANCHOR STAGE!!** 🎹⚓ Nobody asked!! He just sat down!! Spotlights!! Creativity point!!
+- Aspiration benefits spent!! Knowledge secondary!! Eureka!! Impart Knowledge!! Thinking Cap bought!! 🎓✨
+- Rolled **be friends with Iris** before breakfast Monday!! 🌼
+- **DEMOTED FOR DOING THE RIGHT THING!!** 😭😂 Role sheet incident!! Monday never happened!!
+- Comfort soup for lunch!! 🍲
+- **IRIS CAME OVER FOR THE FIRST TIME!!** 🌈🌼 Awkward!! She left quickly!! She still came!!
+- Promoted back to Level 2 Tuesday!! 🎉👨‍🏫
+- Played piano by the lamp!! Snow outside!! Sheet music on the stand!! 😭🎹❄️
+- Looked at the stars!! 🔭
+- **IRIS PHONED HIM!!** 📞😭🌼
+- **FRIENDS WITH IRIS!!** Want fired!! Tuesday evening!! She called him!! 🌈🌼
+
+---
+
+### 🌈 Sunshine Cottage — Iris + Marigold — IN PROGRESS!! 🌈
+
+#### Locks carrying into Rotation 3 (from Rotation 2)
+- 🔒 **Marigold removed** (fear) — permanent!!
+- 🔒 **Become BFF with AWiddleFrisbee!!** 🍊 → **FIRED!! Happened during The Flat rotation!!** ✅
+
+#### New locks Rotation 3
+- 🔒 **Marigold removed** (fear) — permanent!!
+- 🔒 **Become best friends with Kareem!!** 🌼🎹 — rolled Sunday morning!! Kareem called her!!
+
+#### Highlights so far!!
+- **Kareem called her Sunday morning!!** 📞😭🌼 Before she'd even had breakfast!!
+- **BFF with AWiddleFrisbee fired — happened quietly during The Flat rotation!!** ✅🍊
+- **Promoted to Souvenir Whittler Level 3!!** 🦙🎉 §630 bonus!! Working on SpiderSim pencilling next!!
+- Aspiration benefits spent!! Work column 1-3 + Need 1 + Family 2 (Grandma's Comfort Soup)!! Secondary aspiration: FAMILY!! 😭🌼
+- **Thinking Cap + Kibble of Life + Cool Shades bought!!** 🎓🐱😎
+- **MARIGOLD KIBBLED!!** Five days younger!! Safe forever!! 😭💛🐱
+- Thinking Cap on!! Creativity 4 + Mechanical 3 gained!! Promotion requirements met!! 🎨🔧
+- **KITCHEN FIRE MONDAY MORNING!!** 🔥😭 Iris at work!! Fire alarm saved the day!! Firefighter arrived!!
+- **MARIGOLD SLEPT THROUGH THE ENTIRE FIRE!!** 😂🐱 Completely unbothered!! Litter box immediately after!!
+- **Promoted to Comic Book Penciller Level 4!!** 🎨🎉 Working on SPIDERSIM!! §630 bonus!!
+- **"What a good week it's been! I hope I can keep this up!!"** 😭💛 Same words as Kareem!!
+- **KAREEM CAME OVER!!** 🌼🎹
+- **KAREEM FLIRTED WITH IRIS IN THE FRONT GARDEN!!** 😭🌼🎹
+- **MUTUAL CRUSHES!! HEARTS EVERYWHERE!! IN THE SUNFLOWERS!! THE LAMBORGHINI WATCHING!!** 😭🌻🌈
+- **THEY KISSED!! IN THE SUNFLOWERS!! WITH HER YELLOW BOW AND HIS GLASSES!!** 😭😭😭🌻🌼🎹🌈
+- **GAME SAVED IMMEDIATELY!!** Canon protected!! Forever!! 💾💛
+- Kareem still there!! Not best friends yet — working on it!!
+
+#### The -35 update
+*The star signs said no!! The aspirations said no!! The bolt said no!!*
+*Kareem came over on a Monday and kissed her in the sunflowers anyway!!*
+*Brown hair!! Creativity 6!! No cologne!! He was always her type!!*
+*-35 and WATCH US!!* 😭🌼🎹🌈
+
+---
+
 ## Household Files
 - ✅ `sims/households/sunshine_cottage.md`
 - ✅ `sims/households/music_room.md`
 - ✅ `sims/households/the_flat.md`
 - ✅ `sims/households/storm_and_wrench.md`
 - ✅ `sims/households/pebble_house.md`
+- ✅ `sims/sims_reference.md` — NEW!! Aspiration rewards, turn-ons, compatibility!!
 
 ---
 
-*Updated 19th June 2026 — ROTATION 2 COMPLETE!! Kareem and Iris met at Storm and Wrench!! Wrench demoted twice for integrity!! Andrea on the Chesterfield sofa!! A penguin!! FrigglyFreeze explosion!! Dream date zero bolts!! Dorothy the Good Witch!! Fourth and Sim Liv are best friends!! Daisies still in inventory!! Golden Anchor build started!! 🌈🎹🌩️🔧📜🪨❄️🍺💛*
+*Updated 20th June 2026 — ROTATION 3 IN PROGRESS!! Kareem on the stage at The Golden Anchor!! Friends with Iris — she phoned him!! Kitchen fire!! Marigold slept through it!! Comic Book Penciller!! SpiderSim!! KAREEM KISSED IRIS IN THE SUNFLOWERS!! THE -35 AND WATCH US!! 🌻🌼🎹🌈🔥🐱😭💛*
