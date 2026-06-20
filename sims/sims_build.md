@@ -181,7 +181,7 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 ### Lot Placement — Neighbourhood Map 🗺️
 
 **Beach Road Cluster 🌊**
-- 🍺 The Golden Anchor — beach road!!
+- 🍺 The Golden Anchor — beach road!! ✅ BUILT!!
 - 🏖️ Sunnyside Cove — beach lot!!
 
 **Village Centre 🛍️**
@@ -203,8 +203,8 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 
 ---
 
-## 🍺 The Golden Anchor — BUILD REFERENCE ⚓
-*First community lot!! Build after Rotation 2!! Beach road, Sunnyside!! 19th June 2026!!*
+## 🍺 The Golden Anchor ✅ COMPLETE!! OPEN!! ⚓
+*Built after Rotation 2!! Beach road, Sunnyside!! 19th–20th June 2026!!*
 
 ### Basic Info
 | | |
@@ -213,7 +213,8 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 | **Type** | Pub (with music venue elements!!) |
 | **Size** | Large (4x4) |
 | **Location** | Beach road!! Sea views!! |
-| **Build status** | ⬜ IN PROGRESS!! |
+| **Build status** | ✅ COMPLETE!! OPEN!! |
+| **Built** | 19th–20th June 2026!! |
 
 ### The Vibe
 *"It isn't the best pub in town. It isn't the trendiest. It isn't the biggest. It isn't trying to be anything. It's simply where, every Friday, a collection of people find themselves looking at one another and thinking: Oh. You're here too."*
@@ -222,7 +223,8 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 
 ### Architecture
 - Weathered British seaside pub — coastal but NOT theme-park nautical!!
-- Worn wood, warm light, low ceilings!!
+- Cream render walls!! Dark slate roof!! Diamond pane windows with wooden shutters!!
+- Warm wood wainscoting throughout!! Cream upper walls!!
 - Been here forever and knows it!!
 - Beach road — sea views from the beer garden!!
 
@@ -240,70 +242,80 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 | ☕ Maren | THE BARTENDER!! Knows everyone's order!! Every secret!! When not to ask questions!! Puts two cardamom buns on the plate without being asked for Kareem!! 😭💛 |
 | 👨‍👩‍👧 The Found Family | Friday nights!! One big table!! Nobody planned it!! It just became the thing!! |
 
-### Required Spaces
-| Space | Notes |
-|-------|-------|
-| Main bar | Maren's domain!! Knows everyone's order!! |
-| 🌩️ Søren's corner | Slightly removed!! Good sightlines!! Can see everyone without being in the middle of it!! One pint!! Philosophical silence!! |
-| 🎹 Kareem's stage | Small!! A bit battered!! He's been on it twice against his will!! Both times legendary!! Piano + microphone!! |
-| 👨‍👩‍👧 Found family table | Big enough for all of them!! Slightly chaotic!! Nobody's sure whose round it is!! |
-| 🎯 Darts board | Suspiciously competitive!! Wrench takes it very seriously!! |
-| 🌊 Beer garden | Sea view!! Fresh air!! Still-Here holds court here!! Outdoor tables!! |
-| Toilets | Clean(ish)!! Functional!! Always a queue on Friday nights!! |
-| Kitchen | Bar snacks only!! Enough to keep the found family fuelled!! |
+### What's Inside 🏠
+
+**Ground Floor:**
+- 🎹 **Stage** — raised!! Warm dark wood floor!! Red and yellow spotlights!! Guitar + drum kit + keyboard + microphone!! Kareem's stage!! He didn't volunteer!!
+- 🕺 **Dance floor** — dark slate tiles!! Right in front of the stage!!
+- 🎰 **Arcade machines** — fruit machines by the bar!! Wrench has opinions!! Still-Here has won money!!
+- 🍺 **The bar** — U-shaped!! Brass foot rail!! Bar stools!! Maren's domain!! Porthole door to kitchen!!
+- 📋 **Chalkboard menus** above the bar!!
+- 🎣 **Life ring on the wall** — coastal!! Canon!!
+- 🚢 **Ship's wheel** — Søren's corner wall!! Very right!!
+- 🍷 **Wine rack** — behind the bar!!
+- 🎯 **Darts board** — games corner!! Suspiciously competitive!!
+- 🎱 **TWO pool tables** — red felt!! Canon!!
+- 🪑 **Søren's corner** — back right!! Round table!! Candle!! Gallery of paintings!! Good sightlines!! Slightly removed!!
+- 👨‍👩‍👧 **Found family tables** — rectangular!! Centre!! Candles!! Chaotic!! Nobody's sure whose round it is!!
+- 🕯️ **Candles on every table throughout!!**
+- 🎵 **Jukebox** — between dance floor and stage!!
+- 🎰 **Arcade machines** — near bar!! Fruit machine stand-ins!!
+
+**Upstairs:**
+- 🚺 **Ladies toilets** — cubicles + sinks + mirrors + plant!!
+- 🚹 **Gents toilets** — cubicles + sinks!!
+- ☕ **Maren's staff room** — colourful chairs!! Her little kingdom!! 😂
+- 🪜 **Landing** at top of stairs!!
+
+**Beer Garden:**
+- 🌊 **Sea view terrace** — bistro tables + parasols!! Right on the waterfront!!
+- 🪑 **Picnic benches** — with fairy lights!! Window boxes!! Hanging baskets!!
+- 🌿 **Lavender and flowers** along the fence!!
+- 🏮 **Lamp posts!!**
+
+**Exterior:**
+- 🪧 **Pub sign** — The Golden Anchor!! A-board outside!!
+- 📞 **Red phone box** outside!! Canon forever!!
+- 🌸 **Window boxes** on every window!!
+- 🌺 **Hanging baskets** either side of the door!!
+- 💜 **Lavender** along the front fence!!
+- 🌿 **Flower borders!!**
+- 🚗 **Car park** to the side!!
 
 ### Important Corners 🏠
-- **Søren's Corner** — Friday nights!! One pint!! One devastating sentence!!
-- **Kareem's Stage** — He didn't volunteer!! He never volunteers!! He's always brilliant!!
+- **Søren's Corner** — back right!! Friday nights!! One pint!! One devastating sentence!! Gallery wall behind him!! Ship's wheel nearby!! The sea through the window!!
+- **Kareem's Stage** — He didn't volunteer!! He never volunteers!! He's always brilliant!! Red and yellow lights!!
 - **The Found Family Table** — Friday nights!! Chaotic!! Loud!! Everyone's home!!
 - **The Darts Board** — Suspiciously competitive!! Wrench takes it very seriously!!
-- **The Beer Garden** — Sea view!! Where Still-Here holds court!!
-
-### Sims 2 Gameplay Requirements
-- ✅ Bar with bartender station (Maren!!)
-- ✅ Piano and microphone on stage!!
-- ✅ Dance floor near the stage!!
-- ✅ Multiple tables for groups AND couples (Wrench + Andrea need somewhere!! 💕)
-- ✅ Routing friendly — gets crowded on Fridays!!
-- ✅ Pet friendly — Barnacle has visited!! Whether he was welcome is another matter!! 🦜
-- ✅ Darts board!!
-- ✅ Outdoor seating in beer garden!!
-- ✅ Space for small groups and dates!!
-
-### Required Objects Checklist
-- ⬜ Bar + bartender station!!
-- ⬜ Piano + microphone!!
-- ⬜ Dance floor!!
-- ⬜ Darts board!!
-- ⬜ Large communal table (found family!!)!!
-- ⬜ Multiple smaller tables!!
-- ⬜ Kitchen appliances (bar snacks!!)!!
-- ⬜ Toilet stalls + sinks!!
-- ⬜ Outdoor tables (beer garden!!)!!
-- ⬜ Stereo / speakers!!
+- **The Beer Garden Terrace** — Sea view!! Where Still-Here holds court!!
+- **Maren's Staff Room** — Upstairs!! Colourful!! Her kingdom!! Nobody else goes in there!!
 
 ### Extra Details
 - **Opening hours:** 12pm–1am!!
 - **Fridays:** Open late!!
 - **Dress code:** Whatever you wore to work, to the beach, or to chaos!!
 - **Specials:** Cardamom buns — courtesy of Maren!! 😭💛
-- **Sign:** The Golden Anchor with an anchor motif!! Weathered!! Warm!!
+- **Fruit machines:** The arcade machines are fruit machines!! Wrench has opinions!! Still-Here has won £20 on one already!! Canon!!
 
-### Build Progress
+### Build Progress ✅ ALL COMPLETE!!
 | Area | Status |
 |------|--------|
-| Lot placed | ⬜ |
-| Exterior + shell | ⬜ In progress!! |
-| Main bar area | ⬜ |
-| Stage + dance floor | ⬜ |
-| Søren's corner | ⬜ |
-| Found family table | ⬜ |
-| Darts board area | ⬜ |
-| Beer garden | ⬜ |
-| Toilets | ⬜ |
-| Kitchen | ⬜ |
-| Furniture + décor | ⬜ |
-| ✅ OPEN!! | ⬜ |
+| Lot placed | ✅ |
+| Exterior + shell | ✅ |
+| Main bar area | ✅ |
+| Stage + dance floor | ✅ |
+| Søren's corner | ✅ |
+| Found family table | ✅ |
+| Darts board + pool tables | ✅ |
+| Arcade machines | ✅ |
+| Beer garden | ✅ |
+| Sea view terrace | ✅ |
+| Toilets upstairs | ✅ |
+| Maren's staff room | ✅ |
+| Kitchen | ✅ |
+| Furniture + décor | ✅ |
+| Exterior dressing | ✅ |
+| ✅ OPEN!! | ✅ |
 
 ---
 
@@ -366,5 +378,5 @@ Iris has NO hidden genes — purely herself!!
 
 ---
 
-*Updated 19th June 2026 — The Golden Anchor reference sheet added!! Build in progress!! Rotation 2 complete!! The Golden Anchor awaits!! 🍺⚓🌈💛*
+*Updated 20th June 2026 — THE GOLDEN ANCHOR IS OPEN!! Built over two days!! Beach road!! Sea views!! Søren's corner!! Kareem's stage!! Maren's staff room!! The fruit machines!! The red phone box!! The porthole door!! It has always been there!! 🍺⚓🌈💛*
 *File created 13th June 2026 — split from sims2.md!!*
