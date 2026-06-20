@@ -1,134 +1,86 @@
 # Sims 2 — Sunnyside 🌻 The Living World
+*Overview file!! Full household detail → sims/households/ · Build bible → sims_build.md*
 
 ---
 
 ## The World — Sunnyside 🌞
 
-**Custom neighbourhood — built from scratch!! No Pleasantview!!**
-- **Name:** Sunnyside 🌞
-- **Map:** Belladonna Cove — green rolling hills, coastal water and sandy beach, little island in the bay!!
-- **Terrain:** Lush!!
 - **Vibe:** Cottagecore with a hint of coastal — wild, overgrown, warm, ours!!
-- **Description:** "A sunny little coastal village where the hills are wild and the sunflowers grow wherever they please. Home to found families, yellow houses, and one very strategic neighbour!!"
-- **Rainbow:** Placed manually by Liv over the neighbourhood!! Canon regardless!! 🌈 AND the game placed its own rainbow over Sunnyside on the day Storm and Wrench moved in!! The universe knew!! 🌈🌈
-- **Hot air balloons:** Two!! Also placed!! Also canon!! 🎈
-- **The Windmill:** 🌬️ Decorative neighbourhood object placed next to The Music Room!! CANON LORE — the windmill was there first!! That's why the mill building exists!! Kareem's house was built to service it!! The windmill just stayed when the mill was converted!! Kareem doesn't even notice it anymore!!
-- **Vacation worlds:** Twikkii Island + Three Lakes + Takemizu Village — added for holidays!! Residents can travel!! 🌴🏔️🎋
-- **First snow:** Rotation 2!! The whole neighbourhood went white!! The park filled up!! Hugo has not fallen in the pond — it's decorative!! Geography saves him!! ❄️🐕
+- **Map:** Belladonna Cove — green rolling hills, coastal water and sandy beach!!
+- **Rainbow:** Placed manually!! AND the game placed its own rainbow when Storm and Wrench moved in!! 🌈🌈
+- **Hot air balloons:** Two!! Canon!! 🎈
+- **The Windmill:** Next to The Music Room!! CANON LORE — was there first!! Kareem doesn't notice it anymore!! 🌬️
+- **Vacation worlds:** Twikkii Island + Three Lakes + Takemizu Village!! 🌴🏔️🎋
+- **First snow:** Rotation 2!! Hugo cannot fall in the pond — it's decorative!! Geography saves him!! ❄️🐕
 - **The Golden Anchor:** ✅ OPEN!! Beach road!! Built 19th–20th June 2026!! 🍺⚓
 
 ---
 
 ## Sunnyside Surnames & Full Names 🏡
 
-### Original Households
 | Sim | Full Name | House |
 |-----|-----------|-------|
 | 🌈 Iris | Iris Golden Rainbow | Sunshine Cottage |
 | 🎹 Kareem | Kareem Osei | The Music Room |
 | 🦇 Sim Liv | Liv Hill | The Flat |
-| 🍊 Sim AWiddleFrisbee | Widdle Frisbee | The Flat |
+| 🍊 AWiddleFrisbee | Widdle Frisbee | The Flat |
 | 🌩️ Søren | Søren Hill | Storm and Wrench |
 | 🔧 Wrench | Wrench Hill | Storm and Wrench |
 | 💚 Cassian | Cassian Hill | Storm and Wrench |
 | 📜 Fourth | Fourth Frisbee | The Pebble House |
 | 🪨 Still-Here | Still-Here Frisbee | The Pebble House |
 
-### Hill Siblings!! 💛
-Liv, Søren and Wrench are ALL siblings!! **Parents: Samuel (Sam) and Ruth Hill!!**
+**Hill siblings:** Liv · Søren · Wrench!! Parents: Sam + Ruth Hill!! 💛
 **Cassian Hill** — Søren's son!! Born Rotation 3!! Son of Søren and P.T. 83!! 👽💚
-
-### Frisbee Siblings!! 😂
-Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
+**Frisbee siblings:** AWiddleFrisbee · Fourth · Still-Here!! Parents: Dennis + Janet Frisbee!! 😂
 
 ---
 
 ## The Households 🏘️
+*Quick reference!! Full detail → sims/households/*
 
-### 🌈 Sunshine Cottage — Iris + Marigold ✅ COMPLETE!! MOVED IN!!
-- Yellow house!! Sunflowers outside!! Straight to adulthood!!
-- **Sim Iris moved in: 7th June 2026!!**
-- First autonomous action: hugged Marigold on the front porch!! 😭💛
-- **Career: Comic Book Penciller — Level 4!! Her own series!! SpiderSim!!** 🎨
-- **Lifetime want:** Make 20 Pet Best Friends!! Marigold: 1/20!! 🐾
+### 🌈 Sunshine Cottage — Iris + Marigold
+- Comic Book Penciller Level 4!! SpiderSim!! Her own series!! 🎨
+- Marigold: Pet Best Friend 1/20!! Kibbled!! 🐱
+- Locked: Marigold removed (fear, permanent) + BFF with Kareem!! 🔒🌼
 
-### 🎹 The Music Room — Kareem Osei + Mira ✅ COMPLETE!! MOVED IN!! 🎉
-- **Kareem moved in: 16th June 2026!!**
-- **Mira adopted: Rotation 1, Day 2!!** Egyptian Mau!! Silver spotted!! 🐱
-- **FIRST WANT ON MOVING IN: FALL IN LOVE!! He hadn't even unpacked!! 😭😂**
-- Converted mill!! Industrial bones, warm soul!!
-- **Kissed Iris in the sunflowers, Rotation 3!!** The -35 and WATCH US!! 🌻🌼🎹🌈
+### 🎹 The Music Room — Kareem + Mira
+- Education Level 2!! Family aspiration!! Lifetime want: Golden Anniversary!! 💛
+- Daisies in inventory!! Crush on Iris!! Kissed her in the sunflowers Rotation 3!! 🌼😭
+- Locked: Fall in love!! 🔒
 
-### 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo ✅ COMPLETE!! MOVED IN!! 🎉
-**"The House Hugo Thinks He Owns"**
-**Moved in: 17th June 2026!!**
+### 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo
+- Sim Liv: Junior Executive Level 4!! Family aspiration!! Nature OTH!! 🌿
+- AWiddleFrisbee: Lounge Singer Level 4!! Popularity aspiration!! Nature OTH!! 🌿🎤
+- TWO NATURE FLATMATES!! AWiddleFrisbee wants to become a WEREWOLF!! 🐺🔒
+- Sim Liv 2 bolts with Fourth — watching her wants!! 👀
+- Locked: BFF with AWiddleFrisbee (Sim Liv) · BFF with Wrench + Werewolf (AWiddleFrisbee)!!
 
-**Key canon facts:**
-- Hugo weed on the floor multiple times!! Pigpen MAX!! 😂🐕
-- AWiddleFrisbee made friends with Andrea in the rain!! 💕
-- Snoozer party Rotation 1!! Lessons learned!! 😭😂
-- THREE promotions for Sim Liv in Rotation 2!! Junior Executive!! 💼
-- AWiddleFrisbee: Lounge Singer Level 4!! 🎤
-- Sim Liv making daisies on the florist bench!! 😭🌼 Kareem has daisies too!! They don't know!!
-- **Knowledge secondary for both — Rotation 3!!** Accidentally gave Sim Liv 2 bolts with Fourth!! 😂😭
-- **AWiddleFrisbee ELECTROCUTED at the computer!! Became a skeleton!! Went to work immediately!!** 😂💀⚡
-- **TWO NATURE FLATMATES!!** Sim Liv and AWiddleFrisbee both Nature OTH!! 🌿🌿
-- **AWIDDLEFRISBEE WANTS TO BECOME A WEREWOLF!!** LOCKED!! 🐺🔒
-- **Sim Liv built a snowman after work just because she wanted to!!** Playful 7!! 😭⛄
-- Charisma 4 + Logic 1 — promotion SO close!!
-- **The pond next door is decorative!! Hugo cannot fall in!! Geography saves him!!** 😂🐕
+### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel + 💚 Cassian
+- Søren: Project Leader Level 5!! Knowledge aspiration!! CASSIAN'S DAD!! 👽💚
+- Wrench: Bricklayer Level 2!! ENGAGED TO ANDREA!! Wedding party want LOCKED!! 💍🎉
+- Cassian: Born Day 3 Rotation 3!! UFO light!! Alien print cot!! Little green boy!! 💚
+- Wrench moving out after the wedding — own home with Andrea!! 🏠
+- Locked: Be saved from death + be abducted again (Søren) · Robotics badge + wedding party (Wrench)!!
 
-### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel + 💚 Cassian ✅ COMPLETE!! MOVED IN!! 🎉
-**"The Lamp in the Darkness"**
-**Moved in: 17th June 2026!!**
+### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle
+- Fourth: Legal Secretary Level 3!! Knowledge aspiration!! BFF with Sim Liv!! Crush on her!! 2 bolts!! 😂
+- Still-Here: Record Store Clerk Level 4!! Pleasure aspiration!! Wants to throw a party!! 🎉
+- Barnacle rules the house!! Was in the loo Day 1!! 👑🦜
+- WEDNESDAY on the noticeboard!! Unexplained!! Fourth has not asked!!
+- Locked: Shooting star + adopt a kitten/puppy (Fourth) · Party + get a pet (Still-Here)!!
 
-**Key canon facts:**
-- Søren has yellow pillows and will not discuss them!! 💛
-- Wrench's trunk in the living room — not moving, nobody ask!!
-- Sim Liv put up the duck!! It stays!! It's canon!! 🦆
-- The 1967 TV works because Wrench fixed it!! He will never stop being proud of this!!
-- **Wrench demoted TWICE for doing the right thing!!** TWO grudges!! 😭🔧
-- **WRENCH PROMOTED TO BRICKLAYER LEVEL 2!! Rotation 3!!** Two grudges avenged!! 🏗️🎉
-- **WRENCH AND ANDREA IN LOVE at the diner!! Rotation 3!!** 💕😭🍽️
-- **WRENCH PROPOSED!! ANDREA SAID YES!! HER FEET LEFT THE GROUND!!** 💍😭💕
-- Wrench fears Andrea leaving him at the altar!! He loves her so much it scares him!! 😭💍
-- Wedding party want LOCKED!! 🎉🔒
-- Wrench moving out after the wedding — he and Andrea getting their own home!! 🏠💍
-- **SØREN PEED IN A BUSH!! Rotation 3!!** Neat 8!! Philosophy degree!! Canon!! 😂🌿
-- **SØREN AND KAREEM BECAME FRIENDS!! Rotation 3!!** Puzzle ball!! 😂🧩🎹🌩️
-- **SØREN ABDUCTED BY ALIENS!! Rotation 3!!** Green beam!! Blue knit vest!! He went UP!! 👽🔭
-- **P.T. 83 sent §200 child support!!** Responsible!! From space!! 💰👽
-- **Søren wore alien face mint green maternity t-shirt!!** 😂💚
-- **COCKROACH INFESTATION Rotation 2!!** Immanuel had the best time!! 😂🪳
-- **A PENGUIN walked past in the snow!! Rotation 2!!** 🐧 Canon!!
-- **KAREEM AND IRIS MET AT STORM AND WRENCH!! Rotation 2!!** 😭🌼🎹
+---
 
-### 💚 Cassian Hill — Baby → Toddler!! 👽
-*Born Day 3 Rotation 3!! Son of Søren Hill and P.T. 83!!*
-- Little green boy!! 💚
-- **Baby for 2 days · Toddler for 5 days · Then child!!**
-- UFO light above cot!! Gold star!! Alien print bedding!! Little bookshelf!! Fox painting!! 🛸⭐
-- Søren held him in the blue knit vest with that careful full look!! Canon forever!! 😭🌩️💚
+## Sunnyside Children 👶
 
-### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle ✅ COMPLETE!! MOVED IN!! 18th June 2026!! 🎉🦜
-
-**Key canon facts:**
-- 🦜 **BARNACLE** — rules the house!! Best friends with Still-Here!! Was in the downstairs loo Day 1!! 😂
-- The noticeboard has "WEDNESDAY" with no further context!! Fourth has not asked!!
-- **FOURTH IS BEST FRIENDS WITH SIM LIV AND HAS A CRUSH ON HER!!** 😂😭
-- **2 BOLTS with Sim Liv after her Knowledge secondary!!** The game is winning!! 😂😭
-- **DOROTHY THE GOOD WITCH — 2 bolts with Fourth!!** Elder!! Cannot happen!! 😂🧙‍♀️
-- **Fourth discovered TWO unknown stars!!** 💫
-- **Still-Here had a DREAM DATE with Benjamin!!** Zero bolts!! He begged to go again!! 😂💕
-- **FRIGGLYFREEZE EXPLOSION!!** Still-Here mopped the ceiling!! 😂💥
-- **Still-Here promoted to Record Store Clerk Level 4!!** 🎵
-- **Fourth promoted to Legal Secretary Level 3!!** ⚖️
-- Shooting star still pending!! ⭐ Keep trying!!
+| Child | Parents | Born | Notes |
+|-------|---------|------|-------|
+| 💚 Cassian Hill | Søren Hill + P.T. 83 👽 | Day 3 Rotation 3!! | Little green boy!! First Sunnyside baby!! Baby 2 days · Toddler 5 days!! |
 
 ---
 
 ## Sim Bin Status 🗂️
-
 *All households built and moved in!! No Sims waiting!!* ✅
 
 ---
@@ -137,131 +89,67 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Pet | Type | Owner | Notes |
 |-----|------|-------|-------|
-| 🌼 Marigold | Ginger tabby | Iris | Rainbow collar, Virgo!! **PET BEST FRIEND 1/20!!** Kibbled Rotation 3!! Slept through the kitchen fire!! 😭💛🔥🐱 |
-| 🐱 Mira | Egyptian Mau | Kareem | Silver spotted!! Genius · Lazy · Finicky · Unbothered!! Dreamed about Kareem on night 1!! 😭💛 |
-| 😤 Immanuel | Grey British Shorthair | Søren | Judgmental!! Smooched on move-in day!! Had the BEST TIME during the cockroach infestation!! Processing Cassian!! 😂😤 |
-| 🐕 Hugo | Springer spaniel inspired | AWiddleFrisbee | Friendly MAX · Hyper MAX · Pigpen MAX · Doofus MAX!! Named after real Hugo!! Bay window king!! Ate from the bin!! Attacked the rug!! Slept in garden house like an angel!! Pond inaccessible to him!! 😂🐕 |
-| 🐠 Kant | Betta | Søren | Fish tank!! |
-| 🐠 Socrates | Guppy | Søren | Fish tank!! |
-| 🐠 Spinoza | Molly | Søren | Fish tank!! |
-| 🐠 Ida | Platy | Søren | Fish tank!! |
-| 🐠 Existential Dread | Black Molly | Søren | Fish tank!! Cassian's first friend!! 😭💚 |
-| 🐠 Bertrand | Goldfish | Søren | Fish tank!! |
-| 🦜 Barnacle | Parrot | Still-Here | Resident!! Judge!! Rules everything!! Was in the loo Day 1!! 👑😂 |
+| 🌼 Marigold | Ginger tabby | Iris | **PET BEST FRIEND 1/20!!** Kibbled R3!! Slept through kitchen fire!! 😭💛 |
+| 🐱 Mira | Egyptian Mau | Kareem | Dreamed about Kareem on night 1!! 😭💛 |
+| 😤 Immanuel | Grey British Shorthair | Søren | Judgmental!! Loved the cockroach infestation!! Processing Cassian!! 😂😤 |
+| 🐕 Hugo | Springer spaniel | AWiddleFrisbee | Friendly MAX · Hyper MAX · Pigpen MAX · Doofus MAX!! Pond inaccessible!! 😂🐕 |
+| 🐠 Kant · Socrates · Spinoza · Ida · Existential Dread · Bertrand | Fish | Søren | Fish tank!! Cassian's first friends!! 😭💚 |
+| 🦜 Barnacle | Parrot | Still-Here | Rules everything!! Was in the loo Day 1!! 👑😂 |
 | 🐱 Ink | Black cat | Sable | Future — Rotation 7!! |
 | 🐕 Barnaby | Golden retriever | Theo | Future — Rotation 5!! |
-| 🐱 Newton | Old dignified cat | Edie & Arthur | Future — Rotation 10!! |
+| 🐱 Newton | Dignified cat | Edie & Arthur | Future — Rotation 10!! |
 
 **Iris lifetime want: 20 pet best friends!!** Marigold: **1/20!!** 😭🐾
 
 ---
 
 ## Sunnyside Fleet 🚗
-*CC cars for everyone!! Updated as cars are bought in game!!*
 
-| Sim | Car | Status | Notes |
-|-----|-----|--------|-------|
-| 🌈 Iris | 1967 Lamborghini Miura | ✅ | Sleek, golden, slightly ridiculous!! Witnessed the sunflower kiss!! 😭🌻 |
-| 🎹 Kareem | 2002 Honda Accord | ✅ R2 | Sensible!! Has books in it!! 🚗 |
-| 🦇 Sim Liv | 1976 Ford Mustang | ⬜ Buy R4 | A little bit unhinged!! Completely correct!! |
-| 🍊 AWiddleFrisbee | 1971 Nissan Skyline 2000GT-R | ✅ | Vintage chaos energy!! |
-| 🌩️ Søren | 2012 Volvo S60 | ⬜ Buy R4 | Dark and serious!! Very him!! |
-| 🔧 Wrench | Ford F-150 | ⬜ Buy R4 | Built for work!! Has sawdust in it!! 🛻 |
-| 📜 Fourth | 1970 Plymouth Sport Fury | ✅ | Retro and serious!! Very Fourth!! |
-| 🪨 Still-Here | The Gremlin 👹 | ✅ | White car with screaming face!! Already proven lucky!! |
-| 🪨 Still-Here | Couch Car 🛋️ | ⬜ When funds allow!! | An armchair on wheels!! The dream!! |
+| Sim | Car | Status |
+|-----|-----|--------|
+| 🌈 Iris | 1967 Lamborghini Miura | ✅ Witnessed the sunflower kiss!! 😭🌻 |
+| 🎹 Kareem | 2002 Honda Accord | ✅ R2 · Has books in it!! |
+| 🦇 Sim Liv | 1976 Ford Mustang | ⬜ Buy R4 |
+| 🍊 AWiddleFrisbee | 1971 Nissan Skyline 2000GT-R | ✅ Vintage chaos energy!! |
+| 🌩️ Søren | 2012 Volvo S60 | ⬜ Buy R4 |
+| 🔧 Wrench | Ford F-150 | ⬜ Buy R4 |
+| 📜 Fourth | 1970 Plymouth Sport Fury | ✅ |
+| 🪨 Still-Here | The Gremlin 👹 + Couch Car 🛋️ | ✅ / ⬜ when funds allow |
 
 ---
 
-## Sim Iris — Miss Iris Golden Rainbow 🌈
-
-- Peach-orange skin · Sunset ombre hair · Yellow eyes · Rosy cheeks · Yellow bow!!
-- **Aspiration:** Popularity + Family (secondary!!) 💛
-- **Career: Comic Book Penciller — Level 4!! Her own series!! SpiderSim!!** 🎨
-- **Lifetime want:** Make 20 pet best friends!! Marigold: 1/20!! 🐾
-- **Star sign:** Libra!! Same as Liv!! 💛
-- **Turn-ons:** Brown hair · Creativity!! **Turn-off:** Cologne!!
-- *Kareem has brown hair + Creativity 6 and doesn't wear cologne!! The game knew!!* 😭🌼
-
-### Personality (25 points)
-| Trait | Score |
-|-------|-------|
-| Neat | 2 |
-| Outgoing | 7 |
-| Active | 4 |
-| Playful | 5 |
-| Nice | 7 |
-
----
-
-## Sim Kareem — Kareem Osei 🎹
-
-- Dark curly hair · Glasses · Warm brown skin · Freckles · Kind face · Slightly rumpled!!
-- Woodland creature pyjamas (little deer and rabbits!!) 😂
-- **Aspiration:** Family + Knowledge (secondary!!) · **Career:** Education — Level 2 Teacher!! 👨‍🏫
-- **Lifetime want:** Reach Golden Anniversary!! 💛
-- **Degree:** Literature!!
-- **Hidden genes:** Blonde + lilac eyes from mum Claire!! Rainbow babies possible!! 😭💛
-- **Has a bouquet of daisies in his inventory!!** He has a crush now!! Getting closer!! 😭🌼
-- **Kissed Iris in the sunflowers, Rotation 3!!** The -35 and watch us!! 🌻🌼🎹🌈
-
-### Personality (25 points)
-| Trait | Score |
-|-------|-------|
-| Neat | 6 |
-| Outgoing | 5 |
-| Active | 5 |
-| Playful | 0 |
-| Nice | 9 |
-
----
-
-## The Hill Siblings 🏠💛
+## The Hill Siblings 💛
 
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
-| 🌩️ Søren | Cancer | Logical + Cologne | Unemployed | Knit vest!! Long green coat!! Project Leader!! Peed in a bush!! Abducted by aliens!! CASSIAN'S DAD!! 👽💚 |
-| 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Dungarees!! Demoted twice for integrity!! Bricklayer Level 2 now!! ENGAGED TO ANDREA!! 💍🏗️ |
-| 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Junior Executive!! Making daisies!! 2 bolts with Fourth!! Built a snowman after work!! 😭⛄ |
-
-**Parents: Samuel (Sam) Hill · Ruth Hill!!**
-**Cassian Hill — Søren's son!! Son of Søren and P.T. 83!! Born Rotation 3!! 👽💚**
-
----
+| 🌩️ Søren | Cancer | Logical + Cologne | Unemployed | Project Leader!! Peed in a bush!! Abducted!! CASSIAN'S DAD!! 👽💚 |
+| 🔧 Wrench | Scorpio | Mechanical + Fitness | Stinkiness | Bricklayer L2!! ENGAGED TO ANDREA!! 💍🏗️ |
+| 🦇 Sim Liv | Aquarius | Charisma + Logical | Vampires 😂 | Junior Executive!! Making daisies!! 2 bolts with Fourth!! Built a snowman!! ⛄ |
 
 ## The Frisbee Siblings 😂
 
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
-| 🍊 AWiddleFrisbee | Libra | Cologne + Robots 😂 | Good at cleaning | Lounge Singer!! BFF with Iris!! Electrocuted then went to work!! Nature OTH!! WANTS TO BE A WEREWOLF!! 🐺🎤 |
-| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | BFF with Sim Liv!! Crush on Sim Liv!! 2 bolts with Dorothy the witch (ELDER!!)!! Two unknown stars!! Shooting star pending!! 😂😭⭐ |
-| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | Record Store Clerk!! FrigglyFreeze explosion!! Dream date zero bolts!! The Gremlin!! Couch Car incoming!! 🤹 |
-
----
-
-## Sunnyside Children 👶
-
-| Child | Parents | Born | Notes |
-|-------|---------|------|-------|
-| 💚 Cassian Hill | Søren Hill + P.T. 83 👽 | Day 3 Rotation 3!! | Little green boy!! Alien print cot!! UFO light!! First Sunnyside baby!! |
+| 🍊 AWiddleFrisbee | Libra | Cologne + Robots | Good at cleaning | Lounge Singer!! Electrocuted!! Nature OTH!! WEREWOLF WANT LOCKED!! 🐺 |
+| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | BFF with Sim Liv!! Crush!! 2 bolts!! Shooting star pending!! ⭐ |
+| 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | Record Store Clerk!! FrigglyFreeze!! Dream date 0 bolts!! The Gremlin!! 🤹 |
 
 ---
 
 ## Future Households 🌱
 
-### 🌺🌸 Idris Okafor + Clara Vance — Rotation 3!! (Building their house + creating them after Pebble House!!)
-### 🐕 Theo Calloway + Barnaby — Rotation 5!!
-### 🖤 Sable Mori + Ink — Rotation 7!!
-### 🌿 Edie and Arthur Meadow + Newton — Rotation 10!!
-### 🌱 Willa Meadow — Rotation 12!! (ALONE)
-### 🌕🌿 Aesop + Sautoir Fable + Eclipse — Rotation 13!!
+| After Rotation | Who Arrives |
+|----------------|-------------|
+| Rotation 3 | 🌺🌸 Idris + Clara — building their house after Pebble House!! |
+| Rotation 5 | 🐕 Theo + Barnaby |
+| Rotation 7 | 🖤 Sable + Ink |
+| Rotation 10 | 🌿 Edie + Arthur + Newton |
+| Rotation 12 | 🌱 Willa Meadow |
+| Rotation 13 | 🌕 Aesop + Sautoir + Eclipse |
 
 ---
 
 ## Rotation Tracker 🔄
-
-**Order:** Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pebble House!!
-**3 Sim days per household per rotation!!**
 
 | Household | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 |
 |-----------|----|----|----|----|----|----|----|----|
@@ -273,80 +161,11 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 ---
 
-## Household Snapshots 📸
-*Updated at the end of each rotation!! A living portrait of Sunnyside as it is right now!!*
-
-### After Rotation 1 🌻
-
-**🌈 Sunshine Cottage**
-*Iris has 1 pet best friend, a sunflower painting, a promotion, and a party want locked and loaded. Marigold slept on the bedroom floor by choice. Sim Liv is a friend. Things are going well.* 🌻🐱
-
-**🎹 The Music Room**
-*Kareem has a fall in love want locked, a bouquet of daisies in his inventory, a cat who dreams about him, and an empty bedside table. He went to the park. Nobody was there. He came home and played piano.* 🎹🌼😭
-
-**🦇🍊 The Flat**
-*AWiddleFrisbee has a negative memory: lousy party. Hugo has a positive memory: living room floor. The lessons are learned. Kareem is on the guest list.* 😂🐕
-
-**🌩️🔧 Storm and Wrench**
-*Søren has a promotion, a demotion, a new star, and a piano. Wrench has a grudge, a red truck, a new friend, and a hard hat he cried in. Andrea Hogan has 2 bolts. The witch was never mentioned.* 🌩️🔧💕
-
-**📜🪨 The Pebble House**
-*Fourth has a promotion, a crush he hasn't acknowledged, and a shooting star want locked. Still-Here has a promotion, a parrot, a car with a face on it, and is gaining fame. WEDNESDAY remains on the noticeboard.* 📜🪨🦜
-
-### After Rotation 2 ❄️
-
-**🌈 Sunshine Cottage**
-*Iris has a BFF, a lighthouse painting on the wall, a butterfly bracelet, and a great party memory. She drew a socialite's nose in full glory and lost a day's wages and has no regrets. The werewolf on the porch was ignored. The promotion fires Sunday.* 🌻🦋😂
-
-**🎹 The Music Room**
-*Kareem has friends with Fourth and Talin, a Honda Accord, a promotion that fires Thursday, and daisies still in his inventory. He went to a snowy park and Sunnyside noticed him. He met Iris at Storm and Wrench. They spoke. The daisies were in his pocket.* 🎹🌼❄️😭
-
-**🦇🍊 The Flat**
-*Sim Liv has three promotions, a florist bench, and is making daisies. AWiddleFrisbee is a Lounge Singer and BFF with Iris. Hugo ate from the bin, attacked the rug, and slept in his garden house like a perfect angel. The Fourth situation is ongoing.* 😂🐕🌼
-
-**🌩️🔧 Storm and Wrench**
-*Søren is Project Leader and has a bad memory about cockroaches and a good feeling about Kareem. Wrench has been demoted twice for integrity, cried in his hard hat twice, and made out with Andrea on the Chesterfield sofa. A penguin walked past. Kareem and Iris met here.* 🌩️🔧💕🐧😭
-
-**📜🪨 The Pebble House**
-*Fourth is best friends with Sim Liv, has 2 bolts with a good witch who is an elder, and has discovered two unknown stars but not a shooting one. Still-Here caused a frozen explosion, mopped a ceiling, and took Benjamin on a dream date in a magician suit. He had the best time of his life and has zero bolts.* 📜🪨🦜😂
-
-### After Rotation 3 🌻🌼💍👽 (Pebble House still to play!!)
-
-**🌈 Sunshine Cottage**
-*The kitchen caught fire on Monday morning. Marigold slept through it. Iris came home promoted to Comic Book Penciller, had a feminist awakening while pencilling SpiderSim issue 172, drew women her way, got her own series and a §5,000 bonus. Kareem came over and kissed her in the sunflowers. The Lamborghini watched. She went to bed as his best friend with BFF locked and a crush on the man with daisies in his inventory. Marigold is pet best friend 1 of 20.* 🌻🌼🎨🔥🐱💛
-
-**🎹 The Music Room**
-*Kareem got demoted for doing the right thing on his first day as Level 3 Teacher, ate comfort soup for lunch, had an awkward first visit from Iris, went back to work, got promoted to Level 2 again, played piano by the lamp with the snow outside, looked at the stars, and then Iris phoned him. They're friends now. He has a crush. The daisies are still in his inventory but they have somewhere to go.* 🎹🌼📞❄️😭💛
-
-**🦇🍊 The Flat**
-*Sim Liv and AWiddleFrisbee both have Knowledge secondaries now and are both Nature One True Hobby and the flat has never made more sense. AWiddleFrisbee was electrocuted and went to work. She wants to become a werewolf. Sim Liv built a snowman after work because it was snowing and she wanted to. She has 2 bolts with Fourth and we are watching her wants very carefully.* 🌿🌿⛄🐺😂💛
-
-**🌩️🔧 Storm and Wrench**
-*Wrench fell in love at the diner, proposed in the front garden in his smart flannel, and her feet left the ground. He's Bricklayer Level 2. He has a fear of her leaving him at the altar. He's never been more certain of anything. Søren made friends with Kareem over a puzzle ball, peed in a bush, looked through his telescope, and went up in a green beam and came back changed. P.T. 83 sent child support. Cassian Hill was born in an alien print cot under a UFO light. Søren held him in the blue knit vest with that look. The fish named Existential Dread has a brother now.* 🌩️🔧💍👽💚😭💛
-
-**📜🪨 The Pebble House**
-*Still to play!! Rotation 3!! Fourth!! Still-Here!! Barnacle!! The shooting star!! The cheese baby names!! WEDNESDAY!!* ⭐🦜📜🪨
-
----
-
-## New Resident Arrival Schedule 🌱
-
-| After Rotation | Who Arrives |
-|----------------|-------------|
-| Rotation 3 | 🌺🌸 Idris + Clara (building their house after Pebble House!!) |
-| Rotation 5 | 🐕 Theo + Barnaby |
-| Rotation 7 | 🖤 Sable + Ink |
-| Rotation 10 | 🌿 Edie + Arthur + Newton |
-| Rotation 12 | 🌱 Willa Meadow |
-| Rotation 13 | 🌕 Aesop + Sautoir + Eclipse |
-
----
-
 ## Community Lot Build Schedule 🏗️
 
 | After R | Lot | Status |
 |---------|-----|--------|
-| R2 | 🍺 The Golden Anchor | ✅ BUILT!! OPEN!! |
+| R2 | 🍺 The Golden Anchor | ✅ OPEN!! |
 | R4 | ☕ The Honeyed Crumb | ⬜ |
 | R6 | 📚 The Tidal Library | ⬜ |
 | R8 | 🛒 The Meadow Market | ⬜ |
@@ -359,57 +178,59 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 ---
 
+## Household Snapshots 📸
+*A living portrait of Sunnyside at the end of each rotation!!*
+
+### After Rotation 1 🌻
+**🌈 Sunshine Cottage** — *Iris has 1 pet best friend, a sunflower painting, a promotion, and a party want locked. Marigold slept on the floor by choice.* 🌻🐱
+**🎹 The Music Room** — *Kareem has a fall in love want locked, daisies in his inventory, a cat who dreams about him, and an empty bedside table. He went to the park. Nobody was there.* 🎹🌼😭
+**🦇🍊 The Flat** — *AWiddleFrisbee has a negative memory: lousy party. Hugo has a positive memory: living room floor. Lessons learned.* 😂🐕
+**🌩️🔧 Storm and Wrench** — *Søren has a promotion, a demotion, and a piano. Wrench has a grudge, a red truck, and a hard hat he cried in. Andrea has 2 bolts.* 🌩️🔧💕
+**📜🪨 The Pebble House** — *Fourth has a shooting star want locked and a crush he hasn't acknowledged. Still-Here has a parrot and a car with a face. WEDNESDAY on the noticeboard.* 📜🪨🦜
+
+### After Rotation 2 ❄️
+**🌈 Sunshine Cottage** — *BFF, lighthouse painting, butterfly bracelet, great party memory. Drew a socialite's nose. No regrets.* 🌻🦋😂
+**🎹 The Music Room** — *Friends with Fourth and Talin. Honda in the driveway. Met Iris at Storm and Wrench. Daisies still in his pocket.* 🎹🌼❄️😭
+**🦇🍊 The Flat** — *Three promotions for Sim Liv. AWiddleFrisbee is a Lounge Singer. Hugo ate from the bin then slept in his garden house like an angel.* 😂🐕🌼
+**🌩️🔧 Storm and Wrench** — *Cockroaches. Penguin. Chesterfield sofa. Two demotions. Two hard hat cries. Kareem and Iris met here.* 🌩️🔧💕🐧😭
+**📜🪨 The Pebble House** — *Fourth and Sim Liv are best friends via one phone call. Still-Here mopped a ceiling and went on a dream date with zero bolts. He begged to go again.* 📜🪨🦜😂
+
+### After Rotation 3 🌻🌼💍👽 (Pebble House still to play!!)
+**🌈 Sunshine Cottage** — *Kitchen fire. Marigold slept through it. SpiderSim feminist awakening. §5,000 bonus. Her own series. Kareem kissed her in the sunflowers. The Lamborghini watched. BFF locked. Marigold 1/20.* 🌻🌼🔥🎨💛
+**🎹 The Music Room** — *Demoted for doing the right thing. Comfort soup. Iris came over awkwardly. Promoted back. Piano by the lamp, snow outside. Iris phoned him. Friends now. Daisies still waiting.* 🎹🌼📞❄️😭💛
+**🦇🍊 The Flat** — *Two Nature flatmates. AWiddleFrisbee electrocuted, went to work. Werewolf want locked. Sim Liv built a snowman after work because she wanted to. 2 bolts with Fourth. Watching carefully.* 🌿🌿⛄🐺😂💛
+**🌩️🔧 Storm and Wrench** — *Wrench in love at the diner. Proposed. Her feet left the ground. Bricklayer Level 2. Søren peed in a bush. Made friends with Kareem over a puzzle ball. Abducted. P.T. 83 sent child support. Cassian Hill born in an alien print cot under a UFO light. Søren held him with that look.* 🌩️🔧💍👽💚😭💛
+**📜🪨 The Pebble House** — *Still to play!! Fourth!! Still-Here!! Barnacle!! The shooting star!! WEDNESDAY!!* ⭐🦜📜🪨
+
+---
+
 ## The Golden Anchor 🍺⚓ ✅ OPEN!!
-*Beach road!! Built 19th–20th June 2026!! Full build details → sims_build.md!!*
-- Weathered cream render walls!! Diamond pane windows!! Dark roof!! Red phone box outside!! 📞
-- Stage with red and yellow spotlights!! Piano!! Guitar!! Drums!! Keyboard!! Microphone!!
-- Dance floor!! Jukebox!! Two pool tables!! Darts board!! Fruit machines!!
-- Søren's corner — back right!! Gallery wall!! Ship's wheel!! Candle!! One pint!! 🌩️
-- Found family table — centre!! Chaotic!! Nobody's sure whose round it is!!
-- Bar — U-shaped!! Brass foot rail!! Porthole door to kitchen!! Chalkboard menus!! Life ring!! Wine rack!! Maren's domain!!
-- Upstairs — ladies + gents toilets!! Maren's staff room (colourful chairs, her kingdom!!)!!
-- Beer garden — picnic benches!! Fairy lights!! Hanging baskets!! Window boxes!!
-- Sea view terrace — bistro tables!! Parasols!! Right on the waterfront!! 🌊
-- **Maren:** Knows everyone's order!! Every secret!! When not to ask questions!! Cardamom buns without being asked for Kareem!! 😭💛
-- **First musician on the stage: Kareem Osei, Rotation 3, Sunday afternoon!! Nobody asked!! He just sat down!!** 🎹⚓
+*Full build details → sims_build.md!!*
+- Beach road!! Cream render!! Red phone box!! Stage with spotlights!! Søren's corner!! Found family table!! Beer garden!! Sea view terrace!!
+- **Maren** knows everyone's order!! Cardamom buns without being asked for Kareem!! 😭💛
+- **First musician: Kareem Osei, Rotation 3, Sunday afternoon!! Nobody asked!! He just sat down!!** 🎹⚓😭
 
 ---
 
 ## Sunnyside Dreams 🌟
-
-- Iris befriends everyone and throws parties at Sunshine Cottage!!
-- Still-Here sits in Marigold's chair and gets told off!! 😂
-- AWiddleFrisbee and Hugo — best friends forever!! 🐕
+- ✅ Kareem on the stage at The Golden Anchor!! Nobody asked!! 🎹⚓😭
+- ✅ Wrench and Andrea engaged!! Her feet left the ground!! 💍💕😭
+- ✅ Cassian Hill born!! Little green boy under a UFO light!! 👽💚😭
+- AWiddleFrisbee becomes a werewolf!! 🐺 (locked!!)
 - Iris has an art show — Kareem stands in front of her painting for a long time then holds her hand!! 😭
-- Sunnyside winter — snow!! Hugo loses all dignity about it!!
-- Still-Here wears the clown suit to The Golden Anchor with complete confidence!!
 - Baby Lyra born at Sunshine Cottage — Marigold appoints herself guardian!!
-- Edie and Arthur at the door with something homemade when Lyra arrives!!
-- ✅ **KAREEM ON THE STAGE AT THE GOLDEN ANCHOR!! Rotation 3!! Nobody asked!! He just sat down!!** 🎹⚓😭
-- ✅ **WRENCH AND ANDREA ENGAGED!! Rotation 3!! Her feet left the ground!!** 💍💕😭
-- ✅ **CASSIAN HILL BORN!! Rotation 3!! Little green boy under a UFO light!!** 👽💚😭
-- AWiddleFrisbee becomes a werewolf!! 🐺 (want LOCKED!!)
-- AWiddleFrisbee tells Sim Liv about Still-Here and Willa within four minutes!! 😂
-- Søren says one devastating sentence at The Golden Anchor and goes back to his pint!! 😂
-- Maren puts two cardamom buns on the plate without being asked!! Kareem goes very pink!! 😭💛
-- Sim Liv and AWiddleFrisbee in matching bear pyjamas watching Brooklyn 99 with Hugo taking up the whole sofa!! 😭💛
-- Søren finds a ghost and has philosophical opinions about it!!
-- Wrench builds a robot and it ends up somewhere in the house and Søren pretends not to notice!!
-- Existential Dread the fish watches Immanuel!! Immanuel watches back!! Cassian watches both!! 😭💚
-- Barnacle says something unhinged at an inappropriate moment at The Golden Anchor!! Nobody is surprised!! 🦜
-- Fourth organises something!! Still-Here undoes it!! Fourth reorganises!! This is their whole dynamic!! 😂
-- Still-Here juggles at a neighbourhood party!! Everyone watches!! Barnacle is unsurprised!! 🤹
-- Kareem gives someone the daisies from his inventory!! 😭🌼
-- Søren and Fourth have a very serious conversation about the sky at The Tidal Library!! 🔭⭐
-- Andrea Hogan comes over when Wrench has had a bad day!! She just shows up!! 💕🔧
 - Wrench and Andrea's wedding!! The whole found family!! 💍🎉
 - Wrench and Andrea move into their own home!! Sunflowers in the kitchen!! 🌻🏠
-- Cassian Hill grows up!! First day of school!! Søren reads him philosophy at bedtime!! 💚📚
+- Cassian Hill grows up!! Søren reads him philosophy at bedtime!! 💚📚
 - Søren gets abducted again!! He wants to!! 👽🔭
-- Immanuel watching Cassian toddle around!! Immanuel has opinions!! Cassian is unbothered!! 😤💚
-- Still-Here drives the Couch Car to The Golden Anchor!! Nobody comments!! 🛋️😂
+- Immanuel watching Cassian toddle around with opinions!! 😤💚
+- Still-Here wears the clown suit to The Golden Anchor!! Nobody comments!!
+- Still-Here drives the Couch Car!! Barnacle has seen worse!! 🛋️😂
+- Fourth organises something!! Still-Here undoes it!! This is their whole dynamic!! 😂
+- Kareem gives someone the daisies from his inventory!! 😭🌼
+- Søren says one devastating sentence at The Golden Anchor and goes back to his pint!! 😂
 - The whole found family at The Golden Anchor on a Friday!! Nobody planned it!! 😭💛
 
 ---
 
-*Updated 20th June 2026 — Rotation 3 ALMOST COMPLETE!! Four households done!! Pebble House tomorrow!! Sunflower kiss!! Kitchen fire!! Marigold 1/20!! SpiderSim feminist awakening!! Two Nature flatmates!! AWiddleFrisbee werewolf want locked!! Wrench and Andrea IN LOVE and ENGAGED!! Her feet left the ground!! Søren peed in a bush!! Puzzle ball with Kareem!! ABDUCTED BY ALIENS!! P.T. 83 child support from space!! CASSIAN HILL BORN!! Little green boy!! Son of Søren and P.T. 83!! UFO light!! Alien print cot!! Søren held him with that look!! The most extraordinary Saturday in Sunnyside!! 🌻🌼💍👽💚🔧🐺⛄😭💛*
+*Updated 20th June 2026 — Rotation 3 almost complete!! Sunflower kiss!! Cassian Hill born!! Wrench and Andrea engaged!! AWiddleFrisbee werewolf!! Two Nature flatmates!! Søren peed in a bush and got abducted!! The most extraordinary Saturday in Sunnyside!! 🌻💍👽💚🐺😭💛*
