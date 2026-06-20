@@ -26,7 +26,8 @@
 
 ## Aspiration Benefits 📊
 *By aspiration type — costs 1 point each, unlock bottom to top within each column!!*
-*⚠️ Secondary aspiration columns only go up to Tier 3 — Tier 4 unavailable!!*
+
+*⚠️ Secondary aspiration mechanic: choosing a secondary uses one benefit slot!! This means only Tiers 1-3 of that column are accessible — Tier 4 is never available as secondary!!*
 
 ### Needs Column (all aspirations)
 | Tier | Benefit |
@@ -69,10 +70,53 @@
 | 3 | Can make 3-way calls!! 📞 |
 | 4 | Makes friends faster!! |
 
-### Secondary Aspiration
-*Costs 1 point — unlocks that aspiration's column up to Tier 3!!*
-Options: Knowledge · Popularity · Romance · Fortune · Pleasure · Grilled Cheese 😂
-*Choose wisely!! Cannot be undone!!*
+### Fortune Column
+*⚠️ Tiers 1-3 only when taken as secondary aspiration!!*
+| Tier | Benefit |
+|------|---------|
+| 1 | 💰 Bump in salary!! |
+| 2 | Slower need decay — Fun + Comfort |
+| 3 | 💻 Give financial advice on the computer for cash!! |
+| 4 | ⚠️ NOT AVAILABLE as secondary aspiration!! |
+
+### Romance Column
+*⚠️ Tiers 1-3 only when taken as secondary aspiration!!*
+*⚠️ AWiddleFrisbee was horrified at the suggestion!! Noted for the record!! 😂*
+| Tier | Benefit |
+|------|---------|
+| 1 | 💕 Large boost in attraction with any Sim!! |
+| 2 | Slower need decay — Hygiene + Energy |
+| 3 | 🚶 Local Legend — Sims of preferred gender more likely to walk past your house!! |
+| 4 | ⚠️ NOT AVAILABLE as secondary aspiration!! |
+
+### Pleasure Column
+*⚠️ Tiers 1-3 only when taken as secondary aspiration!!*
+| Tier | Benefit |
+|------|---------|
+| 1 | 🏃 Fast metabolism — lose weight quicker!! |
+| 2 | Slower need decay — Bladder + Energy |
+| 3 | 📖 Write a restaurant guide and earn money from it!! |
+| 4 | ⚠️ NOT AVAILABLE as secondary aspiration!! |
+
+### Grilled Cheese Column 🧀
+*⚠️ Tiers 1-3 only when taken as secondary aspiration!!*
+*⚠️ Also the ReNuYuSenso Orb failure state!! The Orb gives it as a punishment!! Somehow Tier 3 is just art!! 😂*
+| Tier | Benefit |
+|------|---------|
+| 1 | 🧀 Get fat much slower than normal Sims!! |
+| 2 | Slower need decay — Bladder |
+| 3 | 🎨 Can paint grilled cheese on the easel!! 😂 |
+| 4 | ⚠️ NOT AVAILABLE as secondary aspiration!! |
+
+### Secondary Aspiration — Who Has What
+*Costs 1 benefit slot — unlocks that aspiration's column up to Tier 3!! Cannot be undone!!*
+
+| Sim | Primary | Secondary | Notes |
+|-----|---------|-----------|-------|
+| 🌈 Iris | Popularity | Family | Iris and Kareem holding each other's aspirations!! 😭 |
+| 🎹 Kareem | Family | Knowledge | Eureka + Impart Knowledge!! |
+| 🦇 Sim Liv | Family | Knowledge | Eureka for the Charisma grind!! Rotation 3!! |
+| 🍊 AWiddleFrisbee | Popularity | Knowledge | Eureka for Creativity!! Rotation 3!! Romance VETOED by AWiddleFrisbee herself!! 😂 |
 
 ---
 
@@ -137,4 +181,4 @@ Options: Knowledge · Popularity · Romance · Fortune · Pleasure · Grilled Ch
 
 ---
 
-*Created 20th June 2026 — so we never have to type the rewards list out again!! 😂💛 Updated as we discover new mechanics!!*
+*Created 20th June 2026 — so we never have to type the rewards list out again!! 😂💛 Updated 20th June 2026 — Fortune, Romance, Pleasure and Grilled Cheese columns added!! Secondary aspiration mechanic clarified!! AWiddleFrisbee's veto of Romance noted for posterity!! 😂💛*
