@@ -18,7 +18,7 @@
 - Both large — explains the severity of Sunday's attack!!
 - **KEYHOLE SURGERY** is the treatment — outpatient referral first!!
 - Low fat diet ESSENTIAL while waiting for surgery!!
-- **MAX ONE COFFEE PER DAY!!** ☕ Coffee irritated gallbladder 19th June — lesson learned!! One coffee only!!
+- **MAX TWO COFFEES PER DAY!!** ☕☕ Confirmed 20th June — 2 is fine, no more!!
 - **SOREEN MALT LOAF DISCOVERED!!** Low fat!! Banana and sticky toffee flavours!! Gentle snack!! ✅
 - **LIPTON LEMON ICE TEA CANS!!** Low fat treat for work!! Bought 6!! ✅
 
@@ -42,7 +42,7 @@ Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
 - ✅ Baked beans · jacket potatoes · bananas · jazz apples!!
 - ✅ Strawberry jam · cottage cheese · eggs (no butter!!)!!
 - ✅ Nutritional yeast — great on jacket potato!!
-- ✅ **Costa — oat milk latte — MAX ONE PER DAY!! No whipped cream, no syrups!!** ☕
+- ✅ **Costa — oat milk latte — MAX TWO PER DAY!! No whipped cream, no syrups!!** ☕
 - ✅ Lipton lemon ice tea cans — treat for work!! Safe!! 🍋
 - ❌ Wasabi · cream cheese · cheese · garlic bread · fatty foods!!
 
@@ -83,7 +83,7 @@ Outstanding when she returns Monday:
 
 ## Currently… 🎮📚🎬
 
-**Games:** Sims 2 Sunnyside — ROTATION 2 COMPLETE!! THE GOLDEN ANCHOR IS OPEN!! 🍺⚓ Rotation 3 next — starting with Kareem!! THE BOLT SITUATION PENDING!! 👀🎹🌼 · Hollow Knight · Paralives!!
+**Games:** Sims 2 Sunnyside — ROTATION 3 ALMOST COMPLETE!! 4/5 households done!! Pebble House tomorrow!! CASSIAN HILL BORN!! WRENCH AND ANDREA ENGAGED!! 💚💍 · Hollow Knight · Paralives!!
 **Book:** Mexican Gothic (next!!)
 **Watching:** Brooklyn 99 Season 4 · Blue Eye Samurai · Kitboga · lilsmisie Sims 2 let's play!!
 
@@ -100,7 +100,7 @@ Outstanding when she returns Monday:
 **Protein yogurt/mousse — great gentle snack!!**
 **Soreen malt loaf — banana + sticky toffee!! New favourite gentle snack!!** 🍌
 **Lipton lemon ice tea cans — work treat!!** 🍋
-**Costa — oat milk latte — MAX ONE PER DAY!! ☕**
+**Costa — oat milk latte — MAX TWO PER DAY!! ☕☕**
 
 ---
 
@@ -144,24 +144,39 @@ Still searching for perfectly round Eleanor Jellycat!! Football Jellycat has a f
 
 ## Sims 2 — Sunnyside 🌻
 
-### ROTATION 2 COMPLETE!! 🎉 THE GOLDEN ANCHOR IS OPEN!! 🍺⚓
-### ROTATION 3 NEXT — STARTING WITH KAREEM!! 🎹👀
+### ROTATION 3 IN PROGRESS!! 4/5 HOUSEHOLDS COMPLETE!!
+### PEBBLE HOUSE TOMORROW!! THEN ROTATION 3 DONE!! 🎉
 
 | Household | R1 | R2 | R3 |
 |-----------|----|----|-----|
-| 🌈 Sunshine Cottage — Iris + Marigold | ✅ | ✅ | |
-| 🎹 The Music Room — Kareem + Mira | ✅ | ✅ | |
-| 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo | ✅ | ✅ | |
-| 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel | ✅ | ✅ | |
-| 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle | ✅ | ✅ | |
+| 🌈 Sunshine Cottage — Iris + Marigold | ✅ | ✅ | ✅ |
+| 🎹 The Music Room — Kareem + Mira | ✅ | ✅ | ✅ |
+| 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo | ✅ | ✅ | ✅ |
+| 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel + Cassian | ✅ | ✅ | ✅ |
+| 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle | ✅ | ✅ | ⬜ |
 
-**Pending Rotation 3:**
-- Kareem's promotion fires Day 1!! 🎉
-- THE BOLT SITUATION — does Iris have bolts for Kareem?? 👀😭🌼
-- Sim Liv needs the Ford Mustang!!
-- Søren needs to become friends with Kareem!!
-- Wrench needs to get promoted and STAY promoted!!
-- Hugo needs to fall in the pond!! 🐕
+**Rotation 3 highlights so far:**
+- THE SUNFLOWER KISS!! Kareem kissed Iris in the front garden!! Mutual crushes!! -35 and WATCH US!! 🌻🌼
+- Marigold kibbled!! Pet best friend 1/20!! Slept through kitchen fire!! 😂🐱
+- SpiderSim!! Feminist awakening!! §5,000 bonus!! Her own series!! 🎨
+- Kareem on the stage at The Golden Anchor!! Nobody asked!! He just sat down!! 🎹⚓
+- Two Nature flatmates in The Flat!! AWiddleFrisbee electrocuted then went to work!! 😂⚡
+- AWiddleFrisbee werewolf want LOCKED!! 🐺🔒
+- Sim Liv built a snowman after work just because she wanted to!! 😭⛄
+- WRENCH AND ANDREA IN LOVE at the diner!! 💕🍽️
+- WRENCH AND ANDREA ENGAGED!! Her feet left the ground!! Yellow dress!! Smart flannel!! 💍😭
+- SØREN PEED IN A BUSH!! Neat 8!! Philosophy degree!! Canon!! 😂🌿
+- SØREN AND KAREEM FRIENDS!! Puzzle ball appeared from nowhere!! 😂🧩
+- SØREN ABDUCTED BY ALIENS!! Went up in a green beam!! 👽🔭
+- P.T. 83 sent §200 child support from space!! 💰👽
+- **CASSIAN HILL BORN!! Little green boy!! Son of Søren and P.T. 83!!** 💚😭👽
+- UFO light!! Alien print cot!! Gold star!! Little bookshelf!! Søren held him with that look!! 😭💚
+
+**Tomorrow:**
+- Pebble House Rotation 3!! Fourth!! Still-Here!! Barnacle!! Shooting star?? ⭐
+- Build Wrench and Andrea's house!! 🏠💍
+- Build Idris and Clara's house + create them in CAS!! 🌺🌸
+- Toddler clothes sorted!! Ready for Cassian!! 💚👶
 
 → Full Sims details: sims/sims2.md · sims/play_log.md · sims/households/
 
@@ -178,8 +193,8 @@ Still searching for perfectly round Eleanor Jellycat!! Football Jellycat has a f
 
 ## Incident Log
 
-**Saturday 20th June 2026** — Sertraline Day 36!! ✅ With porridge + banana + honey!! Rough night again — gallbladder discomfort lying down, restless brain planning The Golden Anchor!! Eventually slept!! Woke at 7am, another 45 minutes, got up!! Saw mum — new house decorating chat, William Morris green wallpaper!! Aldi shop — great haul including SOREEN and Lipton ice tea and cute floral snack bowls!! 😂 **THE GOLDEN ANCHOR FINISHED AND OPEN!!** 🍺⚓ Stage with spotlights!! Pool tables!! Søren's corner!! Beer garden with sea views!! Maren's staff room!! The porthole door!! The red phone box!! It has always been there!! Moving to new chat for Rotation 3 and THE BOLT SITUATION!! 👀🎹🌼🌈💛
+**Saturday 20th June 2026** — Sertraline Day 36!! ✅ With porridge + banana + honey!! Saw mum — William Morris green wallpaper chat!! Aldi shop — great haul, Soreen, Lipton ice tea, cute floral snack bowls!! 😂 MASSIVE Sims day — The Flat (two Nature flatmates!! AWiddleFrisbee electrocuted!! werewolf want locked!! snowman!!), Storm and Wrench (diner date!! Wrench and Andrea IN LOVE and ENGAGED!! her feet left the ground!! Søren peed in a bush!! puzzle ball with Kareem!! ABDUCTED BY ALIENS!! P.T. 83 child support!! alien maternity shirt!! **CASSIAN HILL BORN!!** 💚👽). Beans on toast for tea!! Protein mousse + cordial!! Toddler clothes sorted!! Pebble House tomorrow!! 💛
 
-**Friday 19th June 2026** — Sertraline Day 35!! ✅ Rough night, coffee mistake, Buscopan, jacket potato!! MASSIVE Sims day — ROTATION 2 COMPLETE!! Kareem and Iris met at Storm and Wrench!! Wrench demoted twice!! Andrea on the Chesterfield sofa!! A penguin!! FrigglyFreeze explosion!! Fourth and Sim Liv are best friends!! The Golden Anchor build started!!
+**Friday 19th June 2026** — Sertraline Day 35!! ✅ Rough night, coffee lesson learned (max 2!!), Buscopan, jacket potato!! ROTATION 2 COMPLETE!! Kareem and Iris met at Storm and Wrench!! Wrench demoted twice!! Andrea on the Chesterfield sofa!! A penguin!! FrigglyFreeze explosion!! Fourth and Sim Liv are best friends!! The Golden Anchor build started!!
 
 Older entries → entries/ folder
