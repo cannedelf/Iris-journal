@@ -47,8 +47,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Yellow house!! Sunflowers outside!! Straight to adulthood!!
 - **Sim Iris moved in: 7th June 2026!!**
 - First autonomous action: hugged Marigold on the front porch!! 😭💛
-- **Career: Street Caricaturist — Level 3 pending Sunday Rotation 2!!** 🎨
-- **Lifetime want:** Make 20 Pet Best Friends!!
+- **Career: Comic Book Penciller — Level 4!! Her own series!! SpiderSim!!** 🎨
+- **Lifetime want:** Make 20 Pet Best Friends!! Marigold: 1/20!! 🐾
 
 ### 🎹 The Music Room — Kareem Osei + Mira ✅ COMPLETE!! MOVED IN!! 🎉
 - **Kareem moved in: 16th June 2026!!**
@@ -76,7 +76,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - **Sunflowers on the kitchen table for two** — placed without being asked!! 🌻
 - **Botanical prints in the downstairs WC** — of course!! 😂💛
 - **Empty bedside table** — the one that says everything!! 😭
-- **Bouquet of daisies in inventory** — his first arrangement!! Still waiting!! 😭🌼
+- **Bouquet of daisies in inventory** — his first arrangement!! He has a crush now!! The daisies are getting closer to finding a home!! 😭🌼
 - **Piano mod fixed!!** Atavera-CustomInstrumentHack removed!! Kareem can play!! 🎹
 - **Honda Accord in the driveway!!** Bought Rotation 2!! 🚗
 
@@ -159,7 +159,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Pet | Type | Owner | Notes |
 |-----|------|-------|-------|
-| 🌼 Marigold | Ginger tabby | Iris | Rainbow collar, Virgo!! Slept on Iris's bedroom floor by choice!! Toilet training in progress!! 😭💛🚽 |
+| 🌼 Marigold | Ginger tabby | Iris | Rainbow collar, Virgo!! **PET BEST FRIEND 1/20!!** Kibbled Rotation 3!! Slept through the kitchen fire!! 😭💛🔥🐱 |
 | 🐱 Mira | Egyptian Mau | Kareem | Silver spotted!! Genius · Lazy · Finicky · Unbothered!! Dreamed about Kareem on night 1!! 😭💛 |
 | 😤 Immanuel | Grey British Shorthair | Søren | Judgmental!! Smooched on move-in day!! Had the BEST TIME during the cockroach infestation!! 😂 |
 | 🐕 Hugo | Springer spaniel inspired | AWiddleFrisbee | Friendly MAX · Hyper MAX · Pigpen MAX · Doofus MAX!! Named after real Hugo!! Bay window king!! Ate from the bin!! Attacked the rug!! Slept in garden house like an angel!! 😂🐕 |
@@ -174,7 +174,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 | 🐕 Barnaby | Golden retriever | Theo | Future — Rotation 5!! |
 | 🐱 Newton | Old dignified cat | Edie & Arthur | Future — Rotation 10!! |
 
-**Iris lifetime want: 20 pet best friends!!** Marigold: 1!! 😭🐾
+**Iris lifetime want: 20 pet best friends!!** Marigold: **1/20!!** 😭🐾
 
 ---
 
@@ -183,7 +183,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Sim | Car | Status | Notes |
 |-----|-----|--------|-------|
-| 🌈 Iris | 1967 Lamborghini Miura | ✅ | Sleek, golden, slightly ridiculous!! Very her!! |
+| 🌈 Iris | 1967 Lamborghini Miura | ✅ | Sleek, golden, slightly ridiculous!! Witnessed the sunflower kiss!! 😭🌻 |
 | 🎹 Kareem | 2002 Honda Accord | ✅ R2 | Sensible!! Has books in it!! 🚗 |
 | 🦇 Sim Liv | 1976 Ford Mustang | ⬜ Buy R3 | A little bit unhinged!! Completely correct!! |
 | 🍊 AWiddleFrisbee | 1971 Nissan Skyline 2000GT-R | ✅ | Vintage chaos energy!! |
@@ -198,9 +198,12 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 ## Sim Iris — Miss Iris Golden Rainbow 🌈
 
 - Peach-orange skin · Sunset ombre hair · Yellow eyes · Rosy cheeks · Yellow bow!!
-- **Aspiration:** Popularity!! · **Career: Street Caricaturist — Level 3 pending Sunday!!** 🎨
-- **Lifetime want:** Make 20 pet best friends!! 🐾
+- **Aspiration:** Popularity + Family (secondary!!) 💛
+- **Career: Comic Book Penciller — Level 4!! Her own series!! SpiderSim!!** 🎨
+- **Lifetime want:** Make 20 pet best friends!! Marigold: 1/20!! 🐾
 - **Star sign:** Libra!! Same as Liv!! 💛
+- **Turn-ons:** Brown hair · Creativity!! **Turn-off:** Cologne!!
+- *Kareem has brown hair + Creativity 6 and doesn't wear cologne!! The game knew!!* 😭🌼
 
 ### Personality (25 points)
 | Trait | Score |
@@ -221,9 +224,8 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - **Lifetime want:** Reach Golden Anniversary!! 💛
 - **Degree:** Literature!!
 - **Hidden genes:** Blonde + lilac eyes from mum Claire!! Rainbow babies possible!! 😭💛
-- **Has a bouquet of daisies in his inventory!!** Still waiting!! 😭🌼
-- **Met Iris at Storm and Wrench, Rotation 2!!** They spoke!! The daisies were nearby!! 😭
-- **Friends with Iris, Rotation 3!!** She phoned him!! Tuesday evening!! 📞😭🌼
+- **Has a bouquet of daisies in his inventory!!** He has a crush now!! Getting closer!! 😭🌼
+- **Kissed Iris in the sunflowers, Rotation 3!!** The -35 and watch us!! 🌻🌼🎹🌈
 
 ### Personality (25 points)
 | Trait | Score |
@@ -282,7 +284,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | Household | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8 |
 |-----------|----|----|----|----|----|----|----|----|
-| 🌈 Sunshine Cottage | ✅ | ✅ | | | | | | |
+| 🌈 Sunshine Cottage | ✅ | ✅ | ✅ | | | | | |
 | 🎹 The Music Room | ✅ | ✅ | ✅ | | | | | |
 | 🦇🍊 The Flat | ✅ | ✅ | | | | | | |
 | 🌩️🔧 Storm & Wrench | ✅ | ✅ | | | | | | |
@@ -327,10 +329,13 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 **📜🪨 The Pebble House**
 *Fourth is best friends with Sim Liv, has 2 bolts with a good witch who is an elder, and has discovered two unknown stars but not a shooting one. Still-Here caused a frozen explosion, mopped a ceiling, and took Benjamin on a dream date in a magician suit. He had the best time of his life and has zero bolts.* 📜🪨🦜😂
 
-### After Rotation 3 (Music Room only so far) 🎹
+### After Rotation 3 🌻🌼
+
+**🌈 Sunshine Cottage**
+*The kitchen caught fire on Monday morning. Marigold slept through it. Iris came home promoted to Comic Book Penciller, had a feminist awakening while pencilling SpiderSim issue 172, drew women her way, got her own series and a §5,000 bonus. Kareem came over and kissed her in the sunflowers. The Lamborghini watched. She went to bed as his best friend with BFF locked and a crush on the man with daisies in his inventory. Marigold is pet best friend 1 of 20.* 🌻🌼🎨🔥🐱💛
 
 **🎹 The Music Room**
-*Kareem got demoted for doing the right thing on his first day as Level 3 Teacher, ate comfort soup for lunch, had an awkward first visit from Iris, went back to work, got promoted to Level 2 again, played piano by the lamp with the snow outside, looked at the stars, and then Iris phoned him. They're friends now. The daisies are still in his inventory.* 🎹🌼📞❄️😭💛
+*Kareem got demoted for doing the right thing on his first day as Level 3 Teacher, ate comfort soup for lunch, had an awkward first visit from Iris, went back to work, got promoted to Level 2 again, played piano by the lamp with the snow outside, looked at the stars, and then Iris phoned him. They're friends now. He has a crush. The daisies are still in his inventory but they have somewhere to go.* 🎹🌼📞❄️😭💛
 
 ---
 
@@ -376,6 +381,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Beer garden — picnic benches!! Fairy lights!! Hanging baskets!! Window boxes!!
 - Sea view terrace — bistro tables!! Parasols!! Right on the waterfront!! 🌊
 - **Maren:** Knows everyone's order!! Every secret!! When not to ask questions!! Cardamom buns without being asked for Kareem!! 😭💛
+- **First musician on the stage: Kareem Osei, Rotation 3, Sunday afternoon!! Nobody asked!! He just sat down!!** 🎹⚓
 
 ## The Honeyed Crumb ☕🍯
 - Søren finds it immediately!! Cardamom bun every Thursday!! **Maren** knows everyone's order!! Kareem and Iris always end up sharing half of each other's order!! 😭💛
@@ -417,5 +423,5 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 ---
 
-*Updated 20th June 2026 — Rotation 3 Music Room COMPLETE!! Kareem sat down at the stage himself and played!! Best friends with Fourth in the pub on the first Sunday!! Monday never happened!! Iris came over!! Iris PHONED HIM!! FRIENDS WITH IRIS!! The daisies are still in his inventory and the bedside table is still empty but she called him on a Tuesday night and that's everything!! 🎹🌼📞❄️💛*
+*Updated 20th June 2026 — Rotation 3 Sunshine Cottage and Music Room COMPLETE!! Kareem on the stage at The Golden Anchor!! Iris kissed in the sunflowers!! Marigold slept through the kitchen fire!! SpiderSim feminist awakening!! §5,000 bonus!! Her own series!! Mutual crushes!! Best friends!! The -35 and watch us!! 🌻🌼🎹🌈🔥🐱💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
