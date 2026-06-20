@@ -15,6 +15,7 @@
 - **The Windmill:** 🌬️ Decorative neighbourhood object placed next to The Music Room!! CANON LORE — the windmill was there first!! That's why the mill building exists!! Kareem's house was built to service it!! The windmill just stayed when the mill was converted!! Kareem doesn't even notice it anymore!!
 - **Vacation worlds:** Twikkii Island + Three Lakes + Takemizu Village — added for holidays!! Residents can travel!! 🌴🏔️🎋
 - **First snow:** Rotation 2!! The whole neighbourhood went white!! The park filled up!! Hugo has not yet fallen in the pond!! ❄️🐕
+- **The Golden Anchor:** ✅ OPEN!! Beach road!! Built 19th–20th June 2026!! 🍺⚓
 
 ---
 
@@ -46,7 +47,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Yellow house!! Sunflowers outside!! Straight to adulthood!!
 - **Sim Iris moved in: 7th June 2026!!**
 - First autonomous action: hugged Marigold on the front porch!! 😭💛
-- **Career: Street Caricaturist — Level 2!! Promotion fires Sunday Rotation 2!!** 🎨
+- **Career: Street Caricaturist — Level 3 pending Sunday Rotation 2!!** 🎨
 - **Lifetime want:** Make 20 Pet Best Friends!!
 
 ### 🎹 The Music Room — Kareem Osei + Mira ✅ COMPLETE!! MOVED IN!! 🎉
@@ -110,7 +111,6 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - AWiddleFrisbee has a beddrobe AND a floordrobe!!
 - Hugo's dog house under the tree in the back garden!!
 - Sunflower row along the back wall — grew there by themselves!!
-- The colour story: teal → front door → living room wainscoting → bathroom tiles → NISSAN SKYLINE!! 😂
 - **AWiddleFrisbee's car: 1971 Nissan Skyline 2000GT-R!!** Vintage chaos energy!! Completely her!!
 - **Florist bench in the flat!!** Sim Liv making DAISIES!! 😭🌼 Kareem has daisies too!! They don't know!!
 - **Snoozer party, Rotation 1 Day 3!!** Lessons learned!! 😭😂
@@ -345,7 +345,7 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 | After R | Lot | Status |
 |---------|-----|--------|
-| R2 | 🍺 The Golden Anchor | ⬜ Build now!! |
+| R2 | 🍺 The Golden Anchor | ✅ BUILT!! OPEN!! |
 | R4 | ☕ The Honeyed Crumb | ⬜ |
 | R6 | 📚 The Tidal Library | ⬜ |
 | R8 | 🛒 The Meadow Market | ⬜ |
@@ -358,8 +358,18 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 
 ---
 
-## The Golden Anchor 🍺⚓
-- Beach road!! Søren's corner table!! Friday nights whole family!! Still-Here arrived in the magician outfit once!! Nobody said anything!!
+## The Golden Anchor 🍺⚓ ✅ OPEN!!
+*Beach road!! Built 19th–20th June 2026!! Full build details → sims_build.md!!*
+- Weathered cream render walls!! Diamond pane windows!! Dark roof!! Red phone box outside!! 📞
+- Stage with red and yellow spotlights!! Piano!! Guitar!! Drums!! Keyboard!! Microphone!!
+- Dance floor!! Jukebox!! Two pool tables!! Darts board!! Fruit machines!!
+- Søren's corner — back right!! Gallery wall!! Ship's wheel!! Candle!! One pint!! 🌩️
+- Found family table — centre!! Chaotic!! Nobody's sure whose round it is!!
+- Bar — U-shaped!! Brass foot rail!! Porthole door to kitchen!! Chalkboard menus!! Life ring!! Wine rack!! Maren's domain!!
+- Upstairs — ladies + gents toilets!! Maren's staff room (colourful chairs, her kingdom!!)!!
+- Beer garden — picnic benches!! Fairy lights!! Hanging baskets!! Window boxes!!
+- Sea view terrace — bistro tables!! Parasols!! Right on the waterfront!! 🌊
+- **Maren:** Knows everyone's order!! Every secret!! When not to ask questions!! Cardamom buns without being asked for Kareem!! 😭💛
 
 ## The Honeyed Crumb ☕🍯
 - Søren finds it immediately!! Cardamom bun every Thursday!! **Maren** knows everyone's order!! Kareem and Iris always end up sharing half of each other's order!! 😭💛
@@ -396,8 +406,10 @@ Widdle Frisbee, Fourth and Still-Here!! **Parents: Dennis and Janet Frisbee!!**
 - Wrench gets his promotion back and doesn't say anything about it but Søren notices!! 🔧💛
 - Still-Here drives the Couch Car to The Golden Anchor!! Nobody comments!! Barnacle has seen worse!! 🛋️😂
 - Søren invites Kareem over again!! They sit at the kitchen table and talk until the kettle boils twice!! 😭🎹🌩️
+- The whole found family at The Golden Anchor on a Friday!! Nobody planned it!! It just became the thing!! 😭💛
+- Wrench and Andrea at a bistro table in the beer garden watching the sea!! She found him there!! She always finds him there!! 💕🌊
 
 ---
 
-*Updated 19th June 2026 — ROTATION 2 COMPLETE!! All five households!! Kareem and Iris met at Storm and Wrench!! Wrench demoted twice for integrity!! Andrea on the Chesterfield!! Cockroaches!! A penguin!! FrigglyFreeze explosion!! Dream date zero bolts!! Dorothy the Good Witch!! Fourth is best friends with Sim Liv!! The daisies are still in his inventory!! 🌈🎹🦇🍊🌩️🔧📜🪨❄️💛*
+*Updated 20th June 2026 — THE GOLDEN ANCHOR IS OPEN!! Beach road!! Sea views!! Søren's corner!! Kareem's stage!! The porthole door!! The red phone box!! Maren's staff room!! The fruit machines!! It has always been there!! Rotation 3 next — starting with Kareem!! 🍺⚓🎹🌈💛*
 *File split 13th June 2026 — Living world here, build bible in sims_build.md!!*
