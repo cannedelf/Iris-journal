@@ -1,5 +1,5 @@
 # The Pebble House 📜🪨
-*Fourth Frisbee + Still-Here Frisbee + Barnacle*
+*Fourth Frisbee + Still-Here Frisbee + Barnacle + 🖤 Footnote*
 *Updated as we play!! Full Sunnyside lore → sims2.md · Build bible → sims_build.md*
 
 ---
@@ -9,9 +9,9 @@
 | | |
 |--|--|
 | **Address** | The Pebble House, Sunnyside 🌞 |
-| **Residents** | Fourth Frisbee 📜 · Still-Here Frisbee 🪨 · Barnacle 🦜 |
+| **Residents** | Fourth Frisbee 📜 · Still-Here Frisbee 🪨 · Barnacle 🦜 · Footnote 🖤 |
 | **Moved in** | 18th June 2026 |
-| **Subtitle** | "Two people who shouldn't work together but completely do. One of them is very tidy. The other one owns a parrot. The parrot has opinions." |
+| **Subtitle** | "Two people who shouldn't work together but completely do. One of them is very tidy. The other one owns a parrot. The parrot has opinions. The kitten has more." |
 
 ---
 
@@ -35,6 +35,21 @@
 ### Aspiration
 - **Knowledge!!** · **Lifetime want:** Max Out 7 Skills!! 📚
 
+### Aspiration Benefits Purchased
+| Tier | Benefit | Status |
+|------|---------|--------|
+| K1 | Slower Fun + Social decay | ✅ R3 |
+| K2 | Impart Knowledge | ✅ R3 |
+| K3 | Eureka — faster skill building!! | ✅ R3 |
+| K4 | Summon Aliens | ✅ R3 👽 |
+| Needs T1 | Slower Social + Comfort decay | ✅ R3 |
+
+### Aspiration Rewards Purchased
+| Item | Cost | Notes |
+|------|------|-------|
+| 🎓 Thinking Cap | §16,000 | Shared household item!! Skill learning dramatically increased!! |
+| 🌳 Money Tree | §3,000 | Fourth's bedroom!! Barnacle cannot reach it!! |
+
 ### Career
 - **Law — Legal Secretary, Level 3!!** ⚖️ Promoted Rotation 2!! 🎉
 
@@ -52,6 +67,7 @@
 | 🪨 Still-Here | Sibling | They live together!! | Fourth organises!! Still-Here undoes it!! |
 | 🍊 AWiddleFrisbee | Sibling | Sister!! | |
 | 🦜 Barnacle | Pet | In progress!! | |
+| 🖤 Footnote | Pet | **NEW!! His cat!!** | Genius · Independent · Finicky · Black kitten · Fourth in cat form!! 😭 |
 | 🦇 Sim Liv | **BEST FRIENDS!!** 💛 | BFF!! Crush!! Wants to flirt!! | She called him!! He was SO happy!! Can never happen!! Noted!! 😂😭 |
 | 🧙‍♀️ Dorothy | Acquaintance | 2 BOLTS!! | Good witch!! ELDER!! Met at food store!! Cannot happen!! Also noted!! 😂 |
 
@@ -60,7 +76,7 @@
 
 ### Locked Wants
 - 🔒 **See a shooting star!!** ⭐ — still pending!! Telescope every night!!
-- 🔒 **Adopt a kitten or puppy!!** 🐱🐕 — save up!!
+- ✅ ~~Adopt a kitten or puppy!!~~ — **FOOTNOTE ARRIVED!!** 🖤🐱
 
 ---
 
@@ -82,6 +98,22 @@
 
 ### Aspiration
 - **Pleasure!!** · **Lifetime want:** Become a Professional Party Guest!! 🎉
+- **Secondary: Popularity!!** Unlocked Rotation 3!! 🎵🎉
+
+### Aspiration Benefits Purchased
+| Tier | Benefit | Status |
+|------|---------|--------|
+| Secondary | Popularity column unlocked!! | ✅ R3 |
+| P1 | Fast metabolism | ✅ R3 |
+| P2 | Slower Bladder + Energy decay | ✅ R3 |
+| P3 | Write a restaurant guide for money!! | ✅ R3 |
+| P4 | 🎵 Learn a rowdy folk song — increases group friendship faster!! | ✅ R3 |
+
+### Aspiration Rewards Purchased
+| Item | Cost | Notes |
+|------|------|-------|
+| 😎 Cool Shades | §10,000 | First social interaction amplified positive!! Walk into every room and charm everyone!! |
+| 🌳 Money Tree | §3,000 | Still-Here's bedroom!! Somehow!! |
 
 ### Career
 - **Slacker — Record Store Clerk, Level 4!!** 🎵 Promoted Rotation 2!! 🎉
@@ -92,12 +124,18 @@
 | Mechanical | 1 | ✅ Lost in FrigglyFreeze explosion!! Got it back!! 😂💥 |
 | Charisma | 1 | ✅ |
 
+### Rotation 3 Skill Goals
+- **Charisma to 2!!** (promotion requirement!!)
+- **Creativity to 1!!** (promotion requirement!!)
+- Use the Thinking Cap!! 🎓
+
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 📜 Fourth | Sibling | They live together!! | |
 | 🍊 AWiddleFrisbee | Sibling | Sister!! | |
 | 🦜 Barnacle | Pet | BEST FRIENDS!! | Rules the house together!! 👑 |
+| 🖤 Footnote | Pet | In progress!! | Fourth's cat but Still-Here will absolutely try!! 😂 |
 | 🧑 Benjamin Kirby | Friend!! | Crush (one sided!!) | Dream date!! Zero bolts!! He begged to go again!! 😂💕 |
 
 ### Promotion Requirements — Slacker Level 5
@@ -105,7 +143,7 @@
 
 ### Locked Wants
 - 🔒 **Throw a party!!** 🎉
-- 🔒 **Get a pet!!** 🐾
+- ✅ ~~Get a pet!!~~ — **FOOTNOTE COUNTS!!** 🖤🐱
 
 ---
 
@@ -138,6 +176,20 @@
 - Was in the downstairs loo Day 1!! The cage is a suggestion!!
 - Best friends with Still-Here!!
 - Has opinions about the pond!!
+- Has opinions about Footnote!!
+
+---
+
+## Footnote 🖤🐱
+*Fourth's cat!! Arrived Rotation 3!!*
+
+| | |
+|--|--|
+| **Colour** | Black!! |
+| **Personality** | Genius · Independent · Finicky |
+| **Owner** | Fourth — called to adopt, Fourth's cat, Fourth in cat form!! 😭 |
+| **Named by** | Iris Golden Rainbow, obviously!! 🌈 |
+| **Lore** | THE TEXT PEBBLE AND GARLIC BREAD has a Footnote!! Smart, self-sufficient, particular about everything. Sits on the alphabetical bookshelf judging everyone. Barnacle rules loudly from the window. Footnote rules quietly from the shelf. Fourth is in the middle trying to build Logic skill!! 😂 |
 
 ---
 
@@ -155,8 +207,9 @@
 - **BARNACLE'S CAGE** by the front window — maximum surveillance!! 🦜
 - **The noticeboard** — "WEDNESDAY" still unexplained!! Fourth has not asked!!
 - **Games console** · **Maid hired** (Fourth's idea, coping mechanism!!)
-- **Fourth's bedroom:** Forest green · alphabetical bookshelf · NOTHING ON THE FLOOR!!
-- **Still-Here's bedroom:** Two different walls · disco ball · neon UFO sign · chaos!!
+- **🎓 Thinking Cap** — Fourth's room!! Shared household item!! Skills dramatically faster!!
+- **Fourth's bedroom:** Forest green · alphabetical bookshelf · NOTHING ON THE FLOOR!! Money tree!! Thinking Cap!! Footnote on the bookshelf!!
+- **Still-Here's bedroom:** Two different walls · disco ball · neon UFO sign · chaos!! Money tree somehow!!
 
 ---
 
@@ -179,7 +232,7 @@
 - Still-Here got mechanical back!! ✅
 
 ### Day 2 ✅ — Friday
-- **Sim Liv phoned Fourth!!** He was SO happy!! 
+- **Sim Liv phoned Fourth!!** He was SO happy!!
 - **FOURTH AND SIM LIV ARE BEST FRIENDS!!** 😭😂
 - Fourth rolled want to flirt with Sim Liv!! Did NOT act on it!!
 - **Still-Here went on a DREAM DATE with Benjamin in the magician outfit!!** 🎩💕
@@ -196,23 +249,37 @@
 - **No shooting star yet!!** ⭐ Still trying!!
 - **Still-Here promoted to Record Store Clerk Level 4!!** 🎵🎉
 
-### Locks Carrying into Rotation 3
-**Fourth:**
-- 🔒 See a shooting star!! ⭐
-- 🔒 Adopt a kitten or puppy!! 🐱🐕
+---
 
-**Still-Here:**
-- 🔒 Throw a party!! 🎉
-- 🔒 Get a pet!! 🐾
+## Rotation 3 — In Progress!! 📜🪨🖤
+
+### Aspiration Points Day 1 ✅
+- **Fourth (25k points):** All 4 Knowledge tiers + Needs T1!! Thinking Cap §16,000!! Money Tree §3,000!!
+- **Still-Here (26k points):** Popularity secondary + all 4 Pleasure tiers including ROWDY FOLK SONG!! Cool Shades §10,000!! Money Tree §3,000!!
+
+### Pets Day 1 ✅
+- **FOOTNOTE ADOPTED!!** 🖤🐱 Black kitten!! Genius · Independent · Finicky!! Fourth's cat!!
+- Both pet locked wants satisfied in one adoption!! ✅
 
 ### Rotation 3 Goals
+- Still-Here: Charisma to 2 + Creativity to 1 for promotion!! Use the Thinking Cap!! 🎓
 - Fourth: shooting star!! Keep trying every night!! 🔭⭐
-- Fourth: find a pet when funds allow!! 🐱🐕
-- Fourth and Sim Liv: friends ONLY!! 😂
 - Still-Here: throw the party!! 🎉
 - Still-Here: sort out the Benjamin situation!! 💕
-- Barnacle: continue ruling everything!! 🦜👑
+- Barnacle and Footnote: establish the power dynamic!! 🦜🖤
+- WEDNESDAY: still unexplained!! Fourth has not asked!!
 
 ---
 
-*Updated 19th June 2026 — Rotation 2 COMPLETE!! Fourth best friends with Sim Liv!! Dorothy the Good Witch!! FrigglyFreeze explosion!! Dream date with zero bolts!! Two promotions!! Two unknown stars!! Shooting star still pending!! WEDNESDAY still unexplained!! 📜🪨🦜😂💛*
+### Locks Carrying into Rotation 3
+**Fourth:**
+- 🔒 See a shooting star!! ⭐
+- ✅ ~~Adopt a kitten or puppy!!~~ FOOTNOTE!! 🖤
+
+**Still-Here:**
+- 🔒 Throw a party!! 🎉
+- ✅ ~~Get a pet!!~~ FOOTNOTE COUNTS!! 🖤
+
+---
+
+*Updated 21st June 2026 — Rotation 3 in progress!! FOOTNOTE THE BLACK KITTEN ARRIVED!! Genius!! Independent!! Finicky!! Fourth's cat in Fourth's form!! Aspiration upgrades done!! Thinking Cap!! Cool Shades!! Two money trees!! WEDNESDAY still unexplained!! 📜🪨🖤🦜😂💛*
