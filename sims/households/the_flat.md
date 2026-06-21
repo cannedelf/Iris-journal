@@ -49,7 +49,7 @@
 |-----|------|--------|-------|
 | 🌈 Iris | BFF!! | Best friends!! | 😭💛 |
 | 🍊 AWiddleFrisbee | Household | Working toward BFF!! | 🔒 Locked!! |
-| 📜 Fourth | Crush!! | Best friends!! 2 bolts!! | Knowledge secondary made her Logical — his turn-on!! 😭😂 We let Sim Liv's wants decide!! |
+| 📜 Fourth | **IN LOVE!! 💕** | Came round during Pebble House R3!! ARC moodlet!! Couch!! | Knowledge secondary made her Logical — his turn-on!! Fell in love!! Midnight New Years kiss!! The game decided and we let it!! 😭💕 |
 
 ### Promotion Requirements — Business Level 5
 - ✅ Charisma 3!! (at 4 — above requirement!!)
@@ -76,9 +76,9 @@
 - 🔒 **Become best friends with AWiddleFrisbee!!** 🍊
 - ⬜ Slot open!!
 
-### The Fourth Situation 💛
-*Sim Liv has 2 bolts with Fourth after Knowledge secondary made her Logical — his turn-on!!*
-*Policy: if she rolls a want for Fourth, we do it!! If she doesn't, we hold off!! Sunnyside tells its own stories!!* 😭😂
+### The Fourth Situation 💕
+*Sim Liv went round to the Pebble House during R3!! ARC moodlet!! They fell in love on the couch!! Cloud watched in the garden!! Midnight New Years kiss!! She came home from the party in love with Fourth Frisbee!!*
+*Fourth has a proposal want locked. Sim Liv is in love. AWiddleFrisbee knows now. The game decided and we let it!!* 😭💕📜
 
 ---
 
@@ -113,6 +113,7 @@
 |-----|------|--------|-------|
 | 🦇 Sim Liv | Household | Friends!! Working toward BFF!! | |
 | 🌈 Iris | BFF!! | Best friends!! Fired quietly!! 😂😭🌈 | |
+| 🪨 Still-Here | **BEST FRIENDS!!** 🍊🪨 | Came round before the New Years Bash!! BFF want satisfied!! | Found out about Fourth and Sim Liv at the same party!! 😂😭 |
 | 🤝 Andrea Hogan | Townie | Friends!! Golden Anchor Day 2!! ⚓ | |
 | 🎹 Kareem | Acquaintance | Chat at The Golden Anchor!! | Day 2 of Rotation 3!! 🍺 |
 | 🔧 Wrench | Friend!! | Working toward best friends!! 🔒 | Called her!! 😭💛 |
@@ -247,6 +248,18 @@
 - **LOGIC 1!!** One more needed for promotion!! 🔭
 - Went to bed happy!! She's earned it!! 💛
 
+### During Pebble House Rotation 3 — Events Affecting The Flat!! 💕
+- **SIM LIV WENT ROUND TO THE PEBBLE HOUSE!!** ARC moodlet!! Fourth's ARC triggered when she arrived!! 💕
+- **FELL IN LOVE ON THE COUCH!!** Barnacle and Footnote both witnessed!! 🦜🖤
+- **CLOUD WATCHING IN THE GARDEN!!** Fourth in his pyjamas!! She had her arm around him!! He looked at the sky like he couldn't believe it was real!! 😭💕
+- **AWIDDLEFRISBEE CAME ROUND BEFORE THE NEW YEARS BASH!!** 🍊
+- **AWIDDLEFRISBEE AND STILL-HERE BECAME BEST FRIENDS!!** Want satisfied!! 🍊🪨💛
+- **NEW YEARS BASH AT THE PEBBLE HOUSE!!** Father Time attended!! 🎉⏳
+- **SIM LIV AND FOURTH MIDNIGHT KISS!!** 💕📜
+- **AWIDDLEFRISBEE FOUND OUT ABOUT FOURTH AND SIM LIV!!** 😂😭🍊 At the party!! Classic Sunnyside!!
+
+---
+
 ### Locks Carrying into Rotation 4
 - 🔒 Become best friends with AWiddleFrisbee!! 🍊 (Sim Liv)
 - 🔒 Become best friends with Wrench!! 🔧 (AWiddleFrisbee)
@@ -257,9 +270,10 @@
 - ⬜ Buy the Ford Mustang!! 🚗
 - ⬜ AWiddleFrisbee and Wrench BFF!! 🔧
 - ⬜ Find the werewolf in Sunnyside!! 🐺👀
-- ⬜ Watch Sim Liv's wants for any sign of Fourth!! 😂👀
+- ⬜ Watch Sim Liv's wants re: Fourth!! 💕📜
 - ⬜ Water the money tree!! 🌳💰
+- ⬜ AWiddleFrisbee processes the Fourth and Sim Liv situation!! 😂🍊
 
 ---
 
-*Updated 20th June 2026 — Rotation 3 COMPLETE!! Knowledge secondaries!! Two Nature flatmates!! AWiddleFrisbee electrocuted then went straight to work!! Werewolf want LOCKED!! Golden Anchor day off!! Sim Liv built a snowman after work just because she felt like it!! Charisma 4!! Logic 1!! Promotion SO close!! 🌿🐺⛄😂💛*
+*Updated 21st June 2026 — Rotation 3 COMPLETE!! Knowledge secondaries!! Two Nature flatmates!! AWiddleFrisbee electrocuted then went straight to work!! Werewolf want LOCKED!! Sim Liv built a snowman!! Charisma 4!! Logic 1!! AND THEN — Sim Liv fell in love with Fourth at the Pebble House!! Midnight New Years kiss!! AWiddleFrisbee became BFFs with Still-Here and found out about Fourth at the same party!! Sunnyside never misses!! 🌿🐺⛄💕😂💛*
