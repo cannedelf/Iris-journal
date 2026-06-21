@@ -117,7 +117,8 @@
 | 🎹 Kareem | Family | Knowledge | Eureka + Impart Knowledge!! |
 | 🦇 Sim Liv | Family | Knowledge | Eureka for the Charisma grind!! Rotation 3!! Accidentally gave her 2 bolts with Fourth!! 😂😭 |
 | 🍊 AWiddleFrisbee | Popularity | Knowledge | Eureka for Creativity!! Rotation 3!! Romance VETOED by AWiddleFrisbee herself!! 😂 |
-| 🪨 Still-Here | Pleasure | Popularity | All 4 Pleasure tiers including rowdy folk song!! Popularity column unlocked for future spending!! Professional Party Guest energy!! Rotation 3!! 🎵🎉 |
+| 🪨 Still-Here | Pleasure | Popularity | All 4 Pleasure tiers including rowdy folk song!! Popularity column unlocked for future spending!! Rotation 3!! 🎵🎉 |
+| 🌸 Clara | Family | Knowledge | Eureka for Natural Science skills!! Rotation 1!! 🌿🔬 |
 
 ---
 
@@ -144,12 +145,14 @@
 |-----|-------|---------------|-------|
 | 🦇 Sim Liv | 🌿 Nature | Florist bench!! | Already making daisies!! Completely her!! 🌿💛 |
 | 🍊 AWiddleFrisbee | 🌿 Nature | Money tree watering!! | After an EXTENSIVE investigation involving pottery, easels, telescopes, computers and electrocution!! Sloppy + Playful confirmed!! Two Nature flatmates!! 😭😂🌿 |
+| 🌺 Idris | 🎵 Music & Dance!! | Golden Anchor stage!! Rotation 1!! | Sang on the microphone without being asked!! He never volunteers!! Outgoing + not Serious = Music & Dance!! 🎤😭 |
 | 🌈 Iris | TBC | | Arts & Crafts predicted — Sloppy + Nice fits!! Comic Book Penciller!! 🎨 |
 | 🎹 Kareem | TBC | | Music & Dance predicted — Outgoing + Serious (Playful 0!!) fits perfectly!! 🎹 |
 | 🌩️ Søren | TBC | | Science predicted — Neat + Serious, fish called Existential Dread!! 🔬 |
 | 🔧 Wrench | TBC | | Tinkering predicted — Shy + Nice, cried in a hard hat!! 🔧 |
 | 📜 Fourth | TBC | | Film & Literature or Science predicted!! Very serious either way!! |
 | 🪨 Still-Here | TBC | | Games predicted — Playful + chaos energy!! 🎮 |
+| 🌸 Clara | TBC | | Science predicted — Neat + Serious + Biology degree + Natural Scientist!! 🔬 |
 
 ---
 
@@ -161,11 +164,13 @@
 | 🌈 Iris | Brown Hair | Creativity | Cologne | Kareem has brown hair + Creativity 6!! 😭🌼 |
 | 🎹 Kareem | Creativity | Jewellery | Stinkiness | Iris has Creativity + butterfly bracelet!! 😭🌼 |
 | 🌩️ Søren | Logical | Cologne | Unemployed | |
-| 🔧 Wrench | Mechanical | Fitness | Stinkiness | Andrea Hogan — 2 bolts!! 💕 |
-| 🦇 Sim Liv | Charisma | Logical | Vampires 😂 | Knowledge secondary made her Logical — accidentally 2 bolts with Fourth!! 😭😂 |
-| 🍊 AWiddleFrisbee | Cologne | Robots 😂 | Good at cleaning | |
-| 📜 Fourth | Logical | Good at cleaning | Stinkiness | Dorothy the Witch — 2 bolts (ELDER!!) 😂🧙‍♀️ · 2 bolts with Sim Liv after her Knowledge secondary!! 😭 |
-| 🪨 Still-Here | Cologne | Great dancer | Good at cleaning | Benjamin dream date — 0 bolts!! He begged to go again!! 😂 |
+| 🔧 Wrench | Mechanical | Fitness | Stinkiness | Andrea Hogan — 2 bolts!! 💕 · Clara 2 bolts (ENGAGED!! Cannot happen!!) 😂 |
+| 🦇 Sim Liv | Charisma | Logical | Vampires 😂 | Knowledge secondary made her Logical — 2 bolts with Fourth!! 😭😂 |
+| 🍊 AWiddleFrisbee | Cologne | Robots 😂 | Good at cleaning | Negative chemistry with Clara!! 😂 |
+| 📜 Fourth | Logical | Good at cleaning | Stinkiness | 2 bolts with Clara!! Won't talk to her!! Locked proposal for Sim Liv!! 😂😭 |
+| 🪨 Still-Here | Cologne | Great dancer | Good at cleaning | Benjamin — 0 bolts!! Begged to go again!! In love now!! 💕 |
+| 🌺 Idris | Logical | Cologne | Stinkiness | 1 bolt with Ivy!! Chemistry pending with Søren (Logical!!) and AWiddleFrisbee (Cologne + Libra/Aries!!) 👀 |
+| 🌸 Clara | Logical | Cleaning | Stinkiness | 2 bolts Fourth (unavailable!!) · 2 bolts Wrench (unavailable!!) · negative AWiddleFrisbee!! Waiting for Theo!! 😂😭🐕 |
 
 ---
 
@@ -207,13 +212,18 @@
 | Sim A | Sim B | Bolts | Notes |
 |-------|-------|-------|-------|
 | 🌈 Iris | 🎹 Kareem | ⚡ Negative | -35 penalty!! Fighting it anyway!! Already kissed in the sunflowers!! 😭🌻 |
-| 🔧 Wrench | Andrea Hogan | ⚡⚡ 2 bolts!! | Made out on the Chesterfield!! Canon!! 💕 |
+| 🔧 Wrench | Andrea Hogan | ⚡⚡ 2 bolts!! | Made out on the Chesterfield!! Canon!! 💕 ENGAGED!! |
 | 📜 Fourth | Dorothy the Witch | ⚡⚡ 2 bolts!! | She's an ELDER!! Cannot happen!! 😂🧙‍♀️ |
-| 🦇 Sim Liv | 📜 Fourth | ⚡⚡ 2 bolts!! | Accidentally created by Knowledge secondary!! We let Sim Liv's wants decide!! 😭😂 |
-| 🪨 Still-Here | Benjamin | ⚡ 0 bolts!! | Dream date!! He begged to go again!! 😂 |
+| 🦇 Sim Liv | 📜 Fourth | ⚡⚡ 2 bolts!! | Accidentally created by Knowledge secondary!! In love!! 💕😭 |
+| 🪨 Still-Here | Benjamin | ⚡ 0 bolts!! | Dream date!! In love at New Years!! 😂💕 |
+| 🌸 Clara | 📜 Fourth | ⚡⚡ 2 bolts!! | Fourth won't talk to her!! He loves Sim Liv!! Cannot happen!! 😂😭 |
+| 🌸 Clara | 🔧 Wrench | ⚡⚡ 2 bolts!! | Wrench is ENGAGED TO ANDREA!! Cannot happen!! 😂😭 |
+| 🌸 Clara | 🍊 AWiddleFrisbee | ⚡ Negative | Neat 7 vs Neat 1!! Cosmically opposed!! AWiddleFrisbee sat on her kitchen floor!! 😂 |
+| 🌺 Idris | 👩‍⚕️ Ivy | ⚡ 1 bolt!! | Work friend!! Mild chemistry!! Good colleagues!! |
 
 ---
 
 *Created 20th June 2026 — so we never have to type the rewards list out again!! 😂💛*
 *Updated 20th June 2026 — Fortune/Romance/Pleasure/Grilled Cheese columns added!! One True Hobby section added!! Known Chemistry table added!! Knowledge Tier 4 confirmed — SUMMON ALIENS!! Søren's destiny!! 👽🔭😭💛*
 *Updated 21st June 2026 — Pleasure Tier 4 confirmed: rowdy folk song!! 🎵 Still-Here secondary aspiration added: Popularity!! 🎉*
+*Updated 21st June 2026 — Idris Music & Dance OTH confirmed!! 🎤 Clara Knowledge secondary added!! Idris + Clara turn-ons added!! Chemistry table updated with Pressed Flowers!! 🌺🌸*
