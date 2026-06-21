@@ -1,284 +1,83 @@
-# Sunnyside Names 🌈
-*Baby name lists for every Sunnyside resident!! When two Sims have a child, cross-reference both lists to find the perfect name!!*
-*Updated 20th June 2026 💛*
+# Sunnyside — Names 🌿
+*Fresh start!! The old names file is gone — Sunnyside told its own story and we're documenting what actually happened!!*
+*Updated as we play and plan!! Last updated: 21st June 2026*
 
 ---
 
-## How It Works
-Each Sim has their own name list reflecting their personality, heritage and vibe!!
-When two Sims have a child — look at both lists and find the overlap!!
-The baby's name should feel like BOTH parents in equal measure!!
-Confirmed babies are marked with ⭐!!
+## The Rule of Sunnyside Names 🌈
+*Nature-y!! Unconventional!! Proper sibling sets!! Sunnyside decided the couples — we just name the children!!*
 
 ---
 
-## ⭐ Confirmed Sunnyside Babies!!
+## Confirmed Couples 💍
 
-| Baby | Parents | Born | Notes |
-|------|---------|------|-------|
-| 💚 **Cassian Hill** | Søren Hill + P.T. 83 👽 | Day 3 Rotation 3!! | Little green boy!! Alien print cot!! UFO light!! Literary + celestial!! Travels between worlds — because one of his parents literally does!! P.T. 83 pays child support on time from space!! 😭👽💚 |
-
----
-
-## 🌈 Iris Golden Rainbow
-
-**Girls:** Aurora, Nova, Zinnia, Vesper, Clover, Saffron, Lark, Estelle, Poppy, Blythe
-
-**Boys:** Jasper, Stellan, Caspian, Arlo, Rafferty, Indigo, Oleander, Florian, Sage, Cosmo
-
-**Iris's vibe:** Celestial, botanical, whimsical, golden!! Vesper is Iris's favourite — evening star, celestial without being obvious!!
-
-**Paralives canon (separate universe — not for Sims 2):** Lyra Sunshine Rainbow, Soleil Ember Rainbow, Dandelion Gold Rainbow
+| Couple | Status | Notes |
+|--------|--------|-------|
+| 🎹🌈 Kareem + Iris | ENGAGED!! 💍 | Dream date!! Sunflower Diner!! The -35 and watch us!! |
+| 🔧💍 Wrench + Andrea | ENGAGED!! 💍 | Her feet left the ground!! |
+| 📜🦇 Fourth + Sim Liv | ENGAGED!! 💍 | Teal arched door!! Proper clothes!! |
+| 🌩️🌸 Søren + Clara | THREE BOLTS!! | Auto flirting!! Spring!! Sunnyside deciding!! Watch this space!! |
+| 🪨💕 Still-Here + Benjamin | IN LOVE!! | Zero bolts!! Doesn't matter!! Dream date in The Gremlin!! |
+| 🍊💕 AWiddleFrisbee + Armando | Romantic!! | Eye print shirt!! Same day they met!! Spring!! |
 
 ---
 
-## 🎹 Kareem Osei
+## Children's Names — Confirmed!! 👶
 
-**Girls:** Adaeze, Imani, Amara, Celestine, Nadia, Delphine, Seren, Adaora, Lyric, Josephine
+### 📜🦇 Fourth Frisbee + Sim Liv Hill — Frisbee-Hill!!
+*Nature-y!! Unconventional!! A proper sibling set!!*
 
-**Boys:** Kofi, Nnaji, Emre, Raphael, Levin, Cael, Obinna, Solomon
+**Girls — in order:**
+1. 🌿 **Elowen** — elm tree!! Little Tree heritage from Sim Liv!! 😭💛
+2. 🌸 **Briar** — nature!! unconventional!! has an edge!! very Frisbee-Hill!!
+3. 🌾 **Sorrel** — a plant!! unusual!! completely unexpected!!
 
-**Kareem's vibe:** Warm and rooted!! Ghanaian heritage names alongside literary and quietly beautiful ones!!
-
----
-
-## 🌈🎹 Iris and Kareem — Most Likely Picks
-- **Celestine** — celestial for Iris, classical for Kareem, both feel it immediately!! 😭
-- **Amara** — means grace and eternal, warm and beautiful!!
-- **Raphael** — literary and golden, both of them!!
-- **Kofi** — honouring Kareem's heritage, Iris loves it completely!!
-
-**Celestine Rainbow!! Amara Rainbow!! Kofi Rainbow!! Raphael Rainbow!!** 😭💛
+**Boys — in order:**
+1. 🌲 **Rowan** — tree!! strong!! nature!! Hill energy!!
+2. 🟢 **Moss** — IT Crowd!! chaotic!! nature!! completely them!! 😂🌿
+3. 🌊 **Caspian** — literary!! adventurous!! Fourth would approve!!
 
 ---
 
-## 🌩️ Søren Hill
+## Children's Names — To Figure Out!! 🤔
 
-**Girls:** Solveig, Astrid, Elowen, Simone, Sylvia, Ingrid, Reverie, Isolde, Auden, Signe
+### 🎹🌈 Kareem + Iris — Golden Rainbow-Osei?? or Osei-Golden Rainbow??
+*Hidden genes: Kareem carries blonde + lilac eyes from mum Claire!! Rainbow babies genuinely possible!! 😭🌈*
+- Names need to feel like Iris and Kareem's children!!
+- Warm!! Artistic!! Musical?? Rainbow energy??
+- TBD!!
 
-**Boys:** Camus, Pascal, Emerson, Leif, Viggo, Fen, Birch, ~~Cassian~~ ⭐ *USED — Cassian Hill, born Rotation 3!!*
+### 🔧💍 Wrench + Andrea — Hill-Hogan??
+*Wrench carries black hair recessive from Dad!!*
+- Names need to feel like a builder and his person!!
+- Practical!! Warm!! Unexpected!!
+- TBD!!
 
-**Søren's vibe:** Norse and philosophical and quietly dark romantic!! Philosopher names — Simone de Beauvoir, Sylvia Plath, Camus, Pascal, Emerson!! Viggo = Aragorn energy, would cite three academic reasons why it's a serious Nordic name!! 😂 Reverie chosen at 2am and never crossed off!!
-
-**Future partner: Idris Okafor — names below!!**
-
----
-
-## 🌺 Idris Okafor
-
-**Girls:** Adaeze, Zara, Amina, Nadia, Halcyon, Tamsin, Elodie, Ife, Sorrel, Wren
-
-**Boys:** Kofi, Ezra, Obinna, Felix, Matteo, Ade, Cillian, Remy, Baxter, Orion
-
-**Idris's vibe:** Warm and rooted and a little unexpected!! West African heritage names — Ife means love in Yoruba, Ade means crown, Obinna means father's heart!! 😭
-
----
-
-## 🌩️🌺 Søren and Idris — Most Likely Picks
-- **Elodie** — on Idris's list, Søren feels it quietly and doesn't say so for three weeks!!
-- **Reverie** — Søren's 2am name, Idris accepts it in thirty seconds!! 😂💛
-- **Ezra** — literary and warm and both of them without question!!
-- **Obinna** — father's heart, Søren loves the meaning enormously and won't say so directly!!
-
-**They hyphenate!! Obviously!! 🌩️🌺**
-**Elodie Hill-Okafor!! Reverie Hill-Okafor!! Ezra Hill-Okafor!! Obinna Hill-Okafor!!** 😭💛
+### 🌩️🌸 Søren + Clara — Hill-Vance?? (if it happens!!)
+*Still letting Sunnyside decide if this is a thing!!*
+- Søren carries brown hair + hazel eyes from Ruth!!
+- Clara carries green eyes + ginger recessive!!
+- If they do have children — deeply philosophical nature names!!
+- TBD!!
 
 ---
 
-## 🌸 Clara Vance
+## Naming Notes 🌿
 
-**Girls:** Fern, Hazel, Rosalind, Petra, Wisteria, Juniper, Maren, Celia, Flora
-
-**Boys:** Edmund, Caspian, Rowan, Caius, Rafferty, Callum, Fen, Otto
-
-**Clara's vibe:** Botanical and precise and quietly warm!! Natural scientist energy throughout!!
-
----
-
-## 📜 Fourth Frisbee
-
-**Girls:** Constance, Margot, Cecily, Beatrice, Isadora, Verity, Ottoline, Clementine, Augusta, Leonora
-
-**Boys:** Augustine, Felix, Aubrey, Montgomery, Thaddeus, Clarence, Peregrine, Crispin, Barnabas
-
-**Fourth's vibe:** Classical and grand and considered!! Every name has a Wikipedia page and Fourth has read it!! 😂 Clementine is on the list and would cause diplomatic incident with AWiddleFrisbee — Fourth has a fully researched case prepared!!
+- **The Frisbee-Hill aesthetic:** Nature-y + unconventional + siblings sound like a set!!
+- **Sunnyside surnames:** Always the more interesting one wins — Rainbow beats most things!! 😂
+- **Hidden gene possibilities:** Keep track of recessives — surprise hair and eye colours possible!!
+- **No repeats:** Clover is already a Lego rabbit!! Marigold is Iris's cat + a Lego alpaca!! Avoid crossover with Sunnyside pets and Jellycats!!
 
 ---
 
-## 🌸📜 Clara and Fourth — Most Likely Picks
-- **Rosalind** — Shakespeare coded, botanical and classical, both of them immediately!! 😭
-- **Clementine** — chaotic and perfect, AWiddleFrisbee would never recover, and Clara + Fourth both carry hidden ginger so Clementine could actually BE a ginger baby!! 😂🧡
-- **Verity** — truth, very Fourth, Clara feels the precision of it!!
-- **Rowan** — botanical for Clara, classical for Fourth!!
+## Names Already Used in Sunnyside 🚫
+*Don't reuse these for children!!*
 
-**Rosalind Frisbee-Vance!! Clementine Frisbee-Vance!!** 😭😂
-
----
-
-## 🍊 AWiddleFrisbee
-
-**Girls:** Biscuit, Clover, Winifred, Pixie, Jubilee, Bramble, Moxie, Sundew, Fable, Zinnia
-
-**Boys:** Ziggy, Puck, Ruckus, Alistair, Barnaby, Buttons, Merriweather, Cosmo, Pip, Birch
-
-**AWiddleFrisbee's vibe:** Bold and theatrical and slightly unhinged in the best possible way!! Merriweather and Pip are accidentally Merry and Pippin from LOTR — AWiddleFrisbee named her children after hobbits and Fourth filed a formal complaint and nobody listened!! 😂
+**Pets:** Marigold · Mira · Immanuel · Hugo · Barnacle · Footnote · Pepper · Kant · Socrates · Spinoza · Ida · Existential Dread · Bertrand
+**Lego creatures:** Marigold (alpaca) · Clover (rabbit) · Basil (gecko) · Gerald (sloth) · Romesh (turtle)
+**Sims:** All household Sim names obviously!!
 
 ---
 
-## 🔧 Wrench Hill
-
-**Girls:** Ratchet, Coppery, Weld, Piston, Flint, Marlowe, Crank, Rivka, Cog
-
-**Boys:** Rivet, Colt, Forge, Steel, Bram, Coppice, Axle, Kelvin, Latch, Sprocket
-
-**Wrench's vibe:** Mechanical and inventor energy!! Every name sounds like it could be a person OR a tool!! Kelvin is the serious one, Sprocket is the unhinged one!! 😂
-
----
-
-## 🍊🔧 AWiddleFrisbee and Wrench — Most Likely Picks
-- **Bramble** — botanical chaos, slightly feral, cottagecore perfect, both of them!!
-- **Colt** — short and punchy and mechanical, AWiddleFrisbee loves saying it!!
-- **Flint** — cottagecore AND mechanical!!
-- **Birch** — on AWiddleFrisbee's list, Wrench would feel it!!
-
-**Bramble Frisbee!! Colt Frisbee!! Flint Frisbee!! Birch Frisbee!!** 😭💛
-
----
-
-## 🦇 Sim Liv Hill
-
-**Girls:** Harriet, Edith ⭐, Margot, Nell, Juniper, Wren, Ottilie, Bonnie, Iris 😭
-
-**Boys:** Rafferty, Robin, Monty, Theodore ⭐, Callum, Fen, Reuben, Alfie
-
-**Sim Liv's vibe:** Warm and grounded and slightly literary and autumnal!! Cosy and real and unpretentious!!
-**Absolute favourites: Edith (Edie for short 😭) and Theodore (Teddy for short!!)!!**
-*Edith who gets called Edie and grows up with Edie Meadow as her honorary grandmother — Sunnyside knew exactly what it was doing!! 😭💛*
-
----
-
-## 🐕 Theo Calloway
-
-**Girls:** Cove, Marina, Solène, Indra, Waverly, Reef, Calypso, Sage, Arizona, Bay
-
-**Boys:** Atlas, Caspian, Beckett, Ridge, Kit, Stellan, Forrest, Crew, Rafferty, Zephyr
-
-**Theo's vibe:** Coastal and wide open and slightly wandering!! Names picked up along the way!!
-
----
-
-## 🦇🐕 Sim Liv and Theo — Most Likely Picks
-- **Juniper** — Juni for short!! Theo feels it immediately!! 😭
-- **Nell** — warm and real and cottagecore perfect!!
-- **Rafferty** — on BOTH lists, completely inevitable!!
-- **Fen** — short and slightly wild and both of them!!
-- **Kit** — adventurous and cosy at once!!
-
-**Juniper Calloway-Hill!! Nell Calloway-Hill!! Rafferty Calloway-Hill!! Kit Calloway-Hill!!** 😭💛
-
----
-
-## 🖤 Sable Mori
-
-**Girls:** Hana, Suki, Emiko, Aiko, Mirai, Lumi, Indigo
-
-**Boys/Both:** Yuki, Ren, Kenji, Haruki, Milo, Elio, Caspian, Hiroshi, Leif
-
-**Sable's vibe:** Japanese heritage names woven with quietly artistic and celestial ones!! Still and considered and slightly mysterious!! Elio means sun — unexpected for someone so quietly dark, but exactly right for the warmth hiding underneath!!
-
----
-
-## 🌕 Aesop Fable
-
-**Girls:** Thessaly, Corvus, Morrigan, Isolde, Calliope, Fable, Vesper, Wren, Seren, Echo
-
-**Boys:** Sage, Leander, Caspian, Oberon, Lore, Mythren, Fionn, Cael, Endymion, Story
-
-**Aesop's vibe:** Mythological, literary, slightly ancient, a little bit fey!! Story is on the list and he'd consider it completely seriously!! 😂 Calliope is the muse of epic poetry which is very him!!
-
-**Full name: Aesop Moral Fable!! Teller of the family, keeper of the cargo!! Ratified with every exclamation mark available!! 😂🌕**
-
----
-
-## 🌕🖤 Aesop and Sable — Most Likely Picks
-- **Ren** — short and still and fey, means lotus in Japanese, feels mythological without trying!!
-- **Lumi** — soft and slightly otherworldly!!
-- **Caspian** — on BOTH lists, completely inevitable!! 😂
-- **Elio** — warm and golden and unexpected for two quietly dark people!!
-
-**Ren Mori!! Lumi Mori!! Caspian Mori!! Elio Mori!!** 😭🖤🌕
-
----
-
-## 🪨 Still Here Frisbee
-
-**All genders — every single one a cheese and not a single exception!!**
-
-Brie, Edam, Paneer, Beaufort, Manchego, Pecorino, Monterey, Colby, Gouda, Havarti, Gruyère, Wensleydale, Camembert, Stilton, Comté, Bocconcini!!
-
-**Still Here's vibe:** The person whose lifetime want is grilled cheese looked at every other name list in Sunnyside and said CHEESE!! Fourth has filed formal complaints and is being ignored!! 😂💛
-*Note: Liv's meal deal on 11th June contained Brie. Still Here planned this!!* 😂
-
----
-
-## Surnames 💛
-*The Rainbow Rule: if Rainbow is available it WINS!! No hyphenating required!! Iris is the founding Sim of Sunnyside and Rainbow is the superior surname!!*
-
-| Couple | Surname | Notes |
-|--------|---------|-------|
-| 🌈 Iris + Kareem | **Rainbow** | Obviously!! No competition!! |
-| 🌩️ Søren + P.T. 83 | **Hill** | Cassian Hill!! Literary and celestial and perfectly his!! 👽💚 |
-| 🌩️ Søren + Idris (future) | **Hill-Okafor** | Obinna Hill-Okafor is too beautiful not to hyphenate!! 😭 |
-| 🍊 AWiddleFrisbee + Wrench | **Frisbee** | Wrench gives up Hill willingly because it's AWiddleFrisbee and of course he does!! 😂💛 |
-| 📜 Fourth + Clara | **Frisbee-Vance** | Rosalind Frisbee-Vance is Shakespearean and perfect!! Very Fourth!! |
-| 🦇 Sim Liv + Theo | **Calloway-Hill** | Juniper Calloway-Hill is too beautiful to give up either name!! |
-| 🌕 Aesop + Sable | **Mori** | Aesop Fable takes Sable's name!! Has three philosophical reasons prepared!! 😂🖤 |
-
----
-
-## 🌿 Edie Meadow
-
-**Girls:** Florence, Cecily, Dorothea, Lottie, Primrose, Willa, Beatrice, Nell, Rosemary, Clementine (she'd suggest it completely innocently and Fourth would have a crisis!! 😂)
-
-**Boys:** Edmund, Rupert, Albert, Wilfred, Barnaby, Monty, Clem, Percy, Theodore
-
-**Edie's vibe:** Warm and classic and slightly old fashioned in the loveliest way!! Names chosen by someone who has lived a whole beautiful life!!
-
----
-
-## 📚 Arthur Meadow
-
-**Girls:** Harriet, Josephine, Eleanor, Imogen, Viola, Prudence, Augusta, Iris 😭, Evangeline, Thea
-
-**Boys:** Edwin, Leonard, Frederick, Clarence, Reginald, Crispin, Aubrey, Barnabas, Gilbert
-
-**Arthur's vibe:** Period drama perfect!! Every name sounds like it belongs in a novel he's already read!! He'd suggest Iris completely sincerely and mean every word of it!! 😭💛
-
----
-
-## 🌿📚 Edie and Arthur — Most Likely Picks
-- **Willa** — soft and warm and slightly wild, sounds like a person who already exists somewhere waiting to be made!!
-- **Edmund** — reads a lot, makes excellent tea, quietly the most dependable person in any room!!
-
----
-
-## 🌱 Willa Meadow — Future Arrival!!
-*Edie and Arthur's grown up child!!*
-
-- **Name:** Willa Meadow!! 🌿
-- **Arrival:** Later in the rotational play — a proper story moment!!
-- **Note:** Edie will cry when she arrives!! This is not a prediction, this is a guarantee!! 😭💛
-
----
-
-## The Caspian Problem 😂
-Caspian appears on Iris, Theo, Sable, Clara AND Aesop's lists!!
-Sunnyside will have multiple children called Caspian and nobody planned it!!
-The teacher will simply give up!! 😂
-
----
-
-*Created 11th June 2026 — full names session with Iris and Liv!!*
-*Updated 20th June 2026 — CASSIAN HILL BORN!! First confirmed Sunnyside baby!! Son of Søren and P.T. 83!! Literary + celestial + travels between worlds!! The alien print cot knew!! 👽💚😭*
-*The Sims lets you name a child Dandelion and nobody bats an eye and that is one of its greatest gifts!! 🌼*
-*Biscuit is canon!! Wensleydale is canon!! Everything is canon!! 💛🌈*
+*Created fresh 21st June 2026 — scrapped the old pre-play names file!! Sunnyside told its own story!! Couples we didn't plan!! Romance in The Gremlin!! Three bolt chemistry appearing from nowhere!! The names file starts here, from what actually happened!! 🌿🌈💛*
