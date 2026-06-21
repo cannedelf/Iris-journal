@@ -145,10 +145,10 @@
 |-----|-------|---------------|-------|
 | 🦇 Sim Liv | 🌿 Nature | Florist bench!! | Already making daisies!! Completely her!! 🌿💛 |
 | 🍊 AWiddleFrisbee | 🌿 Nature | Money tree watering!! | After an EXTENSIVE investigation involving pottery, easels, telescopes, computers and electrocution!! Sloppy + Playful confirmed!! Two Nature flatmates!! 😭😂🌿 |
-| 🌺 Idris | 🎵 Music & Dance!! | Golden Anchor stage!! Rotation 1!! | Sang on the microphone without being asked!! He never volunteers!! Outgoing + not Serious = Music & Dance!! 🎤😭 |
+| 🌺 Idris | 🎵 Music & Dance!! | Golden Anchor stage!! Rotation 1!! | Sang on the microphone without being asked!! He never volunteers!! 🎤😭 |
+| 🌩️ Søren | 🔬 Science!! | Stargazing trip!! Rotation 4!! | Recruited buffer people to avoid a coworker he dislikes!! Got Aspirational Laboratories membership card!! FOR SCIENCE!! 😂🔬😭 |
 | 🌈 Iris | TBC | | Arts & Crafts predicted — Sloppy + Nice fits!! Comic Book Penciller!! 🎨 |
 | 🎹 Kareem | TBC | | Music & Dance predicted — Outgoing + Serious (Playful 0!!) fits perfectly!! 🎹 |
-| 🌩️ Søren | TBC | | Science predicted — Neat + Serious, fish called Existential Dread!! 🔬 |
 | 🔧 Wrench | TBC | | Tinkering predicted — Shy + Nice, cried in a hard hat!! 🔧 |
 | 📜 Fourth | TBC | | Film & Literature or Science predicted!! Very serious either way!! |
 | 🪨 Still-Here | TBC | | Games predicted — Playful + chaos energy!! 🎮 |
@@ -163,14 +163,14 @@
 |-----|-----------|-----------|----------|-------|
 | 🌈 Iris | Brown Hair | Creativity | Cologne | Kareem has brown hair + Creativity 6!! 😭🌼 |
 | 🎹 Kareem | Creativity | Jewellery | Stinkiness | Iris has Creativity + butterfly bracelet!! 😭🌼 |
-| 🌩️ Søren | Logical | Cologne | Unemployed | |
-| 🔧 Wrench | Mechanical | Fitness | Stinkiness | Andrea Hogan — 2 bolts!! 💕 · Clara 2 bolts (ENGAGED!! Cannot happen!!) 😂 |
+| 🌩️ Søren | Logical | Cologne | Unemployed | THREE BOLTS with Clara!! 😭🌸🌩️ |
+| 🔧 Wrench | Mechanical | Fitness | Stinkiness | Andrea Hogan — 2 bolts!! 💕 ENGAGED!! · Clara 2 bolts (cannot happen!!) 😂 |
 | 🦇 Sim Liv | Charisma | Logical | Vampires 😂 | Knowledge secondary made her Logical — 2 bolts with Fourth!! 😭😂 |
 | 🍊 AWiddleFrisbee | Cologne | Robots 😂 | Good at cleaning | Negative chemistry with Clara!! 😂 |
 | 📜 Fourth | Logical | Good at cleaning | Stinkiness | 2 bolts with Clara!! Won't talk to her!! Locked proposal for Sim Liv!! 😂😭 |
-| 🪨 Still-Here | Cologne | Great dancer | Good at cleaning | Benjamin — 0 bolts!! Begged to go again!! In love now!! 💕 |
-| 🌺 Idris | Logical | Cologne | Stinkiness | 1 bolt with Ivy!! Chemistry pending with Søren (Logical!!) and AWiddleFrisbee (Cologne + Libra/Aries!!) 👀 |
-| 🌸 Clara | Logical | Cleaning | Stinkiness | 2 bolts Fourth (unavailable!!) · 2 bolts Wrench (unavailable!!) · negative AWiddleFrisbee!! Waiting for Theo!! 😂😭🐕 |
+| 🪨 Still-Here | Cologne | Great dancer | Good at cleaning | Benjamin — in love!! 💕 |
+| 🌺 Idris | Logical | Cologne | Stinkiness | 1 bolt with Ivy!! Chemistry pending with AWiddleFrisbee (Cologne + Libra/Aries!!) 👀 |
+| 🌸 Clara | Logical | Cleaning | Stinkiness | 2 bolts Fourth (unavailable!!) · 2 bolts Wrench (unavailable!!) · THREE BOLTS SØREN!! 😭🌩️ · negative AWiddleFrisbee!! |
 
 ---
 
@@ -214,16 +214,15 @@
 | 🌈 Iris | 🎹 Kareem | ⚡ Negative | -35 penalty!! Fighting it anyway!! Already kissed in the sunflowers!! 😭🌻 |
 | 🔧 Wrench | Andrea Hogan | ⚡⚡ 2 bolts!! | Made out on the Chesterfield!! Canon!! 💕 ENGAGED!! |
 | 📜 Fourth | Dorothy the Witch | ⚡⚡ 2 bolts!! | She's an ELDER!! Cannot happen!! 😂🧙‍♀️ |
-| 🦇 Sim Liv | 📜 Fourth | ⚡⚡ 2 bolts!! | Accidentally created by Knowledge secondary!! In love!! 💕😭 |
+| 🦇 Sim Liv | 📜 Fourth | ⚡⚡ 2 bolts!! | In love!! 💕😭 |
 | 🪨 Still-Here | Benjamin | ⚡ 0 bolts!! | Dream date!! In love at New Years!! 😂💕 |
 | 🌸 Clara | 📜 Fourth | ⚡⚡ 2 bolts!! | Fourth won't talk to her!! He loves Sim Liv!! Cannot happen!! 😂😭 |
 | 🌸 Clara | 🔧 Wrench | ⚡⚡ 2 bolts!! | Wrench is ENGAGED TO ANDREA!! Cannot happen!! 😂😭 |
-| 🌸 Clara | 🍊 AWiddleFrisbee | ⚡ Negative | Neat 7 vs Neat 1!! Cosmically opposed!! AWiddleFrisbee sat on her kitchen floor!! 😂 |
+| 🌸 Clara | 🌩️ Søren | ⚡⚡⚡ 3 bolts!! | AUTO FLIRTING IN STORM AND WRENCH!! Spring!! Same Cancer sign!! Letting Sunnyside decide!! 😭🌸🌩️ |
+| 🌸 Clara | 🍊 AWiddleFrisbee | ⚡ Negative | Neat 7 vs Neat 1!! Cosmically opposed!! 😂 |
 | 🌺 Idris | 👩‍⚕️ Ivy | ⚡ 1 bolt!! | Work friend!! Mild chemistry!! Good colleagues!! |
 
 ---
 
 *Created 20th June 2026 — so we never have to type the rewards list out again!! 😂💛*
-*Updated 20th June 2026 — Fortune/Romance/Pleasure/Grilled Cheese columns added!! One True Hobby section added!! Known Chemistry table added!! Knowledge Tier 4 confirmed — SUMMON ALIENS!! Søren's destiny!! 👽🔭😭💛*
-*Updated 21st June 2026 — Pleasure Tier 4 confirmed: rowdy folk song!! 🎵 Still-Here secondary aspiration added: Popularity!! 🎉*
-*Updated 21st June 2026 — Idris Music & Dance OTH confirmed!! 🎤 Clara Knowledge secondary added!! Idris + Clara turn-ons added!! Chemistry table updated with Pressed Flowers!! 🌺🌸*
+*Updated 21st June 2026 — Pleasure Tier 4 confirmed: rowdy folk song!! Still-Here + Clara secondaries added!! Idris + Søren OTHs confirmed!! Full chemistry table!! 🎤🔬🌸🌩️💛*
