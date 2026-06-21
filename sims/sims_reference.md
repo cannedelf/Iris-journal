@@ -90,13 +90,13 @@
 | 4 | ⚠️ NOT AVAILABLE as secondary aspiration!! |
 
 ### Pleasure Column
-*⚠️ Tiers 1-3 only when taken as secondary aspiration!!*
+*⚠️ Tiers 1-3 only when taken as secondary aspiration — Tier 4 unavailable as secondary!!*
 | Tier | Benefit |
 |------|---------|
 | 1 | 🏃 Fast metabolism — lose weight quicker!! |
 | 2 | Slower need decay — Bladder + Energy |
 | 3 | 📖 Write a restaurant guide and earn money from it!! |
-| 4 | ⚠️ NOT AVAILABLE as secondary aspiration!! |
+| 4 | 🎵 Learn a rowdy folk song — increases friendship with a group quicker!! Confirmed Rotation 3!! 🪨 |
 
 ### Grilled Cheese Column 🧀
 *⚠️ Tiers 1-3 only when taken as secondary aspiration!!*
@@ -117,6 +117,7 @@
 | 🎹 Kareem | Family | Knowledge | Eureka + Impart Knowledge!! |
 | 🦇 Sim Liv | Family | Knowledge | Eureka for the Charisma grind!! Rotation 3!! Accidentally gave her 2 bolts with Fourth!! 😂😭 |
 | 🍊 AWiddleFrisbee | Popularity | Knowledge | Eureka for Creativity!! Rotation 3!! Romance VETOED by AWiddleFrisbee herself!! 😂 |
+| 🪨 Still-Here | Pleasure | Popularity | All 4 Pleasure tiers including rowdy folk song!! Popularity column unlocked for future spending!! Professional Party Guest energy!! Rotation 3!! 🎵🎉 |
 
 ---
 
@@ -215,3 +216,4 @@
 
 *Created 20th June 2026 — so we never have to type the rewards list out again!! 😂💛*
 *Updated 20th June 2026 — Fortune/Romance/Pleasure/Grilled Cheese columns added!! One True Hobby section added!! Known Chemistry table added!! Knowledge Tier 4 confirmed — SUMMON ALIENS!! Søren's destiny!! 👽🔭😭💛*
+*Updated 21st June 2026 — Pleasure Tier 4 confirmed: rowdy folk song!! 🎵 Still-Here secondary aspiration added: Popularity!! 🎉*
