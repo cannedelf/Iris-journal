@@ -16,22 +16,37 @@
 ---
 
 ## Cassian Hill 👽💚
-*Born Day 3 Rotation 3!! Son of Søren Hill and P.T. 83!!*
+*Born Day 3 Rotation 3!! TODDLER as of Rotation 4!!*
 
 | | |
 |--|--|
 | **Name** | Cassian Hill!! 💚 |
 | **Parents** | Søren Hill 🌩️ + P.T. 83 👽 |
 | **Skin** | Green!! Fully alien!! Little green arms!! Little green face!! 💚 |
+| **Hair** | **BROWN CURLS!!** Ruth Hill's recessive gene expressing itself in a small green toddler!! 😭💚 |
 | **Born** | Day 3 Rotation 3!! Under the UFO light!! 👽🛸 |
-| **Cot** | Green alien print bedding!! Alien faces all around the edges!! THE COT KNEW!! 😭👽 |
+| **Aged up** | Rotation 4!! Kitchen fire happening simultaneously!! Classic Storm and Wrench!! 🔥💚 |
 | **Child support** | §200 from P.T. 83!! Paid promptly!! Responsible co-parent from space!! 💰👽 |
 | **Named for** | Literary + celestial!! Travels between worlds — because one of his parents literally does!! 🔭 |
+| **Outfit** | Space print top + yellow dungarees!! PERFECT!! 🚀💚 |
+
+### Cassian's Personality
+| Trait | Score | Notes |
+|-------|-------|-------|
+| Neat | 3 | NOT Søren!! 😂 |
+| Outgoing | 3 | This one he got from dad!! |
+| Active | 10 | MAX!! P.T. 83's influence!! |
+| Playful | 10 | MAX!! Complete chaos!! |
+| Nice | 0 | ZERO!! The opposite of Søren's 8!! 😂 |
+
+*Cassian is the COMPLETE OPPOSITE of Søren in almost every way!! Active 10 + Playful 10 + Nice 0 = chaos gremlin with his dad's genes expressing themselves as brown curls on a green head!! Søren is going to try to read him philosophy and Cassian is going to yeet something across the room!! 😂🌩️💚*
+
+*Predicted OTH: Sports or Fitness!! Active + Playful energy!! 💪*
 
 ### Cassian's Room 🌟
 - 🛸 **UFO light fitting above the cot!!** Canon forever!!
 - ⭐ **Gold star on the wall!!**
-- 💚 **Green alien print cot!!**
+- 💚 **Green alien print cot!!** Now a toddler bed!!
 - 🟢 **Green rug!!**
 - 📚 **Little bookshelf!!** Søren's child will have books from day one!!
 - 🧸 **Toy box!!**
@@ -39,11 +54,12 @@
 - 🪟 **Green curtains matching the rest of the house!!**
 
 ### Cassian's People
-- 🌩️ **Dad: Søren** — held him in the blue knit vest with that careful full expression!! 😭
+- 🌩️ **Dad: Søren** — held him in the blue knit vest with that careful full expression!! Now has a crush on Clara while Cassian toddles around!! 😭😂
 - 👽 **Other parent: P.T. 83** — lives in space!! Pays child support on time!! 💰
-- 🔧 **Uncle Wrench** — completely accepts the green baby!! Doesn't comment!!
+- 🔧 **Uncle Wrench** — held toddler Cassian while the kitchen was on fire!! Hero!! 😂💚
 - 🦇 **Auntie Sim Liv** — is going to be chaotic and wonderful!! 😭
-- 😤 **Immanuel** — has opinions!! Processing them from the bookshelf!!
+- 🌸 **Clara** — was on the couch with Søren when Cassian aged up!! Has met him technically!! 😂
+- 😤 **Immanuel** — watching from the bookshelf!! Was too busy watching the fish to witness Cassian's birthday!! 😤🐟
 - 🐟 **Existential Dread** — fish tank sibling!! Watching with interest!!
 
 ---
@@ -52,11 +68,12 @@
 
 ### Appearance
 - Blue knit vest · long dark green coat · Ruth's freckles!! · big black curls · round glasses!!
-- **Maternity wear: mint green alien face t-shirt!!** 😭😂👽
+- **Work outfit: white lab coat!! Field Researcher!!** 😭
 - Star sign: **Cancer** ♋
 - Turns on: Logical + Cologne · Turns off: Unemployed
 - **Degree:** Philosophy!!
-- **Hidden genes:** Brown hair recessive + hazel eyes recessive from Ruth!!
+- **Hidden genes:** Brown hair recessive (EXPRESSED IN CASSIAN!! 😭💚) + hazel eyes recessive from Ruth!!
+- **One True Hobby: Science!! 🔬** Confirmed Rotation 4!! Stargazing trip!! Aspirational Laboratories membership card!! FOR SCIENCE!!
 
 ### Personality
 | Trait | Score |
@@ -71,10 +88,11 @@
 - **Knowledge!!** · **Lifetime want:** Become Mad Scientist!! 🔬
 
 ### Career
-- **Science — Project Leader, Level 5!!** 🔬
-- **Was on maternity leave!! Cassian has arrived!! Promotion ready to fire!!** 🎉
+- **Science — Field Researcher, Level 4!!** 😭🔬
+- Demoted Rotation 4 for doing the right thing!! Informed researcher about her own discovery!! She published it as her own and got his job!! The Hill siblings cannot stop being ethical!! 😭😂
+- Promotion requirements for Level 5 — TBC!!
 
-### Aspiration Benefits Spent — Rotation 3
+### Aspiration Benefits Spent
 | Column | Tier | Benefit |
 |--------|------|---------|
 | Knowledge | 1 | Slower need decay — Fun + Social |
@@ -84,33 +102,33 @@
 | Work | 1 | Build vacation days quicker |
 | Work | 2 | 🎲 80% better with chance cards!! |
 
-### Skills (after Rotation 3)
+### Skills (after Rotation 4)
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Cooking | 4 | ✅ Promotion requirement met!! |
-| Logic | 4 | ✅ Promotion requirement met!! |
+| Cooking | 4 | ✅ |
+| Logic | 4 | ✅ + stargazing!! Planet discovered!! 🪐 |
 | Cleaning | 6 | ✅ |
 | Creativity | 1 | Piano!! 🎹 |
+
+### Astronomical Discoveries!! 🔭
+- ⭐ Unknown Star 1 — §500!!
+- ⭐ Unknown Star 2 — §500!!
+- 🪐 **Unknown PLANET — §1,459!!** Rotation 4!! FOR SCIENCE!!
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🔧 Wrench | Sibling | Brothers!! | |
-| 🦇 Sim Liv | Sibling | Sister!! | Came over to hear the news!! 😭 |
-| 😤 Immanuel | Pet | Smooched on move-in day!! Highest honour!! | 😭 |
-| 🎹 Kareem | **FRIEND!!** | ✅ Day 2 Rotation 3!! | Puzzle ball!! Quietly perfect!! 😭💛 |
-| 👽 P.T. 83 | Co-parent!! | ABDUCTED!! Positive memory!! Wants to go again!! | Pays child support!! 💰😭 |
-| 💚 Cassian | **SON!!** | 😭👽 | Held him in the blue knit vest with that look!! Canon forever!! |
-
-### Promotion Requirements — Science Level 6
-- ✅ Cooking 4!!
-- ✅ Logic 4!!
-- ✅ Family friend — Kareem!! 🎹
-- ✅ **Maternity leave over — PROMOTION READY TO FIRE!!** 🔬🎉
+| 🦇 Sim Liv | Sibling | Sister!! | |
+| 😤 Immanuel | Pet | Smooched on move-in day!! | 😭 |
+| 🎹 Kareem | Friend!! | ✅ | Puzzle ball!! Quietly perfect!! 😭💛 |
+| 👽 P.T. 83 | Co-parent!! | ABDUCTED!! Wants to go again!! | Pays child support!! 💰😭 |
+| 💚 Cassian | **SON!!** | TODDLER NOW!! | Brown curls!! Nice 0!! Active 10!! Chaos gremlin!! 😭😂💚 |
+| 🌸 Clara | **CRUSH!! 💕** | THREE BOLTS!! Making out on the couch!! | Spring!! Same Cancer sign!! Auto flirted!! Kissed on the porch!! Letting Sunnyside decide!! 😭🌸🌩️ |
 
 ### Locked Wants
-- 🔒 **Be saved from death!!** 💀 Watching carefully!!
-- 🔒 **Be abducted again!!** 👽 He loved it!! Came back wanting MORE!!
+- 🔒 **Be saved from death!!** 💀
+- 🔒 **Be abducted again!!** 👽 NOT YET!! Wait until Wrench moves out!! 😂
 
 ---
 
@@ -137,11 +155,12 @@
 - **Fortune!!** · **Lifetime want:** Become City Planner!! 🏗️
 
 ### Career
-- **Architect — Bricklayer, Level 2!!** 🏗️🎉 FINALLY!! Promoted Day 3 Rotation 3!!
-- Demoted TWICE for doing the right thing!! TWO grudges!! Both avenged now!! 😤🔧
+- **Architect — Head of Construction Company, Level 4!!** 🏗️🎉
+- TWO promotions Rotation 4!! Foreman Level 3 → Head of Construction Company Level 4!!
+- Demoted TWICE in early rotations for doing the right thing!! All grudges avenged!! 😤🔧
 - **Moving out after the wedding!!** → own home with Andrea!!
 
-### Aspiration Benefits Spent — Rotation 3
+### Aspiration Benefits Spent
 | Column | Tier | Benefit |
 |--------|------|---------|
 | Work | 1 | Build vacation days quicker |
@@ -151,30 +170,35 @@
 | Fortune | 3 | 💻 Financial advice on computer for cash!! |
 | Needs | 1 | Slower need decay — Social + Comfort |
 
-### Skills (after Rotation 3)
+### Skills (after Rotation 4)
 | Skill | Level | Notes |
 |-------|-------|-------|
 | Cooking | 1 | |
-| Mechanical | 1 | Robotics badge progress slow!! |
+| Mechanical | 2 | ✅ Robotics bench!! |
 | Logic | 1 | |
 | Creativity | 2 | |
+
+### Talent Badges
+- ✅ **Bronze Robotics Badge!!** Rotation 4!! Can build RoverBots!! 🤖
+- 🔒 **Silver Robotics Badge!!** Locked!! Working toward it!!
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| 🌩️ Søren | Sibling | Brothers!! | His brother went to space and came back with Cassian!! Wrench accepts this completely!! 😂😭 |
+| 🌩️ Søren | Sibling | Brothers!! | Witnessed Søren and Clara on the couch!! Has processed this!! 😂 |
 | 🦇 Sim Liv | Sibling | Sister!! | |
-| 💍 Andrea Hogan | **FIANCÉE!!** | 😭💍💕 | Love at the diner!! Proposed Day 2!! SHE SAID YES!! HER FEET LEFT THE GROUND!! |
-| 🍊 AWiddleFrisbee | Friend!! | | |
-| 💚 Cassian | Nephew!! | 👽💚 | Completely accepts the green baby!! |
+| 💍 Andrea Hogan | **FIANCÉE!!** | 😭💍💕 | Love at the diner!! Proposed!! SHE SAID YES!! HER FEET LEFT THE GROUND!! |
+| 🍊 AWiddleFrisbee | Friend!! | | Rolled a spring want to flirt with her!! Did NOT act on it!! Andrea's feet left the ground!! 😂 |
+| 💚 Cassian | Nephew!! | 👽💚 | Held toddler Cassian during the kitchen fire!! Hero uncle!! 😭🔧💚 |
 
 ### Locked Wants
-- 🔒 **Bronze robotics talent badge!!** 🤖
+- ✅ ~~Bronze robotics badge!!~~ DONE!! 🤖
+- 🔒 **Silver robotics badge!!** Working toward it!!
 - 🔒 **Throw a wedding party!!** 🎉💍
 
 ### Wrench's Heart
 - 💍 Get engaged — FIRED!! ✅
-- 💍 Marry Andrea — rolled Day 3!!
+- 💍 Marry Andrea — still rolling!!
 - 🎉 Wedding party — LOCKED!!
 - 😭 Fear: Andrea leaving him at the altar!! He loves her so much it scares him!!
 
@@ -186,8 +210,8 @@
 - **Allowed Søren to smooch him on move-in day!!** Highest honour!!
 - **Had the BEST TIME during the cockroach infestation!!** 😂😤
 - Watches everyone from the bookshelf!!
-- **Witnessed Wrench getting engaged while Søren had a puzzle ball with Kareem!!** 😤💍
-- **There is now a small green baby in the house!! Immanuel is watching from the bookshelf!! No further comment!!** 😤👽💚
+- **Was too busy watching the fish to notice Cassian's birthday!!** 😤🐟 Classic Immanuel!!
+- **There is now a small green TODDLER in the house with Nice 0!!** Immanuel is watching!! Has extensive opinions!! 😤👽💚
 
 ---
 
@@ -210,20 +234,17 @@
 - **Dark Nordic house** — navy blue lap siding, dark shingle roof!!
 - **Rainbow braided rug** — Wrench bought it!! Søren has not commented!!
 - **Fish tank:** Kant · Socrates · Spinoza · Ida · Existential Dread · Bertrand!! Named by Søren!! 🐟
-- **Philosophical bench** + **telescope** in back garden!! 🔭 ALIEN SUMMONING STATION!! IT WORKED!!
+- **Philosophical bench** + **telescope** in back garden!! 🔭 PLANET DISCOVERED!! 🪐
 - **Piano** — Søren plays alone in evenings!! 🎹
-- **Workshop** — Wrench sleeping here temporarily!! Robotics bench!!
+- **Workshop** — Wrench's robotics bench!! Bronze badge achieved!!
 - **Red truck in the driveway!!** 🛻 Ford F-150 still to buy!!
 - **Yellow pillows in Søren's room** — he didn't choose them!! Won't discuss!! 💛
 - **The duck on the gallery wall** — Sim Liv put it up!! It stays!! 🦆
 - **Wrench's 1967 TV** — fixed himself!! Works!! He's smug!! 😂
-- **Sunflowers in the kitchen** — Wrench put them there!! Søren pretends not to notice!! 🌻
-- **Wrench's trunk** in the living room — not moving!! Søren has mentioned it twice!!
-- **THE CHESTERFIELD SOFA** — where Wrench and Andrea made out!! Canon forever!! 💕😂
-- **THE DINER** — where Wrench and Andrea fell in love!! Canon forever!! 💕😭🍽️
-- **THE PROPOSAL** — Day 2 Rotation 3!! Smart flannel!! Yellow dress!! Feet off the ground!! YES!! 💍😭
-- **THE ABDUCTION** — Day 3 Rotation 3!! Green beam!! Blue knit vest!! Arms reaching!! He went UP!! 👽😭
-- **CASSIAN'S NURSERY** — UFO light!! Gold star!! Green alien cot!! Little bookshelf!! The room knew who was coming!! 😭👽💚
+- **Sunflowers in the kitchen** — Wrench put them there!! Kitchen caught fire!! Sunflowers survived!! 🌻🔥
+- **THE CHESTERFIELD SOFA** — where Wrench and Andrea made out AND where Søren and Clara made out!! Rotation 4!! 💕😂
+- **THE PORCH** — where Søren and Clara first kissed!! Spring!! Three bolts!! 😭🌸🌩️
+- **CASSIAN'S NURSERY** — UFO light!! Gold star!! Green alien cot!! Little bookshelf!! Now has a tiny green toddler with brown curls in it!! 😭👽💚
 
 ---
 
@@ -231,62 +252,59 @@
 - Søren promoted then demoted!! Video arcade for SCIENCE!!
 - Wrench demoted for doing the right thing!! Cried in hard hat!! Andrea came over in yellow dress!!
 - Red truck purchased!! Piano purchased!!
-- A witch was at the park!! Søren wasn't there!! 🧙‍♀️😭
 
 ---
 
 ## Rotation 2 ✅ COMPLETE!! 🎉🌩️🔧
-- **Cockroach infestation!!** Immanuel had the BEST TIME!! 😂😤
-- **Wrench demoted AGAIN!! TWO hard hat cries!! TWO grudges!!** 😭🔧
-- **Wrench and Andrea made out on the Chesterfield!!** 💕😭
-- **Søren promoted to Project Leader Level 5!!** 🌩️🎉
-- **A PENGUIN walked past in the snow!!** 🐧 Canon!!
-- **KAREEM AND IRIS MET AT STORM AND WRENCH!!** 😭🌼🎹🌈
+- Cockroach infestation!! Immanuel had the BEST TIME!! 😂😤
+- Wrench demoted AGAIN!! TWO hard hat cries!! TWO grudges!!
+- Wrench and Andrea made out on the Chesterfield!! 💕
+- Søren promoted to Project Leader Level 5!! 🌩️🎉
+- A PENGUIN walked past in the snow!! 🐧 Canon!!
+- KAREEM AND IRIS MET AT STORM AND WRENCH!! 😭🌼🎹🌈
 
 ---
 
 ## Rotation 3 ✅ COMPLETE!! 🌩️🔧💍👽💚
-
-### Day 1
-- **Søren gained Cooking 4!!** ✅🍳
-- **Wrench day off — robotics bench!!** 🤖
-- **Jennifer Allen the evil witch at the diner!!** 🧙‍♀️ Left!! Love was witch-proof!! 😂
-- **DINER DATE!!** 🍽️💕
-- **WRENCH AND ANDREA IN LOVE!!** 😭💕🔧
-
-### Day 2
-- **SØREN PEED IN A BUSH!!** 😂🌿 Neat 8!! Philosophy degree!! Canon!!
-- **Kareem came over!! PUZZLE BALL appeared from nowhere!!** 😂🧩
-- **SØREN AND KAREEM FRIENDS!!** 😭🌩️🎹 All promotion requirements met!!
-- **Søren tried to summon aliens — too tired!!** 👽😂
-- **Wrench promoted to Bricklayer Level 2!!** 🏗️🎉 §115 bonus!! TWO GRUDGES AVENGED!!
-- **WRENCH PROPOSED!! ANDREA SAID YES!! HER FEET LEFT THE GROUND!!** 😭💍💕
-
-### Day 3
-- **Wrench: marry Andrea + wedding party rolled!!** 💍🎉 Wedding party LOCKED!!
-- **Wrench fears Andrea leaving him at the altar!!** 😭💍
-- **SØREN ABDUCTED BY ALIENS!!** 👽🔭 Green beam!! Blue knit vest!! Went UP!!
-- **P.T. 83 sent §200 child support!!** 💰👽 Responsible co-parent from space!!
-- **Søren wore alien face maternity t-shirt!!** 😂💚 Mint green!! Very him!!
-- **Sim Liv came over to hear the news!!** 🦇😭
-- **CASSIAN HILL BORN!!** 👽💚😭 Little green boy!! Alien print cot!! UFO light!! Canon forever!!
-- **Søren held Cassian in his blue knit vest with that look!!** 😭🌩️💚 The careful full look!! Canon!!
-
-### Locks Carrying into Rotation 4
-- 🔒 Be saved from death!! 💀 (Søren)
-- 🔒 Be abducted again!! 👽 (Søren)
-- 🔒 Bronze robotics badge!! 🤖 (Wrench)
-- 🔒 Wedding party!! 🎉💍 (Wrench)
-
-### Rotation 4 Goals
-- ⬜ Søren promotion fires!! 🔬🎉
-- ⬜ Cassian grows into a toddler!! 💚👶
-- ⬜ Wrench promotion!! 🏗️
-- ⬜ Wedding!! 💍🎉
-- ⬜ Wrench and Andrea move out!! 🏠
-- ⬜ Robotics bench!! 🤖
-- ⬜ Ford F-150!! 🛻
+- Diner date!! Wrench and Andrea in love!! 💕
+- Søren peed in a bush!! Neat 8!! Canon!! 😂
+- Søren and Kareem became friends over a puzzle ball!!
+- Wrench promoted to Bricklayer Level 2!! TWO GRUDGES AVENGED!! 🎉
+- WRENCH PROPOSED!! ANDREA SAID YES!! HER FEET LEFT THE GROUND!! 💍😭
+- SØREN ABDUCTED!! Green beam!! He went UP!! 👽
+- P.T. 83 sent child support!! 💰
+- CASSIAN HILL BORN!! Little green boy!! Alien print cot!! UFO light!! 😭💚
 
 ---
 
-*Updated 20th June 2026 — ROTATION 3 COMPLETE!! The most extraordinary rotation in Sunnyside!! Diner date!! In love!! Wrench promoted!! ENGAGED!! Her feet left the ground!! SØREN ABDUCTED!! Came back pregnant!! Alien maternity shirt!! P.T. 83 pays child support on time!! CASSIAN HILL BORN!! Little green boy!! Alien print cot!! UFO light!! Søren held him with that look!! The fish named Existential Dread has a brother now!! 😭👽💍💚🔧💛*
+## Rotation 4 ✅ COMPLETE!! 🌩️🔧💚🌸
+
+### The Most Important Things!!
+- **CASSIAN IS A TODDLER!!** 💚 Brown curls!! Ruth's recessive!! Space print top!! Yellow dungarees!! Active 10!! Playful 10!! Nice 0!! CHAOS GREMLIN!! 😭😂💚
+- **SØREN GOT DEMOTED AGAIN!!** 😭😂 Informed his researcher about her own discovery!! She published it as her own and became his boss!! The Hill siblings cannot stop being ethical!! Field Researcher now!!
+- **SØREN DISCOVERED A PLANET!!** 🪐 §1,459!! Aspirational Laboratories!! FOR SCIENCE!!
+- **SØREN'S SCIENCE OTH CONFIRMED!!** 🔬 Stargazing trip!! Recruited buffer people to avoid one difficult coworker!! Got a membership card!!
+- **WRENCH: TWO PROMOTIONS!!** Foreman → Head of Construction Company!! 🎉🔧
+- **WRENCH: BRONZE ROBOTICS BADGE!!** 🤖 Can build RoverBots!!
+- **NANNY TRAPPED IN SHED!! DOOR REMOVED!!** Cassian protected!! No regrets!! 😂
+- **WEREWOLF APPEARED AND LEFT!!** AWiddleFrisbee's werewolf!! Søren played with it briefly!! Was not bitten!! Saved for AWiddleFrisbee!! 🐺😂
+- **KITCHEN FIRE!!** Søren aspiration failure!! Cassian aged up simultaneously!! 🔥💚
+- **SØREN AND CLARA!! THREE BOLTS!! SPRING!!** Auto flirting!! Kiss on the porch!! Making out on the Chesterfield!! CRUSH!! Letting Sunnyside decide!! 😭🌸🌩️
+
+### Locks Carrying into Rotation 5
+- 🔒 Be saved from death!! 💀 (Søren)
+- 🔒 Be abducted again!! 👽 (Søren — NOT YET!! Wait for Wrench to move out!!)
+- 🔒 Silver robotics badge!! 🤖 (Wrench)
+- 🔒 Wedding party!! 🎉💍 (Wrench)
+
+### Rotation 5 Goals
+- ⬜ Søren: climb back up from Field Researcher!!
+- ⬜ Cassian: walking!! Talking!! Potty!! Søren teaching toddler skills!! 💚
+- ⬜ Wrench: silver robotics badge!!
+- ⬜ Wrench: ring Andrea!! Wedding planning!!
+- ⬜ Søren + Clara: see what Sunnyside decides!! 🌸🌩️
+- ⬜ Immanuel: process Cassian toddling around at Active 10 with Nice 0!! 😤💚
+
+---
+
+*Updated 21st June 2026 — ROTATION 4 COMPLETE!! CASSIAN IS A TODDLER!! Brown curls!! Ruth's recessive!! Active 10 Playful 10 Nice 0 CHAOS GREMLIN!! Søren demoted AGAIN for being ethical!! Discovered a planet!! Science OTH!! SØREN AND CLARA THREE BOLTS KISS ON THE PORCH!! Wrench TWO promotions!! Bronze robotics badge!! Nanny in the shed!! Kitchen fire!! Werewolf came and went!! The most extraordinary rotation in Storm and Wrench history!! 🌩️🔧💚🌸😭💛*
