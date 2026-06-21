@@ -63,12 +63,13 @@
 - Wrench moving out after the wedding — own home with Andrea!! 🏠
 - Locked: Be saved from death + be abducted again (Søren) · Robotics badge + wedding party (Wrench)!!
 
-### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle
+### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle + 🖤 Footnote
 - Fourth: Legal Secretary Level 3!! Knowledge aspiration!! BFF with Sim Liv!! Crush on her!! 2 bolts!! 😂
 - Still-Here: Record Store Clerk Level 4!! Pleasure aspiration!! Wants to throw a party!! 🎉
-- Barnacle rules the house!! Was in the loo Day 1!! 👑🦜
+- Barnacle rules the house from the window!! Was in the loo Day 1!! 👑🦜
+- **FOOTNOTE ARRIVED!! Little black kitten!! Genius + Independent + Finicky!! Fourth's cat!!** 🖤🐱
 - WEDNESDAY on the noticeboard!! Unexplained!! Fourth has not asked!!
-- Locked: Shooting star + adopt a kitten/puppy (Fourth) · Party + get a pet (Still-Here)!!
+- Locked: Shooting star (Fourth) · Party (Still-Here)!!
 
 ---
 
@@ -95,6 +96,7 @@
 | 🐕 Hugo | Springer spaniel | AWiddleFrisbee | Friendly MAX · Hyper MAX · Pigpen MAX · Doofus MAX!! Pond inaccessible!! 😂🐕 |
 | 🐠 Kant · Socrates · Spinoza · Ida · Existential Dread · Bertrand | Fish | Søren | Fish tank!! Cassian's first friends!! 😭💚 |
 | 🦜 Barnacle | Parrot | Still-Here | Rules everything!! Was in the loo Day 1!! 👑😂 |
+| 🖤 Footnote | Black kitten | Fourth | Genius · Independent · Finicky!! Fourth's cat in Fourth's form!! Arrived R3!! Satisfied both pet wants!! 😭📜 |
 | 🐱 Ink | Black cat | Sable | Future — Rotation 7!! |
 | 🐕 Barnaby | Golden retriever | Theo | Future — Rotation 5!! |
 | 🐱 Newton | Dignified cat | Edie & Arthur | Future — Rotation 10!! |
@@ -131,7 +133,7 @@
 | Sim | Star Sign | Turns On | Turn Off | Notable |
 |-----|-----------|----------|----------|---------|
 | 🍊 AWiddleFrisbee | Libra | Cologne + Robots | Good at cleaning | Lounge Singer!! Electrocuted!! Nature OTH!! WEREWOLF WANT LOCKED!! 🐺 |
-| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | BFF with Sim Liv!! Crush!! 2 bolts!! Shooting star pending!! ⭐ |
+| 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | BFF with Sim Liv!! Crush!! 2 bolts!! Shooting star pending!! ⭐ Footnote's dad!! 🖤 |
 | 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | Record Store Clerk!! FrigglyFreeze!! Dream date 0 bolts!! The Gremlin!! 🤹 |
 
 ---
@@ -200,7 +202,7 @@
 **🎹 The Music Room** — *Demoted for doing the right thing. Comfort soup. Iris came over awkwardly. Promoted back. Piano by the lamp, snow outside. Iris phoned him. Friends now. Daisies still waiting.* 🎹🌼📞❄️😭💛
 **🦇🍊 The Flat** — *Two Nature flatmates. AWiddleFrisbee electrocuted, went to work. Werewolf want locked. Sim Liv built a snowman after work because she wanted to. 2 bolts with Fourth. Watching carefully.* 🌿🌿⛄🐺😂💛
 **🌩️🔧 Storm and Wrench** — *Wrench in love at the diner. Proposed. Her feet left the ground. Bricklayer Level 2. Søren peed in a bush. Made friends with Kareem over a puzzle ball. Abducted. P.T. 83 sent child support. Cassian Hill born in an alien print cot under a UFO light. Søren held him with that look.* 🌩️🔧💍👽💚😭💛
-**📜🪨 The Pebble House** — *Still to play!! Fourth!! Still-Here!! Barnacle!! The shooting star!! WEDNESDAY!!* ⭐🦜📜🪨
+**📜🪨 The Pebble House** — *Still in progress!! Thinking Cap!! Cool Shades!! Two money trees!! FOOTNOTE THE BLACK KITTEN ARRIVED!! Genius!! Independent!! Finicky!! Fourth's cat in Fourth's form!! Shooting star still pending!! WEDNESDAY still unexplained!!* ⭐🖤🐱🦜📜🪨😭
 
 ---
 
@@ -216,6 +218,7 @@
 - ✅ Kareem on the stage at The Golden Anchor!! Nobody asked!! 🎹⚓😭
 - ✅ Wrench and Andrea engaged!! Her feet left the ground!! 💍💕😭
 - ✅ Cassian Hill born!! Little green boy under a UFO light!! 👽💚😭
+- ✅ Footnote arrived!! Little black genius kitten!! Fourth's cat in Fourth's form!! 🖤🐱😭
 - AWiddleFrisbee becomes a werewolf!! 🐺 (locked!!)
 - Iris has an art show — Kareem stands in front of her painting for a long time then holds her hand!! 😭
 - Baby Lyra born at Sunshine Cottage — Marigold appoints herself guardian!!
@@ -227,10 +230,12 @@
 - Still-Here wears the clown suit to The Golden Anchor!! Nobody comments!!
 - Still-Here drives the Couch Car!! Barnacle has seen worse!! 🛋️😂
 - Fourth organises something!! Still-Here undoes it!! This is their whole dynamic!! 😂
+- Footnote sits on Fourth's alphabetical bookshelf and judges everyone!! 🖤📚
+- Barnacle and Footnote: two judgemental creatures, one exhausted Fourth in the middle!! 😂🦜🖤
 - Kareem gives someone the daisies from his inventory!! 😭🌼
 - Søren says one devastating sentence at The Golden Anchor and goes back to his pint!! 😂
 - The whole found family at The Golden Anchor on a Friday!! Nobody planned it!! 😭💛
 
 ---
 
-*Updated 20th June 2026 — Rotation 3 almost complete!! Sunflower kiss!! Cassian Hill born!! Wrench and Andrea engaged!! AWiddleFrisbee werewolf!! Two Nature flatmates!! Søren peed in a bush and got abducted!! The most extraordinary Saturday in Sunnyside!! 🌻💍👽💚🐺😭💛*
+*Updated 21st June 2026 — FOOTNOTE THE BLACK KITTEN!! Genius!! Independent!! Finicky!! Fourth's cat!! Both pet wants satisfied!! Aspiration upgrades: Thinking Cap + Cool Shades + two money trees!! Still-Here Popularity secondary!! 🖤🐱📜🪨💛*
