@@ -20,7 +20,7 @@
 
 ---
 
-## Kareem — Current Status (after Rotation 3)
+## Kareem — Current Status (after Rotation 4 Day 1!!)
 
 ### Appearance
 - Dark curly hair · warm brown skin · kind face · slightly rumpled!!
@@ -49,9 +49,10 @@
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🐱 Mira | Pet | Growing!! | Dreams about each other!! 😭💛 |
-| 📜 Fourth | Best Friend!! | ✅ Fired Rotation 3!! | In The Golden Anchor!! Sunday!! 😭💛 |
-| 🌈 Iris | Friend!! | ✅ Fired Rotation 3!! | She phoned him!! Tuesday evening!! 😭🌼 |
-| 🧑 Talin | Friend!! | ✅ | Met at snowy park!! |
+| 📜 Fourth | Best Friend!! | ✅ | In The Golden Anchor!! Sunday!! 😭💛 |
+| 🌈 Iris | **FIANCÉE!! 💍😭** | BEST FRIENDS!! IN LOVE!! ENGAGED!! | She phoned him on a Tuesday!! He kissed her in the sunflowers!! Dream date at the Sunflower Diner!! He proposed with a glowing ring in a blue velvet box!! She said YES!! The daisies were always for her!! 😭💍🌻🌼🎹 |
+| 🌩️ Søren | Friend!! | Met at Storm and Wrench!! Puzzle ball!! | 😂🧩 |
+| 🧑 Talin | Friend!! | Met at snowy park!! | |
 
 ### Aspiration Benefits
 | Benefit | Column | Notes |
@@ -70,8 +71,10 @@
 | | | 13,600 points remaining!! |
 
 ### Locked Wants
-- 🔒 **Fall in love!!** — always!! 😭🎹
-- 🔒 **TBC — didn't check when Iris friendship fired!!** 👀
+- ✅ ~~Fall in love!!~~ **FIRED!! ROTATION 4 DAY 1!! SUNFLOWER DINER!!** 😭💕
+- 🔒 **Propose to Iris!!** 💍 **FIRED!! HE DID IT!!** 😭
+- 🔒 **Marry Iris!!** 💍😭 LOCKED!! The Golden Anniversary lifetime want is coming for him!!
+- 🔒 **TBC — check next play session!!**
 
 ---
 
@@ -103,9 +106,9 @@
 
 - 🎹 **Piano** — living room!! Kareem plays alone at night!! 😭
 - 📚 **Full bookshelf** · 🌱 **Three vegetable beds + compost bin** · 🌸 **Florist bench** · 🔭 **Telescope** · 🐱 **Cat tree**
-- 🌼 **Bouquet of daisies** — in Kareem's inventory!! Still waiting!! 😭
+- 🌼 **Bouquet of daisies** — in Kareem's inventory!! **THEY WERE ALWAYS FOR HER!!** 😭💍
 - 🚲 **Bicycle** · 🚗 **Honda Accord** — Rotation 2!!
-- **Empty bedside table** — the one that says everything!! 😭
+- **Empty bedside table** — not empty for much longer!! 💍😭
 
 ### Key Canon Facts
 - Converted mill — **industrial bones, warm soul!!**
@@ -116,6 +119,12 @@
 - **William Morris botanical wallpaper** in the hall!!
 - **Swimming poster in the bathroom** — swims Saturday mornings!! 🏊
 - **Piano mod fixed!!** Kareem can play!! 🎹
+- **FIRST TO PLAY THE GOLDEN ANCHOR STAGE!!** Nobody asked!! He just sat down!! 🎹⚓😭
+- **THE SUNFLOWER KISS!!** Rotation 3!! He kissed Iris in the front garden sunflowers!! The Lamborghini watched!! 😭🌻
+- **THE DREAM DATE!!** Rotation 4 Day 1!! The Sunflower Diner!! Where love is always witch-proof!! 😭💕
+- **FELL IN LOVE AT THE SUNFLOWER DINER!!** The -35 and watch us!! THEY WATCHED US!! 😭💕
+- **THE PROPOSAL!!** Rotation 4 Day 1!! Blue velvet box!! Glowing ring!! That smile!! His glasses!! She said YES!! 💍😭🌻
+- **KAREEM AND IRIS ARE ENGAGED!!** The daisies were always for her!! The empty bedside table won't be empty much longer!! 💍😭🌻🌼🎹
 
 ---
 
@@ -144,40 +153,46 @@
 
 ### Day 1 — Sunday
 - **First visit to The Golden Anchor!!** ⚓🍺
-- AWiddleFrisbee already at the bar!! Wrench at the pool table!!
-- **FOURTH WALKED IN AUTONOMOUSLY!!** 😭📜
 - **BEST FRIENDS WITH FOURTH!! IN THE PUB!! ON A SUNDAY!!** 😭📜💛
 - **FIRST PERSON TO PLAY THE GOLDEN ANCHOR STAGE!!** 🎹⚓ Spotlights!! Creativity point!!
-- Locked **be friends with Søren!!** 🌩️
-- Aspiration benefits spent!! Grandma's Comfort Soup · Slower decay Fun+Comfort · Secondary aspiration: Knowledge · Slower decay Fun+Social · Impart Knowledge · Eureka!! ✨
+- Aspiration benefits spent!! Grandma's Comfort Soup · Slower decay · Knowledge secondary · Eureka!! ✨
 - **Thinking Cap purchased!! 16,000 points!!** 🎓
 
 ### Day 2 — Monday
-- Rolled **be friends with Iris!!** before breakfast!! Swapped Søren lock for Iris!! 🌼🔒
 - **DEMOTED FOR DOING THE RIGHT THING!!** 😭😂 Role sheet incident!! Monday never happened!!
 - Grandma's Comfort Soup for lunch!! 🍲
-- **IRIS CAME OVER FOR THE FIRST TIME!!** 🌈🌼 A little awkward!! She left quickly!! She still came!!
+- **IRIS CAME OVER FOR THE FIRST TIME!!** 🌈🌼 A little awkward!! She still came!!
 
 ### Day 3 — Tuesday
-- Went to work!! No chance cards!! No mothers!! No role sheets!!
-- **PROMOTED BACK TO LEVEL 2!!** 🎉👨‍🏫 Back where he belongs!!
-- **Played piano by the lamp in the evening!! Snow outside!! Sheet music on the stand!!** 😭🎹❄️
-- Looked at the stars through the telescope!! 🔭
+- **PROMOTED BACK TO LEVEL 2!!** 🎉👨‍🏫
+- **Played piano by the lamp in the evening!! Snow outside!!** 😭🎹❄️
 - **IRIS PHONED HIM!!** 📞😭🌼
-- **FRIENDS WITH IRIS!!** 🌼🌈 Want fired!! Tuesday evening!! She called him!!
-
-### Locks Carrying into Rotation 4
-- 🔒 Fall in love!! 😭🌼
-- 🔒 TBC — didn't check when Iris friendship fired!! 👀
-
-### Rotation 4 Goals
-- Find out what the new locked want is!! 👀
-- Work toward best friends with Iris!! 🌼🌈
-- Søren friendship!! 🌩️
-- Bronze florist badge!! 🌸
-- Keep Mira happy!!
-- **The daisies are still waiting!!** 🌼😭
+- **FRIENDS WITH IRIS!!** 🌼🌈 She called him!!
 
 ---
 
-*Updated 20th June 2026 — Rotation 3 COMPLETE!! First Golden Anchor visit!! Best friends with Fourth in the pub!! First to play the stage!! Monday never happened!! Iris came over!! Iris PHONED HIM!! FRIENDS WITH IRIS!! The daisies are still in his inventory and the bedside table is still empty but she called him on a Tuesday night and that's everything!! 🎹🌼🌈❄️📞💛*
+## Rotation 4 — In Progress!! 💍😭
+
+### Day 1 — THE DAY EVERYTHING HAPPENED!! 💍🌻
+- **Iris rang him after work!!** She couldn't wait until Friday!! Spring wouldn't let her!!
+- **DREAM DATE AT THE SUNFLOWER DINER!!** 💕🌻 Where Wrench and Andrea fell in love!! The diner that brings people together!!
+- **LAMBORGHINI WOOHOO!!** 🚗😭💕 Iris rolled the want!! The car that witnessed the sunflower kiss witnessed this too!!
+- **FELL IN LOVE!!** 😭💕🌻 The -35 AND WATCH US!! He fought through every interaction!! It was always going to be her!!
+- **ROLLED: PROPOSE TO IRIS + MARRY IRIS!!** BOTH LOCKED!! 🔒💍
+- **KAREEM PROPOSED!!** 😭💍🌻 Blue velvet box!! Glowing ring!! That smile!! His glasses!! The daisies were always for her!!
+- **IRIS SAID YES!!** 💍😭🌻🌼🎹🌈
+- **KAREEM AND IRIS ARE ENGAGED!!** 💍😭🌻
+- The empty bedside table won't be empty for much longer!! 😭💛
+
+### Locks Carrying Forward
+- 🔒 **Marry Iris!!** 💍😭 The Golden Anniversary lifetime want is waiting!!
+
+### Rotation 4 Remaining Goals
+- ⬜ Skills for next promotion!!
+- ⬜ Mira happiness!!
+- ⬜ Bronze florist badge!! 🌸
+- 💍 Plan the wedding with Iris!!
+
+---
+
+*Updated 21st June 2026 — ROTATION 4 DAY 1!! KAREEM AND IRIS ARE ENGAGED!! He had daisies in his inventory for THREE ROTATIONS!! He fought through a -35 chemistry penalty every single interaction!! Dream date at the Sunflower Diner!! Fell in love!! Blue velvet box!! Glowing ring!! That smile!! She said YES!! The empty bedside table won't be empty much longer!! The daisies were always for her!! 💍😭🌻🌼🎹🌈💛*

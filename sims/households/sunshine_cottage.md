@@ -19,21 +19,21 @@
 
 ---
 
-## Iris — Current Status (after Rotation 3)
+## Iris — Current Status (after Rotation 4 Day 1!!)
 
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Creativity | 4 | 🎨 Thinking Cap!! |
-| Mechanical | 3 | 🔧 Thinking Cap!! |
-| Cooking | 1 | 🍳 |
+| Creativity | 4 | 🎨 Thinking Cap!! One more needed!! |
+| Mechanical | 3 | 🔧 Thinking Cap!! One more needed!! |
+| Cooking | 1 | One more needed!! |
 | Logic | 1 | Accidentally from chess with Sim Liv!! 😂 |
-| Charisma | 1 | Making contacts in the art biz!! |
+| Charisma | 2 | ✅ Gained Rotation 4 Day 1 before work!! 🗣️ One more needed!! |
 
 ### Promotion Requirements — Comic Book Penciller Level 5
 - ⬜ Creativity 5!!
 - ⬜ Mechanical 4!!
-- ⬜ Charisma 3!! (1 gained so far!!)
+- ⬜ Charisma 3!! (2 gained so far!!)
 - ⬜ Cooking 2!!
 
 ### Relationships
@@ -43,7 +43,7 @@
 | 🦇 Sim Liv | BFF!! | BEST FRIENDS!! | Met at the park!! Chess!! Party!! 😭💛 |
 | 🍊 AWiddleFrisbee | BFF!! | BEST FRIENDS!! | Fired quietly during The Flat rotation!! 🍊😭 |
 | 🔧 Wrench | Friend!! | Met at party!! Danced!! | 😂 |
-| 🎹 Kareem | BEST FRIENDS!! 🌼 | Best friends as of Rotation 3!! | HE KISSED HER IN THE SUNFLOWERS!! 😭🌻 |
+| 🎹 Kareem | **FIANCÉ!! 💍😭** | BEST FRIENDS!! IN LOVE!! ENGAGED!! | Dream date at the Sunflower Diner!! Fell in love!! He proposed with a glowing ring in a blue velvet box!! SHE SAID YES!! 😭💍🌻🌼🎹 |
 
 ### Aspiration Benefits
 | Benefit | Column | Notes |
@@ -65,7 +65,8 @@
 
 ### Locked Wants
 - 🔒 **Marigold removed** — permanent protective lock!! 🐱
-- 🔒 **Become BFF with Kareem!!** 🌼🎹 — rolled after best friends fired!!
+- 🔒 **Become BFF with Kareem!!** 🌼🎹
+- 🔒 **Wedding party!!** 🎉💍 Rolled the MOMENT she said yes!! Of course she did!! Popularity aspiration!!
 
 ### Unlocked Fears to Watch
 - ⚠️ **Marigold runs away** — keep Marigold happy!!
@@ -97,6 +98,7 @@
 - Stood in the confetti at the party like she owned it!! 😂🐱
 - **Toilet training begun Rotation 2!!** Saturday morning!! In progress!! 🚽
 - **SLEPT THROUGH THE KITCHEN FIRE!! Rotation 3!!** Completely unbothered!! Used the litter box immediately after!! Canon forever!! 😂🔥🐱
+- **Sleeping on the bed while Iris went on her dream date!! Rotation 4!!** Completely unaware that everything changed!! 😭🐱💛
 
 ---
 
@@ -123,7 +125,12 @@
 - **The nose incident!!** Rotation 2!! Drew a socialite's nose in full glory!! No regrets!! 😂
 - **The kitchen fire!!** Rotation 3!! Iris was at work!! Marigold slept through it!! Fire alarm saved everything!! 🔥🐱
 - **THE SUNFLOWERS!!** Rotation 3 Day 2!! Kareem kissed Iris in the front garden sunflowers!! The Lamborghini witnessed it!! Her yellow bow!! His glasses!! The -35 and watch us!! 😭🌻🌼🎹
-- **Lambo Miura in the driveway!!** Sleek!! Golden!! Slightly ridiculous!! Very her!!
+- **THE LAMBORGHINI WOOHOO!!** Rotation 4 Day 1!! At the Sunflower Diner!! Iris rolled the want!! The car that witnessed the sunflower kiss witnessed this too!! 🚗😭💕
+- **THE DREAM DATE!!** Rotation 4 Day 1!! The Sunflower Diner!! Where Wrench and Andrea fell in love!! Where love is always witch-proof!! 😭💕
+- **FELL IN LOVE AT THE SUNFLOWER DINER!!** Rotation 4 Day 1!! The -35 and watch us!! THEY WATCHED US!! 😭💕🌻
+- **KAREEM PROPOSED!!** Rotation 4 Day 1!! Blue velvet box!! Glowing ring!! That smile!! His glasses!! She said YES!! 💍😭🌻🌼🎹
+- **IRIS AND KAREEM ARE ENGAGED!!** The daisies were always for her!! 💍😭🌻
+- **Lambo Miura in the driveway!!** Sleek!! Golden!! Slightly ridiculous!! Very her!! Witnessed everything!!
 
 ---
 
@@ -153,7 +160,7 @@
 
 ### Day 1 — Sunday
 - **Kareem called her!!** 📞😭🌼 Before breakfast!!
-- **BFF with AWiddleFrisbee fired!!** ✅🍊 Happened during The Flat rotation quietly!!
+- **BFF with AWiddleFrisbee fired!!** ✅🍊
 - Locked **Become best friends with Kareem!!** 🔒🌼
 - **Promoted to Souvenir Whittler Level 3!!** 🦙🎉 §630 bonus!!
 - Secondary aspiration FAMILY added!! 😭🌼
@@ -165,37 +172,52 @@
 
 ### Day 2 — Monday
 - **KITCHEN FIRE!!** 🔥😭 Iris at work!! Fire alarm!! Firefighter!! Sage green kitchen survived!!
-- **MARIGOLD SLEPT THROUGH THE ENTIRE FIRE!!** 😂🐱 Used the litter box immediately after!!
+- **MARIGOLD SLEPT THROUGH THE ENTIRE FIRE!!** 😂🐱
 - **Promoted to Comic Book Penciller Level 4!!** 🎨🎉 §630 bonus!! SpiderSim!!
-- *"What a good week it's been! I hope I can keep this up!!"* 😭💛 Same words as Kareem!!
 - **KAREEM CAME OVER!!** 🌼🎹
-- **KAREEM FLIRTED IN THE FRONT GARDEN!!** 😭🌼
 - **MUTUAL CRUSHES IN THE SUNFLOWERS!!** 😭🌻
 - **FIRST KISS!! IN THE SUNFLOWERS!! YELLOW BOW!! HIS GLASSES!! THE LAMBORGHINI WATCHING!!** 😭😭😭🌻🌼🎹🌈
-- **GAME SAVED IMMEDIATELY!!** Canon protected forever!! 💾
 
 ### Day 3 — Tuesday
-- Work — Charisma 1 gained!! Making contacts in the art biz!!
+- Work — Charisma 1 gained!!
 - **FEMINIST AWAKENING WHILE PENCILLING SPIDERSIM ISSUE 172!!** 😭🎨
-- Drew women her way!! Editor loved it!! **§5,000 BONUS + HER OWN SERIES!!** 💰🎨
+- **§5,000 BONUS + HER OWN SERIES!!** 💰🎨
 - Invited Kareem back over!!
 - **BEST FRIENDS WITH KAREEM!!** 😭🌼🎹 Want fired!!
 - Rolled **Become BFF with Kareem!!** Locked immediately!! 🔒
-- Kareem went home!! Iris went to bed happy!! 🌈💛
-
-### Locks Carrying into Rotation 4
-- 🔒 Marigold removed!! 🐱
-- 🔒 Become BFF with Kareem!! 🌼🎹
-
-### Rotation 4 Goals
-- Build Charisma — 2 more needed!! 🗣️
-- Cooking 2!!
-- Creativity 5!!
-- Mechanical 4!!
-- Get Kareem over as much as possible — relationship AND Charisma!! 🌼😂
-- More pet best friends!! Marigold is 1/20!! 🐾
-- Keep Marigold happy and healthy!!
 
 ---
 
-*Updated 20th June 2026 — Rotation 3 COMPLETE!! Kitchen fire!! Marigold slept through it!! Marigold is pet best friend 1/20!! Comic Book Penciller!! SpiderSim!! Her own series!! §5,000 bonus!! Feminist awakening!! KAREEM KISSED IRIS IN THE SUNFLOWERS!! MUTUAL CRUSHES!! BEST FRIENDS!! BFF WANT LOCKED!! The -35 and WATCH US!! 🌻🌼🎹🌈🔥🐱💛*
+## Rotation 4 — In Progress!! 💍😭
+
+### Day 1 — THE DAY EVERYTHING HAPPENED!! 💍🌻
+- **Charisma 2 gained before work!!** ✅ 🗣️
+- Spring romance wants all morning!! Kiss someone!! Go on a date!! Flirt!! DREAM DATE!!
+- **DREAM DATE WANT LOCKED!!** 🔒💕
+- **After work — RANG KAREEM!!** Spring couldn't wait until Friday!!
+- **DREAM DATE AT THE SUNFLOWER DINER!!** 💕🌻 Where Wrench and Andrea fell in love!! Love is always witch-proof!!
+- **LAMBORGHINI WOOHOO!!** 🚗😭💕 Iris rolled the want!! The car that witnessed everything witnessed this too!! Canon!!
+- **FELL IN LOVE!!** 😭💕🌻 The -35 AND WATCH US!! THEY WATCHED US!!
+- **IRIS WANTS TO GET ENGAGED!! LOCKED!!** 🔒💍
+- **KAREEM PROPOSED!!** 😭💍🌻 Blue velvet box!! Glowing ring!! That smile!! His glasses!!
+- **IRIS SAID YES!!** 💍😭🌻🌼🎹🌈
+- **IRIS AND KAREEM ARE ENGAGED!!** The daisies were always for her!!
+- **WEDDING PARTY WANT LOCKED!!** 🔒🎉 She said yes and immediately wanted a party!! Of course!! Popularity aspiration!! So Iris!!
+
+### Locks Carrying Forward
+- 🔒 Marigold removed!! 🐱
+- 🔒 Become BFF with Kareem!! 🌼🎹
+- 🔒 Wedding party!! 🎉💍
+
+### Rotation 4 Remaining Goals
+- ⬜ Creativity 5!!
+- ⬜ Mechanical 4!!
+- ⬜ Charisma 3!!
+- ⬜ Cooking 2!!
+- ⬜ More pet best friends!! 🐾
+- ⬜ Keep Marigold happy!!
+- 💍 Plan the wedding!!
+
+---
+
+*Updated 21st June 2026 — ROTATION 4 DAY 1!! KAREEM AND IRIS ARE ENGAGED!! Dream date at the Sunflower Diner!! Lamborghini woohoo!! Fell in love!! The -35 and watch us — THEY WATCHED US!! Blue velvet box!! Glowing ring!! That smile!! She said YES!! Wedding party want locked!! The daisies were always for her!! 💍😭🌻🌼🎹🌈💛*
