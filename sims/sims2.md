@@ -29,10 +29,13 @@
 | 💚 Cassian | Cassian Hill | Storm and Wrench |
 | 📜 Fourth | Fourth Frisbee | The Pebble House |
 | 🪨 Still-Here | Still-Here Frisbee | The Pebble House |
+| 🌺 Idris | Idris Okafor | Pressed Flowers |
+| 🌸 Clara | Clara Vance | Pressed Flowers |
 
 **Hill siblings:** Liv · Søren · Wrench!! Parents: Sam + Ruth Hill!! 💛
 **Cassian Hill** — Søren's son!! Born Rotation 3!! Son of Søren and P.T. 83!! 👽💚
 **Frisbee siblings:** AWiddleFrisbee · Fourth · Still-Here!! Parents: Dennis + Janet Frisbee!! 😂
+**Okafor-Vance household:** Idris + Clara — best friends, moved to Sunnyside together!! 🌺🌸
 
 ---
 
@@ -53,7 +56,6 @@
 - Sim Liv: Junior Executive Level 4!! Family aspiration!! Nature OTH!! IN LOVE WITH FOURTH!! 🌿💕
 - AWiddleFrisbee: Lounge Singer Level 4!! Popularity aspiration!! Nature OTH!! BFF with Still-Here!! 🌿🎤
 - TWO NATURE FLATMATES!! AWiddleFrisbee wants to become a WEREWOLF!! 🐺🔒
-- AWiddleFrisbee BFF with Still-Here locked want SATISFIED!! ✅
 - Locked: BFF with AWiddleFrisbee (Sim Liv) · BFF with Wrench + Werewolf (AWiddleFrisbee)!!
 
 ### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel + 💚 Cassian
@@ -64,12 +66,20 @@
 - Locked: Be saved from death + be abducted again (Søren) · Robotics badge + wedding party (Wrench)!!
 
 ### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle + 🖤 Footnote
-- Fourth: **Legal Biller Level 4!!** ⚖️ Knowledge aspiration!! **IN LOVE WITH SIM LIV!!** 💕 Science OTH!! 🔬
-- Still-Here: **Party DJ Level 5!!** 🎵🎉 Pleasure aspiration!! **IN LOVE WITH BENJAMIN!!** 💕 Mechanical 3!!
+- Fourth: Legal Biller Level 4!! ⚖️ Knowledge aspiration!! IN LOVE WITH SIM LIV!! 💕 Science OTH!! 🔬
+- Still-Here: Party DJ Level 5!! 🎵🎉 Pleasure aspiration!! IN LOVE WITH BENJAMIN!! 💕 Mechanical 3!!
 - Barnacle rules the house from the window!! 👑🦜
 - Footnote: black kitten!! Genius · Independent · Finicky!! Fourth's cat in Fourth's form!! 🖤🐱
 - WEDNESDAY on the noticeboard!! Unexplained!! Fourth has not asked!!
 - Locked: Propose to Sim Liv (Fourth)!! 💍
+
+### 🌺🌸 Pressed Flowers — Idris + Clara + 🐱 Pepper
+- **MOVED IN 21st June 2026!!** On the zig-zag road!! 🌿
+- Idris Okafor: Popularity aspiration!! Medicine career!! Warmest smile in any room!! Aries!! 🌺
+- Clara Vance: Family aspiration!! Natural Science career!! Observes everything!! Cancer!! 🌸
+- Pepper: tortoiseshell kitten!! Genius · Hyper · Friendly · Vocal · Neat!! Has opinions!! 🐱
+- Clara's house long term — Idris will eventually move out!! 🌿
+- **House:** Craftsman cottage!! Sage green!! Two dormers!! Lavender front garden!! Plant wall!! Blue kitchen!! Naturalist's study!! Back garden with vegetable patches + bird feeder + pink flamingo Idris put there!! 😂
 
 ---
 
@@ -96,7 +106,8 @@
 | 🐕 Hugo | Springer spaniel | AWiddleFrisbee | Friendly MAX · Hyper MAX · Pigpen MAX · Doofus MAX!! Pond inaccessible!! 😂🐕 |
 | 🐠 Kant · Socrates · Spinoza · Ida · Existential Dread · Bertrand | Fish | Søren | Fish tank!! Cassian's first friends!! 😭💚 |
 | 🦜 Barnacle | Parrot | Still-Here | Rules everything!! Was in the loo Day 1!! Witnessed the couch incident!! 👑😂 |
-| 🖤 Footnote | Black kitten | Fourth | Genius · Independent · Finicky!! Fourth's cat in Fourth's form!! Arrived R3!! Was held up like Simba!! Lay flat on floor under Barnacle's cage!! Has witnessed everything!! 😭📜 |
+| 🖤 Footnote | Black kitten | Fourth | Genius · Independent · Finicky!! Fourth's cat in Fourth's form!! Arrived R3!! Was held up like Simba!! 😭📜 |
+| 🐱 Pepper | Tortoiseshell kitten | Clara | Genius · Hyper · Friendly · Vocal · Neat!! Moved in R4!! Black orange cream patches!! Green eyes!! Has opinions about everything!! 🐱🌸 |
 | 🐱 Ink | Black cat | Sable | Future — Rotation 7!! |
 | 🐕 Barnaby | Golden retriever | Theo | Future — Rotation 5!! |
 | 🐱 Newton | Dignified cat | Edie & Arthur | Future — Rotation 10!! |
@@ -117,6 +128,8 @@
 | 🔧 Wrench | Ford F-150 | ⬜ Buy R4 |
 | 📜 Fourth | 1970 Plymouth Sport Fury | ✅ |
 | 🪨 Still-Here | The Gremlin 👹 + Couch Car 🛋️ | ✅ / ⬜ when funds allow |
+| 🌺 Idris | Red car!! | ✅ Warm and noticeable!! Always giving people lifts!! |
+| 🌸 Clara | Cream/gold car!! | ✅ Sensible and considered!! Field guide in the back!! |
 
 ---
 
@@ -136,13 +149,20 @@
 | 📜 Fourth | Virgo | Logical + Good at cleaning | Stinkiness | Legal Biller L4!! Science OTH!! IN LOVE WITH SIM LIV!! Proposal want locked!! Footnote's dad!! Bass guitar!! Ant farm!! ⭐🖤💍 |
 | 🪨 Still-Here | Taurus | Cologne + Great dancer | Good at cleaning | Party DJ L5!! IN LOVE WITH BENJAMIN!! New Years Bash!! Father Time attended!! Rowdy folk song!! 🎵🎉💕 |
 
+## The Okafor-Vance Household 🌺🌸
+
+| Sim | Star Sign | Turns On | Turn Off | Notable |
+|-----|-----------|----------|----------|---------|
+| 🌺 Idris | Aries ♈ | Logical + Cologne | Stinkiness | Doctor!! Popularity aspiration!! Warmest smile in any room!! Søren doesn't stand a chance!! Compatible with AWiddleFrisbee (Libra)!! 😂🌩️ |
+| 🌸 Clara | Cancer ♋ | Logical + Cleaning | Stinkiness | Natural Scientist!! Family aspiration!! Observes everything!! Same sign as Søren — instant chemistry!! 🌩️😭 |
+
 ---
 
 ## Future Households 🌱
 
 | After Rotation | Who Arrives |
 |----------------|-------------|
-| Rotation 3 | 🌺🌸 Idris + Clara — building their house after Pebble House!! |
+| ✅ Rotation 3 | 🌺🌸 Idris + Clara — MOVED IN!! Pressed Flowers!! Zig-zag road!! |
 | Rotation 5 | 🐕 Theo + Barnaby |
 | Rotation 7 | 🖤 Sable + Ink |
 | Rotation 10 | 🌿 Edie + Arthur + Newton |
@@ -160,6 +180,7 @@
 | 🦇🍊 The Flat | ✅ | ✅ | ✅ | | | | | |
 | 🌩️🔧 Storm & Wrench | ✅ | ✅ | ✅ | | | | | |
 | 📜🪨 The Pebble House | ✅ | ✅ | ✅ | | | | | |
+| 🌺🌸 Pressed Flowers | ⬜ | | | | | | | |
 
 ---
 
@@ -200,9 +221,10 @@
 ### After Rotation 3 🌻🌼💍👽⭐🖤
 **🌈 Sunshine Cottage** — *Kitchen fire. Marigold slept through it. SpiderSim feminist awakening. §5,000 bonus. Her own series. Kareem kissed her in the sunflowers. The Lamborghini watched. BFF locked. Marigold 1/20.* 🌻🌼🔥🎨💛
 **🎹 The Music Room** — *Demoted for doing the right thing. Comfort soup. Iris came over awkwardly. Promoted back. Piano by the lamp, snow outside. Iris phoned him. Friends now. Daisies still waiting.* 🎹🌼📞❄️😭💛
-**🦇🍊 The Flat** — *Two Nature flatmates. AWiddleFrisbee electrocuted, went to work. Werewolf want locked. Sim Liv built a snowman after work because she wanted to. BFF with Still-Here. Found out about Fourth at the party. Watching Fourth's wants carefully.* 🌿🌿⛄🐺😂💛
+**🦇🍊 The Flat** — *Two Nature flatmates. AWiddleFrisbee electrocuted, went to work. Werewolf want locked. Sim Liv built a snowman after work because she wanted to. BFF with Still-Here. Found out about Fourth at the party.* 🌿🌿⛄🐺😂💛
 **🌩️🔧 Storm and Wrench** — *Wrench in love at the diner. Proposed. Her feet left the ground. Søren peed in a bush. Puzzle ball with Kareem. Abducted. P.T. 83 sent child support. Cassian Hill born in an alien print cot under a UFO light. Søren held him with that look.* 🌩️🔧💍👽💚😭💛
-**📜🪨 The Pebble House** — *Footnote arrived. Was held up like Simba. Footnote manifested Sim Liv through the front door. Fourth fell in love in his pyjamas. Cloud watching in the garden. Two promotions same day — Legal Biller and Party DJ. Shooting star seen New Years Eve after two rotations of trying. Still-Here and Benjamin in love at midnight. Father Time did contemporary dance on the pavement then became Baby New Year. AWiddleFrisbee found out. Fourth has a proposal want locked and is dressed this time. WEDNESDAY still unexplained.* 📜🪨🖤🦜🎉💍⭐😭💛
+**📜🪨 The Pebble House** — *Footnote arrived. Was held up like Simba. Fourth fell in love in his pyjamas. Cloud watching in the garden. Two promotions. Shooting star seen New Years Eve. Still-Here and Benjamin in love at midnight. Father Time attended and became Baby New Year. Proposal want locked. WEDNESDAY still unexplained.* 📜🪨🖤🦜🎉💍⭐😭💛
+**🌺🌸 Pressed Flowers** — *Just moved in!! Sage green craftsman cottage on the zig-zag road. Clara's naturalist study with the plant wall. Idris's warm living room where everyone will end up. Lavender in the front garden. Vegetable patches in the back. Pink flamingo Idris put there. Pepper has already claimed everything. Søren walks past on the zig-zag road.* 🌺🌸🐱🌿
 
 ---
 
@@ -223,8 +245,13 @@
 - ✅ Still-Here threw the New Years Bash!! Father Time attended!! 🎉⏳😂
 - ✅ Still-Here and Benjamin in love!! Zero bolts!! Midnight kiss!! The rowdy folk song worked!! 🪨🧑💕😭
 - ✅ Shooting star seen!! Two rotations of trying!! New Years Eve!! Worth it!! ⭐😭
+- ✅ Idris and Clara moved into Pressed Flowers!! Sage green craftsman cottage!! Lavender and wildflowers!! Plant wall!! Pepper has claimed everything!! 🌺🌸🐱😭
 - AWiddleFrisbee becomes a werewolf!! 🐺 (locked!!)
 - Fourth proposes to Sim Liv!! In actual clothes!! 💍📜
+- Søren walks past Pressed Flowers on the zig-zag road and finds a reason to walk past again!! 🌩️🌺😂
+- Idris walks into wherever Søren is and Søren is completely unprepared!! 😂🌩️🌺
+- Clara and Søren discover they're both Cancer and have instant chemistry and find this inconvenient!! 😭🌸🌩️
+- Pepper walks straight up to Søren and stares at him until he feels judged!! 😂🐱🌩️
 - Iris has an art show — Kareem stands in front of her painting for a long time then holds her hand!! 😭
 - Baby Lyra born at Sunshine Cottage — Marigold appoints herself guardian!!
 - Wrench and Andrea's wedding!! The whole found family!! 💍🎉
@@ -233,13 +260,12 @@
 - Søren gets abducted again!! He wants to!! 👽🔭
 - Immanuel watching Cassian toddle around with opinions!! 😤💚
 - Still-Here wears the clown suit to The Golden Anchor!! Nobody comments!!
-- Still-Here drives the Couch Car!! Barnacle has seen worse!! 🛋️😂
-- Barnacle and Footnote establish the power dynamic!! 🦜🖤
-- Fourth organises something!! Still-Here undoes it!! This is their whole dynamic!! 😂
+- Clara sits at the end of the patio table with her notebook pretending she's not enjoying the party!! 😂🌸
+- Idris invites everyone round and somehow everyone ends up staying for dinner!! 😂🌺
 - Kareem gives someone the daisies from his inventory!! 😭🌼
 - Søren says one devastating sentence at The Golden Anchor and goes back to his pint!! 😂
 - The whole found family at The Golden Anchor on a Friday!! Nobody planned it!! 😭💛
 
 ---
 
-*Updated 21st June 2026 — ROTATION 3 COMPLETE!! All 5 households done!! Fourth in love!! Shooting star!! Father Time at the New Years Bash!! Still-Here and Benjamin!! Two promotions!! Footnote!! AWiddleFrisbee found out!! WEDNESDAY still unexplained!! Next: build Idris and Clara's house!! 📜🪨🖤🎉⭐💍😭💛*
+*Updated 21st June 2026 — IDRIS AND CLARA MOVED IN!! Pressed Flowers on the zig-zag road!! Sage green craftsman cottage!! Plant wall!! Blue kitchen!! Lavender front garden!! Vegetable patches!! Pink flamingo!! Pepper has claimed everything!! Søren is not ready!! 🌺🌸🐱🌿💛*
