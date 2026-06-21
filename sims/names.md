@@ -40,7 +40,7 @@
 
 ---
 
-## Children's Names — CONFIRMED!! 👶🌈🌿
+## Children's Names — CONFIRMED!! 👶🌈🌿🔧
 
 ### 🎹🌈 Kareem Rainbow + Iris Golden Rainbow — children are RAINBOW!!
 *A proper mix of Kareem's Ghanaian heritage and Iris's sunshine energy!!*
@@ -49,15 +49,15 @@
 
 **Girls — in order:**
 1. 🌟 **Ama Rainbow** — Ghanaian!! Saturday's soul name!! Warm!! Simple!! Kareem's heritage!! 😭
-2. ⭐ **Seren Rainbow** — Welsh for star!! Celestial!! Iris-y!! Unexpected!! 🌟
-3. 🌿 **Vida Rainbow** — means life!! Warm!! Unexpected!! From My Girl!! 💛
+2. ⭐ **Seren Rainbow** — Welsh for star!! Celestial!! Iris-y!! 🌟
+3. 🌿 **Vida Rainbow** — means life!! Warm!! From My Girl!! 💛
 
 **Boys — in order:**
 1. ☀️ **Kofi Rainbow** — Ghanaian!! Friday's soul name!! Strong and warm!! Kareem's heritage!! 😭
-2. 🌈 **Cael Rainbow** — Celtic!! means light!! Sunshine energy!! Iris-y!! 🌈
+2. 🌈 **Cael Rainbow** — Celtic!! means light!! Sunshine energy!! Iris-y!!
 3. 💛 **Remy Rainbow** — warm!! soft!! unexpected!! completely them!!
 
-*As sibling sets: Ama, Seren and Vida Rainbow!! Kofi, Cael and Remy Rainbow!!* 😭🌈💛
+*Ama, Seren and Vida Rainbow!! Kofi, Cael and Remy Rainbow!!* 😭🌈💛
 *They grew up in a yellow cottage with sunflowers and roller skates and a piano dad and a sunshine mum and a dad who carried daisies in his pocket before he even knew who they were for!!* 😭💛
 
 ---
@@ -68,24 +68,38 @@
 **Girls — in order:**
 1. 🌿 **Elowen Frisbee** — elm tree!! Little Tree heritage from Liv!! 😭💛
 2. 🌸 **Briar Frisbee** — nature!! unconventional!! has an edge!!
-3. 🌾 **Sorrel Frisbee** — a plant!! unusual!! completely unexpected!!
+3. 🌾 **Sorrel Frisbee** — a plant!! unusual!! unexpected!!
 
 **Boys — in order:**
 1. 🌲 **Rowan Frisbee** — tree!! strong!! nature!!
-2. 🟢 **Moss Frisbee** — IT Crowd!! chaotic!! nature!! completely them!! 😂🌿
+2. 🟢 **Moss Frisbee** — IT Crowd!! chaotic!! nature!! 😂🌿
 3. 🌊 **Caspian Frisbee** — literary!! adventurous!! Fourth would approve!!
 
-*As sibling sets: Elowen, Briar, Sorrel Frisbee!! Rowan, Moss, Caspian Frisbee!!* 😭🌿
+*Elowen, Briar, Sorrel Frisbee!! Rowan, Moss, Caspian Frisbee!!* 😭🌿
+
+---
+
+### 🔧💍 Wrench Hill + Andrea Hill — children are HILL!!
+*Wrench wanted to name them after tools!! Andrea had to stop him!! The compromise names are secretly all tool-adjacent and Andrea only knows about two of them!! 😂🔧*
+*Note: Spike was vetoed — sounds like a dog name!! Hammer was vetoed — Baby Hammer!! Nut was vetoed immediately!! 😂*
+*Check Andrea's aspiration when she moves in after the wedding!!*
+
+**Girls — in order:**
+1. 🔩 **Flint Hill** — a striking tool!! spark!! fire!! Andrea thought it sounded cool!! 😂
+2. 🏗️ **Ridge Hill** — architectural term!! strong!! Wrench snuck this one in!!
+3. 🌿 **Sloane Hill** — Andrea's complete win!! No tool connection!! Wrench just likes it!!
+
+**Boys — in order:**
+1. 🔧 **Gage Hill** — a measuring tool!! sounds like a name!! Andrea was briefly fooled!! 😂
+2. 🪚 **Sawyer Hill** — timber!! craft heritage!! slightly more respectable!!
+3. ⚙️ **Holt Hill** — a fastening tool!! sounds distinguished!! Andrea had no idea!! 😂
+
+*Flint, Ridge and Sloane Hill!! Gage, Sawyer and Holt Hill!!*
+*Wrench got FIVE tool names past Andrea and she only knows about two of them!!* 😂🔧💕
 
 ---
 
 ## Children's Names — To Figure Out!! 🤔
-
-### 🔧💍 Wrench Hill + Andrea Hill — children are HILL!!
-*Wrench carries black hair recessive from Dad!!*
-- Names need to feel like a builder and a creative person!!
-- Practical!! Warm!! Unexpected!!
-- TBD!!
 
 ### 🌩️🌸 Søren + Clara — TBD if it happens!!
 *Still letting Sunnyside decide!!*
@@ -98,10 +112,11 @@
 
 ## Naming Notes 🌿
 
-- **Rainbow children aesthetic:** Mix of Ghanaian heritage + sunshine Iris energy!! Ama and Kofi carrying Kareem's heritage!! Seren and Cael carrying Iris's celestial sunshine!! Vida and Remy carrying pure warmth!!
-- **Frisbee aesthetic:** Nature-y + unconventional + siblings sound like a set!! Elowen Frisbee!! Moss Frisbee!!
-- **Hidden gene possibilities:** Kareem carries blonde + lilac from Claire — genuinely possible rainbow babies!! 🌈
-- **No repeats:** Clover is already a Lego rabbit!! Marigold is Iris's cat!! Avoid crossover with Sunnyside pets and Jellycats!!
+- **Rainbow aesthetic:** Ghanaian heritage + Celtic sunshine!! Ama and Kofi from Kareem's culture!! Seren and Cael for Iris's celestial energy!! Vida and Remy for pure warmth!!
+- **Frisbee aesthetic:** Nature-y + unconventional + siblings sound like a set!!
+- **Hill aesthetic:** Secretly all tool names!! Wrench is very smug!! Andrea doesn't know yet!! 😂
+- **Hidden gene possibilities:** Kareem carries blonde + lilac from Claire!! Rainbow babies possible!! 🌈
+- **No repeats:** Clover is a Lego rabbit!! Marigold is Iris's cat!! Ember is a Pokémon!! Avoid crossover!!
 
 ---
 
@@ -110,8 +125,9 @@
 
 **Pets:** Marigold · Mira · Immanuel · Hugo · Barnacle · Footnote · Pepper · Kant · Socrates · Spinoza · Ida · Existential Dread · Bertrand
 **Lego creatures:** Marigold (alpaca) · Clover (rabbit) · Basil (gecko) · Gerald (sloth) · Romesh (turtle)
+**Pokémon:** Ember · Blaze · Cinder · Lyra · Tide · Prism · Pebble · Pip — do not reuse!!
 **Sims:** All household Sim names obviously!!
 
 ---
 
-*Updated 21st June 2026 — Rainbow children CONFIRMED!! Ama · Seren · Vida · Kofi · Cael · Remy Rainbow!! Ghanaian heritage + sunshine Iris energy!! A proper mix!! The most perfect children for the most perfect couple!! 🌈☀️💛😭*
+*Updated 21st June 2026 — ALL THREE households' children named!! Rainbow: Ama · Seren · Vida · Kofi · Cael · Remy!! Frisbee: Elowen · Briar · Sorrel · Rowan · Moss · Caspian!! Hill: Flint · Ridge · Sloane · Gage · Sawyer · Holt!! Wrench got five tool names past Andrea!! She only knows about two!! 😂🔧🌈🌿💛*
