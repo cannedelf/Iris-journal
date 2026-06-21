@@ -8,20 +8,20 @@
 ## The Household
 
 | Sim | Career | Level | Aspiration | Lifetime Want | Star Sign |
-|-----|--------|-------|-----------|--------------|-----------|
-| 🦇 Sim Liv Hill | Business — Junior Executive | 4!! | Family | Graduate 3 Children from College!! | Aquarius ♒ |
-| 🍊 AWiddleFrisbee | Entertainment — Lounge Singer | 4!! | Popularity | Become Prestidigitator!! | Libra ♎ |
+|-----|--------|-------|-----------|--------------|----------|
+| 🦇 Sim Liv Hill | Business — Executive | 5!! 💼🎉 | Family | Graduate 3 Children from College!! | Aquarius ♒ |
+| 🍊 AWiddleFrisbee | Entertainment — Ventriloquist | 5!! 🎤😂 | Popularity | Become Prestidigitator!! | Libra ♎ |
 
 ---
 
-## Sim Liv — Current Status (after Rotation 3)
+## Sim Liv — Current Status (after Rotation 4 COMPLETE!!)
 
 ### Appearance
 - Brown wavy hair · hazel eyes · glasses · warm open face · freckles!!
 - Green stripe crop sweater + flared jeans + white converse!!
 - Bear pyjamas — pink and orange!! 😭💛
 - **Hidden genes:** Black hair recessive from Dad!!
-- **Car:** 1976 Ford Mustang!! ⬜ Still to buy!! Rotation 4!!
+- **Car:** 1976 Ford Mustang!! ⬜ Still to buy!! Rotation 5!!
 
 ### Personality
 | Trait | Score |
@@ -36,29 +36,30 @@
 | Skill | Level | Notes |
 |-------|-------|-------|
 | Cooking | 1 | |
-| Cleaning | 1 | ✅ Gained Rotation 3!! Hugo peed on the floor!! 😂 |
-| Charisma | 4 | ✅ ABOVE promotion requirement!! Gained Rotation 3!! 💪 |
-| Creativity | 1 | ✅ Gained at Iris's party!! From Iris's guitar!! 😭💛 |
-| Logic | 1 | ✅ Gained Rotation 3!! Telescope!! 1 more needed for promotion!! 🔭 |
+| Cleaning | 1 | ✅ Hugo weed on the floor!! 😂 |
+| Charisma | 4 | ✅ Above promotion requirement!! |
+| Creativity | 1 | ✅ From Iris's guitar!! |
+| Logic | 2 | ✅ Telescope!! Promotion fired!! |
+| Flower Arranging | Bronze!! | ✅ Badge gained Rotation 4!! 🌸 |
 
 ### One True Hobby
-🌿 **Nature!!** Confirmed Rotation 3!! Making daisies on the florist bench!! Built a snowman after work just because she wanted to!! The game knew who she was!! 💛⛄
+🌿 **Nature!!** Making daisies!! Built a snowman because she wanted to!! Bronze flower arranging badge!! 🌿🌸⛄
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🌈 Iris | BFF!! | Best friends!! | 😭💛 |
-| 🍊 AWiddleFrisbee | Household | Working toward BFF!! | 🔒 Locked!! |
-| 📜 Fourth | **IN LOVE!! 💕** | Came round during Pebble House R3!! ARC moodlet!! Couch!! | Knowledge secondary made her Logical — his turn-on!! Fell in love!! Midnight New Years kiss!! The game decided and we let it!! 😭💕 |
+| 🍊 AWiddleFrisbee | BFF!! | Best friends!! | ✅ Already fired!! |
+| 📜 Fourth | **FIANCÉ!! 💍😭** | IN LOVE!! ENGAGED!! | Fell in love at the Pebble House!! Midnight New Years kiss!! Fourth proposed at the teal arched door in his best suit!! SHE SAID YES!! 💍😭📜🦇 |
+| 🌺 Idris | Want locked!! | BFF want locked!! | Spring want!! 🌺🔒 |
 
-### Promotion Requirements — Business Level 5
-- ✅ Charisma 3!! (at 4 — above requirement!!)
-- ⬜ Logic 2!! (at 1 — one more needed!! 🔭)
-- TBC — check in game for full list!!
+### Promotion Requirements — Business Level 6
+- 📞 **Mystery phone call!! PROMOTION FIRES NEXT WORK DAY!!** 💼🎉
+- TBC — check in game for full requirements!!
 
 ### Aspiration Benefits Spent
 | Column | Tier | Benefit |
-|--------|------|---------|
+|--------|------|--------|
 | Knowledge (secondary) | — | Unlocks Knowledge column!! |
 | Knowledge | 1 | Slower need decay — Fun + Social |
 | Knowledge | 2 | Impart Knowledge |
@@ -66,28 +67,28 @@
 | Work | 1 | Build vacation days quicker |
 | Work | 2 | 🎲 80% better with chance cards!! |
 
-### Aspiration Rewards — The Flat (shared!!)
+### Aspiration Rewards
 | Reward | Bought by | Notes |
 |--------|-----------|-------|
 | 😎 Cool Shades | Sim Liv | First social interaction amplified!! Shared!! |
 | 🌳 Money Tree | The Flat | In a bedroom — safe from NPCs!! §40 per watering!! 💰 |
 
 ### Locked Wants
-- 🔒 **Become best friends with AWiddleFrisbee!!** 🍊
-- ⬜ Slot open!!
+- ✅ ~~Get engaged!!~~ **FIRED!! FOURTH PROPOSED!! SHE SAID YES!!** 💍😭
+- 🔒 **Get married to Fourth!!** 💍😭 LOCKED!!
+- 🔒 **BFF with Idris!!** 🌺 Spring want!! Lock it!!
 
-### The Fourth Situation 💕
-*Sim Liv went round to the Pebble House during R3!! ARC moodlet!! They fell in love on the couch!! Cloud watched in the garden!! Midnight New Years kiss!! She came home from the party in love with Fourth Frisbee!!*
-*Fourth has a proposal want locked. Sim Liv is in love. AWiddleFrisbee knows now. The game decided and we let it!!* 😭💕📜
+### The Fourth Situation 💍
+*Fell in love on the couch at the Pebble House!! Cloud watching in the garden in pyjamas!! Midnight New Years kiss!! Engagement want locked!! Fourth proposed at the teal arched door in his best suit!! She said YES!! ENGAGED!! AWiddleFrisbee is about to find out her best friend is engaged to her brother!! 😂😭🍊*
 
 ---
 
-## AWiddleFrisbee — Current Status (after Rotation 3)
+## AWiddleFrisbee — Current Status (after Rotation 4 COMPLETE!!)
 
 ### Appearance
 - Brown long hair · green eyes · round glasses · round face · freckles!!
 - Daisy print flares + pink tie top + cream cardigan!!
-- **Work outfit: LOUNGE SINGER!!** 🎤
+- **Work outfit: VENTRILOQUIST!!** 😂🎤
 - **Hidden genes:** Ginger hair recessive!!
 
 ### Personality
@@ -102,28 +103,30 @@
 ### Skills
 | Skill | Level | Notes |
 |-------|-------|-------|
-| Charisma | 1 | Promotion requirement!! |
-| Creativity | 2 | Promotion requirement!! |
+| Charisma | 1 | |
+| Creativity | 3 | ✅ Gained Rotation 4!! Improvised a song about unrequited love!! 😂🎤 |
 
 ### One True Hobby
-🌿 **Nature!!** Confirmed Rotation 3 via money tree watering!! After an EXTENSIVE investigation involving pottery wheels, easels, telescopes, computers, and one electrocution!! Sloppy + Playful = Nature!! Two Nature flatmates!! She sensed the werewolf and watered a tree and that's who she is!! 😭😂🌿🐺
+🌿 **Nature!!** After extensive investigation involving pottery, easels, telescopes, computers and electrocution!! 😭😂🌿
 
 ### Relationships
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
-| 🦇 Sim Liv | Household | Friends!! Working toward BFF!! | |
-| 🌈 Iris | BFF!! | Best friends!! Fired quietly!! 😂😭🌈 | |
-| 🪨 Still-Here | **BEST FRIENDS!!** 🍊🪨 | Came round before the New Years Bash!! BFF want satisfied!! | Found out about Fourth and Sim Liv at the same party!! 😂😭 |
-| 🤝 Andrea Hogan | Townie | Friends!! Golden Anchor Day 2!! ⚓ | |
-| 🎹 Kareem | Acquaintance | Chat at The Golden Anchor!! | Day 2 of Rotation 3!! 🍺 |
-| 🔧 Wrench | Friend!! | Working toward best friends!! 🔒 | Called her!! 😭💛 |
+| 🦇 Sim Liv | BFF!! | Best friends!! | Lives together!! |
+| 🌈 Iris | BFF!! | Best friends!! | 🌈😭 |
+| 🪨 Still-Here | BFF!! | BEST FRIENDS!! | 🍊🪨💛 |
+| 🔧 Wrench | BFF!! | BEST FRIENDS!! | 💛 |
+| 💍 Andrea | BFF!! | BEST FRIENDS!! | 💛 |
+| 📜 Fourth | BFF!! | BEST FRIENDS!! | HER BROTHER!! About to find out he's engaged to Sim Liv!! 😂🍊 |
+| 💋 Armando Cox | **Romantic!!** | Kissed + Woohooed!! | Eye print shirt!! 2 bolts!! Same day they met!! Spring!! Clara was there!! Went home!! 😂🍊💕 |
+| 🌺 Idris | Want locked!! | BFF want locked!! | Spring!! 🌺🔒 |
 
-### Promotion Requirements — Entertainment Level 5
-- TBC — check in game for full list!!
+### Promotion Requirements — Entertainment Level 6
+- TBC — check in game!!
 
 ### Aspiration Benefits Spent
 | Column | Tier | Benefit |
-|--------|------|---------|
+|--------|------|--------|
 | Knowledge (secondary) | — | Unlocks Knowledge column!! Romance VETOED!! 😂 |
 | Knowledge | 1 | Slower need decay — Fun + Social |
 | Knowledge | 2 | Impart Knowledge |
@@ -131,15 +134,28 @@
 | Popularity | 1 | More likely to bring a friend home from work |
 | Popularity | 2 | Slower need decay — Bladder + Energy |
 
-### Aspiration Rewards — The Flat (shared!!)
+### Aspiration Rewards
 | Reward | Bought by | Notes |
 |--------|-----------|-------|
 | 🎓 Thinking Cap | AWiddleFrisbee | Skills build faster!! Shared with Sim Liv!! |
-| 🌳 Money Tree | The Flat | In a bedroom — safe from NPCs!! §40 per watering!! 💰 |
+| 🌳 Money Tree | The Flat | In a bedroom — safe from NPCs!! 💰 |
 
 ### Locked Wants
-- 🔒 **Become best friends with Wrench!!** 🔧
-- 🔒 **BECOME A WEREWOLF!!** 🐺 The werewolf was already in Sunnyside!! She sensed it!! Locked Rotation 3!!
+- 🔒 **BFF with Wrench!!** 🔧 Still working toward it!!
+- 🔒 **BECOME A WEREWOLF!!** 🐺 The werewolf is out there!! It visited Storm and Wrench!! Waiting!!
+- 🔒 **BFF with Idris!!** 🌺 Spring want!!
+
+---
+
+## Armando Cox 💋
+*Townie — AWiddleFrisbee's romantic interest!!*
+
+| | |
+|--|--|
+| **Appearance** | Dark skin · moustache · grey/green eyes · EYE PRINT SHIRT!! 👁️ |
+| **Attraction** | 2 bolts with AWiddleFrisbee!! |
+| **Met** | Invited round Day 1 Rotation 4!! Kissed and woohooed same day!! Spring!! |
+| **Notable** | Clara came round to make friends and witnessed the whole thing!! Went home immediately!! 😂 |
 
 ---
 
@@ -161,119 +177,83 @@
 
 ### Hugo's Autonomous Moments
 - Weed on the living room floor Rotation 1!! 😂
-- **Knocked over the bin and ate from it Rotation 2!!** 🗑️
-- **Attacked the rainbow rug Rotation 2!!** 🌈😂
-- **Slept in his garden house like a perfect angel!!** 😭🐕
-- Stayed cosy in his bay window while Iris visited!!
-- **Weed on the floor AGAIN Rotation 3 Day 1!!** Gave Sim Liv a Cleaning skill!! 😂🧹
+- Knocked over the bin and ate from it Rotation 2!! 🗑️
+- Attacked the rainbow rug Rotation 2!! 🌈😂
+- Slept in his garden house like a perfect angel!! 😭🐕
+- Weed on the floor AGAIN Rotation 3!! Gave Sim Liv a Cleaning skill!! 😂🧹
+- **ROLLED IN HIS OWN WEE!! Rotation 4!! Outside!! Then AWiddleFrisbee gave him a bath before work!!** 😂🛁🐕
+- **Witnessed AWiddleFrisbee and Armando's woohoo!!** Has seen things!! 😂🐕
 
 ### The Pond Situation 🌊
-*The pond next door is decorative — Hugo cannot access it!! He is being protected from himself by geography!! His destiny of falling in something remains unfulfilled!! A puddle will have to do!!* 😂🐕💦
+*Still decorative!! Hugo still cannot access it!! Geography continues to protect him from himself!! 😂🐕💦*
 
 ---
 
 ## The Flat — The House 🏠
 
-### What's In It
 - 🥂 **Bar** · 🎶 **Stereo** · 🎸 **Guitar**
 - 🚗 **Teal flame Nissan Skyline** — AWiddleFrisbee's!!
-- 🌸 **Florist bench** — Sim Liv's!! Bronze badge in progress!! Nature OTH!! 🌿
-- 🌼 **Sim Liv making daisies!!** 😭 Kareem has daisies in his inventory!! They don't know yet!!
-- 🔭 **Telescope** — bought Rotation 3!! Logic for Sim Liv!!
-- 🌳 **Money Tree** — bought Rotation 3!! In a bedroom!! Safe!! §40 per watering!! 💰
-- 🎓 **Thinking Cap** — AWiddleFrisbee's!! Shared with Sim Liv!!
+- 🌸 **Florist bench** — Sim Liv's!! **BRONZE BADGE!!** 🌸🏅
+- 🌼 **Sim Liv making daisies!!** 😭🌼
+- 🔭 **Telescope** — Logic 2 achieved!! 🔭
+- 🌳 **Money Tree** — in a bedroom!! Safe!! 💰
+- 🎓 **Thinking Cap** — AWiddleFrisbee's!! Shared!!
 - 😎 **Cool Shades** — Sim Liv's!! Shared!!
 
 ### Key Canon Facts
 - **TEAL arched door!!**
 - **Hugo's bed in the bay window!!** 👑🐕
-- **Hugo's garden house!!** He fits in it!! Just about!! 😂
-- **Mismatched curtains** — teal left, gold right!!
-- **Dusty pink bedroom** (Sim Liv — THE FLOORDROBE SITUATION!!)
-- **Dark green bedroom** (AWiddleFrisbee — COFFEE GOBLIN HEADQUARTERS!!)
-- **SHEEP PAINTING** in bathroom!! 🐑
-- **Sage green cabinets!!**
+- **Hugo's garden house!!** He fits!! Just about!! 😂
 - **TWO coffee machines!!**
 - **Rainbow rug that never stays straight!!** Hugo tried to destroy it!! 😂
-- **The pond next door** — decorative!! Hugo cannot fall in!! Geography has saved him!! 😂💦
-
----
-
-## Rotation 1 — Highlights 🦇🍊
-- AWiddleFrisbee made friends with Andrea in the RAIN!!
-- Hugo weed on the living room floor!! 😂
-- Iris visited!! Sim Liv and Iris short term bar hit 100!!
-- Teal flame car purchased!!
-- AWiddleFrisbee missed the Mime promotion!! Never again!!
-- **SNOOZER PARTY!!** Negative memory!! Lessons learned!!
-
----
-
-## Rotation 2 ✅ COMPLETE!! 🎉🦇🍊🐕
-- **THREE promotions for Sim Liv!!** Level 1 → Level 4 Junior Executive!! 💼🎉
-- **AWiddleFrisbee: Mime → Lounge Singer Level 4!!** 🎤🎉
-- **DOUBLE PROMOTION SATURDAY!!** 🎉🎉
-- Hugo ate from the bin!! Attacked the rainbow rug!! Slept in garden house like an angel!! 😂🐕
-- Sim Liv making daisies on the florist bench!! 😭🌼
-- **Iris called AWiddleFrisbee — BFF!!** Fired quietly!! 😭🌈🍊
+- **⚡ Lightning strike + fire!! Rotation 4!!** Outside!! Rain saved the day!! ☔🔥
+- **The mystery phone call!!** Boss's cousin!! Promotion coming!! 📞
+- **AWiddleFrisbee is now a VENTRILOQUIST!!** 😂🎤 Ripe for a comeback!!
+- **AWiddleFrisbee has a dummy!!** Nobody knew!! It came in handy!! 😂
 
 ---
 
 ## Rotation 3 ✅ COMPLETE!! 🌿🐺⛄
-
-### Before Play — Aspiration Points
-- Knowledge secondary for BOTH!! Eureka + Impart Knowledge!! 🎓
-- Work Tier 1+2 for Sim Liv!! Popularity Tier 1+2 for AWiddleFrisbee!!
-- **Knowledge secondary accidentally gave Sim Liv 2 bolts with Fourth!!** 😂😭
-- **Thinking Cap + Cool Shades + Money Tree purchased!!** 🎓😎🌳
-- **AWiddleFrisbee VETOED Romance secondary!!** Canon!! 😂
-
-### Day 1
-- Hugo weed on the floor AGAIN!! Sim Liv gained Cleaning skill!! 😂🧹
-- AWiddleFrisbee gaining fame!! "Booyeah!! This week was amazing!!" 😭🎤
-- **AWiddleFrisbee ELECTROCUTED!! Became a skeleton!! Blue lightning!!** 💀⚡
-- **Went to work IMMEDIATELY after!!** Completely unbothered!! Playful 9!! 😂
-- **NATURE OTH CONFIRMED FOR BOTH!!** Sim Liv via florist bench!! AWiddleFrisbee via money tree!! After extensive investigation!! 😂🌿🌿
-- **AWIDDLEFRISBEE ROLLED WANT TO BECOME A WEREWOLF!! LOCKED!!** 🐺🔒
-
-### Day 2
-- AWiddleFrisbee's day off!! 🎉
-- **THE GOLDEN ANCHOR!!** ⚓🍺 Chat with Andrea Hogan!! Chat with Kareem!! Darts!! 🎯
-- Went home tired!! Good day off!! Very her!! 😂💛
-
-### Day 3
-- Sim Liv home from work!!
-- **BUILT A SNOWMAN AUTONOMOUSLY!!** Just because she wanted to!! Playful 7 + Nature OTH!! 😭⛄🌿
-- **CHARISMA 4!!** Above promotion requirement!! 💪
-- **LOGIC 1!!** One more needed for promotion!! 🔭
-- Went to bed happy!! She's earned it!! 💛
-
-### During Pebble House Rotation 3 — Events Affecting The Flat!! 💕
-- **SIM LIV WENT ROUND TO THE PEBBLE HOUSE!!** ARC moodlet!! Fourth's ARC triggered when she arrived!! 💕
-- **FELL IN LOVE ON THE COUCH!!** Barnacle and Footnote both witnessed!! 🦜🖤
-- **CLOUD WATCHING IN THE GARDEN!!** Fourth in his pyjamas!! She had her arm around him!! He looked at the sky like he couldn't believe it was real!! 😭💕
-- **AWIDDLEFRISBEE CAME ROUND BEFORE THE NEW YEARS BASH!!** 🍊
-- **AWIDDLEFRISBEE AND STILL-HERE BECAME BEST FRIENDS!!** Want satisfied!! 🍊🪨💛
-- **NEW YEARS BASH AT THE PEBBLE HOUSE!!** Father Time attended!! 🎉⏳
-- **SIM LIV AND FOURTH MIDNIGHT KISS!!** 💕📜
-- **AWIDDLEFRISBEE FOUND OUT ABOUT FOURTH AND SIM LIV!!** 😂😭🍊 At the party!! Classic Sunnyside!!
+- Knowledge secondaries for both!! Eureka!! 🎓
+- AWiddleFrisbee ELECTROCUTED!! Went to work immediately!! 😂⚡
+- NATURE OTH CONFIRMED FOR BOTH!! 🌿🌿
+- WEREWOLF WANT LOCKED!! 🐺🔒
+- Sim Liv built a snowman because she wanted to!! 😭⛄
+- Sim Liv fell in love with Fourth at the Pebble House!! Midnight New Years kiss!! 💕📜
+- AWiddleFrisbee found out about Fourth and Sim Liv at the party!! 😂🍊
 
 ---
 
-### Locks Carrying into Rotation 4
-- 🔒 Become best friends with AWiddleFrisbee!! 🍊 (Sim Liv)
-- 🔒 Become best friends with Wrench!! 🔧 (AWiddleFrisbee)
+## Rotation 4 ✅ COMPLETE!! 💼🎤💍🐕😂
+
+### The Most Important Things!!
+- **SIM LIV: EXECUTIVE LEVEL 5!!** 💼🎉 Logic 2!! Promotion fired!! Her own office with a door that closes!!
+- **ANOTHER PROMOTION COMING!!** Mystery phone call from boss's cousin!! Fires next work day!! 💼📞
+- **SIM LIV: BRONZE FLOWER ARRANGING BADGE!!** 🌸🏅 Nature OTH delivering!!
+- **AWIDDLEFRISBEE: VENTRILOQUIST LEVEL 5!!** 😂🎤 Has a dummy!! Ripe for a comeback!!
+- **AWIDDLEFRISBEE CREATIVITY 3!!** Improvised a song about unrequited love!! Gained a skill point!! 😂🎤
+- **ARMANDO COX IN THE EYE PRINT SHIRT!!** 👁️ 2 bolts!! Kissed and woohooed same day!! Spring!! 💕😂🍊
+- **CLARA WITNESSED IT AND WENT HOME!!** 😂🌸
+- **HUGO ROLLED IN HIS OWN WEE AND GOT A BATH!!** 😂🛁🐕
+- **LIGHTNING STRIKE + FIRE!!** Rain saved the day!! ☔🔥
+- **SIM LIV IS ENGAGED TO FOURTH!!** 💍😭 He proposed at the teal arched door in his best suit!! She said YES!! Engagement want fired!!
+- **WEREWOLF NEVER SHOWED UP!!** AWiddleFrisbee is waiting!! 🐺
+- **AWiddleFrisbee is about to find out her brother proposed to her best friend!!** 😂🍊😭
+
+### Locks Carrying into Rotation 5
+- 🔒 Get married to Fourth!! 💍😭 (Sim Liv)
+- 🔒 BFF with Idris!! 🌺 (both!!)
+- 🔒 BFF with Wrench!! 🔧 (AWiddleFrisbee)
 - 🔒 BECOME A WEREWOLF!! 🐺 (AWiddleFrisbee)
 
-### Rotation 4 Goals
-- ⬜ Logic 2 for Sim Liv — PROMOTION FIRES!! 🔭💼
-- ⬜ Buy the Ford Mustang!! 🚗
-- ⬜ AWiddleFrisbee and Wrench BFF!! 🔧
-- ⬜ Find the werewolf in Sunnyside!! 🐺👀
-- ⬜ Watch Sim Liv's wants re: Fourth!! 💕📜
-- ⬜ Water the money tree!! 🌳💰
-- ⬜ AWiddleFrisbee processes the Fourth and Sim Liv situation!! 😂🍊
+### Rotation 5 Goals
+- 💼 ANOTHER PROMOTION for Sim Liv!! First day of work!!
+- 🚗 Ford Mustang!! Finally!! 🚗
+- 🐺 Find the werewolf!! AWiddleFrisbee's destiny!!
+- 💍 Wedding planning — Fourth and Sim Liv!!
+- 🌺 Meet Idris!! BFF want!!
+- 🍊 AWiddleFrisbee finds out Fourth is engaged!! 😂😭
 
 ---
 
-*Updated 21st June 2026 — Rotation 3 COMPLETE!! Knowledge secondaries!! Two Nature flatmates!! AWiddleFrisbee electrocuted then went straight to work!! Werewolf want LOCKED!! Sim Liv built a snowman!! Charisma 4!! Logic 1!! AND THEN — Sim Liv fell in love with Fourth at the Pebble House!! Midnight New Years kiss!! AWiddleFrisbee became BFFs with Still-Here and found out about Fourth at the same party!! Sunnyside never misses!! 🌿🐺⛄💕😂💛*
+*Updated 21st June 2026 — ROTATION 4 COMPLETE!! Sim Liv Executive Level 5!! Bronze flower arranging badge!! Another promotion coming!! AWiddleFrisbee Ventriloquist Level 5!! Creativity 3!! Armando Cox in the eye print shirt!! Clara witnessed it and went home!! Hugo rolled in his own wee!! Lightning strike!! Rain saved the day!! SIM LIV IS ENGAGED TO FOURTH!! He proposed at the teal door in his best suit!! She said YES!! AWiddleFrisbee is about to find out!! 💍😭📜🦇🍊💼🎤🐕😂🌸💛*

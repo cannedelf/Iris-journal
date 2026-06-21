@@ -74,15 +74,16 @@
 | Sim | Type | Status | Notes |
 |-----|------|--------|-------|
 | 🪨 Still-Here | Sibling | They live together!! | Fourth organises!! Still-Here undoes it!! |
-| 🍊 AWiddleFrisbee | Sibling | Sister!! She knows now!! 😂 | Found out at the New Years Bash!! |
+| 🍊 AWiddleFrisbee | Sibling | Sister!! She knows now!! 😂 | Found out at the New Years Bash!! About to find out he's ENGAGED!! 😂🍊 |
 | 🦜 Barnacle | Pet | In progress!! | |
-| 🖤 Footnote | Pet | His cat!! 😭 | Genius · Independent · Finicky · Fourth in cat form!! |
-| 🦇 Sim Liv | **IN LOVE!! 💕** | Couch!! Midnight New Years kiss!! | Proposal want LOCKED!! 💍 She was unavailable all Rotation 4 when he tried to ring!! 😂 |
+| 🖤 Footnote | Pet | His cat!! 😭 | Genius · Independent · Finicky · Fourth in cat form!! Witnessed the proposal!! |
+| 🦇 Sim Liv | **FIANCÉE!! 💍😭** | IN LOVE!! ENGAGED!! | Fell in love on the couch!! Midnight New Years kiss!! He proposed at the teal arched door in proper clothes!! SHE SAID YES!! 😭💍📜🦇 |
 | 🧙‍♀️ Dorothy | Acquaintance | 2 BOLTS!! | Elder!! Cannot happen!! 😂 |
 | 🌸 Clara | Acquaintance | 2 BOLTS!! | Won't talk to her!! He loves Sim Liv!! Cannot happen!! 😂 |
 
 ### Locked Wants
-- 🔒 **Propose to Sim Liv!!** 💍 — Not yet!! Proper clothes required!!
+- ✅ ~~Propose to Sim Liv!!~~ **FIRED!! ROTATION 4!! AT THE TEAL ARCHED DOOR!! IN PROPER CLOTHES!!** 💍😭
+- 🔒 **Get married to Sim Liv!!** 💍😭 LOCKED!!
 - ✅ ~~See a shooting star!!~~ — SEEN!! New Years Eve!! ⭐😭
 - ✅ ~~Adopt a kitten or puppy!!~~ — FOOTNOTE!! 🖤🐱
 
@@ -122,7 +123,7 @@
 
 ### Aspiration Rewards Purchased
 | Item | Cost | Notes |
-|------|------|-------|
+|------|------|---------|
 | 😎 Cool Shades | §10,000 | First social interaction amplified!! Works on Father Time!! |
 | 🌳 Money Tree | §3,000 | Still-Here's bedroom!! Somehow!! |
 
@@ -144,10 +145,10 @@
 | 🍊 AWiddleFrisbee | Sibling | **BEST FRIENDS!!** 💛 | AWiddleFrisbee's locked want satisfied!! |
 | 🦜 Barnacle | Pet | BEST FRIENDS!! | Rules the house together!! 👑 |
 | 🖤 Footnote | Pet | In progress!! | Absolutely tried!! Footnote has thoughts!! 😂 |
-| 🧑 Benjamin Kirby | **IN LOVE!!** 💕 | Midnight New Years kiss!! | Zero bolts!! Dream date!! Begged to go again!! Fell in love anyway!! The rowdy folk song worked!! 😂💕 |
+| 🧑 Benjamin Kirby | **IN LOVE!!** 💕 | Dream date at The Golden Anchor!! Gremlin woohoo!! | Zero bolts!! Fell in love anyway!! The rowdy folk song worked!! 😂💕 |
 
 ### Locked Wants
-- 🔒 **Go on a date!!** 💕 Rolling Rotation 4!! Taking Benjamin to The Golden Anchor!! ⚓
+- ✅ ~~Go on a date!!~~ **DREAM DATE!! THE GOLDEN ANCHOR!! THE GREMLIN WOOHOO!!** 😂💕🪨
 - ✅ ~~Throw a party!!~~ — NEW YEARS BASH!! FATHER TIME ATTENDED!! 🎉⏳
 - ✅ ~~Get a pet!!~~ — FOOTNOTE!! 🖤🐱
 
@@ -160,7 +161,7 @@
 |--|--|
 | **Appearance** | Ginger hair!! Green eyes!! Yellow striped jacket!! |
 | **Attraction** | Zero bolts with Still-Here — but IN LOVE anyway!! 💕 |
-| **Notable** | Dream date at zero bolts!! Begged to go again!! Fell in love at New Years!! Watched Father Time do contemporary dance and thought yes, this is the one!! 😂💕 |
+| **Notable** | Dream date at The Golden Anchor!! Woohooed in The Gremlin!! Zero bolts!! In love!! Father Time did contemporary dance at their party and he thought yes, this is the one!! 😂💕 |
 
 ---
 
@@ -172,7 +173,7 @@
 | **Type** | Good witch!! |
 | **Age** | Elder!! |
 | **Attraction** | 2 bolts with Fourth!! |
-| **Notable** | Met while Fourth was looking for a games console!! Invited to New Years Bash!! Assessed the situation (Sim Liv attending), stayed home!! Correct decision!! 😂 |
+| **Notable** | Met while Fourth was looking for a games console!! Invited to New Years Bash!! Stayed home!! Correct decision!! 😂 |
 
 ---
 
@@ -182,7 +183,7 @@
 - Was in the downstairs loo Day 1!! The cage is a suggestion!!
 - Best friends with Still-Here!!
 - Has opinions about Footnote!!
-- Witnessed the couch incident!! Has THOUGHTS!!
+- **Witnessed the proposal at the teal arched door!!** Has EXTENSIVE THOUGHTS!! 😂🦜💍
 
 ---
 
@@ -195,14 +196,14 @@
 | **Personality** | Genius · Independent · Finicky |
 | **Owner** | Fourth — his cat in his form!! 😭 |
 | **Named by** | Iris Golden Rainbow, obviously!! 🌈 |
-| **Lore** | THE TEXT PEBBLE AND GARLIC BREAD has a Footnote!! Smart, self-sufficient, particular about everything. Sits on the alphabetical bookshelf judging everyone. Barnacle rules loudly from the window. Footnote rules quietly from the shelf. Arrived Day 1 Rotation 3, held up like Simba. Was present for the couch incident. Has witnessed everything. Has opinions about all of it. 😂🖤 |
+| **Lore** | THE TEXT PEBBLE AND GARLIC BREAD has a Footnote!! Smart, self-sufficient, particular about everything. Sits on the alphabetical bookshelf judging everyone. Barnacle rules loudly from the window. Footnote rules quietly from the shelf. Arrived Day 1 Rotation 3, held up like Simba. Was present for the couch incident. **Witnessed the proposal at the teal arched door!! Has filed this information.** 😂🖤💍 |
 
 ---
 
 ## The Pebble House — The House 📜🪨
 
 - **Warm terracotta brick!! Teal arched door!!** Central location!!
-- **The Gremlin** 👹🚗 — white car with screaming face!!
+- **The Gremlin** 👹🚗 — white car with screaming face!! **Scene of Still-Here and Benjamin's dream date woohoo!! Canon forever!!** 😂💕
 - **Fourth's bicycle** — locked properly every time!!
 - **Back garden telescope** — 2 unknown stars discovered!! Shooting star New Years Eve!! 🔭⭐
 - **BARNACLE'S CAGE** by the front window — maximum surveillance!! 🦜
@@ -214,6 +215,7 @@
 - **🎵 Stereo** — stays forever!!
 - **Fourth's bedroom:** Forest green · alphabetical bookshelf · NOTHING ON THE FLOOR!! Money tree!! Thinking Cap!! Footnote!! Ant farm!!
 - **Still-Here's bedroom:** Two different walls · disco ball · neon UFO sign · chaos!! Money tree somehow!!
+- **THE TEAL ARCHED DOOR** — where Fourth proposed to Sim Liv in proper clothes!! Canon forever!! 💍😭
 
 ---
 
@@ -245,13 +247,33 @@
 - **NEW YEARS BASH!!** Father Time attended!! Contemporary dance!! Baby New Year!! 🎉⏳
 - **FOURTH AND SIM LIV MIDNIGHT KISS!!** 💕📜🦇
 - **STILL-HERE AND BENJAMIN FELL IN LOVE!!** Zero bolts!! The rowdy folk song worked!! 😂💕
-- **Fourth's proposal want LOCKED!!** 💍 Proper clothes required!!
+- **Fourth's proposal want LOCKED!!** 💍
 - **WEDNESDAY still unexplained!!** Fourth has not asked!!
-
-### Locks Carrying into Rotation 4
-- 🔒 Propose to Sim Liv!! 💍 (Fourth)
-- 🔒 Go on a date!! 💕 (Still-Here — The Golden Anchor!! ⚓)
 
 ---
 
-*Updated 21st June 2026 — Added NB note for Still-Here (they/them in lore, female in game — Sims 2 limitation!!) · Rotation 4 in progress!! Still-Here taking Benjamin to The Golden Anchor!! Fourth at work with a proposal want burning a hole in his pocket!! WEDNESDAY still unexplained!! 📜🪨🖤🦜💍⭐😭💛*
+## Rotation 4 ✅ COMPLETE!! 💍😭📜🦇
+
+### The Most Important Things!!
+- **FOURTH PROPOSED TO SIM LIV!!** 💍😭 AT THE TEAL ARCHED DOOR!! IN HIS PROPER CLOTHES!! The gold glasses!! The grey suit!! The dark waistcoat + sage shirt + tie!! He fell in love in PYJAMAS and proposed in his BEST SUIT!! 😭📜💍
+- **SIM LIV SAID YES!!** 💍😭 Fourth Frisbee and Sim Liv Hill are ENGAGED!!
+- **FOURTH: GET MARRIED TO SIM LIV LOCKED!!** 🔒💍 AWiddleFrisbee is about to find out!! 😂🍊
+- **Barnacle witnessed the proposal from the window!!** Has thoughts!! 🦜😂
+- **Footnote witnessed the proposal from the bookshelf!!** Has filed the information!! 🖤😂
+- **STILL-HERE AND BENJAMIN: DREAM DATE AT THE GOLDEN ANCHOR!!** 🍺⚓💕
+- **THE GREMLIN WOOHOO!!** 😂👹🚗💕 Zero bolts!! In love anyway!! The car with the screaming face has witnessed history!!
+- **WEDNESDAY STILL UNEXPLAINED!!** Fourth still has not asked!! 😂
+
+### Locks Carrying into Rotation 5
+- 🔒 **Get married to Sim Liv!!** 💍 (Fourth)
+
+### Rotation 5 Goals
+- 💍 Wedding planning!! When does Fourth and Sim Liv's wedding happen??
+- 📜 AWiddleFrisbee finds out her brother is engaged to her best friend!! 😂🍊
+- 🔭 Fourth: more skills toward 7 maxed!!
+- 🪨 Still-Here: what does she want next after the dream date??
+- ❓ WEDNESDAY!! Someone ask about WEDNESDAY!!
+
+---
+
+*Updated 21st June 2026 — ROTATION 4 COMPLETE!! FOURTH PROPOSED TO SIM LIV AT THE TEAL ARCHED DOOR IN PROPER CLOTHES!! He fell in love in pyjamas and proposed in his best suit!! She said YES!! ENGAGED!! Barnacle witnessed it!! Footnote filed it!! Still-Here and Benjamin dream date at The Golden Anchor!! Gremlin woohoo!! Canon forever!! WEDNESDAY STILL UNEXPLAINED!! 💍😭📜🦇🦜🖤👹🚗💕*
