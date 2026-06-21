@@ -39,7 +39,7 @@
 
 ### STILL-HERE MOVES TO THE FLAT!! 🪨🍊
 - Still-Here moves out of the Pebble House into Sim Liv's old room!!
-- **The Flat becomes:** AWiddleFrisbee + Still-Here + Hugo!! 
+- **The Flat becomes:** AWiddleFrisbee + Still-Here + Hugo!!
 - Three chaotic beings under one roof!! 😂🍊🪨🐕
 - Does Barnacle come with Still-Here?? TBD!! 🦜
 - **PERFECT for AWiddleFrisbee's werewolf arc!!** Fewer people to witness!! 🐺
@@ -52,7 +52,7 @@
 - Wrench and Andrea move in!!
 - Study → Robotics Workshop!! 🤖
 - The windmill stays!! Canon lore!! 🌬️
-- Their own home at last!! Sunflowers in the kitchen!! 🌻 (was always the dream!!)
+- Their own home at last!! Sunflowers in the kitchen!! 🌻
 
 ---
 
@@ -74,14 +74,34 @@
 
 ---
 
+## Future Children — Names Confirmed!! 👶🌿
+
+### Fourth Frisbee + Sim Liv Hill — Children!! 📜🦇
+*Surname: Frisbee-Hill!!*
+*Nature-y!! Unconventional!! Proper sibling set!!*
+
+**Girl names — in order:**
+1. 🌿 **Elowen** — elm tree!! Little Tree heritage from Sim Liv!! 😭💛
+2. 🌸 **Briar** — nature!! unconventional!! has an edge!! very Frisbee-Hill!!
+3. 🌾 **Sorrel** — a plant!! unusual!! completely unexpected!!
+
+**Boy names — in order:**
+1. 🌲 **Rowan** — tree!! strong!! nature!! Hill energy!!
+2. 🟢 **Moss** — IT Crowd!! chaotic!! nature!! completely them!! 😂🌿
+3. 🌊 **Caspian** — literary!! adventurous!! Fourth would approve!!
+
+*As sibling sets: Elowen, Briar, Sorrel!! Rowan, Moss, Caspian!! Frisbee-Hill energy through and through!!* 😭🌿
+
+---
+
 ## Still To Figure Out!! 🤔
 
 - Does Barnacle go with Still-Here to The Flat or stay in the Pebble House??
 - When does Fourth and Sim Liv's wedding party happen??
-- Where does the Couch Car end up?? The Gremlin presumably stays with Still-Here!!
-- Does Still-Here need a new car or keep The Gremlin?? 😂👹
+- The Gremlin presumably stays with Still-Here!! 😂👹
 - What happens to The Flat's money tree when Sim Liv leaves??
+- Baby names for other households?? Kareem and Iris?? Wrench and Andrea??
 
 ---
 
-*Created 21st June 2026 \u2014 Rotation 5 is the wedding rotation!! Wrench and Andrea!! Kareem and Iris!! Fourth and Sim Liv!! Still-Here moves to The Flat!! Wrench and Andrea move into The Music Room!! The whole of Sunnyside is reshuffling and it's going to be extraordinary!! \ud83d\udc8d\ud83d\ude2d\ud83c\udf08\ud83d\udc9b*
+*Updated 21st June 2026 — Added Fourth and Sim Liv's children's names!! Elowen!! Briar!! Sorrel!! Rowan!! Moss!! Caspian!! Frisbee-Hill energy!! Nature-y!! Unconventional!! A proper sibling set!! 🌿🌸🌾🌲🟢🌊💛*
