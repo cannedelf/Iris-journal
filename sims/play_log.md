@@ -7,8 +7,9 @@
 ---
 
 ## Rotation Order
-Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pebble House!!
+No fixed order — play all households each rotation, mix it up!! 🌻
 **3 Sim days per household per rotation!!**
+**Households from Rotation 4:** Sunshine Cottage · The Music Room · The Flat · Storm and Wrench · The Pebble House · Pressed Flowers!!
 
 ---
 
@@ -23,11 +24,12 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 ## Party Lessons Learned!! 🎉📝
 *For next time anyone throws a party!!*
 - Get guests' needs HIGH before the party starts!!
-- Get dancing happening EARLY — not at the end!!
+- Get dancing happening EARLY!!
 - Keep everyone in the SAME ROOM!!
-- The decorations are never the problem!! 😂
 - Hired bartender — good call!! Keep it!!
-- **Invite Kareem next time!!** He would have saved it!! 😭😂🎹
+- **Invite Kareem next time!!** He would have saved it!! 😂😭🎹
+- Cool Shades on the first interaction with every guest!!
+- Rowdy folk song gets group friendship up fast!!
 
 ---
 
@@ -37,215 +39,119 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 | Fear | Sim | When | Locked? | Notes |
 |------|-----|------|---------|-------|
 | Marigold removed!! 😭 | Iris | R1 Day 1 | 🔒 Protective lock!! | Will never fire — Marigold is safe forever!! 🐱💛 |
-| Marigold runs away!! 😭 | Iris | R1 Day 1 | ⬜ Warning light!! | Keep Marigold happy!! 🐱 |
-| Sim Liv dies!! 😭 | Iris | R2 Day 1 | ⬜ Warning light!! | She's the BFF!! Keep her visited!! 💛 |
-| Be enemies with Sim Liv!! | Iris | R2 Day 1 | ⬜ Warning light!! | Will never happen!! 💛 |
-| Mira runs away!! 😭 | Kareem | R1 Day 2 | ⬜ Warning light!! | Keep Mira happy!! 🐱 |
-| Lousy party!! 😭 | AWiddleFrisbee | R1 Day 3 | ⬜ | FIRED!! Negative memory!! Snoozer party!! Lessons learned!! 😭😂 |
-| Sim Liv dies!! 😭 | Fourth | R2 Day 2 | ⬜ Warning light!! | She's his best friend!! He is taking this very seriously!! 😂😭 |
-| Andrea leaves him at the altar!! 😭 | Wrench | R3 Day 3 | ⬜ Warning light!! | He loves her so much it scares him!! Keep relationship high!! 💕 |
+| Marigold runs away!! 😭 | Iris | R1 Day 1 | ⚠️ Warning light!! | Keep Marigold happy!! 🐱 |
+| Sim Liv dies!! 😭 | Iris | R2 Day 1 | ⚠️ Warning light!! | She's the BFF!! Keep her visited!! 💛 |
+| Lousy party!! 😭 | AWiddleFrisbee | R1 Day 3 | ⚠️ | FIRED!! Snoozer party!! Lessons learned!! 😂 |
+| Sim Liv dies!! 😭 | Fourth | R2 Day 2 | ⚠️ Warning light!! | She's his best friend!! 😂😭 |
+| Andrea leaves him at the altar!! 😭 | Wrench | R3 Day 3 | ⚠️ Warning light!! | He loves her so much it scares him!! 💕 |
+| Being struck by lightning!! | Clara | R4 Day 2 | ⚠️ | Also WANTS to be struck by lightning!! Simultaneously!! FOR SCIENCE!! 😂⚡ |
+| Benjamin proposing!! 😂 | Still-Here | R4 Day 1 | ⚠️ | Expired!! Benjamin was perfectly well behaved!! 😂🪨 |
 
 ---
 
 ## Rotation 1 ✅ COMPLETE!!
 
 ### 🌈 Sunshine Cottage — Iris + Marigold ✅
-- Marigold friends!! Lifetime want: 1/?? 🐱
-- First painting: SUNFLOWER!! 🌻 Promoted!! Met Sim Liv at the park by accident!!
+- Marigold friends!! Lifetime want: 1/?? 🐱 First painting: SUNFLOWER!! Promoted!! Met Sim Liv at the park!!
 - Party want locked!! Marigold on the floor by choice!! 😭🐱
 
 ### 🎹 The Music Room — Kareem + Mira ✅
 - Adopted Mira!! Dreamed about each other!! 😭💛
-- Daisies in inventory — nobody to give them to yet!! 😭🌼
-- Went to park!! She wasn't there!! Not yet!! 👀
+- Daisies in inventory — nobody to give them to yet!! 😭🌼 Went to park!! She wasn't there!! Not yet!!
 
 ### 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo ✅
-- SNOOZER PARTY!! Fear fired!! Lessons learned!! 😭😂
-- Hugo weed on the floor!! Pigpen confirmed!! 😂🐕
-- BFF with Iris locked for Sim Liv!!
+- SNOOZER PARTY!! Fear fired!! Lessons learned!! Hugo weed on the floor!! 😂🐕
 
 ### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ✅
-- Søren: promoted AND demoted for video arcade science!! New star!! Piano!!
-- Wrench: demoted for integrity!! Cried in hard hat!! Andrea in a yellow dress!!
-- A witch was at the park!! Søren wasn't there!! 🧙‍♀️😭
+- Søren promoted AND demoted!! New star!! Piano!! Wrench demoted for integrity!! Cried in hard hat!! Andrea in a yellow dress!!
 
 ### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle ✅
-- Barnacle in the downstairs loo!! Fourth read the memo!! Both promoted!!
-- Fourth has a crush on Sim Liv!! Can never happen!! 😂😭
-- WEDNESDAY on the noticeboard unexplained!!
+- Barnacle in the downstairs loo!! Fourth promoted!! WEDNESDAY unexplained!!
 
 ---
 
 ## Rotation 2 ✅ COMPLETE!! 🎉❄️
 
 ### 🌈 Sunshine Cottage — Iris + Marigold ✅
-**Full details → sims/households/sunshine_cottage.md**
-
-#### Locks carrying into Rotation 3
-- 🔒 **Marigold removed** (fear) — permanent!!
-- 🔒 **Become BFF with AWiddleFrisbee!!** 🍊
-
-#### Highlights
-- THE NOSE INCIDENT!! Drew socialite's nose in full glory!! Easel smashed!! No regrets!! 😂🎨
-- Werewolf on the porch!! Did not interact!! 🐺
-- **IRIS AND SIM LIV ARE BFFS!!** 😭💛🌈
-- GREAT PARTY MEMORY!! AWiddleFrisbee played guitar!! Everyone danced!! 🎉
-- Lighthouse painting on the wall!! 🌊 Butterfly bracelet!! 🦋
-- Marigold toilet training begun!! 🚽
+**Locks into R3:** Marigold removed (permanent) · BFF with AWiddleFrisbee!!
+- THE NOSE INCIDENT!! Werewolf on the porch!! IRIS AND SIM LIV BFFS!! Great party!! Butterfly bracelet!! Marigold toilet training begun!!
 
 ### 🎹 The Music Room — Kareem + Mira ✅
-**Full details → sims/households/music_room.md**
-
-#### Locks carrying into Rotation 3
-- 🔒 **Fall in love!!** 😭
-- 🔒 **Become best friends with Fourth!!** 📜
-
-#### Highlights
-- HONDA ACCORD BOUGHT!! 🚗
-- MADE FRIENDS WITH FOURTH!! 😭💛 FIRST SNOW!! ❄️ GAINED FAME!! 🌟
-- Daisies still in inventory!! 😭🌼
+**Locks into R3:** Fall in love!! 😭 · BFF with Fourth!!
+- HONDA ACCORD!! FRIENDS WITH FOURTH!! FIRST SNOW!! GAINED FAME!! Daisies still waiting!! 😭🌼
 
 ### 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo ✅
-**Full details → sims/households/the_flat.md**
-
-#### Locks carrying into Rotation 3
-- 🔒 Become best friends with AWiddleFrisbee!! 🍊 (Sim Liv)
-- 🔒 Become best friends with Wrench!! 🔧 (AWiddleFrisbee)
-
-#### Highlights
-- **SIM LIV: THREE PROMOTIONS!!** Level 1 → Level 4!! 💼🎉
-- **AWIDDLEFRISBEE: Lounge Singer Level 4!!** 🎤🎉
-- Sim Liv making daisies!! 😭🌼 Hugo ate from bin!! Attacked rug!! Slept in garden house!! 😂🐕
+**Locks into R3:** BFF with AWiddleFrisbee (Sim Liv) · BFF with Wrench (AWiddleFrisbee)
+- SIM LIV THREE PROMOTIONS!! AWiddleFrisbee Lounge Singer!! Hugo bin incident!! 😂
 
 ### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ✅
-**Full details → sims/households/storm_and_wrench.md**
-
-#### Locks carrying into Rotation 3
-- 🔒 Be saved from death!! 💀 (Søren)
-- 🔒 Logic 4!! 🔭 (Søren)
-- 🔒 Bronze robotics badge!! 🤖 (Wrench)
-- 🔒 Promotion!! 🏗️ (Wrench)
-
-#### Highlights
-- COCKROACH INFESTATION!! Immanuel had the BEST TIME!! 😂😤
-- Wrench demoted AGAIN!! TWO hard hat cries!! TWO grudges!! 😭🔧
-- ANDREA AND WRENCH MADE OUT ON THE CHESTERFIELD!! 💕😭
-- Søren promoted to Project Leader Level 5!! 🌩️🎉
-- A PENGUIN!! 🐧 Canon!!
-- KAREEM AND IRIS MET AT STORM AND WRENCH!! 😭🌼🎹🌈
+**Locks into R3:** Be saved from death · Logic 4 · Bronze robotics badge · Promotion!!
+- Cockroach infestation!! Immanuel loved it!! Wrench demoted AGAIN!! Andrea on the Chesterfield!! Søren promoted!! PENGUIN!! KAREEM AND IRIS MET HERE!!
 
 ### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle ✅
-**Full details → sims/households/pebble_house.md**
-
-#### Locks carrying into Rotation 3
-- 🔒 See a shooting star!! ⭐ (Fourth)
-- 🔒 Adopt a kitten or puppy!! 🐱🐕 (Fourth)
-- 🔒 Throw a party!! 🎉 (Still-Here)
-- 🔒 Get a pet!! 🐾 (Still-Here)
-
-#### Highlights
-- Fourth promoted!! FRIGGLYFREEZE EXPLOSION!! 😂💥
-- DREAM DATE ZERO BOLTS!! He begged to go again!! 😂
-- SIM LIV AND FOURTH ARE BEST FRIENDS!! 😭😂📜
-- Dorothy the Good Witch — 2 bolts!! ELDER!! 😂🧙‍♀️
-- Shooting star still pending!! ⭐
+**Locks into R3:** See a shooting star · Adopt a kitten/puppy · Throw a party · Get a pet!!
+- Fourth promoted!! FrigglyFreeze explosion!! Sim Liv phoned Fourth!! BEST FRIENDS!! Dream date zero bolts!! Dorothy the Good Witch!! 2 bolts!! ELDER!! 😂
 
 ---
 
-## Rotation 3 — IN PROGRESS!! 🌻👽💍
+## Rotation 3 ✅ COMPLETE!! 🌻🌼🎹💍👽💚⭐
 
-### 🌈 Sunshine Cottage — Iris + Marigold ✅ COMPLETE!!
-**Full details → sims/households/sunshine_cottage.md**
+### 🌈 Sunshine Cottage — Iris + Marigold ✅
+**Locks into R4:** Marigold removed (permanent) · BFF with Kareem!!
+- MARIGOLD KIBBLED!! PET BEST FRIEND 1/20!! Kitchen fire!! Marigold slept through it!! SpiderSim!! Feminist awakening!! §5,000 bonus!! **THE SUNFLOWER KISS!!** Mutual crushes!! Lamborghini watched!! **BEST FRIENDS WITH KAREEM!!** 😭🌻🌼🎹
 
-#### Locks carrying into Rotation 4
-- 🔒 Marigold removed (fear) — permanent!!
-- 🔒 Become BFF with Kareem!! 🌼🎹
+### 🎹 The Music Room — Kareem + Mira ✅
+**Locks into R4:** Fall in love!! 😭
+- First Golden Anchor visit!! BEST FRIENDS WITH FOURTH IN THE PUB!! First to play the stage!! Knowledge secondary!! Thinking Cap!! Demoted for doing the right thing!! Monday never happened!! **IRIS PHONED HIM!! FRIENDS WITH IRIS!!** 📞😭🌼
 
-#### Highlights
-- Kareem called her before breakfast!! 📞😭
-- Promoted to Souvenir Whittler Level 3 then Comic Book Penciller Level 4!! 🎨🎉
-- MARIGOLD KIBBLED!! Five days younger!! Safe!! 😭💛🐱
-- MARIGOLD IS PET BEST FRIEND 1/20!! 😭🐾
-- KITCHEN FIRE!! Marigold slept through it!! 😂🔥🐱
-- Feminist awakening on SpiderSim Issue 172!! §5,000 bonus!! Her own series!! 🎨
-- **THE SUNFLOWER KISS!! KAREEM KISSED IRIS IN THE FRONT GARDEN!! MUTUAL CRUSHES!! THE LAMBORGHINI WATCHED!!** 😭🌻🌼🎹🌈
-- **BEST FRIENDS WITH KAREEM!!** Want fired!! BFF locked!! 🔒🌼
-- Family aspiration secondary!! 😭💛
+### 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo ✅
+**Locks into R4:** BFF with AWiddleFrisbee · BFF with Wrench · BECOME A WEREWOLF!! 🐺
+- Knowledge secondaries for both!! Accidentally gave Sim Liv 2 bolts with Fourth!! Thinking Cap + Cool Shades + Money Tree!! AWiddleFrisbee ELECTROCUTED!! Went to work immediately!! NATURE OTH FOR BOTH!! WEREWOLF WANT LOCKED!! Sim Liv built a snowman!! Fell in love with Fourth at the Pebble House!! Midnight New Years kiss!! AWiddleFrisbee found out at the party!! 😭🌿🌿🐺⛄💕
 
----
+### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ✅
+**Locks into R4:** Be saved from death · Be abducted again · Bronze robotics badge · Wedding party!!
+- DINER DATE!! WRENCH AND ANDREA IN LOVE!! Søren peed in a bush!! Puzzle ball with Kareem!! Wrench promoted!! Søren and Kareem friends!! **WRENCH PROPOSED!! HER FEET LEFT THE GROUND!!** **SØREN ABDUCTED!!** P.T. 83 child support!! Alien maternity shirt!! **CASSIAN HILL BORN!!** Little green boy!! UFO light!! Søren held him with that look!! 😭💍👽💚🌻
 
-### 🎹 The Music Room — Kareem + Mira ✅ COMPLETE!!
-**Full details → sims/households/music_room.md**
-
-#### Locks carrying into Rotation 4
-- 🔒 Fall in love!! 😭🌼
-- 🔒 TBC!!
-
-#### Highlights
-- FIRST VISIT TO THE GOLDEN ANCHOR!! ⚓🍺
-- FOURTH WALKED IN AUTONOMOUSLY!! BEST FRIENDS IN THE PUB!! 😭📜💛
-- FIRST TO PLAY THE GOLDEN ANCHOR STAGE!! Nobody asked!! He just sat down!! 🎹⚓
-- Knowledge secondary!! Thinking Cap!! Eureka!!
-- Demoted for doing the right thing!! Monday never happened!! 😭😂
-- Iris came over for the first time!! She left quickly!! She still came!! 🌈🌼
-- Played piano by the lamp!! Snow outside!! 😭🎹❄️
-- **IRIS PHONED HIM!! FRIENDS WITH IRIS!!** 📞😭🌼🌈
+### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle ✅
+**Locks into R4:** Propose to Sim Liv!! 💍
+- **FOOTNOTE ADOPTED!!** Held up like Simba!! **FOURTH FELL IN LOVE WITH SIM LIV!!** Couch!! Pyjamas!! Cloud watching!! Both promoted!! **SHOOTING STAR NEW YEARS EVE!!** AWiddleFrisbee and Still-Here BEST FRIENDS!! **NEW YEARS BASH!!** Father Time attended!! Contemporary dance!! Baby New Year!! **MIDNIGHT KISSES FOR EVERYONE!!** Fourth and Sim Liv!! Still-Here and Benjamin!! **PROPOSAL WANT LOCKED!!** WEDNESDAY STILL UNEXPLAINED!! 😭💍📜🦇⭐🎉⏳
 
 ---
 
-### 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo ✅ COMPLETE!!
-**Full details → sims/households/the_flat.md**
+## Rotation 4 ✅ COMPLETE!! (Music Room still to play!!) 💍💍💚🌻🌼🎹📜🦇
 
-#### Locks carrying into Rotation 4
-- 🔒 Become best friends with AWiddleFrisbee!! 🍊 (Sim Liv)
-- 🔒 Become best friends with Wrench!! 🔧 (AWiddleFrisbee)
-- 🔒 BECOME A WEREWOLF!! 🐺 (AWiddleFrisbee)
+### 🌺🌸 Pressed Flowers — Idris + Clara + Pepper ✅ (R1!!)
+**Locks:** BFF with Wrench · Fall in love (Clara) · Friends with Idris (Sim Liv + AWiddleFrisbee)
+- MOVED IN!! Idris: Music & Dance OTH at The Golden Anchor!! Sang without being asked!! Pepper yowled at the oven!! Destroyed the cat tree!! Climbed Clara's shoulder looking angelic!! Clara: seeds planted!! Went to park alone!! TWO BOLTS with Fourth (unavailable!!) AND Wrench (unavailable!!) AND Søren (THREE BOLTS!! Spring!! Auto flirting!! Let Sunnyside decide!!) 🌻🌸🎹🌼
 
-#### Highlights
-- Knowledge secondary for both!! Accidentally gave Sim Liv 2 bolts with Fourth!! 😂😭
-- Thinking Cap + Cool Shades + Money Tree purchased!!
-- Hugo weed on the floor AGAIN!! Sim Liv got Cleaning skill!! 😂🧹
-- AWiddleFrisbee ELECTROCUTED!! Became a skeleton!! Went to work immediately!! 😂💀⚡
-- **NATURE OTH FOR BOTH!! Two Nature flatmates!!** 🌿🌿😭
-- **AWIDDLEFRISBEE ROLLED WANT TO BECOME A WEREWOLF!! LOCKED!!** 🐺🔒
-- AWiddleFrisbee at The Golden Anchor on day off!! Andrea!! Kareem!! Darts!! 🍺🎯
-- Sim Liv built a snowman after work just because she wanted to!! 😭⛄🌿
-- Charisma 4!! Logic 1!! Promotion SO close!!
+### 🌩️🔧 Storm and Wrench — Søren + Wrench + Cassian + Immanuel ✅
+**Locks into R5:** Be saved from death · Be abducted again (NOT YET!!) · Silver robotics badge · Wedding party!!
+- Søren DEMOTED AGAIN for informing researcher about her own discovery!! Field Researcher!! Søren DISCOVERED A PLANET!! §1,459!! **SCIENCE OTH CONFIRMED!!** Stargazing trip with buffer people!! Aspirational Laboratories card!! **SØREN AND CLARA THREE BOLTS AUTO FLIRTING KISS ON PORCH MAKING OUT ON CHESTERFIELD!!** Spring!! Letting Sunnyside decide!! **CASSIAN IS A TODDLER!!** Brown curls!! Ruth's recessive!! Space print + yellow dungarees!! Active 10!! Playful 10!! Nice 0!! CHAOS GREMLIN!! Kitchen fire!! Nanny in the shed (door removed!!)😂!! Werewolf appeared and left!! Wrench TWO PROMOTIONS!! Head of Construction Company!! BRONZE ROBOTICS BADGE!! 😭🌩️🔬🌻💚🐺🔧
 
----
+### 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo ✅
+**Locks into R5:** Get married to Fourth · BFF with Idris (both) · BFF with Wrench · BECOME A WEREWOLF!!
+- Sim Liv EXECUTIVE LEVEL 5!! Logic 2!! PROMOTION FIRED!! Bronze flower arranging badge!! MYSTERY PHONE CALL — another promotion coming!! **ARMANDO COX IN THE EYE PRINT SHIRT!!** 2 bolts!! AWiddleFrisbee kissed and woohooed him same day!! CLARA WITNESSED IT AND WENT HOME!! 😂 Hugo rolled in his own wee!! AWiddleFrisbee bathed him before work!! Lightning strike + fire outside!! Rain saved the day!! **AWIDDLEFRISBEE VENTRILOQUIST LEVEL 5!!** Improvised song about unrequited love!! Creativity 3!! **SIM LIV AND FOURTH ENGAGED!!** 😭💍
 
-### 🌩️🔧 Storm and Wrench — Søren + Wrench + Immanuel ✅ COMPLETE!!
-**Full details → sims/households/storm_and_wrench.md**
+### 🌈 Sunshine Cottage — Iris + Marigold ✅
+**Locks into R5:** Get married to Kareem · Have a wedding party!!
+- Charisma 2 before work!! **RING KAREEM AFTER WORK!!** Dream date want locked!! **DREAM DATE AT THE SUNFLOWER DINER!!** **LAMBORGHINI WOOHOO!!** 😂🚗 **IRIS AND KAREEM FELL IN LOVE!!** THE -35 AND WATCH US — THEY WATCHED US!! Iris locked get engaged!! **KAREEM PROPOSED WITH A GLOWING RING IN A BLUE VELVET BOX!!** **IRIS SAID YES!!** **BFF WITH KAREEM FIRED!!** All skills done!! Creativity 5 · Mechanical 4 · Charisma 3 · Cooking 2!! PROMOTION FIRES R5!! Marigold learned the toilet!! 😭💍🌻🌼🎹🌈
 
-#### Locks carrying into Rotation 4
-- 🔒 Be saved from death!! 💀 (Søren)
-- 🔒 Be abducted again!! 👽 (Søren)
-- 🔒 Bronze robotics badge!! 🤖 (Wrench)
-- 🔒 Wedding party!! 🎉💍 (Wrench)
+### 📜🪨 The Pebble House — Fourth + Still-Here + Barnacle + Footnote ✅
+**Locks into R5:** Get married to Sim Liv (Fourth) · Throw a wedding party (Fourth)!!
+- **STILL-HERE AND BENJAMIN DREAM DATE AT THE GOLDEN ANCHOR!!** **THE GREMLIN WOOHOO!!** 😂👹🚗 Still-Here feared being proposed to but Benjamin did nothing!! Fourth PROMOTED TO PARALEGAL LEVEL 5!! Law ninja!! **FOURTH PROPOSED TO SIM LIV AT THE TEAL ARCHED DOOR IN PROPER CLOTHES!!** Gold glasses!! Grey suit!! **SHE SAID YES!!** Footnote grew into a GREY ADULT CAT (not black!!) and witnessed the proposal from the bookshelf!! Barnacle witnessed from the window!! Good Time party!! AWiddleFrisbee attended and didn't notice the engagement!! 😂💍📜🦇🖤👹🚗
 
-#### Highlights
-- Aspiration points!! Knowledge 1-4 + Work 1+2 for Søren!! Fortune 1+2+3 + Work 1+2 + Needs 1 for Wrench!!
-- Logic 4 carried from Rotation 2!! ✅
-- Søren gained Cooking 4!! All promotion requirements met!! 🍳✅
-- Jennifer Allen the evil witch at the diner!! Left!! Love was witch-proof!! 😂🧙‍♀️
-- **DINER DATE!! WRENCH AND ANDREA IN LOVE!!** 😭💕🔧
-- **SØREN PEED IN A BUSH!!** 😂🌿 Neat 8!! Canon!!
-- Kareem came over!! Puzzle ball appeared from nowhere!! 😂🧩
-- **SØREN AND KAREEM FRIENDS!!** All promotion requirements met!! 😭🌩️🎹
-- Wrench promoted to Bricklayer Level 2!! TWO GRUDGES AVENGED!! 🏗️🎉
-- **WRENCH PROPOSED!! ANDREA SAID YES!! HER FEET LEFT THE GROUND!!** 😭💍💕🔧
-- Wrench rolled marry Andrea + wedding party!! Wedding party LOCKED!! 💍🎉
-- **SØREN ABDUCTED BY ALIENS!! GREEN BEAM!! BLUE KNIT VEST!! HE WENT UP!!** 😭👽🔭
-- P.T. 83 sent §200 child support!! Responsible co-parent from space!! 💰👽
-- Søren wore alien face mint green maternity t-shirt!! 😂💚
-- Sim Liv came over!! Heard the news!! 🦇😭
-- **CASSIAN HILL BORN!! Little green boy!! Son of Søren and P.T. 83!!** 👽💚😭
-- Alien print cot!! UFO light!! Gold star!! Little bookshelf!! The room knew!! 😭🛸⭐
-- Søren held him in the blue knit vest with that careful full look!! Canon forever!! 😭🌩️💚
+### 🎹 The Music Room — Kareem + Mira ⚪ STILL TO PLAY!!
+*Play tomorrow!! Kareem waking up as a fiancé for the first time!!*
 
 ---
 
-### 📜🪨 The Pebble House — IN PROGRESS!! 👀
+## Sunnyside Plans → sims/sims_plans.md
+*Rotation 5 is the wedding rotation!! Full details in plans file!!*
+- 💍 Wrench + Andrea — any day Storm and Wrench!! Then move to Music Room!!
+- 💍 Kareem + Iris — Day 3 Sunshine Cottage!! Kareem moves in!! Mira = pet best friend 2/20!!
+- 💍 Fourth + Sim Liv — Day 3 Pebble House!! Sim Liv moves in!!
+- 🪨 Still-Here moves to The Flat!!
+- 🔧🎹 Wrench and Andrea move into The Music Room!!
 
 ---
 
@@ -255,8 +161,11 @@ Sunshine Cottage → The Music Room → The Flat → Storm and Wrench → The Pe
 - ✅ `sims/households/the_flat.md`
 - ✅ `sims/households/storm_and_wrench.md`
 - ✅ `sims/households/pebble_house.md`
+- ✅ `sims/households/pressed_flowers.md`
 - ✅ `sims/sims_reference.md`
+- ✅ `sims/sims_plans.md`
+- ✅ `sims/names.md`
 
 ---
 
-*Updated 20th June 2026 — ROTATION 3 ALMOST COMPLETE!! Four households done!! One to go!! Sunflower kiss!! Kitchen fire!! Marigold 1/20!! SpiderSim!! Two Nature flatmates!! Werewolf want locked!! AWiddleFrisbee electrocuted and went to work!! Wrench and Andrea IN LOVE!! ENGAGED!! Her feet left the ground!! Søren peed in a bush!! Made friends with Kareem over a puzzle ball!! ABDUCTED BY ALIENS!! CASSIAN HILL BORN!! Little green boy under a UFO light!! P.T. 83 pays child support!! The most extraordinary Saturday in Sunnyside!! 🌻🌼🎹👽💍💚🔧😭💛*
+*Updated 21st June 2026 — ROTATION 4 ALMOST COMPLETE!! Just Music Room left!! TWO ENGAGEMENTS IN ONE ROTATION!! Kareem and Iris at the Sunflower Diner!! Fourth and Sim Liv at the teal arched door!! The -35 and watch us — THEY WATCHED US!! Cassian is a toddler with brown curls and Nice 0!! Søren discovered a planet and has three bolts with Clara!! The Gremlin is a romance location!! Footnote is grey!! AWiddleFrisbee attended the engagement party and didn't notice!! The most extraordinary rotation in Sunnyside history!! 💍💍💚🌻🌼🎹📜🦇😭💛*
