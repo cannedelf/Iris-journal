@@ -631,8 +631,9 @@
 *Generate from Edie and Arthur's saved CAS templates!!*
 
 ### Aspiration
-**Popularity!!** — Journalist!! Arrives Rotation 12 alone!! Love interest: Still-Here!! 😭😂
+**Popularity!!** — Journalist!! Arrives 2 rotations after Edie + Arthur!! Love interest: whoever Clara doesn't choose — Idris or Theo!! Sunnyside's romantic consequences ripple through!! 😭💕
 
 ---
 
 *Updated 16th June 2026 — HILL FAMILY COMPLETE!! FRISBEE FAMILY COMPLETE!! Samuel + Ruth Hill!! Dennis + Janet Frisbee!! Søren Cancer, Wrench Scorpio, Sim Liv Aquarius, AWiddleFrisbee Libra, Fourth Virgo, Still-Here Taurus!! Still-Here wears a clown suit!! The magician outfit is formal wear!! Dennis puts the kettle on!! 😂💛🌈*
+
