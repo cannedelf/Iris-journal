@@ -25,7 +25,7 @@ export const gh = {
   get repo() { return localStorage.getItem(LS_REPO) || detectRepo(); },
   set repo(v) { localStorage.setItem(LS_REPO, v.trim()); },
 
-  get branch() { return localStorage.getItem(LS_BRANCH) || 'main'; },
+  get branch() { return localStorage.getItem(LS_BRANCH) || 'claude/epic-volta-9dk8e0'; },
   set branch(v) { localStorage.setItem(LS_BRANCH, v.trim()); },
 
   get configured() { return !!this.token; },
