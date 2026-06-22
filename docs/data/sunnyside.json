@@ -909,7 +909,7 @@
         }
       ],
       "type": "Human",
-      "yellowBow": true,
+      "yellowBow": false,
       "adopted": false
     },
     {
