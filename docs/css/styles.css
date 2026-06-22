@@ -103,7 +103,7 @@ a { color: var(--green); }
 
 .edge { fill: none; stroke: #cdbb9c; stroke-width: 2; }
 .marriage { stroke: var(--pink); stroke-width: 2; }
-.marriage.engaged { stroke-width: 2.5; stroke-dasharray: 3 4; filter: drop-shadow(0 0 3px #e58fb0); animation: marriageglow 2.4s ease-in-out infinite; }
+.marriage.engaged { stroke-width: 2.5; stroke-dasharray: 2 2.5; stroke-linecap: round; filter: drop-shadow(0 0 3px #e58fb0); animation: marriageglow 2.4s ease-in-out infinite; }
 .marriage.married { stroke-width: 3.2; filter: drop-shadow(0 0 3px #e58fb0); animation: marriageglow 2.4s ease-in-out infinite; }
 @keyframes marriageglow { 0%,100% { opacity: .72; } 50% { opacity: 1; } }
 .edge-alien { stroke: #4fae3f; stroke-width: 2.5; stroke-dasharray: 7 5; filter: drop-shadow(0 0 2.5px #9be08a); animation: alienflow 1.4s linear infinite; }
