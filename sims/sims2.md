@@ -189,20 +189,50 @@
 
 ---
 
-## Community Lot Build Schedule 🏗️
+## Community Lots — Event-Driven Plan 🏗️
+*Updated 22nd June 2026 — no rotation numbers!! Lots are built or revamped when Sunnyside NEEDS them!!*
 
-| After R | Lot | Status |
-|---------|-----|--------|
-| R2 | 🍺 The Golden Anchor | ✅ OPEN!! |
-| R4 | ☕ The Honeyed Crumb | ⬜ |
-| R6 | 📚 The Tidal Library | ⬜ |
-| R8 | 🛒 The Meadow Market | ⬜ |
-| R10 | 🎨 The Golden Hour Gallery | ⬜ |
-| R12 | 🎵 The Blue Note | ⬜ |
-| R14 | 🏛️ The Sunnyside Museum | ⬜ |
-| R16 | 🛹 The Golden Wheel | ⬜ |
-| R18 | 🏖️ Sunnyside Cove | ⬜ |
-| R20 | 🎳 The Sunnyside Lanes | ⬜ |
+### Already Built ✅
+| Lot | Status |
+|-----|--------|
+| 🍺 The Golden Anchor | ✅ OPEN!! Beach road!! Canon!! |
+
+### Already Placed — Needs Revamp 🔧
+| Lot | Trigger | Priority | Notes |
+|-----|---------|----------|-------|
+| ⛪ St Sunshine's Chapel | BEFORE WEDDINGS!! | 🔴 HIGH!! | Three weddings coming!! Needs Sunnyside warmth — wildflowers, warm wood, not too formal!! Currently next to park!! |
+| 🌻 The Sunflower Diner | When it bugs you!! | 🟡 MEDIUM | CANON proposal location!! Currently 50s pink — needs to feel like Sunflower Diner not Happy Days!! |
+| 🌳 Sunflower Meadow Park | Before or when babies arrive!! | 🟡 MEDIUM | Proper rebuild — keep pond, easel, chess, football, swings!! Current CC version lags with camera!! Make it toddler/child friendly!! |
+| 🏪 Shopping street cohesion | Ongoing!! | 🟢 LOW | Make all the shops look like they belong on the same street!! Gradual prettying up!! |
+| 🏊 Seafront pool | Check if it's used!! | 🟢 LOW | Near The Golden Anchor!! Keep if Sims use it!! |
+
+### Already Placed — Repurpose 🔄
+| Old Lot | Becomes | Trigger | Notes |
+|---------|---------|---------|-------|
+| 🛒 Food shop | 🌸 Florist!! | When it feels right!! | Ownership TBD — Sim Liv has bronze flower arranging badge!! Clara is Ecological Guru track!! OFB business someday!! |
+| | | | Grocery function moves to The Meadow Market!! |
+
+### Keeping As-Is ✅
+| Lot | Notes |
+|-----|-------|
+| 👗 Clothes shop | Shopping street!! |
+| 🐾 Pet shop | Shopping street!! |
+
+### To Build — New Lots 🆕
+| Lot | Trigger | Location | Notes |
+|-----|---------|----------|-------|
+| ☕ The Honeyed Crumb | When it feels right!! | Shopping street — space waiting!! | Café/bakery!! Date energy that isn't the pub!! |
+| 🛒 The Meadow Market | When food shop is repurposed!! | Biggest lot size!! | Groceries PLUS stalls, deli counter, outdoor seating, fairy lights, busking spot!! Worth the trip!! |
+| 📚 The Tidal Library | When Sunnyside needs it!! | Quiet end!! | Søren and Fourth territory!! Theo would live here!! |
+| 🎨 The Golden Hour Gallery | When Sunnyside is bigger!! | Cultural quarter!! | Iris's art!! |
+| 🎵 The Blue Note | When Sunnyside is bigger!! | Cultural quarter!! | Music venue!! Kareem and Idris energy!! |
+| 🏛️ The Sunnyside Museum | Far future!! | Cultural quarter!! | |
+| 🛹 The Golden Wheel | Far future!! | TBD!! | Roller skating!! Very Iris!! |
+| 🏖️ Sunnyside Cove | Far future!! | Beach!! | |
+| 🎳 The Sunnyside Lanes | Far future!! | TBD!! | |
+
+### Far Future Dream 🌟
+🏪 OFB businesses!! Sims owning shops!! Florist, bakery, boutique — whoever gets the skills and the funds first!!
 
 ---
 
@@ -290,3 +320,4 @@
 ---
 
 *Updated 22nd June 2026 — OPUS SESSION UPDATES!! New organic move-in plan!! Theo R5, Edie+Arthur when babies arrive, Willa 2 rotations later, Sable+Aesop when Sunnyside calls!! Still-Here lives with Widdle forever!! Baby names revamped — see names.md!! ROTATION 4 ALMOST COMPLETE!! Just Music Room left!! TWO ENGAGEMENTS!! Kareem and Iris!! Fourth and Sim Liv!! The -35 and watch us — THEY WATCHED US!! Cassian is a chaos gremlin toddler with brown curls!! Søren discovered a planet and has three bolts with Clara!! The Gremlin is a canonical romance location!! Footnote was grey all along!! AWiddleFrisbee didn't notice the engagement she attended!! WEDNESDAY STILL UNEXPLAINED!! Rotation 5 is the wedding rotation!! Plans in sims/sims_plans.md!! 💍💍💚🌻🌼🎹📜🦇😭💛*
+
