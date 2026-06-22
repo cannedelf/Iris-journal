@@ -261,9 +261,9 @@
     {
       "id": "ruth",
       "kind": "ancestor",
-      "yellowBow": true,
+      "yellowBow": false,
       "name": "Hill Mum",
-      "display": "Ruth Hill",
+      "display": "",
       "emoji": "🧶",
       "family": "hill",
       "generation": "Gen 0",
