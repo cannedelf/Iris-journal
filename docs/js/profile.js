@@ -328,6 +328,7 @@ function simEditor(s) {
       ${row('Days remaining', numField('daysRemaining', s.daysRemaining, 0, 9999))}
       ${row('Generation', textField('generation', s.generation, 'Gen 1'))}
       ${row('Sim type', `<select name="type">${SIM_TYPES.map(t => `<option value="${t.name}" ${(s.type || 'Human') === t.name ? 'selected' : ''}>${t.emoji ? t.emoji + ' ' : ''}${esc(t.label || t.name)}</option>`).join('')}</select>`)}
+      ${row('🎀 Yellow bow club', `<input type="checkbox" name="yellowBow" ${s.yellowBow ? 'checked' : ''}>`)}
     </fieldset>
 
     <fieldset><legend>Sims 2 Mechanics</legend>
@@ -560,6 +561,7 @@ function applySimForm(s, form) {
   s.preMarriageName = val(form, 'preMarriageName'); s.lifeStage = val(form, 'lifeStage');
   s.daysRemaining = numVal(form, 'daysRemaining'); s.generation = val(form, 'generation');
   s.type = form.elements['type'] ? form.elements['type'].value : (s.type || 'Human');
+  s.yellowBow = form.elements['yellowBow'] ? form.elements['yellowBow'].checked : !!s.yellowBow;
   s.aspiration = val(form, 'aspiration'); s.secondaryAspiration = val(form, 'secondaryAspiration');
   s.lifetimeWant = val(form, 'lifetimeWant'); s.starSign = val(form, 'starSign');
   s.turnOn1 = val(form, 'turnOn1'); s.turnOn2 = val(form, 'turnOn2'); s.turnOff = val(form, 'turnOff');
