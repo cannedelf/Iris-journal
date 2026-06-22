@@ -812,8 +812,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Education",
-        "level": 2,
         "levelName": "",
+        "level": 2,
         "top": "Education Minister",
         "degree": "Literature"
       },
@@ -907,7 +907,10 @@
           "event": "Fell in love & PROPOSED at the Sunflower Diner",
           "notes": "Blue velvet box. Glowing ring. She said YES!"
         }
-      ]
+      ],
+      "type": "Human",
+      "yellowBow": true,
+      "adopted": false
     },
     {
       "id": "soren",
