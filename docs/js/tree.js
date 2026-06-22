@@ -34,8 +34,13 @@ function buildForest(familyId) {
     consumed.add(person.id);
     const partner = partnerOf(person);
     if (partner && partner.family === familyId) consumed.add(partner.id);
+    // Show a child if their own family matches this tree, OR if this parent is a blood
+    // member of it — so a child appears under BOTH parents' family trees (e.g. Liv +
+    // Fourth's baby shows in the Hill tree under Liv and the Frisbee tree under Fourth).
+    // The Townies tab stays a flat directory, so it doesn't absorb married-in kids.
+    const showBloodKids = person.family === familyId && familyId !== 'townie';
     const kids = store.childrenOf(person.id)
-      .filter(c => c.family === familyId && !consumed.has(c.id))
+      .filter(c => (c.family === familyId || showBloodKids) && !consumed.has(c.id))
       .map(c => unit(c));
     return { person, partner, partnerMeta: partnerMeta(person), childUnits: kids };
   }
