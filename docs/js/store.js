@@ -90,6 +90,8 @@ export const store = {
     if (!gh.configured) return { saved: false, reason: 'no-token' };
 
     try {
+      // Make sure we have the file's current SHA (load may have come from a fallback).
+      if (!this.sha) { const ex = await gh.getFile(DATA_PATH); this.sha = ex && ex.sha; }
       const json = JSON.stringify(this.data, null, 2);
       this.sha = await gh.putFile(DATA_PATH, toBase64(json), message, this.sha);
       this.dirty = false;
@@ -100,6 +102,15 @@ export const store = {
       console.error('Auto-save failed:', e);
       return { saved: false, reason: 'error', error: e };
     }
+  },
+
+  // Throw away any local browser copy and re-fetch fresh from GitHub.
+  async discardLocalAndReload() {
+    localStorage.removeItem(LS_CACHE);
+    localStorage.setItem(LS_DIRTY, '0');
+    this.dirty = false;
+    this.sha = null;
+    await this.load();
   },
 
   // Upload a photo file to docs/photos and return its repo-relative path.

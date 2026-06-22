@@ -140,6 +140,20 @@ function openSettings() {
 function bindSettings() {
   el('settingsOverlay').addEventListener('click', (e) => { if (e.target === el('settingsOverlay')) el('settingsOverlay').classList.remove('open'); });
   el('setCancel').addEventListener('click', () => el('settingsOverlay').classList.remove('open'));
+  el('setResync').addEventListener('click', async () => {
+    const msg = el('setMsg');
+    // Point back at the app's own branch (clears any stale override) and reload fresh.
+    localStorage.removeItem('sunnyside.branch');
+    el('setBranch').value = gh.branch;
+    msg.textContent = 'Reloading latest from GitHub…';
+    try {
+      await store.discardLocalAndReload();
+      buildTabs(); buildSearch(); buildLegend(); render(); updateStatus(); updateColourUI();
+      msg.textContent = '✓ Reloaded! Everything is back in sync.';
+    } catch (e) {
+      msg.textContent = '✗ ' + e.message;
+    }
+  });
   el('setSave').addEventListener('click', async () => {
     gh.repo = el('setRepo').value;
     gh.branch = el('setBranch').value;
