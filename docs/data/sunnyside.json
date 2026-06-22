@@ -1988,7 +1988,8 @@
       "fears": [],
       "car": "",
       "carNotes": "",
-      "yellowBow": true
+      "yellowBow": true,
+      "adopted": true
     }
   ],
   "pets": [
