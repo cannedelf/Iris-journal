@@ -156,15 +156,23 @@
 ---
 
 ## Future Households 🌱
+*Updated 22nd June 2026 — new organic growth plan!! No schedule pressure!!*
 
-| After Rotation | Who Arrives |
-|----------------|-------------|
-| ✅ Rotation 3 | 🌺🌸 Idris + Clara — MOVED IN!! Pressed Flowers!! |
-| Rotation 5 | 🐕 Theo + Barnaby |
-| Rotation 7 | 🖤 Sable + Ink |
-| Rotation 10 | 🌿 Edie + Arthur + Newton |
-| Rotation 12 | 🌱 Willa Meadow |
-| Rotation 13 | 🌕 Aesop + Sautoir + Eclipse |
+| When | Who Arrives | Why Then |
+|------|-------------|----------|
+| ✅ After R3 | 🌺🌸 Idris + Clara — MOVED IN!! | Pressed Flowers!! |
+| After R5 | 🐕 Theo + Barnaby | Clara needs her choice!! Three bolts with Søren vs golden retriever man!! 🌩️🌸🐕 |
+| After first babies arrive | 🌿 Edie + Arthur + Newton | Instant grandparents!! They need to meet Honey or Cricket or whoever comes first!! 👶🌿 |
+| 2 rotations after Edie + Arthur | 🌱 Willa Meadow | Daughter follows parents!! Freed up for Idris or Theo — whoever Clara doesn't choose!! 🌱💕 |
+| No fixed date — when Sunnyside calls | 🖤 Sable + Ink | Arrives when the neighbourhood needs her!! No rush!! 🖤 |
+| No fixed date — when Sunnyside calls | 🌕 Aesop + Eclipse | Arrives when the neighbourhood needs him!! No rush!! 🌕 |
+
+**WHY THIS ORDER:**
+- 🐕 Theo is time-sensitive — Clara has THREE BOLTS with Søren and if we wait too long Sunnyside will decide without him!! He needs to arrive while Clara still has a genuine choice!!
+- 🌿 Edie and Arthur are ELDERS — they arrive when babies do so they get maximum grandparent time!! Not too early (nothing to grandparent), not too late (they age out!!)
+- 🌱 Willa follows her parents and picks up whoever's single — Sunnyside's romantic consequences ripple through and Willa catches whoever lands!!
+- 🖤🌕 Sable and Aesop have no time pressure — they arrive when Sunnyside grows big enough to want them!!
+- **7 households after R5 reshuffling is already 21 sim-days per rotation!!** Adding everyone at once would be overwhelming!! Grow ORGANICALLY!! 🌻
 
 ---
 
@@ -270,11 +278,15 @@
 - Søren and Clara — what does Sunnyside decide?? 🌩️🌸👀
 - Clara finds her Theo!! Rotation 5!! 🌸🐕😭
 - Idris walks into wherever Søren is and Søren is completely unprepared!! 😂🌩️🌺
-- Elowen / Briar / Sorrel / Rowan / Moss / Caspian Frisbee-Hill!! 🌿👶
+- Honey / Sunday / Ottie / Kofi / Pip / Bramble Rainbow!! 🍯☀️💛🌿🫐🌾
+- Posey / Page / Daffy / Cricket / Finch / Moss Frisbee!! 🌼📖🌼🦗🪶🟢
+- Dolly / Opal / Bobbin / Ratchet / Rivet / Felix Hill!! 🌸💎🧵⚙️🔩🎩
+- Still-Here lives with Widdle FOREVER!! The chaotic aunt household!! Kids go for sleepovers and come back feral!! 🪨🍊😂
+- Willa arrives and finds Idris or Theo — whoever Clara didn't choose!! Sunnyside's romantic consequences ripple through!! 🌱💕
 - Kareem gives someone the daisies from his inventory!! Wait — HE GAVE THEM TO IRIS WITH THE RING!! 😭🌼💍
 - Søren says one devastating sentence at The Golden Anchor and goes back to his pint!! 😂
 - The whole found family at The Golden Anchor on a Friday!! Nobody planned it!! 😭💛
 
 ---
 
-*Updated 21st June 2026 — ROTATION 4 ALMOST COMPLETE!! Just Music Room left!! TWO ENGAGEMENTS!! Kareem and Iris!! Fourth and Sim Liv!! The -35 and watch us — THEY WATCHED US!! Cassian is a chaos gremlin toddler with brown curls!! Søren discovered a planet and has three bolts with Clara!! The Gremlin is a canonical romance location!! Footnote was grey all along!! AWiddleFrisbee didn't notice the engagement she attended!! WEDNESDAY STILL UNEXPLAINED!! Rotation 5 is the wedding rotation!! Plans in sims/sims_plans.md!! 💍💍💚🌻🌼🎹📜🦇😭💛*
+*Updated 22nd June 2026 — OPUS SESSION UPDATES!! New organic move-in plan!! Theo R5, Edie+Arthur when babies arrive, Willa 2 rotations later, Sable+Aesop when Sunnyside calls!! Still-Here lives with Widdle forever!! Baby names revamped — see names.md!! ROTATION 4 ALMOST COMPLETE!! Just Music Room left!! TWO ENGAGEMENTS!! Kareem and Iris!! Fourth and Sim Liv!! The -35 and watch us — THEY WATCHED US!! Cassian is a chaos gremlin toddler with brown curls!! Søren discovered a planet and has three bolts with Clara!! The Gremlin is a canonical romance location!! Footnote was grey all along!! AWiddleFrisbee didn't notice the engagement she attended!! WEDNESDAY STILL UNEXPLAINED!! Rotation 5 is the wedding rotation!! Plans in sims/sims_plans.md!! 💍💍💚🌻🌼🎹📜🦇😭💛*
