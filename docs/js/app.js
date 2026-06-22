@@ -3,6 +3,7 @@
 import { store } from './store.js';
 import { gh } from './github.js';
 import { renderTree, renderHouseholds, getColourMode, setColourMode } from './tree.js';
+import { renderPredictor } from './predictor.js';
 import { openProfile, openNewSim, openNewPet, openNewHousehold, openHousehold } from './profile.js';
 import { SIM_TYPES } from './constants.js';
 
@@ -51,9 +52,11 @@ function render() {
   document.querySelectorAll('.tab').forEach(t =>
     t.classList.toggle('active', current.view === 'tree' && t.dataset.family === current.family));
   el('btnHouseholds').classList.toggle('active', current.view === 'households');
+  el('btnPredict').classList.toggle('active', current.view === 'predict');
 
   const stage = el('stage');
   if (current.view === 'households') { renderHouseholds(stage); el('legend').classList.remove('show'); return; }
+  if (current.view === 'predict') { renderPredictor(stage); el('legend').classList.remove('show'); return; }
   renderTree(stage, current.family);
   if (typeof updateColourUI === 'function') updateColourUI();
 }
@@ -81,6 +84,7 @@ function closeSearch() { el('searchOverlay').classList.remove('open'); }
 
 function bindControls() {
   el('btnHouseholds').addEventListener('click', () => { current.view = current.view === 'households' ? 'tree' : 'households'; render(); });
+  el('btnPredict').addEventListener('click', () => { current.view = current.view === 'predict' ? 'tree' : 'predict'; render(); });
   el('btnColour').addEventListener('click', () => {
     setColourMode(getColourMode() === 'family' ? 'type' : 'family');
     updateColourUI();
