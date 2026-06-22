@@ -72,7 +72,8 @@ a { color: var(--green); }
 .tree-svg { display: block; width: 100%; height: 100%; cursor: grab; }
 .tree-svg.grabbing { cursor: grabbing; }
 
-.node { cursor: pointer; }
+.node { cursor: pointer; outline: none; -webkit-tap-highlight-color: transparent; }
+.node:focus-visible .avatar-ring { filter: drop-shadow(0 0 7px rgba(230,169,31,.95)); }
 .avatar-bg { filter: drop-shadow(0 2px 5px rgba(120,95,50,.22)); }
 .avatar-ring { transition: filter .15s; }
 .avatar-emoji, .pet-count { pointer-events: none; }
@@ -95,7 +96,7 @@ a { color: var(--green); }
 .type-badge text { pointer-events: none; }
 .node.faded { opacity: .55; }
 .node.faded:hover { opacity: .85; }
-.node-name { font: 700 14px Georgia, serif; fill: var(--ink); paint-order: stroke; stroke: #fbf6ec; stroke-width: 3.5px; stroke-linejoin: round; }
+.node-name { font: 700 13px Georgia, serif; fill: var(--ink); paint-order: stroke; stroke: #fbf6ec; stroke-width: 3.5px; stroke-linejoin: round; }
 .node-sub { font: 500 12px "Segoe UI", sans-serif; fill: var(--ink-soft); }
 .node-foot { font: 500 11px "Segoe UI", sans-serif; fill: #a4937a; }
 .node.ancestor .node-name { fill: #8c7f6c; }
