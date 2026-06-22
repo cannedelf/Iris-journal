@@ -1977,7 +1977,10 @@
         "fromDad": "",
         "notes": ""
       },
-      "parents": [],
+      "parents": [
+        "liv",
+        "fourth"
+      ],
       "partners": [],
       "relationships": [],
       "moments": [],
