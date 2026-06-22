@@ -22,6 +22,29 @@ export function openProfile(id) {
 
 function closePanel() { panel().classList.remove('open'); panel().innerHTML = ''; }
 
+// ---------- creating new Sims & pets ---------------------------------------
+function uid(prefix) { let id; do { id = prefix + '_' + Math.random().toString(36).slice(2, 8); } while (store.node(id)); return id; }
+
+function blankSim() {
+  return {
+    id: uid('sim'), kind: 'sim', type: 'Human', name: '', display: '', emoji: '👶',
+    family: '', household: '', preMarriageName: '', lifeStage: 'Baby', daysRemaining: null, generation: '',
+    photo: null, aspiration: '', secondaryAspiration: '', lifetimeWant: '', starSign: '',
+    personality: {}, turnOn1: '', turnOn2: '', turnOff: '', oth: '', bodyFrame: '',
+    career: {}, skills: {}, genetics: {}, parents: [], partners: [], relationships: [],
+    moments: [], lockedWants: [], fears: [], car: '', carNotes: '', _isNew: true
+  };
+}
+function blankPet() {
+  return {
+    id: uid('pet'), name: '', emoji: '🐾', species: '', breed: '', ownerId: '', household: '',
+    starSign: '', collar: '', personality: [], kibbled: false, kibbledNote: '',
+    petBestFriend: false, petBestFriendNote: '', photo: null, moments: [], _isNew: true
+  };
+}
+export function openNewSim() { const s = blankSim(); panel().classList.add('open'); panel().innerHTML = simEditor(s); wireEditor(s, false); }
+export function openNewPet() { const p = blankPet(); panel().classList.add('open'); panel().innerHTML = petEditor(p); wireEditor(p, true); }
+
 // ---------- shared bits ----------------------------------------------------
 function photoBlock(node) {
   const fam = store.family(node.family) || {};
@@ -299,7 +322,7 @@ function simEditor(s) {
       ${row('Car notes', textField('carNotes', s.carNotes))}
     </fieldset>
 
-    ${listEditor('Parents (Sim IDs)', 'parents', s.parents || [])}
+    ${parentsEditor(s.parents || [])}
     ${partnerEditor(s.partners || [])}
     ${relEditor(s.relationships || [])}
     ${momentEditor(s.moments || [])}
@@ -346,6 +369,18 @@ const listRow = (key, v) => `<div class="lrow"><input name="${key}[]" value="${e
 
 function listEditor(title, key, items) { return simpleListEditor(title, key, items); }
 
+function peopleOptions(sel) {
+  return ['<option value="">— choose a Sim —</option>'].concat(
+    store.data.people.map(p => `<option value="${esc(p.id)}" ${p.id === sel ? 'selected' : ''}>${esc((p.emoji || '') + ' ' + (p.display || p.name))}</option>`)
+  ).join('');
+}
+const parentRow = (id = '') => `<div class="lrow"><select name="parents[]">${peopleOptions(id)}</select><button type="button" class="del" data-del>✕</button></div>`;
+function parentsEditor(items) {
+  return `<fieldset data-list="parents"><legend>Parents</legend>
+    <div class="rows">${items.map(id => parentRow(id)).join('')}</div>
+    <button type="button" class="add" data-add="parents">+ Add parent</button></fieldset>`;
+}
+
 function partnerEditor(items) {
   return `<fieldset data-list="partners"><legend>Partners</legend>
     <div class="rows">${items.map(p => `<div class="lrow">
@@ -381,7 +416,8 @@ const momentRow = (m = {}, isPet) => `<div class="lrow moment">
 
 function wireEditor(node, isPet) {
   const form = document.getElementById('editForm');
-  form.querySelectorAll('[data-cancel]').forEach(b => b.addEventListener('click', () => openProfile(node.id)));
+  const onCancel = () => { if (node._isNew) closePanel(); else openProfile(node.id); };
+  form.querySelectorAll('[data-cancel]').forEach(b => b.addEventListener('click', onCancel));
 
   // Add/remove dynamic rows.
   form.addEventListener('click', (e) => {
@@ -391,7 +427,8 @@ function wireEditor(node, isPet) {
     if (!add) return;
     const kind = add.dataset.add;
     const rows = add.previousElementSibling;
-    if (kind === 'partners') rows.insertAdjacentHTML('beforeend', `<div class="lrow"><input name="partners_id[]" placeholder="Sim ID"><input name="partners_status[]" placeholder="Status"><input name="partners_bolts[]" type="number" min="0" max="3" placeholder="bolts"><button type="button" class="del" data-del>✕</button></div>`);
+    if (kind === 'parents') rows.insertAdjacentHTML('beforeend', parentRow());
+    else if (kind === 'partners') rows.insertAdjacentHTML('beforeend', `<div class="lrow"><input name="partners_id[]" placeholder="Sim ID"><input name="partners_status[]" placeholder="Status"><input name="partners_bolts[]" type="number" min="0" max="3" placeholder="bolts"><button type="button" class="del" data-del>✕</button></div>`);
     else if (kind === 'rels') rows.insertAdjacentHTML('beforeend', relRow());
     else if (kind === 'moments') rows.insertAdjacentHTML('beforeend', momentRow({}, false));
     else if (kind === 'moments_pet') rows.insertAdjacentHTML('beforeend', momentRow({}, true));
@@ -428,9 +465,11 @@ function wireEditor(node, isPet) {
     const btn = form.querySelector('button[type=submit]');
     btn.disabled = true; btn.textContent = 'Saving…';
     try {
+      const isNew = !!node._isNew;
       if (isPet) applyPetForm(node, form); else applySimForm(node, form);
+      if (isNew) { delete node._isNew; (isPet ? store.data.pets : store.data.people).push(node); }
       if (pendingPhoto) node.photo = await store.savePhoto(node.id, pendingPhoto);
-      const res = await store.commit(`Update ${node.display || node.name}`);
+      const res = await store.commit(`${isNew ? 'Add' : 'Update'} ${node.display || node.name || 'Sim'}`);
       window.dispatchEvent(new CustomEvent('data-updated'));
       openProfile(node.id);
       if (!res.saved) flashSaveWarning(res.reason);

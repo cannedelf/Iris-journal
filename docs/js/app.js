@@ -3,7 +3,7 @@
 import { store } from './store.js';
 import { gh } from './github.js';
 import { renderTree, renderHouseholds, getColourMode, setColourMode } from './tree.js';
-import { openProfile } from './profile.js';
+import { openProfile, openNewSim, openNewPet } from './profile.js';
 import { SIM_TYPES } from './constants.js';
 
 let current = { view: 'tree', family: 'rainbow' };
@@ -85,6 +85,10 @@ function bindControls() {
     if (current.view === 'tree') render();
   });
   el('btnSearch').addEventListener('click', openSearch);
+  el('btnAdd').addEventListener('click', (e) => { e.stopPropagation(); el('addMenu').classList.toggle('open'); });
+  el('addMenu').querySelector('[data-add-sim]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewSim(); });
+  el('addMenu').querySelector('[data-add-pet]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewPet(); });
+  document.addEventListener('click', (e) => { if (!e.target.closest('.add-wrap')) el('addMenu').classList.remove('open'); });
   el('searchInput').addEventListener('input', (e) => filterSearch(e.target.value));
   el('searchOverlay').addEventListener('click', (e) => { if (e.target === el('searchOverlay')) closeSearch(); });
   el('btnZoomIn').addEventListener('click', () => stageSvg()?._zoom(1));
