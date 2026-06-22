@@ -84,6 +84,8 @@ a { color: var(--green); }
   100% { filter: drop-shadow(0 0 5px #e6a91f); }
 }
 .type-badge text { pointer-events: none; }
+.node.faded { opacity: .55; }
+.node.faded:hover { opacity: .85; }
 .node-name { font: 700 16px Georgia, serif; fill: var(--ink); }
 .node-sub { font: 500 12px "Segoe UI", sans-serif; fill: var(--ink-soft); }
 .node-foot { font: 500 11px "Segoe UI", sans-serif; fill: #a4937a; }

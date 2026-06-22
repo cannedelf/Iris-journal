@@ -104,7 +104,7 @@ const stageSvg = () => el('stage').querySelector('svg');
 
 function buildLegend() {
   el('legend').innerHTML = '<strong>Sim type</strong>' + SIM_TYPES.map(t =>
-    `<span class="leg"><i style="background:${t.colour}"></i>${t.emoji ? t.emoji + ' ' : ''}${t.label || t.name}</span>`).join('');
+    `<span class="leg"><i style="background:${t.soft};border:2px solid ${t.colour}"></i>${t.emoji ? t.emoji + ' ' : ''}${t.label || t.name}</span>`).join('');
 }
 
 function updateColourUI() {

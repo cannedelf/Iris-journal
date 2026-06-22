@@ -98,14 +98,17 @@ function nodeBox(person, x, y, asPartner) {
   const isAncestor = person.kind === 'ancestor';
   const tMeta = typeMeta(person.type || 'Human');
   const hasType = (person.type || 'Human') !== 'Human';
-  // Border follows the active colour mode (family vs type); ancestors keep their family hue.
-  const border = (colourMode === 'type' && !isAncestor) ? tMeta.colour : fam.colour;
-  const g = svgEl('g', { class: `node ${isAncestor ? 'ancestor' : ''} ${person.heart ? 'heart' : ''}`, transform: `translate(${x},${y})`, 'data-id': person.id, role: 'button', tabindex: '0' });
+  // In Type mode the whole card recolours (border + background); ancestors keep their family hue.
+  const typeView = colourMode === 'type' && !isAncestor;
+  const border = typeView ? tMeta.colour : fam.colour;
+  const fill = isAncestor ? '#efece6' : (typeView ? tMeta.soft : fam.soft);
+  const faded = typeView && (person.type === 'Ghost'); // deceased fade away gently
+  const g = svgEl('g', { class: `node ${isAncestor ? 'ancestor' : ''} ${person.heart ? 'heart' : ''} ${faded ? 'faded' : ''}`, transform: `translate(${x},${y})`, 'data-id': person.id, role: 'button', tabindex: '0' });
 
   g.appendChild(svgEl('rect', {
     class: 'node-box', x: 0, y: 0, width: BOX_W, height: BOX_H, rx: 16,
-    fill: isAncestor ? '#efece6' : fam.soft, stroke: border,
-    'stroke-width': asPartner ? 2.5 : 3, 'stroke-dasharray': isAncestor ? '5 4' : 'none'
+    fill, stroke: border,
+    'stroke-width': asPartner ? 2.5 : 3, 'stroke-dasharray': isAncestor ? '5 4' : (faded ? '6 4' : 'none')
   }));
 
   const emoji = svgEl('text', { class: 'node-emoji', x: 16, y: 38, 'font-size': 30 });

@@ -56,19 +56,21 @@ export const REL_TYPES = [
 export const glyphFor = (signName) => (STAR_SIGNS.find(s => s.name === signName) || {}).glyph || '';
 
 // Sims 2 occult / life-state types — used for the "Colour: Type" view and the badges.
+// Each type has a strong `colour` (border + badge) and a `soft` background fill
+// used in Colour: Type view, so the whole card recolours — not just the border.
 export const SIM_TYPES = [
-  { name: 'Human', emoji: '', colour: '#8aa97e', label: 'Living (Human)' },
-  { name: 'Ghost', emoji: '👻', colour: '#9aa7c7', label: 'Deceased (Ghost)' },
-  { name: 'Alien', emoji: '👽', colour: '#4fae3f', label: 'Alien' },
-  { name: 'Vampire', emoji: '🧛', colour: '#a23a4d', label: 'Vampire' },
-  { name: 'Werewolf', emoji: '🐺', colour: '#7a5c3a', label: 'Werewolf' },
-  { name: 'PlantSim', emoji: '🌱', colour: '#7faa2e', label: 'PlantSim' },
-  { name: 'Zombie', emoji: '🧟', colour: '#6f8a4a', label: 'Zombie' },
-  { name: 'Witch (Good)', emoji: '🧙', colour: '#28b1ad', label: 'Witch — Good' },
-  { name: 'Witch (Neutral)', emoji: '🧙', colour: '#8a8f9c', label: 'Witch — Neutral' },
-  { name: 'Witch (Evil)', emoji: '🧙', colour: '#6a3f9a', label: 'Witch — Evil' },
-  { name: 'Servo', emoji: '🤖', colour: '#7f93a8', label: 'Servo (robot)' },
-  { name: 'Bigfoot', emoji: '👣', colour: '#9c7a55', label: 'Bigfoot' }
+  { name: 'Human',           emoji: '👤', colour: '#c2a878', soft: '#f7efdc', label: 'Living (Human)' },
+  { name: 'Ghost',           emoji: '⚰️', colour: '#9aa0ad', soft: '#e7e8ee', label: 'Deceased' },
+  { name: 'Alien',           emoji: '👽', colour: '#3f9e3a', soft: '#d6f0cd', label: 'Alien' },
+  { name: 'Werewolf',        emoji: '🐺', colour: '#b5762a', soft: '#f2e0c1', label: 'Werewolf' },
+  { name: 'Vampire',         emoji: '🧛', colour: '#6e2f5e', soft: '#e8d4e6', label: 'Vampire' },
+  { name: 'PlantSim',        emoji: '🌿', colour: '#88b22e', soft: '#e7f1c6', label: 'PlantSim' },
+  { name: 'Zombie',          emoji: '🧟', colour: '#7d8a66', soft: '#e1e4d4', label: 'Zombie' },
+  { name: 'Witch (Good)',    emoji: '✨', colour: '#d9a92a', soft: '#f8ecca', label: 'Witch — Good' },
+  { name: 'Witch (Neutral)', emoji: '🧙', colour: '#8a8f9c', soft: '#e4e5ea', label: 'Witch — Neutral' },
+  { name: 'Witch (Evil)',    emoji: '🖤', colour: '#3f3f46', soft: '#d4d4da', label: 'Witch — Evil' },
+  { name: 'Servo',           emoji: '🤖', colour: '#6f8aa8', soft: '#dce6ef', label: 'Servo (robot)' },
+  { name: 'Bigfoot',         emoji: '👣', colour: '#9c7a55', soft: '#ecdcc7', label: 'Bigfoot' }
 ];
 export const typeMeta = (name) => SIM_TYPES.find(t => t.name === name) || SIM_TYPES[0];
 
