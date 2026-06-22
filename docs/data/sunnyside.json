@@ -456,7 +456,7 @@
       "lockedWants": [], "fears": [], "car": "", "carNotes": "", "moments": []
     },
     {
-      "id": "ptn83", "kind": "sim", "name": "P.T. 83", "display": "P.T. 83", "emoji": "👽",
+      "id": "ptn83", "kind": "sim", "alien": true, "name": "P.T. 83", "display": "P.T. 83", "emoji": "👽",
       "family": "townie", "household": "", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 0",
       "photo": null,
       "aspiration": "", "secondaryAspiration": "", "lifetimeWant": "", "starSign": "",

@@ -249,6 +249,7 @@ function simEditor(s) {
       ${row('Life stage', selectField('lifeStage', s.lifeStage, LIFE_STAGES))}
       ${row('Days remaining', numField('daysRemaining', s.daysRemaining, 0, 9999))}
       ${row('Generation', textField('generation', s.generation, 'Gen 1'))}
+      ${row('Alien heritage 👽', `<input type="checkbox" name="alien" ${s.alien ? 'checked' : ''}>`)}
     </fieldset>
 
     <fieldset><legend>Sims 2 Mechanics</legend>
@@ -449,6 +450,7 @@ function applySimForm(s, form) {
   s.family = val(form, 'family'); s.household = val(form, 'household');
   s.preMarriageName = val(form, 'preMarriageName'); s.lifeStage = val(form, 'lifeStage');
   s.daysRemaining = numVal(form, 'daysRemaining'); s.generation = val(form, 'generation');
+  s.alien = form.elements['alien'] ? form.elements['alien'].checked : !!s.alien;
   s.aspiration = val(form, 'aspiration'); s.secondaryAspiration = val(form, 'secondaryAspiration');
   s.lifetimeWant = val(form, 'lifetimeWant'); s.starSign = val(form, 'starSign');
   s.turnOn1 = val(form, 'turnOn1'); s.turnOn2 = val(form, 'turnOn2'); s.turnOff = val(form, 'turnOff');

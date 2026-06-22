@@ -172,7 +172,18 @@ function drawUnits(units, layer) {
     for (const c of u.childUnits) {
       const partnerIsCoParent = u.partner && (c.person.parents || []).includes(u.partner.id);
       const startX = partnerIsCoParent ? u.cx : u.primaryCx;
-      layer.appendChild(connector(startX, u.y + BOX_H, c.primaryCx, c.y));
+      // Alien heritage: if any of the child's parents is flagged alien, the bloodline
+      // gets its own glowing green dashed line with a little UFO. 👽🛸
+      const alien = (c.person.parents || []).some(pid => { const par = store.person(pid); return par && par.alien; });
+      const edge = connector(startX, u.y + BOX_H, c.primaryCx, c.y);
+      if (alien) edge.classList.add('edge-alien');
+      layer.appendChild(edge);
+      if (alien) {
+        const midY = u.y + BOX_H + (c.y - (u.y + BOX_H)) / 2;
+        const mark = svgEl('text', { class: 'alien-mark', x: c.primaryCx, y: midY + 6, 'text-anchor': 'middle' });
+        mark.textContent = '🛸';
+        layer.appendChild(mark);
+      }
     }
     drawUnits(u.childUnits, layer);
   }

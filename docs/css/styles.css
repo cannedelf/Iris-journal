@@ -78,6 +78,9 @@ a { color: var(--green); }
 
 .edge { fill: none; stroke: #cdbb9c; stroke-width: 2; }
 .marriage { stroke: var(--pink); stroke-width: 2.5; }
+.edge-alien { stroke: #4fae3f; stroke-width: 2.5; stroke-dasharray: 7 5; filter: drop-shadow(0 0 2.5px #9be08a); animation: alienflow 1.4s linear infinite; }
+@keyframes alienflow { to { stroke-dashoffset: -24; } }
+.alien-mark { font-size: 15px; }
 .marriage-mark { font-size: 14px; }
 
 .pet-chip { cursor: pointer; }
