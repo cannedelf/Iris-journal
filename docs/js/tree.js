@@ -191,13 +191,15 @@ function drawUnits(units, nodes, edges) {
       nodes.appendChild(nodeBox(u.partner, px, u.y, true));
       const my = u.y + CY;
       const status = (u.partnerMeta && u.partnerMeta.status) || '';
-      const wed = /engaged|married/i.test(status);
+      const married = /married/i.test(status);
+      const engaged = /engaged|fianc/i.test(status);
+      const wed = married || engaged;
       edges.appendChild(svgEl('line', {
         class: 'marriage' + (wed ? ' strong' : ''),
         x1: u.unitLeft + BOX_W / 2 + AVATAR_R, y1: my, x2: px + BOX_W / 2 - AVATAR_R, y2: my
       }));
       const heart = svgEl('text', { class: 'marriage-mark', x: u.cx, y: my - 5, 'text-anchor': 'middle' });
-      heart.textContent = wed ? '💍' : (/love|crush|romantic/i.test(status) ? '💕' : '·');
+      heart.textContent = married ? '💒' : engaged ? '💍' : (/love|crush|romantic/i.test(status) ? '💕' : '·');
       nodes.appendChild(heart);
     }
     // Bloodlines connect circle-centre to circle-centre (drawn behind the portraits, so the
