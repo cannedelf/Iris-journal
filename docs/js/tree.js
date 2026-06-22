@@ -196,7 +196,7 @@ function drawUnits(units, nodes, edges) {
         class: 'marriage' + (wed ? ' strong' : ''),
         x1: u.unitLeft + BOX_W / 2 + AVATAR_R, y1: my, x2: px + BOX_W / 2 - AVATAR_R, y2: my
       }));
-      const heart = svgEl('text', { class: 'marriage-mark', x: u.cx, y: my + 5, 'text-anchor': 'middle' });
+      const heart = svgEl('text', { class: 'marriage-mark', x: u.cx, y: my - 5, 'text-anchor': 'middle' });
       heart.textContent = wed ? '💍' : (/love|crush|romantic/i.test(status) ? '💕' : '·');
       nodes.appendChild(heart);
     }
