@@ -165,9 +165,14 @@ function drawUnits(units, layer) {
       heart.textContent = /engaged|married/i.test(status) ? '💍' : (/love|crush|romantic/i.test(status) ? '💕' : '·');
       layer.appendChild(heart);
     }
-    // Edges down to children
+    // Edges down to children. Only descend from the COUPLE midpoint when the displayed
+    // partner is genuinely the child's other parent. Otherwise the bloodline drops from
+    // the actual parent's own box, so e.g. Cassian doesn't look like Clara's child when
+    // his real other parent is P.T. 83.
     for (const c of u.childUnits) {
-      layer.appendChild(connector(u.cx, u.y + BOX_H, c.primaryCx, c.y));
+      const partnerIsCoParent = u.partner && (c.person.parents || []).includes(u.partner.id);
+      const startX = partnerIsCoParent ? u.cx : u.primaryCx;
+      layer.appendChild(connector(startX, u.y + BOX_H, c.primaryCx, c.y));
     }
     drawUnits(u.childUnits, layer);
   }
