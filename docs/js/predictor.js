@@ -7,22 +7,25 @@ import { store } from './store.js';
 const esc = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const byName = (a, b) => (a.display || a.name || '').toLowerCase().localeCompare((b.display || b.name || '').toLowerCase());
 
-// Lower rank = more dominant. Order of the array also sets keyword-match priority.
+// Lower rank = more dominant. Colours that share a rank are equally dominant, so when two
+// of them meet it's a 50/50 coin flip (the real Sims 2 hair rule: Black & Brown are both
+// dominant, Blonde & Red both recessive). Array order also sets keyword-match priority.
 const HAIR = [
-  { cat: 'Red / ginger', rank: 3, emoji: '🧡', kw: ['ginger', 'red', 'auburn', 'copper'] },
-  { cat: 'Blonde', rank: 4, emoji: '💛', kw: ['blond', 'golden', 'yellow', 'fair', 'sandy'] },
-  { cat: 'Brown', rank: 2, emoji: '🤎', kw: ['brown', 'brunette', 'chestnut'] },
-  { cat: 'Black', rank: 1, emoji: '🖤', kw: ['black', 'dark', 'ebony', 'jet', 'raven', 'coil'] }
+  { cat: 'Red / ginger', rank: 2, rec: true, emoji: '🧡', kw: ['ginger', 'red', 'auburn', 'copper'] },
+  { cat: 'Blonde', rank: 2, rec: true, emoji: '💛', kw: ['blond', 'golden', 'yellow', 'fair', 'sandy'] },
+  { cat: 'Brown', rank: 1, rec: false, emoji: '🤎', kw: ['brown', 'brunette', 'chestnut'] },
+  { cat: 'Black', rank: 1, rec: false, emoji: '🖤', kw: ['black', 'dark', 'ebony', 'jet', 'raven', 'coil'] }
 ];
+// Eyes follow a stricter ladder; custom colours (lilac) sit at the recessive end.
 const EYES = [
-  { cat: 'Dark brown', rank: 1, emoji: '🟤', kw: ['dark brown', 'dark warm brown', 'warm dark brown'] },
-  { cat: 'Lilac', rank: 7, emoji: '💜', kw: ['lilac', 'violet', 'purple', 'lavender'] },
-  { cat: 'Hazel', rank: 3, emoji: '🌰', kw: ['hazel'] },
-  { cat: 'Green', rank: 4, emoji: '💚', kw: ['green', 'olive', 'pistachio', 'emerald'] },
-  { cat: 'Amber', rank: 2, emoji: '🟠', kw: ['amber'] },
-  { cat: 'Grey', rank: 5, emoji: '🩶', kw: ['grey', 'gray'] },
-  { cat: 'Blue', rank: 6, emoji: '💙', kw: ['blue'] },
-  { cat: 'Brown', rank: 2, emoji: '🟤', kw: ['brown'] }
+  { cat: 'Dark brown', rank: 1, rec: false, emoji: '🟤', kw: ['dark brown', 'dark warm brown', 'warm dark brown'] },
+  { cat: 'Lilac', rank: 7, rec: true, emoji: '💜', kw: ['lilac', 'violet', 'purple', 'lavender'] },
+  { cat: 'Hazel', rank: 3, rec: true, emoji: '🌰', kw: ['hazel'] },
+  { cat: 'Green', rank: 4, rec: true, emoji: '💚', kw: ['green', 'olive', 'pistachio', 'emerald'] },
+  { cat: 'Amber', rank: 2, rec: false, emoji: '🟠', kw: ['amber'] },
+  { cat: 'Grey', rank: 5, rec: true, emoji: '🩶', kw: ['grey', 'gray'] },
+  { cat: 'Blue', rank: 6, rec: true, emoji: '💙', kw: ['blue'] },
+  { cat: 'Brown', rank: 2, rec: false, emoji: '🟤', kw: ['brown'] }
 ];
 
 function mapColour(text, table) {
@@ -45,17 +48,19 @@ function alleles(genetics, visKey, hidKey, table) {
 
 function predict(aAll, bAll) {
   const counts = {}, carried = {};
+  const add = (e, p) => { counts[e.cat] = counts[e.cat] || { entry: e, mass: 0 }; counts[e.cat].mass += p; };
+  const P = 0.25; // each of the 4 allele combinations is equally likely
   for (const a of aAll) for (const b of bAll) {
-    const exp = a.rank <= b.rank ? a : b;
-    const rec = a.rank <= b.rank ? b : a;
-    counts[exp.cat] = counts[exp.cat] || { entry: exp, count: 0 };
-    counts[exp.cat].count++;
-    if (rec.cat !== exp.cat) carried[rec.cat] = rec;
+    if (a.rank < b.rank) { add(a, P); if (b.cat !== a.cat) carried[b.cat] = b; }
+    else if (b.rank < a.rank) { add(b, P); if (a.cat !== b.cat) carried[a.cat] = a; }
+    else if (a.cat === b.cat) { add(a, P); }
+    else { add(a, P / 2); add(b, P / 2); carried[a.cat] = a; carried[b.cat] = b; } // equal dominance → 50/50
   }
   const results = Object.values(counts)
-    .map(c => ({ ...c.entry, pct: c.count / 4 * 100 }))
+    .map(c => ({ ...c.entry, pct: c.mass * 100 }))
     .sort((x, y) => y.pct - x.pct || x.rank - y.rank);
-  return { results, carried: Object.values(carried) };
+  const guaranteed = new Set(results.filter(r => r.pct >= 100).map(r => r.cat));
+  return { results, carried: Object.values(carried).filter(c => !guaranteed.has(c.cat)) };
 }
 
 function geneBlock(title, emoji, res) {
@@ -66,7 +71,7 @@ function geneBlock(title, emoji, res) {
     <span class="gene-bar"><span style="width:${r.pct}%"></span></span>
     <span class="gene-pct">${Math.round(r.pct)}%</span></div>`).join('');
   // A little magic note when a recessive surprise (blonde/red/green/lilac…) can actually show.
-  const magic = res.results.find(r => r.rank >= 3);
+  const magic = res.results.find(r => r.rec);
   const note = magic ? `<p class="gene-magic">✨ A recessive surprise is possible — ${magic.emoji} ${esc(magic.cat)} could show!</p>` : '';
   const carried = res.carried.length
     ? `<p class="carried">🧬 Could secretly carry: ${res.carried.map(c => c.emoji + ' ' + esc(c.cat)).join(', ')}</p>` : '';
