@@ -209,16 +209,18 @@ function drawUnits(units, layer) {
     for (const c of u.childUnits) {
       const partnerIsCoParent = u.partner && (c.person.parents || []).includes(u.partner.id);
       const startX = partnerIsCoParent ? u.cx : u.primaryCx;
-      // Alien heritage: if any of the child's parents is flagged alien, the bloodline
-      // gets its own glowing green dashed line with a little UFO. 👽🛸
-      const alien = (c.person.parents || []).some(pid => { const par = store.person(pid); return par && (par.alien || par.type === 'Alien'); });
+      // Adoption is a LOVE choice: a warm pink dotted line with a beating heart. ❤️
+      // Otherwise, alien heritage gets a glowing green dashed line with a UFO. 👽🛸
+      const adopted = !!c.person.adopted;
+      const alien = !adopted && (c.person.parents || []).some(pid => { const par = store.person(pid); return par && (par.alien || par.type === 'Alien'); });
       const edge = connector(startX, u.y + BOX_H, c.primaryCx, c.y);
-      if (alien) edge.classList.add('edge-alien');
+      if (adopted) edge.classList.add('edge-adopt');
+      else if (alien) edge.classList.add('edge-alien');
       layer.appendChild(edge);
-      if (alien) {
+      if (adopted || alien) {
         const midY = u.y + BOX_H + (c.y - (u.y + BOX_H)) / 2;
-        const mark = svgEl('text', { class: 'alien-mark', x: c.primaryCx, y: midY + 6, 'text-anchor': 'middle' });
-        mark.textContent = '🛸';
+        const mark = svgEl('text', { class: adopted ? 'adopt-mark' : 'alien-mark', x: c.primaryCx, y: midY + 6, 'text-anchor': 'middle' });
+        mark.textContent = adopted ? '❤️' : '🛸';
         layer.appendChild(mark);
       }
     }

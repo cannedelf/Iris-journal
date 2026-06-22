@@ -141,7 +141,7 @@ function simView(s) {
       <button class="edit" data-edit>✎ Edit</button>
       ${photoBlock(s)}
       <div class="head-text">
-        <h2>${esc(s.emoji || '')} ${esc(s.name)} ${(s.type && s.type !== 'Human') ? `<span class="type-tag">${typeMeta(s.type).emoji} ${esc(s.type)}</span>` : ''}</h2>
+        <h2>${esc(s.emoji || '')} ${esc(s.name)} ${(s.type && s.type !== 'Human') ? `<span class="type-tag">${typeMeta(s.type).emoji} ${esc(s.type)}</span>` : ''} ${s.adopted ? '<span class="type-tag">❤️ Adopted</span>' : ''}</h2>
         <p class="head-sub">${[fam.name && fam.emoji + ' ' + fam.name, hh && hh.name, s.generation].filter(Boolean).map(esc).join(' · ')}</p>
         ${isAnc ? `<p class="anc-banner">Ancestor node — origin point for genetics (non-playable)</p>` : ''}
         ${s.oneLiner ? `<p class="oneliner">“${esc(s.oneLiner)}”</p>` : ''}
@@ -329,6 +329,7 @@ function simEditor(s) {
       ${row('Generation', textField('generation', s.generation, 'Gen 1'))}
       ${row('Sim type', `<select name="type">${SIM_TYPES.map(t => `<option value="${t.name}" ${(s.type || 'Human') === t.name ? 'selected' : ''}>${t.emoji ? t.emoji + ' ' : ''}${esc(t.label || t.name)}</option>`).join('')}</select>`)}
       ${row('🎀 Yellow bow club', `<input type="checkbox" name="yellowBow" ${s.yellowBow ? 'checked' : ''}>`)}
+      ${row('❤️ Adopted (chosen child)', `<input type="checkbox" name="adopted" ${s.adopted ? 'checked' : ''}>`)}
     </fieldset>
 
     <fieldset><legend>Sims 2 Mechanics</legend>
@@ -562,6 +563,7 @@ function applySimForm(s, form) {
   s.daysRemaining = numVal(form, 'daysRemaining'); s.generation = val(form, 'generation');
   s.type = form.elements['type'] ? form.elements['type'].value : (s.type || 'Human');
   s.yellowBow = form.elements['yellowBow'] ? form.elements['yellowBow'].checked : !!s.yellowBow;
+  s.adopted = form.elements['adopted'] ? form.elements['adopted'].checked : !!s.adopted;
   s.aspiration = val(form, 'aspiration'); s.secondaryAspiration = val(form, 'secondaryAspiration');
   s.lifetimeWant = val(form, 'lifetimeWant'); s.starSign = val(form, 'starSign');
   s.turnOn1 = val(form, 'turnOn1'); s.turnOn2 = val(form, 'turnOn2'); s.turnOff = val(form, 'turnOff');

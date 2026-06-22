@@ -103,6 +103,11 @@ a { color: var(--green); }
 .edge-alien { stroke: #4fae3f; stroke-width: 2.5; stroke-dasharray: 7 5; filter: drop-shadow(0 0 2.5px #9be08a); animation: alienflow 1.4s linear infinite; }
 @keyframes alienflow { to { stroke-dashoffset: -24; } }
 .alien-mark { font-size: 15px; }
+
+/* Adoption — a love choice, not biology: warm pink dotted line + beating heart. ❤️ */
+.edge-adopt { stroke: #e05a7a; stroke-width: 2.5; stroke-dasharray: 2 6; stroke-linecap: round; filter: drop-shadow(0 0 2px #f3acc0); }
+.adopt-mark { font-size: 14px; transform-box: fill-box; transform-origin: center; animation: heartbeat 1.6s ease-in-out infinite; }
+@keyframes heartbeat { 0%, 100% { transform: scale(1); } 15% { transform: scale(1.28); } 30% { transform: scale(1); } 45% { transform: scale(1.18); } 60% { transform: scale(1); } }
 .marriage-mark { font-size: 14px; }
 
 .pet-chip { cursor: pointer; }
