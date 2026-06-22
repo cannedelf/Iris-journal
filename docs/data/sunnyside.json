@@ -560,19 +560,23 @@
     {
       "id": "claire",
       "kind": "ancestor",
-      "name": "Claire",
-      "display": "Claire",
+      "name": "Kareem's Mum",
+      "display": "",
       "emoji": "💜",
       "family": "rainbow",
       "generation": "Gen 0",
       "oneLiner": "The secret gene queen!! Every Rainbow baby carries her hidden magic!!",
       "genetics": {
         "hairVisible": "BLONDE (hidden recessive in Kareem!)",
+        "hairHidden": "Blonde",
         "eyesVisible": "Lilac",
+        "eyesHidden": "Lilac",
         "skin": "Lighter",
+        "freckles": "",
         "notable": "Kind face",
-        "notes": "Gives Kareem hidden blonde + lilac — rainbow babies genuinely possible. White British.",
-        "eyesHidden": ""
+        "fromMum": "",
+        "fromDad": "",
+        "notes": "Gives Kareem hidden blonde + lilac — rainbow babies genuinely possible. White British."
       },
       "parents": [],
       "partners": [
@@ -581,7 +585,52 @@
           "status": "Married",
           "bolts": null
         }
-      ]
+      ],
+      "household": "",
+      "preMarriageName": "",
+      "lifeStage": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "aspiration": "",
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "starSign": "",
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "",
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
+      "career": {
+        "track": "",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {
+        "cooking": 0,
+        "mechanical": 0,
+        "charisma": 0,
+        "body": 0,
+        "logic": 0,
+        "creativity": 0,
+        "cleaning": 0
+      },
+      "car": "",
+      "carNotes": "",
+      "relationships": [],
+      "moments": [],
+      "lockedWants": [],
+      "fears": []
     },
     {
       "id": "iris",
