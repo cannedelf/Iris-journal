@@ -638,7 +638,7 @@
       "kind": "sim",
       "heart": true,
       "yellowBow": true,
-      "name": "Iris Golden Rainbow",
+      "name": "Iris Rainbow",
       "display": "Iris",
       "emoji": "🌈",
       "family": "rainbow",
@@ -666,8 +666,8 @@
       "bodyFrame": "Female",
       "career": {
         "track": "Artist",
-        "level": 4,
         "levelName": "Comic Book Penciller",
+        "level": 4,
         "top": "Visionary",
         "degree": "Fine Arts"
       },
@@ -780,7 +780,9 @@
           "event": "ENGAGED TO KAREEM",
           "notes": "Blue velvet box! She said YES!"
         }
-      ]
+      ],
+      "type": "Human",
+      "adopted": false
     },
     {
       "id": "kareem",
