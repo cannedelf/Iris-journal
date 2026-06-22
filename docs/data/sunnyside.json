@@ -197,7 +197,7 @@
         "skin": "Dark warm brown",
         "freckles": "Yes — passes them to all three siblings",
         "notes": "Søren inherits most from Dad. Black hair + dark eyes dominant; freckles carried by all.",
-        "eyesHidden": ""
+        "eyesHidden": "Hazel Olive Green"
       },
       "parents": [],
       "partners": [
@@ -220,12 +220,12 @@
       "oneLiner": "Yellow bow club!! Brown waves hiding in Cassian!!",
       "genetics": {
         "hairVisible": "Gentle brown waves",
-        "eyesVisible": "Hazel Green",
+        "eyesVisible": "Hazel Olive Green",
         "skin": "Pale",
         "freckles": "Yes — the source of the Hill freckle situation",
         "notable": "Round warm face, yellow bow",
         "notes": "Liv and Wrench inherit most from Mum. Brown-hair + hazel-eye recessives surface later — brown curls expressed in green toddler Cassian!",
-        "eyesHidden": ""
+        "eyesHidden": "Hazel Olive Green"
       },
       "parents": [],
       "partners": [
@@ -668,7 +668,7 @@
         "hairVisible": "Black curly (big, voluminous — Sam's hair exactly)",
         "hairHidden": "Brown (recessive, from Ruth) — EXPRESSED IN CASSIAN!",
         "eyesVisible": "Dark Brown",
-        "eyesHidden": "Hazel Green",
+        "eyesHidden": "Hazel Olive Green",
         "skin": "Dark warm brown (from Sam)",
         "freckles": "Yes — Ruth's freckles came through quietly",
         "notable": "Round glasses, tall and distinguished, the green coat",
@@ -814,8 +814,8 @@
       "genetics": {
         "hairVisible": "Curly brown (Sam's curl, Ruth's colour)",
         "hairHidden": "Black (recessive, from Sam)",
-        "eyesVisible": "Hazel Green",
-        "eyesHidden": "",
+        "eyesVisible": "Hazel Olive Green",
+        "eyesHidden": "Hazel Olive Green",
         "skin": "Medium warm brown (perfect middle of both parents)",
         "freckles": "Yes — the most freckled Hill sibling",
         "notable": "Friendly open face, warm smile",
@@ -942,8 +942,8 @@
       "genetics": {
         "hairVisible": "Brown, long and wavy (Ruth's hair)",
         "hairHidden": "Black (recessive, from Sam)",
-        "eyesVisible": "Hazel Green",
-        "eyesHidden": "",
+        "eyesVisible": "Hazel Olive Green",
+        "eyesHidden": "Hazel Olive Green",
         "skin": "Medium — lighter than Søren, warmer than Ruth",
         "freckles": "Yes — from Sam, softer than Wrench's",
         "notable": "Glasses, warm open kind face",
@@ -1301,7 +1301,7 @@
       "genetics": {
         "hairVisible": "Brown, neat and controlled (short, deliberately placed)",
         "hairHidden": "Ginger (recessive, from Dennis)",
-        "eyesVisible": "Hazel Olive Green",
+        "eyesVisible": "Green",
         "eyesHidden": "",
         "skin": "Slight golden tan (mix of both parents)",
         "freckles": "No (controlled)",
@@ -1431,7 +1431,7 @@
       "genetics": {
         "hairVisible": "Brown curly (purple bandana headband)",
         "hairHidden": "Ginger (recessive, from Dennis)",
-        "eyesVisible": "Brown",
+        "eyesVisible": "Light Brown",
         "eyesHidden": "Green",
         "skin": "Golden tan (most golden of the siblings, from Dennis)",
         "freckles": "Yes",
@@ -1542,7 +1542,7 @@
       "genetics": {
         "hairVisible": "Dark natural coils (big and beautiful)",
         "hairHidden": "None",
-        "eyesVisible": "Dark Brown",
+        "eyesVisible": "Black",
         "eyesHidden": "Hazel Green",
         "skin": "Warm deep brown — West African heritage",
         "freckles": "No",
@@ -1629,7 +1629,7 @@
       "genetics": {
         "hairVisible": "Dark, straight, neat (with headband)",
         "hairHidden": "Ginger (recessive)",
-        "eyesVisible": "Dark Brown",
+        "eyesVisible": "Brown",
         "eyesHidden": "Green",
         "skin": "Warm golden brown — mixed South Asian and English heritage",
         "freckles": "No",
@@ -1816,8 +1816,8 @@
         "cleaning": 0
       },
       "genetics": {
-        "hairVisible": "",
-        "hairHidden": "",
+        "hairVisible": "Red",
+        "hairHidden": "Red",
         "eyesVisible": "Green",
         "eyesHidden": "",
         "skin": "Dark",
