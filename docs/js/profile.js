@@ -400,7 +400,7 @@ function petEditor(pt) {
       ${row('Emoji', textField('emoji', pt.emoji))}
       ${row('Species', selectField('species', pt.species, PET_SPECIES))}
       ${row('Breed', textField('breed', pt.breed))}
-      ${row('Owner (Sim ID)', textField('ownerId', pt.ownerId))}
+      ${row('Owner', `<select name="ownerId">${peopleOptions(pt.ownerId)}</select>`)}
       ${row('Household', householdSelect('household', pt.household))}
       ${row('Star sign', selectField('starSign', pt.starSign, STAR_SIGNS))}
       ${row('Collar', textField('collar', pt.collar))}
@@ -432,6 +432,12 @@ function peopleOptions(sel) {
   ).join('');
 }
 const parentRow = (id = '') => `<div class="lrow"><select name="parents[]">${peopleOptions(id)}</select><button type="button" class="del" data-del>✕</button></div>`;
+
+// Options for picking any person OR pet by name (relationships can point at pets too).
+function nodeOptions(sel) {
+  const opt = (n) => `<option value="${esc(n.id)}" ${n.id === sel ? 'selected' : ''}>${esc((n.emoji || '') + ' ' + (n.display || n.name))}</option>`;
+  return '<option value="">— choose —</option>' + store.data.people.map(opt).join('') + store.data.pets.map(opt).join('');
+}
 function parentsEditor(items) {
   return `<fieldset data-list="parents"><legend>Parents</legend>
     <div class="rows">${items.map(id => parentRow(id)).join('')}</div>
@@ -441,7 +447,7 @@ function parentsEditor(items) {
 function partnerEditor(items) {
   return `<fieldset data-list="partners"><legend>Partners</legend>
     <div class="rows">${items.map(p => `<div class="lrow">
-      <input name="partners_id[]" placeholder="Sim ID" value="${esc(p.id)}">
+      <select name="partners_id[]">${peopleOptions(p.id)}</select>
       <input name="partners_status[]" placeholder="Status" value="${esc(p.status)}">
       <input name="partners_bolts[]" type="number" min="0" max="3" placeholder="bolts" value="${p.bolts ?? ''}">
       <button type="button" class="del" data-del>✕</button></div>`).join('')}</div>
@@ -454,7 +460,7 @@ function relEditor(items) {
     <button type="button" class="add" data-add="rels">+ Add relationship</button></fieldset>`;
 }
 const relRow = (r = {}) => `<div class="lrow rel">
-  <input name="rel_id[]" placeholder="Sim ID" value="${esc(r.id)}">
+  <select name="rel_id[]">${nodeOptions(r.id)}</select>
   <select name="rel_type[]">${['', ...REL_TYPES].map(t => `<option ${t === r.type ? 'selected' : ''}>${esc(t)}</option>`).join('')}</select>
   <input name="rel_bolts[]" type="number" min="0" max="3" placeholder="bolts" value="${r.bolts ?? ''}">
   <input name="rel_notes[]" placeholder="notes" value="${esc(r.notes)}">
@@ -500,7 +506,7 @@ function wireEditor(node, isPet) {
     const kind = add.dataset.add;
     const rows = add.previousElementSibling;
     if (kind === 'parents') rows.insertAdjacentHTML('beforeend', parentRow());
-    else if (kind === 'partners') rows.insertAdjacentHTML('beforeend', `<div class="lrow"><input name="partners_id[]" placeholder="Sim ID"><input name="partners_status[]" placeholder="Status"><input name="partners_bolts[]" type="number" min="0" max="3" placeholder="bolts"><button type="button" class="del" data-del>✕</button></div>`);
+    else if (kind === 'partners') rows.insertAdjacentHTML('beforeend', `<div class="lrow"><select name="partners_id[]">${peopleOptions('')}</select><input name="partners_status[]" placeholder="Status"><input name="partners_bolts[]" type="number" min="0" max="3" placeholder="bolts"><button type="button" class="del" data-del>✕</button></div>`);
     else if (kind === 'rels') rows.insertAdjacentHTML('beforeend', relRow());
     else if (kind === 'moments') rows.insertAdjacentHTML('beforeend', momentRow({}, false));
     else if (kind === 'moments_pet') rows.insertAdjacentHTML('beforeend', momentRow({}, true));
