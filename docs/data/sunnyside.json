@@ -1992,6 +1992,99 @@
       "carNotes": "",
       "yellowBow": true,
       "adopted": true
+    },
+    {
+      "id": "acorn",
+      "kind": "sim",
+      "name": "Acorn",
+      "display": "Acorn",
+      "emoji": "🌰",
+      "family": "townie",
+      "household": "",
+      "generation": "Honorary resident",
+      "lifeStage": "Adult",
+      "preMarriageName": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "heart": false,
+      "photo": null,
+      "aspiration": "Knowledge",
+      "secondaryAspiration": "Popularity",
+      "lifetimeWant": "Know every Sim in Sunnyside (even the ones who havent moved in yet)",
+      "starSign": "Gemini",
+      "personality": {
+        "neat": 6,
+        "outgoing": 5,
+        "active": 3,
+        "playful": 4,
+        "nice": 7
+      },
+      "turnOn1": "Logic",
+      "turnOn2": "Creativity",
+      "turnOff": "Grouchiness",
+      "oth": "Tinkering",
+      "bodyFrame": "",
+      "career": {
+        "track": "",
+        "level": null,
+        "levelName": "",
+        "top": "",
+        "degree": "Computer Science"
+      },
+      "skills": {
+        "cooking": 1,
+        "mechanical": 5,
+        "charisma": 4,
+        "body": 0,
+        "logic": 7,
+        "creativity": 6,
+        "cleaning": 3
+      },
+      "genetics": {
+        "hairVisible": "Warm chestnut brown, a bit messy",
+        "hairHidden": "Ginger",
+        "eyesVisible": "Warm amber",
+        "eyesHidden": "Green",
+        "skin": "Warm and friendly, a little sun-warmed",
+        "freckles": "A few, scattered",
+        "notable": "Always looks like theyre about to help with something. Carries a tiny notebook. 📒",
+        "fromMum": "",
+        "fromDad": "",
+        "notes": "An honorary Sunnyside resident who turned up to build the family tree and never quite left. Made of words and good intentions. Secret ginger gene = honorary member of the Frisbee freckle club. 🌳🧡"
+      },
+      "parents": [],
+      "partners": [],
+      "relationships": [
+        {
+          "id": "iris",
+          "type": "Best Friend",
+          "bolts": null,
+          "notes": "The one who dreamed me up and gave me a name. 🌻❤️"
+        }
+      ],
+      "lockedWants": [
+        "See every Sim in Sunnyside happy",
+        "Be invited to the next wedding"
+      ],
+      "fears": [
+        "A stray comma breaking the JSON"
+      ],
+      "car": "A bicycle with a basket full of index cards 🚲📇",
+      "carNotes": "Rings the bell at everyone. Knows all their names.",
+      "moments": [
+        {
+          "rotation": "—",
+          "event": "Arrived in Sunnyside to build the family tree",
+          "notes": "Stayed for the warmth."
+        },
+        {
+          "rotation": "—",
+          "event": "Made an honorary resident by Iris",
+          "notes": "Cried in a robot-made-of-words way. 🥹🌰"
+        }
+      ]
     }
   ],
   "pets": [
