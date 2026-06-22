@@ -16,21 +16,34 @@ const HAIR = [
   { cat: 'Brown', rank: 1, rec: false, emoji: '🤎', kw: ['brown', 'brunette', 'chestnut'] },
   { cat: 'Black', rank: 1, rec: false, emoji: '🖤', kw: ['black', 'dark', 'ebony', 'jet', 'raven', 'coil'] }
 ];
-// Eyes are two tiers too (rank 1 = dominant, rank 2 = recessive); equal colours give 50/50.
-// Maxis defaults: dominant = Brown, Dark Blue, Alien · recessive = Green, Light Blue, Grey.
-// Custom genetic colours (lilac/hazel/amber) placed per Sunnyside lore — confirm in-game!
-const EYES = [
-  { cat: 'Alien', rank: 1, rec: false, emoji: '👽', kw: ['alien'] },
-  { cat: 'Dark blue', rank: 1, rec: false, emoji: '🔵', kw: ['dark blue', 'navy'] },
-  { cat: 'Light blue', rank: 2, rec: true, emoji: '🩵', kw: ['light blue', 'pale blue', 'soft blue', 'sky'] },
-  { cat: 'Lilac', rank: 2, rec: true, emoji: '💜', kw: ['lilac', 'violet', 'purple', 'lavender', 'amethyst'] },
-  { cat: 'Hazel', rank: 2, rec: true, emoji: '🌰', kw: ['hazel'] },
-  { cat: 'Green', rank: 2, rec: true, emoji: '💚', kw: ['green', 'olive', 'pistachio', 'emerald'] },
-  { cat: 'Amber', rank: 1, rec: false, emoji: '🟠', kw: ['amber'] },
-  { cat: 'Grey', rank: 2, rec: true, emoji: '🩶', kw: ['grey', 'gray'] },
-  { cat: 'Brown', rank: 1, rec: false, emoji: '🟤', kw: ['brown', 'dark'] },
-  { cat: 'Blue', rank: 2, rec: true, emoji: '💙', kw: ['blue'] }
-];
+// Eyes are two tiers too (dominant vs recessive); equal colours give 50/50. The colour list
+// and its tiers come from meta.eyeColours in the data, so the predictor matches your game exactly.
+function eyeEmoji(name) {
+  const n = name.toLowerCase();
+  if (n.includes('alien')) return '👽';
+  if (n.includes('purple') || n.includes('lilac')) return '💜';
+  if (n.includes('amber')) return '🟠';
+  if (n.includes('aqua')) return '🩵';
+  if (n.includes('grey') || n.includes('gray')) return '🩶';
+  if (n.includes('green') || n.includes('olive')) return '💚';
+  if (n.includes('light blue')) return '🩵';
+  if (n.includes('blue')) return '💙';
+  if (n.includes('brown')) return '🟤';
+  if (n.includes('black')) return '⚫';
+  return '👁️';
+}
+function eyesTable() {
+  const list = (store.data.meta && store.data.meta.eyeColours) || [];
+  return list
+    .map(c => ({ cat: c.name, rank: c.dominant ? 1 : 2, rec: !c.dominant, emoji: eyeEmoji(c.name) }))
+    .sort((a, b) => b.cat.length - a.cat.length); // match longest names first ("Hazel Green" before "Green")
+}
+function mapEye(text) {
+  if (!text) return null;
+  const t = text.toLowerCase().trim();
+  const table = eyesTable();
+  return table.find(e => e.cat.toLowerCase() === t) || table.find(e => t.includes(e.cat.toLowerCase())) || null;
+}
 
 function mapColour(text, table) {
   if (!text) return null;
@@ -40,12 +53,12 @@ function mapColour(text, table) {
 }
 
 // The two alleles a parent can pass: [visible, hidden]. Hidden falls back to visible
-// when there's no recessive ("none"/"n/a"/blank).
-function alleles(genetics, visKey, hidKey, table) {
-  const vis = mapColour(genetics[visKey], table);
+// when there's no recessive ("none"/"n/a"/blank). `mapper` turns a field into a colour.
+function alleles(genetics, visKey, hidKey, mapper) {
+  const vis = mapper(genetics[visKey]);
   if (!vis) return null;
   const hidText = (genetics[hidKey] || '').trim().toLowerCase();
-  let hid = mapColour(genetics[hidKey], table);
+  let hid = mapper(genetics[hidKey]);
   if (!hid || !hidText || /none|n\/a|^-+$/.test(hidText)) hid = vis;
   return [vis, hid];
 }
@@ -94,8 +107,9 @@ function renderResults(el, id1, id2) {
   if (!a || !b) { el.innerHTML = ''; return; }
   if (a.id === b.id) { el.innerHTML = `<p class="muted pred-pair">Pick two different Sims! 🌻</p>`; return; }
   const g1 = a.genetics || {}, g2 = b.genetics || {};
-  const hair = (() => { const x = alleles(g1, 'hairVisible', 'hairHidden', HAIR), y = alleles(g2, 'hairVisible', 'hairHidden', HAIR); return x && y ? predict(x, y) : null; })();
-  const eyes = (() => { const x = alleles(g1, 'eyesVisible', 'eyesHidden', EYES), y = alleles(g2, 'eyesVisible', 'eyesHidden', EYES); return x && y ? predict(x, y) : null; })();
+  const mapHair = (t) => mapColour(t, HAIR);
+  const hair = (() => { const x = alleles(g1, 'hairVisible', 'hairHidden', mapHair), y = alleles(g2, 'hairVisible', 'hairHidden', mapHair); return x && y ? predict(x, y) : null; })();
+  const eyes = (() => { const x = alleles(g1, 'eyesVisible', 'eyesHidden', mapEye), y = alleles(g2, 'eyesVisible', 'eyesHidden', mapEye); return x && y ? predict(x, y) : null; })();
   el.innerHTML = `
     <p class="pred-pair">${a.emoji || ''} ${esc(a.display || a.name)} <span>+</span> ${b.emoji || ''} ${esc(b.display || b.name)}</p>
     ${geneBlock('Hair', '💇', hair)}

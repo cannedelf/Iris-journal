@@ -303,6 +303,22 @@ function householdSelect(name, val) {
     `<option value="${esc(h.id)}" ${h.id === val ? 'selected' : ''}>${h.emoji ? esc(h.emoji) + ' ' : ''}${esc(h.name)}</option>`).join('')}</select>`;
 }
 const textField = (name, value, ph = '') => `<input name="${name}" value="${esc(value || '')}" placeholder="${esc(ph)}">`;
+
+// Eye colour dropdown, grouped Dominant/Recessive from meta.eyeColours. Falls back to a
+// text field if no colour list is set yet.
+function eyeColourSelect(name, value) {
+  const list = (store.data.meta && store.data.meta.eyeColours) || [];
+  if (!list.length) return textField(name, value, 'e.g. Lilac');
+  const dom = list.filter(c => c.dominant), rec = list.filter(c => !c.dominant);
+  const opt = (c) => `<option value="${esc(c.name)}" ${c.name === value ? 'selected' : ''}>${esc(c.name)}</option>`;
+  const unknown = value && !list.some(c => c.name === value);
+  return `<select name="${name}">
+    <option value="" ${!value ? 'selected' : ''}>— none —</option>
+    ${unknown ? `<option value="${esc(value)}" selected>${esc(value)} (current)</option>` : ''}
+    <optgroup label="Dominant">${dom.map(opt).join('')}</optgroup>
+    <optgroup label="Recessive">${rec.map(opt).join('')}</optgroup>
+  </select>`;
+}
 const numField = (name, value, min = 0, max = 10) => `<input type="number" name="${name}" value="${value ?? ''}" min="${min}" max="${max}">`;
 
 function openEditor(node) {
@@ -367,8 +383,8 @@ function simEditor(s) {
     <fieldset><legend>Genetics 🧬</legend>
       ${row('Hair (visible)', textField('g_hairVisible', g.hairVisible))}
       ${row('Hair (hidden)', textField('g_hairHidden', g.hairHidden))}
-      ${row('Eyes (visible)', textField('g_eyesVisible', g.eyesVisible))}
-      ${row('Eyes (hidden)', textField('g_eyesHidden', g.eyesHidden))}
+      ${row('Eyes (visible)', eyeColourSelect('g_eyesVisible', g.eyesVisible))}
+      ${row('Eyes (hidden)', eyeColourSelect('g_eyesHidden', g.eyesHidden))}
       ${row('Skin tone', textField('g_skin', g.skin))}
       ${row('Freckles', textField('g_freckles', g.freckles))}
       ${row('Notable', textField('g_notable', g.notable))}

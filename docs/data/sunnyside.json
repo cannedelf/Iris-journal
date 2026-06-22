@@ -3,7 +3,89 @@
     "version": 1,
     "neighbourhood": "Sunnyside",
     "updated": "2026-06-22",
-    "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub."
+    "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub.",
+    "eyeColours": [
+      {
+        "name": "Alien",
+        "dominant": true
+      },
+      {
+        "name": "Black",
+        "dominant": true
+      },
+      {
+        "name": "Dark Brown",
+        "dominant": true
+      },
+      {
+        "name": "Brown",
+        "dominant": true
+      },
+      {
+        "name": "Light Brown",
+        "dominant": true
+      },
+      {
+        "name": "Dark Blue",
+        "dominant": true
+      },
+      {
+        "name": "Hazel Green",
+        "dominant": false
+      },
+      {
+        "name": "Hazel Olive Green",
+        "dominant": false
+      },
+      {
+        "name": "Light Green",
+        "dominant": false
+      },
+      {
+        "name": "Green",
+        "dominant": false
+      },
+      {
+        "name": "Hazel Dark Blue",
+        "dominant": false
+      },
+      {
+        "name": "Hazel Blue",
+        "dominant": false
+      },
+      {
+        "name": "Aqua",
+        "dominant": false
+      },
+      {
+        "name": "Light Blue",
+        "dominant": false
+      },
+      {
+        "name": "Blue",
+        "dominant": false
+      },
+      {
+        "name": "Grey",
+        "dominant": false
+      },
+      {
+        "name": "Hazel Grey",
+        "dominant": false
+      },
+      {
+        "name": "Amber",
+        "dominant": false
+      },
+      {
+        "name": "Dark Purple",
+        "dominant": false
+      },
+      {
+        "name": "Lilac",
+        "dominant": false
+      }
+    ]
   },
   "families": [
     {
@@ -111,10 +193,11 @@
       "oneLiner": "The source of every Hill curl and every Hill freckle!!",
       "genetics": {
         "hairVisible": "Black curly (big voluminous curls)",
-        "eyesVisible": "Dark brown",
+        "eyesVisible": "Dark Brown",
         "skin": "Dark warm brown",
         "freckles": "Yes — passes them to all three siblings",
-        "notes": "Søren inherits most from Dad. Black hair + dark eyes dominant; freckles carried by all."
+        "notes": "Søren inherits most from Dad. Black hair + dark eyes dominant; freckles carried by all.",
+        "eyesHidden": ""
       },
       "parents": [],
       "partners": [
@@ -137,11 +220,12 @@
       "oneLiner": "Yellow bow club!! Brown waves hiding in Cassian!!",
       "genetics": {
         "hairVisible": "Gentle brown waves",
-        "eyesVisible": "Hazel",
+        "eyesVisible": "Hazel Green",
         "skin": "Pale",
         "freckles": "Yes — the source of the Hill freckle situation",
         "notable": "Round warm face, yellow bow",
-        "notes": "Liv and Wrench inherit most from Mum. Brown-hair + hazel-eye recessives surface later — brown curls expressed in green toddler Cassian!"
+        "notes": "Liv and Wrench inherit most from Mum. Brown-hair + hazel-eye recessives surface later — brown curls expressed in green toddler Cassian!",
+        "eyesHidden": ""
       },
       "parents": [],
       "partners": [
@@ -166,7 +250,8 @@
         "eyesVisible": "Brown",
         "skin": "Golden / tanned",
         "freckles": "Yes — passes them to all three",
-        "notes": "Hidden ginger recessive = surprise ginger Frisbee babies someday. Still-Here + Fourth get golden skin from here. Mildly bewildered since approximately 1990."
+        "notes": "Hidden ginger recessive = surprise ginger Frisbee babies someday. Still-Here + Fourth get golden skin from here. Mildly bewildered since approximately 1990.",
+        "eyesHidden": ""
       },
       "parents": [],
       "partners": [
@@ -189,11 +274,12 @@
       "oneLiner": "Yellow bow club!! AWiddleFrisbee's round face comes from here!!",
       "genetics": {
         "hairVisible": "Brown (worn up with a yellow bow)",
-        "eyesVisible": "GREEN",
+        "eyesVisible": "Green",
         "skin": "Pale",
         "freckles": "No",
         "notable": "Round warm face",
-        "notes": "AWiddleFrisbee + Fourth get green eyes from here. AWiddleFrisbee's round face comes from here."
+        "notes": "AWiddleFrisbee + Fourth get green eyes from here. AWiddleFrisbee's round face comes from here.",
+        "eyesHidden": ""
       },
       "parents": [],
       "partners": [
@@ -215,10 +301,11 @@
       "oneLiner": "Kareem's dominant look!! Ghanaian heritage!!",
       "genetics": {
         "hairVisible": "Dark black",
-        "eyesVisible": "Dark brown",
+        "eyesVisible": "Dark Brown",
         "skin": "Dark",
         "notable": "Tall",
-        "notes": "Kareem's dominant look. Ghanaian heritage."
+        "notes": "Kareem's dominant look. Ghanaian heritage.",
+        "eyesHidden": ""
       },
       "parents": [],
       "partners": [
@@ -240,10 +327,11 @@
       "oneLiner": "The secret gene queen!! Every Rainbow baby carries her hidden magic!!",
       "genetics": {
         "hairVisible": "BLONDE (hidden recessive in Kareem!)",
-        "eyesVisible": "LILAC (hidden recessive in Kareem!)",
+        "eyesVisible": "Lilac",
         "skin": "Lighter",
         "notable": "Kind face",
-        "notes": "Gives Kareem hidden blonde + lilac — rainbow babies genuinely possible. White British."
+        "notes": "Gives Kareem hidden blonde + lilac — rainbow babies genuinely possible. White British.",
+        "eyesHidden": ""
       },
       "parents": [],
       "partners": [
@@ -304,8 +392,8 @@
       "genetics": {
         "hairVisible": "Wavy golden blonde (yellow bow)",
         "hairHidden": "None",
-        "eyesVisible": "Lilac (custom genetic)",
-        "eyesHidden": "None",
+        "eyesVisible": "Lilac",
+        "eyesHidden": "",
         "skin": "Light, golden, warm — sunkissed",
         "freckles": "No",
         "notable": "Yellow bow always",
@@ -451,8 +539,8 @@
       "genetics": {
         "hairVisible": "Dark curly (dominant)",
         "hairHidden": "Blonde (recessive, from Claire)",
-        "eyesVisible": "Dark warm brown (dominant)",
-        "eyesHidden": "Lilac (recessive, from Claire)",
+        "eyesVisible": "Dark Brown",
+        "eyesHidden": "Lilac",
         "skin": "Warm brown — mixed Ghanaian/lighter heritage",
         "freckles": "No",
         "notable": "Kind face, woodland-creature pyjamas",
@@ -579,8 +667,8 @@
       "genetics": {
         "hairVisible": "Black curly (big, voluminous — Sam's hair exactly)",
         "hairHidden": "Brown (recessive, from Ruth) — EXPRESSED IN CASSIAN!",
-        "eyesVisible": "Dark brown (from Sam)",
-        "eyesHidden": "Hazel (recessive, from Ruth)",
+        "eyesVisible": "Dark Brown",
+        "eyesHidden": "Hazel Green",
         "skin": "Dark warm brown (from Sam)",
         "freckles": "Yes — Ruth's freckles came through quietly",
         "notable": "Round glasses, tall and distinguished, the green coat",
@@ -726,8 +814,8 @@
       "genetics": {
         "hairVisible": "Curly brown (Sam's curl, Ruth's colour)",
         "hairHidden": "Black (recessive, from Sam)",
-        "eyesVisible": "HAZEL (got Ruth's recessive!)",
-        "eyesHidden": "None",
+        "eyesVisible": "Hazel Green",
+        "eyesHidden": "",
         "skin": "Medium warm brown (perfect middle of both parents)",
         "freckles": "Yes — the most freckled Hill sibling",
         "notable": "Friendly open face, warm smile",
@@ -854,8 +942,8 @@
       "genetics": {
         "hairVisible": "Brown, long and wavy (Ruth's hair)",
         "hairHidden": "Black (recessive, from Sam)",
-        "eyesVisible": "Hazel (from Ruth)",
-        "eyesHidden": "None",
+        "eyesVisible": "Hazel Green",
+        "eyesHidden": "",
         "skin": "Medium — lighter than Søren, warmer than Ruth",
         "freckles": "Yes — from Sam, softer than Wrench's",
         "notable": "Glasses, warm open kind face",
@@ -1081,8 +1169,8 @@
       "genetics": {
         "hairVisible": "Brown, long",
         "hairHidden": "Ginger (recessive, from Dennis)",
-        "eyesVisible": "Green (from Janet)",
-        "eyesHidden": "None",
+        "eyesVisible": "Green",
+        "eyesHidden": "",
         "skin": "Pale (from Janet)",
         "freckles": "Yes — from Dennis",
         "notable": "Round glasses, round face (Janet's), that little knowing smile",
@@ -1213,8 +1301,8 @@
       "genetics": {
         "hairVisible": "Brown, neat and controlled (short, deliberately placed)",
         "hairHidden": "Ginger (recessive, from Dennis)",
-        "eyesVisible": "Pistachio / olive green (from Janet)",
-        "eyesHidden": "None",
+        "eyesVisible": "Hazel Olive Green",
+        "eyesHidden": "",
         "skin": "Slight golden tan (mix of both parents)",
         "freckles": "No (controlled)",
         "notable": "Gold round glasses, perfect handwriting, evaluating expression",
@@ -1344,7 +1432,7 @@
         "hairVisible": "Brown curly (purple bandana headband)",
         "hairHidden": "Ginger (recessive, from Dennis)",
         "eyesVisible": "Brown",
-        "eyesHidden": "Green (recessive, from Janet)",
+        "eyesHidden": "Green",
         "skin": "Golden tan (most golden of the siblings, from Dennis)",
         "freckles": "Yes",
         "notable": "Gold hoop earring, the almost-smile, the clown suit",
@@ -1454,8 +1542,8 @@
       "genetics": {
         "hairVisible": "Dark natural coils (big and beautiful)",
         "hairHidden": "None",
-        "eyesVisible": "Warm dark brown",
-        "eyesHidden": "Hazel (recessive)",
+        "eyesVisible": "Dark Brown",
+        "eyesHidden": "Hazel Green",
         "skin": "Warm deep brown — West African heritage",
         "freckles": "No",
         "notable": "The warmest smile in any room",
@@ -1541,8 +1629,8 @@
       "genetics": {
         "hairVisible": "Dark, straight, neat (with headband)",
         "hairHidden": "Ginger (recessive)",
-        "eyesVisible": "Dark (dominant)",
-        "eyesHidden": "Green (recessive)",
+        "eyesVisible": "Dark Brown",
+        "eyesHidden": "Green",
         "skin": "Warm golden brown — mixed South Asian and English heritage",
         "freckles": "No",
         "notable": "Composed and still",
@@ -1730,7 +1818,7 @@
       "genetics": {
         "hairVisible": "",
         "hairHidden": "",
-        "eyesVisible": "Grey/green",
+        "eyesVisible": "Green",
         "eyesHidden": "",
         "skin": "Dark",
         "freckles": "",
@@ -1890,7 +1978,7 @@
       "genetics": {
         "hairVisible": "",
         "hairHidden": "",
-        "eyesVisible": "Large alien",
+        "eyesVisible": "Alien",
         "eyesHidden": "",
         "skin": "Green (alien)",
         "freckles": "",
@@ -2045,7 +2133,7 @@
       "genetics": {
         "hairVisible": "Warm chestnut brown, a bit messy",
         "hairHidden": "Ginger",
-        "eyesVisible": "Warm amber",
+        "eyesVisible": "Amber",
         "eyesHidden": "Green",
         "skin": "Warm and friendly, a little sun-warmed",
         "freckles": "A few, scattered",
