@@ -959,12 +959,12 @@
       "turnOn1": "",
       "turnOn2": "",
       "turnOff": "",
-      "oth": "Sports or Fitness (predicted)",
+      "oth": "",
       "bodyFrame": "",
       "career": {
         "track": "",
-        "level": null,
         "levelName": "",
+        "level": null,
         "top": "",
         "degree": ""
       },
@@ -980,8 +980,8 @@
       "genetics": {
         "hairVisible": "BROWN CURLS (Ruth's recessive expressing!)",
         "hairHidden": "",
-        "eyesVisible": "",
-        "eyesHidden": "",
+        "eyesVisible": "Alien",
+        "eyesHidden": "Brown",
         "skin": "Green — fully alien (P.T. 83's gene)",
         "freckles": "",
         "notable": "Little green face, space-print top, yellow dungarees",
@@ -1003,7 +1003,7 @@
         },
         {
           "id": "ptn83",
-          "type": "Other parent",
+          "type": "",
           "bolts": null,
           "notes": "Lives in space. Pays child support on time."
         },
@@ -1029,7 +1029,9 @@
           "event": "Aged up to Toddler",
           "notes": "Kitchen fire happening simultaneously. Classic Storm and Wrench."
         }
-      ]
+      ],
+      "yellowBow": false,
+      "adopted": false
     },
     {
       "id": "awiddle",
