@@ -206,6 +206,14 @@ export function renderTree(container, familyId) {
 
   drawUnits(forest, layer);
 
+  // Squeeze any text that's wider than its box so long names (AWiddleFrisbee,
+  // Still-Here…) stay inside the card instead of leaking out the side.
+  const fit = (t, max) => {
+    try { if (t.getComputedTextLength() > max) { t.setAttribute('textLength', max); t.setAttribute('lengthAdjust', 'spacingAndGlyphs'); } } catch (_) {}
+  };
+  container.querySelectorAll('text.node-name, text.node-sub').forEach(t => fit(t, BOX_W - 54 - 12));
+  container.querySelectorAll('text.node-foot').forEach(t => fit(t, BOX_W - 16 - 12));
+
   setupPanZoom(svg, viewport, { width, height, container });
 
   // Click / keyboard to open a profile (node or pet).
