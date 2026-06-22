@@ -317,6 +317,31 @@ function setupPanZoom(svg, viewport, { width, height, container }) {
 // Household grouping view.
 export function renderHouseholds(container) {
   container.innerHTML = '';
+  const view = document.createElement('div');
+  view.className = 'households-view';
+
+  // Current-rotation tracker.
+  const rot = (store.data.meta && store.data.meta.rotation) || 1;
+  const banner = document.createElement('div');
+  banner.className = 'rotation-banner';
+  banner.innerHTML = `<span class="rot-label">🔄 Currently playing</span>
+    <button class="rot-btn" data-rot="-1" title="Previous rotation">−</button>
+    <strong class="rot-num" title="Click to set the rotation">Rotation ${rot}</strong>
+    <button class="rot-btn" data-rot="1" title="Next rotation">+</button>`;
+  const setRot = async (val) => {
+    val = Math.max(1, Math.floor(val) || 1);
+    store.data.meta = store.data.meta || {};
+    store.data.meta.rotation = val;
+    await store.commit(`Set rotation to ${val}`);
+    window.dispatchEvent(new CustomEvent('data-updated'));
+  };
+  banner.querySelectorAll('.rot-btn').forEach(b => b.addEventListener('click', () => setRot(rot + Number(b.dataset.rot))));
+  banner.querySelector('.rot-num').addEventListener('click', () => {
+    const v = prompt('Which rotation are you on?', rot);
+    if (v !== null && v.trim() !== '' && !isNaN(v)) setRot(Number(v));
+  });
+  view.appendChild(banner);
+
   const wrap = document.createElement('div');
   wrap.className = 'household-grid';
   for (const h of store.data.households) {
@@ -345,5 +370,6 @@ export function renderHouseholds(container) {
     });
     wrap.appendChild(card);
   }
-  container.appendChild(wrap);
+  view.appendChild(wrap);
+  container.appendChild(view);
 }
