@@ -16,16 +16,20 @@ const HAIR = [
   { cat: 'Brown', rank: 1, rec: false, emoji: '🤎', kw: ['brown', 'brunette', 'chestnut'] },
   { cat: 'Black', rank: 1, rec: false, emoji: '🖤', kw: ['black', 'dark', 'ebony', 'jet', 'raven', 'coil'] }
 ];
-// Eyes follow a stricter ladder; custom colours (lilac) sit at the recessive end.
+// Eyes are two tiers too (rank 1 = dominant, rank 2 = recessive); equal colours give 50/50.
+// Maxis defaults: dominant = Brown, Dark Blue, Alien · recessive = Green, Light Blue, Grey.
+// Custom genetic colours (lilac/hazel/amber) placed per Sunnyside lore — confirm in-game!
 const EYES = [
-  { cat: 'Dark brown', rank: 1, rec: false, emoji: '🟤', kw: ['dark brown', 'dark warm brown', 'warm dark brown'] },
-  { cat: 'Lilac', rank: 7, rec: true, emoji: '💜', kw: ['lilac', 'violet', 'purple', 'lavender'] },
-  { cat: 'Hazel', rank: 3, rec: true, emoji: '🌰', kw: ['hazel'] },
-  { cat: 'Green', rank: 4, rec: true, emoji: '💚', kw: ['green', 'olive', 'pistachio', 'emerald'] },
-  { cat: 'Amber', rank: 2, rec: false, emoji: '🟠', kw: ['amber'] },
-  { cat: 'Grey', rank: 5, rec: true, emoji: '🩶', kw: ['grey', 'gray'] },
-  { cat: 'Blue', rank: 6, rec: true, emoji: '💙', kw: ['blue'] },
-  { cat: 'Brown', rank: 2, rec: false, emoji: '🟤', kw: ['brown'] }
+  { cat: 'Alien', rank: 1, rec: false, emoji: '👽', kw: ['alien'] },
+  { cat: 'Dark blue', rank: 1, rec: false, emoji: '🔵', kw: ['dark blue', 'navy'] },
+  { cat: 'Light blue', rank: 2, rec: true, emoji: '🩵', kw: ['light blue', 'pale blue', 'soft blue', 'sky'] },
+  { cat: 'Lilac', rank: 2, rec: true, emoji: '💜', kw: ['lilac', 'violet', 'purple', 'lavender', 'amethyst'] },
+  { cat: 'Hazel', rank: 2, rec: true, emoji: '🌰', kw: ['hazel'] },
+  { cat: 'Green', rank: 2, rec: true, emoji: '💚', kw: ['green', 'olive', 'pistachio', 'emerald'] },
+  { cat: 'Amber', rank: 1, rec: false, emoji: '🟠', kw: ['amber'] },
+  { cat: 'Grey', rank: 2, rec: true, emoji: '🩶', kw: ['grey', 'gray'] },
+  { cat: 'Brown', rank: 1, rec: false, emoji: '🟤', kw: ['brown', 'dark'] },
+  { cat: 'Blue', rank: 2, rec: true, emoji: '💙', kw: ['blue'] }
 ];
 
 function mapColour(text, table) {
