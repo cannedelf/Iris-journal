@@ -177,29 +177,70 @@ Only the active household ages in Sims 2!! Each rotation = 3 days per household!
 ---
 
 ## Community Lots — Build Notes 🏘️
+*Updated 22nd June 2026 — event-driven!! Full schedule → sims2.md!!*
 
 ### Lot Placement — Neighbourhood Map 🗺️
 
 **Beach Road Cluster 🌊**
-- 🍺 The Golden Anchor — beach road!! ✅ BUILT!!
-- 🏖️ Sunnyside Cove — beach lot!!
+- 🍺 The Golden Anchor — ✅ BUILT AND OPEN!!
+- 🏊 Seafront pool — already placed!! Check if used!!
+- 🏖️ Sunnyside Cove — far future!!
 
-**Village Centre 🛍️**
-- Terracotta tile shopping street — The Yellow Door, Sunnyside Stores, Paws and Petals!!
-- The Sunflower Diner nearby!!
-- ☕ The Honeyed Crumb — tucked into shopping street!!
-- 🛒 The Meadow Market — open and airy!!
+**Village Centre — Shopping Street 🛍️**
+- 👗 Clothes shop — already placed!! Needs cohesion pass!!
+- 🐾 Pet shop — already placed!! Needs cohesion pass!!
+- 🌸 Florist — REPURPOSED from food shop!! Ownership TBD!! Sim Liv (bronze flower badge!!) or Clara (Ecological Guru!!)!! OFB dream!!
+- 🌻 The Sunflower Diner — already placed!! NEEDS REVAMP — currently 50s pink, should feel Sunnyside!! CANON proposal location!!
+- ☕ The Honeyed Crumb — space waiting!! Build when it feels right!!
+- 🛒 The Meadow Market — on the BIGGEST lot!! Groceries + stalls + deli + outdoor seating + fairy lights + busking spot!! Replaces food shop function!!
 
-**Cultural Quarter 🎨**
+**Cultural Quarter 🎨** *(far future — when Sunnyside is bigger!!)*
 - 🎨 The Golden Hour Gallery!!
 - 🎵 The Blue Note!!
 - 🏛️ The Sunnyside Museum!!
 
 **Quiet End 📚**
-- 📚 The Tidal Library!!
-- ⛪ St Sunshine's Chapel!!
-- 🌳 Sunflower Meadow Park!!
+- ⛪ St Sunshine's Chapel — already placed!! 🔴 REVAMP BEFORE WEDDINGS!! Wildflowers, warm wood, Sunnyside warmth!!
+- 🌳 Sunflower Meadow Park — already placed!! REBUILD — current CC version lags!! Keep pond, easel, chess, football, swings!! Add toddler/child stuff for babies!!
+- 📚 The Tidal Library — build when Sunnyside needs it!!
 - 🌿 Tide Cottage!!
+
+---
+
+## Revamp Priority List 🔧
+*Existing lots that need the Sunnyside treatment!!*
+
+### 1. ⛪ St Sunshine's Chapel — 🔴 BEFORE WEDDINGS!!
+**Why now:** Three weddings in R5!! Wrench+Andrea, Kareem+Iris, Fourth+Sim Liv!!
+**Current state:** Placed, next to the park!!
+**Vision:** Warm, not too formal!! Sunnyside weddings happen in a place with wildflowers and warm wood and fairy lights!! The kind of chapel where Still-Here shows up in the magician outfit and nobody says anything!! Wrench cries!! Fourth wears proper clothes!! Iris glows!!
+**Keep:** The location next to the park — wedding photos in the park after!! 📸
+**Build notes:** TBD when revamping!!
+
+### 2. 🌻 The Sunflower Diner — 🟡 WHEN IT BUGS YOU
+**Why:** KAREEM PROPOSED HERE!! This is CANON!! It needs to feel like the Sunflower Diner, not a 50s pink diner!!
+**Current state:** Placed, working, but very pink and retro!!
+**Vision:** Warm yellows and sunflowers!! Cottage diner energy not Happy Days!! The Lamborghini is parked outside!! The booth where Kareem got on one knee is IN THERE!!
+**Build notes:** TBD when revamping!!
+
+### 3. 🌳 Sunflower Meadow Park — 🟡 BEFORE/WHEN BABIES ARRIVE
+**Why:** Current CC version lags when moving camera!! And babies need a proper park!!
+**Current state:** Pond, easel, chess tables, football goals, swings — all good!! Too many decorative flowers/trees causing lag!!
+**Vision:** Keep all the activity items!! Thin the decoration!! Add toddler/child play area!! Picnic blankets!! Where Honey and Cricket and Posey go after school!! Where Cassian causes havoc!!
+**Build notes:** TBD when rebuilding!!
+
+### 4. 🏪 Shopping Street Cohesion — 🟢 ONGOING
+**Why:** The shops should feel like they're on the same street!!
+**Current state:** Clothes shop, pet shop, florist space, café space — all placed but not visually unified!!
+**Vision:** Matching awnings?? Window boxes?? Same colour palette?? Sunnyside village shopping street!!
+**Build notes:** Gradual!! Do one shop at a time between rotations!!
+
+### 5. 🌸 Food Shop → Florist — 🟢 WHEN IT FEELS RIGHT
+**Why:** Food shop is pointless when you can phone for delivery!! Florist serves actual gameplay AND becomes an OFB dream!!
+**Current state:** Food shop placed on shopping street!!
+**Vision:** Flower buckets outside!! Arrangements inside!! Selling bench!! Florist bench!! Whoever runs it gets to skill up!!
+**Ownership candidates:** Sim Liv (bronze flower badge!!) · Clara (Ecological Guru career!!) · Could be co-run!! · Far future OFB decision!!
+**Build notes:** TBD!!
 
 ---
 
@@ -378,5 +419,6 @@ Iris has NO hidden genes — purely herself!!
 
 ---
 
-*Updated 20th June 2026 — THE GOLDEN ANCHOR IS OPEN!! Built over two days!! Beach road!! Sea views!! Søren's corner!! Kareem's stage!! Maren's staff room!! The fruit machines!! The red phone box!! The porthole door!! It has always been there!! 🍺⚓🌈💛*
+*Updated 22nd June 2026 — OPUS SESSION!! Community lots now event-driven!! Revamp priority list added!! Church before weddings!! Diner needs Sunflower not 50s pink!! Park rebuild for babies!! Food shop becomes florist!! Shopping street cohesion!! Previously: THE GOLDEN ANCHOR IS OPEN!! Built over two days!! Beach road!! Sea views!! Søren's corner!! Kareem's stage!! Maren's staff room!! The fruit machines!! The red phone box!! The porthole door!! It has always been there!! 🍺⚓🌈💛*
 *File created 13th June 2026 — split from sims2.md!!*
+
