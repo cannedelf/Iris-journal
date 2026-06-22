@@ -329,7 +329,7 @@ function simEditor(s) {
     ${simpleListEditor('Locked wants', 'lockedWants', s.lockedWants || [])}
     ${simpleListEditor('Fears', 'fears', s.fears || [])}
 
-    <div class="editor-foot"><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save changes</button></div>
+    <div class="editor-foot">${s._isNew ? '' : '<button type="button" data-delete class="danger">🗑 Delete</button>'}<span class="spacer"></span><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save changes</button></div>
   </form>`;
 }
 
@@ -354,7 +354,7 @@ function petEditor(pt) {
       ${row('PBF note', textField('petBestFriendNote', pt.petBestFriendNote))}
     </fieldset>
     ${momentEditor(pt.moments || [], true)}
-    <div class="editor-foot"><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save changes</button></div>
+    <div class="editor-foot">${pt._isNew ? '' : '<button type="button" data-delete class="danger">🗑 Delete</button>'}<span class="spacer"></span><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save changes</button></div>
   </form>`;
 }
 
@@ -418,6 +418,21 @@ function wireEditor(node, isPet) {
   const form = document.getElementById('editForm');
   const onCancel = () => { if (node._isNew) closePanel(); else openProfile(node.id); };
   form.querySelectorAll('[data-cancel]').forEach(b => b.addEventListener('click', onCancel));
+
+  const delBtn = form.querySelector('[data-delete]');
+  if (delBtn) delBtn.addEventListener('click', async () => {
+    if (!confirm(`Delete ${node.display || node.name || 'this Sim'}? This can't be undone.`)) return;
+    delBtn.disabled = true; delBtn.textContent = 'Deleting…';
+    try {
+      if (isPet) store.deletePet(node.id); else store.deletePerson(node.id);
+      await store.commit(`Delete ${node.display || node.name || 'Sim'}`);
+      window.dispatchEvent(new CustomEvent('data-updated'));
+      closePanel();
+    } catch (err) {
+      alert('Could not delete: ' + err.message);
+      delBtn.disabled = false; delBtn.textContent = '🗑 Delete';
+    }
+  });
 
   // Add/remove dynamic rows.
   form.addEventListener('click', (e) => {

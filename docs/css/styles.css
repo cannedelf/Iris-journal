@@ -198,7 +198,10 @@ a { color: var(--green); }
 .del { background: #f6e2e2; border: none; border-radius: 8px; padding: 6px 9px; cursor: pointer; color: #b55; }
 .add { margin-top: 8px; background: #eef3e6; border: 1px dashed var(--green); border-radius: 9px; padding: 7px 12px; cursor: pointer; color: #4d7a36; }
 .hint { font-size: 13px; margin: 6px 0 0; }
-.editor-foot { padding: 8px 24px 24px; display: flex; justify-content: flex-end; gap: 10px; }
+.editor-foot { padding: 8px 24px 24px; display: flex; justify-content: flex-end; gap: 10px; align-items: center; }
+.editor-foot .spacer { flex: 1; }
+.danger { background: #f6e2e2; color: #b5454f; border: 1.5px solid #e3b8bc; border-radius: 10px; padding: 9px 16px; cursor: pointer; font-size: 14px; }
+.danger:hover { background: #f0d0d0; }
 
 .primary { background: var(--gold); color: #fff; border: none; border-radius: 10px; padding: 9px 18px; cursor: pointer; font-weight: 600; font-size: 14px; }
 .primary:hover { background: #d29a14; }

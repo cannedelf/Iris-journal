@@ -116,6 +116,21 @@ export const store = {
     return `photos/${id}.${ext}`;
   },
 
+  // --- deletion (also unhooks the id from anyone who referenced it) --------
+  deletePerson(id) {
+    this.data.people = this.data.people.filter(p => p.id !== id);
+    this.data.people.forEach(p => {
+      if (p.parents) p.parents = p.parents.filter(x => x !== id);
+      if (p.partners) p.partners = p.partners.filter(x => x.id !== id);
+      if (p.relationships) p.relationships = p.relationships.filter(r => r.id !== id);
+    });
+    this.data.pets.forEach(pt => { if (pt.ownerId === id) pt.ownerId = ''; });
+  },
+  deletePet(id) {
+    this.data.pets = this.data.pets.filter(p => p.id !== id);
+    this.data.people.forEach(p => { if (p.relationships) p.relationships = p.relationships.filter(r => r.id !== id); });
+  },
+
   // --- lookups -------------------------------------------------------------
   person(id) { return this.data.people.find(p => p.id === id); },
   pet(id) { return this.data.pets.find(p => p.id === id); },
