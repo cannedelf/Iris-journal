@@ -14,10 +14,18 @@ let colourMode = localStorage.getItem('sunnyside.colourMode') || 'family';
 export const getColourMode = () => colourMode;
 export function setColourMode(m) { colourMode = m; localStorage.setItem('sunnyside.colourMode', m); }
 
-const BOX_W = 168, BOX_H = 96;
-const COUPLE_GAP = 26;      // space between two partners
-const SIBLING_GAP = 38;     // space between sibling units
-const LEVEL_H = BOX_H + 74; // vertical distance between generations
+const AVATAR_R = 36;               // portrait circle radius
+const BOX_W = 100;                 // node cell width (layout slot)
+const BOX_H = 104;                 // node cell height (circle + name)
+const CY = AVATAR_R + 10;          // circle centre y within the cell (46)
+const NAME_Y = CY + AVATAR_R + 16; // name baseline below the circle (98)
+const COUPLE_GAP = 16;             // space between two partners
+const SIBLING_GAP = 30;            // space between sibling units
+const LEVEL_H = BOX_H + 60;        // vertical distance between generations
+const ASPIRATION_EMOJI = {
+  Family: '🏠', Knowledge: '📚', Fortune: '💰', Popularity: '🎉',
+  Pleasure: '😎', 'Grilled Cheese': '🧀', Romance: '💋', 'Growing Up': '🍼'
+};
 
 // Build the forest of "units" for a family. A unit = a primary person + optional partner + child units.
 function buildForest(familyId) {
@@ -103,64 +111,54 @@ function nodeBox(person, x, y, asPartner) {
   const isAncestor = person.kind === 'ancestor';
   const tMeta = typeMeta(person.type || 'Human');
   const hasType = (person.type || 'Human') !== 'Human';
-  // In Type mode the whole card recolours (border + background); ancestors keep their family hue.
   const typeView = colourMode === 'type' && !isAncestor;
   const border = typeView ? tMeta.colour : fam.colour;
-  const fill = isAncestor ? '#efece6' : (typeView ? tMeta.soft : fam.soft);
-  const faded = typeView && (person.type === 'Ghost'); // deceased fade away gently
+  const fillSoft = isAncestor ? '#efece6' : (typeView ? tMeta.soft : fam.soft);
+  const faded = typeView && person.type === 'Ghost';
+  const cx = BOX_W / 2, cy = CY, R = AVATAR_R;
+
   const g = svgEl('g', { class: `node ${isAncestor ? 'ancestor' : ''} ${person.heart ? 'heart' : ''} ${faded ? 'faded' : ''}`, transform: `translate(${x},${y})`, 'data-id': person.id, role: 'button', tabindex: '0' });
 
-  g.appendChild(svgEl('rect', {
-    class: 'node-box', x: 0, y: 0, width: BOX_W, height: BOX_H, rx: 16,
-    fill, stroke: border,
-    'stroke-width': asPartner ? 2.5 : 3, 'stroke-dasharray': isAncestor ? '5 4' : (faded ? '6 4' : 'none')
-  }));
+  // Round portrait: soft backing, optional photo clipped to the circle, then the colour ring.
+  g.appendChild(svgEl('circle', { class: 'avatar-bg', cx, cy, r: R, fill: fillSoft }));
+  if (person.photo) {
+    const img = svgEl('image', { x: cx - R, y: cy - R, width: R * 2, height: R * 2, preserveAspectRatio: 'xMidYMid slice', 'clip-path': 'url(#avatarClip)' });
+    img.setAttribute('href', person.photo);
+    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', person.photo);
+    g.appendChild(img);
+  } else {
+    const em = svgEl('text', { class: 'avatar-emoji', x: cx, y: cy + R * 0.34, 'text-anchor': 'middle', 'font-size': R * 1.15 });
+    em.textContent = person.emoji || '👤';
+    g.appendChild(em);
+  }
+  g.appendChild(svgEl('circle', { class: 'avatar-ring', cx, cy, r: R, fill: 'none', stroke: border, 'stroke-width': asPartner ? 3 : 4, 'stroke-dasharray': isAncestor ? '5 4' : 'none' }));
 
-  const emoji = svgEl('text', { class: 'node-emoji', x: 16, y: 38, 'font-size': 30 });
-  emoji.textContent = person.emoji || '👤';
-  g.appendChild(emoji);
-
-  const name = svgEl('text', { class: 'node-name', x: 54, y: 32 });
-  name.textContent = person.display || person.name;
+  // Full name underneath.
+  const name = svgEl('text', { class: 'node-name', x: cx, y: NAME_Y, 'text-anchor': 'middle' });
+  name.textContent = person.name || person.display || '';
   g.appendChild(name);
 
-  const sub = svgEl('text', { class: 'node-sub', x: 54, y: 52 });
-  sub.textContent = isAncestor ? 'Ancestor' : (person.aspiration || person.lifeStage || '');
-  g.appendChild(sub);
-
-  const foot = svgEl('text', { class: 'node-foot', x: 16, y: 78 });
-  foot.textContent = [fam.name, person.starSign].filter(Boolean).join(' · ');
-  g.appendChild(foot);
-
-  // Occult / life-state badge (always shown, in either colour mode).
-  if (hasType) {
-    const bx = BOX_W - 15, by = 16;
-    const badge = svgEl('g', { class: 'type-badge' });
-    badge.appendChild(svgEl('circle', { cx: bx, cy: by, r: 13, fill: '#fff', stroke: tMeta.colour, 'stroke-width': 2 }));
-    const be = svgEl('text', { x: bx, y: by + 5, 'text-anchor': 'middle', 'font-size': 14 });
-    be.textContent = tMeta.emoji;
-    badge.appendChild(be);
-    g.appendChild(badge);
-  }
-
-  // Yellow bow club 🎀
-  if (person.yellowBow) {
-    const yb = svgEl('text', { x: 19, y: 14, 'text-anchor': 'middle', 'font-size': 15 });
-    yb.textContent = '🎀';
-    g.appendChild(yb);
-  }
-
-  // Pets attached to their owner as small chips.
+  // Corner badges around the portrait: NW bow · NE occult · SE pet · SW aspiration.
+  const off = R * 0.72;
+  const addBadge = (bx, by, emoji, stroke, cls, id) => {
+    const bg = svgEl('g', cls ? { class: cls, 'data-id': id } : {});
+    bg.appendChild(svgEl('circle', { cx: bx, cy: by, r: 11.5, fill: '#fff', stroke, 'stroke-width': 2 }));
+    const t = svgEl('text', { x: bx, y: by + 4.5, 'text-anchor': 'middle', 'font-size': 13 });
+    t.textContent = emoji; bg.appendChild(t);
+    g.appendChild(bg);
+  };
+  if (person.yellowBow) addBadge(cx - off, cy - off, '🎀', '#e6a91f');
+  if (hasType) addBadge(cx + off, cy - off, tMeta.emoji, tMeta.colour);
   const pets = store.petsOf(person.id);
-  pets.slice(0, 4).forEach((pet, i) => {
-    const px = BOX_W - 22 - i * 22, py = BOX_H - 14;
-    const pg = svgEl('g', { class: 'pet-chip', 'data-id': pet.id, transform: `translate(${px},${py})` });
-    pg.appendChild(svgEl('circle', { cx: 0, cy: 0, r: 13, fill: '#fff', stroke: fam.colour, 'stroke-width': 1.5 }));
-    const pe = svgEl('text', { x: 0, y: 5, 'text-anchor': 'middle', 'font-size': 15 });
-    pe.textContent = pet.emoji || '🐾';
-    pg.appendChild(pe);
-    g.appendChild(pg);
-  });
+  if (pets.length) {
+    addBadge(cx + off, cy + off, pets[0].emoji || '🐾', fam.colour, 'pet-chip', pets[0].id);
+    if (pets.length > 1) {
+      const c = svgEl('text', { class: 'pet-count', x: cx + off + 11, y: cy + off + 13, 'font-size': 9, 'text-anchor': 'middle' });
+      c.textContent = '+' + (pets.length - 1); g.appendChild(c);
+    }
+  }
+  const asp = !isAncestor && ASPIRATION_EMOJI[person.aspiration];
+  if (asp) addBadge(cx - off, cy + off, asp, '#c9b78f');
 
   return g;
 }
@@ -184,47 +182,45 @@ function collectExtent(units, acc) {
   }
 }
 
-function drawUnits(units, layer) {
+function drawUnits(units, nodes, edges) {
   for (const u of units) {
-    // Primary box
-    layer.appendChild(nodeBox(u.person, u.unitLeft, u.y, false));
-    // Partner box + marriage connector
+    nodes.appendChild(nodeBox(u.person, u.unitLeft, u.y, false));
+    // Partner portrait + marriage connector (between the two circles).
     if (u.partner) {
       const px = u.unitLeft + BOX_W + COUPLE_GAP;
-      layer.appendChild(nodeBox(u.partner, px, u.y, true));
-      const my = u.y + BOX_H / 2;
+      nodes.appendChild(nodeBox(u.partner, px, u.y, true));
+      const my = u.y + CY;
       const status = (u.partnerMeta && u.partnerMeta.status) || '';
       const wed = /engaged|married/i.test(status);
-      layer.appendChild(svgEl('line', {
-        class: 'marriage' + (wed ? ' strong' : ''), x1: u.unitLeft + BOX_W, y1: my, x2: px, y2: my
+      edges.appendChild(svgEl('line', {
+        class: 'marriage' + (wed ? ' strong' : ''),
+        x1: u.unitLeft + BOX_W / 2 + AVATAR_R, y1: my, x2: px + BOX_W / 2 - AVATAR_R, y2: my
       }));
-      const heart = svgEl('text', { class: 'marriage-mark', x: u.cx, y: my - 8, 'text-anchor': 'middle' });
-      heart.textContent = /engaged|married/i.test(status) ? '💍' : (/love|crush|romantic/i.test(status) ? '💕' : '·');
-      layer.appendChild(heart);
+      const heart = svgEl('text', { class: 'marriage-mark', x: u.cx, y: my + 5, 'text-anchor': 'middle' });
+      heart.textContent = wed ? '💍' : (/love|crush|romantic/i.test(status) ? '💕' : '·');
+      nodes.appendChild(heart);
     }
-    // Edges down to children. Only descend from the COUPLE midpoint when the displayed
-    // partner is genuinely the child's other parent. Otherwise the bloodline drops from
-    // the actual parent's own box, so e.g. Cassian doesn't look like Clara's child when
-    // his real other parent is P.T. 83.
+    // Bloodlines connect circle-centre to circle-centre (drawn behind the portraits, so the
+    // vertical sections tuck neatly behind the circles and names). Descend from the couple
+    // midpoint only when the displayed partner is genuinely the child's other parent.
     for (const c of u.childUnits) {
       const partnerIsCoParent = u.partner && (c.person.parents || []).includes(u.partner.id);
       const startX = partnerIsCoParent ? u.cx : u.primaryCx;
-      // Adoption is a LOVE choice: a warm pink dotted line with a beating heart. ❤️
-      // Otherwise, alien heritage gets a glowing green dashed line with a UFO. 👽🛸
+      // Adoption = warm pink dotted line + beating heart ❤️; alien = glowing green dashes + UFO 🛸
       const adopted = !!c.person.adopted;
       const alien = !adopted && (c.person.parents || []).some(pid => { const par = store.person(pid); return par && (par.alien || par.type === 'Alien'); });
-      const edge = connector(startX, u.y + BOX_H, c.primaryCx, c.y);
+      const edge = connector(startX, u.y + CY, c.primaryCx, c.y + CY);
       if (adopted) edge.classList.add('edge-adopt');
       else if (alien) edge.classList.add('edge-alien');
-      layer.appendChild(edge);
+      edges.appendChild(edge);
       if (adopted || alien) {
-        const midY = u.y + BOX_H + (c.y - (u.y + BOX_H)) / 2;
-        const mark = svgEl('text', { class: adopted ? 'adopt-mark' : 'alien-mark', x: c.primaryCx, y: midY + 6, 'text-anchor': 'middle' });
+        const midY = u.y + CY + (c.y - u.y) / 2;
+        const mark = svgEl('text', { class: adopted ? 'adopt-mark' : 'alien-mark', x: c.primaryCx, y: midY + 5, 'text-anchor': 'middle' });
         mark.textContent = adopted ? '❤️' : '🛸';
-        layer.appendChild(mark);
+        nodes.appendChild(mark);
       }
     }
-    drawUnits(u.childUnits, layer);
+    drawUnits(u.childUnits, nodes, edges);
   }
 }
 
@@ -248,21 +244,29 @@ export function renderTree(container, familyId) {
   const height = ext.maxY + pad * 2;
 
   const svg = svgEl('svg', { class: 'tree-svg', width: '100%', height: '100%' });
+  // One shared circular clip for every portrait (all circles sit at the same local coords).
+  const defs = svgEl('defs');
+  const clip = svgEl('clipPath', { id: 'avatarClip', clipPathUnits: 'userSpaceOnUse' });
+  clip.appendChild(svgEl('circle', { cx: BOX_W / 2, cy: CY, r: AVATAR_R }));
+  defs.appendChild(clip);
+  svg.appendChild(defs);
+
   const viewport = svgEl('g', { class: 'viewport' });
-  const layer = svgEl('g', { transform: `translate(${pad - ext.minX}, ${pad})` });
-  viewport.appendChild(layer);
+  const tform = `translate(${pad - ext.minX}, ${pad})`;
+  const edgesLayer = svgEl('g', { transform: tform }); // behind
+  const nodesLayer = svgEl('g', { transform: tform }); // in front (portraits cover the lines)
+  viewport.appendChild(edgesLayer);
+  viewport.appendChild(nodesLayer);
   svg.appendChild(viewport);
   container.appendChild(svg);
 
-  drawUnits(forest, layer);
+  drawUnits(forest, nodesLayer, edgesLayer);
 
-  // Squeeze any text that's wider than its box so long names (AWiddleFrisbee,
-  // Still-Here…) stay inside the card instead of leaking out the side.
+  // Squeeze long full names so they stay tidy under the portrait.
   const fit = (t, max) => {
     try { if (t.getComputedTextLength() > max) { t.setAttribute('textLength', max); t.setAttribute('lengthAdjust', 'spacingAndGlyphs'); } } catch (_) {}
   };
-  container.querySelectorAll('text.node-name, text.node-sub').forEach(t => fit(t, BOX_W - 54 - 12));
-  container.querySelectorAll('text.node-foot').forEach(t => fit(t, BOX_W - 16 - 12));
+  container.querySelectorAll('text.node-name').forEach(t => fit(t, BOX_W + SIBLING_GAP - 10));
 
   setupPanZoom(svg, viewport, { width, height, container });
 

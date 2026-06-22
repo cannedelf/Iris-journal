@@ -73,13 +73,17 @@ a { color: var(--green); }
 .tree-svg.grabbing { cursor: grabbing; }
 
 .node { cursor: pointer; }
-.node-box { filter: drop-shadow(0 3px 6px rgba(120,95,50,.16)); transition: filter .15s; }
-.node:hover .node-box { filter: drop-shadow(0 0 8px rgba(230,169,31,.65)); }
-.node.ancestor .node-box { opacity: .92; }
+.avatar-bg { filter: drop-shadow(0 2px 5px rgba(120,95,50,.22)); }
+.avatar-ring { transition: filter .15s; }
+.avatar-emoji, .pet-count { pointer-events: none; }
+.node:hover .avatar-ring { filter: drop-shadow(0 0 8px rgba(230,169,31,.75)); }
+.node:hover .avatar-bg { filter: drop-shadow(0 0 9px rgba(230,169,31,.55)); }
+.node.ancestor .avatar-ring { opacity: .9; }
+.pet-count { fill: #8a5a1a; font-weight: 700; }
 
 /* Iris — the heart of Sunnyside — gets a gentle cycling rainbow glow. 🌈 */
-.node.heart .node-box { animation: rainbowglow 5s linear infinite; }
-.node.heart:hover .node-box { animation: none; }
+.node.heart .avatar-ring { animation: rainbowglow 5s linear infinite; }
+.node.heart:hover .avatar-ring { animation: none; }
 @keyframes rainbowglow {
   0%   { filter: drop-shadow(0 0 5px #e6a91f); }
   20%  { filter: drop-shadow(0 0 6px #6f9e5e); }
@@ -91,7 +95,7 @@ a { color: var(--green); }
 .type-badge text { pointer-events: none; }
 .node.faded { opacity: .55; }
 .node.faded:hover { opacity: .85; }
-.node-name { font: 700 16px Georgia, serif; fill: var(--ink); }
+.node-name { font: 700 14px Georgia, serif; fill: var(--ink); paint-order: stroke; stroke: #fbf6ec; stroke-width: 3.5px; stroke-linejoin: round; }
 .node-sub { font: 500 12px "Segoe UI", sans-serif; fill: var(--ink-soft); }
 .node-foot { font: 500 11px "Segoe UI", sans-serif; fill: #a4937a; }
 .node.ancestor .node-name { fill: #8c7f6c; }
