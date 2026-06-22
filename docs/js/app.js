@@ -2,8 +2,9 @@
 
 import { store } from './store.js';
 import { gh } from './github.js';
-import { renderTree, renderHouseholds } from './tree.js';
+import { renderTree, renderHouseholds, getColourMode, setColourMode } from './tree.js';
 import { openProfile } from './profile.js';
+import { SIM_TYPES } from './constants.js';
 
 let current = { view: 'tree', family: 'rainbow' };
 
@@ -18,9 +19,11 @@ async function boot() {
   }
   buildTabs();
   buildSearch();
+  buildLegend();
   bindControls();
   render();
   updateStatus();
+  updateColourUI();
 
   window.addEventListener('open-node', (e) => openProfile(e.detail.id));
   window.addEventListener('data-updated', () => { render(); buildSearch(); });
@@ -49,8 +52,9 @@ function render() {
   el('btnHouseholds').classList.toggle('active', current.view === 'households');
 
   const stage = el('stage');
-  if (current.view === 'households') { renderHouseholds(stage); return; }
+  if (current.view === 'households') { renderHouseholds(stage); el('legend').classList.remove('show'); return; }
   renderTree(stage, current.family);
+  if (typeof updateColourUI === 'function') updateColourUI();
 }
 
 function buildSearch() {
@@ -75,6 +79,11 @@ function closeSearch() { el('searchOverlay').classList.remove('open'); }
 
 function bindControls() {
   el('btnHouseholds').addEventListener('click', () => { current.view = current.view === 'households' ? 'tree' : 'households'; render(); });
+  el('btnColour').addEventListener('click', () => {
+    setColourMode(getColourMode() === 'family' ? 'type' : 'family');
+    updateColourUI();
+    if (current.view === 'tree') render();
+  });
   el('btnSearch').addEventListener('click', openSearch);
   el('searchInput').addEventListener('input', (e) => filterSearch(e.target.value));
   el('searchOverlay').addEventListener('click', (e) => { if (e.target === el('searchOverlay')) closeSearch(); });
@@ -92,6 +101,18 @@ function bindControls() {
 }
 
 const stageSvg = () => el('stage').querySelector('svg');
+
+function buildLegend() {
+  el('legend').innerHTML = '<strong>Sim type</strong>' + SIM_TYPES.map(t =>
+    `<span class="leg"><i style="background:${t.colour}"></i>${t.emoji ? t.emoji + ' ' : ''}${t.label || t.name}</span>`).join('');
+}
+
+function updateColourUI() {
+  const mode = getColourMode();
+  el('btnColour').textContent = mode === 'type' ? '🎨 Colour: Type' : '🎨 Colour: Family';
+  el('btnColour').classList.toggle('active', mode === 'type');
+  el('legend').classList.toggle('show', mode === 'type' && current.view === 'tree');
+}
 
 function updateStatus() {
   const s = el('saveStatus');

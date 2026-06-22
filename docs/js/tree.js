@@ -7,6 +7,12 @@
 // jumps to their own family tab (their ancestors), so genetics make sense across families.
 
 import { store } from './store.js';
+import { typeMeta } from './constants.js';
+
+// Colour mode: 'family' (borders by family) or 'type' (borders by occult/life-state).
+let colourMode = localStorage.getItem('sunnyside.colourMode') || 'family';
+export const getColourMode = () => colourMode;
+export function setColourMode(m) { colourMode = m; localStorage.setItem('sunnyside.colourMode', m); }
 
 const BOX_W = 168, BOX_H = 96;
 const COUPLE_GAP = 26;      // space between two partners
@@ -90,11 +96,15 @@ const svgEl = (name, attrs = {}) => {
 function nodeBox(person, x, y, asPartner) {
   const fam = store.family(person.family) || { colour: '#a89f94', soft: '#e7e2da' };
   const isAncestor = person.kind === 'ancestor';
-  const g = svgEl('g', { class: `node ${isAncestor ? 'ancestor' : ''}`, transform: `translate(${x},${y})`, 'data-id': person.id, role: 'button', tabindex: '0' });
+  const tMeta = typeMeta(person.type || 'Human');
+  const hasType = (person.type || 'Human') !== 'Human';
+  // Border follows the active colour mode (family vs type); ancestors keep their family hue.
+  const border = (colourMode === 'type' && !isAncestor) ? tMeta.colour : fam.colour;
+  const g = svgEl('g', { class: `node ${isAncestor ? 'ancestor' : ''} ${person.heart ? 'heart' : ''}`, transform: `translate(${x},${y})`, 'data-id': person.id, role: 'button', tabindex: '0' });
 
   g.appendChild(svgEl('rect', {
     class: 'node-box', x: 0, y: 0, width: BOX_W, height: BOX_H, rx: 16,
-    fill: isAncestor ? '#efece6' : fam.soft, stroke: fam.colour,
+    fill: isAncestor ? '#efece6' : fam.soft, stroke: border,
     'stroke-width': asPartner ? 2.5 : 3, 'stroke-dasharray': isAncestor ? '5 4' : 'none'
   }));
 
@@ -113,6 +123,24 @@ function nodeBox(person, x, y, asPartner) {
   const foot = svgEl('text', { class: 'node-foot', x: 16, y: 78 });
   foot.textContent = [fam.name, person.starSign].filter(Boolean).join(' · ');
   g.appendChild(foot);
+
+  // Occult / life-state badge (always shown, in either colour mode).
+  if (hasType) {
+    const bx = BOX_W - 15, by = 16;
+    const badge = svgEl('g', { class: 'type-badge' });
+    badge.appendChild(svgEl('circle', { cx: bx, cy: by, r: 13, fill: '#fff', stroke: tMeta.colour, 'stroke-width': 2 }));
+    const be = svgEl('text', { x: bx, y: by + 5, 'text-anchor': 'middle', 'font-size': 14 });
+    be.textContent = tMeta.emoji;
+    badge.appendChild(be);
+    g.appendChild(badge);
+  }
+
+  // Yellow bow club 🎀
+  if (person.yellowBow) {
+    const yb = svgEl('text', { x: 19, y: 14, 'text-anchor': 'middle', 'font-size': 15 });
+    yb.textContent = '🎀';
+    g.appendChild(yb);
+  }
 
   // Pets attached to their owner as small chips.
   const pets = store.petsOf(person.id);
@@ -157,11 +185,12 @@ function drawUnits(units, layer) {
       const px = u.unitLeft + BOX_W + COUPLE_GAP;
       layer.appendChild(nodeBox(u.partner, px, u.y, true));
       const my = u.y + BOX_H / 2;
+      const status = (u.partnerMeta && u.partnerMeta.status) || '';
+      const wed = /engaged|married/i.test(status);
       layer.appendChild(svgEl('line', {
-        class: 'marriage', x1: u.unitLeft + BOX_W, y1: my, x2: px, y2: my
+        class: 'marriage' + (wed ? ' strong' : ''), x1: u.unitLeft + BOX_W, y1: my, x2: px, y2: my
       }));
       const heart = svgEl('text', { class: 'marriage-mark', x: u.cx, y: my - 8, 'text-anchor': 'middle' });
-      const status = (u.partnerMeta && u.partnerMeta.status) || '';
       heart.textContent = /engaged|married/i.test(status) ? '💍' : (/love|crush|romantic/i.test(status) ? '💕' : '·');
       layer.appendChild(heart);
     }
@@ -174,7 +203,7 @@ function drawUnits(units, layer) {
       const startX = partnerIsCoParent ? u.cx : u.primaryCx;
       // Alien heritage: if any of the child's parents is flagged alien, the bloodline
       // gets its own glowing green dashed line with a little UFO. 👽🛸
-      const alien = (c.person.parents || []).some(pid => { const par = store.person(pid); return par && par.alien; });
+      const alien = (c.person.parents || []).some(pid => { const par = store.person(pid); return par && (par.alien || par.type === 'Alien'); });
       const edge = connector(startX, u.y + BOX_H, c.primaryCx, c.y);
       if (alien) edge.classList.add('edge-alien');
       layer.appendChild(edge);

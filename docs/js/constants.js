@@ -54,3 +54,21 @@ export const REL_TYPES = [
 ];
 
 export const glyphFor = (signName) => (STAR_SIGNS.find(s => s.name === signName) || {}).glyph || '';
+
+// Sims 2 occult / life-state types — used for the "Colour: Type" view and the badges.
+export const SIM_TYPES = [
+  { name: 'Human', emoji: '', colour: '#8aa97e', label: 'Living (Human)' },
+  { name: 'Ghost', emoji: '👻', colour: '#9aa7c7', label: 'Deceased (Ghost)' },
+  { name: 'Alien', emoji: '👽', colour: '#4fae3f', label: 'Alien' },
+  { name: 'Vampire', emoji: '🧛', colour: '#a23a4d', label: 'Vampire' },
+  { name: 'Werewolf', emoji: '🐺', colour: '#7a5c3a', label: 'Werewolf' },
+  { name: 'PlantSim', emoji: '🌱', colour: '#7faa2e', label: 'PlantSim' },
+  { name: 'Zombie', emoji: '🧟', colour: '#6f8a4a', label: 'Zombie' },
+  { name: 'Witch (Good)', emoji: '🧙', colour: '#28b1ad', label: 'Witch — Good' },
+  { name: 'Witch (Neutral)', emoji: '🧙', colour: '#8a8f9c', label: 'Witch — Neutral' },
+  { name: 'Witch (Evil)', emoji: '🧙', colour: '#6a3f9a', label: 'Witch — Evil' },
+  { name: 'Servo', emoji: '🤖', colour: '#7f93a8', label: 'Servo (robot)' },
+  { name: 'Bigfoot', emoji: '👣', colour: '#9c7a55', label: 'Bigfoot' }
+];
+export const typeMeta = (name) => SIM_TYPES.find(t => t.name === name) || SIM_TYPES[0];
+

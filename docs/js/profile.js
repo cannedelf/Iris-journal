@@ -5,7 +5,7 @@
 import { store } from './store.js';
 import {
   ASPIRATIONS, STAR_SIGNS, SKILLS, LIFE_STAGES, PERSONALITY, CAREER_TRACKS, OTH,
-  BODY_FRAMES, REL_TYPES, PET_SPECIES, glyphFor
+  BODY_FRAMES, REL_TYPES, PET_SPECIES, SIM_TYPES, typeMeta, glyphFor
 } from './constants.js';
 
 const panel = () => document.getElementById('panel');
@@ -73,7 +73,7 @@ function simView(s) {
       <button class="edit" data-edit>✎ Edit</button>
       ${photoBlock(s)}
       <div class="head-text">
-        <h2>${esc(s.emoji || '')} ${esc(s.name)}</h2>
+        <h2>${esc(s.emoji || '')} ${esc(s.name)} ${(s.type && s.type !== 'Human') ? `<span class="type-tag">${typeMeta(s.type).emoji} ${esc(s.type)}</span>` : ''}</h2>
         <p class="head-sub">${[fam.name && fam.emoji + ' ' + fam.name, hh && hh.name, s.generation].filter(Boolean).map(esc).join(' · ')}</p>
         ${isAnc ? `<p class="anc-banner">Ancestor node — origin point for genetics (non-playable)</p>` : ''}
         ${s.oneLiner ? `<p class="oneliner">“${esc(s.oneLiner)}”</p>` : ''}
@@ -249,7 +249,7 @@ function simEditor(s) {
       ${row('Life stage', selectField('lifeStage', s.lifeStage, LIFE_STAGES))}
       ${row('Days remaining', numField('daysRemaining', s.daysRemaining, 0, 9999))}
       ${row('Generation', textField('generation', s.generation, 'Gen 1'))}
-      ${row('Alien heritage 👽', `<input type="checkbox" name="alien" ${s.alien ? 'checked' : ''}>`)}
+      ${row('Sim type', `<select name="type">${SIM_TYPES.map(t => `<option value="${t.name}" ${(s.type || 'Human') === t.name ? 'selected' : ''}>${t.emoji ? t.emoji + ' ' : ''}${esc(t.label || t.name)}</option>`).join('')}</select>`)}
     </fieldset>
 
     <fieldset><legend>Sims 2 Mechanics</legend>
@@ -450,7 +450,7 @@ function applySimForm(s, form) {
   s.family = val(form, 'family'); s.household = val(form, 'household');
   s.preMarriageName = val(form, 'preMarriageName'); s.lifeStage = val(form, 'lifeStage');
   s.daysRemaining = numVal(form, 'daysRemaining'); s.generation = val(form, 'generation');
-  s.alien = form.elements['alien'] ? form.elements['alien'].checked : !!s.alien;
+  s.type = form.elements['type'] ? form.elements['type'].value : (s.type || 'Human');
   s.aspiration = val(form, 'aspiration'); s.secondaryAspiration = val(form, 'secondaryAspiration');
   s.lifetimeWant = val(form, 'lifetimeWant'); s.starSign = val(form, 'starSign');
   s.turnOn1 = val(form, 'turnOn1'); s.turnOn2 = val(form, 'turnOn2'); s.turnOff = val(form, 'turnOff');

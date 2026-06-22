@@ -69,8 +69,21 @@ a { color: var(--green); }
 
 .node { cursor: pointer; }
 .node-box { filter: drop-shadow(0 3px 6px rgba(120,95,50,.16)); transition: filter .15s; }
-.node:hover .node-box { filter: drop-shadow(0 6px 12px rgba(120,95,50,.30)); }
+.node:hover .node-box { filter: drop-shadow(0 0 8px rgba(230,169,31,.65)); }
 .node.ancestor .node-box { opacity: .92; }
+
+/* Iris — the heart of Sunnyside — gets a gentle cycling rainbow glow. 🌈 */
+.node.heart .node-box { animation: rainbowglow 5s linear infinite; }
+.node.heart:hover .node-box { animation: none; }
+@keyframes rainbowglow {
+  0%   { filter: drop-shadow(0 0 5px #e6a91f); }
+  20%  { filter: drop-shadow(0 0 6px #6f9e5e); }
+  40%  { filter: drop-shadow(0 0 6px #5aa6d0); }
+  60%  { filter: drop-shadow(0 0 6px #d97aa0); }
+  80%  { filter: drop-shadow(0 0 6px #b07d52); }
+  100% { filter: drop-shadow(0 0 5px #e6a91f); }
+}
+.type-badge text { pointer-events: none; }
 .node-name { font: 700 16px Georgia, serif; fill: var(--ink); }
 .node-sub { font: 500 12px "Segoe UI", sans-serif; fill: var(--ink-soft); }
 .node-foot { font: 500 11px "Segoe UI", sans-serif; fill: #a4937a; }
@@ -78,6 +91,8 @@ a { color: var(--green); }
 
 .edge { fill: none; stroke: #cdbb9c; stroke-width: 2; }
 .marriage { stroke: var(--pink); stroke-width: 2.5; }
+.marriage.strong { stroke-width: 3; filter: drop-shadow(0 0 3px #e58fb0); animation: marriageglow 2.4s ease-in-out infinite; }
+@keyframes marriageglow { 0%,100% { opacity: .7; } 50% { opacity: 1; } }
 .edge-alien { stroke: #4fae3f; stroke-width: 2.5; stroke-dasharray: 7 5; filter: drop-shadow(0 0 2.5px #9be08a); animation: alienflow 1.4s linear infinite; }
 @keyframes alienflow { to { stroke-dashoffset: -24; } }
 .alien-mark { font-size: 15px; }
@@ -201,6 +216,15 @@ a { color: var(--green); }
 .settings-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 16px; }
 .settings-msg { font-size: 13px; min-height: 18px; color: #8a5a1a; }
 .settings-note { font-size: 12px; color: var(--ink-soft); margin-top: 14px; background: #fff; padding: 10px 12px; border-radius: 9px; }
+
+/* Type-colour legend (shown only in Colour: Type mode) */
+.legend { position: fixed; left: 16px; bottom: 16px; background: rgba(255,255,255,.95); border: 1.5px solid var(--line); border-radius: 14px; padding: 12px 14px; box-shadow: var(--shadow); z-index: 30; display: none; max-width: 230px; }
+.legend.show { display: block; }
+.legend strong { display: block; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-soft); margin-bottom: 6px; }
+.legend .leg { display: flex; align-items: center; gap: 7px; font-size: 13px; padding: 2px 0; }
+.legend .leg i { width: 14px; height: 14px; border-radius: 4px; display: inline-block; flex-shrink: 0; }
+
+.type-tag { font-size: 12px; font-weight: 600; background: rgba(255,255,255,.7); border: 1px solid var(--fam); border-radius: 999px; padding: 1px 8px; vertical-align: middle; white-space: nowrap; }
 
 .toast { position: fixed; bottom: 22px; left: 50%; transform: translateX(-50%); background: var(--ink); color: #fff; padding: 11px 18px; border-radius: 12px; font-size: 14px; box-shadow: var(--shadow); z-index: 80; }
 

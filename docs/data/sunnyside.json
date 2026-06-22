@@ -30,7 +30,7 @@
       "parents": [], "partners": [{ "id": "ruth", "status": "Married", "bolts": null }]
     },
     {
-      "id": "ruth", "kind": "ancestor", "name": "Ruth Hill", "display": "Ruth Hill", "emoji": "🧶",
+      "id": "ruth", "kind": "ancestor", "yellowBow": true, "name": "Ruth Hill", "display": "Ruth Hill", "emoji": "🧶",
       "family": "hill", "generation": "Gen 0",
       "oneLiner": "Yellow bow club!! Brown waves hiding in Cassian!!",
       "genetics": { "hairVisible": "Gentle brown waves", "eyesVisible": "Hazel", "skin": "Pale", "freckles": "Yes — the source of the Hill freckle situation", "notable": "Round warm face, yellow bow", "notes": "Liv and Wrench inherit most from Mum. Brown-hair + hazel-eye recessives surface later — brown curls expressed in green toddler Cassian!" },
@@ -44,7 +44,7 @@
       "parents": [], "partners": [{ "id": "janet", "status": "Married", "bolts": null }]
     },
     {
-      "id": "janet", "kind": "ancestor", "name": "Janet Frisbee", "display": "Janet Frisbee", "emoji": "🎀",
+      "id": "janet", "kind": "ancestor", "yellowBow": true, "name": "Janet Frisbee", "display": "Janet Frisbee", "emoji": "🎀",
       "family": "frisbee", "generation": "Gen 0",
       "oneLiner": "Yellow bow club!! AWiddleFrisbee's round face comes from here!!",
       "genetics": { "hairVisible": "Brown (worn up with a yellow bow)", "eyesVisible": "GREEN", "skin": "Pale", "freckles": "No", "notable": "Round warm face", "notes": "AWiddleFrisbee + Fourth get green eyes from here. AWiddleFrisbee's round face comes from here." },
@@ -66,7 +66,7 @@
     },
 
     {
-      "id": "iris", "kind": "sim", "name": "Iris Golden Rainbow", "display": "Iris", "emoji": "🌈",
+      "id": "iris", "kind": "sim", "heart": true, "yellowBow": true, "name": "Iris Golden Rainbow", "display": "Iris", "emoji": "🌈",
       "family": "rainbow", "household": "sunshine_cottage", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
       "photo": null,
       "aspiration": "Popularity", "secondaryAspiration": "Family (hoped)", "lifetimeWant": "Make 20 Simultaneous Pet Best Friends", "starSign": "Libra",
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "id": "cassian", "kind": "sim", "name": "Cassian Hill", "display": "Cassian", "emoji": "👽",
+      "id": "cassian", "kind": "sim", "type": "Alien", "name": "Cassian Hill", "display": "Cassian", "emoji": "💚",
       "family": "hill", "household": "storm_and_wrench", "preMarriageName": "", "lifeStage": "Toddler", "daysRemaining": null, "generation": "Gen 1.5",
       "photo": null,
       "aspiration": "", "secondaryAspiration": "", "lifetimeWant": "", "starSign": "",
@@ -456,7 +456,7 @@
       "lockedWants": [], "fears": [], "car": "", "carNotes": "", "moments": []
     },
     {
-      "id": "ptn83", "kind": "sim", "alien": true, "name": "P.T. 83", "display": "P.T. 83", "emoji": "👽",
+      "id": "ptn83", "kind": "sim", "alien": true, "type": "Alien", "name": "P.T. 83", "display": "P.T. 83", "emoji": "👽",
       "family": "townie", "household": "", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 0",
       "photo": null,
       "aspiration": "", "secondaryAspiration": "", "lifetimeWant": "", "starSign": "",
