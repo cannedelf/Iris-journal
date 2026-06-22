@@ -335,19 +335,23 @@
     {
       "id": "dennis",
       "kind": "ancestor",
-      "name": "Dennis Frisbee",
-      "display": "Dennis Frisbee",
+      "name": "Frisbee Dad",
+      "display": "",
       "emoji": "☕",
       "family": "frisbee",
       "generation": "Gen 0",
       "oneLiner": "Has been putting the kettle on since 1990!! The secret ginger gene!!",
       "genetics": {
         "hairVisible": "GINGER (the secret recessive everyone carries)",
+        "hairHidden": "Ginger",
         "eyesVisible": "Brown",
+        "eyesHidden": "Green",
         "skin": "Golden / tanned",
         "freckles": "Yes — passes them to all three",
-        "notes": "Hidden ginger recessive = surprise ginger Frisbee babies someday. Still-Here + Fourth get golden skin from here. Mildly bewildered since approximately 1990.",
-        "eyesHidden": ""
+        "notable": "",
+        "fromMum": "",
+        "fromDad": "",
+        "notes": "Hidden ginger recessive = surprise ginger Frisbee babies someday. Still-Here + Fourth get golden skin from here. Mildly bewildered since approximately 1990."
       },
       "parents": [],
       "partners": [
@@ -356,7 +360,52 @@
           "status": "Married",
           "bolts": null
         }
-      ]
+      ],
+      "household": "",
+      "preMarriageName": "",
+      "lifeStage": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "aspiration": "",
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "starSign": "",
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "",
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
+      "career": {
+        "track": "",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {
+        "cooking": 0,
+        "mechanical": 0,
+        "charisma": 0,
+        "body": 0,
+        "logic": 0,
+        "creativity": 0,
+        "cleaning": 0
+      },
+      "car": "",
+      "carNotes": "",
+      "relationships": [],
+      "moments": [],
+      "lockedWants": [],
+      "fears": []
     },
     {
       "id": "janet",
