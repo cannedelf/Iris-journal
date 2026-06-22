@@ -10,6 +10,9 @@ import {
 
 const panel = () => document.getElementById('panel');
 const esc = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const byName = (a, b) => (a.display || a.name || '').toLowerCase().localeCompare((b.display || b.name || '').toLowerCase());
+const sortedPeople = () => [...store.data.people].sort(byName);
+const sortedPets = () => [...store.data.pets].sort(byName);
 
 export function openProfile(id) {
   const node = store.node(id);
@@ -428,7 +431,7 @@ function listEditor(title, key, items) { return simpleListEditor(title, key, ite
 
 function peopleOptions(sel) {
   return ['<option value="">— choose a Sim —</option>'].concat(
-    store.data.people.map(p => `<option value="${esc(p.id)}" ${p.id === sel ? 'selected' : ''}>${esc((p.emoji || '') + ' ' + (p.display || p.name))}</option>`)
+    sortedPeople().map(p => `<option value="${esc(p.id)}" ${p.id === sel ? 'selected' : ''}>${esc((p.emoji || '') + ' ' + (p.display || p.name))}</option>`)
   ).join('');
 }
 const parentRow = (id = '') => `<div class="lrow"><select name="parents[]">${peopleOptions(id)}</select><button type="button" class="del" data-del>✕</button></div>`;
@@ -436,7 +439,7 @@ const parentRow = (id = '') => `<div class="lrow"><select name="parents[]">${peo
 // Options for picking any person OR pet by name (relationships can point at pets too).
 function nodeOptions(sel) {
   const opt = (n) => `<option value="${esc(n.id)}" ${n.id === sel ? 'selected' : ''}>${esc((n.emoji || '') + ' ' + (n.display || n.name))}</option>`;
-  return '<option value="">— choose —</option>' + store.data.people.map(opt).join('') + store.data.pets.map(opt).join('');
+  return '<option value="">— choose —</option>' + sortedPeople().map(opt).join('') + sortedPets().map(opt).join('');
 }
 function parentsEditor(items) {
   return `<fieldset data-list="parents"><legend>Parents</legend>

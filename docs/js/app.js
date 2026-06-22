@@ -59,7 +59,8 @@ function render() {
 }
 
 function buildSearch() {
-  const all = [...store.data.people, ...store.data.pets];
+  const all = [...store.data.people, ...store.data.pets]
+    .sort((a, b) => (a.display || a.name || '').toLowerCase().localeCompare((b.display || b.name || '').toLowerCase()));
   const list = el('searchList');
   list.innerHTML = all.map(n =>
     `<button class="search-item" data-id="${n.id}">${n.emoji || '👤'} ${escapeHtml(n.display || n.name)}
