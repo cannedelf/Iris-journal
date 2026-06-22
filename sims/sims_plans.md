@@ -100,8 +100,16 @@
 - When does Fourth and Sim Liv's wedding party happen??
 - The Gremlin presumably stays with Still-Here!! 😂👹
 - What happens to The Flat's money tree when Sim Liv leaves??
-- Baby names for other households?? Kareem and Iris?? Wrench and Andrea??
+
+## Decided!! ✅ (22nd June 2026 — Opus Session!!)
+
+- ✅ **Baby names REVAMPED!!** All four families!! See names.md!! Rainbow: Honey, Sunday, Ottilie, Kofi, Pip, Bramble!! Hill: Dolly, Opal, Bobbin, Ratchet, Rivet, Felix!! Frisbee: Posey, Page, Daffodil, Cricket, Finch, Moss!! Søren/Clara (just for fun): Halley, Tansy, Juniper, Newton, Niels, Bracken!! 🌈🔧📜🌩️
+- ✅ **Still-Here lives with Widdle FOREVER!!** The chaotic aunt household!! Pleasure aspiration doesn't settle — they're just permanently HERE!! Even if Armando moves in!! Kids go for sleepovers and come back feral!! 🪨🍊😂
+- ✅ **Willa freed up!!** No longer matched with Still-Here!! Arrives 2 rotations after Edie + Arthur and pairs with whoever Clara doesn't choose — Idris or Theo!! 🌱💕
+- ✅ **Organic growth plan!!** Theo after R5, Edie+Arthur when babies arrive, Willa 2 rotations later, Sable+Aesop when Sunnyside calls!! No schedule pressure!! 🌻
+- ✅ **Townies ARE the dating pool!!** Andrea, Armando, Benjamin all working perfectly!! Future residents enrich Sunnyside rather than provide dates!! 💕
 
 ---
 
-*Updated 21st June 2026 — Added Fourth and Sim Liv's children's names!! Elowen!! Briar!! Sorrel!! Rowan!! Moss!! Caspian!! Frisbee-Hill energy!! Nature-y!! Unconventional!! A proper sibling set!! 🌿🌸🌾🌲🟢🌊💛*
+*Updated 22nd June 2026 — OPUS SESSION!! Baby names revamped (see names.md)!! Organic growth plan!! Still-Here lives with Widdle forever!! Willa freed up!! Previously updated 21st June: Elowen!! Briar!! Sorrel!! Rowan!! Moss!! Caspian!! Frisbee-Hill energy!! Nature-y!! Unconventional!! A proper sibling set!! 🌿🌸🌾🌲🟢🌊💛*
+
