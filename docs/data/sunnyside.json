@@ -1191,7 +1191,7 @@
     {
       "id": "liv",
       "kind": "sim",
-      "name": "Liv Frisbee",
+      "name": "Liv Hill",
       "display": "Sim Liv",
       "emoji": "🦇",
       "family": "hill",
@@ -1219,8 +1219,8 @@
       "bodyFrame": "Female",
       "career": {
         "track": "Business",
-        "level": 5,
         "levelName": "Executive",
+        "level": 5,
         "top": "Business Tycoon",
         "degree": "Economics"
       },
@@ -1311,7 +1311,10 @@
           "event": "ENGAGED to Fourth",
           "notes": "He proposed at the teal arched door in his best suit. She said YES!"
         }
-      ]
+      ],
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false
     },
     {
       "id": "cassian",
