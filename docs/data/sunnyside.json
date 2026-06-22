@@ -1,0 +1,485 @@
+{
+  "meta": {
+    "version": 1,
+    "neighbourhood": "Sunnyside",
+    "updated": "2026-06-22",
+    "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub."
+  },
+  "families": [
+    { "id": "hill", "name": "Hill", "emoji": "⛏️", "colour": "#b07d52", "soft": "#efdfce" },
+    { "id": "frisbee", "name": "Frisbee", "emoji": "☕", "colour": "#6f9e5e", "soft": "#dcebd2" },
+    { "id": "rainbow", "name": "Rainbow", "emoji": "🌈", "colour": "#e6a91f", "soft": "#fbeec4" },
+    { "id": "okafor", "name": "Okafor", "emoji": "🌺", "colour": "#d97aa0", "soft": "#f7dce7" },
+    { "id": "vance", "name": "Vance", "emoji": "🌸", "colour": "#e493b8", "soft": "#f8dfeb" },
+    { "id": "townie", "name": "Townies", "emoji": "🏘️", "colour": "#a89f94", "soft": "#e7e2da" }
+  ],
+  "households": [
+    { "id": "sunshine_cottage", "name": "Sunshine Cottage", "emoji": "🌻", "location": "Sunnyside, near the shops", "features": "Yellow door, art studio, sunflower garden", "movedIn": "2026-06-07" },
+    { "id": "music_room", "name": "The Music Room", "emoji": "🎹", "location": "Sunnyside, road between Sunshine Cottage and the shops", "features": "Converted mill, piano, windmill next door", "movedIn": "2026-06-16" },
+    { "id": "storm_and_wrench", "name": "Storm and Wrench", "emoji": "🌩️", "location": "Sunnyside", "features": "Dark Nordic house, telescope, robotics bench, fish tank", "movedIn": "2026-06-17" },
+    { "id": "the_flat", "name": "The Flat", "emoji": "🦇", "location": "Sunnyside", "features": "Teal arched door, Hugo's bay-window bed, money tree", "movedIn": "2026-06-01" },
+    { "id": "pebble_house", "name": "The Pebble House", "emoji": "📜", "location": "Sunnyside, central", "features": "Terracotta brick, teal arched door, alphabetical bookshelf", "movedIn": "2026-06-18" },
+    { "id": "pressed_flowers", "name": "Pressed Flowers", "emoji": "🌺", "location": "Zig-Zag Road, Sunnyside", "features": "Craftsman cottage, naturalist study, vegetable patches", "movedIn": "2026-06-21" }
+  ],
+  "people": [
+    {
+      "id": "sam", "kind": "ancestor", "name": "Samuel (Sam) Hill", "display": "Sam Hill", "emoji": "⛏️",
+      "family": "hill", "generation": "Gen 0",
+      "oneLiner": "The source of every Hill curl and every Hill freckle!!",
+      "genetics": { "hairVisible": "Black curly (big voluminous curls)", "eyesVisible": "Dark brown", "skin": "Dark warm brown", "freckles": "Yes — passes them to all three siblings", "notes": "Søren inherits most from Dad. Black hair + dark eyes dominant; freckles carried by all." },
+      "parents": [], "partners": [{ "id": "ruth", "status": "Married", "bolts": null }]
+    },
+    {
+      "id": "ruth", "kind": "ancestor", "name": "Ruth Hill", "display": "Ruth Hill", "emoji": "🧶",
+      "family": "hill", "generation": "Gen 0",
+      "oneLiner": "Yellow bow club!! Brown waves hiding in Cassian!!",
+      "genetics": { "hairVisible": "Gentle brown waves", "eyesVisible": "Hazel", "skin": "Pale", "freckles": "Yes — the source of the Hill freckle situation", "notable": "Round warm face, yellow bow", "notes": "Liv and Wrench inherit most from Mum. Brown-hair + hazel-eye recessives surface later — brown curls expressed in green toddler Cassian!" },
+      "parents": [], "partners": [{ "id": "sam", "status": "Married", "bolts": null }]
+    },
+    {
+      "id": "dennis", "kind": "ancestor", "name": "Dennis Frisbee", "display": "Dennis Frisbee", "emoji": "☕",
+      "family": "frisbee", "generation": "Gen 0",
+      "oneLiner": "Has been putting the kettle on since 1990!! The secret ginger gene!!",
+      "genetics": { "hairVisible": "GINGER (the secret recessive everyone carries)", "eyesVisible": "Brown", "skin": "Golden / tanned", "freckles": "Yes — passes them to all three", "notes": "Hidden ginger recessive = surprise ginger Frisbee babies someday. Still-Here + Fourth get golden skin from here. Mildly bewildered since approximately 1990." },
+      "parents": [], "partners": [{ "id": "janet", "status": "Married", "bolts": null }]
+    },
+    {
+      "id": "janet", "kind": "ancestor", "name": "Janet Frisbee", "display": "Janet Frisbee", "emoji": "🎀",
+      "family": "frisbee", "generation": "Gen 0",
+      "oneLiner": "Yellow bow club!! AWiddleFrisbee's round face comes from here!!",
+      "genetics": { "hairVisible": "Brown (worn up with a yellow bow)", "eyesVisible": "GREEN", "skin": "Pale", "freckles": "No", "notable": "Round warm face", "notes": "AWiddleFrisbee + Fourth get green eyes from here. AWiddleFrisbee's round face comes from here." },
+      "parents": [], "partners": [{ "id": "dennis", "status": "Married", "bolts": null }]
+    },
+    {
+      "id": "kareemdad", "kind": "ancestor", "name": "Kareem's Dad", "display": "Kareem's Dad", "emoji": "👔",
+      "family": "rainbow", "generation": "Gen 0",
+      "oneLiner": "Kareem's dominant look!! Ghanaian heritage!!",
+      "genetics": { "hairVisible": "Dark black", "eyesVisible": "Dark brown", "skin": "Dark", "notable": "Tall", "notes": "Kareem's dominant look. Ghanaian heritage." },
+      "parents": [], "partners": [{ "id": "claire", "status": "Married", "bolts": null }]
+    },
+    {
+      "id": "claire", "kind": "ancestor", "name": "Claire", "display": "Claire", "emoji": "💜",
+      "family": "rainbow", "generation": "Gen 0",
+      "oneLiner": "The secret gene queen!! Every Rainbow baby carries her hidden magic!!",
+      "genetics": { "hairVisible": "BLONDE (hidden recessive in Kareem!)", "eyesVisible": "LILAC (hidden recessive in Kareem!)", "skin": "Lighter", "notable": "Kind face", "notes": "Gives Kareem hidden blonde + lilac — rainbow babies genuinely possible. White British." },
+      "parents": [], "partners": [{ "id": "kareemdad", "status": "Married", "bolts": null }]
+    },
+
+    {
+      "id": "iris", "kind": "sim", "name": "Iris Golden Rainbow", "display": "Iris", "emoji": "🌈",
+      "family": "rainbow", "household": "sunshine_cottage", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Popularity", "secondaryAspiration": "Family (hoped)", "lifetimeWant": "Make 20 Simultaneous Pet Best Friends", "starSign": "Libra",
+      "personality": { "neat": 2, "outgoing": 7, "active": 4, "playful": 5, "nice": 7 },
+      "turnOn1": "Brown hair", "turnOn2": "Creativity", "turnOff": "Cologne", "oth": "Arts & Crafts", "bodyFrame": "Female",
+      "career": { "track": "Artist", "level": 4, "levelName": "Comic Book Penciller", "top": "Visionary", "degree": "Fine Arts" },
+      "skills": { "cooking": 2, "mechanical": 4, "charisma": 3, "body": 0, "logic": 1, "creativity": 5, "cleaning": 0 },
+      "genetics": {
+        "hairVisible": "Wavy golden blonde (yellow bow)", "hairHidden": "None", "eyesVisible": "Lilac (custom genetic)", "eyesHidden": "None",
+        "skin": "Light, golden, warm — sunkissed", "freckles": "No", "notable": "Yellow bow always",
+        "fromMum": "N/A (Iris has no Sims parents)", "fromDad": "N/A", "notes": "Iris has NO hidden genes — purely and completely herself!"
+      },
+      "parents": [], "partners": [{ "id": "kareem", "status": "Engaged", "bolts": 2 }],
+      "relationships": [
+        { "id": "kareem", "type": "Fiancé", "bolts": 2, "notes": "Dream date at the Sunflower Diner! Proposed with a blue velvet box. She said YES!" },
+        { "id": "liv", "type": "Best Friend", "bolts": null, "notes": "Met at the park! Chess!" },
+        { "id": "awiddle", "type": "Best Friend", "bolts": null, "notes": "🍊" },
+        { "id": "wrench", "type": "Friend", "bolts": null, "notes": "Met at the party! Danced!" },
+        { "id": "marigold", "type": "Pet Best Friend", "bolts": null, "notes": "1/20!" }
+      ],
+      "lockedWants": ["Get married to Kareem", "Have a wedding party", "Marigold removed (permanent protective lock)"],
+      "fears": ["Marigold runs away", "Sim Liv dies", "Become enemies with Sim Liv"],
+      "car": "1967 Lamborghini Miura", "carNotes": "Witnessed the sunflower kiss AND the woohoo!",
+      "moments": [
+        { "rotation": "R1", "event": "First painting — SUNFLOWER", "notes": "Hung in the living room" },
+        { "rotation": "R1", "event": "Met Sim Liv at the park", "notes": "Chess! BFF!" },
+        { "rotation": "R2", "event": "Drew a socialite's nose", "notes": "No regrets" },
+        { "rotation": "R3", "event": "Kareem kissed Iris in the sunflowers", "notes": "The -35 and watch us" },
+        { "rotation": "R3", "event": "Kitchen fire", "notes": "Marigold slept through it" },
+        { "rotation": "R4", "event": "Dream date at Sunflower Diner", "notes": "Lamborghini woohoo!" },
+        { "rotation": "R4", "event": "ENGAGED TO KAREEM", "notes": "Blue velvet box! She said YES!" }
+      ]
+    },
+    {
+      "id": "kareem", "kind": "sim", "name": "Kareem Rainbow", "display": "Kareem", "emoji": "🎹",
+      "family": "rainbow", "household": "music_room", "preMarriageName": "Kareem Osei", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Family", "secondaryAspiration": "Knowledge", "lifetimeWant": "Reach Golden Anniversary", "starSign": "Pisces",
+      "personality": { "neat": 6, "outgoing": 5, "active": 5, "playful": 0, "nice": 9 },
+      "turnOn1": "", "turnOn2": "", "turnOff": "", "oth": "", "bodyFrame": "Male",
+      "career": { "track": "Education", "level": 2, "levelName": "", "top": "Education Minister", "degree": "Literature" },
+      "skills": { "cooking": 1, "mechanical": 0, "charisma": 1, "body": 0, "logic": 3, "creativity": 6, "cleaning": 1 },
+      "genetics": {
+        "hairVisible": "Dark curly (dominant)", "hairHidden": "Blonde (recessive, from Claire)", "eyesVisible": "Dark warm brown (dominant)", "eyesHidden": "Lilac (recessive, from Claire)",
+        "skin": "Warm brown — mixed Ghanaian/lighter heritage", "freckles": "No", "notable": "Kind face, woodland-creature pyjamas",
+        "fromMum": "Hidden blonde + lilac (Claire)", "fromDad": "Dark hair, dark eyes, tall (Ghanaian heritage)", "notes": "Carries blonde + lilac recessives — rainbow babies genuinely possible! NOTE: star sign listed as Pisces in household file but 'Libra' implied in appearances — double-check in game."
+      },
+      "parents": ["kareemdad", "claire"], "partners": [{ "id": "iris", "status": "Engaged", "bolts": 2 }],
+      "relationships": [
+        { "id": "iris", "type": "Fiancée", "bolts": 2, "notes": "She phoned him on a Tuesday. He kissed her in the sunflowers. The daisies were always for her." },
+        { "id": "fourth", "type": "Best Friend", "bolts": null, "notes": "In The Golden Anchor! On a Sunday!" },
+        { "id": "soren", "type": "Friend", "bolts": null, "notes": "Met at Storm and Wrench. Puzzle ball." },
+        { "id": "mira", "type": "Pet", "bolts": null, "notes": "They dreamed about each other on their first night." }
+      ],
+      "lockedWants": ["Marry Iris"],
+      "fears": [],
+      "car": "2002 Honda Accord", "carNotes": "",
+      "moments": [
+        { "rotation": "R1", "event": "Made first bouquet — DAISIES", "notes": "In inventory. Nobody to give them to yet." },
+        { "rotation": "R1", "event": "Adopted Mira", "notes": "They dreamed about each other on night one." },
+        { "rotation": "R3", "event": "First to play The Golden Anchor stage", "notes": "Nobody asked. He just sat down." },
+        { "rotation": "R3", "event": "Best friends with Iris", "notes": "She called him!" },
+        { "rotation": "R4", "event": "Fell in love & PROPOSED at the Sunflower Diner", "notes": "Blue velvet box. Glowing ring. She said YES!" }
+      ]
+    },
+    {
+      "id": "soren", "kind": "sim", "name": "Søren Hill", "display": "Søren", "emoji": "🌩️",
+      "family": "hill", "household": "storm_and_wrench", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Knowledge", "secondaryAspiration": "Family (hoped)", "lifetimeWant": "Become Mad Scientist", "starSign": "Cancer",
+      "personality": { "neat": 8, "outgoing": 3, "active": 4, "playful": 2, "nice": 8 },
+      "turnOn1": "Logic skill", "turnOn2": "Cologne", "turnOff": "Unemployed", "oth": "Science", "bodyFrame": "Male",
+      "career": { "track": "Science", "level": 4, "levelName": "Field Researcher", "top": "Mad Scientist", "degree": "Philosophy" },
+      "skills": { "cooking": 4, "mechanical": 0, "charisma": 0, "body": 0, "logic": 4, "creativity": 1, "cleaning": 6 },
+      "genetics": {
+        "hairVisible": "Black curly (big, voluminous — Sam's hair exactly)", "hairHidden": "Brown (recessive, from Ruth) — EXPRESSED IN CASSIAN!", "eyesVisible": "Dark brown (from Sam)", "eyesHidden": "Hazel (recessive, from Ruth)",
+        "skin": "Dark warm brown (from Sam)", "freckles": "Yes — Ruth's freckles came through quietly", "notable": "Round glasses, tall and distinguished, the green coat",
+        "fromMum": "Brown hair + hazel eyes recessives", "fromDad": "Black curls, dark eyes, dark skin, freckles", "notes": "Hidden brown hair surfaced as brown curls on green toddler Cassian. Nobody planned this."
+      },
+      "parents": ["sam", "ruth"], "partners": [{ "id": "clara", "status": "Crush (Sunnyside deciding)", "bolts": 3 }],
+      "relationships": [
+        { "id": "wrench", "type": "Sibling", "bolts": null, "notes": "Brothers" },
+        { "id": "liv", "type": "Sibling", "bolts": null, "notes": "Sister" },
+        { "id": "cassian", "type": "Son", "bolts": null, "notes": "Brown curls! Nice 0! Active 10! Chaos gremlin!" },
+        { "id": "clara", "type": "Crush", "bolts": 3, "notes": "Three bolts! Kissed on the porch. Same Cancer sign. Letting Sunnyside decide." },
+        { "id": "kareem", "type": "Friend", "bolts": null, "notes": "Puzzle ball. Quietly perfect." },
+        { "id": "ptn83", "type": "Co-parent", "bolts": null, "notes": "Abducted him! Pays child support on time." },
+        { "id": "immanuel", "type": "Pet", "bolts": null, "notes": "Smooched him on move-in day." }
+      ],
+      "lockedWants": ["Be saved from death", "Be abducted again (NOT YET — wait until Wrench moves out)"],
+      "fears": [],
+      "car": "", "carNotes": "",
+      "moments": [
+        { "rotation": "R3", "event": "ABDUCTED by aliens", "notes": "Green beam! He went UP!" },
+        { "rotation": "R3", "event": "Cassian Hill born", "notes": "Little green boy under the UFO light." },
+        { "rotation": "R4", "event": "Discovered a PLANET", "notes": "§1,459! For Science!" },
+        { "rotation": "R4", "event": "Demoted for being ethical (again)", "notes": "Informed a researcher about her own discovery." },
+        { "rotation": "R4", "event": "Three bolts with Clara", "notes": "Kiss on the porch. Spring." }
+      ]
+    },
+    {
+      "id": "wrench", "kind": "sim", "name": "Wrench Hill", "display": "Wrench", "emoji": "🔧",
+      "family": "hill", "household": "storm_and_wrench", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Fortune", "secondaryAspiration": "Knowledge (hoped)", "lifetimeWant": "Become City Planner", "starSign": "Scorpio",
+      "personality": { "neat": 6, "outgoing": 5, "active": 7, "playful": 3, "nice": 4 },
+      "turnOn1": "Mechanical skill", "turnOn2": "Fitness", "turnOff": "Stinkiness", "oth": "", "bodyFrame": "Male",
+      "career": { "track": "Architecture", "level": 4, "levelName": "Head of Construction Company", "top": "City Planner", "degree": "Physics" },
+      "skills": { "cooking": 1, "mechanical": 2, "charisma": 0, "body": 0, "logic": 1, "creativity": 2, "cleaning": 0 },
+      "genetics": {
+        "hairVisible": "Curly brown (Sam's curl, Ruth's colour)", "hairHidden": "Black (recessive, from Sam)", "eyesVisible": "HAZEL (got Ruth's recessive!)", "eyesHidden": "None",
+        "skin": "Medium warm brown (perfect middle of both parents)", "freckles": "Yes — the most freckled Hill sibling", "notable": "Friendly open face, warm smile",
+        "fromMum": "Brown hair colour + hazel eyes", "fromDad": "Curl pattern, black hair recessive, freckles", "notes": "Exactly halfway between both parents."
+      },
+      "parents": ["sam", "ruth"], "partners": [{ "id": "andrea", "status": "Engaged", "bolts": 2 }],
+      "relationships": [
+        { "id": "soren", "type": "Sibling", "bolts": null, "notes": "Brothers" },
+        { "id": "liv", "type": "Sibling", "bolts": null, "notes": "Sister" },
+        { "id": "andrea", "type": "Fiancée", "bolts": 2, "notes": "Love at the diner. He proposed. Her feet left the ground." },
+        { "id": "awiddle", "type": "Friend", "bolts": null, "notes": "Rolled a spring want to flirt — did NOT act on it." },
+        { "id": "cassian", "type": "Nephew", "bolts": null, "notes": "Held him during the kitchen fire. Hero uncle." }
+      ],
+      "lockedWants": ["Silver robotics badge", "Throw a wedding party", "Marry Andrea"],
+      "fears": ["Andrea leaving him at the altar"],
+      "car": "Ford F-150 (still to buy)", "carNotes": "",
+      "moments": [
+        { "rotation": "R3", "event": "Proposed to Andrea — SHE SAID YES", "notes": "Her feet left the ground!" },
+        { "rotation": "R4", "event": "Two promotions in one rotation", "notes": "Foreman → Head of Construction Company" },
+        { "rotation": "R4", "event": "Bronze Robotics Badge", "notes": "Can build RoverBots!" }
+      ]
+    },
+    {
+      "id": "liv", "kind": "sim", "name": "Liv Frisbee", "display": "Sim Liv", "emoji": "🦇",
+      "family": "hill", "household": "the_flat", "preMarriageName": "Liv Hill", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Family", "secondaryAspiration": "Popularity (hoped)", "lifetimeWant": "Graduate 3 Children from College", "starSign": "Aquarius",
+      "personality": { "neat": 3, "outgoing": 3, "active": 5, "playful": 7, "nice": 7 },
+      "turnOn1": "Charisma skill", "turnOn2": "Logic", "turnOff": "Vampires", "oth": "Nature", "bodyFrame": "Female",
+      "career": { "track": "Business", "level": 5, "levelName": "Executive", "top": "Business Tycoon", "degree": "Economics" },
+      "skills": { "cooking": 1, "mechanical": 0, "charisma": 4, "body": 0, "logic": 2, "creativity": 1, "cleaning": 1 },
+      "genetics": {
+        "hairVisible": "Brown, long and wavy (Ruth's hair)", "hairHidden": "Black (recessive, from Sam)", "eyesVisible": "Hazel (from Ruth)", "eyesHidden": "None",
+        "skin": "Medium — lighter than Søren, warmer than Ruth", "freckles": "Yes — from Sam, softer than Wrench's", "notable": "Glasses, warm open kind face",
+        "fromMum": "Brown wavy hair, hazel eyes", "fromDad": "Freckles, black hair recessive", "notes": "Married into Frisbee — Liv Hill → Liv Frisbee. Best surname wins!"
+      },
+      "parents": ["sam", "ruth"], "partners": [{ "id": "fourth", "status": "Engaged", "bolts": null }],
+      "relationships": [
+        { "id": "soren", "type": "Sibling", "bolts": null, "notes": "Brother" },
+        { "id": "wrench", "type": "Sibling", "bolts": null, "notes": "Brother" },
+        { "id": "fourth", "type": "Fiancé", "bolts": null, "notes": "Fell in love on the couch at the Pebble House. Midnight New Year's kiss. He proposed at the teal arched door." },
+        { "id": "iris", "type": "Best Friend", "bolts": null, "notes": "Met at the park. Chess." },
+        { "id": "awiddle", "type": "Best Friend", "bolts": null, "notes": "Lives together!" }
+      ],
+      "lockedWants": ["Get married to Fourth", "BFF with Idris"],
+      "fears": [],
+      "car": "1976 Ford Mustang (still to buy)", "carNotes": "",
+      "moments": [
+        { "rotation": "R3", "event": "Fell in love with Fourth at the Pebble House", "notes": "Midnight New Year's kiss." },
+        { "rotation": "R4", "event": "Executive Level 5", "notes": "Her own office with a door that closes." },
+        { "rotation": "R4", "event": "ENGAGED to Fourth", "notes": "He proposed at the teal arched door in his best suit. She said YES!" }
+      ]
+    },
+    {
+      "id": "cassian", "kind": "sim", "name": "Cassian Hill", "display": "Cassian", "emoji": "👽",
+      "family": "hill", "household": "storm_and_wrench", "preMarriageName": "", "lifeStage": "Toddler", "daysRemaining": null, "generation": "Gen 1.5",
+      "photo": null,
+      "aspiration": "", "secondaryAspiration": "", "lifetimeWant": "", "starSign": "",
+      "personality": { "neat": 3, "outgoing": 3, "active": 10, "playful": 10, "nice": 0 },
+      "turnOn1": "", "turnOn2": "", "turnOff": "", "oth": "Sports or Fitness (predicted)", "bodyFrame": "",
+      "career": { "track": "", "level": null, "levelName": "", "top": "", "degree": "" },
+      "skills": { "cooking": 0, "mechanical": 0, "charisma": 0, "body": 0, "logic": 0, "creativity": 0, "cleaning": 0 },
+      "genetics": {
+        "hairVisible": "BROWN CURLS (Ruth's recessive expressing!)", "hairHidden": "", "eyesVisible": "", "eyesHidden": "",
+        "skin": "Green — fully alien (P.T. 83's gene)", "freckles": "", "notable": "Little green face, space-print top, yellow dungarees",
+        "fromMum": "Green alien skin (P.T. 83)", "fromDad": "Brown curls (Søren's hidden Ruth recessive)", "notes": "Ruth Hill's recessive brown-hair gene expressing itself on a small green toddler. Active 10, Playful 10, Nice 0 — the complete opposite of Søren."
+      },
+      "parents": ["soren", "ptn83"], "partners": [],
+      "relationships": [
+        { "id": "soren", "type": "Father", "bolts": null, "notes": "Held him in the blue knit vest." },
+        { "id": "ptn83", "type": "Other parent", "bolts": null, "notes": "Lives in space. Pays child support on time." },
+        { "id": "wrench", "type": "Uncle", "bolts": null, "notes": "Held him during the kitchen fire." }
+      ],
+      "lockedWants": [], "fears": [],
+      "car": "", "carNotes": "",
+      "moments": [
+        { "rotation": "R3", "event": "Born", "notes": "Day 3, under the UFO light." },
+        { "rotation": "R4", "event": "Aged up to Toddler", "notes": "Kitchen fire happening simultaneously. Classic Storm and Wrench." }
+      ]
+    },
+    {
+      "id": "awiddle", "kind": "sim", "name": "AWiddleFrisbee", "display": "AWiddleFrisbee", "emoji": "🍊",
+      "family": "frisbee", "household": "the_flat", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Popularity", "secondaryAspiration": "Pleasure (hoped)", "lifetimeWant": "Become Prestidigitator", "starSign": "Libra",
+      "personality": { "neat": 1, "outgoing": 6, "active": 2, "playful": 9, "nice": 7 },
+      "turnOn1": "Cologne", "turnOn2": "Robots", "turnOff": "Good at cleaning", "oth": "Nature", "bodyFrame": "Female",
+      "career": { "track": "Entertainment", "level": 5, "levelName": "Ventriloquist", "top": "Prestidigitator", "degree": "Drama" },
+      "skills": { "cooking": 0, "mechanical": 0, "charisma": 1, "body": 0, "logic": 0, "creativity": 3, "cleaning": 0 },
+      "genetics": {
+        "hairVisible": "Brown, long", "hairHidden": "Ginger (recessive, from Dennis)", "eyesVisible": "Green (from Janet)", "eyesHidden": "None",
+        "skin": "Pale (from Janet)", "freckles": "Yes — from Dennis", "notable": "Round glasses, round face (Janet's), that little knowing smile",
+        "fromMum": "Green eyes, round face, pale skin", "fromDad": "Ginger recessive, freckles", "notes": "Her actual real hair in real life. Carries the ginger gene."
+      },
+      "parents": ["dennis", "janet"], "partners": [{ "id": "armando", "status": "Romantic", "bolts": 2 }],
+      "relationships": [
+        { "id": "fourth", "type": "Sibling", "bolts": null, "notes": "Her brother! About to find out he's engaged to her best friend!" },
+        { "id": "stillhere", "type": "Sibling", "bolts": null, "notes": "Best friends!" },
+        { "id": "liv", "type": "Best Friend", "bolts": null, "notes": "Lives together." },
+        { "id": "iris", "type": "Best Friend", "bolts": null, "notes": "🌈" },
+        { "id": "wrench", "type": "Best Friend", "bolts": null, "notes": "" },
+        { "id": "armando", "type": "Romantic", "bolts": 2, "notes": "Eye-print shirt! Kissed and woohooed the same day they met. Spring." }
+      ],
+      "lockedWants": ["BFF with Wrench", "Become a werewolf", "BFF with Idris"],
+      "fears": [],
+      "car": "Teal flame Nissan Skyline", "carNotes": "",
+      "moments": [
+        { "rotation": "R3", "event": "Nature OTH confirmed", "notes": "After pottery, easels, telescopes, computers and electrocution." },
+        { "rotation": "R4", "event": "Ventriloquist Level 5", "notes": "Has a dummy. Nobody knew." },
+        { "rotation": "R4", "event": "Armando Cox in the eye-print shirt", "notes": "2 bolts. Same day they met." }
+      ]
+    },
+    {
+      "id": "fourth", "kind": "sim", "name": "Fourth Frisbee", "display": "Fourth", "emoji": "📜",
+      "family": "frisbee", "household": "pebble_house", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Knowledge", "secondaryAspiration": "Fortune (hoped)", "lifetimeWant": "Max Out 7 Skills", "starSign": "Virgo",
+      "personality": { "neat": 9, "outgoing": 4, "active": 4, "playful": 2, "nice": 6 },
+      "turnOn1": "Logic skill", "turnOn2": "Good at cleaning", "turnOff": "Stinkiness", "oth": "Science", "bodyFrame": "Male",
+      "career": { "track": "Law", "level": 4, "levelName": "Legal Biller", "top": "The Law", "degree": "Political Science" },
+      "skills": { "cooking": 0, "mechanical": 0, "charisma": 1, "body": 0, "logic": 2, "creativity": 2, "cleaning": 3 },
+      "genetics": {
+        "hairVisible": "Brown, neat and controlled (short, deliberately placed)", "hairHidden": "Ginger (recessive, from Dennis)", "eyesVisible": "Pistachio / olive green (from Janet)", "eyesHidden": "None",
+        "skin": "Slight golden tan (mix of both parents)", "freckles": "No (controlled)", "notable": "Gold round glasses, perfect handwriting, evaluating expression",
+        "fromMum": "Green eyes", "fromDad": "Ginger recessive, golden skin", "notes": "Neat 9 starts with the hair."
+      },
+      "parents": ["dennis", "janet"], "partners": [{ "id": "liv", "status": "Engaged", "bolts": null }],
+      "relationships": [
+        { "id": "stillhere", "type": "Sibling", "bolts": null, "notes": "They live together. Fourth organises; Still-Here undoes it." },
+        { "id": "awiddle", "type": "Sibling", "bolts": null, "notes": "She knows now!" },
+        { "id": "liv", "type": "Fiancée", "bolts": null, "notes": "He fell in love in pyjamas and proposed in his best suit." },
+        { "id": "kareem", "type": "Best Friend", "bolts": null, "notes": "In The Golden Anchor on a Sunday." },
+        { "id": "footnote", "type": "Pet", "bolts": null, "notes": "His cat in his form. Witnessed the proposal." },
+        { "id": "clara", "type": "Acquaintance", "bolts": 2, "notes": "2 bolts but he won't talk to her — he loves Sim Liv." }
+      ],
+      "lockedWants": ["Get married to Sim Liv"],
+      "fears": [],
+      "car": "1970 Plymouth Sport Fury", "carNotes": "",
+      "moments": [
+        { "rotation": "R3", "event": "Fell in love with Sim Liv", "notes": "Couch, pyjamas, cloud watching." },
+        { "rotation": "R3", "event": "Adopted Footnote", "notes": "Held up like Simba." },
+        { "rotation": "R4", "event": "Proposed to Sim Liv at the teal arched door", "notes": "In his proper clothes. She said YES!" }
+      ]
+    },
+    {
+      "id": "stillhere", "kind": "sim", "name": "Still-Here Frisbee", "display": "Still-Here", "emoji": "🪨",
+      "family": "frisbee", "household": "pebble_house", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Pleasure", "secondaryAspiration": "Popularity", "lifetimeWant": "Become a Professional Party Guest (Grilled Cheese hoped!)", "starSign": "Taurus",
+      "personality": { "neat": 2, "outgoing": 6, "active": 4, "playful": 10, "nice": 3 },
+      "turnOn1": "Cologne", "turnOn2": "Great dancer", "turnOff": "Good at cleaning", "oth": "", "bodyFrame": "Female",
+      "career": { "track": "Slacker", "level": 5, "levelName": "Party DJ", "top": "Professional Party Guest", "degree": "Psychology" },
+      "skills": { "cooking": 0, "mechanical": 3, "charisma": 2, "body": 0, "logic": 0, "creativity": 1, "cleaning": 0 },
+      "genetics": {
+        "hairVisible": "Brown curly (purple bandana headband)", "hairHidden": "Ginger (recessive, from Dennis)", "eyesVisible": "Brown", "eyesHidden": "Green (recessive, from Janet)",
+        "skin": "Golden tan (most golden of the siblings, from Dennis)", "freckles": "Yes", "notable": "Gold hoop earring, the almost-smile, the clown suit",
+        "fromMum": "Hidden green eyes", "fromDad": "Golden skin, ginger recessive, freckles", "notes": "Most hidden genes of the Frisbees — ginger AND green both recessive. Non-binary in Sunnyside lore (they/them); female in game (Sims 2 limitation)."
+      },
+      "parents": ["dennis", "janet"], "partners": [{ "id": "benjamin", "status": "In love", "bolts": 0 }],
+      "relationships": [
+        { "id": "fourth", "type": "Sibling", "bolts": null, "notes": "They live together." },
+        { "id": "awiddle", "type": "Sibling", "bolts": null, "notes": "Best friends!" },
+        { "id": "benjamin", "type": "In love", "bolts": 0, "notes": "Zero bolts, in love anyway. Dream date at The Golden Anchor. Gremlin woohoo." },
+        { "id": "barnacle", "type": "Pet", "bolts": null, "notes": "Best friends. Rule the house together." }
+      ],
+      "lockedWants": [],
+      "fears": [],
+      "car": "The Gremlin", "carNotes": "White car with a screaming face. Scene of the dream-date woohoo.",
+      "moments": [
+        { "rotation": "R3", "event": "New Year's Bash", "notes": "Father Time attended and did contemporary dance." },
+        { "rotation": "R4", "event": "Dream date at The Golden Anchor with Benjamin", "notes": "The Gremlin woohoo! Zero bolts, in love anyway." }
+      ]
+    },
+    {
+      "id": "idris", "kind": "sim", "name": "Idris Okafor", "display": "Idris", "emoji": "🌺",
+      "family": "okafor", "household": "pressed_flowers", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Popularity", "secondaryAspiration": "", "lifetimeWant": "20 Best Friends", "starSign": "Aries",
+      "personality": { "neat": 4, "outgoing": 8, "active": 5, "playful": 4, "nice": 4 },
+      "turnOn1": "Logic", "turnOn2": "Cologne", "turnOff": "Stinkiness", "oth": "Music & Dance", "bodyFrame": "Male",
+      "career": { "track": "Medicine", "level": 3, "levelName": "", "top": "Chief of Staff", "degree": "History" },
+      "skills": { "cooking": 0, "mechanical": 0, "charisma": 0, "body": 0, "logic": 2, "creativity": 0, "cleaning": 3 },
+      "genetics": {
+        "hairVisible": "Dark natural coils (big and beautiful)", "hairHidden": "None", "eyesVisible": "Warm dark brown", "eyesHidden": "Hazel (recessive)",
+        "skin": "Warm deep brown — West African heritage", "freckles": "No", "notable": "The warmest smile in any room",
+        "fromMum": "", "fromDad": "", "notes": "Carries hazel eyes recessive. Love interest unresolved — potential bolts with Søren (logical) and AWiddleFrisbee (cologne)."
+      },
+      "parents": [], "partners": [],
+      "relationships": [
+        { "id": "clara", "type": "Housemate", "bolts": null, "notes": "Moved to Sunnyside together. Clara's house long term." },
+        { "id": "pepper", "type": "Pet", "bolts": null, "notes": "Pepper adopted him as her favourite person while officially being Clara's cat." }
+      ],
+      "lockedWants": ["Be friends with Wrench"],
+      "fears": [],
+      "car": "Red car", "carNotes": "Warm and noticeable. Always giving people lifts.",
+      "moments": [
+        { "rotation": "R1", "event": "On The Golden Anchor stage", "notes": "Sang his heart out, one arm raised. Music & Dance OTH discovered. Nobody asked." }
+      ]
+    },
+    {
+      "id": "clara", "kind": "sim", "name": "Clara Vance", "display": "Clara", "emoji": "🌸",
+      "family": "vance", "household": "pressed_flowers", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Family", "secondaryAspiration": "Knowledge", "lifetimeWant": "Raise 20 Puppies or Kittens", "starSign": "Cancer",
+      "personality": { "neat": 7, "outgoing": 3, "active": 5, "playful": 3, "nice": 7 },
+      "turnOn1": "Logic", "turnOn2": "Cleaning skill", "turnOff": "Stinkiness", "oth": "", "bodyFrame": "Female",
+      "career": { "track": "Natural Science", "level": 2, "levelName": "", "top": "Ecological Guru", "degree": "Biology" },
+      "skills": { "cooking": 0, "mechanical": 0, "charisma": 0, "body": 2, "logic": 0, "creativity": 0, "cleaning": 0 },
+      "genetics": {
+        "hairVisible": "Dark, straight, neat (with headband)", "hairHidden": "Ginger (recessive)", "eyesVisible": "Dark (dominant)", "eyesHidden": "Green (recessive)",
+        "skin": "Warm golden brown — mixed South Asian and English heritage", "freckles": "No", "notable": "Composed and still",
+        "fromMum": "", "fromDad": "", "notes": "Carries green eyes AND ginger hair recessives — Hill/Frisbee-style surprises possible. Romance unresolved: 3 bolts with Søren; theory says her person is Theo (arriving R5)."
+      },
+      "parents": [], "partners": [{ "id": "soren", "status": "Crush (Sunnyside deciding)", "bolts": 3 }],
+      "relationships": [
+        { "id": "idris", "type": "Housemate", "bolts": null, "notes": "Moved to Sunnyside together. Her house long term." },
+        { "id": "soren", "type": "Crush", "bolts": 3, "notes": "Three bolts! Same Cancer sign. Kissed on the porch. Letting Sunnyside decide." },
+        { "id": "pepper", "type": "Pet", "bolts": null, "notes": "Her cat — but Pepper adopted Idris as her favourite person." }
+      ],
+      "lockedWants": ["Fall in love"],
+      "fears": [],
+      "car": "Cream/gold car", "carNotes": "Sensible. Field guide in the back.",
+      "moments": [
+        { "rotation": "R1", "event": "Planted seeds in the vegetable patches", "notes": "First thing she grew in Sunnyside." },
+        { "rotation": "R4", "event": "Three bolts with Søren", "notes": "Kiss on the porch. Spring." }
+      ]
+    },
+
+    {
+      "id": "andrea", "kind": "sim", "name": "Andrea Hill", "display": "Andrea", "emoji": "💍",
+      "family": "townie", "household": "storm_and_wrench", "preMarriageName": "Andrea Hogan", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "Fortune", "secondaryAspiration": "", "lifetimeWant": "", "starSign": "Capricorn",
+      "personality": { "neat": null, "outgoing": null, "active": null, "playful": null, "nice": null },
+      "turnOn1": "", "turnOn2": "", "turnOff": "", "oth": "", "bodyFrame": "Female",
+      "career": { "track": "Slacker", "level": 6, "levelName": "Projectionist", "top": "", "degree": "" },
+      "skills": { "cooking": 0, "mechanical": 0, "charisma": 0, "body": 0, "logic": 0, "creativity": 0, "cleaning": 0 },
+      "genetics": {
+        "hairVisible": "Braided bun", "hairHidden": "", "eyesVisible": "Green", "eyesHidden": "",
+        "skin": "Warm deep brown", "freckles": "", "notable": "Yellow dress",
+        "fromMum": "", "fromDad": "", "notes": "Townie who married into the Hill family (best surname wins). Andrea Hogan → Andrea Hill."
+      },
+      "parents": [], "partners": [{ "id": "wrench", "status": "Engaged", "bolts": 2 }],
+      "relationships": [
+        { "id": "wrench", "type": "Fiancé", "bolts": 2, "notes": "She always knew. Her feet left the ground." },
+        { "id": "awiddle", "type": "Best Friend", "bolts": null, "notes": "" }
+      ],
+      "lockedWants": [], "fears": [],
+      "car": "", "carNotes": "",
+      "moments": []
+    },
+    {
+      "id": "armando", "kind": "sim", "name": "Armando Cox", "display": "Armando", "emoji": "👁️",
+      "family": "townie", "household": "", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "", "secondaryAspiration": "", "lifetimeWant": "", "starSign": "",
+      "personality": { "neat": null, "outgoing": null, "active": null, "playful": null, "nice": null },
+      "turnOn1": "", "turnOn2": "", "turnOff": "", "oth": "", "bodyFrame": "Male",
+      "career": { "track": "", "level": null, "levelName": "", "top": "", "degree": "" },
+      "skills": { "cooking": 0, "mechanical": 0, "charisma": 0, "body": 0, "logic": 0, "creativity": 0, "cleaning": 0 },
+      "genetics": { "hairVisible": "", "hairHidden": "", "eyesVisible": "Grey/green", "eyesHidden": "", "skin": "Dark", "freckles": "", "notable": "Moustache, eye-print shirt", "fromMum": "", "fromDad": "", "notes": "Townie — AWiddleFrisbee's romantic interest." },
+      "parents": [], "partners": [{ "id": "awiddle", "status": "Romantic", "bolts": 2 }],
+      "relationships": [{ "id": "awiddle", "type": "Romantic", "bolts": 2, "notes": "Eye-print shirt. Kissed and woohooed same day they met." }],
+      "lockedWants": [], "fears": [], "car": "", "carNotes": "", "moments": []
+    },
+    {
+      "id": "benjamin", "kind": "sim", "name": "Benjamin Kirby", "display": "Benjamin", "emoji": "💕",
+      "family": "townie", "household": "", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "", "secondaryAspiration": "", "lifetimeWant": "", "starSign": "",
+      "personality": { "neat": null, "outgoing": null, "active": null, "playful": null, "nice": null },
+      "turnOn1": "", "turnOn2": "", "turnOff": "", "oth": "", "bodyFrame": "Male",
+      "career": { "track": "", "level": null, "levelName": "", "top": "", "degree": "" },
+      "skills": { "cooking": 0, "mechanical": 0, "charisma": 0, "body": 0, "logic": 0, "creativity": 0, "cleaning": 0 },
+      "genetics": { "hairVisible": "Ginger", "hairHidden": "", "eyesVisible": "Green", "eyesHidden": "", "skin": "", "freckles": "", "notable": "Yellow striped jacket", "fromMum": "", "fromDad": "", "notes": "Townie — Still-Here's love. Zero bolts, in love anyway." },
+      "parents": [], "partners": [{ "id": "stillhere", "status": "In love", "bolts": 0 }],
+      "relationships": [{ "id": "stillhere", "type": "In love", "bolts": 0, "notes": "Dream date at The Golden Anchor. Gremlin woohoo." }],
+      "lockedWants": [], "fears": [], "car": "", "carNotes": "", "moments": []
+    },
+    {
+      "id": "ptn83", "kind": "sim", "name": "P.T. 83", "display": "P.T. 83", "emoji": "👽",
+      "family": "townie", "household": "", "preMarriageName": "", "lifeStage": "Adult", "daysRemaining": null, "generation": "Gen 0",
+      "photo": null,
+      "aspiration": "", "secondaryAspiration": "", "lifetimeWant": "", "starSign": "",
+      "personality": { "neat": null, "outgoing": null, "active": null, "playful": null, "nice": null },
+      "turnOn1": "", "turnOn2": "", "turnOff": "", "oth": "", "bodyFrame": "Male",
+      "career": { "track": "", "level": null, "levelName": "", "top": "", "degree": "" },
+      "skills": { "cooking": 0, "mechanical": 0, "charisma": 0, "body": 0, "logic": 0, "creativity": 0, "cleaning": 0 },
+      "genetics": { "hairVisible": "", "hairHidden": "", "eyesVisible": "Large alien", "eyesHidden": "", "skin": "Green (alien)", "freckles": "", "notable": "Lives in space", "fromMum": "", "fromDad": "", "notes": "Alien co-parent of Cassian. Pays child support promptly. Responsible co-parent from space." },
+      "parents": [], "partners": [],
+      "relationships": [
+        { "id": "soren", "type": "Co-parent", "bolts": null, "notes": "Abducted Søren." },
+        { "id": "cassian", "type": "Child", "bolts": null, "notes": "Pays §200 child support promptly." }
+      ],
+      "lockedWants": [], "fears": [], "car": "", "carNotes": "", "moments": []
+    }
+  ],
+  "pets": [
+    { "id": "marigold", "name": "Marigold", "emoji": "🐱", "species": "Cat", "breed": "Ginger tabby", "ownerId": "iris", "household": "sunshine_cottage", "starSign": "Virgo", "collar": "Rainbow", "personality": ["Chaos gremlin with a soft heart"], "kibbled": true, "kibbledNote": "Five days younger", "petBestFriend": true, "petBestFriendNote": "1/20", "photo": null, "moments": [ { "event": "Slept through the kitchen fire", "notes": "Completely unbothered" }, { "event": "Learned to use the toilet on engagement day", "notes": "Celebrating in her own way" } ] },
+    { "id": "mira", "name": "Mira", "emoji": "🐱", "species": "Cat", "breed": "Egyptian Mau (silver spotted)", "ownerId": "kareem", "household": "music_room", "starSign": "", "collar": "", "personality": ["Genius (max)", "Lazy (max)", "Friendly (middle)", "Finicky (max)"], "kibbled": false, "kibbledNote": "", "petBestFriend": false, "petBestFriendNote": "Pending — 2/20 when Kareem moves in", "photo": null, "moments": [ { "event": "Dreamed about Kareem on their first night", "notes": "He dreamed about her too." } ] },
+    { "id": "immanuel", "name": "Immanuel", "emoji": "😤", "species": "Cat", "breed": "Grey British Shorthair", "ownerId": "soren", "household": "storm_and_wrench", "starSign": "", "collar": "", "personality": ["Judgmental", "Permanently unimpressed"], "kibbled": false, "kibbledNote": "", "petBestFriend": false, "petBestFriendNote": "", "photo": null, "moments": [ { "event": "Allowed Søren to smooch him on move-in day", "notes": "Highest honour" }, { "event": "Too busy watching the fish to notice Cassian's birthday", "notes": "Classic Immanuel" } ] },
+    { "id": "hugo", "name": "Hugo", "emoji": "🐕", "species": "Dog", "breed": "Springer spaniel", "ownerId": "awiddle", "household": "the_flat", "starSign": "Libra", "collar": "", "personality": ["Friendly (max)", "Hyper (max)", "Pigpen (max)", "Doofus (max)"], "kibbled": false, "kibbledNote": "", "petBestFriend": false, "petBestFriendNote": "", "photo": null, "moments": [ { "event": "Rolled in his own wee", "notes": "Then got a bath before work" }, { "event": "Witnessed AWiddleFrisbee and Armando's woohoo", "notes": "Has seen things" } ] },
+    { "id": "footnote", "name": "Footnote", "emoji": "🖤", "species": "Cat", "breed": "Black (grey in some notes!)", "ownerId": "fourth", "household": "pebble_house", "starSign": "", "collar": "", "personality": ["Genius", "Independent", "Finicky"], "kibbled": false, "kibbledNote": "", "petBestFriend": false, "petBestFriendNote": "", "photo": null, "moments": [ { "event": "Witnessed the proposal from the bookshelf", "notes": "Has filed the information." } ] },
+    { "id": "barnacle", "name": "Barnacle", "emoji": "🦜", "species": "Parrot", "breed": "Parrot", "ownerId": "stillhere", "household": "pebble_house", "starSign": "", "collar": "", "personality": ["Rules everything", "Has opinions"], "kibbled": false, "kibbledNote": "", "petBestFriend": false, "petBestFriendNote": "", "photo": null, "moments": [ { "event": "Witnessed the proposal from the window", "notes": "Has extensive thoughts." } ] },
+    { "id": "pepper", "name": "Pepper", "emoji": "🐱", "species": "Cat", "breed": "Tortoiseshell", "ownerId": "clara", "household": "pressed_flowers", "starSign": "", "collar": "", "personality": ["Genius (max)", "Hyper (max)", "Friendly (middle)", "Vocal (max)"], "kibbled": false, "kibbledNote": "", "petBestFriend": false, "petBestFriendNote": "", "photo": null, "moments": [ { "event": "Yowled at the oven on Day 1", "notes": "The oven has done nothing." }, { "event": "Destroyed the cat tree", "notes": "Like it had personally offended her." } ] }
+  ]
+}

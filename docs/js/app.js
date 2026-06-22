@@ -1,0 +1,138 @@
+// App entry point: header, family tabs, search, household toggle, settings, and wiring.
+
+import { store } from './store.js';
+import { gh } from './github.js';
+import { renderTree, renderHouseholds } from './tree.js';
+import { openProfile } from './profile.js';
+
+let current = { view: 'tree', family: 'rainbow' };
+
+const el = (id) => document.getElementById(id);
+
+async function boot() {
+  try {
+    await store.load();
+  } catch (e) {
+    el('stage').innerHTML = `<div class="error">Couldn't load Sunnyside data.<br><small>${e.message}</small></div>`;
+    return;
+  }
+  buildTabs();
+  buildSearch();
+  bindControls();
+  render();
+  updateStatus();
+
+  window.addEventListener('open-node', (e) => openProfile(e.detail.id));
+  window.addEventListener('data-updated', () => { render(); buildSearch(); });
+  store.onChange(updateStatus);
+}
+
+function buildTabs() {
+  const tabs = el('tabs');
+  tabs.innerHTML = '';
+  store.data.families.forEach(f => {
+    if (!store.data.people.some(p => p.family === f.id)) return;
+    const b = document.createElement('button');
+    b.className = 'tab';
+    b.style.setProperty('--c', f.colour);
+    b.innerHTML = `${f.emoji || ''} ${f.name}`;
+    b.dataset.family = f.id;
+    b.addEventListener('click', () => { current = { view: 'tree', family: f.id }; render(); });
+    tabs.appendChild(b);
+  });
+}
+
+function render() {
+  // Active states.
+  document.querySelectorAll('.tab').forEach(t =>
+    t.classList.toggle('active', current.view === 'tree' && t.dataset.family === current.family));
+  el('btnHouseholds').classList.toggle('active', current.view === 'households');
+
+  const stage = el('stage');
+  if (current.view === 'households') { renderHouseholds(stage); return; }
+  renderTree(stage, current.family);
+}
+
+function buildSearch() {
+  const all = [...store.data.people, ...store.data.pets];
+  const list = el('searchList');
+  list.innerHTML = all.map(n =>
+    `<button class="search-item" data-id="${n.id}">${n.emoji || '👤'} ${escapeHtml(n.display || n.name)}
+      <small>${escapeHtml((store.family(n.family) || {}).name || (n.ownerId ? 'pet' : ''))}</small></button>`).join('');
+  list.querySelectorAll('.search-item').forEach(b =>
+    b.addEventListener('click', () => { openProfile(b.dataset.id); closeSearch(); }));
+}
+
+function filterSearch(q) {
+  q = q.toLowerCase();
+  el('searchList').querySelectorAll('.search-item').forEach(b => {
+    b.style.display = b.textContent.toLowerCase().includes(q) ? '' : 'none';
+  });
+}
+
+function openSearch() { el('searchOverlay').classList.add('open'); el('searchInput').value = ''; filterSearch(''); el('searchInput').focus(); }
+function closeSearch() { el('searchOverlay').classList.remove('open'); }
+
+function bindControls() {
+  el('btnHouseholds').addEventListener('click', () => { current.view = current.view === 'households' ? 'tree' : 'households'; render(); });
+  el('btnSearch').addEventListener('click', openSearch);
+  el('searchInput').addEventListener('input', (e) => filterSearch(e.target.value));
+  el('searchOverlay').addEventListener('click', (e) => { if (e.target === el('searchOverlay')) closeSearch(); });
+  el('btnZoomIn').addEventListener('click', () => stageSvg()?._zoom(1));
+  el('btnZoomOut').addEventListener('click', () => stageSvg()?._zoom(-1));
+  el('btnZoomReset').addEventListener('click', () => stageSvg()?._reset());
+  el('btnSettings').addEventListener('click', openSettings);
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { closeSearch(); el('settingsOverlay').classList.remove('open'); }
+    if ((e.key === '/' || (e.key === 'k' && (e.metaKey || e.ctrlKey))) && !/input|textarea|select/i.test(document.activeElement.tagName)) {
+      e.preventDefault(); openSearch();
+    }
+  });
+}
+
+const stageSvg = () => el('stage').querySelector('svg');
+
+function updateStatus() {
+  const s = el('saveStatus');
+  if (!gh.configured) { s.textContent = '○ Read-only (no token)'; s.className = 'status readonly'; return; }
+  if (store.dirty) { s.textContent = '● Unsaved…'; s.className = 'status dirty'; return; }
+  s.textContent = '● Auto-saving to GitHub'; s.className = 'status saved';
+}
+
+// ---------- Settings / token ----------------------------------------------
+function openSettings() {
+  const o = el('settingsOverlay');
+  o.classList.add('open');
+  el('setRepo').value = gh.repo;
+  el('setBranch').value = gh.branch;
+  el('setToken').value = gh.token;
+  el('setMsg').textContent = '';
+}
+
+function bindSettings() {
+  el('settingsOverlay').addEventListener('click', (e) => { if (e.target === el('settingsOverlay')) el('settingsOverlay').classList.remove('open'); });
+  el('setCancel').addEventListener('click', () => el('settingsOverlay').classList.remove('open'));
+  el('setSave').addEventListener('click', async () => {
+    gh.repo = el('setRepo').value;
+    gh.branch = el('setBranch').value;
+    gh.token = el('setToken').value;
+    const msg = el('setMsg');
+    if (!gh.token) { msg.textContent = 'Saved (read-only — no token set).'; updateStatus(); return; }
+    msg.textContent = 'Checking token…';
+    try {
+      await gh.verify();
+      msg.textContent = '✓ Connected! Reloading latest data…';
+      await store.load();
+      buildTabs(); buildSearch(); render(); updateStatus();
+      setTimeout(() => el('settingsOverlay').classList.remove('open'), 900);
+    } catch (e) {
+      msg.textContent = '✗ ' + e.message;
+    }
+  });
+}
+
+const escapeHtml = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+bindSettings();
+boot();

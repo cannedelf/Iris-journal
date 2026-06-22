@@ -1,0 +1,140 @@
+// The data store: loads Sunnyside data, holds it in memory, and saves it back.
+//
+// Load order:
+//   1. GitHub (live, via the Contents API) if a token is configured — always freshest, gives us the file SHA.
+//   2. The committed data file fetched over the network (read-only fallback, no token).
+//   3. A local cache in localStorage (offline / unsaved edits).
+//
+// Save: writes to GitHub when a token is set (auto-save), and always keeps a local cache
+// so nothing is lost between sessions even before a save.
+
+import { gh, toBase64 } from './github.js';
+
+const DATA_PATH = 'docs/data/sunnyside.json';
+const PHOTO_DIR = 'docs/photos';
+const LS_CACHE = 'sunnyside.cache';
+const LS_DIRTY = 'sunnyside.dirty';
+
+export const store = {
+  data: null,
+  sha: null,          // GitHub blob SHA of the data file (needed to update it)
+  source: 'none',     // where the current data came from
+  dirty: false,       // unsaved changes exist
+
+  listeners: new Set(),
+  onChange(fn) { this.listeners.add(fn); return () => this.listeners.delete(fn); },
+  _emit() { this.listeners.forEach(fn => fn()); },
+
+  async load() {
+    // Try GitHub first if configured (gives us the SHA for future saves).
+    if (gh.configured) {
+      try {
+        const file = await gh.getFile(DATA_PATH);
+        if (file) {
+          this.data = JSON.parse(file.contentText);
+          this.sha = file.sha;
+          this.source = 'github';
+          this._mergeDirtyCache();
+          this._emit();
+          return;
+        }
+      } catch (e) {
+        console.warn('GitHub load failed, falling back:', e);
+      }
+    }
+    // Fallback: fetch the committed file over the network (read-only without a token).
+    try {
+      const res = await fetch(`./data/sunnyside.json?_=${Date.now()}`);
+      if (res.ok) {
+        this.data = await res.json();
+        this.source = gh.configured ? 'github' : 'readonly';
+        this._mergeDirtyCache();
+        this._emit();
+        return;
+      }
+    } catch (e) {
+      console.warn('Network load failed:', e);
+    }
+    // Last resort: local cache.
+    const cached = localStorage.getItem(LS_CACHE);
+    if (cached) {
+      this.data = JSON.parse(cached);
+      this.source = 'cache';
+      this.dirty = localStorage.getItem(LS_DIRTY) === '1';
+      this._emit();
+      return;
+    }
+    throw new Error('Could not load Sunnyside data from GitHub, network, or cache.');
+  },
+
+  // If we have newer unsaved edits cached locally, prefer them over the freshly loaded copy.
+  _mergeDirtyCache() {
+    if (localStorage.getItem(LS_DIRTY) === '1') {
+      const cached = localStorage.getItem(LS_CACHE);
+      if (cached) {
+        this.data = JSON.parse(cached);
+        this.dirty = true;
+      }
+    }
+  },
+
+  // Mark data changed: cache locally immediately, then (if possible) auto-save to GitHub.
+  async commit(message = 'Update Sunnyside data') {
+    this.data.meta = this.data.meta || {};
+    this.data.meta.updated = new Date().toISOString().slice(0, 10);
+    localStorage.setItem(LS_CACHE, JSON.stringify(this.data));
+    localStorage.setItem(LS_DIRTY, '1');
+    this.dirty = true;
+    this._emit();
+
+    if (!gh.configured) return { saved: false, reason: 'no-token' };
+
+    try {
+      const json = JSON.stringify(this.data, null, 2);
+      this.sha = await gh.putFile(DATA_PATH, toBase64(json), message, this.sha);
+      this.dirty = false;
+      localStorage.setItem(LS_DIRTY, '0');
+      this._emit();
+      return { saved: true };
+    } catch (e) {
+      console.error('Auto-save failed:', e);
+      return { saved: false, reason: 'error', error: e };
+    }
+  },
+
+  // Upload a photo file to docs/photos and return its repo-relative path.
+  // Without a token we fall back to embedding a data URL on the record.
+  async savePhoto(id, dataUrl) {
+    const ext = (dataUrl.match(/^data:image\/(\w+);/) || [, 'png'])[1];
+    const base64 = dataUrl.split(',')[1];
+    const path = `${PHOTO_DIR}/${id}.${ext}`;
+    if (!gh.configured) return dataUrl; // embed inline when read-only
+    // Look up an existing sha so we can overwrite.
+    let sha = null;
+    try { const existing = await gh.getFile(path); sha = existing && existing.sha; } catch (_) {}
+    await gh.putFile(path, base64, `Add photo for ${id}`, sha);
+    return `photos/${id}.${ext}`;
+  },
+
+  // --- lookups -------------------------------------------------------------
+  person(id) { return this.data.people.find(p => p.id === id); },
+  pet(id) { return this.data.pets.find(p => p.id === id); },
+  node(id) { return this.person(id) || this.pet(id); },
+  family(id) { return this.data.families.find(f => f.id === id); },
+  household(id) { return this.data.households.find(h => h.id === id); },
+
+  childrenOf(id) { return this.data.people.filter(p => (p.parents || []).includes(id)); },
+  siblingsOf(person) {
+    if (!person.parents || !person.parents.length) return [];
+    return this.data.people.filter(p =>
+      p.id !== person.id && (p.parents || []).some(par => person.parents.includes(par)));
+  },
+  petsOf(id) { return this.data.pets.filter(p => p.ownerId === id); },
+
+  familyColour(id) {
+    const p = this.node(id);
+    if (!p) return '#a89f94';
+    const fam = this.family(p.family);
+    return fam ? fam.colour : '#a89f94';
+  }
+};
