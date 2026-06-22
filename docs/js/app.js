@@ -3,7 +3,7 @@
 import { store } from './store.js';
 import { gh } from './github.js';
 import { renderTree, renderHouseholds, getColourMode, setColourMode } from './tree.js';
-import { openProfile, openNewSim, openNewPet } from './profile.js';
+import { openProfile, openNewSim, openNewPet, openNewHousehold, openHousehold } from './profile.js';
 import { SIM_TYPES } from './constants.js';
 
 let current = { view: 'tree', family: 'rainbow' };
@@ -26,6 +26,7 @@ async function boot() {
   updateColourUI();
 
   window.addEventListener('open-node', (e) => openProfile(e.detail.id));
+  window.addEventListener('open-household', (e) => openHousehold(e.detail.id));
   window.addEventListener('data-updated', () => { render(); buildSearch(); });
   store.onChange(updateStatus);
 }
@@ -88,6 +89,7 @@ function bindControls() {
   el('btnAdd').addEventListener('click', (e) => { e.stopPropagation(); el('addMenu').classList.toggle('open'); });
   el('addMenu').querySelector('[data-add-sim]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewSim(); });
   el('addMenu').querySelector('[data-add-pet]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewPet(); });
+  el('addMenu').querySelector('[data-add-hh]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewHousehold(); });
   document.addEventListener('click', (e) => { if (!e.target.closest('.add-wrap')) el('addMenu').classList.remove('open'); });
   el('searchInput').addEventListener('input', (e) => filterSearch(e.target.value));
   el('searchOverlay').addEventListener('click', (e) => { if (e.target === el('searchOverlay')) closeSearch(); });

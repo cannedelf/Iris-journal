@@ -45,6 +45,51 @@ function blankPet() {
 export function openNewSim() { const s = blankSim(); panel().classList.add('open'); panel().innerHTML = simEditor(s); wireEditor(s, false); }
 export function openNewPet() { const p = blankPet(); panel().classList.add('open'); panel().innerHTML = petEditor(p); wireEditor(p, true); }
 
+// ---------- households -----------------------------------------------------
+function householdEditor(h) {
+  return `<form class="editor" id="editForm">
+    <div class="editor-head"><h2>${h._isNew ? 'New household' : 'Edit ' + esc(h.name)}</h2>
+      <div class="editor-actions"><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save</button></div></div>
+    <fieldset><legend>🏠 Household</legend>
+      ${row('Name', textField('name', h.name, 'Sunshine Cottage'))}
+      ${row('Emoji', textField('emoji', h.emoji, '🏠'))}
+      ${row('Location', textField('location', h.location, 'Sunnyside, near the shops'))}
+      ${row('Key features', textField('features', h.features, 'Yellow door, art studio…'))}
+      ${row('Moved in', textField('movedIn', h.movedIn, 'e.g. 2026-06-07'))}
+    </fieldset>
+    <div class="editor-foot">${h._isNew ? '' : '<button type="button" data-delete-hh class="danger">🗑 Delete</button>'}<span class="spacer"></span><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save changes</button></div>
+  </form>`;
+}
+export function openNewHousehold() { const h = { id: uid('hh'), name: '', emoji: '🏠', location: '', features: '', movedIn: '', _isNew: true }; panel().classList.add('open'); panel().innerHTML = householdEditor(h); wireHouseholdEditor(h); }
+export function openHousehold(id) { const h = store.household(id); if (!h) return; panel().classList.add('open'); panel().innerHTML = householdEditor(h); wireHouseholdEditor(h); }
+
+function wireHouseholdEditor(h) {
+  const form = document.getElementById('editForm');
+  form.querySelectorAll('[data-cancel]').forEach(b => b.addEventListener('click', closePanel));
+  const del = form.querySelector('[data-delete-hh]');
+  if (del) del.addEventListener('click', async () => {
+    if (!confirm(`Delete the "${h.name}" household? The Sims aren't deleted — they're just left without a home set.`)) return;
+    store.deleteHousehold(h.id);
+    await store.commit(`Delete household ${h.name}`);
+    window.dispatchEvent(new CustomEvent('data-updated'));
+    closePanel();
+  });
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const btn = form.querySelector('button[type=submit]'); btn.disabled = true; btn.textContent = 'Saving…';
+    try {
+      const isNew = !!h._isNew;
+      h.name = val(form, 'name'); h.emoji = val(form, 'emoji'); h.location = val(form, 'location');
+      h.features = val(form, 'features'); h.movedIn = val(form, 'movedIn');
+      if (isNew) { delete h._isNew; store.data.households.push(h); }
+      const res = await store.commit(`${isNew ? 'Add' : 'Update'} household ${h.name || ''}`);
+      window.dispatchEvent(new CustomEvent('data-updated'));
+      closePanel();
+      if (!res.saved) flashSaveWarning(res.reason);
+    } catch (err) { alert('Could not save: ' + err.message); btn.disabled = false; btn.textContent = 'Save changes'; }
+  });
+}
+
 // ---------- shared bits ----------------------------------------------------
 function photoBlock(node) {
   const fam = store.family(node.family) || {};

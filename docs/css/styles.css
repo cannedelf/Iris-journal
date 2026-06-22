@@ -110,7 +110,9 @@ a { color: var(--green); }
 
 /* ---------- Households ---------- */
 .household-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; padding: 24px; overflow: auto; height: 100%; }
-.household-card { background: #fff; border: 1.5px solid var(--line); border-radius: var(--radius); padding: 16px 18px; box-shadow: var(--shadow); }
+.household-card { position: relative; background: #fff; border: 1.5px solid var(--line); border-radius: var(--radius); padding: 16px 18px; box-shadow: var(--shadow); }
+.hh-edit { position: absolute; top: 12px; right: 12px; border: 1.5px solid var(--line); background: #fff; border-radius: 9px; padding: 4px 9px; cursor: pointer; font-size: 13px; color: #8a5a1a; }
+.hh-edit:hover { background: var(--cream-2); }
 .household-card h3 { margin: 0 0 2px; }
 .household-loc { color: var(--ink-soft); font-size: 13px; margin: 0 0 10px; }
 .household-feat { color: #a4937a; font-size: 12px; margin: 10px 0 0; font-style: italic; }

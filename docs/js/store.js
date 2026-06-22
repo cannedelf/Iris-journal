@@ -130,6 +130,11 @@ export const store = {
     this.data.pets = this.data.pets.filter(p => p.id !== id);
     this.data.people.forEach(p => { if (p.relationships) p.relationships = p.relationships.filter(r => r.id !== id); });
   },
+  deleteHousehold(id) {
+    this.data.households = this.data.households.filter(h => h.id !== id);
+    this.data.people.forEach(p => { if (p.household === id) p.household = ''; });
+    this.data.pets.forEach(p => { if (p.household === id) p.household = ''; });
+  },
 
   // --- lookups -------------------------------------------------------------
   person(id) { return this.data.people.find(p => p.id === id); },

@@ -318,10 +318,15 @@ export function renderHouseholds(container) {
     const card = document.createElement('div');
     card.className = 'household-card';
     card.innerHTML = `
+      <button class="hh-edit" title="Edit household" data-edit-hh="${h.id}">✎</button>
       <h3>${h.emoji || '🏠'} ${h.name}</h3>
       <p class="household-loc">${h.location || ''}</p>
       <div class="household-members"></div>
       <p class="household-feat">${h.features || ''}</p>`;
+    card.querySelector('[data-edit-hh]').addEventListener('click', (e) => {
+      e.stopPropagation();
+      window.dispatchEvent(new CustomEvent('open-household', { detail: { id: h.id } }));
+    });
     const list = card.querySelector('.household-members');
     [...members, ...pets].forEach(m => {
       const chip = document.createElement('button');
