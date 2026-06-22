@@ -410,21 +410,24 @@
     {
       "id": "janet",
       "kind": "ancestor",
-      "yellowBow": true,
-      "name": "Janet Frisbee",
-      "display": "Janet Frisbee",
+      "yellowBow": false,
+      "name": "Frisbee Mum",
+      "display": "",
       "emoji": "🎀",
       "family": "frisbee",
       "generation": "Gen 0",
       "oneLiner": "Yellow bow club!! AWiddleFrisbee's round face comes from here!!",
       "genetics": {
         "hairVisible": "Brown (worn up with a yellow bow)",
+        "hairHidden": "Brown",
         "eyesVisible": "Green",
+        "eyesHidden": "Green",
         "skin": "Pale",
         "freckles": "No",
         "notable": "Round warm face",
-        "notes": "AWiddleFrisbee + Fourth get green eyes from here. AWiddleFrisbee's round face comes from here.",
-        "eyesHidden": ""
+        "fromMum": "",
+        "fromDad": "",
+        "notes": "AWiddleFrisbee + Fourth get green eyes from here. AWiddleFrisbee's round face comes from here."
       },
       "parents": [],
       "partners": [
@@ -433,7 +436,51 @@
           "status": "Married",
           "bolts": null
         }
-      ]
+      ],
+      "household": "",
+      "preMarriageName": "",
+      "lifeStage": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "adopted": false,
+      "aspiration": "",
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "starSign": "",
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "",
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
+      "career": {
+        "track": "",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {
+        "cooking": 0,
+        "mechanical": 0,
+        "charisma": 0,
+        "body": 0,
+        "logic": 0,
+        "creativity": 0,
+        "cleaning": 0
+      },
+      "car": "",
+      "carNotes": "",
+      "relationships": [],
+      "moments": [],
+      "lockedWants": [],
+      "fears": []
     },
     {
       "id": "kareemdad",
