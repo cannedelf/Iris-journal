@@ -261,7 +261,7 @@
       "id": "ruth",
       "kind": "ancestor",
       "yellowBow": true,
-      "name": "Ruth Hill",
+      "name": "Hill Mum",
       "display": "Ruth Hill",
       "emoji": "🧶",
       "family": "hill",
@@ -269,12 +269,15 @@
       "oneLiner": "Yellow bow club!! Brown waves hiding in Cassian!!",
       "genetics": {
         "hairVisible": "Gentle brown waves",
+        "hairHidden": "Brown",
         "eyesVisible": "Hazel Olive Green",
+        "eyesHidden": "Hazel Olive Green",
         "skin": "Pale",
         "freckles": "Yes — the source of the Hill freckle situation",
         "notable": "Round warm face, yellow bow",
-        "notes": "Liv and Wrench inherit most from Mum. Brown-hair + hazel-eye recessives surface later — brown curls expressed in green toddler Cassian!",
-        "eyesHidden": "Hazel Olive Green"
+        "fromMum": "",
+        "fromDad": "",
+        "notes": "Liv and Wrench inherit most from Mum. Brown-hair + hazel-eye recessives surface later — brown curls expressed in green toddler Cassian!"
       },
       "parents": [],
       "partners": [
@@ -283,7 +286,51 @@
           "status": "Married",
           "bolts": null
         }
-      ]
+      ],
+      "household": "",
+      "preMarriageName": "",
+      "lifeStage": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "adopted": false,
+      "aspiration": "",
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "starSign": "",
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "",
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
+      "career": {
+        "track": "",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {
+        "cooking": 0,
+        "mechanical": 0,
+        "charisma": 0,
+        "body": 0,
+        "logic": 0,
+        "creativity": 0,
+        "cleaning": 0
+      },
+      "car": "",
+      "carNotes": "",
+      "relationships": [],
+      "moments": [],
+      "lockedWants": [],
+      "fears": []
     },
     {
       "id": "dennis",
