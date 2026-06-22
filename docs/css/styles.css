@@ -32,7 +32,7 @@ a { color: var(--green); }
 }
 .brand { display: flex; align-items: center; gap: 10px; }
 .brand-emoji { font-size: 30px; }
-.brand h1 { margin: 0; font-size: 22px; color: #8a5a1a; }
+.brand h1 { margin: 0; font-family: 'Caveat', 'Segoe Script', cursive; font-size: 33px; font-weight: 700; color: #8a5a1a; line-height: .95; }
 .brand small { color: var(--ink-soft); font-size: 12px; }
 
 .tabs { display: flex; gap: 8px; flex: 1; flex-wrap: wrap; }
@@ -102,9 +102,10 @@ a { color: var(--green); }
 .node.ancestor .node-name { fill: #8c7f6c; }
 
 .edge { fill: none; stroke: #cdbb9c; stroke-width: 2; }
-.marriage { stroke: var(--pink); stroke-width: 2.5; }
-.marriage.strong { stroke-width: 3; filter: drop-shadow(0 0 3px #e58fb0); animation: marriageglow 2.4s ease-in-out infinite; }
-@keyframes marriageglow { 0%,100% { opacity: .7; } 50% { opacity: 1; } }
+.marriage { stroke: var(--pink); stroke-width: 2; }
+.marriage.engaged { stroke-width: 2.5; stroke-dasharray: 3 4; filter: drop-shadow(0 0 3px #e58fb0); animation: marriageglow 2.4s ease-in-out infinite; }
+.marriage.married { stroke-width: 3.2; filter: drop-shadow(0 0 3px #e58fb0); animation: marriageglow 2.4s ease-in-out infinite; }
+@keyframes marriageglow { 0%,100% { opacity: .72; } 50% { opacity: 1; } }
 .edge-alien { stroke: #4fae3f; stroke-width: 2.5; stroke-dasharray: 7 5; filter: drop-shadow(0 0 2.5px #9be08a); animation: alienflow 1.4s linear infinite; }
 @keyframes alienflow { to { stroke-dashoffset: -24; } }
 .alien-mark { font-size: 15px; }

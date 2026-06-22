@@ -193,9 +193,8 @@ function drawUnits(units, nodes, edges) {
       const status = (u.partnerMeta && u.partnerMeta.status) || '';
       const married = /married/i.test(status);
       const engaged = /engaged|fianc/i.test(status);
-      const wed = married || engaged;
       edges.appendChild(svgEl('line', {
-        class: 'marriage' + (wed ? ' strong' : ''),
+        class: 'marriage' + (married ? ' married' : engaged ? ' engaged' : ''),
         x1: u.unitLeft + BOX_W / 2 + AVATAR_R, y1: my, x2: px + BOX_W / 2 - AVATAR_R, y2: my
       }));
       const heart = svgEl('text', { class: 'marriage-mark', x: u.cx, y: my - 5, 'text-anchor': 'middle' });
