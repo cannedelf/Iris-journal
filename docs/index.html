@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sunnyside Family Tree 🌳🌻</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌻</text></svg>">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-emoji">🌳</span><div><h1>Sunnyside</h1><small>Family Tree &amp; Encyclopedia</small></div></div>
+    <nav id="tabs" class="tabs"></nav>
+    <div class="toolbar">
+      <span class="add-wrap">
+        <button id="btnAdd" class="tool" title="Add a new Sim or pet">➕ Add</button>
+        <div id="addMenu" class="add-menu">
+          <button data-add-sim>👶 Add a Sim</button>
+          <button data-add-pet>🐾 Add a pet</button>
+          <button data-add-hh>🏠 Add a household</button>
+        </div>
+      </span>
+      <button id="btnColour" class="tool" title="Switch colour coding">🎨 Colour: Family</button>
+      <button id="btnHouseholds" class="tool" title="Household view">🏠 Households</button>
+      <button id="btnPredict" class="tool" title="Baby genetics predictor">🧬 Predictor</button>
+      <button id="btnSearch" class="tool" title="Search (press /)">🔍 Search</button>
+      <span class="zoomgroup">
+        <button id="btnZoomOut" class="tool" title="Zoom out">−</button>
+        <button id="btnZoomReset" class="tool" title="Fit">⤢</button>
+        <button id="btnZoomIn" class="tool" title="Zoom in">+</button>
+      </span>
+      <button id="btnSettings" class="tool" title="Settings">⚙️</button>
+      <span id="saveStatus" class="status readonly">○ Read-only</span>
+    </div>
+  </header>
+
+  <main id="stage" class="stage"><div class="loading">Loading Sunnyside… 🌻</div></main>
+
+  <div id="legend" class="legend"></div>
+
+  <aside id="panel" class="panel"></aside>
+
+  <!-- Search overlay -->
+  <div id="searchOverlay" class="overlay search-overlay">
+    <div class="search-box">
+      <input id="searchInput" type="text" placeholder="Search any Sim or pet…" autocomplete="off">
+      <div id="searchList" class="search-list"></div>
+    </div>
+  </div>
+
+  <!-- Settings overlay -->
+  <div id="settingsOverlay" class="overlay">
+    <div class="settings-box">
+      <h2>⚙️ Settings — Auto-save</h2>
+      <p class="settings-intro">Paste a GitHub access token to auto-save every change straight to your repo. No token = read-only.
+        See <a href="SETUP.md" target="_blank">SETUP.md</a> for step-by-step instructions.</p>
+      <label class="frow"><span>Repository</span><input id="setRepo" placeholder="cannedelf/iris-journal"></label>
+      <label class="frow"><span>Branch</span><input id="setBranch" placeholder="main"></label>
+      <label class="frow"><span>Access token</span><input id="setToken" type="password" placeholder="github_pat_…"></label>
+      <p id="setMsg" class="settings-msg"></p>
+      <button id="setResync" type="button" class="ghost" style="width:100%">🔄 Reload latest from GitHub (fixes out-of-sync)</button>
+      <div class="settings-actions"><button id="setCancel" class="ghost">Cancel</button><button id="setSave" class="primary">Save &amp; connect</button></div>
+      <p class="settings-note">🔒 The token is stored only in this browser (localStorage). Use a fine-grained token scoped to just this one repository with Contents read &amp; write.</p>
+    </div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

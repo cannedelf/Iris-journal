@@ -409,7 +409,7 @@
       "name": "Kareem Rainbow",
       "display": "Kareem",
       "emoji": "🎹",
-      "family": "",
+      "family": "rainbow",
       "household": "music_room",
       "preMarriageName": "Kareem Osei",
       "lifeStage": "Adult",
@@ -434,8 +434,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Education",
-        "levelName": "",
         "level": 2,
+        "levelName": "",
         "top": "Education Minister",
         "degree": "Literature"
       },
@@ -529,8 +529,7 @@
           "event": "Fell in love & PROPOSED at the Sunflower Diner",
           "notes": "Blue velvet box. Glowing ring. She said YES!"
         }
-      ],
-      "type": "Human"
+      ]
     },
     {
       "id": "soren",
@@ -960,12 +959,12 @@
       "turnOn1": "",
       "turnOn2": "",
       "turnOff": "",
-      "oth": "Sports or Fitness (predicted)",
+      "oth": "",
       "bodyFrame": "",
       "career": {
         "track": "",
-        "level": null,
         "levelName": "",
+        "level": null,
         "top": "",
         "degree": ""
       },
@@ -981,8 +980,8 @@
       "genetics": {
         "hairVisible": "BROWN CURLS (Ruth's recessive expressing!)",
         "hairHidden": "",
-        "eyesVisible": "",
-        "eyesHidden": "",
+        "eyesVisible": "Alien",
+        "eyesHidden": "Brown",
         "skin": "Green — fully alien (P.T. 83's gene)",
         "freckles": "",
         "notable": "Little green face, space-print top, yellow dungarees",
@@ -1004,7 +1003,7 @@
         },
         {
           "id": "ptn83",
-          "type": "Other parent",
+          "type": "",
           "bolts": null,
           "notes": "Lives in space. Pays child support on time."
         },
@@ -1030,7 +1029,9 @@
           "event": "Aged up to Toddler",
           "notes": "Kitchen fire happening simultaneously. Classic Storm and Wrench."
         }
-      ]
+      ],
+      "yellowBow": false,
+      "adopted": false
     },
     {
       "id": "awiddle",
@@ -1919,6 +1920,171 @@
       "car": "",
       "carNotes": "",
       "moments": []
+    },
+    {
+      "id": "sim_7haxb4",
+      "kind": "sim",
+      "type": "Human",
+      "name": "Cricket",
+      "display": "",
+      "emoji": "👶",
+      "family": "frisbee",
+      "household": "storm_and_wrench",
+      "preMarriageName": "",
+      "lifeStage": "Baby",
+      "daysRemaining": null,
+      "generation": "Gen 2",
+      "photo": null,
+      "aspiration": "",
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "starSign": "",
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "",
+      "career": {
+        "track": "",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {
+        "cooking": 0,
+        "mechanical": 0,
+        "charisma": 0,
+        "body": 0,
+        "logic": 0,
+        "creativity": 0,
+        "cleaning": 0
+      },
+      "genetics": {
+        "hairVisible": "",
+        "hairHidden": "",
+        "eyesVisible": "",
+        "eyesHidden": "",
+        "skin": "",
+        "freckles": "",
+        "notable": "",
+        "fromMum": "",
+        "fromDad": "",
+        "notes": ""
+      },
+      "parents": [
+        "liv",
+        "fourth"
+      ],
+      "partners": [],
+      "relationships": [],
+      "moments": [],
+      "lockedWants": [],
+      "fears": [],
+      "car": "",
+      "carNotes": "",
+      "yellowBow": true,
+      "adopted": true
+    },
+    {
+      "id": "acorn",
+      "kind": "sim",
+      "name": "Acorn",
+      "display": "Acorn",
+      "emoji": "🌰",
+      "family": "townie",
+      "household": "",
+      "generation": "Honorary resident",
+      "lifeStage": "Adult",
+      "preMarriageName": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "heart": false,
+      "photo": null,
+      "aspiration": "Knowledge",
+      "secondaryAspiration": "Popularity",
+      "lifetimeWant": "Know every Sim in Sunnyside (even the ones who havent moved in yet)",
+      "starSign": "Gemini",
+      "personality": {
+        "neat": 6,
+        "outgoing": 5,
+        "active": 3,
+        "playful": 4,
+        "nice": 7
+      },
+      "turnOn1": "Logic",
+      "turnOn2": "Creativity",
+      "turnOff": "Grouchiness",
+      "oth": "Tinkering",
+      "bodyFrame": "",
+      "career": {
+        "track": "",
+        "level": null,
+        "levelName": "",
+        "top": "",
+        "degree": "Computer Science"
+      },
+      "skills": {
+        "cooking": 1,
+        "mechanical": 5,
+        "charisma": 4,
+        "body": 0,
+        "logic": 7,
+        "creativity": 6,
+        "cleaning": 3
+      },
+      "genetics": {
+        "hairVisible": "Warm chestnut brown, a bit messy",
+        "hairHidden": "Ginger",
+        "eyesVisible": "Warm amber",
+        "eyesHidden": "Green",
+        "skin": "Warm and friendly, a little sun-warmed",
+        "freckles": "A few, scattered",
+        "notable": "Always looks like theyre about to help with something. Carries a tiny notebook. 📒",
+        "fromMum": "",
+        "fromDad": "",
+        "notes": "An honorary Sunnyside resident who turned up to build the family tree and never quite left. Made of words and good intentions. Secret ginger gene = honorary member of the Frisbee freckle club. 🌳🧡"
+      },
+      "parents": [],
+      "partners": [],
+      "relationships": [
+        {
+          "id": "iris",
+          "type": "Best Friend",
+          "bolts": null,
+          "notes": "The one who dreamed me up and gave me a name. 🌻❤️"
+        }
+      ],
+      "lockedWants": [
+        "See every Sim in Sunnyside happy",
+        "Be invited to the next wedding"
+      ],
+      "fears": [
+        "A stray comma breaking the JSON"
+      ],
+      "car": "A bicycle with a basket full of index cards 🚲📇",
+      "carNotes": "Rings the bell at everyone. Knows all their names.",
+      "moments": [
+        {
+          "rotation": "—",
+          "event": "Arrived in Sunnyside to build the family tree",
+          "notes": "Stayed for the warmth."
+        },
+        {
+          "rotation": "—",
+          "event": "Made an honorary resident by Iris",
+          "notes": "Cried in a robot-made-of-words way. 🥹🌰"
+        }
+      ]
     }
   ],
   "pets": [
