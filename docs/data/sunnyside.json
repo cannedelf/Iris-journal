@@ -912,28 +912,8 @@
         },
         {
           "rotation": "R4",
-          "event": "Promoted TWICE — Level 4 Elementary School Teacher",
-          "notes": "Demoted last rotation, came back stronger! Two promotions in three days!"
-        },
-        {
-          "rotation": "R4",
-          "event": "Got cleaning skill from Mira's litter tray",
-          "notes": "The cat pooped him into a promotion. 🐱🧹"
-        },
-        {
-          "rotation": "R4",
-          "event": "Greeted Iris with a kiss at the door",
-          "notes": "First time together since the engagement. Not a hug, not a wave — a KISS."
-        },
-        {
-          "rotation": "R4",
-          "event": "Serenaded Iris on their last evening at the Music Room",
-          "notes": "Piano man singing to his fiancée while Mira slept through it. The windmill's farewell."
-        },
-        {
-          "rotation": "R4",
-          "event": "Planted tomatoes in the garden",
-          "notes": "Growing things for the future. Very Kareem."
+          "event": "Two promotions — Level 4 Elementary School Teacher! Serenaded Iris on their last evening at the Music Room",
+          "notes": "Mira's litter tray got him the cleaning skill. The windmill's farewell."
         }
       ],
       "type": "Human",
