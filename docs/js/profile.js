@@ -244,6 +244,16 @@ function selectField(name, value, options, blank = '—') {
   }));
   return `<select name="${name}">${opts.join('')}</select>`;
 }
+// Family & household selects map the dropdown VALUE to the internal id while showing
+// the friendly name — fixes the bug where saving could blank a Sim's family.
+function familySelect(name, val) {
+  return `<select name="${name}"><option value="">—</option>${store.data.families.map(f =>
+    `<option value="${esc(f.id)}" ${f.id === val ? 'selected' : ''}>${f.emoji ? esc(f.emoji) + ' ' : ''}${esc(f.name)}</option>`).join('')}</select>`;
+}
+function householdSelect(name, val) {
+  return `<select name="${name}"><option value="">— none —</option>${store.data.households.map(h =>
+    `<option value="${esc(h.id)}" ${h.id === val ? 'selected' : ''}>${h.emoji ? esc(h.emoji) + ' ' : ''}${esc(h.name)}</option>`).join('')}</select>`;
+}
 const textField = (name, value, ph = '') => `<input name="${name}" value="${esc(value || '')}" placeholder="${esc(ph)}">`;
 const numField = (name, value, min = 0, max = 10) => `<input type="number" name="${name}" value="${value ?? ''}" min="${min}" max="${max}">`;
 
@@ -266,8 +276,8 @@ function simEditor(s) {
       ${row('Full name', textField('name', s.name))}
       ${row('Display name', textField('display', s.display))}
       ${row('Emoji', textField('emoji', s.emoji))}
-      ${row('Family', selectField('family', s.family, store.data.families))}
-      ${row('Household', selectField('household', s.household, store.data.households.map(h => h.id)))}
+      ${row('Family', familySelect('family', s.family))}
+      ${row('Household', householdSelect('household', s.household))}
       ${row('Pre-marriage name', textField('preMarriageName', s.preMarriageName))}
       ${row('Life stage', selectField('lifeStage', s.lifeStage, LIFE_STAGES))}
       ${row('Days remaining', numField('daysRemaining', s.daysRemaining, 0, 9999))}
@@ -344,7 +354,7 @@ function petEditor(pt) {
       ${row('Species', selectField('species', pt.species, PET_SPECIES))}
       ${row('Breed', textField('breed', pt.breed))}
       ${row('Owner (Sim ID)', textField('ownerId', pt.ownerId))}
-      ${row('Household', selectField('household', pt.household, store.data.households.map(h => h.id)))}
+      ${row('Household', householdSelect('household', pt.household))}
       ${row('Star sign', selectField('starSign', pt.starSign, STAR_SIGNS))}
       ${row('Collar', textField('collar', pt.collar))}
       ${row('Personality (comma sep)', textField('personality', (pt.personality || []).join(', ')))}
