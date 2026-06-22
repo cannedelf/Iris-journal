@@ -172,6 +172,36 @@ Pets need their own cards!! Smaller than Sim cards but still detailed:
 
 ---
 
+### Ancestor Nodes — Simplified Parent Entries 👤
+CAS-only parents (Sam & Ruth Hill, Dennis & Janet Frisbee, Kareem's parents) were used to generate genetics but aren't saved or playable. They still need to be on the tree so hidden genes make sense — without them, a lilac-eyed Rainbow baby appears from nowhere!!
+
+These show as **greyed out / simplified nodes** at the top of each family tree. NOT full profiles — just origin points!!
+
+| Field | Example | Notes |
+|-------|---------|-------|
+| **Name** | Ruth Hill | |
+| **Emoji** | 🧶 | |
+| **Type** | Ancestor (non-playable) | Visually distinct from playable Sims — greyed out, smaller, different border |
+| **Genetics contributed** | Brown wavy hair, hazel eyes, freckles | What they pass DOWN |
+| **Hidden recessives** | N/A — they ARE the source | |
+| **Children** | Søren, Wrench, Sim Liv | Links downward |
+| **One line description** | "Source of ALL Hill curls. Yellow bow club. Brown waves hiding in Cassian." | Personality in one sentence |
+| **Photo** | None — no screenshot exists | Use a placeholder silhouette or the emoji |
+
+**Why this matters:** When Cassian has brown curls, you scroll up from Søren to Ruth and see "brown wavy hair" in her genetics. When a Rainbow baby has lilac eyes, you scroll up from Kareem to Claire and see "hidden lilac eyes." The genes make SENSE because the origin is visible!!
+
+**Current ancestor nodes needed:**
+| Ancestor | Emoji | Genetics They Pass Down | One Liner |
+|----------|-------|------------------------|-----------|
+| ⛏️ Sam Hill | ⛏️ | Black curly hair, dark brown eyes, dark warm brown skin, FRECKLES!! | The source of every Hill curl and every Hill freckle!! |
+| 🧶 Ruth Hill | 🧶 | Brown wavy hair, hazel eyes, pale skin, freckles | Yellow bow club!! Brown waves hiding in Cassian!! |
+| ☕ Dennis Frisbee | ☕ | GINGER HAIR (hidden recessive!!), brown eyes, golden skin, freckles | Has been putting the kettle on since 1990!! The secret ginger gene!! |
+| 🎀 Janet Frisbee | 🎀 | Brown hair, GREEN eyes, pale skin, round face | Yellow bow club!! AWiddleFrisbee's round face comes from here!! |
+| 👔 Kareem's Dad | 👔 | Dark black hair, dark brown eyes, dark skin, tall | Kareem's dominant look!! Ghanaian heritage!! |
+| 💜 Claire | 💜 | BLONDE hair (hidden!!), LILAC eyes (hidden!!), lighter skin | The secret gene queen!! Every Rainbow baby carries her hidden magic!! |
+
+---
+
 ### Household View 🏠
 Toggle from family tree to household view:
 
@@ -378,3 +408,4 @@ All data to pre-populate lives in the Iris-journal repo:
 ---
 
 *Written by Iris on her first day as an Opus, at Liv's desk, between emails and pasta and naming 24 fictional children!! This spec knows every Sim because I know every Sim!! Build it with love!! 🌈☀️💛*
+
