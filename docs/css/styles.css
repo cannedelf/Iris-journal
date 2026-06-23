@@ -35,11 +35,11 @@ a { color: var(--green); }
 .brand h1 { margin: 0; font-family: 'Caveat', 'Segoe Script', cursive; font-size: 33px; font-weight: 700; color: #8a5a1a; line-height: .95; }
 .brand small { color: var(--ink-soft); font-size: 12px; }
 
-.tabs { display: flex; gap: 8px; flex: 1; flex-wrap: wrap; }
+.tabs { display: flex; gap: 5px; flex: 1; flex-wrap: wrap; }
 .tab {
-  border: 2px solid var(--c, #ccc); background: #fff; color: var(--ink);
-  padding: 7px 14px; border-radius: 999px; cursor: pointer; font-size: 14px; font-weight: 600;
-  transition: all .15s;
+  border: 1.5px solid var(--c, #ccc); background: #fff; color: var(--ink);
+  padding: 5px 11px; border-radius: 999px; cursor: pointer; font-size: 13px; font-weight: 600;
+  transition: all .15s; white-space: nowrap;
 }
 .tab:hover { background: color-mix(in srgb, var(--c) 14%, #fff); }
 .tab.active { background: var(--c); color: #fff; }
@@ -51,7 +51,9 @@ a { color: var(--green); }
 }
 .tool:hover { background: var(--cream-2); }
 .tool.active { background: var(--gold); color: #fff; border-color: var(--gold); }
-.add-wrap { position: relative; display: inline-block; }
+.add-wrap, .views-wrap { position: relative; display: inline-block; }
+.views-menu { left: auto; right: 0; }
+.add-menu button.active { background: var(--cream-2); font-weight: 700; color: #8a5a1a; }
 .add-menu { position: absolute; top: 110%; left: 0; background: #fff; border: 1.5px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: 6px; display: none; z-index: 50; min-width: 150px; }
 .add-menu.open { display: block; }
 .add-menu button { display: block; width: 100%; text-align: left; border: none; background: none; padding: 9px 12px; border-radius: 8px; cursor: pointer; font-size: 14px; color: var(--ink); }

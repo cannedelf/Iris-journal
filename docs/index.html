@@ -15,6 +15,7 @@
     <div class="brand"><span class="brand-emoji">🌳</span><div><h1>Sunnyside</h1><small>Family Tree &amp; Encyclopedia</small></div></div>
     <nav id="tabs" class="tabs"></nav>
     <div class="toolbar">
+      <button id="btnColour" class="tool" title="Switch colour coding">🎨 Colour: Family</button>
       <span class="add-wrap">
         <button id="btnAdd" class="tool" title="Add a new Sim or pet">➕ Add</button>
         <div id="addMenu" class="add-menu">
@@ -24,17 +25,21 @@
           <button data-add-lot>🏘️ Add a community lot</button>
         </div>
       </span>
-      <button id="btnColour" class="tool" title="Switch colour coding">🎨 Colour: Family</button>
-      <button id="btnHouseholds" class="tool" title="Household view">🏠 Households</button>
-      <button id="btnPredict" class="tool" title="Baby genetics predictor">🧬 Predictor</button>
-      <button id="btnNames" class="tool" title="Baby name bank">👶 Names</button>
-      <button id="btnLots" class="tool" title="Community lots">🏘️ Lots</button>
-      <button id="btnStats" class="tool" title="Sunnyside stats">📊 Stats</button>
       <button id="btnSearch" class="tool" title="Search (press /)">🔍 Search</button>
       <span class="zoomgroup">
         <button id="btnZoomOut" class="tool" title="Zoom out">−</button>
         <button id="btnZoomReset" class="tool" title="Fit">⤢</button>
         <button id="btnZoomIn" class="tool" title="Zoom in">+</button>
+      </span>
+      <span class="views-wrap">
+        <button id="btnViews" class="tool" title="Open a view">📊 Views ▾</button>
+        <div id="viewsMenu" class="add-menu views-menu">
+          <button data-view="households">🏠 Households</button>
+          <button data-view="predict">🧬 Predictor</button>
+          <button data-view="names">👶 Names</button>
+          <button data-view="lots">🏘️ Lots</button>
+          <button data-view="stats">📊 Stats</button>
+        </div>
       </span>
       <button id="btnSettings" class="tool" title="Settings">⚙️</button>
       <span id="saveStatus" class="status readonly">○ Read-only</span>

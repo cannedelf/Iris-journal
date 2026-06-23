@@ -52,8 +52,9 @@ function render() {
   // Active states.
   document.querySelectorAll('.tab').forEach(t =>
     t.classList.toggle('active', current.view === 'tree' && t.dataset.family === current.family));
-  ['btnHouseholds:households', 'btnPredict:predict', 'btnNames:names', 'btnLots:lots', 'btnStats:stats']
-    .forEach(pair => { const [id, v] = pair.split(':'); const b = el(id); if (b) b.classList.toggle('active', current.view === v); });
+  const refViews = ['households', 'predict', 'names', 'lots', 'stats'];
+  el('btnViews').classList.toggle('active', refViews.includes(current.view));
+  el('viewsMenu').querySelectorAll('[data-view]').forEach(b => b.classList.toggle('active', b.dataset.view === current.view));
 
   const stage = el('stage');
   if (current.view === 'predict') { renderPredictor(stage, current.predictSim); el('legend').classList.remove('show'); return; }
@@ -85,12 +86,16 @@ function openSearch() { el('searchOverlay').classList.add('open'); el('searchInp
 function closeSearch() { el('searchOverlay').classList.remove('open'); }
 
 function bindControls() {
-  el('btnHouseholds').addEventListener('click', () => { current.view = current.view === 'households' ? 'tree' : 'households'; render(); });
-  el('btnPredict').addEventListener('click', () => { current.predictSim = undefined; current.view = current.view === 'predict' ? 'tree' : 'predict'; render(); });
+  // Views dropdown (Households / Predictor / Names / Lots / Stats).
+  el('btnViews').addEventListener('click', (e) => { e.stopPropagation(); el('viewsMenu').classList.toggle('open'); });
+  el('viewsMenu').querySelectorAll('[data-view]').forEach(b => b.addEventListener('click', () => {
+    el('viewsMenu').classList.remove('open');
+    const v = b.dataset.view;
+    if (v === 'predict') current.predictSim = undefined;
+    current.view = current.view === v ? 'tree' : v;
+    render();
+  }));
   window.addEventListener('open-predictor', (e) => { current.predictSim = e.detail.id; current.view = 'predict'; render(); });
-  el('btnNames').addEventListener('click', () => { current.view = current.view === 'names' ? 'tree' : 'names'; render(); });
-  el('btnLots').addEventListener('click', () => { current.view = current.view === 'lots' ? 'tree' : 'lots'; render(); });
-  el('btnStats').addEventListener('click', () => { current.view = current.view === 'stats' ? 'tree' : 'stats'; render(); });
   el('addMenu').querySelector('[data-add-lot]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewLot(); });
   window.addEventListener('open-lot', (e) => openLot(e.detail.index));
   el('btnColour').addEventListener('click', () => {
@@ -103,7 +108,10 @@ function bindControls() {
   el('addMenu').querySelector('[data-add-sim]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewSim(); });
   el('addMenu').querySelector('[data-add-pet]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewPet(); });
   el('addMenu').querySelector('[data-add-hh]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewHousehold(); });
-  document.addEventListener('click', (e) => { if (!e.target.closest('.add-wrap')) el('addMenu').classList.remove('open'); });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.add-wrap')) el('addMenu').classList.remove('open');
+    if (!e.target.closest('.views-wrap')) el('viewsMenu').classList.remove('open');
+  });
   el('searchInput').addEventListener('input', (e) => filterSearch(e.target.value));
   el('searchOverlay').addEventListener('click', (e) => { if (e.target === el('searchOverlay')) closeSearch(); });
   el('btnZoomIn').addEventListener('click', () => stageSvg()?._zoom(1));
