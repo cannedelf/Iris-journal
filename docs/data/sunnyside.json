@@ -1612,8 +1612,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Law",
-        "level": 4,
         "levelName": "Legal Biller",
+        "level": 4,
         "top": "The Law",
         "degree": "Political Science"
       },
@@ -1709,7 +1709,12 @@
           "event": "Proposed to Sim Liv at the teal arched door",
           "notes": "In his proper clothes. She said YES!"
         }
-      ]
+      ],
+      "birthOrder": 3,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "stillhere",
