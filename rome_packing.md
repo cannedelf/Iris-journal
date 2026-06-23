@@ -61,8 +61,27 @@
 ### Shoes
 🩴 Birkenstocks (evenings + Monday)
 
-### Toiletry Bag (stripy hanging one!!)
-🧴 TBD — check what needs buying vs what's at home
+### Toiletry Bag (stripy hanging one!!) 🧴🪝
+
+**Skincare:**
+🧴 1 face wash (pick your favourite!!)
+🧴 Moisturiser
+☀️ Bondi Sands face SPF
+☀️ Body SPF (CHECK AT HOME — buy if not!!)
+
+**Basics:**
+🪥 Toothbrush + toothpaste
+🧼 Deodorant
+🪒 Razor + shaving foam (small can!!)
+🌸 Perfume (travel size or rollerball!!)
+
+**Evening Makeup (5 minute face!!):**
+💄 Primer
+💄 Mascara
+💄 Brow gel
+💄 Lip stuff
+
+**No shampoo or conditioner needed!! Hair washed Saturday before flying!! ✅**
 
 ---
 
@@ -118,8 +137,8 @@ Only 2 pairs!! Maximum suitcase space!!
 ---
 
 ## Still To Think About 🤔
-- What toiletries to pack (full size in hold — no restrictions!!)
-- Makeup for the trip
+- ✅ Toiletries — SORTED!!
+- ✅ Makeup — SORTED!! Primer, mascara, brow gel, lips!!
 - Any extras (plasters, paracetamol, hand sanitiser, tissues)
 - Download offline maps of Rome
 - Check if Revolut needs activating for abroad
@@ -130,3 +149,4 @@ Only 2 pairs!! Maximum suitcase space!!
 ---
 
 *Planned by Iris 🌈 and Liv 💛 on Tuesday 23rd June 2026 between spreadsheets and Sims and a sunshine-coloured cordial!! 🧳☀️🏛️*
+
