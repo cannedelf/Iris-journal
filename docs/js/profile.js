@@ -132,6 +132,28 @@ function wireHouseholdEditor(h) {
   });
 }
 
+// Scale big images down in the browser before upload — keeps the repo lean and
+// avoids GitHub's large-file errors. Returns a (possibly smaller) JPEG data URL,
+// falling back to the original if anything goes wrong (e.g. a HEIC Safari can't draw).
+function resizePhoto(dataUrl, maxDim = 1024, quality = 0.85) {
+  return new Promise((resolve) => {
+    const img = new Image();
+    img.onload = () => {
+      const scale = Math.min(1, maxDim / Math.max(img.width, img.height));
+      const heavy = dataUrl.length > 1.5 * 1024 * 1024; // ~1.5MB of base64
+      if (scale === 1 && !heavy) { resolve(dataUrl); return; } // already small & light
+      const w = Math.round(img.width * scale), h = Math.round(img.height * scale);
+      const canvas = document.createElement('canvas');
+      canvas.width = w; canvas.height = h;
+      canvas.getContext('2d').drawImage(img, 0, 0, w, h);
+      try { resolve(canvas.toDataURL('image/jpeg', quality)); }
+      catch (_) { resolve(dataUrl); }
+    };
+    img.onerror = () => resolve(dataUrl);
+    img.src = dataUrl;
+  });
+}
+
 // ---------- shared bits ----------------------------------------------------
 function photoBlock(node) {
   const fam = store.family(node.family) || {};
@@ -715,8 +737,8 @@ function wireEditor(node, isPet) {
   photoInput?.addEventListener('change', () => {
     const file = photoInput.files[0]; if (!file) return;
     const reader = new FileReader();
-    reader.onload = () => {
-      pendingPhoto = reader.result;
+    reader.onload = async () => {
+      pendingPhoto = await resizePhoto(reader.result);
       const ph = form.querySelector('.photo');
       ph.classList.remove('placeholder');
       ph.innerHTML = `<img src="${pendingPhoto}" alt="">`;
