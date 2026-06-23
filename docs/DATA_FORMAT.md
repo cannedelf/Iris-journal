@@ -69,7 +69,9 @@ Only `id` is truly required; fill in what you know, leave the rest as `""`, `[]`
   },
 
   "parents": ["kareem", "iris"],          // list of Sim ids — drives the tree & predictor
-  "partners": [ { "id": "someone", "status": "Engaged", "bolts": 2 } ],
+  "birthOrder": 3,                         // optional — sorts siblings (1 = eldest); leave out to keep data order
+  "partners": [ { "id": "someone", "status": "Engaged", "bolts": 2,
+                  "weddingRotation": 5, "weddingDay": 1 } ],  // wedding R/D optional — see Lifespan below
   "relationships": [ { "id": "marigold", "type": "Pet Best Friend", "bolts": null, "notes": "1/20!" } ],
   "moments": [ { "rotation": "R5", "event": "Born!", "notes": "Sunshine Cottage royalty" } ],
   "lockedWants": [], "fears": [],
@@ -138,4 +140,27 @@ The `lifetimeWant` text shows above the bar; progress = items marked `done` / `t
 - `meta.rotation` — the global rotation number.
 - each household's `daysThisRotation` (0–3) — its play progress this rotation. When every
   household hits 3, the app rolls `meta.rotation` over and resets them to 0.
+
+### 📜 Lifespan & life events (on a person)
+These power the **📊 Stats** page and its **Timeline**. All optional.
+```jsonc
+"cas": true,            // made in Create-A-Sim, never a real resident (e.g. P.T. 83). Hidden from every stat.
+"bornRotation": 3,      // the rotation they were born / arrived
+"bornDay": 1,           // 1–4 within that rotation
+"diedRotation": 7,      // the rotation they died (leave out if alive)
+"diedDay": 2,
+"causeOfDeath": "Old age",
+"townElder": true       // ⭐ pin the genuinely-oldest Sim (only one at a time). Drives "Longest-lived".
+```
+- **Born vs arrived:** the Timeline shows 👶 *born* when a parent is a real played Sim, and
+  ➡️ *arrived* otherwise — so founders (parents are CAS ancestors) read as *arrived*, and only
+  in-town babies count as 👶 births in the stats.
+- **Weddings:** put `weddingRotation` (and optional `weddingDay`) on a **partner** link (see
+  the person template). It shows as 💒 on the Timeline. Fill it in on **one** partner only —
+  the app dedupes the couple so it isn't listed twice.
+- **`cas: true`** means CAS-only — kept out of population, births, lifespan and the timeline.
+  Don't put it on founders (Søren etc.); they *are* residents, just give them `bornRotation`.
+- **`townElder`** is for when everyone arrived at R1 and "Longest-lived" can't tell who's
+  really oldest — tick it on the true elder. It does **not** affect "Longest in Sunnyside",
+  which always counts rotations actually lived in town.
 
