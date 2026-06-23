@@ -1465,7 +1465,9 @@
       "yellowBow": false,
       "adopted": false,
       "bornRotation": 3,
-      "bornDay": 3
+      "bornDay": 3,
+      "cas": false,
+      "badges": {}
     },
     {
       "id": "awiddle",
