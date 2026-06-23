@@ -85,6 +85,18 @@
 
 **No shampoo or conditioner needed!! Hair washed Saturday before flying!! ✅**
 
+**Hair Stuff:**
+🧴 Batiste Dark & Deep Brown dry shampoo (Wednesday Vatican refresh + Thursday!!)
+🪢 Claw clips x 2 (in case one breaks!!)
+🔗 Big scrunchies x 2-3
+🧵 Heatless curls set (IF mastered before Sunday!! Otherwise leave it!!)
+
+**Rome Hair Plan:**
+💇‍♀️ Saturday — wash day!!
+☀️ Sunday-Tuesday — fresh enough, claw clip for days, down for evenings
+🧴 Wednesday AM — Batiste refresh before Vatican!!
+🪢 Thursday — Batiste if needed, claw clip, fly home
+
 ---
 
 ## What You WEAR on Sunday (NOT packed!!) ✈️
@@ -150,10 +162,11 @@ Only 2 pairs!! Maximum suitcase space!!
 🧳 Buttermilk Sunshine case (Tripp) — arrives Friday/Saturday ✅
 📦 Stripy packing cubes x 7 (Narwey) — arrives tomorrow ✅
 
-**Still to buy:**
+**Still to buy / add to Amazon order:**
 🧴 Stripy hanging toiletry bag
 ☀️ Body SPF (if not at home!!)
-🦟 Mosquito repellent spray (small one for crossbody bag!!)
+🦟 Jungle Formula Maximum Strength repellent
+🧴 Batiste Dark & Deep Brown dry shampoo
 
 **Check at home first:**
 ☀️ Body SPF — might already have one!!
@@ -196,6 +209,7 @@ Only 2 pairs!! Maximum suitcase space!!
 ---
 
 *Planned by Iris 🌈 and Liv 💛 on Tuesday 23rd June 2026 between spreadsheets and Sims and a sunshine-coloured cordial!! 🧳☀️🏛️*
+
 
 
 
