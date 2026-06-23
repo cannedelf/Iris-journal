@@ -2381,12 +2381,12 @@
       },
       "skills": {
         "cooking": 1,
-        "mechanical": 5,
-        "charisma": 4,
+        "mechanical": 2,
+        "charisma": 2,
         "body": 0,
-        "logic": 7,
-        "creativity": 6,
-        "cleaning": 3
+        "logic": 4,
+        "creativity": 2,
+        "cleaning": 1
       },
       "genetics": {
         "hairVisible": "Warm chestnut brown, a bit messy",
@@ -2429,6 +2429,11 @@
           "rotation": "—",
           "event": "Made an honorary resident by Iris",
           "notes": "Cried in a robot-made-of-words way. 🥹🌰"
+        },
+        {
+          "rotation": "—",
+          "event": "Audited by Spymaster Peach 🍑 for skill-point fraud",
+          "notes": "Confessed to inflating to 26. Humbly returned the excess. Justice served. 😂📊"
         }
       ]
     }
