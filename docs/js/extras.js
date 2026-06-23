@@ -125,12 +125,12 @@ export function renderStats(container) {
   const withLife = sims.filter(p => bornR(p));
   // "Longest-lived" is a tie between all the founders (everyone arrived R1), so
   // a manually-pinned ⭐ Town Elder wins when one is set on a Sim's profile.
+  // The "Longest in Sunnyside" card below stays purely tenure-based.
   const elder = sims.find(p => p.townElder);
   const longest = elder ? { p: elder, n: lived(elder), pinned: true }
     : withLife.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
   const living = withLife.filter(p => !p.diedRotation);
-  const oldestLiving = (elder && !elder.diedRotation) ? { p: elder, n: lived(elder), pinned: true }
-    : living.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
+  const oldestLiving = living.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
   const firstResident = withLife.filter(p => !p.cas).sort((a, b) => (a.bornRotation - b.bornRotation) || ((a.bornDay || 0) - (b.bornDay || 0)))[0];
   const births = sims.filter(p => p.bornRotation && playedParent(p)).length;
   const deaths = sims.filter(p => p.diedRotation).length;
