@@ -196,6 +196,8 @@ function simView(s) {
       </dl>
     </section>
 
+    ${trackerView(s)}
+
     <section><h3>Skills</h3>
       ${SKILLS.map(k => bar(k[0].toUpperCase() + k.slice(1), s.skills?.[k])).join('')}
     </section>
@@ -272,6 +274,23 @@ function petView(pt) {
         : '<p class="muted">No moments yet.</p>'}
     </section>
   </div>`;
+}
+
+// 🏆 Lifetime-want progress tracker (e.g. Iris's 20 pet best friends).
+function trackerView(s) {
+  const t = s.tracker;
+  if (!t || !(t.target || (t.items || []).length)) return '';
+  const items = t.items || [];
+  const done = items.filter(i => i.done).length;
+  const target = t.target || items.length || 0;
+  const pct = target ? Math.min(100, Math.round(done / target * 100)) : 0;
+  const rows = items.map(i => `<li>${i.done ? '✅' : '⬜'} ${i.id && store.node(i.id) ? chip(i.id) : esc(i.label || i.id)}</li>`).join('');
+  return `<section><h3>🏆 Lifetime Want Progress</h3>
+    ${s.lifetimeWant ? `<p class="lw-want">${esc(s.lifetimeWant)}</p>` : ''}
+    <div class="lw-bar"><span style="width:${pct}%"></span></div>
+    <p class="lw-count">${done}/${target}</p>
+    ${items.length ? `<ul class="lw-list">${rows}</ul>` : '<p class="muted">No progress logged yet — add some in Edit.</p>'}
+  </section>`;
 }
 
 const kv = (k, v) => (v || v === 0) ? `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>` : '';
@@ -402,6 +421,7 @@ function simEditor(s) {
     ${partnerEditor(s.partners || [])}
     ${relEditor(s.relationships || [])}
     ${momentEditor(s.moments || [])}
+    ${trackerEditor(s.tracker)}
     ${simpleListEditor('Locked wants', 'lockedWants', s.lockedWants || [])}
     ${simpleListEditor('Fears', 'fears', s.fears || [])}
 
@@ -435,6 +455,20 @@ function petEditor(pt) {
 }
 
 const row = (label, field) => `<label class="frow"><span>${esc(label)}</span>${field}</label>`;
+
+// 🏆 Lifetime-want progress editor: a target number + a list of items (name, optional link, done).
+const trackerRow = (i = {}) => `<div class="lrow tracker">
+  <input name="tr_label[]" placeholder="name" value="${esc(i.label)}">
+  <select name="tr_id[]">${nodeOptions(i.id)}</select>
+  <label class="tr-done"><input type="checkbox" name="tr_done[]" ${i.done ? 'checked' : ''}> done</label>
+  <button type="button" class="del" data-del>✕</button></div>`;
+function trackerEditor(t) {
+  t = t || {};
+  return `<fieldset data-list="tracker"><legend>🏆 Lifetime Want Progress</legend>
+    ${row('Target number', numField('tracker_target', t.target, 0, 999))}
+    <div class="rows">${(t.items || []).map(trackerRow).join('')}</div>
+    <button type="button" class="add" data-add="tracker">+ Add item</button></fieldset>`;
+}
 
 function simpleListEditor(title, key, items) {
   return `<fieldset data-list="${key}"><legend>${esc(title)}</legend>
@@ -524,7 +558,8 @@ function wireEditor(node, isPet) {
     if (!add) return;
     const kind = add.dataset.add;
     const rows = add.previousElementSibling;
-    if (kind === 'parents') rows.insertAdjacentHTML('beforeend', parentRow());
+    if (kind === 'tracker') rows.insertAdjacentHTML('beforeend', trackerRow());
+    else if (kind === 'parents') rows.insertAdjacentHTML('beforeend', parentRow());
     else if (kind === 'partners') rows.insertAdjacentHTML('beforeend', `<div class="lrow"><select name="partners_id[]">${peopleOptions('')}</select><input name="partners_status[]" placeholder="Status"><input name="partners_bolts[]" type="number" min="0" max="3" placeholder="bolts"><button type="button" class="del" data-del>✕</button></div>`);
     else if (kind === 'rels') rows.insertAdjacentHTML('beforeend', relRow());
     else if (kind === 'moments') rows.insertAdjacentHTML('beforeend', momentRow({}, false));
@@ -612,6 +647,12 @@ function applySimForm(s, form) {
   s.moments = me.map((ev, i) => ({ rotation: (mr[i] || '').trim(), event: ev.trim(), notes: (mn[i] || '').trim() })).filter(m => m.event);
   s.lockedWants = arr(form, 'lockedWants[]').map(v => v.trim()).filter(Boolean);
   s.fears = arr(form, 'fears[]').map(v => v.trim()).filter(Boolean);
+  const trLabels = arr(form, 'tr_label[]'), trIds = arr(form, 'tr_id[]');
+  const trDone = Array.from(form.querySelectorAll('[name="tr_done[]"]')).map(c => c.checked);
+  const trItems = trLabels.map((l, i) => ({ label: l.trim(), id: (trIds[i] || '').trim() || undefined, done: !!trDone[i] }))
+    .filter(it => it.label || it.id);
+  const trTarget = numVal(form, 'tracker_target');
+  s.tracker = (trTarget || trItems.length) ? { target: trTarget || 0, items: trItems } : undefined;
 }
 
 function applyPetForm(pt, form) {

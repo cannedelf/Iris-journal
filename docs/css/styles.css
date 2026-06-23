@@ -131,6 +131,21 @@ a { color: var(--green); }
 .household-card { position: relative; background: #fff; border: 1.5px solid var(--line); border-radius: var(--radius); padding: 16px 18px; box-shadow: var(--shadow); }
 .hh-edit { position: absolute; top: 12px; right: 12px; border: 1.5px solid var(--line); background: #fff; border-radius: 9px; padding: 4px 9px; cursor: pointer; font-size: 13px; color: #8a5a1a; }
 .hh-edit:hover { background: var(--cream-2); }
+.hh-rotation { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 4px 0 10px; }
+.hh-status { font-size: 14px; font-weight: 600; color: var(--ink); }
+.hh-daybtns { display: inline-flex; gap: 4px; }
+.rot-day { border: 1.5px solid var(--green); background: #fff; color: #4d7a36; border-radius: 8px; padding: 4px 9px; cursor: pointer; font-size: 13px; }
+.rot-day:hover { background: #eef3e6; }
+
+/* 🏆 Lifetime want progress */
+.lw-want { font-style: italic; color: #8a6a3a; margin: 0 0 8px; }
+.lw-bar { background: #ece0c9; height: 14px; border-radius: 8px; overflow: hidden; }
+.lw-bar span { display: block; height: 100%; background: linear-gradient(90deg, var(--gold), var(--green)); transition: width .3s; }
+.lw-count { text-align: right; font-weight: 700; color: #8a5a1a; margin: 4px 0 8px; }
+.lw-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.lw-list li { font-size: 14px; }
+.lrow.tracker { flex-wrap: wrap; }
+.tr-done { display: inline-flex; align-items: center; gap: 4px; font-size: 13px; color: var(--ink-soft); white-space: nowrap; }
 .household-card h3 { margin: 0 0 2px; }
 .household-loc { color: var(--ink-soft); font-size: 13px; margin: 0 0 10px; }
 .household-feat { color: #a4937a; font-size: 12px; margin: 10px 0 0; font-style: italic; }

@@ -139,7 +139,8 @@
       "emoji": "🌻",
       "location": "Sunnyside, near the shops",
       "features": "Yellow door, art studio, sunflower garden",
-      "movedIn": "2026-06-07"
+      "movedIn": "2026-06-07",
+      "daysThisRotation": 0
     },
     {
       "id": "music_room",
@@ -147,7 +148,8 @@
       "emoji": "🎹",
       "location": "Sunnyside, road between Sunshine Cottage and the shops",
       "features": "Converted mill, piano, windmill next door",
-      "movedIn": "2026-06-16"
+      "movedIn": "2026-06-16",
+      "daysThisRotation": 0
     },
     {
       "id": "storm_and_wrench",
@@ -155,7 +157,8 @@
       "emoji": "🌩️",
       "location": "Sunnyside",
       "features": "Dark Nordic house, telescope, robotics bench, fish tank",
-      "movedIn": "2026-06-17"
+      "movedIn": "2026-06-17",
+      "daysThisRotation": 0
     },
     {
       "id": "the_flat",
@@ -163,7 +166,8 @@
       "emoji": "🦇",
       "location": "Sunnyside",
       "features": "Teal arched door, Hugo's bay-window bed, money tree",
-      "movedIn": "2026-06-01"
+      "movedIn": "2026-06-01",
+      "daysThisRotation": 0
     },
     {
       "id": "pebble_house",
@@ -171,7 +175,8 @@
       "emoji": "📜",
       "location": "Sunnyside, central",
       "features": "Terracotta brick, teal arched door, alphabetical bookshelf",
-      "movedIn": "2026-06-18"
+      "movedIn": "2026-06-18",
+      "daysThisRotation": 0
     },
     {
       "id": "pressed_flowers",
@@ -179,7 +184,8 @@
       "emoji": "🌺",
       "location": "Zig-Zag Road, Sunnyside",
       "features": "Craftsman cottage, naturalist study, vegetable patches",
-      "movedIn": "2026-06-21"
+      "movedIn": "2026-06-21",
+      "daysThisRotation": 0
     }
   ],
   "people": [
@@ -782,7 +788,17 @@
         }
       ],
       "type": "Human",
-      "adopted": false
+      "adopted": false,
+      "tracker": {
+        "target": 20,
+        "items": [
+          {
+            "label": "Marigold",
+            "id": "marigold",
+            "done": true
+          }
+        ]
+      }
     },
     {
       "id": "kareem",
@@ -1883,7 +1899,11 @@
           "event": "On The Golden Anchor stage",
           "notes": "Sang his heart out, one arm raised. Music & Dance OTH discovered. Nobody asked."
         }
-      ]
+      ],
+      "tracker": {
+        "target": 20,
+        "items": []
+      }
     },
     {
       "id": "clara",

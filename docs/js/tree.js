@@ -347,6 +347,18 @@ export function renderHouseholds(container) {
   });
   view.appendChild(banner);
 
+  // Per-household play tracking: bump a day; when every household hits 3/3 the rotation rolls over.
+  const statusEmoji = (h) => { const dd = h.daysThisRotation || 0; return dd >= 3 ? '✅' : dd === 0 ? '⬜' : '🔶'; };
+  const bumpDay = async (h, delta) => {
+    h.daysThisRotation = Math.max(0, Math.min(3, (h.daysThisRotation || 0) + delta));
+    if (delta > 0 && store.data.households.every(x => (x.daysThisRotation || 0) >= 3)) {
+      store.data.meta.rotation = (store.data.meta.rotation || 1) + 1;
+      store.data.households.forEach(x => x.daysThisRotation = 0);
+    }
+    await store.commit(`Play day at ${h.name}`);
+    window.dispatchEvent(new CustomEvent('data-updated'));
+  };
+
   const wrap = document.createElement('div');
   wrap.className = 'household-grid';
   for (const h of store.data.households) {
@@ -357,6 +369,10 @@ export function renderHouseholds(container) {
     card.innerHTML = `
       <button class="hh-edit" title="Edit household" data-edit-hh="${h.id}">✎</button>
       <h3>${h.emoji || '🏠'} ${h.name}</h3>
+      <div class="hh-rotation">
+        <span class="hh-status">${statusEmoji(h)} R${rot} · ${(h.daysThisRotation || 0)}/3</span>
+        <span class="hh-daybtns"><button class="rot-day" data-d="-1" title="Remove a day">−</button><button class="rot-day" data-d="1" title="Played a day">+ day</button></span>
+      </div>
       <p class="household-loc">${h.location || ''}</p>
       <div class="household-members"></div>
       <p class="household-feat">${h.features || ''}</p>`;
@@ -364,6 +380,7 @@ export function renderHouseholds(container) {
       e.stopPropagation();
       window.dispatchEvent(new CustomEvent('open-household', { detail: { id: h.id } }));
     });
+    card.querySelectorAll('.rot-day').forEach(b => b.addEventListener('click', (e) => { e.stopPropagation(); bumpDay(h, Number(b.dataset.d)); }));
     const list = card.querySelector('.household-members');
     [...members, ...pets].forEach(m => {
       const chip = document.createElement('button');
