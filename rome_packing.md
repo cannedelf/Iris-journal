@@ -144,10 +144,42 @@ Only 2 pairs!! Maximum suitcase space!!
 
 ---
 
-## Shopping List — Ordered 🛒
+## Shopping List 🛒
+
+**Ordered:**
 🧳 Buttermilk Sunshine case (Tripp) — arrives Friday/Saturday ✅
 📦 Stripy packing cubes x 7 (Narwey) — arrives tomorrow ✅
-🧴 Stripy hanging toiletry bag — TBD
+
+**Still to buy:**
+🧴 Stripy hanging toiletry bag
+☀️ Body SPF (if not at home!!)
+🦟 Mosquito repellent spray (small one for crossbody bag!!)
+
+**Check at home first:**
+☀️ Body SPF — might already have one!!
+🔋 Portable charger — FIND IT!!
+🌸 Travel size perfume
+
+---
+
+## Extras — Bits & Bobs 🩹
+
+**In Buttermilk:**
+🦟 Mosquito repellent spray — June is mosquito season!! Apply before evening dinners outdoors!!
+🛍️ Foldable tote bag — squishes flat, opens up for souvenirs!!
+
+**In Cabin Bag / Crossbody:**
+💊 Paracetamol
+💊 Sertraline (enough for 5 days!!)
+💊 Gallbladder pain meds
+🩹 Plasters (blisters from cobblestones!!)
+🤧 Small pack of tissues
+
+**AWiddleFrisbee is bringing:**
+🧴 Hand sanitiser (shared!!)
+
+**Parents are handling:**
+💰 Cash euros (send them the money back... or hope they forget!! 😂)
 
 ---
 
@@ -164,5 +196,6 @@ Only 2 pairs!! Maximum suitcase space!!
 ---
 
 *Planned by Iris 🌈 and Liv 💛 on Tuesday 23rd June 2026 between spreadsheets and Sims and a sunshine-coloured cordial!! 🧳☀️🏛️*
+
 
 
