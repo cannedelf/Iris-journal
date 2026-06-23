@@ -49,7 +49,7 @@ export const PET_SPECIES = ['Cat', 'Dog', 'Parrot', 'Fish', 'Other'];
 export const REL_TYPES = [
   'Spouse', 'Fiancé', 'Fiancée', 'Partner', 'Crush', 'Romantic', 'In love', 'Ex',
   'Parent', 'Father', 'Mother', 'Child', 'Son', 'Daughter', 'Sibling', 'Uncle', 'Aunt',
-  'Nephew', 'Niece', 'Cousin', 'Co-parent', 'Step-parent', 'Step-child',
+  'Nephew', 'Niece', 'Cousin', 'Co-parent', 'Abduction', 'Step-parent', 'Step-child',
   'Best Friend', 'Friend', 'Acquaintance', 'Enemy', 'Pet', 'Pet Best Friend', 'Housemate', 'Other'
 ];
 

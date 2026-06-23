@@ -50,7 +50,14 @@ function buildForest(familyId) {
     const kids = store.childrenOf(person.id)
       .filter(c => (c.family === familyId || showBloodKids) && !consumed.has(c.id))
       .map(c => unit(c));
-    return { person, partner, partnerMeta: partnerMeta(person), childUnits: kids };
+    // Co-parents: a child's OTHER parent who isn't the primary or the displayed partner
+    // (e.g. P.T. 83, Cassian's alien other-parent) — drawn to the LEFT of the primary.
+    const coIds = [];
+    kids.forEach(cu => (cu.person.parents || []).forEach(pid => {
+      if (pid !== person.id && (!partner || pid !== partner.id) && store.person(pid) && !coIds.includes(pid)) coIds.push(pid);
+    }));
+    const coParents = coIds.map(pid => store.person(pid));
+    return { person, partner, partnerMeta: partnerMeta(person), coParents, childUnits: kids };
   }
 
   // Roots: family members with no parents. Process ancestors / parents-of-many first
@@ -75,7 +82,7 @@ function buildForest(familyId) {
   return rootUnits;
 }
 
-const unitWidth = (u) => BOX_W + (u.partner ? COUPLE_GAP + BOX_W : 0);
+const unitWidth = (u) => ((u.coParents ? u.coParents.length : 0) * (BOX_W + COUPLE_GAP)) + BOX_W + (u.partner ? COUPLE_GAP + BOX_W : 0);
 
 function measure(u) {
   const uw = unitWidth(u);
@@ -97,7 +104,8 @@ function place(u, depth, left) {
     u.cx = (first.cx + last.cx) / 2;
   }
   u.unitLeft = u.cx - uw / 2;
-  u.primaryCx = u.unitLeft + BOX_W / 2; // bloodline connects through the primary
+  const leftW = (u.coParents ? u.coParents.length : 0) * (BOX_W + COUPLE_GAP);
+  u.primaryCx = u.unitLeft + leftW + BOX_W / 2; // bloodline connects through the primary
 }
 
 const svgEl = (name, attrs = {}) => {
@@ -184,30 +192,55 @@ function collectExtent(units, acc) {
 
 function drawUnits(units, nodes, edges) {
   for (const u of units) {
-    nodes.appendChild(nodeBox(u.person, u.unitLeft, u.y, false));
-    // Partner portrait + marriage connector (between the two circles).
+    const my = u.y + CY;
+    const leftW = (u.coParents ? u.coParents.length : 0) * (BOX_W + COUPLE_GAP);
+    const primaryLeft = u.unitLeft + leftW;
+
+    // Left co-parents (e.g. P.T. 83) with an abduction/co-parent link to the primary.
+    const coParentMid = {};
+    (u.coParents || []).forEach((cp, i) => {
+      const cpLeft = u.unitLeft + i * (BOX_W + COUPLE_GAP);
+      const cpCx = cpLeft + BOX_W / 2;
+      coParentMid[cp.id] = (cpCx + u.primaryCx) / 2;
+      nodes.appendChild(nodeBox(cp, cpLeft, u.y, true));
+      const alien = cp.type === 'Alien' || cp.alien;
+      edges.appendChild(svgEl('line', {
+        class: 'coparent-link' + (alien ? ' alien' : ''),
+        x1: cpCx + AVATAR_R, y1: my, x2: u.primaryCx - AVATAR_R, y2: my
+      }));
+      const mark = svgEl('text', { class: 'coparent-mark', x: coParentMid[cp.id], y: my - 5, 'text-anchor': 'middle' });
+      mark.textContent = alien ? '🛸' : '👶';
+      nodes.appendChild(mark);
+    });
+
+    nodes.appendChild(nodeBox(u.person, primaryLeft, u.y, false));
+
+    // Right partner + marriage connector.
+    let rightMid = u.primaryCx;
     if (u.partner) {
-      const px = u.unitLeft + BOX_W + COUPLE_GAP;
+      const px = primaryLeft + BOX_W + COUPLE_GAP;
+      const rightCx = px + BOX_W / 2;
+      rightMid = (u.primaryCx + rightCx) / 2;
       nodes.appendChild(nodeBox(u.partner, px, u.y, true));
-      const my = u.y + CY;
       const status = (u.partnerMeta && u.partnerMeta.status) || '';
       const married = /married/i.test(status);
       const engaged = /engaged|fianc/i.test(status);
       edges.appendChild(svgEl('line', {
         class: 'marriage' + (married ? ' married' : engaged ? ' engaged' : ''),
-        x1: u.unitLeft + BOX_W / 2 + AVATAR_R, y1: my, x2: px + BOX_W / 2 - AVATAR_R, y2: my
+        x1: u.primaryCx + AVATAR_R, y1: my, x2: rightCx - AVATAR_R, y2: my
       }));
-      const heart = svgEl('text', { class: 'marriage-mark', x: u.cx, y: my - 5, 'text-anchor': 'middle' });
+      const heart = svgEl('text', { class: 'marriage-mark', x: rightMid, y: my - 5, 'text-anchor': 'middle' });
       heart.textContent = married ? '💒' : engaged ? '💍' : (/love|crush|romantic/i.test(status) ? '💕' : '·');
       nodes.appendChild(heart);
     }
-    // Bloodlines connect circle-centre to circle-centre (drawn behind the portraits, so the
-    // vertical sections tuck neatly behind the circles and names). Descend from the couple
-    // midpoint only when the displayed partner is genuinely the child's other parent.
+
+    // Bloodlines: descend from the midpoint with the child's relevant co-parent (right
+    // partner, a left co-parent like P.T. 83, or the primary alone).
     for (const c of u.childUnits) {
-      const partnerIsCoParent = u.partner && (c.person.parents || []).includes(u.partner.id);
-      const startX = partnerIsCoParent ? u.cx : u.primaryCx;
-      // Adoption = warm pink dotted line + beating heart ❤️; alien = glowing green dashes + UFO 🛸
+      const otherIds = (c.person.parents || []).filter(pid => pid !== u.person.id);
+      let startX = u.primaryCx;
+      if (u.partner && otherIds.includes(u.partner.id)) startX = rightMid;
+      else { const m = otherIds.map(id => coParentMid[id]).find(v => v != null); if (m != null) startX = m; }
       const adopted = !!c.person.adopted;
       const alien = !adopted && (c.person.parents || []).some(pid => { const par = store.person(pid); return par && (par.alien || par.type === 'Alien'); });
       const edge = connector(startX, u.y + CY, c.primaryCx, c.y + CY);
