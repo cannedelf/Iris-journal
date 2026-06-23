@@ -342,7 +342,7 @@
     {
       "id": "dennis",
       "kind": "ancestor",
-      "name": "Janet Frisbee",
+      "name": "Dennis Frisbee",
       "display": "",
       "emoji": "☕",
       "family": "frisbee",
@@ -412,7 +412,8 @@
       "relationships": [],
       "moments": [],
       "lockedWants": [],
-      "fears": []
+      "fears": [],
+      "badges": {}
     },
     {
       "id": "janet",
