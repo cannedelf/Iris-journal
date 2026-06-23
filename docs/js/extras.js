@@ -109,6 +109,28 @@ export function renderStats(container) {
   const cats = petBy['Cat'] || 0, dogs = petBy['Dog'] || 0;
   const rotation = (store.data.meta && store.data.meta.rotation) || 1;
 
+  // Lifespans
+  const bornR = (p) => p.cas ? 1 : p.bornRotation;
+  const lived = (p) => { const b = bornR(p); return b ? ((p.diedRotation || rotation) - b + 1) : null; };
+  const withLife = P.filter(p => bornR(p));
+  const longest = withLife.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
+  const living = withLife.filter(p => !p.diedRotation);
+  const oldestLiving = living.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
+  const firstResident = withLife.filter(p => !p.cas).sort((a, b) => (a.bornRotation - b.bornRotation) || ((a.bornDay || 0) - (b.bornDay || 0)))[0];
+  const births = P.filter(p => p.bornRotation && (p.parents || []).length).length;
+  const deaths = P.filter(p => p.diedRotation).length;
+
+  // Timeline of arrivals/births and deaths
+  const events = [];
+  P.forEach(p => {
+    if (p.bornRotation) events.push({ r: p.bornRotation, d: p.bornDay || 0, emoji: (p.parents || []).length ? '👶' : '➡️', text: `${p.display || p.name} ${(p.parents || []).length ? 'born' : 'arrived'}` });
+    if (p.diedRotation) events.push({ r: p.diedRotation, d: p.diedDay || 0, emoji: '🕊️', text: `${p.display || p.name} died${p.causeOfDeath ? ' — ' + p.causeOfDeath : ''}` });
+  });
+  events.sort((a, b) => a.r - b.r || a.d - b.d);
+  const timelineHtml = events.length
+    ? `<div class="timeline">${events.map(e => `<div class="tl-row"><span class="tl-when">R${e.r}${e.d ? ' D' + e.d : ''}</span><span>${e.emoji} ${esc(e.text)}</span></div>`).join('')}</div>`
+    : '<p class="muted">No arrivals or deaths logged yet — add Lifespan dates on a Sim\'s profile.</p>';
+
   const distRow = (obj) => Object.entries(obj).sort((a, b) => b[1] - a[1])
     .map(([k, v]) => `<div class="stat-dist-row"><span>${esc(k)}</span><b>${v}</b></div>`).join('') || '<span class="muted">—</span>';
 
@@ -129,5 +151,12 @@ export function renderStats(container) {
         <p class="stat-sub">most skilled: ${mostSkilled ? esc(mostSkilled.display || mostSkilled.name) + ' (' + top + ')' : '—'}</p>`)}
       ${card('📖 Moments logged', `<p class="stat-big">${totalMoments}</p>`)}
       ${card('🔄 Rotation', `<p class="stat-big">${rotation}</p>`)}
-    </div></div>`;
+      ${card('🌱 First resident', firstResident ? `<p class="stat-big">${esc(firstResident.display || firstResident.name)}</p><p class="stat-sub">arrived R${firstResident.bornRotation}${firstResident.bornDay ? ' Day ' + firstResident.bornDay : ''}</p>` : '<span class="muted">add arrival dates</span>')}
+      ${card('⏳ Longest-lived', longest ? `<p class="stat-big">${esc(longest.p.display || longest.p.name)}</p><p class="stat-sub">${longest.n} rotation${longest.n === 1 ? '' : 's'}</p>` : '—')}
+      ${card('👵 Oldest living', oldestLiving ? `<p class="stat-big">${esc(oldestLiving.p.display || oldestLiving.p.name)}</p><p class="stat-sub">${oldestLiving.n} rotation${oldestLiving.n === 1 ? '' : 's'} &amp; counting</p>` : '—')}
+      ${card('👶 Births / 🕊️ Deaths', `<p class="stat-big">${births} / ${deaths}</p>`)}
+    </div>
+    <h3 class="extras-h" style="margin-top:24px">📜 Sunnyside Timeline</h3>
+    ${timelineHtml}
+  </div>`;
 }

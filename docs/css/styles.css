@@ -341,6 +341,11 @@ a { color: var(--green); }
 .badge-list { list-style: none; padding: 0; margin: 0; }
 .badge-list li { font-size: 14px; padding: 3px 0; }
 
+.timeline { background: #fff; border: 1.5px solid var(--line); border-radius: 14px; padding: 8px 16px; box-shadow: var(--shadow); }
+.tl-row { display: flex; gap: 14px; align-items: baseline; padding: 7px 0; border-bottom: 1px dotted var(--line); font-size: 14px; }
+.tl-row:last-child { border-bottom: none; }
+.tl-when { font-weight: 700; color: var(--green); min-width: 64px; }
+
 .toast { position: fixed; bottom: 22px; left: 50%; transform: translateX(-50%); background: var(--ink); color: #fff; padding: 11px 18px; border-radius: 12px; font-size: 14px; box-shadow: var(--shadow); z-index: 80; }
 
 @media (max-width: 640px) {

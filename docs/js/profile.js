@@ -226,6 +226,7 @@ function simView(s) {
           ${s.yellowBow ? kv('Club', '🎀 Yellow bow club') : ''}
         </dl>
       </section>
+      ${lifespanView(s)}
       <section><h3>Sims 2 Mechanics</h3>
         <dl class="kv">
           ${kv('Aspiration', s.aspiration)}
@@ -371,6 +372,26 @@ function badgesView(s) {
     <ul class="badge-list">${earned.map(([name, lvl]) => `<li>${BADGE_EMOJI[lvl] || ''} ${esc(name)} — <b>${esc(lvl)}</b></li>`).join('')}</ul></section>`;
 }
 
+// 📜 Lifespan: arrival/birth, death, and rotations lived.
+function lifespanView(s) {
+  if (!s.cas && !s.bornRotation && !s.diedRotation) return '';
+  const cur = (store.data.meta && store.data.meta.rotation) || 1;
+  const bornLabel = (s.parents && s.parents.length) ? 'Born' : 'Arrived';
+  const arrived = s.cas ? 'CAS (original)' : (s.bornRotation ? `R${s.bornRotation}${s.bornDay ? ' Day ' + s.bornDay : ''}` : '');
+  const bornR = s.cas ? 1 : s.bornRotation;
+  let lived = '';
+  if (bornR) {
+    const n = (s.diedRotation || cur) - bornR + 1;
+    lived = `${n} rotation${n === 1 ? '' : 's'}${s.diedRotation ? '' : ' and counting'}`;
+  }
+  return `<section><h3>📜 Lifespan</h3><dl class="kv">
+    ${arrived ? kv(bornLabel, arrived) : ''}
+    ${s.diedRotation ? kv('Died', `R${s.diedRotation}${s.diedDay ? ' Day ' + s.diedDay : ''}`) : ''}
+    ${s.causeOfDeath ? kv('Cause', s.causeOfDeath) : ''}
+    ${lived ? kv('Lived', lived) : ''}
+  </dl></section>`;
+}
+
 const kv = (k, v) => (v || v === 0) ? `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>` : '';
 const bolts = (n) => n == null ? '' : '💕'.repeat(Math.max(0, Math.min(3, n))) || '0';
 
@@ -460,6 +481,15 @@ function simEditor(s) {
       ${row('Sim type', `<select name="type">${SIM_TYPES.map(t => `<option value="${t.name}" ${(s.type || 'Human') === t.name ? 'selected' : ''}>${t.emoji ? t.emoji + ' ' : ''}${esc(t.label || t.name)}</option>`).join('')}</select>`)}
       ${row('🎀 Yellow bow club', `<input type="checkbox" name="yellowBow" ${s.yellowBow ? 'checked' : ''}>`)}
       ${row('❤️ Adopted (chosen child)', `<input type="checkbox" name="adopted" ${s.adopted ? 'checked' : ''}>`)}
+    </fieldset>
+
+    <fieldset><legend>📜 Lifespan</legend>
+      ${row('Created in CAS (original)', `<input type="checkbox" name="cas" ${s.cas ? 'checked' : ''}>`)}
+      ${row('Born / Arrived — Rotation', numField('bornRotation', s.bornRotation, 1, 999))}
+      ${row('Born / Arrived — Day', numField('bornDay', s.bornDay, 1, 4))}
+      ${row('Died — Rotation', numField('diedRotation', s.diedRotation, 1, 999))}
+      ${row('Died — Day', numField('diedDay', s.diedDay, 1, 4))}
+      ${row('Cause of death', textField('causeOfDeath', s.causeOfDeath, 'Old age / fire / flyby…'))}
     </fieldset>
 
     <fieldset><legend>Sims 2 Mechanics</legend>
@@ -718,6 +748,9 @@ function applySimForm(s, form) {
   s.preMarriageName = val(form, 'preMarriageName'); s.lifeStage = val(form, 'lifeStage');
   s.daysRemaining = numVal(form, 'daysRemaining'); s.generation = val(form, 'generation');
   { const bo = numVal(form, 'birthOrder'); if (bo == null) delete s.birthOrder; else s.birthOrder = bo; }
+  s.cas = form.elements['cas'] ? form.elements['cas'].checked : !!s.cas;
+  ['bornRotation', 'bornDay', 'diedRotation', 'diedDay'].forEach(k => { const v = numVal(form, k); if (v == null) delete s[k]; else s[k] = v; });
+  { const c = val(form, 'causeOfDeath'); if (!c) delete s.causeOfDeath; else s.causeOfDeath = c; }
   s.type = form.elements['type'] ? form.elements['type'].value : (s.type || 'Human');
   s.yellowBow = form.elements['yellowBow'] ? form.elements['yellowBow'].checked : !!s.yellowBow;
   s.adopted = form.elements['adopted'] ? form.elements['adopted'].checked : !!s.adopted;

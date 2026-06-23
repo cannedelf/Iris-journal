@@ -262,7 +262,8 @@
       "relationships": [],
       "moments": [],
       "lockedWants": [],
-      "fears": []
+      "fears": [],
+      "cas": true
     },
     {
       "id": "ruth",
@@ -337,7 +338,8 @@
       "relationships": [],
       "moments": [],
       "lockedWants": [],
-      "fears": []
+      "fears": [],
+      "cas": true
     },
     {
       "id": "dennis",
@@ -413,7 +415,8 @@
       "moments": [],
       "lockedWants": [],
       "fears": [],
-      "badges": {}
+      "badges": {},
+      "cas": true
     },
     {
       "id": "janet",
@@ -489,7 +492,8 @@
       "moments": [],
       "lockedWants": [],
       "fears": [],
-      "badges": {}
+      "badges": {},
+      "cas": true
     },
     {
       "id": "kareemdad",
@@ -564,7 +568,8 @@
       "relationships": [],
       "moments": [],
       "lockedWants": [],
-      "fears": []
+      "fears": [],
+      "cas": true
     },
     {
       "id": "claire",
@@ -639,7 +644,8 @@
       "relationships": [],
       "moments": [],
       "lockedWants": [],
-      "fears": []
+      "fears": [],
+      "cas": true
     },
     {
       "id": "iris",
@@ -1447,7 +1453,9 @@
         }
       ],
       "yellowBow": false,
-      "adopted": false
+      "adopted": false,
+      "bornRotation": 3,
+      "bornDay": 3
     },
     {
       "id": "awiddle",
@@ -2354,7 +2362,8 @@
       "fears": [],
       "car": "",
       "carNotes": "",
-      "moments": []
+      "moments": [],
+      "cas": true
     },
     {
       "id": "acorn",
