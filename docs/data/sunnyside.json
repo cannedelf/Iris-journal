@@ -268,7 +268,7 @@
     {
       "id": "ruth",
       "kind": "ancestor",
-      "yellowBow": false,
+      "yellowBow": true,
       "name": "Ruth Hill",
       "display": "",
       "emoji": "🧶",
@@ -339,7 +339,8 @@
       "moments": [],
       "lockedWants": [],
       "fears": [],
-      "cas": true
+      "cas": true,
+      "badges": {}
     },
     {
       "id": "dennis",
