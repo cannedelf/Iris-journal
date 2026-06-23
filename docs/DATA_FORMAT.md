@@ -150,7 +150,8 @@ These power the **📊 Stats** page and its **Timeline**. All optional.
 "diedRotation": 7,      // the rotation they died (leave out if alive)
 "diedDay": 2,
 "causeOfDeath": "Old age",
-"townElder": true       // ⭐ pin the genuinely-oldest Sim (only one at a time). Drives "Longest-lived".
+"townElder": true,      // ⭐ pin the genuinely-oldest Sim (only one at a time). Drives "Longest-lived".
+"foundingResident": true // 🏡 pin who shows for "Longest in Sunnyside" when arrivals tie (only one at a time).
 ```
 - **Born vs arrived:** the Timeline shows 👶 *born* when a parent is a real played Sim, and
   ➡️ *arrived* otherwise — so founders (parents are CAS ancestors) read as *arrived*, and only
@@ -161,6 +162,7 @@ These power the **📊 Stats** page and its **Timeline**. All optional.
 - **`cas: true`** means CAS-only — kept out of population, births, lifespan and the timeline.
   Don't put it on founders (Søren etc.); they *are* residents, just give them `bornRotation`.
 - **`townElder`** is for when everyone arrived at R1 and "Longest-lived" can't tell who's
-  really oldest — tick it on the true elder. It does **not** affect "Longest in Sunnyside",
-  which always counts rotations actually lived in town.
+  really oldest — tick it on the true elder. It does **not** affect "Longest in Sunnyside".
+- **`foundingResident`** does the same for the **🏡 Longest in Sunnyside** card — when several
+  Sims arrived the same rotation, tick it on the one you want shown (the two pins are separate).
 

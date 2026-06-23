@@ -130,7 +130,11 @@ export function renderStats(container) {
   const longest = elder ? { p: elder, n: lived(elder), pinned: true }
     : withLife.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
   const living = withLife.filter(p => !p.diedRotation);
-  const oldestLiving = living.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
+  // "Longest in Sunnyside" is also a founder tie, so a manually-pinned 🏡 Founding
+  // Resident wins when set; otherwise it's the longest tenure among the living.
+  const founder = sims.find(p => p.foundingResident && !p.diedRotation);
+  const oldestLiving = founder ? { p: founder, n: lived(founder), pinned: true }
+    : living.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
   const firstResident = withLife.filter(p => !p.cas).sort((a, b) => (a.bornRotation - b.bornRotation) || ((a.bornDay || 0) - (b.bornDay || 0)))[0];
   const births = sims.filter(p => p.bornRotation && playedParent(p)).length;
   const deaths = sims.filter(p => p.diedRotation).length;
@@ -179,7 +183,7 @@ export function renderStats(container) {
       ${card('🔄 Rotation', `<p class="stat-big">${rotation}</p>`)}
       ${card('🌱 First resident', firstResident ? `<p class="stat-big">${esc(firstResident.display || firstResident.name)}</p><p class="stat-sub">arrived R${firstResident.bornRotation}${firstResident.bornDay ? ' Day ' + firstResident.bornDay : ''}</p>` : '<span class="muted">add arrival dates</span>')}
       ${card('⏳ Longest-lived', longest ? `<p class="stat-big">${longest.pinned ? '⭐ ' : ''}${esc(longest.p.display || longest.p.name)}</p><p class="stat-sub">${longest.pinned ? 'pinned as Town Elder' : longest.n + ' rotation' + (longest.n === 1 ? '' : 's')}</p>` : '—')}
-      ${card('🏡 Longest in Sunnyside', oldestLiving ? `<p class="stat-big">${esc(oldestLiving.p.display || oldestLiving.p.name)}</p><p class="stat-sub">${oldestLiving.n} rotation${oldestLiving.n === 1 ? '' : 's'} &amp; counting</p>` : '—')}
+      ${card('🏡 Longest in Sunnyside', oldestLiving ? `<p class="stat-big">${oldestLiving.pinned ? '🏡 ' : ''}${esc(oldestLiving.p.display || oldestLiving.p.name)}</p><p class="stat-sub">${oldestLiving.n} rotation${oldestLiving.n === 1 ? '' : 's'} &amp; counting</p>` : '—')}
       ${card('👶 Births / 🕊️ Deaths', `<p class="stat-big">${births} / ${deaths}</p>`)}
     </div>
     <h3 class="extras-h" style="margin-top:24px">📜 Sunnyside Timeline</h3>
