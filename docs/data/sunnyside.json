@@ -1767,7 +1767,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/stillhere.png",
       "aspiration": "Pleasure",
       "secondaryAspiration": "Popularity",
       "lifetimeWant": "Become a Professional Party Guest (Grilled Cheese hoped!)",
@@ -1871,7 +1871,8 @@
       "adopted": false,
       "badges": {},
       "bornRotation": 1,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false
     },
     {
       "id": "idris",
