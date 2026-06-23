@@ -176,98 +176,126 @@ function simView(s) {
         `<tr><td>${chip(r.id)}</td><td>${esc(r.type || '')}</td><td>${bolts(r.bolts)}</td><td class="mn">${esc(r.notes || '')}</td></tr>`).join('')}</tbody></table>`
     : '<p class="muted">No relationships logged yet.</p>';
 
-  return `
-  <div class="profile" style="--fam:${fam.colour || '#a89f94'}">
+  const head = `
     <div class="profile-head">
       <button class="close" data-close>✕</button>
       <button class="edit" data-edit>✎ Edit</button>
       ${photoBlock(s)}
       <div class="head-text">
-        <h2>${esc(s.emoji || '')} ${esc(s.name)} ${(s.type && s.type !== 'Human') ? `<span class="type-tag">${typeMeta(s.type).emoji} ${esc(s.type)}</span>` : ''} ${s.adopted ? '<span class="type-tag">❤️ Adopted</span>' : ''}</h2>
+        <h2>${esc(s.emoji || '')} ${esc(s.name)} ${(s.type && s.type !== 'Human') ? `<span class="type-tag">${typeMeta(s.type).emoji} ${esc(s.type)}</span>` : ''} ${s.adopted ? '<span class="type-tag">❤️ Adopted</span>' : ''} ${s.yellowBow ? '<span class="type-tag">🎀</span>' : ''}</h2>
         <p class="head-sub">${[fam.name && fam.emoji + ' ' + fam.name, hh && hh.name, s.generation].filter(Boolean).map(esc).join(' · ')}</p>
         ${isAnc ? `<p class="anc-banner">Ancestor node — origin point for genetics (non-playable)</p>` : ''}
         ${s.oneLiner ? `<p class="oneliner">“${esc(s.oneLiner)}”</p>` : ''}
       </div>
+    </div>`;
+
+  if (isAnc) {
+    return `<div class="profile" style="--fam:${fam.colour || '#a89f94'}">
+      ${head}
+      <div class="nav-block">
+        <div><strong>💍 Partner</strong> ${partner}</div>
+        <div><strong>⬇ Children</strong> ${kids}</div>
+      </div>
+      ${ancestorBody(g)}
+    </div>`;
+  }
+
+  const currentLevel = s.career?.levelName ? `${s.career.levelName}${s.career.level ? ' — Level ' + s.career.level : ''}` : (s.career?.level || '');
+
+  return `
+  <div class="profile" style="--fam:${fam.colour || '#a89f94'}">
+    ${head}
+    <nav class="profile-tabs">
+      <button data-ptab="overview" class="active">📋 Overview</button>
+      <button data-ptab="career">💼 Career</button>
+      <button data-ptab="rel">💕 Relationships</button>
+      <button data-ptab="genetics">🧬 Genetics</button>
+      <button data-ptab="history">📖 History</button>
+    </nav>
+
+    <div class="ptab" data-panel="overview">
+      <section><h3>Identity</h3>
+        <dl class="kv">
+          ${kv('Display name', s.display)}
+          ${kv('Household', hh ? hh.name : '')}
+          ${kv('Family', fam.name)}
+          ${kv('Pre-marriage name', s.preMarriageName)}
+          ${kv('Life stage', s.lifeStage)}
+          ${kv('Days remaining', s.daysRemaining)}
+          ${kv('Generation', s.generation)}
+          ${s.yellowBow ? kv('Club', '🎀 Yellow bow club') : ''}
+        </dl>
+      </section>
+      <section><h3>Sims 2 Mechanics</h3>
+        <dl class="kv">
+          ${kv('Aspiration', s.aspiration)}
+          ${kv('Secondary', s.secondaryAspiration)}
+          ${kv('Lifetime want', s.lifetimeWant)}
+          ${kv('Star sign', s.starSign ? `${s.starSign} ${glyphFor(s.starSign)}` : '')}
+          ${kv('Turn on 1', s.turnOn1)}
+          ${kv('Turn on 2', s.turnOn2)}
+          ${kv('Turn off', s.turnOff)}
+          ${kv('One True Hobby', s.oth)}
+          ${kv('Body frame', s.bodyFrame)}
+        </dl>
+        <h4>Personality <span class="${pTotal === 25 ? 'ok' : 'warn'}">(total ${pTotal}/25)</span></h4>
+        ${PERSONALITY.map(a => bar(a.high, s.personality?.[a.key])).join('')}
+      </section>
+      ${trackerView(s)}
     </div>
 
-    <div class="nav-block">
-      <div><strong>⬆ Parents</strong> ${parents}</div>
-      <div><strong>💍 Partner</strong> ${partner}</div>
-      <div><strong>⬇ Children</strong> ${kids}</div>
-      <div><strong>↔ Siblings</strong> ${sibs}</div>
-      ${isAnc ? '' : `<div><strong>🐾 Pets</strong> ${pets}</div>`}
+    <div class="ptab" data-panel="career" hidden>
+      <section><h3>Career</h3>
+        <dl class="kv">
+          ${kv('Track', s.career?.track)}
+          ${kv('Current level', currentLevel)}
+          ${kv('Top of career', s.career?.top)}
+          ${kv('Degree', s.career?.degree)}
+        </dl>
+        <p class="future-note">⏳ Promotion requirements — coming soon!</p>
+      </section>
+      <section><h3>Skills</h3>
+        ${SKILLS.map(k => bar(k[0].toUpperCase() + k.slice(1), s.skills?.[k])).join('')}
+      </section>
+      ${badgesView(s)}
     </div>
 
-    ${isAnc ? ancestorBody(g) : `
-    <section><h3>Identity</h3>
-      <dl class="kv">
-        ${kv('Display name', s.display)}
-        ${kv('Household', hh ? hh.name : '')}
-        ${kv('Pre-marriage name', s.preMarriageName)}
-        ${kv('Life stage', s.lifeStage)}
-        ${kv('Days remaining', s.daysRemaining)}
-        ${kv('Generation', s.generation)}
-      </dl>
-    </section>
+    <div class="ptab" data-panel="rel" hidden>
+      <div class="nav-block">
+        <div><strong>⬆ Parents</strong> ${parents}</div>
+        <div><strong>💍 Partner</strong> ${partner}</div>
+        <div><strong>⬇ Children</strong> ${kids}</div>
+        <div><strong>↔ Siblings</strong> ${sibs}</div>
+        <div><strong>🐾 Pets</strong> ${pets}</div>
+      </div>
+      <section><h3>Relationships</h3>${rels}</section>
+    </div>
 
-    <section><h3>Sims 2 Mechanics</h3>
-      <dl class="kv">
-        ${kv('Aspiration', s.aspiration)}
-        ${kv('Secondary', s.secondaryAspiration)}
-        ${kv('Lifetime want', s.lifetimeWant)}
-        ${kv('Star sign', s.starSign ? `${s.starSign} ${glyphFor(s.starSign)}` : '')}
-        ${kv('Turn on 1', s.turnOn1)}
-        ${kv('Turn on 2', s.turnOn2)}
-        ${kv('Turn off', s.turnOff)}
-        ${kv('One True Hobby', s.oth)}
-        ${kv('Body frame', s.bodyFrame)}
-      </dl>
-      <h4>Personality <span class="${pTotal === 25 ? 'ok' : 'warn'}">(total ${pTotal}/25)</span></h4>
-      ${PERSONALITY.map(a => bar(a.high, s.personality?.[a.key])).join('')}
-    </section>
+    <div class="ptab" data-panel="genetics" hidden>
+      <section><h3>Genetics 🧬</h3>
+        <dl class="kv">
+          ${kv('Hair (visible)', g.hairVisible)}
+          ${kv('Hair (hidden)', g.hairHidden)}
+          ${kv('Eyes (visible)', g.eyesVisible)}
+          ${kv('Eyes (hidden)', g.eyesHidden)}
+          ${kv('Skin tone', g.skin)}
+          ${kv('Freckles', g.freckles)}
+          ${kv('Notable features', g.notable)}
+          ${kv('From mum', g.fromMum)}
+          ${kv('From dad', g.fromDad)}
+        </dl>
+        ${g.notes ? `<p class="gen-notes">${esc(g.notes)}</p>` : ''}
+        <button class="predict-link" data-predict="${esc(s.id)}">🧬 Open in Predictor with ${esc(s.display || s.name)}</button>
+      </section>
+    </div>
 
-    <section><h3>Career</h3>
-      <dl class="kv">
-        ${kv('Track', s.career?.track)}
-        ${kv('Current level', s.career?.levelName ? `${s.career.levelName}${s.career.level ? ' — Level ' + s.career.level : ''}` : (s.career?.level || ''))}
-        ${kv('Top of career', s.career?.top)}
-        ${kv('Degree', s.career?.degree)}
-      </dl>
-    </section>
-
-    ${trackerView(s)}
-
-    <section><h3>Skills</h3>
-      ${SKILLS.map(k => bar(k[0].toUpperCase() + k.slice(1), s.skills?.[k])).join('')}
-    </section>
-
-    ${badgesView(s)}
-
-    <section><h3>Genetics 🧬</h3>
-      <dl class="kv">
-        ${kv('Hair (visible)', g.hairVisible)}
-        ${kv('Hair (hidden)', g.hairHidden)}
-        ${kv('Eyes (visible)', g.eyesVisible)}
-        ${kv('Eyes (hidden)', g.eyesHidden)}
-        ${kv('Skin tone', g.skin)}
-        ${kv('Freckles', g.freckles)}
-        ${kv('Notable features', g.notable)}
-        ${kv('From mum', g.fromMum)}
-        ${kv('From dad', g.fromDad)}
-      </dl>
-      ${g.notes ? `<p class="gen-notes">${esc(g.notes)}</p>` : ''}
-    </section>
-
-    <section><h3>Relationships</h3>${rels}</section>
-
-    ${(s.lockedWants || []).length || (s.fears || []).length ? `<section><h3>Locked Wants & Fears</h3>
-      <ul class="wants">${(s.lockedWants || []).map(w => `<li>🔒 ${esc(w)}</li>`).join('')}
-      ${(s.fears || []).map(w => `<li>⚠️ ${esc(w)}</li>`).join('')}</ul></section>` : ''}
-
-    <section><h3>Key Moments 📖</h3>${moments}</section>
-
-    ${s.car ? `<section><h3>Car 🚗</h3><dl class="kv">${kv('Car', s.car)}${kv('Notes', s.carNotes)}</dl></section>` : ''}
-    `}
+    <div class="ptab" data-panel="history" hidden>
+      <section><h3>Key Moments 📖</h3>${moments}</section>
+      ${(s.lockedWants || []).length || (s.fears || []).length ? `<section><h3>Locked Wants & Fears</h3>
+        <ul class="wants">${(s.lockedWants || []).map(w => `<li>🔒 ${esc(w)}</li>`).join('')}
+        ${(s.fears || []).map(w => `<li>⚠️ ${esc(w)}</li>`).join('')}</ul></section>` : ''}
+      ${s.car ? `<section><h3>Car 🚗</h3><dl class="kv">${kv('Car', s.car)}${kv('Notes', s.carNotes)}</dl></section>` : ''}
+    </div>
   </div>`;
 }
 
@@ -351,6 +379,19 @@ function wireView(node) {
   p.querySelector('[data-close]')?.addEventListener('click', closePanel);
   p.querySelectorAll('[data-open]').forEach(b => b.addEventListener('click', () => openProfile(b.dataset.open)));
   p.querySelector('[data-edit]')?.addEventListener('click', () => openEditor(node));
+
+  // Profile tab switching.
+  const tabs = [...p.querySelectorAll('.profile-tabs [data-ptab]')];
+  const panels = [...p.querySelectorAll('.ptab[data-panel]')];
+  tabs.forEach(t => t.addEventListener('click', () => {
+    tabs.forEach(x => x.classList.toggle('active', x === t));
+    panels.forEach(pl => { pl.hidden = pl.dataset.panel !== t.dataset.ptab; });
+  }));
+
+  // Quick link to the predictor with this Sim pre-selected.
+  p.querySelector('[data-predict]')?.addEventListener('click', (e) => {
+    window.dispatchEvent(new CustomEvent('open-predictor', { detail: { id: e.currentTarget.dataset.predict } }));
+  });
 }
 
 // ---------- Editing --------------------------------------------------------

@@ -120,7 +120,7 @@ function renderResults(el, id1, id2) {
     </div>`;
 }
 
-export function renderPredictor(container) {
+export function renderPredictor(container, preselectId) {
   container.innerHTML = `<div class="predictor">
     <h2>🧬 Baby Genetics Predictor</h2>
     <p class="pred-intro">Pick two parents to see what their children could look like — Sims 2 style!
@@ -133,8 +133,8 @@ export function renderPredictor(container) {
     <div id="predResults" class="pred-results"></div>
   </div>`;
   const people = [...store.data.people].sort(byName);
-  const def1 = store.person('kareem') ? 'kareem' : (people[0] && people[0].id);
-  const def2 = store.person('iris') ? 'iris' : (people[1] && people[1].id);
+  const def1 = (preselectId && store.person(preselectId)) ? preselectId : (store.person('kareem') ? 'kareem' : (people[0] && people[0].id));
+  const def2 = def1 === 'iris' ? 'kareem' : (store.person('iris') ? 'iris' : (people.find(p => p.id !== def1) || {}).id);
   const opts = (sel) => people.map(p => `<option value="${p.id}" ${p.id === sel ? 'selected' : ''}>${(p.emoji || '')} ${esc(p.display || p.name)}</option>`).join('');
   const s1 = container.querySelector('#pred1'), s2 = container.querySelector('#pred2');
   s1.innerHTML = opts(def1); s2.innerHTML = opts(def2);

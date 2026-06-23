@@ -56,7 +56,8 @@ function render() {
     .forEach(pair => { const [id, v] = pair.split(':'); const b = el(id); if (b) b.classList.toggle('active', current.view === v); });
 
   const stage = el('stage');
-  const views = { households: renderHouseholds, predict: renderPredictor, names: renderNames, lots: renderLots, stats: renderStats };
+  if (current.view === 'predict') { renderPredictor(stage, current.predictSim); el('legend').classList.remove('show'); return; }
+  const views = { households: renderHouseholds, names: renderNames, lots: renderLots, stats: renderStats };
   if (views[current.view]) { views[current.view](stage); el('legend').classList.remove('show'); return; }
   renderTree(stage, current.family);
   if (typeof updateColourUI === 'function') updateColourUI();
@@ -85,7 +86,8 @@ function closeSearch() { el('searchOverlay').classList.remove('open'); }
 
 function bindControls() {
   el('btnHouseholds').addEventListener('click', () => { current.view = current.view === 'households' ? 'tree' : 'households'; render(); });
-  el('btnPredict').addEventListener('click', () => { current.view = current.view === 'predict' ? 'tree' : 'predict'; render(); });
+  el('btnPredict').addEventListener('click', () => { current.predictSim = undefined; current.view = current.view === 'predict' ? 'tree' : 'predict'; render(); });
+  window.addEventListener('open-predictor', (e) => { current.predictSim = e.detail.id; current.view = 'predict'; render(); });
   el('btnNames').addEventListener('click', () => { current.view = current.view === 'names' ? 'tree' : 'names'; render(); });
   el('btnLots').addEventListener('click', () => { current.view = current.view === 'lots' ? 'tree' : 'lots'; render(); });
   el('btnStats').addEventListener('click', () => { current.view = current.view === 'stats' ? 'tree' : 'stats'; render(); });
