@@ -419,7 +419,7 @@
       "id": "janet",
       "kind": "ancestor",
       "yellowBow": false,
-      "name": "Frisbee Mum",
+      "name": "Janet Frisbee",
       "display": "",
       "emoji": "🎀",
       "family": "frisbee",
@@ -488,7 +488,8 @@
       "relationships": [],
       "moments": [],
       "lockedWants": [],
-      "fears": []
+      "fears": [],
+      "badges": {}
     },
     {
       "id": "kareemdad",
