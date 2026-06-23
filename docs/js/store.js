@@ -120,9 +120,9 @@ export const store = {
     const base64 = dataUrl.split(',')[1];
     const path = `${PHOTO_DIR}/${id}.${ext}`;
     if (!gh.configured) return dataUrl; // embed inline when read-only
-    // Look up an existing sha so we can overwrite.
+    // Look up an existing sha so we can overwrite (binary-safe: don't decode the image).
     let sha = null;
-    try { const existing = await gh.getFile(path); sha = existing && existing.sha; } catch (_) {}
+    try { sha = await gh.getSha(path); } catch (_) {}
     await gh.putFile(path, base64, `Add photo for ${id}`, sha);
     return `photos/${id}.${ext}`;
   },

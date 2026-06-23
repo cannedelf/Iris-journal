@@ -51,6 +51,15 @@ export const gh = {
     return { contentText: decodeURIComponent(escape(atob(json.content.replace(/\n/g, '')))), sha: json.sha };
   },
 
+  // Returns just the blob sha for a path, without decoding the content.
+  // Safe for binary files (photos) where the text decode in getFile would throw.
+  async getSha(path) {
+    const res = await this._api(`${path}?ref=${encodeURIComponent(this.branch)}`);
+    if (res.status === 404) return null;
+    if (!res.ok) throw new Error(`GitHub read failed (${res.status}): ${await res.text()}`);
+    return (await res.json()).sha;
+  },
+
   // Create or update a file. base64Content must already be base64. Returns the new sha.
   async putFile(path, base64Content, message, sha) {
     const body = { message, content: base64Content, branch: this.branch };
