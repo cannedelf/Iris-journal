@@ -980,8 +980,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Science",
-        "level": 4,
         "levelName": "Field Researcher",
+        "level": 4,
         "top": "Mad Scientist",
         "degree": "Philosophy"
       },
@@ -1096,7 +1096,13 @@
         }
       ],
       "bornRotation": 1,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "townElder": true,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "wrench",
