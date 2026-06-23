@@ -121,9 +121,10 @@ export function renderStats(container) {
   const deaths = P.filter(p => p.diedRotation).length;
 
   // Timeline of arrivals/births and deaths
+  const playedParent = (p) => (p.parents || []).some(pid => { const par = store.person(pid); return par && !par.cas; });
   const events = [];
   P.forEach(p => {
-    if (p.bornRotation) events.push({ r: p.bornRotation, d: p.bornDay || 0, emoji: (p.parents || []).length ? '👶' : '➡️', text: `${p.display || p.name} ${(p.parents || []).length ? 'born' : 'arrived'}` });
+    if (p.bornRotation) { const b = playedParent(p); events.push({ r: p.bornRotation, d: p.bornDay || 0, emoji: b ? '👶' : '➡️', text: `${p.display || p.name} ${b ? 'born' : 'arrived'}` }); }
     if (p.diedRotation) events.push({ r: p.diedRotation, d: p.diedDay || 0, emoji: '🕊️', text: `${p.display || p.name} died${p.causeOfDeath ? ' — ' + p.causeOfDeath : ''}` });
   });
   events.sort((a, b) => a.r - b.r || a.d - b.d);

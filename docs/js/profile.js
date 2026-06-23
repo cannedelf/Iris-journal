@@ -376,7 +376,8 @@ function badgesView(s) {
 function lifespanView(s) {
   if (!s.cas && !s.bornRotation && !s.diedRotation) return '';
   const cur = (store.data.meta && store.data.meta.rotation) || 1;
-  const bornLabel = (s.parents && s.parents.length) ? 'Born' : 'Arrived';
+  const playedParent = (s.parents || []).some(pid => { const par = store.person(pid); return par && !par.cas; });
+  const bornLabel = playedParent ? 'Born' : 'Arrived';
   const arrived = s.cas ? 'CAS (original)' : (s.bornRotation ? `R${s.bornRotation}${s.bornDay ? ' Day ' + s.bornDay : ''}` : '');
   const bornR = s.cas ? 1 : s.bornRotation;
   let lived = '';

@@ -806,7 +806,9 @@
             "done": true
           }
         ]
-      }
+      },
+      "bornRotation": 1,
+      "bornDay": 1
     },
     {
       "id": "kareem",
@@ -942,7 +944,9 @@
       ],
       "type": "Human",
       "yellowBow": false,
-      "adopted": false
+      "adopted": false,
+      "bornRotation": 1,
+      "bornDay": 1
     },
     {
       "id": "soren",
@@ -1089,7 +1093,9 @@
           "event": "Three bolts with Clara",
           "notes": "Kiss on the porch. Spring."
         }
-      ]
+      ],
+      "bornRotation": 1,
+      "bornDay": 1
     },
     {
       "id": "wrench",
@@ -1220,7 +1226,9 @@
       ],
       "badges": {
         "Robotics": "Silver"
-      }
+      },
+      "bornRotation": 1,
+      "bornDay": 1
     },
     {
       "id": "liv",
@@ -1351,7 +1359,9 @@
       "adopted": false,
       "badges": {
         "Flower Arranging": "Bronze"
-      }
+      },
+      "bornRotation": 1,
+      "bornDay": 1
     },
     {
       "id": "cassian",
@@ -1592,7 +1602,9 @@
       "type": "Human",
       "yellowBow": false,
       "adopted": false,
-      "badges": {}
+      "badges": {},
+      "bornRotation": 1,
+      "bornDay": 1
     },
     {
       "id": "fourth",
@@ -1727,7 +1739,9 @@
       "type": "Human",
       "yellowBow": false,
       "adopted": false,
-      "badges": {}
+      "badges": {},
+      "bornRotation": 1,
+      "bornDay": 1
     },
     {
       "id": "stillhere",
@@ -1843,7 +1857,9 @@
       "type": "Human",
       "yellowBow": false,
       "adopted": false,
-      "badges": {}
+      "badges": {},
+      "bornRotation": 1,
+      "bornDay": 1
     },
     {
       "id": "idris",
@@ -1934,7 +1950,9 @@
       "tracker": {
         "target": 20,
         "items": []
-      }
+      },
+      "bornRotation": 4,
+      "bornDay": 1
     },
     {
       "id": "clara",
@@ -2038,7 +2056,9 @@
           "event": "Three bolts with Søren",
           "notes": "Kiss on the porch. Spring."
         }
-      ]
+      ],
+      "bornRotation": 4,
+      "bornDay": 1
     },
     {
       "id": "andrea",
