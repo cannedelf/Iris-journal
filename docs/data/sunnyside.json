@@ -693,7 +693,7 @@
         "body": 0,
         "logic": 1,
         "creativity": 5,
-        "cleaning": 0
+        "cleaning": 1
       },
       "genetics": {
         "hairVisible": "Wavy golden blonde (yellow bow)",
@@ -989,12 +989,12 @@
         "degree": "Philosophy"
       },
       "skills": {
-        "cooking": 4,
+        "cooking": 5,
         "mechanical": 0,
         "charisma": 0,
         "body": 0,
-        "logic": 4,
-        "creativity": 1,
+        "logic": 5,
+        "creativity": 5,
         "cleaning": 6
       },
       "genetics": {
@@ -1145,12 +1145,12 @@
       },
       "skills": {
         "cooking": 1,
-        "mechanical": 2,
+        "mechanical": 1,
         "charisma": 0,
         "body": 0,
-        "logic": 1,
-        "creativity": 2,
-        "cleaning": 0
+        "logic": 2,
+        "creativity": 7,
+        "cleaning": 1
       },
       "genetics": {
         "hairVisible": "Curly brown (Sam's curl, Ruth's colour)",
@@ -1283,7 +1283,7 @@
         "body": 0,
         "logic": 2,
         "creativity": 1,
-        "cleaning": 1
+        "cleaning": 3
       },
       "genetics": {
         "hairVisible": "Brown, long and wavy (Ruth's hair)",
@@ -1516,13 +1516,13 @@
         "degree": "Drama"
       },
       "skills": {
-        "cooking": 0,
-        "mechanical": 0,
-        "charisma": 1,
+        "cooking": 1,
+        "mechanical": 2,
+        "charisma": 3,
         "body": 0,
         "logic": 0,
-        "creativity": 3,
-        "cleaning": 0
+        "creativity": 4,
+        "cleaning": 1
       },
       "genetics": {
         "hairVisible": "Brown, long",
@@ -1657,11 +1657,11 @@
       "skills": {
         "cooking": 0,
         "mechanical": 0,
-        "charisma": 1,
+        "charisma": 2,
         "body": 0,
-        "logic": 2,
+        "logic": 5,
         "creativity": 2,
-        "cleaning": 3
+        "cleaning": 4
       },
       "genetics": {
         "hairVisible": "Brown, neat and controlled (short, deliberately placed)",
@@ -1792,12 +1792,12 @@
         "degree": "Psychology"
       },
       "skills": {
-        "cooking": 0,
+        "cooking": 1,
         "mechanical": 3,
         "charisma": 2,
         "body": 0,
         "logic": 0,
-        "creativity": 1,
+        "creativity": 4,
         "cleaning": 0
       },
       "genetics": {
@@ -2003,7 +2003,7 @@
         "degree": "Biology"
       },
       "skills": {
-        "cooking": 0,
+        "cooking": 1,
         "mechanical": 0,
         "charisma": 0,
         "body": 2,
@@ -2109,13 +2109,13 @@
         "degree": ""
       },
       "skills": {
-        "cooking": 0,
-        "mechanical": 0,
-        "charisma": 0,
-        "body": 0,
-        "logic": 0,
-        "creativity": 0,
-        "cleaning": 0
+        "cooking": 2,
+        "mechanical": 3,
+        "charisma": 2,
+        "body": 2,
+        "logic": 3,
+        "creativity": 7,
+        "cleaning": 1
       },
       "genetics": {
         "hairVisible": "Braided bun",
