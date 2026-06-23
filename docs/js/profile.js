@@ -491,6 +491,7 @@ function simEditor(s) {
       ${row('Died — Rotation', numField('diedRotation', s.diedRotation, 1, 999))}
       ${row('Died — Day', numField('diedDay', s.diedDay, 1, 4))}
       ${row('Cause of death', textField('causeOfDeath', s.causeOfDeath, 'Old age / fire / flyby…'))}
+      ${row('⭐ Town Elder (oldest Sim — pin for Stats)', `<input type="checkbox" name="townElder" ${s.townElder ? 'checked' : ''}>`)}
     </fieldset>
 
     <fieldset><legend>Sims 2 Mechanics</legend>
@@ -750,6 +751,12 @@ function applySimForm(s, form) {
   s.daysRemaining = numVal(form, 'daysRemaining'); s.generation = val(form, 'generation');
   { const bo = numVal(form, 'birthOrder'); if (bo == null) delete s.birthOrder; else s.birthOrder = bo; }
   s.cas = form.elements['cas'] ? form.elements['cas'].checked : !!s.cas;
+  if (form.elements['townElder']) {
+    const elder = form.elements['townElder'].checked;
+    // Only one Town Elder at a time — pinning this Sim clears it from everyone else.
+    if (elder) store.data.people.forEach(p => { if (p.id !== s.id) delete p.townElder; });
+    if (elder) s.townElder = true; else delete s.townElder;
+  }
   ['bornRotation', 'bornDay', 'diedRotation', 'diedDay'].forEach(k => { const v = numVal(form, k); if (v == null) delete s[k]; else s[k] = v; });
   { const c = val(form, 'causeOfDeath'); if (!c) delete s.causeOfDeath; else s.causeOfDeath = c; }
   s.type = form.elements['type'] ? form.elements['type'].value : (s.type || 'Human');

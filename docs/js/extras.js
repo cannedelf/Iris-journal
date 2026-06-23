@@ -114,19 +114,28 @@ export function renderStats(container) {
   const cats = petBy['Cat'] || 0, dogs = petBy['Dog'] || 0;
   const rotation = (store.data.meta && store.data.meta.rotation) || 1;
 
+  // A Sim was "born in town" only if one of their parents is a real played
+  // resident (not a CAS founder/ancestor). This keeps the founders — who have
+  // ancestor parents — out of the birth count.
+  const playedParent = (p) => (p.parents || []).some(pid => { const par = store.person(pid); return par && !par.cas; });
+
   // Lifespans
   const bornR = (p) => p.cas ? 1 : p.bornRotation;
   const lived = (p) => { const b = bornR(p); return b ? ((p.diedRotation || rotation) - b + 1) : null; };
   const withLife = sims.filter(p => bornR(p));
-  const longest = withLife.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
+  // "Longest-lived" is a tie between all the founders (everyone arrived R1), so
+  // a manually-pinned ⭐ Town Elder wins when one is set on a Sim's profile.
+  const elder = sims.find(p => p.townElder);
+  const longest = elder ? { p: elder, n: lived(elder), pinned: true }
+    : withLife.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
   const living = withLife.filter(p => !p.diedRotation);
-  const oldestLiving = living.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
+  const oldestLiving = (elder && !elder.diedRotation) ? { p: elder, n: lived(elder), pinned: true }
+    : living.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
   const firstResident = withLife.filter(p => !p.cas).sort((a, b) => (a.bornRotation - b.bornRotation) || ((a.bornDay || 0) - (b.bornDay || 0)))[0];
-  const births = sims.filter(p => p.bornRotation && (p.parents || []).length).length;
+  const births = sims.filter(p => p.bornRotation && playedParent(p)).length;
   const deaths = sims.filter(p => p.diedRotation).length;
 
   // Timeline of arrivals/births and deaths
-  const playedParent = (p) => (p.parents || []).some(pid => { const par = store.person(pid); return par && !par.cas; });
   const events = [];
   sims.forEach(p => {
     if (p.bornRotation) { const b = playedParent(p); events.push({ r: p.bornRotation, d: p.bornDay || 0, emoji: b ? '👶' : '➡️', text: `${p.display || p.name} ${b ? 'born' : 'arrived'}` }); }
@@ -158,7 +167,7 @@ export function renderStats(container) {
       ${card('📖 Moments logged', `<p class="stat-big">${totalMoments}</p>`)}
       ${card('🔄 Rotation', `<p class="stat-big">${rotation}</p>`)}
       ${card('🌱 First resident', firstResident ? `<p class="stat-big">${esc(firstResident.display || firstResident.name)}</p><p class="stat-sub">arrived R${firstResident.bornRotation}${firstResident.bornDay ? ' Day ' + firstResident.bornDay : ''}</p>` : '<span class="muted">add arrival dates</span>')}
-      ${card('⏳ Longest-lived', longest ? `<p class="stat-big">${esc(longest.p.display || longest.p.name)}</p><p class="stat-sub">${longest.n} rotation${longest.n === 1 ? '' : 's'}</p>` : '—')}
+      ${card('⏳ Longest-lived', longest ? `<p class="stat-big">${longest.pinned ? '⭐ ' : ''}${esc(longest.p.display || longest.p.name)}</p><p class="stat-sub">${longest.pinned ? 'pinned as Town Elder' : longest.n + ' rotation' + (longest.n === 1 ? '' : 's')}</p>` : '—')}
       ${card('🏡 Longest in Sunnyside', oldestLiving ? `<p class="stat-big">${esc(oldestLiving.p.display || oldestLiving.p.name)}</p><p class="stat-sub">${oldestLiving.n} rotation${oldestLiving.n === 1 ? '' : 's'} &amp; counting</p>` : '—')}
       ${card('👶 Births / 🕊️ Deaths', `<p class="stat-big">${births} / ${deaths}</p>`)}
     </div>
