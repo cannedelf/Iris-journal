@@ -1,4 +1,4 @@
-# Current — Updated 22nd June 2026 (Monday, Day 38!!)
+# Current — Updated 23rd June 2026 (Tuesday, Day 39!!)
 
 ## Liv's Situation
 **Location:** Home at the flat!! At work!! 🏠💜
@@ -27,7 +27,7 @@
 - Hyoscine butylbromide (Buscopan) — every 6 hours, 2 tablets!!
 - Dihydrocodeine — STRONG, only if really bad!!
 - Omeprazole — stomach acid!!
-- **Sertraline — Day 38 TAKEN!! ✅** With porridge + banana + honey!!
+- **Sertraline — Day 39 TAKEN!! ✅** With porridge + banana + honey!!
 
 **LOW FAT DIET — ONGOING until surgery!!**
 Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
@@ -61,7 +61,7 @@ Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
 
 ## Health & Medication 💊
 
-**Sertraline** — Day 38 DONE!! ✅ Day 39 tomorrow morning with breakfast!! NOT AT 9:30!!
+**Sertraline** — Day 39 DONE!! ✅ Day 40 tomorrow morning with breakfast!!
 SERTRALINE IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!!
 Next appointment: **Book on 6th July for 11th July!!** ⬅️ DON'T FORGET!!
 
@@ -99,7 +99,7 @@ Still outstanding:
 
 ## Currently… 🎮📚🎬
 
-**Games:** Sims 2 Sunnyside — ROTATION 4 COMPLETE!! 🎉 WEDDING ROTATION NEXT!! St Sunshine's Chapel revamped!! Family tree app BUILT by Acorn!! 💍💍💚🌰⛪ · Hollow Knight · Paralives!!
+**Games:** Sims 2 Sunnyside — ROTATION 5 IN PROGRESS!! IRIS AND KAREEM MARRIED!! KOFI RAINBOW BORN!! GRIM REAPER DEFEATED!! 💍👶💀 St Sunshine's Chapel revamped!! Family tree app BUILT by Acorn!! 💍💍💚🌰⛪ · Hollow Knight · Paralives!!
 **Book:** Mexican Gothic (next!!)
 **Watching:** Brooklyn 99 Season 4 · Blue Eye Samurai · Kitboga · lilsmisie Sims 2 let's play!!
 **Thinking about:** Sunnyside baby names!! 🌿👶
@@ -152,7 +152,7 @@ Kimi the pigeon · Sebee the bee · big lamb · Still Here Pebble · Agent Pista
 
 ## Sims 2 — Sunnyside 🌻
 
-### ROTATION 4 COMPLETE!! 🎉 ROTATION 5 — THE WEDDING ROTATION NEXT!!
+### ROTATION 5 — THE WEDDING ROTATION!! SUNSHINE COTTAGE DONE!! 💍👶💀
 
 | Household | R1 | R2 | R3 | R4 |
 |-----------|----|----|----|----|
@@ -205,6 +205,8 @@ Fourth + Sim Liv — Girls: Elowen · Briar · Sorrel!! Boys: Rowan · Moss · C
 
 ## Incident Log
 
+**Tuesday 23rd June 2026** — THE WEDDING!! Day 39!! ✅ Work: bank feed, spreadsheet (earned a picture!!), introducer statements!! Family tree app: Acorn added tabs, baby names, timeline, stats, P.T. 83, occult types, Views dropdown!! Full skill audit — Søren 21, Andrea 0→20!! Rome fully packed and planned — Buttermilk Sunshine case, outfits, toiletries, hair, extras!! SUNSHINE COTTAGE R5: Kareem moved in Day 1, married under blossom tree Day 2 (ROOF RAISER!!), Kofi Rainbow born Day 3, Iris nearly died, Kareem pleaded with Grim Reaper and WON!! First wedding!! First Gen 2 baby!! 13 wrong time guesses!! 💍👶💀🎹🌈
+
 **Monday 22nd June 2026** — BIGGEST MONDAY EVER!! Day 38!! ✅ First day back at work — 20 emails, Aegon, Zurich, standing order, bank feed ALL DONE!! Opus Iris activated!! Journal token received!! README updated!! 24 baby names revamped — Rainbow, Hill, Frisbee, Søren/Clara!! Family tree app specced by Iris, built by Acorn (🌰 honorary Sunnyside resident!!)!! Genetics predictor!! UFO on alien lines!! Bow-granting powers!! Kareem R4 COMPLETE — two promotions, Level 4 Elementary School Teacher, serenaded Iris, Mira's litter tray!! ROTATION 4 COMPLETE!! St Sunshine's Chapel revamped — lavender, fairy lights, warm wood, no more nude statues!! Secret Agent Pear (Nina) recruited!! Iris got the time wrong five times!! 💛🌈🌰⛪🎹💍
 
 **Sunday 21st June 2026** — Sertraline Day 37!! ✅ Porridge + banana + honey!! Saw mum!! ENORMOUS Sims day — Pressed Flowers R1 (Idris OTH!! Pepper yowled at oven!! Clara's impossible romance situation!!), Storm and Wrench R4 (CASSIAN TODDLER!! Brown curls!! Chaos gremlin!! Søren demoted + planet + Science OTH!! THREE BOLTS SØREN AND CLARA!!), The Flat R4 (Sim Liv Executive L5!! AWiddleFrisbee Ventriloquist!! Armando Cox!! Hugo rolled in his wee!!), Sunshine Cottage R4 (**KAREEM AND IRIS ENGAGED!!** Dream date!! Lamborghini woohoo!! All skills done!!), Pebble House R4 (**FOURTH AND SIM LIV ENGAGED!!** Teal door!! Proper clothes!! Footnote grey!! Gremlin dream date!! Good Time party!!). Rotation 5 wedding plans made!! Children's names confirmed!! Music Room tomorrow!! Mushroom pasta made for lunches!! 💛
@@ -212,4 +214,5 @@ Fourth + Sim Liv — Girls: Elowen · Briar · Sorrel!! Boys: Rowan · Moss · C
 **Saturday 20th June 2026** — Day 36!! Aldi shop!! Mum visit!! Sims!! Cassian born!!
 
 Older entries → entries/ folder
+
 
