@@ -74,3 +74,8 @@ export const SIM_TYPES = [
 ];
 export const typeMeta = (name) => SIM_TYPES.find(t => t.name === name) || SIM_TYPES[0];
 
+// Open for Business talent badges.
+export const BADGE_TYPES = ['Flower Arranging', 'Robotics', 'Toy Making', 'Cosmetology', 'Cashier', 'Restocking', 'Sales'];
+export const BADGE_LEVELS = ['None', 'Bronze', 'Silver', 'Gold'];
+export const BADGE_EMOJI = { None: '⬜', Bronze: '🥉', Silver: '🥈', Gold: '🥇' };
+

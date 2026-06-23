@@ -1209,7 +1209,10 @@
           "event": "Bronze Robotics Badge",
           "notes": "Can build RoverBots!"
         }
-      ]
+      ],
+      "badges": {
+        "Robotics": "Silver"
+      }
     },
     {
       "id": "liv",
@@ -1337,7 +1340,10 @@
       ],
       "type": "Human",
       "yellowBow": false,
-      "adopted": false
+      "adopted": false,
+      "badges": {
+        "Flower Arranging": "Bronze"
+      }
     },
     {
       "id": "cassian",
@@ -2631,6 +2637,240 @@
           "notes": "Like it had personally offended her."
         }
       ]
+    }
+  ],
+  "babyNames": [
+    {
+      "family": "rainbow",
+      "label": "Rainbow — Kareem + Iris",
+      "girls": [
+        {
+          "name": "Honey",
+          "emoji": "🍯",
+          "note": "",
+          "used": false
+        },
+        {
+          "name": "Sunday",
+          "emoji": "☀️",
+          "note": "",
+          "used": false
+        },
+        {
+          "name": "Ottilie (Ottie)",
+          "emoji": "💛",
+          "note": "",
+          "used": false
+        }
+      ],
+      "boys": [
+        {
+          "name": "Kofi",
+          "emoji": "🌿",
+          "note": "Ghanaian heritage name",
+          "used": false
+        },
+        {
+          "name": "Pip",
+          "emoji": "🫐",
+          "note": "",
+          "used": false
+        },
+        {
+          "name": "Bramble",
+          "emoji": "🌾",
+          "note": "",
+          "used": false
+        }
+      ]
+    },
+    {
+      "family": "hill",
+      "label": "Hill — Wrench + Andrea",
+      "girls": [
+        {
+          "name": "Dolly",
+          "emoji": "🌸",
+          "note": "🔧 secret tool!",
+          "used": false
+        },
+        {
+          "name": "Opal",
+          "emoji": "💎",
+          "note": "Andrea’s pick",
+          "used": false
+        },
+        {
+          "name": "Bobbin (Bobbie)",
+          "emoji": "🧵",
+          "note": "🔧 secret tool!",
+          "used": false
+        }
+      ],
+      "boys": [
+        {
+          "name": "Ratchet",
+          "emoji": "⚙️",
+          "note": "🔧 secret tool!",
+          "used": false
+        },
+        {
+          "name": "Rivet",
+          "emoji": "🔩",
+          "note": "🔧 secret tool!",
+          "used": false
+        },
+        {
+          "name": "Felix",
+          "emoji": "🎩",
+          "note": "Andrea’s pick",
+          "used": false
+        }
+      ]
+    },
+    {
+      "family": "frisbee",
+      "label": "Frisbee — Fourth + Sim Liv",
+      "girls": [
+        {
+          "name": "Posey",
+          "emoji": "🌼",
+          "note": "Liv’s pick",
+          "used": false
+        },
+        {
+          "name": "Page",
+          "emoji": "📖",
+          "note": "Fourth’s pick — NOT Paige!",
+          "used": false
+        },
+        {
+          "name": "Daffodil (Daffy)",
+          "emoji": "🌼",
+          "note": "Liv’s pick",
+          "used": false
+        }
+      ],
+      "boys": [
+        {
+          "name": "Cricket",
+          "emoji": "🦗",
+          "note": "Liv’s pick",
+          "used": false
+        },
+        {
+          "name": "Finch",
+          "emoji": "🪶",
+          "note": "Fourth’s pick",
+          "used": false
+        },
+        {
+          "name": "Moss",
+          "emoji": "🟢",
+          "note": "Liv’s pick",
+          "used": false
+        }
+      ]
+    },
+    {
+      "family": "hill-soren",
+      "label": "Hill — Søren + Clara (if Sunnyside decides!)",
+      "girls": [
+        {
+          "name": "Halley",
+          "emoji": "🌟",
+          "note": "Søren’s pick",
+          "used": false
+        },
+        {
+          "name": "Tansy",
+          "emoji": "🌿",
+          "note": "Clara’s pick",
+          "used": false
+        },
+        {
+          "name": "Juniper (Juni)",
+          "emoji": "🌿",
+          "note": "Clara’s pick",
+          "used": false
+        }
+      ],
+      "boys": [
+        {
+          "name": "Newton (Newt)",
+          "emoji": "🦎",
+          "note": "Søren’s pick",
+          "used": false
+        },
+        {
+          "name": "Niels",
+          "emoji": "❄️",
+          "note": "Søren’s pick",
+          "used": false
+        },
+        {
+          "name": "Bracken",
+          "emoji": "🌿",
+          "note": "Clara’s pick",
+          "used": false
+        }
+      ]
+    }
+  ],
+  "lots": [
+    {
+      "name": "The Golden Anchor",
+      "emoji": "🍺",
+      "status": "Open",
+      "notes": "Beach road!!"
+    },
+    {
+      "name": "St Sunshine’s Chapel",
+      "emoji": "⛪",
+      "status": "Wedding Ready",
+      "notes": "Lavender, fairy lights, warm wood!!"
+    },
+    {
+      "name": "The Sunflower Diner",
+      "emoji": "🌻",
+      "status": "Needs Revamp",
+      "notes": "Currently 50s pink, should be Sunnyside!!"
+    },
+    {
+      "name": "Sunflower Meadow Park",
+      "emoji": "🌳",
+      "status": "Needs Rebuild",
+      "notes": "Lags with camera, needs delag!!"
+    },
+    {
+      "name": "Clothes Shop",
+      "emoji": "👗",
+      "status": "Open",
+      "notes": "Shopping street"
+    },
+    {
+      "name": "Pet Shop",
+      "emoji": "🐾",
+      "status": "Open",
+      "notes": "Shopping street"
+    },
+    {
+      "name": "Food Shop",
+      "emoji": "🛒",
+      "status": "Becoming Florist",
+      "notes": "Ownership TBD"
+    },
+    {
+      "name": "The Honeyed Crumb",
+      "emoji": "☕",
+      "status": "Not Built",
+      "notes": "Space waiting on shopping street"
+    },
+    {
+      "name": "Seafront Pool",
+      "emoji": "🏊",
+      "status": "Open",
+      "notes": "Near Golden Anchor"
     }
   ]
 }

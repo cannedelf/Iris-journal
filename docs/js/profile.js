@@ -5,7 +5,8 @@
 import { store } from './store.js';
 import {
   ASPIRATIONS, STAR_SIGNS, SKILLS, LIFE_STAGES, PERSONALITY, CAREER_TRACKS, OTH,
-  BODY_FRAMES, REL_TYPES, PET_SPECIES, SIM_TYPES, typeMeta, glyphFor
+  BODY_FRAMES, REL_TYPES, PET_SPECIES, SIM_TYPES, typeMeta, glyphFor,
+  BADGE_TYPES, BADGE_LEVELS, BADGE_EMOJI
 } from './constants.js';
 
 const panel = () => document.getElementById('panel');
@@ -63,6 +64,44 @@ function householdEditor(h) {
     <div class="editor-foot">${h._isNew ? '' : '<button type="button" data-delete-hh class="danger">🗑 Delete</button>'}<span class="spacer"></span><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save changes</button></div>
   </form>`;
 }
+// ---------- community lots --------------------------------------------------
+function lotEditor(l) {
+  return `<form class="editor" id="editForm">
+    <div class="editor-head"><h2>${l._isNew ? 'New community lot' : 'Edit ' + esc(l.name)}</h2>
+      <div class="editor-actions"><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save</button></div></div>
+    <fieldset><legend>🏘️ Community Lot</legend>
+      ${row('Name', textField('name', l.name, 'The Golden Anchor'))}
+      ${row('Emoji', textField('emoji', l.emoji, '🍺'))}
+      ${row('Status', textField('status', l.status, 'Open / Needs Revamp / Not Built…'))}
+      ${row('Notes', textField('notes', l.notes, ''))}
+    </fieldset>
+    <div class="editor-foot">${l._isNew ? '' : '<button type="button" data-delete-lot class="danger">🗑 Delete</button>'}<span class="spacer"></span><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save changes</button></div>
+  </form>`;
+}
+export function openNewLot() { const l = { name: '', emoji: '🏠', status: '', notes: '', _isNew: true }; panel().classList.add('open'); panel().innerHTML = lotEditor(l); wireLotEditor(l, -1); }
+export function openLot(index) { const l = (store.data.lots || [])[index]; if (!l) return; panel().classList.add('open'); panel().innerHTML = lotEditor(l); wireLotEditor(l, index); }
+function wireLotEditor(l, index) {
+  const form = document.getElementById('editForm');
+  form.querySelectorAll('[data-cancel]').forEach(b => b.addEventListener('click', closePanel));
+  const del = form.querySelector('[data-delete-lot]');
+  if (del) del.addEventListener('click', async () => {
+    if (!confirm(`Delete the "${l.name}" lot?`)) return;
+    store.data.lots.splice(index, 1);
+    await store.commit(`Delete lot ${l.name}`);
+    window.dispatchEvent(new CustomEvent('data-updated'));
+    closePanel();
+  });
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    l.name = val(form, 'name'); l.emoji = val(form, 'emoji'); l.status = val(form, 'status'); l.notes = val(form, 'notes');
+    if (l._isNew) { delete l._isNew; store.data.lots = store.data.lots || []; store.data.lots.push(l); }
+    const res = await store.commit(`Update lot ${l.name || ''}`);
+    window.dispatchEvent(new CustomEvent('data-updated'));
+    closePanel();
+    if (!res.saved) flashSaveWarning(res.reason);
+  });
+}
+
 export function openNewHousehold() { const h = { id: uid('hh'), name: '', emoji: '🏠', location: '', features: '', movedIn: '', _isNew: true }; panel().classList.add('open'); panel().innerHTML = householdEditor(h); wireHouseholdEditor(h); }
 export function openHousehold(id) { const h = store.household(id); if (!h) return; panel().classList.add('open'); panel().innerHTML = householdEditor(h); wireHouseholdEditor(h); }
 
@@ -202,6 +241,8 @@ function simView(s) {
       ${SKILLS.map(k => bar(k[0].toUpperCase() + k.slice(1), s.skills?.[k])).join('')}
     </section>
 
+    ${badgesView(s)}
+
     <section><h3>Genetics 🧬</h3>
       <dl class="kv">
         ${kv('Hair (visible)', g.hairVisible)}
@@ -291,6 +332,15 @@ function trackerView(s) {
     <p class="lw-count">${done}/${target}</p>
     ${items.length ? `<ul class="lw-list">${rows}</ul>` : '<p class="muted">No progress logged yet — add some in Edit.</p>'}
   </section>`;
+}
+
+// 🏅 OFB talent badges.
+function badgesView(s) {
+  const b = s.badges || {};
+  const earned = Object.entries(b).filter(([, lvl]) => lvl && lvl !== 'None');
+  if (!earned.length) return '';
+  return `<section><h3>🏅 Badges</h3>
+    <ul class="badge-list">${earned.map(([name, lvl]) => `<li>${BADGE_EMOJI[lvl] || ''} ${esc(name)} — <b>${esc(lvl)}</b></li>`).join('')}</ul></section>`;
 }
 
 const kv = (k, v) => (v || v === 0) ? `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>` : '';
@@ -397,6 +447,10 @@ function simEditor(s) {
 
     <fieldset><legend>Skills (0–10)</legend>
       ${SKILLS.map(k => row(k[0].toUpperCase() + k.slice(1), numField('sk_' + k, sk[k]))).join('')}
+    </fieldset>
+
+    <fieldset><legend>🏅 Badges (Open for Business)</legend>
+      ${BADGE_TYPES.map(t => row(t, `<select name="badge_${esc(t)}">${BADGE_LEVELS.map(l => `<option ${((s.badges || {})[t] || 'None') === l ? 'selected' : ''}>${l}</option>`).join('')}</select>`)).join('')}
     </fieldset>
 
     <fieldset><legend>Genetics 🧬</legend>
@@ -653,6 +707,8 @@ function applySimForm(s, form) {
     .filter(it => it.label || it.id);
   const trTarget = numVal(form, 'tracker_target');
   s.tracker = (trTarget || trItems.length) ? { target: trTarget || 0, items: trItems } : undefined;
+  s.badges = {};
+  BADGE_TYPES.forEach(t => { const v = form.elements['badge_' + t] ? form.elements['badge_' + t].value : 'None'; if (v && v !== 'None') s.badges[t] = v; });
 }
 
 function applyPetForm(pt, form) {

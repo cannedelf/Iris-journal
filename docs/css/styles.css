@@ -293,6 +293,40 @@ a { color: var(--green); }
 .gene-magic { font-size: 13px; color: #8a6a3a; margin: 10px 0 0; }
 .carried { font-size: 13px; color: #8a6a3a; background: #fff3da; border-left: 3px solid var(--gold); padding: 6px 10px; border-radius: 6px; margin: 8px 0 0; }
 
+/* Extra views (Names / Lots / Stats) */
+.extras-view { max-width: 920px; margin: 0 auto; padding: 24px; height: 100%; overflow-y: auto; }
+.extras-h { color: #8a5a1a; margin: 0 0 4px; }
+.extras-sub { color: var(--ink-soft); margin: 0 0 18px; }
+
+.name-family { background: #fff; border: 1.5px solid var(--line); border-left-width: 5px; border-radius: 14px; padding: 14px 18px; margin-bottom: 16px; box-shadow: var(--shadow); }
+.name-family h3 { margin: 0 0 10px; color: #8a5a1a; }
+.name-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+.name-col h4 { margin: 0 0 6px; color: var(--ink-soft); font-size: 13px; text-transform: uppercase; letter-spacing: .04em; }
+.name-col ul { list-style: none; padding: 0; margin: 0; }
+.name-item { display: flex; align-items: center; gap: 7px; padding: 5px 0; font-size: 15px; }
+.name-tick { border: none; background: none; cursor: pointer; font-size: 16px; padding: 0; }
+.name-item.used .name-text { text-decoration: line-through; color: #b3a890; }
+.name-item.used .name-emoji { opacity: .4; }
+.name-item.next { background: #fff7e0; border-radius: 8px; padding: 5px 6px; }
+.name-next { background: var(--gold); color: #fff; font-size: 10px; font-weight: 700; padding: 1px 7px; border-radius: 999px; }
+.name-note { color: #a4937a; font-size: 12px; font-style: italic; margin-left: auto; }
+
+.lots-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px; }
+.lot-card { position: relative; background: #fff; border: 1.5px solid var(--line); border-radius: 14px; padding: 14px 16px; box-shadow: var(--shadow); }
+.lot-card h3 { margin: 0 0 6px; }
+.lot-status { font-weight: 600; margin: 0 0 6px; }
+.lot-notes { color: var(--ink-soft); font-size: 13px; margin: 0; }
+
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+.stat-card { background: #fff; border: 1.5px solid var(--line); border-radius: 14px; padding: 14px 18px; box-shadow: var(--shadow); }
+.stat-card h3 { margin: 0 0 8px; font-size: 15px; color: #8a5a1a; }
+.stat-big { font-family: Georgia, serif; font-size: 30px; font-weight: 700; color: var(--ink); margin: 0; }
+.stat-sub { color: var(--ink-soft); font-size: 13px; margin: 4px 0 0; }
+.stat-dist-row { display: flex; justify-content: space-between; font-size: 14px; padding: 2px 0; border-bottom: 1px dotted var(--line); }
+
+.badge-list { list-style: none; padding: 0; margin: 0; }
+.badge-list li { font-size: 14px; padding: 3px 0; }
+
 .toast { position: fixed; bottom: 22px; left: 50%; transform: translateX(-50%); background: var(--ink); color: #fff; padding: 11px 18px; border-radius: 12px; font-size: 14px; box-shadow: var(--shadow); z-index: 80; }
 
 @media (max-width: 640px) {

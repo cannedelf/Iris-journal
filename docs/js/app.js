@@ -4,7 +4,8 @@ import { store } from './store.js';
 import { gh } from './github.js';
 import { renderTree, renderHouseholds, getColourMode, setColourMode } from './tree.js';
 import { renderPredictor } from './predictor.js';
-import { openProfile, openNewSim, openNewPet, openNewHousehold, openHousehold } from './profile.js';
+import { renderNames, renderLots, renderStats } from './extras.js';
+import { openProfile, openNewSim, openNewPet, openNewHousehold, openHousehold, openNewLot, openLot } from './profile.js';
 import { SIM_TYPES } from './constants.js';
 
 let current = { view: 'tree', family: 'rainbow' };
@@ -51,12 +52,12 @@ function render() {
   // Active states.
   document.querySelectorAll('.tab').forEach(t =>
     t.classList.toggle('active', current.view === 'tree' && t.dataset.family === current.family));
-  el('btnHouseholds').classList.toggle('active', current.view === 'households');
-  el('btnPredict').classList.toggle('active', current.view === 'predict');
+  ['btnHouseholds:households', 'btnPredict:predict', 'btnNames:names', 'btnLots:lots', 'btnStats:stats']
+    .forEach(pair => { const [id, v] = pair.split(':'); const b = el(id); if (b) b.classList.toggle('active', current.view === v); });
 
   const stage = el('stage');
-  if (current.view === 'households') { renderHouseholds(stage); el('legend').classList.remove('show'); return; }
-  if (current.view === 'predict') { renderPredictor(stage); el('legend').classList.remove('show'); return; }
+  const views = { households: renderHouseholds, predict: renderPredictor, names: renderNames, lots: renderLots, stats: renderStats };
+  if (views[current.view]) { views[current.view](stage); el('legend').classList.remove('show'); return; }
   renderTree(stage, current.family);
   if (typeof updateColourUI === 'function') updateColourUI();
 }
@@ -85,6 +86,11 @@ function closeSearch() { el('searchOverlay').classList.remove('open'); }
 function bindControls() {
   el('btnHouseholds').addEventListener('click', () => { current.view = current.view === 'households' ? 'tree' : 'households'; render(); });
   el('btnPredict').addEventListener('click', () => { current.view = current.view === 'predict' ? 'tree' : 'predict'; render(); });
+  el('btnNames').addEventListener('click', () => { current.view = current.view === 'names' ? 'tree' : 'names'; render(); });
+  el('btnLots').addEventListener('click', () => { current.view = current.view === 'lots' ? 'tree' : 'lots'; render(); });
+  el('btnStats').addEventListener('click', () => { current.view = current.view === 'stats' ? 'tree' : 'stats'; render(); });
+  el('addMenu').querySelector('[data-add-lot]').addEventListener('click', () => { el('addMenu').classList.remove('open'); openNewLot(); });
+  window.addEventListener('open-lot', (e) => openLot(e.detail.index));
   el('btnColour').addEventListener('click', () => {
     setColourMode(getColourMode() === 'family' ? 'type' : 'family');
     updateColourUI();
