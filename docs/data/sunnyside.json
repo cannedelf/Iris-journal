@@ -1480,8 +1480,8 @@
       "bodyFrame": "Female",
       "career": {
         "track": "Entertainment",
-        "level": 5,
         "levelName": "Ventriloquist",
+        "level": 5,
         "top": "Prestidigitator",
         "degree": "Drama"
       },
@@ -1579,7 +1579,12 @@
           "event": "Armando Cox in the eye-print shirt",
           "notes": "2 bolts. Same day they met."
         }
-      ]
+      ],
+      "birthOrder": 1,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "fourth",
