@@ -627,10 +627,13 @@ function parentsEditor(items) {
 
 function partnerEditor(items) {
   return `<fieldset data-list="partners"><legend>Partners</legend>
+    <p class="hint">💒 R/D = the rotation &amp; day they married — only fill it in on one partner, the Timeline shows it once.</p>
     <div class="rows">${items.map(p => `<div class="lrow">
       <select name="partners_id[]">${peopleOptions(p.id)}</select>
       <input name="partners_status[]" placeholder="Status" value="${esc(p.status)}">
       <input name="partners_bolts[]" type="number" min="0" max="3" placeholder="bolts" value="${p.bolts ?? ''}">
+      <input name="partners_wedR[]" type="number" min="1" max="999" placeholder="💒R" title="Wedding rotation" value="${p.weddingRotation ?? ''}">
+      <input name="partners_wedD[]" type="number" min="1" max="4" placeholder="D" title="Wedding day" value="${p.weddingDay ?? ''}">
       <button type="button" class="del" data-del>✕</button></div>`).join('')}</div>
     <button type="button" class="add" data-add="partners">+ Add partner</button></fieldset>`;
 }
@@ -688,7 +691,7 @@ function wireEditor(node, isPet) {
     const rows = add.previousElementSibling;
     if (kind === 'tracker') rows.insertAdjacentHTML('beforeend', trackerRow());
     else if (kind === 'parents') rows.insertAdjacentHTML('beforeend', parentRow());
-    else if (kind === 'partners') rows.insertAdjacentHTML('beforeend', `<div class="lrow"><select name="partners_id[]">${peopleOptions('')}</select><input name="partners_status[]" placeholder="Status"><input name="partners_bolts[]" type="number" min="0" max="3" placeholder="bolts"><button type="button" class="del" data-del>✕</button></div>`);
+    else if (kind === 'partners') rows.insertAdjacentHTML('beforeend', `<div class="lrow"><select name="partners_id[]">${peopleOptions('')}</select><input name="partners_status[]" placeholder="Status"><input name="partners_bolts[]" type="number" min="0" max="3" placeholder="bolts"><input name="partners_wedR[]" type="number" min="1" max="999" placeholder="💒R" title="Wedding rotation"><input name="partners_wedD[]" type="number" min="1" max="4" placeholder="D" title="Wedding day"><button type="button" class="del" data-del>✕</button></div>`);
     else if (kind === 'rels') rows.insertAdjacentHTML('beforeend', relRow());
     else if (kind === 'moments') rows.insertAdjacentHTML('beforeend', momentRow({}, false));
     else if (kind === 'moments_pet') rows.insertAdjacentHTML('beforeend', momentRow({}, true));
@@ -778,7 +781,13 @@ function applySimForm(s, form) {
   s.car = val(form, 'car'); s.carNotes = val(form, 'carNotes');
   s.parents = arr(form, 'parents[]').map(v => v.trim()).filter(Boolean);
   const pid = arr(form, 'partners_id[]'), pst = arr(form, 'partners_status[]'), pb = arr(form, 'partners_bolts[]');
-  s.partners = pid.map((id, i) => ({ id: id.trim(), status: pst[i] || '', bolts: pb[i] === '' ? null : Number(pb[i]) })).filter(p => p.id);
+  const pwr = arr(form, 'partners_wedR[]'), pwd = arr(form, 'partners_wedD[]');
+  s.partners = pid.map((id, i) => {
+    const p = { id: id.trim(), status: pst[i] || '', bolts: pb[i] === '' ? null : Number(pb[i]) };
+    if (pwr[i] !== '' && pwr[i] != null) p.weddingRotation = Number(pwr[i]);
+    if (pwd[i] !== '' && pwd[i] != null) p.weddingDay = Number(pwd[i]);
+    return p;
+  }).filter(p => p.id);
   const rid = arr(form, 'rel_id[]'), rt = arr(form, 'rel_type[]'), rb = arr(form, 'rel_bolts[]'), rn = arr(form, 'rel_notes[]');
   s.relationships = rid.map((id, i) => ({ id: id.trim(), type: rt[i] || '', bolts: rb[i] === '' ? null : Number(rb[i]), notes: rn[i] || '' })).filter(r => r.id);
   const mr = arr(form, 'mom_rotation[]'), me = arr(form, 'mom_event[]'), mn = arr(form, 'mom_notes[]');

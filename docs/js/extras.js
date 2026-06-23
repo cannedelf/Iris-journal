@@ -135,12 +135,23 @@ export function renderStats(container) {
   const births = sims.filter(p => p.bornRotation && playedParent(p)).length;
   const deaths = sims.filter(p => p.diedRotation).length;
 
-  // Timeline of arrivals/births and deaths
+  // Timeline of arrivals/births, deaths and weddings
   const events = [];
   sims.forEach(p => {
     if (p.bornRotation) { const b = playedParent(p); events.push({ r: p.bornRotation, d: p.bornDay || 0, emoji: b ? '👶' : '➡️', text: `${p.display || p.name} ${b ? 'born' : 'arrived'}` }); }
     if (p.diedRotation) events.push({ r: p.diedRotation, d: p.diedDay || 0, emoji: '🕊️', text: `${p.display || p.name} died${p.causeOfDeath ? ' — ' + p.causeOfDeath : ''}` });
   });
+  // Weddings live on the partner link. Either partner can carry the date, so we
+  // dedupe by the unordered pair and show each marriage once.
+  const seenWed = new Set();
+  const nameOf = (p) => p ? (p.display || p.name) : '?';
+  P.forEach(p => (p.partners || []).forEach(pr => {
+    if (pr.weddingRotation == null) return;
+    const key = [p.id, pr.id].sort().join('+');
+    if (seenWed.has(key)) return;
+    seenWed.add(key);
+    events.push({ r: pr.weddingRotation, d: pr.weddingDay || 0, emoji: '💒', text: `${nameOf(p)} & ${nameOf(store.person(pr.id))} married` });
+  }));
   events.sort((a, b) => a.r - b.r || a.d - b.d);
   const timelineHtml = events.length
     ? `<div class="timeline">${events.map(e => `<div class="tl-row"><span class="tl-when">R${e.r}${e.d ? ' D' + e.d : ''}</span><span>${e.emoji} ${esc(e.text)}</span></div>`).join('')}</div>`
