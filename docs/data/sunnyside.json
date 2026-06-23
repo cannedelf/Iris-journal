@@ -140,7 +140,7 @@
       "location": "Sunnyside, near the shops",
       "features": "Yellow door, art studio, sunflower garden",
       "movedIn": "2026-06-07",
-      "daysThisRotation": 0
+      "daysThisRotation": 3
     },
     {
       "id": "music_room",
@@ -681,8 +681,8 @@
       "bodyFrame": "Female",
       "career": {
         "track": "Artist",
-        "levelName": "Comic Book Penciller",
-        "level": 4,
+        "levelName": "Wedding Photographer",
+        "level": 5,
         "top": "Visionary",
         "degree": "Fine Arts"
       },
@@ -711,7 +711,7 @@
       "partners": [
         {
           "id": "kareem",
-          "status": "Engaged",
+          "status": "Married",
           "bolts": 2
         }
       ],
@@ -794,6 +794,11 @@
           "rotation": "R4",
           "event": "ENGAGED TO KAREEM",
           "notes": "Blue velvet box! She said YES!"
+        },
+        {
+          "rotation": "R5",
+          "event": "Promoted to Wedding Photographer — the day before her own wedding!! Married Kareem under the blossom tree. Roof Raiser. Kofi born. Nearly died — Kareem pleaded with the Grim Reaper and WON.",
+          "notes": "The biggest day in Sunnyside history."
         }
       ],
       "type": "Human",
@@ -817,11 +822,11 @@
     {
       "id": "kareem",
       "kind": "sim",
-      "name": "Kareem Osei",
+      "name": "Kareem Rainbow",
       "display": "Kareem",
       "emoji": "🎹",
       "family": "rainbow",
-      "household": "music_room",
+      "household": "sunshine_cottage",
       "preMarriageName": "Kareem Osei",
       "lifeStage": "Adult",
       "daysRemaining": null,
@@ -878,7 +883,7 @@
       "partners": [
         {
           "id": "iris",
-          "status": "Engaged",
+          "status": "Married",
           "bolts": 2
         }
       ],
@@ -944,6 +949,11 @@
           "rotation": "R4",
           "event": "Two promotions — Level 4 Elementary School Teacher! Serenaded Iris on their last evening at the Music Room",
           "notes": "Mira's litter tray got him the cleaning skill. The windmill's farewell."
+        },
+        {
+          "rotation": "R5",
+          "event": "Married Iris under the blossom tree. Kofi born. Pleaded with the Grim Reaper for Iris's life — and WON.",
+          "notes": "Came home from work to save his wife. The daisies finally have a family."
         }
       ],
       "type": "Human",
@@ -2495,6 +2505,86 @@
           "notes": "Confessed to inflating to 26. Humbly returned the excess. Justice served. 😂📊"
         }
       ]
+    },
+    {
+      "id": "kofi",
+      "kind": "sim",
+      "name": "Kofi Rainbow",
+      "display": "Kofi",
+      "emoji": "🌿",
+      "family": "rainbow",
+      "household": "sunshine_cottage",
+      "preMarriageName": "",
+      "lifeStage": "Baby",
+      "daysRemaining": 0,
+      "generation": "Gen 2",
+      "photo": "",
+      "aspiration": "",
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "starSign": "",
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "Male",
+      "career": {
+        "track": "",
+        "level": 0,
+        "levelName": "",
+        "topOfCareer": "",
+        "degree": ""
+      },
+      "skills": {
+        "cooking": 0,
+        "mechanical": 0,
+        "charisma": 0,
+        "body": 0,
+        "logic": 0,
+        "creativity": 0,
+        "cleaning": 0
+      },
+      "genetics": {
+        "hairVisible": "Unknown — baby!!",
+        "hairHidden": "Could carry blonde from Claire!!",
+        "eyesVisible": "Dark brown — from Kareem/Samuel",
+        "eyesHidden": "Could carry lilac from Claire!!",
+        "skinTone": "Warm brown",
+        "freckles": false,
+        "notableFeatures": "First Rainbow baby!!",
+        "fromMum": "TBD when he grows up!!",
+        "fromDad": "Dark brown eyes, warm skin",
+        "geneticNotes": "Claire's hidden blonde and lilac could be hiding in Kofi!! Won't know until he has children of his own!!"
+      },
+      "parents": [
+        "kareem",
+        "iris"
+      ],
+      "partners": [],
+      "relationships": [],
+      "lockedWants": [],
+      "fears": [],
+      "car": "",
+      "carNotes": "",
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "Born in Sunshine Cottage. Mum nearly died — Dad pleaded with the Grim Reaper and won.",
+          "notes": "First Rainbow baby. Born the day after his parents' wedding. Heritage name — Ghanaian soul name for Friday."
+        }
+      ],
+      "type": "living",
+      "adopted": false,
+      "bornRotation": "R5",
+      "bornDay": 3,
+      "yellowBow": false
     }
   ],
   "pets": [
@@ -2732,7 +2822,7 @@
           "name": "Kofi",
           "emoji": "🌿",
           "note": "Ghanaian heritage name",
-          "used": false
+          "used": true
         },
         {
           "name": "Pip",
