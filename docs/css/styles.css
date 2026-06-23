@@ -98,7 +98,7 @@ a { color: var(--green); }
 .type-badge text { pointer-events: none; }
 .node.faded { opacity: .55; }
 .node.faded:hover { opacity: .85; }
-.node-name { font: 700 13px Georgia, serif; fill: var(--ink); paint-order: stroke; stroke: #fbf6ec; stroke-width: 3.5px; stroke-linejoin: round; }
+.node-name { font: 700 12px Georgia, serif; fill: var(--ink); paint-order: stroke; stroke: #fbf6ec; stroke-width: 3px; stroke-linejoin: round; }
 .node-sub { font: 500 12px "Segoe UI", sans-serif; fill: var(--ink-soft); }
 .node-foot { font: 500 11px "Segoe UI", sans-serif; fill: #a4937a; }
 .node.ancestor .node-name { fill: #8c7f6c; }
