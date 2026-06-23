@@ -1,6 +1,8 @@
 # Rome Packing List & Outfits 🏛️☀️🧳
 *Sunday 29th June — Thursday 3rd July 2026*
 *Ryanair!! Buttermilk Sunshine in the hold, small cabin bag on the plane!!*
+*Going with: AWiddleFrisbee 🍊, Mum, Dad — Dad's birthday trip!! 🎂🏛️*
+*Staying: Airbnb (kitchen + fridge + plugs!!)*
 
 ---
 
@@ -100,17 +102,30 @@ Only 2 pairs!! Maximum suitcase space!!
 ---
 
 ## Cabin Bag (under seat, 40x30x20cm!!) 🎒
-📱 Phone + charger
-🔋 Portable charger (FIND IT!!)
+
+**Tech:**
+📱 Phone
+🔌 1 USB cable (charges phone + portable charger + headphones!!)
+🔋 Portable charger (FIND IT!! Share with AWiddleFrisbee!!)
 🎧 Headphones
+🔌 Travel adapter (parents have spare backup!!)
+
+**Essentials:**
+🛂 Passport (CHECK EXPIRY DATE!!)
+💳 Revolut card + backup bank card
 💊 Sertraline + any meds needed on flight
-🛂 Passport
-💳 Revolut card + any other cards
 🔑 House keys
+
+**Comfort:**
 📖 Something to read / phone entertainment
 🍌 Snacks for the plane
 💧 Empty water bottle (fill after security!!)
-🧥 Black cardigan?? For plane AC?? (Optional — check if you want this!!)
+
+**Before flying (phone stuff!!):**
+📱 Download offline Google Maps of Rome
+📱 Download boarding passes to phone
+📱 Save Airbnb address + check-in instructions offline
+📱 Check Revolut app is working + load euros!!
 
 ---
 
@@ -140,8 +155,8 @@ Only 2 pairs!! Maximum suitcase space!!
 - ✅ Toiletries — SORTED!!
 - ✅ Makeup — SORTED!! Primer, mascara, brow gel, lips!!
 - Any extras (plasters, paracetamol, hand sanitiser, tissues)
-- Download offline maps of Rome
-- Check if Revolut needs activating for abroad
+- ✅ Download offline maps — on the before-flying checklist!!
+- ✅ Revolut — on the before-flying checklist!!
 - Evening bag or just use crossbody??
 - Day bag situation — is crossbody big enough for water bottle + SPF + phone + wallet??
 - Do we need a light layer for evenings?? Rome evenings in June can be warm but check forecast closer to the time
@@ -149,4 +164,5 @@ Only 2 pairs!! Maximum suitcase space!!
 ---
 
 *Planned by Iris 🌈 and Liv 💛 on Tuesday 23rd June 2026 between spreadsheets and Sims and a sunshine-coloured cordial!! 🧳☀️🏛️*
+
 
