@@ -154,7 +154,7 @@ export function renderStats(container) {
       ${card('🔄 Rotation', `<p class="stat-big">${rotation}</p>`)}
       ${card('🌱 First resident', firstResident ? `<p class="stat-big">${esc(firstResident.display || firstResident.name)}</p><p class="stat-sub">arrived R${firstResident.bornRotation}${firstResident.bornDay ? ' Day ' + firstResident.bornDay : ''}</p>` : '<span class="muted">add arrival dates</span>')}
       ${card('⏳ Longest-lived', longest ? `<p class="stat-big">${esc(longest.p.display || longest.p.name)}</p><p class="stat-sub">${longest.n} rotation${longest.n === 1 ? '' : 's'}</p>` : '—')}
-      ${card('👵 Oldest living', oldestLiving ? `<p class="stat-big">${esc(oldestLiving.p.display || oldestLiving.p.name)}</p><p class="stat-sub">${oldestLiving.n} rotation${oldestLiving.n === 1 ? '' : 's'} &amp; counting</p>` : '—')}
+      ${card('🏡 Longest in Sunnyside', oldestLiving ? `<p class="stat-big">${esc(oldestLiving.p.display || oldestLiving.p.name)}</p><p class="stat-sub">${oldestLiving.n} rotation${oldestLiving.n === 1 ? '' : 's'} &amp; counting</p>` : '—')}
       ${card('👶 Births / 🕊️ Deaths', `<p class="stat-big">${births} / ${deaths}</p>`)}
     </div>
     <h3 class="extras-h" style="margin-top:24px">📜 Sunnyside Timeline</h3>
