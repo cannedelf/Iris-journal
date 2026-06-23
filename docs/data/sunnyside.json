@@ -1752,8 +1752,8 @@
       "bodyFrame": "Female",
       "career": {
         "track": "Slacker",
-        "level": 5,
         "levelName": "Party DJ",
+        "level": 5,
         "top": "Professional Party Guest",
         "degree": "Psychology"
       },
@@ -1830,7 +1830,12 @@
           "event": "Dream date at The Golden Anchor with Benjamin",
           "notes": "The Gremlin woohoo! Zero bolts, in love anyway."
         }
-      ]
+      ],
+      "birthOrder": 2,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "idris",
