@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "neighbourhood": "Sunnyside",
-    "updated": "2026-06-22",
+    "updated": "2026-06-23",
     "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub.",
     "eyeColours": [
       {
@@ -86,7 +86,7 @@
         "dominant": false
       }
     ],
-    "rotation": 3
+    "rotation": 4
   },
   "families": [
     {
