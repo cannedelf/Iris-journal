@@ -85,8 +85,13 @@ export function renderLots(container) {
 // ---------- 📊 Stats ----------
 export function renderStats(container) {
   const P = store.data.people, PETS = store.data.pets || [];
-  const sims = P.filter(p => p.kind !== 'ancestor');
-  const ancestors = P.filter(p => p.kind === 'ancestor');
+  // Sims that only ever existed in CAS — e.g. the alien P.T. 83 used for an
+  // abduction, or genetic-reference Sims — aren't real residents, so we leave
+  // them out of every count. (Ancestors are a separate, deliberate category.)
+  const casOnly = (p) => p.kind !== 'ancestor' && p.cas;
+  const people = P.filter(p => !casOnly(p));
+  const sims = people.filter(p => p.kind !== 'ancestor');
+  const ancestors = people.filter(p => p.kind === 'ancestor');
   const playable = sims.filter(p => p.family !== 'townie');
   const townies = sims.filter(p => p.family === 'townie');
 
@@ -105,25 +110,25 @@ export function renderStats(container) {
   const skillKeys = ['cooking', 'mechanical', 'charisma', 'body', 'logic', 'creativity', 'cleaning'];
   let totalSkill = 0, mostSkilled = null, top = -1;
   sims.forEach(p => { const t = skillKeys.reduce((a, k) => a + ((p.skills && p.skills[k]) || 0), 0); totalSkill += t; if (t > top) { top = t; mostSkilled = p; } });
-  const totalMoments = [...P, ...PETS].reduce((a, p) => a + ((p.moments || []).length), 0);
+  const totalMoments = [...people, ...PETS].reduce((a, p) => a + ((p.moments || []).length), 0);
   const cats = petBy['Cat'] || 0, dogs = petBy['Dog'] || 0;
   const rotation = (store.data.meta && store.data.meta.rotation) || 1;
 
   // Lifespans
   const bornR = (p) => p.cas ? 1 : p.bornRotation;
   const lived = (p) => { const b = bornR(p); return b ? ((p.diedRotation || rotation) - b + 1) : null; };
-  const withLife = P.filter(p => bornR(p));
+  const withLife = sims.filter(p => bornR(p));
   const longest = withLife.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
   const living = withLife.filter(p => !p.diedRotation);
   const oldestLiving = living.map(p => ({ p, n: lived(p) })).sort((a, b) => b.n - a.n)[0];
   const firstResident = withLife.filter(p => !p.cas).sort((a, b) => (a.bornRotation - b.bornRotation) || ((a.bornDay || 0) - (b.bornDay || 0)))[0];
-  const births = P.filter(p => p.bornRotation && (p.parents || []).length).length;
-  const deaths = P.filter(p => p.diedRotation).length;
+  const births = sims.filter(p => p.bornRotation && (p.parents || []).length).length;
+  const deaths = sims.filter(p => p.diedRotation).length;
 
   // Timeline of arrivals/births and deaths
   const playedParent = (p) => (p.parents || []).some(pid => { const par = store.person(pid); return par && !par.cas; });
   const events = [];
-  P.forEach(p => {
+  sims.forEach(p => {
     if (p.bornRotation) { const b = playedParent(p); events.push({ r: p.bornRotation, d: p.bornDay || 0, emoji: b ? '👶' : '➡️', text: `${p.display || p.name} ${b ? 'born' : 'arrived'}` }); }
     if (p.diedRotation) events.push({ r: p.diedRotation, d: p.diedDay || 0, emoji: '🕊️', text: `${p.display || p.name} died${p.causeOfDeath ? ' — ' + p.causeOfDeath : ''}` });
   });
