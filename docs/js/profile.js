@@ -456,6 +456,7 @@ function simEditor(s) {
       ${row('Life stage', selectField('lifeStage', s.lifeStage, LIFE_STAGES))}
       ${row('Days remaining', numField('daysRemaining', s.daysRemaining, 0, 9999))}
       ${row('Generation', textField('generation', s.generation, 'Gen 1'))}
+      ${row('Birth order (tree)', numField('birthOrder', s.birthOrder, 1, 99))}
       ${row('Sim type', `<select name="type">${SIM_TYPES.map(t => `<option value="${t.name}" ${(s.type || 'Human') === t.name ? 'selected' : ''}>${t.emoji ? t.emoji + ' ' : ''}${esc(t.label || t.name)}</option>`).join('')}</select>`)}
       ${row('🎀 Yellow bow club', `<input type="checkbox" name="yellowBow" ${s.yellowBow ? 'checked' : ''}>`)}
       ${row('❤️ Adopted (chosen child)', `<input type="checkbox" name="adopted" ${s.adopted ? 'checked' : ''}>`)}
@@ -716,6 +717,7 @@ function applySimForm(s, form) {
   s.family = val(form, 'family'); s.household = val(form, 'household');
   s.preMarriageName = val(form, 'preMarriageName'); s.lifeStage = val(form, 'lifeStage');
   s.daysRemaining = numVal(form, 'daysRemaining'); s.generation = val(form, 'generation');
+  { const bo = numVal(form, 'birthOrder'); if (bo == null) delete s.birthOrder; else s.birthOrder = bo; }
   s.type = form.elements['type'] ? form.elements['type'].value : (s.type || 'Human');
   s.yellowBow = form.elements['yellowBow'] ? form.elements['yellowBow'].checked : !!s.yellowBow;
   s.adopted = form.elements['adopted'] ? form.elements['adopted'].checked : !!s.adopted;

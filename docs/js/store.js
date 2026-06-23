@@ -154,11 +154,15 @@ export const store = {
   family(id) { return this.data.families.find(f => f.id === id); },
   household(id) { return this.data.households.find(h => h.id === id); },
 
-  childrenOf(id) { return this.data.people.filter(p => (p.parents || []).includes(id)); },
+  childrenOf(id) {
+    return this.data.people.filter(p => (p.parents || []).includes(id))
+      .sort((a, b) => (a.birthOrder ?? 1e9) - (b.birthOrder ?? 1e9)); // stable: ties keep data order
+  },
   siblingsOf(person) {
     if (!person.parents || !person.parents.length) return [];
     return this.data.people.filter(p =>
-      p.id !== person.id && (p.parents || []).some(par => person.parents.includes(par)));
+      p.id !== person.id && (p.parents || []).some(par => person.parents.includes(par)))
+      .sort((a, b) => (a.birthOrder ?? 1e9) - (b.birthOrder ?? 1e9));
   },
   petsOf(id) { return this.data.pets.filter(p => p.ownerId === id); },
 
