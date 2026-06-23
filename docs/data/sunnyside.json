@@ -809,7 +809,10 @@
         ]
       },
       "bornRotation": 1,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "foundingResident": true,
+      "badges": {}
     },
     {
       "id": "kareem",
