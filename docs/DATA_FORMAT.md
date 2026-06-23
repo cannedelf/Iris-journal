@@ -102,3 +102,40 @@ Only `id` is truly required; fill in what you know, leave the rest as `""`, `[]`
 - **Bump the rotation:** change `meta.rotation`.
 
 When in doubt, do it once in the app (it writes perfect JSON), then copy that pattern. 💛
+
+---
+
+## The newer sections
+
+### 👶 Baby names (`babyNames`)
+```jsonc
+"babyNames": [
+  { "family": "rainbow", "label": "Rainbow — Kareem + Iris",
+    "girls": [ { "name": "Honey", "emoji": "🍯", "note": "", "used": false } ],
+    "boys":  [ { "name": "Kofi",  "emoji": "🌿", "note": "heritage name", "used": false } ] }
+]
+```
+First un-used name in each list is shown as **NEXT**. Tick `used` in the app or set it here.
+
+### 🏘️ Community lots (`lots`)
+```jsonc
+"lots": [ { "name": "The Golden Anchor", "emoji": "🍺", "status": "Open", "notes": "Beach road!!" } ]
+```
+`status` keywords drive the icon: *open/ready* → ✅, *needs/revamp/rebuild* → 🔧, *becoming/progress* → 🔄, *not built* → ⬜.
+
+### 🏅 Badges (on a person)
+```jsonc
+"badges": { "Flower Arranging": "Bronze", "Robotics": "Silver" }   // None/Bronze/Silver/Gold
+```
+
+### 🏆 Lifetime-want tracker (on a person)
+```jsonc
+"tracker": { "target": 20, "items": [ { "label": "Marigold", "id": "marigold", "done": true } ] }
+```
+The `lifetimeWant` text shows above the bar; progress = items marked `done` / `target`.
+
+### 🔄 Rotation
+- `meta.rotation` — the global rotation number.
+- each household's `daysThisRotation` (0–3) — its play progress this rotation. When every
+  household hits 3, the app rolls `meta.rotation` over and resets them to 0.
+
