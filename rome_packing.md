@@ -125,7 +125,11 @@ Only 2 pairs!! Maximum suitcase space!!
 **Essentials:**
 🛂 Passport (CHECK EXPIRY DATE!!)
 💳 Revolut card + backup bank card
-💊 Sertraline + any meds needed on flight
+💊 ⚠️ MEDICATIONS — DO NOT FORGET!! ⚠️
+💊 Omeprazole — 5 days supply!! Take first thing BEFORE breakfast!!
+💊 Sertraline — 5 days supply!! Take WITH breakfast!!
+💊 Gallbladder pain meds — just in case!!
+💊 Paracetamol
 🔑 House keys
 
 **Comfort:**
@@ -209,6 +213,7 @@ Only 2 pairs!! Maximum suitcase space!!
 ---
 
 *Planned by Iris 🌈 and Liv 💛 on Tuesday 23rd June 2026 between spreadsheets and Sims and a sunshine-coloured cordial!! 🧳☀️🏛️*
+
 
 
 
