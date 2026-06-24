@@ -865,7 +865,7 @@ function wireEditor(node, isPet) {
   // 🎲 Roll birth traits (glasses + hair texture) from the selected parents.
   const rollBtn = form.querySelector('#rollTraits');
   rollBtn?.addEventListener('click', () => {
-    const parents = [...form.querySelectorAll('[name="parents_id[]"]')]
+    const parents = [...form.querySelectorAll('[name="parents[]"]')]
       .map(sel => store.person(sel.value)).filter(Boolean);
     const [pa, pb] = parents;
     const glasses = rollGlasses(pa && pa.glasses, pb && pb.glasses);
