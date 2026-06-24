@@ -128,9 +128,9 @@ function personalityBlock(a, b) {
     let min = 0; while (min < 10 && dist[min] === 0) min++;
     let max = 10; while (max > 0 && dist[max] === 0) max--;
     const mode = dist.indexOf(maxP);
-    // Layout is set inline (not just via CSS classes) so the strip renders correctly
-    // even if a stale cached stylesheet is in play — it can't get out of sync with this JS.
-    const cellBase = 'height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;box-sizing:border-box;';
+    // Styled entirely inline with NO class names, so no stylesheet — fresh OR stale —
+    // can override the layout. flex:1 1 0 + min-width:0 forces 11 equal cells.
+    const cellBase = 'flex:1 1 0;min-width:0;height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;box-sizing:border-box;';
     const cells = dist.map((p, v) => {
       let st = cellBase;
       if (p === 0) { st += 'background:#efe6d5;color:#b3a890;'; }
@@ -139,14 +139,13 @@ function personalityBlock(a, b) {
         st += `background:linear-gradient(180deg,#e6a91f,#d97aa0);color:#fff;opacity:${op};`;
         if (v === mode) st += 'box-shadow:0 0 0 2px #4a3f33 inset;';
       }
-      const cls = p === 0 ? 'pcell empty' : (v === mode ? 'pcell top' : 'pcell');
-      return `<span class="${cls}" style="${st}" title="${esc(axis.high)} ${v} — ${Math.round(p * 100)}%">${v}</span>`;
+      return `<span style="${st}" title="${esc(axis.high)} ${v} — ${Math.round(p * 100)}%">${v}</span>`;
     }).join('');
     return `<div class="pers-row">${head}
-      <div class="pers-strip" style="display:grid;grid-template-columns:repeat(11,1fr);gap:3px;margin:6px 0 4px">${cells}</div>
-      <div class="pers-scale" style="font-size:12px;color:#7c6f5e"><span class="pers-range">most likely <b>${mode}</b> · possible range <b>${min}–${max}</b></span></div></div>`;
+      <div style="display:flex;gap:3px;margin:6px 0 4px">${cells}</div>
+      <div style="font-size:12px;color:#7c6f5e">most likely <b>${mode}</b> · possible range <b>${min}–${max}</b></div></div>`;
   }).join('');
-  return `<div class="gene-block"><h3>🧠 Personality 🆕✅</h3>
+  return `<div class="gene-block"><h3>🧠 Personality 🆕✅2</h3>
     <p class="pers-intro">Each trait rolls on its own: the child takes Mum's or Dad's value (50/50), then wanders <b>±2</b> from it — capped at 0–10. Totals don't add to 25 (that's a CAS-only rule). 🎲</p>
     ${rows}</div>`;
 }
