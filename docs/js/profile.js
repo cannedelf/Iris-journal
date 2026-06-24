@@ -55,6 +55,7 @@ function householdEditor(h) {
   return `<form class="editor" id="editForm">
     <div class="editor-head"><h2>${h._isNew ? 'New household' : 'Edit ' + esc(h.name)}</h2>
       <div class="editor-actions"><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save</button></div></div>
+    <div class="photo-edit">${photoBlock(h)}<label class="file-btn">📸 Group photo<input type="file" accept="image/*" id="hhPhotoInput"></label></div>
     <fieldset><legend>🏠 Household</legend>
       ${row('Name', textField('name', h.name, 'Sunshine Cottage'))}
       ${row('Emoji', textField('emoji', h.emoji, '🏠'))}
@@ -104,7 +105,51 @@ function wireLotEditor(l, index) {
 }
 
 export function openNewHousehold() { const h = { id: uid('hh'), name: '', emoji: '🏠', location: '', features: '', movedIn: '', _isNew: true }; panel().classList.add('open'); panel().innerHTML = householdEditor(h); wireHouseholdEditor(h); }
-export function openHousehold(id) { const h = store.household(id); if (!h) return; panel().classList.add('open'); panel().innerHTML = householdEditor(h); wireHouseholdEditor(h); }
+export function openHouseholdEditor(id) { const h = store.household(id); if (!h) return; panel().classList.add('open'); panel().innerHTML = householdEditor(h); wireHouseholdEditor(h); }
+
+// 🏡 Household page — the cosy "front door": members, pets, rotation progress, group photo.
+function householdView(h) {
+  const members = store.data.people.filter(p => p.household === h.id && p.kind !== 'ancestor').sort(byName);
+  const pets = store.data.pets.filter(p => p.household === h.id);
+  const rot = (store.data.meta && store.data.meta.rotation) || 1;
+  const ddv = h.daysThisRotation || 0;
+  const status = ddv >= 3 ? '✅ played this rotation' : ddv === 0 ? '⬜ not played yet' : `🔶 ${ddv}/3 days`;
+  const head = h.photo
+    ? `<div class="photo" style="border-color:var(--fam)"><img src="${esc(h.photo)}" alt=""></div>`
+    : `<div class="photo placeholder" style="border-color:var(--fam);background:#f4ecdc"><span>${esc(h.emoji || '🏠')}</span></div>`;
+  const memberChips = members.map(m => chip(m.id)).join(' ') || '<span class="muted">No residents yet.</span>';
+  const petChips = pets.map(p => chip(p.id)).join(' ');
+  return `<div class="profile household-profile" style="--fam:#caa15a">
+    <div class="profile-head">
+      <button class="close" data-close>✕</button>
+      <button class="edit" data-edit-hh>✎ Edit</button>
+      ${head}
+      <div class="head-text">
+        <h2>${esc(h.emoji || '🏠')} ${esc(h.name)}</h2>
+        <p class="head-sub">${[h.location, h.movedIn && 'moved in ' + h.movedIn].filter(Boolean).map(esc).join(' · ')}</p>
+      </div>
+    </div>
+    <section><h3>🔄 This rotation</h3>
+      <div class="hh-rotation"><span class="hh-status">Rotation ${rot} · ${status}</span>
+        <span class="hh-daybtns"><button class="rot-day" data-hd="-1" title="Remove a day">−</button><button class="rot-day" data-hd="1" title="Played a day">+ day</button></span></div>
+    </section>
+    <section><h3>👨‍👩‍👧 Residents (${members.length})</h3><div class="chip-wrap">${memberChips}</div></section>
+    ${pets.length ? `<section><h3>🐾 Pets</h3><div class="chip-wrap">${petChips}</div></section>` : ''}
+    ${h.features ? `<section><h3>✨ Features</h3><p>${esc(h.features)}</p></section>` : ''}
+  </div>`;
+}
+function wireHouseholdView(h) {
+  const p = panel();
+  p.querySelector('[data-close]')?.addEventListener('click', closePanel);
+  p.querySelector('[data-edit-hh]')?.addEventListener('click', () => openHouseholdEditor(h.id));
+  p.querySelectorAll('[data-open]').forEach(b => b.addEventListener('click', () => openProfile(b.dataset.open)));
+  p.querySelectorAll('.rot-day').forEach(b => b.addEventListener('click', async () => {
+    await store.playDay(h.id, Number(b.dataset.hd));
+    window.dispatchEvent(new CustomEvent('data-updated'));
+    openHousehold(h.id); // re-render with the updated status
+  }));
+}
+export function openHousehold(id) { const h = store.household(id); if (!h) return; panel().classList.add('open'); panel().innerHTML = householdView(h); wireHouseholdView(h); }
 
 function wireHouseholdEditor(h) {
   const form = document.getElementById('editForm');
@@ -117,6 +162,20 @@ function wireHouseholdEditor(h) {
     window.dispatchEvent(new CustomEvent('data-updated'));
     closePanel();
   });
+  // Group photo (held until save).
+  let pendingPhoto = null;
+  const photoInput = form.querySelector('#hhPhotoInput');
+  photoInput?.addEventListener('change', () => {
+    const file = photoInput.files[0]; if (!file) return;
+    const reader = new FileReader();
+    reader.onload = async () => {
+      pendingPhoto = await resizePhoto(reader.result);
+      const ph = form.querySelector('.photo');
+      ph.classList.remove('placeholder');
+      ph.innerHTML = `<img src="${pendingPhoto}" alt="">`;
+    };
+    reader.readAsDataURL(file);
+  });
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
     const btn = form.querySelector('button[type=submit]'); btn.disabled = true; btn.textContent = 'Saving…';
@@ -125,6 +184,7 @@ function wireHouseholdEditor(h) {
       h.name = val(form, 'name'); h.emoji = val(form, 'emoji'); h.location = val(form, 'location');
       h.features = val(form, 'features'); h.movedIn = val(form, 'movedIn');
       if (isNew) { delete h._isNew; store.data.households.push(h); }
+      if (pendingPhoto) h.photo = await store.savePhoto(h.id, pendingPhoto);
       const res = await store.commit(`${isNew ? 'Add' : 'Update'} household ${h.name || ''}`);
       window.dispatchEvent(new CustomEvent('data-updated'));
       closePanel();

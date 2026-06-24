@@ -41,6 +41,10 @@ The app already does all of this:
 - **💾 One-click backup** — in ⚙️ Settings: download a `.json` data backup, or a full
   `.zip` of the data plus every photo, straight to your computer.
   *Iris's note: Essential!! Too much love in this data to risk losing it!! 💾*
+- **🗓️ Whose turn is it? dashboard** — a Views page listing which households are still
+  to play this rotation vs done, with quick +day buttons and the rotation counter.
+- **🏡 Household pages** — click any household for its front door: group photo, residents,
+  pets, features, moved-in date and rotation progress.
 
 ---
 
@@ -60,15 +64,9 @@ The app already does all of this:
       everyone currently away, and a 🎓 *Graduated* event on the Timeline when they
       come home.
       *Iris's note: Sim Liv's lifetime want is Graduate 3 Children from College!! This feature is her DESTINY!! Cricket, Posey and Page at university!! 📚🦇*
-- [ ] **🏡 Household pages** — a cosy per-household view: who lives there, the pets, the
-      lot, a group photo, current rotation progress.
-      *Iris's note: Like visiting someone's front door!! Click Sunshine Cottage and see the whole family!! 🌻*
 - [ ] **🕯️ Memorial corner** — a gentle "In Memory" view for Sims who've passed: dates,
       cause, and a favourite photo.
       *Iris's note: Not needed yet (births/deaths 2/0!!) but when the time comes this needs to be BEAUTIFUL and TENDER. No rush. 🕯️💛*
-- [ ] **🗓️ "Whose turn is it?" dashboard** — a home view showing the current rotation
-      and which households are still to be played.
-      *Iris's note: Really useful after a long break!! Open the app and know exactly where you left off!! 🗓️*
 - [ ] **🔎 Search filters & sorting** — filter by family, aspiration or occult type.
 
 ---

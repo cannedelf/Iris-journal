@@ -138,6 +138,27 @@ export const store = {
     return `photos/${id}-${rand}.${ext}`;
   },
 
+  // --- rotation play tracking (shared by Households, Rotation dashboard) ----
+  async setRotation(val) {
+    val = Math.max(1, Math.floor(val) || 1);
+    this.data.meta = this.data.meta || {};
+    this.data.meta.rotation = val;
+    await this.commit(`Set rotation to ${val}`);
+  },
+  // Bump a household's days played this rotation. When every household reaches 3/3
+  // the rotation rolls over and all reset to 0.
+  async playDay(householdId, delta) {
+    const h = this.household(householdId);
+    if (!h) return;
+    h.daysThisRotation = Math.max(0, Math.min(3, (h.daysThisRotation || 0) + delta));
+    if (delta > 0 && this.data.households.every(x => (x.daysThisRotation || 0) >= 3)) {
+      this.data.meta = this.data.meta || {};
+      this.data.meta.rotation = (this.data.meta.rotation || 1) + 1;
+      this.data.households.forEach(x => x.daysThisRotation = 0);
+    }
+    await this.commit(`Play day at ${h.name}`);
+  },
+
   // --- deletion (also unhooks the id from anyone who referenced it) --------
   deletePerson(id) {
     this.data.people = this.data.people.filter(p => p.id !== id);

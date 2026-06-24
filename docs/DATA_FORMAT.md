@@ -18,7 +18,9 @@ file, but you can also edit it by hand on github.com — handy for logging lots 
   "meta":   { "rotation": 5, ... },        // neighbourhood-wide info
   "families":   [ { "id":"hill", "name":"Hill", "emoji":"⛏️", "colour":"#b07d52", "soft":"#efdfce" } ],
   "households": [ { "id":"sunshine_cottage", "name":"Sunshine Cottage", "emoji":"🌻",
-                    "location":"…", "features":"…", "movedIn":"2026-06-07" } ],
+                    "location":"…", "features":"…", "movedIn":"2026-06-07",
+                    "photo":"photos/sunshine_cottage.png",  // optional group photo
+                    "daysThisRotation":2 } ],               // 0–3 played this rotation
   "people": [ … Sims & ancestors … ],
   "pets":   [ … pets … ]
 }

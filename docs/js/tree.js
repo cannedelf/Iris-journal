@@ -367,10 +367,7 @@ export function renderHouseholds(container) {
     <strong class="rot-num" title="Click to set the rotation">Rotation ${rot}</strong>
     <button class="rot-btn" data-rot="1" title="Next rotation">+</button>`;
   const setRot = async (val) => {
-    val = Math.max(1, Math.floor(val) || 1);
-    store.data.meta = store.data.meta || {};
-    store.data.meta.rotation = val;
-    await store.commit(`Set rotation to ${val}`);
+    await store.setRotation(val);
     window.dispatchEvent(new CustomEvent('data-updated'));
   };
   banner.querySelectorAll('.rot-btn').forEach(b => b.addEventListener('click', () => setRot(rot + Number(b.dataset.rot))));
@@ -383,12 +380,7 @@ export function renderHouseholds(container) {
   // Per-household play tracking: bump a day; when every household hits 3/3 the rotation rolls over.
   const statusEmoji = (h) => { const dd = h.daysThisRotation || 0; return dd >= 3 ? '✅' : dd === 0 ? '⬜' : '🔶'; };
   const bumpDay = async (h, delta) => {
-    h.daysThisRotation = Math.max(0, Math.min(3, (h.daysThisRotation || 0) + delta));
-    if (delta > 0 && store.data.households.every(x => (x.daysThisRotation || 0) >= 3)) {
-      store.data.meta.rotation = (store.data.meta.rotation || 1) + 1;
-      store.data.households.forEach(x => x.daysThisRotation = 0);
-    }
-    await store.commit(`Play day at ${h.name}`);
+    await store.playDay(h.id, delta);
     window.dispatchEvent(new CustomEvent('data-updated'));
   };
 
@@ -398,7 +390,8 @@ export function renderHouseholds(container) {
     const members = store.data.people.filter(p => p.household === h.id);
     const pets = store.data.pets.filter(p => p.household === h.id);
     const card = document.createElement('div');
-    card.className = 'household-card';
+    card.className = 'household-card clickable';
+    card.title = `Open ${h.name}`;
     card.innerHTML = `
       <button class="hh-edit" title="Edit household" data-edit-hh="${h.id}">✎</button>
       <h3>${h.emoji || '🏠'} ${h.name}</h3>
@@ -409,9 +402,10 @@ export function renderHouseholds(container) {
       <p class="household-loc">${h.location || ''}</p>
       <div class="household-members"></div>
       <p class="household-feat">${h.features || ''}</p>`;
+    card.addEventListener('click', () => window.dispatchEvent(new CustomEvent('open-household', { detail: { id: h.id } })));
     card.querySelector('[data-edit-hh]').addEventListener('click', (e) => {
       e.stopPropagation();
-      window.dispatchEvent(new CustomEvent('open-household', { detail: { id: h.id } }));
+      window.dispatchEvent(new CustomEvent('open-household-edit', { detail: { id: h.id } }));
     });
     card.querySelectorAll('.rot-day').forEach(b => b.addEventListener('click', (e) => { e.stopPropagation(); bumpDay(h, Number(b.dataset.d)); }));
     const list = card.querySelector('.household-members');
@@ -420,11 +414,63 @@ export function renderHouseholds(container) {
       chip.className = 'member-chip';
       chip.style.borderColor = store.familyColour(m.id);
       chip.innerHTML = `<span>${m.emoji || '👤'}</span> ${m.display || m.name}`;
-      chip.addEventListener('click', () => dispatchOpen(m.id));
+      chip.addEventListener('click', (e) => { e.stopPropagation(); dispatchOpen(m.id); });
       list.appendChild(chip);
     });
     wrap.appendChild(card);
   }
   view.appendChild(wrap);
   container.appendChild(view);
+}
+
+// 🗓️ "Whose turn is it?" — a focused rotation checklist: who's still to play, who's done.
+export function renderRotation(container) {
+  const esc = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const rot = (store.data.meta && store.data.meta.rotation) || 1;
+  const hh = store.data.households || [];
+  const dd = (h) => h.daysThisRotation || 0;
+  const todo = hh.filter(h => dd(h) < 3).sort((a, b) => dd(a) - dd(b) || a.name.localeCompare(b.name));
+  const done = hh.filter(h => dd(h) >= 3).sort((a, b) => a.name.localeCompare(b.name));
+  const memberNames = (h) => store.data.people.filter(p => p.household === h.id && p.kind !== 'ancestor')
+    .map(p => p.display || p.name).join(', ');
+
+  const refresh = () => window.dispatchEvent(new CustomEvent('data-updated'));
+  const row = (h, isDone) => `<div class="turn-row${isDone ? ' done' : ''}" data-open-hh="${esc(h.id)}">
+      <span class="turn-emoji">${esc(h.emoji || '🏠')}</span>
+      <span class="turn-name"><b>${esc(h.name)}</b><small>${esc(memberNames(h) || '—')}</small></span>
+      <span class="turn-prog">${isDone ? '✅ done' : (dd(h) === 0 ? '⬜ not played' : '🔶 ' + dd(h) + '/3')}</span>
+      <button class="rot-day turn-play" data-hd="${esc(h.id)}" title="Played a day">+ day</button>
+    </div>`;
+
+  const allDone = hh.length && !todo.length;
+  container.innerHTML = `<div class="extras-view">
+    <h2 class="extras-h">🗓️ Whose turn is it?</h2>
+    <div class="rotation-banner" style="margin:0 0 18px">
+      <span class="rot-label">🔄 Currently playing</span>
+      <button class="rot-btn" data-rot="-1" title="Previous rotation">−</button>
+      <strong class="rot-num" title="Click to set the rotation">Rotation ${rot}</strong>
+      <button class="rot-btn" data-rot="1" title="Next rotation">+</button>
+    </div>
+    <p class="extras-sub">${hh.length - todo.length} of ${hh.length} household${hh.length === 1 ? '' : 's'} played this rotation.</p>
+    ${allDone ? `<div class="turn-alldone">🎉 Everyone's been played this rotation! Bump any household to roll into Rotation ${rot + 1}.</div>` : ''}
+    ${todo.length ? `<h3 class="extras-h" style="font-size:17px;margin-top:18px">⏳ Still to play</h3>
+      <div class="turn-list">${todo.map(h => row(h, false)).join('')}</div>` : ''}
+    ${done.length ? `<h3 class="extras-h" style="font-size:17px;margin-top:18px">✅ Played this rotation</h3>
+      <div class="turn-list">${done.map(h => row(h, true)).join('')}</div>` : ''}
+    ${!hh.length ? '<p class="muted">No households yet — add one from the ➕ Add menu.</p>' : ''}
+  </div>`;
+
+  container.querySelectorAll('.rot-btn').forEach(b => b.addEventListener('click', async () => {
+    await store.setRotation(rot + Number(b.dataset.rot)); refresh();
+  }));
+  container.querySelector('.rot-num')?.addEventListener('click', async () => {
+    const v = prompt('Which rotation are you on?', rot);
+    if (v !== null && v.trim() !== '' && !isNaN(v)) { await store.setRotation(Number(v)); refresh(); }
+  });
+  container.querySelectorAll('.turn-play').forEach(b => b.addEventListener('click', async (e) => {
+    e.stopPropagation();
+    await store.playDay(b.dataset.hd, 1); refresh();
+  }));
+  container.querySelectorAll('[data-open-hh]').forEach(rowEl => rowEl.addEventListener('click', () =>
+    window.dispatchEvent(new CustomEvent('open-household', { detail: { id: rowEl.dataset.openHh } }))));
 }

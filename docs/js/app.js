@@ -2,10 +2,10 @@
 
 import { store } from './store.js';
 import { gh } from './github.js';
-import { renderTree, renderHouseholds, getColourMode, setColourMode } from './tree.js';
+import { renderTree, renderHouseholds, renderRotation, getColourMode, setColourMode } from './tree.js';
 import { renderPredictor } from './predictor.js';
 import { renderNames, renderLots, renderStats } from './extras.js';
-import { openProfile, openNewSim, openNewPet, openNewHousehold, openHousehold, openNewLot, openLot } from './profile.js';
+import { openProfile, openNewSim, openNewPet, openNewHousehold, openHousehold, openHouseholdEditor, openNewLot, openLot } from './profile.js';
 import { downloadData, downloadFull } from './backup.js';
 import { SIM_TYPES } from './constants.js';
 
@@ -30,6 +30,7 @@ async function boot() {
 
   window.addEventListener('open-node', (e) => openProfile(e.detail.id));
   window.addEventListener('open-household', (e) => openHousehold(e.detail.id));
+  window.addEventListener('open-household-edit', (e) => openHouseholdEditor(e.detail.id));
   window.addEventListener('data-updated', () => { render(); buildSearch(); });
   store.onChange(updateStatus);
 }
@@ -53,13 +54,13 @@ function render() {
   // Active states.
   document.querySelectorAll('.tab').forEach(t =>
     t.classList.toggle('active', current.view === 'tree' && t.dataset.family === current.family));
-  const refViews = ['households', 'predict', 'names', 'lots', 'stats'];
+  const refViews = ['households', 'rotation', 'predict', 'names', 'lots', 'stats'];
   el('btnViews').classList.toggle('active', refViews.includes(current.view));
   el('viewsMenu').querySelectorAll('[data-view]').forEach(b => b.classList.toggle('active', b.dataset.view === current.view));
 
   const stage = el('stage');
   if (current.view === 'predict') { renderPredictor(stage, current.predictSim); el('legend').classList.remove('show'); return; }
-  const views = { households: renderHouseholds, names: renderNames, lots: renderLots, stats: renderStats };
+  const views = { households: renderHouseholds, rotation: renderRotation, names: renderNames, lots: renderLots, stats: renderStats };
   if (views[current.view]) { views[current.view](stage); el('legend').classList.remove('show'); return; }
   renderTree(stage, current.family);
   if (typeof updateColourUI === 'function') updateColourUI();
