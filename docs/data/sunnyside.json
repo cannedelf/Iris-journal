@@ -1493,7 +1493,9 @@
       "bornRotation": 3,
       "bornDay": 3,
       "cas": false,
-      "badges": {}
+      "badges": {},
+      "glasses": true,
+      "hairTexture": "Coily"
     },
     {
       "id": "awiddle",
