@@ -79,13 +79,16 @@ The app already does all of this:
 - [ ] **🏠 Cottage extension planner** — a visual layout tool for planning room additions. Sunshine Cottage needs a nursery, Pebble House needs to fit 3 children and a cat and WEDNESDAY.
       *Liv: would love this eventually — no rush, it's the biggest build on the list.*
       *Design when we get to it:* an **🏠 Layout tab on each household page** with a snap-to-grid
-      canvas (e.g. 20×20 tiles, SVG like the tree). **Add room** → a labelled rectangle you drag to
-      move / drag a corner to resize, snapping to whole tiles. Each room has a name ("Nursery 🍼",
-      "Cricket's room"), colour, optional **for: [Sim]** link, and a **status** — Existing (solid),
-      Planned (dashed/glowing), Building (🔨) — so the current cottage and the dreamed extension show
-      at once. Saved on the household as `layout: { cols, rows, rooms:[{x,y,w,h,name,colour,status,forId}] }`.
-      **Desktop / mouse only** (Liv only uses it on computer) — plain mouse drag-to-move +
-      corner-resize, no touch handling or fallbacks needed. Much smaller build: ~one focused session.
+      canvas (SVG like the tree). **Settable lot size** in tiles (e.g. 20×30) draws the lot boundary
+      to plan against. **Add room** → drag out a rectangle to start, then edit freely: drag any corner
+      to move it, double-click an edge to add a corner you can pull into a **diagonal wall**,
+      right-click a corner to delete — so **L-shapes, bay windows, octagons, any shape** are possible.
+      Rooms are **polygons** (a loop of grid points), each with a name ("Nursery 🍼", "Cricket's room"),
+      colour, optional **for: [Sim]** link, and a **status** — Existing (solid), Planned (dashed/glowing),
+      Building (🔨) — so the current cottage and the dreamed extension show at once. Saved as
+      `layout: { cols, rows, rooms:[{ points:[[x,y],…], name, colour, status, forId }] }`.
+      **Desktop / mouse only** (Liv only uses it on computer) — no touch handling. Polygon/vertex
+      editing is the fiddly bit, so ~1½–2 focused sessions.
 - [ ] **🎵 Sunnyside playlist** — a fun page listing each Sim's "theme song" or music preferences. Kareem is piano, Iris is sunshine pop, Søren is Radiohead probably.
 - [ ] **🔧 Secret tool name reveal page** — a hidden page that tracks which Hill children are named after tools and whether Andrea has discovered any of them. Currently: 0/4 discovered. 😂
 - [ ] **📖 Lore book** — a scrollable narrative history of Sunnyside written in story form. Not just timeline events but the STORIES. "He carried daisies for three rotations before he knew who they were for."
