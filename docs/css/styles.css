@@ -170,6 +170,8 @@ a { color: var(--green); }
 .lay-room.sel { stroke-width: 3.5px; }
 .lay-label { fill: #4a3f33; text-anchor: middle; dominant-baseline: middle; font-family: Georgia, serif; font-weight: 700; pointer-events: none; }
 .lay-handle { fill: #fff; stroke: #8a5a1a; stroke-width: 2px; vector-effect: non-scaling-stroke; cursor: grab; }
+.lay-midhandle { fill: var(--gold); stroke: #fff; stroke-width: 1.5px; vector-effect: non-scaling-stroke; cursor: crosshair; opacity: .8; }
+.lay-midhandle:hover { opacity: 1; r: 0.34; }
 .layout-editor { width: 230px; flex-shrink: 0; border-left: 1.5px solid var(--line); background: #fff; padding: 16px; overflow-y: auto; }
 .layout-editor h4 { margin: 0 0 10px; color: #8a5a1a; }
 .layout-editor .frow { display: grid; grid-template-columns: 54px 1fr; align-items: center; gap: 8px; margin: 7px 0; }

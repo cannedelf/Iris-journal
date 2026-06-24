@@ -43,7 +43,11 @@ function draw() {
     const forName = r.forId ? (store.person(r.forId)?.display || store.person(r.forId)?.name || '') : '';
     const label = r.name ? `<text x="${cx}" y="${cy}" class="lay-label" font-size="1">${esc(r.name)}${forName ? ` <tspan font-size="0.8" fill="#7c6f5e">(${esc(forName)})</tspan>` : ''}</text>` : '';
     const handles = sel ? r.points.map((p, vi) => `<circle cx="${p[0]}" cy="${p[1]}" r="0.42" class="lay-handle" data-room="${i}" data-vert="${vi}"/>`).join('') : '';
-    return `<polygon points="${pts}" class="lay-room ${r.status || 'existing'}${sel ? ' sel' : ''}" data-room="${i}" style="--rc:${r.colour || '#e6a91f'}"/>${label}${handles}`;
+    const mids = sel ? r.points.map((p, vi) => {
+      const q = r.points[(vi + 1) % r.points.length];
+      return `<circle cx="${(p[0] + q[0]) / 2}" cy="${(p[1] + q[1]) / 2}" r="0.26" class="lay-midhandle" data-room="${i}" data-edge="${vi}"/>`;
+    }).join('') : '';
+    return `<polygon points="${pts}" class="lay-room ${r.status || 'existing'}${sel ? ' sel' : ''}" data-room="${i}" style="--rc:${r.colour || '#e6a91f'}"/>${label}${mids}${handles}`;
   }).join('');
   S.wrap.innerHTML = `<svg class="layout-svg" width="${cols * TILE}" height="${rows * TILE}" viewBox="0 0 ${cols} ${rows}">
     <rect class="lay-bg" x="0" y="0" width="${cols}" height="${rows}"/>
@@ -67,12 +71,24 @@ function wire() {
       if (S.sel !== i) { S.sel = i; draw(); wire(); renderEditor(); }
       startRoomDrag(i, e);
     });
-    poly.addEventListener('dblclick', (e) => addCornerNearestEdge(Number(poly.dataset.room), evtToTile(e)));
   });
   svg.querySelectorAll('.lay-handle').forEach(hd => {
     hd.addEventListener('mousedown', (e) => { e.stopPropagation(); e.preventDefault(); startVertexDrag(Number(hd.dataset.room), Number(hd.dataset.vert)); });
     hd.addEventListener('contextmenu', (e) => { e.preventDefault(); deleteVertex(Number(hd.dataset.room), Number(hd.dataset.vert)); });
   });
+  // Edge midpoints: grab and drag to pull out a brand-new corner in one motion.
+  svg.querySelectorAll('.lay-midhandle').forEach(mh => {
+    mh.addEventListener('mousedown', (e) => { e.stopPropagation(); e.preventDefault(); startMidDrag(Number(mh.dataset.room), Number(mh.dataset.edge)); });
+  });
+}
+
+// Split an edge at its midpoint and immediately drag the new corner.
+function startMidDrag(i, k) {
+  const r = S.h.layout.rooms[i];
+  const a = r.points[k], b = r.points[(k + 1) % r.points.length];
+  r.points.splice(k + 1, 0, [snap((a[0] + b[0]) / 2), snap((a[1] + b[1]) / 2)]);
+  draw();
+  startVertexDrag(i, k + 1);
 }
 
 function startRoomDrag(i, e) {
@@ -109,27 +125,6 @@ function deleteVertex(i, vi) {
   draw(); wire(); save();
 }
 
-// Insert a corner on whichever edge is nearest the click — lands on the edge so you
-// can then drag it out into a diagonal.
-function addCornerNearestEdge(i, pt) {
-  const pts = S.h.layout.rooms[i].points;
-  const projOnSeg = (p, a, b) => {
-    const vx = b[0] - a[0], vy = b[1] - a[1];
-    const len2 = vx * vx + vy * vy || 1;
-    let t = ((p[0] - a[0]) * vx + (p[1] - a[1]) * vy) / len2;
-    t = Math.max(0, Math.min(1, t));
-    return [a[0] + t * vx, a[1] + t * vy];
-  };
-  let best = 0, bestD = Infinity, bestProj = null;
-  for (let k = 0; k < pts.length; k++) {
-    const proj = projOnSeg(pt, pts[k], pts[(k + 1) % pts.length]);
-    const d = (proj[0] - pt[0]) ** 2 + (proj[1] - pt[1]) ** 2;
-    if (d < bestD) { bestD = d; best = k; bestProj = proj; }
-  }
-  pts.splice(best + 1, 0, [clampX(snap(bestProj[0])), clampY(snap(bestProj[1]))]);
-  S.sel = i; draw(); wire(); save();
-}
-
 function addRoom() {
   const L = S.h.layout;
   const w = Math.min(6, L.cols), h = Math.min(5, L.rows);
@@ -162,7 +157,7 @@ function renderEditor() {
     <label class="frow"><span>For</span><select id="rFor"><option value="">— anyone —</option>${peopleOpts}</select></label>
     <label class="frow"><span>Status</span><select id="rStatus">${STATUSES.map(s => `<option value="${s.key}" ${s.key === (r.status || 'existing') ? 'selected' : ''}>${s.label}</option>`).join('')}</select></label>
     <div class="lay-swatches">${ROOM_COLOURS.map(c => `<button type="button" class="lay-swatch${c === r.colour ? ' on' : ''}" style="background:${c}" data-c="${c}"></button>`).join('')}</div>
-    <p class="muted" style="font-size:12px">Double-click an edge to add a corner (then drag it for a diagonal). Right-click a corner to delete it.</p>
+    <p class="muted" style="font-size:12px">Drag a small ◆ on the middle of a wall to pull out a new corner (diagonals, L-shapes, bays). Right-click a corner ● to delete it.</p>
     <button type="button" class="danger" id="rDelete">🗑 Delete room</button>`;
   ed.querySelector('#rName').addEventListener('input', (e) => { r.name = e.target.value; draw(); });
   ed.querySelector('#rName').addEventListener('change', save);
