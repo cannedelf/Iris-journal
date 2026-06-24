@@ -168,29 +168,6 @@
             "colour": "#d97aa0",
             "status": "planned",
             "forId": "iris"
-          },
-          {
-            "points": [
-              [
-                31,
-                31
-              ],
-              [
-                33,
-                31
-              ],
-              [
-                33,
-                34
-              ],
-              [
-                31,
-                34
-              ]
-            ],
-            "name": "New room",
-            "colour": "#6f9e5e",
-            "status": "planned"
           }
         ]
       }
