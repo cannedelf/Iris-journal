@@ -960,7 +960,11 @@
       "yellowBow": false,
       "adopted": false,
       "bornRotation": 1,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "glasses": true,
+      "hairTexture": "Curly",
+      "badges": {}
     },
     {
       "id": "soren",
