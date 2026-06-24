@@ -143,8 +143,32 @@
       "daysThisRotation": 3,
       "layout": {
         "cols": 60,
-        "rows": 20,
-        "rooms": []
+        "rows": 60,
+        "rooms": [
+          {
+            "points": [
+              [
+                1,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                1,
+                6
+              ]
+            ],
+            "name": "New room",
+            "colour": "#e6a91f",
+            "status": "planned"
+          }
+        ]
       }
     },
     {
