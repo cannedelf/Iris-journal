@@ -1154,8 +1154,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Architecture",
-        "level": 4,
         "levelName": "Head of Construction Company",
+        "level": 4,
         "top": "City Planner",
         "degree": "Physics"
       },
@@ -1254,7 +1254,13 @@
         "Robotics": "Silver"
       },
       "bornRotation": 1,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "glasses": false,
+      "hairTexture": "Curly",
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false
     },
     {
       "id": "liv",
