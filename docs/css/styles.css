@@ -338,6 +338,18 @@ a { color: var(--green); }
 .gene-magic { font-size: 13px; color: #8a6a3a; margin: 10px 0 0; }
 .carried { font-size: 13px; color: #8a6a3a; background: #fff3da; border-left: 3px solid var(--gold); padding: 6px 10px; border-radius: 6px; margin: 8px 0 0; }
 
+/* 🧠 Personality predictor */
+.pers-intro { font-size: 13px; color: var(--ink-soft); margin: 0 0 12px; }
+.pers-row { margin: 0 0 14px; }
+.pers-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; font-size: 14px; }
+.pers-parents { font-size: 12px; color: var(--ink-soft); }
+.pers-spark { display: flex; align-items: flex-end; gap: 3px; height: 44px; margin: 6px 0 3px; padding: 0 2px; }
+.pers-spark .pc { flex: 1; min-height: 2px; background: linear-gradient(180deg, var(--gold), var(--pink)); border-radius: 3px 3px 0 0; opacity: .55; }
+.pers-spark .pc.top { opacity: 1; }
+.pers-spark .pc.empty { background: #ece0c9; opacity: .35; }
+.pers-scale { display: flex; justify-content: space-between; font-size: 11px; color: var(--ink-soft); }
+.pers-range { color: #8a6a3a; }
+
 /* Extra views (Names / Lots / Stats) */
 .extras-view { max-width: 920px; margin: 0 auto; padding: 24px; height: 100%; overflow-y: auto; }
 .extras-h { color: #8a5a1a; margin: 0 0 4px; }

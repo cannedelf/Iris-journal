@@ -15,7 +15,8 @@ The app already does all of this:
   with the full Sims 2 field set: aspirations, personality, star signs, turn-ons,
   careers, skills, lifetime wants.
 - **Genetics** — visible + hidden recessives, plus a **genetics predictor** for
-  hair & eyes (two-tier dominant/recessive).
+  hair & eyes (two-tier dominant/recessive) and **personality** (mod rule: pick a
+  parent's value per trait, wobble ±2).
 - **Occult colour-coding & 🎀 bows** — Living/Alien/Vampire/Werewolf/Plant/Zombie/Witch…
 - **Photos** — upload per Sim & pet, auto-resized in the browser so the repo stays lean.
 - **Pets** — full pet profiles.

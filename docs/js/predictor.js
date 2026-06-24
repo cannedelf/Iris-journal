@@ -3,6 +3,7 @@
 // hidden (recessive) allele; a child gets one from each parent, and the more dominant wins.
 
 import { store } from './store.js';
+import { PERSONALITY } from './constants.js';
 
 const esc = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const byName = (a, b) => (a.display || a.name || '').toLowerCase().localeCompare((b.display || b.name || '').toLowerCase());
@@ -95,6 +96,49 @@ function geneBlock(title, emoji, res) {
   return `<div class="gene-block"><h3>${emoji} ${title}</h3>${bars}${note}${carried}</div>`;
 }
 
+// 🧠 Personality (mod rule): for each of the 5 axes the child takes Mum's OR Dad's value
+// (50/50), then wobbles ±2 from it (each step equally likely), clamped to 0–10. Axes are
+// independent, so totals don't have to add to 25 (that budget is a CAS-only rule).
+const PERS_EMOJI = { neat: '🧹', outgoing: '🎉', active: '⚡', playful: '🎈', nice: '🌸' };
+const fmtVal = (v) => typeof v === 'number' ? `<b>${v}</b>` : '<span class="muted">?</span>';
+
+function personalityDist(m, d) {
+  const bases = [m, d].filter(v => typeof v === 'number');
+  if (!bases.length) return null;
+  const dist = new Array(11).fill(0);
+  const per = 1 / bases.length / 5; // each parent equally likely, each ±2 step equally likely
+  for (const base of bases) {
+    for (let delta = -2; delta <= 2; delta++) {
+      const v = Math.max(0, Math.min(10, base + delta)); // clamp piles probability at the cap
+      dist[v] += per;
+    }
+  }
+  return dist;
+}
+
+function personalityBlock(a, b) {
+  const pa = a.personality || {}, pb = b.personality || {};
+  const rows = PERSONALITY.map(axis => {
+    const m = pa[axis.key], d = pb[axis.key];
+    const dist = personalityDist(m, d);
+    const head = `<div class="pers-head"><b>${PERS_EMOJI[axis.key] || ''} ${esc(axis.low)} ↔ ${esc(axis.high)}</b>
+      <span class="pers-parents">${esc(a.display || a.name)} ${fmtVal(m)} · ${esc(b.display || b.name)} ${fmtVal(d)}</span></div>`;
+    if (!dist) return `<div class="pers-row">${head}<p class="muted">Add this trait to both parents to predict it.</p></div>`;
+    const maxP = Math.max(...dist);
+    let min = 0; while (min < 10 && dist[min] === 0) min++;
+    let max = 10; while (max > 0 && dist[max] === 0) max--;
+    const mode = dist.indexOf(maxP);
+    const cells = dist.map((p, v) =>
+      `<span class="pc${v === mode ? ' top' : ''}${p === 0 ? ' empty' : ''}" style="height:${maxP ? Math.round(p / maxP * 100) : 0}%" title="${esc(axis.high)} ${v} — ${Math.round(p * 100)}%"></span>`).join('');
+    return `<div class="pers-row">${head}
+      <div class="pers-spark">${cells}</div>
+      <div class="pers-scale"><span>0</span><span class="pers-range">likely <b>${mode}</b> · range ${min}–${max}</span><span>10</span></div></div>`;
+  }).join('');
+  return `<div class="gene-block"><h3>🧠 Personality</h3>
+    <p class="pers-intro">Each trait rolls on its own: the child takes Mum's or Dad's value (50/50), then wanders <b>±2</b> from it — capped at 0–10. Totals don't add to 25 (that's a CAS-only rule). 🎲</p>
+    ${rows}</div>`;
+}
+
 function frecklesNote(g1, g2) {
   const has = (g) => /yes/i.test(g.freckles || '');
   return (has(g1) || has(g2))
@@ -114,6 +158,7 @@ function renderResults(el, id1, id2) {
     <p class="pred-pair">${a.emoji || ''} ${esc(a.display || a.name)} <span>+</span> ${b.emoji || ''} ${esc(b.display || b.name)}</p>
     ${geneBlock('Hair', '💇', hair)}
     ${geneBlock('Eyes', '👁️', eyes)}
+    ${personalityBlock(a, b)}
     <div class="gene-block"><h3>✨ Other traits</h3>
       <p>${frecklesNote(g1, g2)}</p>
       <p class="muted">Skin tone usually <em>blends</em> between the two parents — ${esc(g1.skin || '?')} &amp; ${esc(g2.skin || '?')}.</p>
@@ -123,7 +168,7 @@ function renderResults(el, id1, id2) {
 export function renderPredictor(container, preselectId) {
   container.innerHTML = `<div class="predictor">
     <h2>🧬 Baby Genetics Predictor</h2>
-    <p class="pred-intro">Pick two parents to see what their children could look like — Sims 2 style!
+    <p class="pred-intro">Pick two parents to see what their children could look like — and how they might turn out — Sims 2 style!
       Dominant genes show; recessive ones can hide and surprise you. 💫</p>
     <div class="pred-pickers">
       <label>Parent 1<select id="pred1"></select></label>
