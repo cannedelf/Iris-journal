@@ -144,31 +144,7 @@
       "layout": {
         "cols": 60,
         "rows": 60,
-        "rooms": [
-          {
-            "points": [
-              [
-                19,
-                11
-              ],
-              [
-                25,
-                11
-              ],
-              [
-                25,
-                16
-              ],
-              [
-                19,
-                16
-              ]
-            ],
-            "name": "New room",
-            "colour": "#e6a91f",
-            "status": "planned"
-          }
-        ]
+        "rooms": []
       }
     },
     {
