@@ -2101,21 +2101,21 @@
       "lifetimeWant": "",
       "starSign": "Capricorn",
       "personality": {
-        "neat": null,
-        "outgoing": null,
-        "active": null,
-        "playful": null,
-        "nice": null
+        "neat": 7,
+        "outgoing": 4,
+        "active": 1,
+        "playful": 8,
+        "nice": 5
       },
       "turnOn1": "",
       "turnOn2": "",
       "turnOff": "",
-      "oth": "",
+      "oth": "Film & Literature",
       "bodyFrame": "Female",
       "career": {
         "track": "Slacker",
-        "level": 6,
         "levelName": "Projectionist",
+        "level": 6,
         "top": "",
         "degree": ""
       },
@@ -2166,7 +2166,12 @@
       "fears": [],
       "car": "",
       "carNotes": "",
-      "moments": []
+      "moments": [],
+      "cas": false,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "armando",
