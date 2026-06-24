@@ -128,11 +128,14 @@ function personalityBlock(a, b) {
     let min = 0; while (min < 10 && dist[min] === 0) min++;
     let max = 10; while (max > 0 && dist[max] === 0) max--;
     const mode = dist.indexOf(maxP);
-    const cells = dist.map((p, v) =>
-      `<span class="pc${v === mode ? ' top' : ''}${p === 0 ? ' empty' : ''}" style="height:${maxP ? Math.round(p / maxP * 100) : 0}%" title="${esc(axis.high)} ${v} — ${Math.round(p * 100)}%"></span>`).join('');
+    const cells = dist.map((p, v) => {
+      const i = maxP ? p / maxP : 0;
+      const cls = p === 0 ? 'pcell empty' : (v === mode ? 'pcell top' : 'pcell');
+      return `<span class="${cls}" style="--i:${i.toFixed(2)}" title="${esc(axis.high)} ${v} — ${Math.round(p * 100)}%">${v}</span>`;
+    }).join('');
     return `<div class="pers-row">${head}
-      <div class="pers-spark">${cells}</div>
-      <div class="pers-scale"><span>0</span><span class="pers-range">likely <b>${mode}</b> · range ${min}–${max}</span><span>10</span></div></div>`;
+      <div class="pers-strip">${cells}</div>
+      <div class="pers-scale"><span class="pers-range">most likely <b>${mode}</b> · possible range <b>${min}–${max}</b></span></div></div>`;
   }).join('');
   return `<div class="gene-block"><h3>🧠 Personality</h3>
     <p class="pers-intro">Each trait rolls on its own: the child takes Mum's or Dad's value (50/50), then wanders <b>±2</b> from it — capped at 0–10. Totals don't add to 25 (that's a CAS-only rule). 🎲</p>

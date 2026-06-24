@@ -343,12 +343,14 @@ a { color: var(--green); }
 .pers-row { margin: 0 0 14px; }
 .pers-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; font-size: 14px; }
 .pers-parents { font-size: 12px; color: var(--ink-soft); }
-.pers-spark { display: flex; align-items: flex-end; gap: 3px; height: 44px; margin: 6px 0 3px; padding: 0 2px; }
-.pers-spark .pc { flex: 1; min-height: 2px; background: linear-gradient(180deg, var(--gold), var(--pink)); border-radius: 3px 3px 0 0; opacity: .55; }
-.pers-spark .pc.top { opacity: 1; }
-.pers-spark .pc.empty { background: #ece0c9; opacity: .35; }
-.pers-scale { display: flex; justify-content: space-between; font-size: 11px; color: var(--ink-soft); }
-.pers-range { color: #8a6a3a; }
+.pers-strip { display: flex; gap: 3px; margin: 6px 0 4px; }
+.pcell { flex: 1; height: 26px; border-radius: 6px; display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 700; background: #efe6d5; color: #b3a890; }
+.pcell:not(.empty) { color: #fff; background: linear-gradient(180deg, var(--gold), var(--pink));
+  opacity: calc(.32 + .68 * var(--i)); }
+.pcell.top { box-shadow: 0 0 0 2px var(--ink) inset; opacity: 1; }
+.pers-scale { font-size: 12px; color: var(--ink-soft); }
+.pers-range b { color: #8a6a3a; }
 
 /* Extra views (Names / Lots / Stats) */
 .extras-view { max-width: 920px; margin: 0 auto; padding: 24px; height: 100%; overflow-y: auto; }
