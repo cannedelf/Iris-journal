@@ -95,7 +95,7 @@
     // graceful staleness, never a broken page.
     (function () {
       var v = Date.now();
-      var mods = ['app', 'store', 'github', 'tree', 'predictor', 'extras', 'profile', 'constants', 'backup'];
+      var mods = ['app', 'store', 'github', 'tree', 'predictor', 'extras', 'profile', 'constants', 'backup', 'layout'];
       var imports = {};
       mods.forEach(function (m) { imports['./js/' + m + '.js'] = './js/' + m + '.js?v=' + v; });
       document.write('<script type="importmap">' + JSON.stringify({ imports: imports }) + '<\/script>');

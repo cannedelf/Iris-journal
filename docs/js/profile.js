@@ -133,6 +133,7 @@ function householdView(h) {
       <div class="hh-rotation"><span class="hh-status">Rotation ${rot} · ${status}</span>
         <span class="hh-daybtns"><button class="rot-day" data-hd="-1" title="Remove a day">−</button><button class="rot-day" data-hd="1" title="Played a day">+ day</button></span></div>
     </section>
+    <section><button class="predict-link" data-layout>🏠 Floor plan / extension planner</button></section>
     <section><h3>👨‍👩‍👧 Residents (${members.length})</h3><div class="chip-wrap">${memberChips}</div></section>
     ${pets.length ? `<section><h3>🐾 Pets</h3><div class="chip-wrap">${petChips}</div></section>` : ''}
     ${h.features ? `<section><h3>✨ Features</h3><p>${esc(h.features)}</p></section>` : ''}
@@ -142,6 +143,7 @@ function wireHouseholdView(h) {
   const p = panel();
   p.querySelector('[data-close]')?.addEventListener('click', closePanel);
   p.querySelector('[data-edit-hh]')?.addEventListener('click', () => openHouseholdEditor(h.id));
+  p.querySelector('[data-layout]')?.addEventListener('click', () => { closePanel(); window.dispatchEvent(new CustomEvent('open-layout', { detail: { id: h.id } })); });
   p.querySelectorAll('[data-open]').forEach(b => b.addEventListener('click', () => openProfile(b.dataset.open)));
   p.querySelectorAll('.rot-day').forEach(b => b.addEventListener('click', async () => {
     await store.playDay(h.id, Number(b.dataset.hd));

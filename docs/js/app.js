@@ -5,6 +5,7 @@ import { gh } from './github.js';
 import { renderTree, renderHouseholds, renderRotation, getColourMode, setColourMode } from './tree.js';
 import { renderPredictor } from './predictor.js';
 import { renderNames, renderLots, renderStats } from './extras.js';
+import { renderLayout } from './layout.js';
 import { openProfile, openNewSim, openNewPet, openNewHousehold, openHousehold, openHouseholdEditor, openNewLot, openLot } from './profile.js';
 import { downloadData, downloadFull } from './backup.js';
 import { SIM_TYPES } from './constants.js';
@@ -31,6 +32,8 @@ async function boot() {
   window.addEventListener('open-node', (e) => openProfile(e.detail.id));
   window.addEventListener('open-household', (e) => openHousehold(e.detail.id));
   window.addEventListener('open-household-edit', (e) => openHouseholdEditor(e.detail.id));
+  window.addEventListener('open-layout', (e) => { current.view = 'layout'; current.layoutHh = e.detail.id; render(); });
+  window.addEventListener('close-layout', (e) => { current.view = 'households'; render(); openHousehold(e.detail.id); });
   window.addEventListener('data-updated', () => { render(); buildSearch(); });
   store.onChange(updateStatus);
 }
@@ -60,6 +63,7 @@ function render() {
 
   const stage = el('stage');
   if (current.view === 'predict') { renderPredictor(stage, current.predictSim); el('legend').classList.remove('show'); return; }
+  if (current.view === 'layout') { renderLayout(stage, current.layoutHh); el('legend').classList.remove('show'); return; }
   const views = { households: renderHouseholds, rotation: renderRotation, names: renderNames, lots: renderLots, stats: renderStats };
   if (views[current.view]) { views[current.view](stage); el('legend').classList.remove('show'); return; }
   renderTree(stage, current.family);

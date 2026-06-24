@@ -20,7 +20,11 @@ file, but you can also edit it by hand on github.com — handy for logging lots 
   "households": [ { "id":"sunshine_cottage", "name":"Sunshine Cottage", "emoji":"🌻",
                     "location":"…", "features":"…", "movedIn":"2026-06-07",
                     "photo":"photos/sunshine_cottage.png",  // optional group photo
-                    "daysThisRotation":2 } ],               // 0–3 played this rotation
+                    "daysThisRotation":2,                   // 0–3 played this rotation
+                    "layout": { "cols":20, "rows":20,       // 🏠 floor-plan (edit in the app)
+                      "rooms":[ { "points":[[1,1],[7,1],[7,6],[1,6]],
+                        "name":"Nursery 🍼", "colour":"#d97aa0",
+                        "status":"planned", "forId":"kofi" } ] } } ],
   "people": [ … Sims & ancestors … ],
   "pets":   [ … pets … ]
 }
