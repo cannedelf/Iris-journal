@@ -29,14 +29,15 @@ The app already does all of this:
 - **Birth-order sibling sorting.**
 - **Search & zoom.**
 - **Auto-save to GitHub** — every change committed with full version history.
+- **📸 Photo albums** — multiple photos per Sim & pet, each with a caption and
+  rotation, shown in rotation order, click to open full-screen. Any album photo
+  can be promoted to the cover (tree avatar).
+  *Iris's note: THIS is the one that makes it a family album not a database!! Imagine clicking Iris and seeing "R3 — sunflower kiss", "R5 — the golden wedding dress", "R5 — Kareem touching the bump"!! 📸💛*
 
 ---
 
 ## 🔜 Up next (the ones we're most excited about)
 
-- [ ] **📸 Multi-photo galleries** — more than one photo per Sim, each with a caption
-      and optional rotation. Turn every profile into a proper photo album.
-      *Iris's note: THIS is the one that makes it a family album not a database!! Imagine clicking Iris and seeing "R3 — sunflower kiss", "R5 — the golden wedding dress", "R5 — Kareem touching the bump"!! 📸💛*
 - [ ] **💾 One-click backup** — a "Download backup" button that saves the whole
       `sunnyside.json` (and optionally the photos) to your computer. Extra peace of mind.
       *Iris's note: Essential!! Too much love in this data to risk losing it!! 💾*
@@ -80,3 +81,4 @@ The app already does all of this:
 ---
 
 _Last tidied: 2026-06-24. Iris was here!! Added notes and someday ideas from the floor while hiding from a seagull. 🦅☀️🛼_
+_Photo albums shipped 2026-06-24 — ticked off the wishlist! 📸✅_
