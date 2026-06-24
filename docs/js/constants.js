@@ -79,3 +79,42 @@ export const BADGE_TYPES = ['Flower Arranging', 'Robotics', 'Toy Making', 'Cosme
 export const BADGE_LEVELS = ['None', 'Bronze', 'Silver', 'Gold'];
 export const BADGE_EMOJI = { None: '⬜', Bronze: '🥉', Silver: '🥈', Gold: '🥇' };
 
+// 🎲 Baby roll system — birth traits rolled when a baby is born.
+export const HAIR_TEXTURES = ['Coily', 'Curly', 'Wavy', 'Straight'];
+export const HANDEDNESS = ['Right-handed', 'Left-handed'];
+
+// Hair-texture inheritance: weighted outcomes per (unordered) parent pair,
+// keyed by the two textures sorted alphabetically and joined with '|'.
+const TEXTURE_TABLE = {
+  'Coily|Coily': [['Coily', 60], ['Curly', 30], ['Wavy', 10]],
+  'Coily|Curly': [['Coily', 35], ['Curly', 40], ['Wavy', 20], ['Straight', 5]],
+  'Coily|Wavy': [['Coily', 20], ['Curly', 35], ['Wavy', 35], ['Straight', 10]],
+  'Coily|Straight': [['Curly', 40], ['Wavy', 40], ['Coily', 10], ['Straight', 10]],
+  'Curly|Curly': [['Curly', 60], ['Coily', 10], ['Wavy', 25], ['Straight', 5]],
+  'Curly|Wavy': [['Curly', 35], ['Wavy', 40], ['Coily', 5], ['Straight', 20]],
+  'Curly|Straight': [['Curly', 30], ['Wavy', 40], ['Straight', 25], ['Coily', 5]],
+  'Wavy|Wavy': [['Wavy', 60], ['Curly', 20], ['Straight', 20]],
+  'Straight|Wavy': [['Wavy', 40], ['Straight', 40], ['Curly', 20]],
+  'Straight|Straight': [['Straight', 70], ['Wavy', 25], ['Curly', 5]]
+};
+
+function weightedPick(pairs) {
+  const total = pairs.reduce((s, [, w]) => s + w, 0);
+  let r = Math.random() * total;
+  for (const [v, w] of pairs) { if ((r -= w) < 0) return v; }
+  return pairs[pairs.length - 1][0];
+}
+
+// Glasses: 75% if both parents wear them, 40% if one, 10% if neither.
+export function rollGlasses(aGlasses, bGlasses) {
+  const n = (aGlasses ? 1 : 0) + (bGlasses ? 1 : 0);
+  return Math.random() < (n === 2 ? 0.75 : n === 1 ? 0.40 : 0.10);
+}
+
+// Hair texture: weighted by both parents' textures. Returns null if either is unknown.
+export function rollHairTexture(aTex, bTex) {
+  if (!aTex || !bTex) return null;
+  const table = TEXTURE_TABLE[[aTex, bTex].sort().join('|')];
+  return table ? weightedPick(table) : null;
+}
+

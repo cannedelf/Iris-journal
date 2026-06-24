@@ -6,7 +6,8 @@ import { store } from './store.js';
 import {
   ASPIRATIONS, STAR_SIGNS, SKILLS, LIFE_STAGES, PERSONALITY, CAREER_TRACKS, OTH,
   BODY_FRAMES, REL_TYPES, PET_SPECIES, SIM_TYPES, typeMeta, glyphFor,
-  BADGE_TYPES, BADGE_LEVELS, BADGE_EMOJI
+  BADGE_TYPES, BADGE_LEVELS, BADGE_EMOJI,
+  HAIR_TEXTURES, HANDEDNESS, rollGlasses, rollHairTexture
 } from './constants.js';
 
 const panel = () => document.getElementById('panel');
@@ -323,6 +324,7 @@ function simView(s) {
         <h4>Personality <span class="${pTotal === 25 ? 'ok' : 'warn'}">(total ${pTotal}/25)</span></h4>
         ${PERSONALITY.map(a => bar(a.high, s.personality?.[a.key])).join('')}
       </section>
+      ${birthTraitsView(s)}
       ${trackerView(s)}
     </div>
 
@@ -479,6 +481,21 @@ function lifespanView(s) {
 const kv = (k, v) => (v || v === 0) ? `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>` : '';
 const bolts = (n) => n == null ? '' : '💕'.repeat(Math.max(0, Math.min(3, n))) || '0';
 
+// ✨ Birth traits: rolled glasses & hair texture, Iris's first word, SimPE handedness.
+function birthTraitsView(s) {
+  if (!s.glasses && !s.hairTexture && !s.handedness && !s.firstWord) return '';
+  const hand = s.handedness ? (/^Left/.test(s.handedness) ? '🤚 ' : '✋ ') + s.handedness : '';
+  // Show glasses Yes/No only once the child's been rolled (hair texture set) or they wear them.
+  const glasses = s.glasses ? '👓 Yes' : (s.hairTexture ? '👓 No' : '');
+  return `<section><h3>✨ Birth Traits</h3>
+    <dl class="kv">
+      ${kv('Glasses', glasses)}
+      ${kv('Hair texture', s.hairTexture ? '💇 ' + s.hairTexture : '')}
+      ${kv('Handedness', hand)}
+      ${kv('First word', s.firstWord ? '🗣️ “' + s.firstWord + '”' : '')}
+    </dl></section>`;
+}
+
 function wireView(node) {
   const p = panel();
   p.querySelector('[data-close]')?.addEventListener('click', closePanel);
@@ -581,6 +598,16 @@ function simEditor(s) {
       ${row('Cause of death', textField('causeOfDeath', s.causeOfDeath, 'Old age / fire / flyby…'))}
       ${row('⭐ Town Elder (oldest Sim — pins "Longest-lived")', `<input type="checkbox" name="townElder" ${s.townElder ? 'checked' : ''}>`)}
       ${row('🏡 Founding Resident (pins "Longest in Sunnyside")', `<input type="checkbox" name="foundingResident" ${s.foundingResident ? 'checked' : ''}>`)}
+    </fieldset>
+
+    <fieldset><legend>✨ Birth Traits 🎲</legend>
+      <p class="hint">Set the parents above, then roll — glasses &amp; hair texture are weighted by the parents. 🗣️ First word is Iris's to choose; ✋ handedness comes from SimPE.</p>
+      ${row('👓 Wears glasses', `<input type="checkbox" name="glasses" ${s.glasses ? 'checked' : ''}>`)}
+      ${row('💇 Hair texture', selectField('hairTexture', s.hairTexture, HAIR_TEXTURES))}
+      ${row('✋ Handedness', selectField('handedness', s.handedness, HANDEDNESS))}
+      ${row('🗣️ First word', textField('firstWord', s.firstWord, "Iris fills this at toddler age-up"))}
+      <button type="button" id="rollTraits" class="add" style="width:100%">🎲 Roll glasses + hair texture</button>
+      <p id="rollMsg" class="hint"></p>
     </fieldset>
 
     <fieldset><legend>Sims 2 Mechanics</legend>
@@ -835,6 +862,34 @@ function wireEditor(node, isPet) {
     galleryInput.value = '';
   });
 
+  // 🎲 Roll birth traits (glasses + hair texture) from the selected parents.
+  const rollBtn = form.querySelector('#rollTraits');
+  rollBtn?.addEventListener('click', () => {
+    const parents = [...form.querySelectorAll('[name="parents_id[]"]')]
+      .map(sel => store.person(sel.value)).filter(Boolean);
+    const [pa, pb] = parents;
+    const glasses = rollGlasses(pa && pa.glasses, pb && pb.glasses);
+    const tex = rollHairTexture(pa && pa.hairTexture, pb && pb.hairTexture);
+    const glassesEl = form.elements['glasses'], hairEl = form.elements['hairTexture'];
+    const msg = form.querySelector('#rollMsg');
+    const origHair = hairEl.value;
+    // Little dice-roll flicker before the values settle.
+    rollBtn.disabled = true; msg.textContent = '🎲 rolling…';
+    let ticks = 0;
+    const flick = setInterval(() => {
+      hairEl.value = HAIR_TEXTURES[Math.floor(Math.random() * HAIR_TEXTURES.length)];
+      if (++ticks >= 11) {
+        clearInterval(flick);
+        glassesEl.checked = glasses;
+        hairEl.value = tex || origHair;
+        rollBtn.disabled = false;
+        const parts = [`👓 ${glasses ? 'Yes!' : 'No'}`];
+        parts.push(tex ? `💇 ${tex}` : '💇 (set both parents’ hair textures to roll)');
+        msg.textContent = `🎲 Rolled — ${parts.join(' · ')}`;
+      }
+    }, 55);
+  });
+
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
     const btn = form.querySelector('button[type=submit]');
@@ -895,6 +950,9 @@ function applySimForm(s, form) {
   }
   ['bornRotation', 'bornDay', 'diedRotation', 'diedDay'].forEach(k => { const v = numVal(form, k); if (v == null) delete s[k]; else s[k] = v; });
   { const c = val(form, 'causeOfDeath'); if (!c) delete s.causeOfDeath; else s.causeOfDeath = c; }
+  // 🎲 Birth traits
+  s.glasses = form.elements['glasses'] ? form.elements['glasses'].checked : !!s.glasses;
+  ['hairTexture', 'handedness', 'firstWord'].forEach(k => { const v = val(form, k); if (!v) delete s[k]; else s[k] = v; });
   s.type = form.elements['type'] ? form.elements['type'].value : (s.type || 'Human');
   s.yellowBow = form.elements['yellowBow'] ? form.elements['yellowBow'].checked : !!s.yellowBow;
   s.adopted = form.elements['adopted'] ? form.elements['adopted'].checked : !!s.adopted;

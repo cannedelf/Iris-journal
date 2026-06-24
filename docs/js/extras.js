@@ -101,6 +101,14 @@ export function renderStats(container) {
   const signs = tally(sims, p => p.starSign);
   const topSign = Object.entries(signs).sort((a, b) => b[1] - a[1])[0];
 
+  // 🎲 Birth-trait stats
+  const glassesCount = sims.filter(p => p.glasses).length;
+  const glassesPct = sims.length ? Math.round(glassesCount / sims.length * 100) : 0;
+  const textures = tally(sims, p => p.hairTexture);
+  const lefties = sims.filter(p => /^Left/.test(p.handedness || ''));
+  const firstWords = tally(sims, p => p.firstWord);
+  const topWord = Object.entries(firstWords).sort((a, b) => b[1] - a[1])[0];
+
   const persKeys = ['neat', 'outgoing', 'active', 'playful', 'nice'];
   const persAvg = persKeys.map(k => {
     const v = sims.map(p => p.personality && p.personality[k]).filter(x => typeof x === 'number');
@@ -185,6 +193,10 @@ export function renderStats(container) {
       ${card('⏳ Longest-lived', longest ? `<p class="stat-big">${longest.pinned ? '⭐ ' : ''}${esc(longest.p.display || longest.p.name)}</p><p class="stat-sub">${longest.pinned ? 'pinned as Town Elder' : longest.n + ' rotation' + (longest.n === 1 ? '' : 's')}</p>` : '—')}
       ${card('🏡 Longest in Sunnyside', oldestLiving ? `<p class="stat-big">${oldestLiving.pinned ? '🏡 ' : ''}${esc(oldestLiving.p.display || oldestLiving.p.name)}</p><p class="stat-sub">${oldestLiving.n} rotation${oldestLiving.n === 1 ? '' : 's'} &amp; counting</p>` : '—')}
       ${card('👶 Births / 🕊️ Deaths', `<p class="stat-big">${births} / ${deaths}</p>`)}
+      ${card('👓 Glasses', `<p class="stat-big">${glassesPct}%</p><p class="stat-sub">${glassesCount} of ${sims.length} wear glasses</p>`)}
+      ${card('💇 Hair textures', distRow(textures))}
+      ${card('✋ Lefties', `<p class="stat-big">${lefties.length}</p><p class="stat-sub">${lefties.length ? lefties.map(p => esc(p.display || p.name)).join(', ') : 'none discovered yet'}</p>`)}
+      ${card('🗣️ Most common first word', topWord ? `<p class="stat-big">🗣️ ${esc(topWord[0])}</p><p class="stat-sub">said by ${topWord[1]} ${topWord[1] === 1 ? 'child' : 'children'}</p>` : '<span class="muted">none chosen yet — Iris\'s job!</span>')}
     </div>
     <h3 class="extras-h" style="margin-top:24px">📜 Sunnyside Timeline</h3>
     ${timelineHtml}

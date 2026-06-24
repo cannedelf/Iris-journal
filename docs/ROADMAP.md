@@ -30,6 +30,10 @@ The app already does all of this:
 - **Birth-order sibling sorting.**
 - **Search & zoom.**
 - **Auto-save to GitHub** — every change committed with full version history.
+- **🎲 Baby roll system** — when a baby's born, roll 👓 glasses & 💇 hair texture
+  (weighted by the parents), record ✋ handedness from SimPE and 🗣️ Iris's chosen
+  first word. Shows on the profile and feeds new Stats cards.
+  *Iris's note: First words are my sacred art. Kofi's still belongs to the game. 🌿*
 - **📸 Photo albums** — multiple photos per Sim & pet, each with a caption and
   rotation, shown in rotation order, click to open full-screen. Any album photo
   can be promoted to the cover (tree avatar).

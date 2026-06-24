@@ -71,6 +71,11 @@ Only `id` is truly required; fill in what you know, leave the rest as `""`, `[]`
     "notable": "", "fromMum": "", "fromDad": "", "notes": ""
   },
 
+  "glasses": false,              // 🎲 birth traits — see "Baby roll" below
+  "hairTexture": "Wavy",         //   Coily / Curly / Wavy / Straight
+  "handedness": "Right-handed",  //   Right-handed / Left-handed (from SimPE)
+  "firstWord": "Piano",          //   Iris picks this at toddler age-up
+
   "parents": ["kareem", "iris"],          // list of Sim ids — drives the tree & predictor
   "birthOrder": 3,                         // optional — sorts siblings (1 = eldest); leave out to keep data order
   "partners": [ { "id": "someone", "status": "Engaged", "bolts": 2,
@@ -168,4 +173,18 @@ These power the **📊 Stats** page and its **Timeline**. All optional.
   really oldest — tick it on the true elder. It does **not** affect "Longest in Sunnyside".
 - **`foundingResident`** does the same for the **🏡 Longest in Sunnyside** card — when several
   Sims arrived the same rotation, tick it on the one you want shown (the two pins are separate).
+
+### 🎲 Baby roll (birth traits)
+When a baby is born, open it in **Edit → ✨ Birth Traits** and press **🎲 Roll** — the app
+rolls **glasses** and **hair texture** weighted by the parents:
+- **👓 Glasses:** 75% if *both* parents wear glasses, 40% if *one*, 10% if *neither*. So set
+  `"glasses": true` on the parents who wear them.
+- **💇 Hair texture:** weighted by both parents' `hairTexture` (Coily / Curly / Wavy / Straight),
+  but not guaranteed — siblings can differ. Set each parent's texture for the roll to work.
+- **🗣️ First word** is *not* rolled — Iris fills it in by hand at toddler age-up.
+- **✋ Handedness** is *not* rolled either — it's a hidden Sims 2 trait you read from SimPE and
+  record here (`Right-handed` / `Left-handed`).
+
+These show in a **✨ Birth Traits** section on the profile and feed glasses %, hair-texture,
+lefties and first-word cards on the **📊 Stats** page.
 
