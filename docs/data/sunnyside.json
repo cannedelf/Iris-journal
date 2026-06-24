@@ -1393,7 +1393,10 @@
         "Flower Arranging": "Bronze"
       },
       "bornRotation": 1,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "glasses": true,
+      "hairTexture": "Wavy"
     },
     {
       "id": "cassian",
