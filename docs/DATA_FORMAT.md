@@ -45,7 +45,10 @@ Only `id` is truly required; fill in what you know, leave the rest as `""`, `[]`
   "yellowBow": true,             // 🎀 badge (optional)
   "adopted": false,              // ❤️ adoption line to parents (optional)
   "heart": false,               // rainbow glow (Iris has this)
-  "photo": null,                 // path like "photos/honey.png", or null
+  "photo": null,                 // cover photo (tree avatar) — path like "photos/honey.png", or null
+  "gallery": [                   // 📸 album — extra photos, shown on the profile in rotation order
+    { "src": "photos/honey-a1b2.jpg", "caption": "first sunflower", "rotation": 3 }
+  ],
 
   "aspiration": "Popularity",    // Family/Knowledge/Fortune/Popularity/Pleasure/Grilled Cheese/Romance
   "secondaryAspiration": "",

@@ -127,6 +127,17 @@ export const store = {
     return `photos/${id}.${ext}`;
   },
 
+  // Upload an album photo under a unique filename (so multiple per Sim never clash).
+  async saveGalleryPhoto(id, dataUrl) {
+    const ext = (dataUrl.match(/^data:image\/(\w+);/) || [, 'jpg'])[1];
+    const base64 = dataUrl.split(',')[1];
+    const rand = Math.random().toString(36).slice(2, 8);
+    const path = `${PHOTO_DIR}/${id}-${rand}.${ext}`;
+    if (!gh.configured) return dataUrl; // embed inline when read-only
+    await gh.putFile(path, base64, `Add album photo for ${id}`, null);
+    return `photos/${id}-${rand}.${ext}`;
+  },
+
   // --- deletion (also unhooks the id from anyone who referenced it) --------
   deletePerson(id) {
     this.data.people = this.data.people.filter(p => p.id !== id);

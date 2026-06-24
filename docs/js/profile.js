@@ -161,6 +161,65 @@ function photoBlock(node) {
   return `<div class="photo placeholder" style="border-color:${fam.colour};background:${fam.soft || '#eee'}"><span>${esc(node.emoji || '👤')}</span></div>`;
 }
 
+// ---------- 📸 Photo album --------------------------------------------------
+// Album photos sort by rotation (then their stored order) so the album reads
+// like a little timeline. Items: { src, caption, rotation }.
+function gallerySorted(items) {
+  return (items || []).map((g, i) => ({ g, i }))
+    .sort((a, b) => ((a.g.rotation ?? 1e9) - (b.g.rotation ?? 1e9)) || (a.i - b.i))
+    .map(x => x.g);
+}
+function galleryBlock(node) {
+  const items = gallerySorted(node.gallery);
+  if (!items.length) return '';
+  const cells = items.map(g => `<figure class="gcell" data-light="${esc(g.src)}" data-cap="${esc(g.caption || '')}" data-rot="${g.rotation ?? ''}">
+      <img src="${esc(g.src)}" alt="${esc(g.caption || '')}" loading="lazy">
+      ${(g.caption || g.rotation != null) ? `<figcaption>${g.rotation != null ? `<b>R${esc(g.rotation)}</b> ` : ''}${esc(g.caption || '')}</figcaption>` : ''}
+    </figure>`).join('');
+  return `<section><h3>📸 Album</h3><div class="gallery">${cells}</div></section>`;
+}
+// Full-screen view of one photo; tap anywhere (or Escape) to close.
+function openLightbox(src, caption, rotation) {
+  const back = document.createElement('div');
+  back.className = 'lightbox';
+  back.innerHTML = `<button class="lb-close" aria-label="Close">✕</button>
+    <div class="lb-inner"><img src="${esc(src)}" alt="">
+    ${(caption || rotation) ? `<p class="lb-cap">${rotation ? `<b>R${esc(rotation)}</b> ` : ''}${esc(caption || '')}</p>` : ''}</div>`;
+  const onKey = (e) => { if (e.key === 'Escape') close(); };
+  const close = () => { back.remove(); document.removeEventListener('keydown', onKey); };
+  back.addEventListener('click', close);
+  document.addEventListener('keydown', onKey);
+  document.body.appendChild(back);
+}
+function readFileAsDataURL(file) {
+  return new Promise((resolve, reject) => {
+    const r = new FileReader();
+    r.onload = () => resolve(r.result);
+    r.onerror = reject;
+    r.readAsDataURL(file);
+  });
+}
+// Editor: one row per album photo. The src lives in data-src (may be a data: URL
+// for not-yet-saved photos); ⭐ marks the current cover.
+function galleryRow(g, coverSrc) {
+  const isCover = coverSrc && g.src === coverSrc;
+  return `<div class="grow${isCover ? ' is-cover' : ''}" data-src="${esc(g.src)}">
+    <div class="gthumb"><img src="${esc(g.src)}" alt=""></div>
+    <input class="gcap" placeholder="Caption — e.g. sunflower kiss" value="${esc(g.caption || '')}">
+    <input class="grot" type="number" min="1" max="999" placeholder="R" title="Rotation" value="${g.rotation ?? ''}">
+    <button type="button" class="gcover" data-gcover title="Make this the cover photo">⭐</button>
+    <button type="button" class="gdel" data-gdel title="Remove from album">✕</button>
+  </div>`;
+}
+function galleryEditor(items, coverSrc) {
+  return `<fieldset><legend>📸 Album</legend>
+    <p class="hint">Add as many photos as you like — give each a caption and the rotation it's from. They show on the profile in rotation order; ⭐ promotes one to the cover photo on the tree.</p>
+    <div class="gallery-rows">${gallerySorted(items).map(g => galleryRow(g, coverSrc)).join('')}</div>
+    <label class="file-btn">➕ Add album photos<input type="file" accept="image/*" multiple id="galleryInput"></label>
+  </fieldset>`;
+}
+
+
 function chip(id) {
   const n = store.node(id);
   if (!n) return `<span class="rel-chip missing">${esc(id)}</span>`;
@@ -313,6 +372,7 @@ function simView(s) {
     </div>
 
     <div class="ptab" data-panel="history" hidden>
+      ${galleryBlock(s)}
       <section><h3>Key Moments 📖</h3>${moments}</section>
       ${(s.lockedWants || []).length || (s.fears || []).length ? `<section><h3>Locked Wants & Fears</h3>
         <ul class="wants">${(s.lockedWants || []).map(w => `<li>🔒 ${esc(w)}</li>`).join('')}
@@ -365,6 +425,7 @@ function petView(pt) {
         `<tr><td>${esc(m.event)}<span class="mn">${esc(m.notes || '')}</span></td></tr>`).join('')}</tbody></table>`
         : '<p class="muted">No moments yet.</p>'}
     </section>
+    ${galleryBlock(pt)}
   </div>`;
 }
 
@@ -436,6 +497,10 @@ function wireView(node) {
   p.querySelector('[data-predict]')?.addEventListener('click', (e) => {
     window.dispatchEvent(new CustomEvent('open-predictor', { detail: { id: e.currentTarget.dataset.predict } }));
   });
+
+  // Album: click a photo to open it full-screen.
+  p.querySelectorAll('[data-light]').forEach(c => c.addEventListener('click', () =>
+    openLightbox(c.dataset.light, c.dataset.cap, c.dataset.rot)));
 }
 
 // ---------- Editing --------------------------------------------------------
@@ -488,7 +553,8 @@ function simEditor(s) {
       <h2>Edit ${esc(s.display || s.name)}</h2>
       <div class="editor-actions"><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save</button></div>
     </div>
-    <div class="photo-edit">${photoBlock(s)}<label class="file-btn">📸 Upload photo<input type="file" accept="image/*" id="photoInput"></label></div>
+    <div class="photo-edit">${photoBlock(s)}<label class="file-btn">📸 Upload cover photo<input type="file" accept="image/*" id="photoInput"></label></div>
+    ${galleryEditor(s.gallery, s.photo)}
 
     <fieldset><legend>Identity</legend>
       ${row('Full name', textField('name', s.name))}
@@ -584,7 +650,8 @@ function petEditor(pt) {
   return `<form class="editor" id="editForm">
     <div class="editor-head"><h2>Edit ${esc(pt.name)}</h2>
       <div class="editor-actions"><button type="button" data-cancel class="ghost">Cancel</button><button type="submit" class="primary">Save</button></div></div>
-    <div class="photo-edit">${photoBlock(pt)}<label class="file-btn">📸 Upload photo<input type="file" accept="image/*" id="photoInput"></label></div>
+    <div class="photo-edit">${photoBlock(pt)}<label class="file-btn">📸 Upload cover photo<input type="file" accept="image/*" id="photoInput"></label></div>
+    ${galleryEditor(pt.gallery, pt.photo)}
     <fieldset><legend>Pet</legend>
       ${row('Name', textField('name', pt.name))}
       ${row('Emoji', textField('emoji', pt.emoji))}
@@ -706,6 +773,14 @@ function wireEditor(node, isPet) {
 
   // Add/remove dynamic rows.
   form.addEventListener('click', (e) => {
+    const gdel = e.target.closest('[data-gdel]');
+    if (gdel) { gdel.closest('.grow').remove(); return; }
+    const gcover = e.target.closest('[data-gcover]');
+    if (gcover) {
+      const row = gcover.closest('.grow');
+      form.querySelectorAll('.gallery-rows .grow').forEach(r => r.classList.toggle('is-cover', r === row));
+      return;
+    }
     const del = e.target.closest('[data-del]');
     if (del) { del.closest('.lrow').remove(); return; }
     const add = e.target.closest('[data-add]');
@@ -746,6 +821,20 @@ function wireEditor(node, isPet) {
     reader.readAsDataURL(file);
   });
 
+  // Album photos (resized in-browser, held until save).
+  const galleryInput = form.querySelector('#galleryInput');
+  galleryInput?.addEventListener('change', async () => {
+    const files = [...galleryInput.files]; if (!files.length) return;
+    const rows = form.querySelector('.gallery-rows');
+    for (const file of files) {
+      try {
+        const resized = await resizePhoto(await readFileAsDataURL(file));
+        rows.insertAdjacentHTML('beforeend', galleryRow({ src: resized }, null));
+      } catch (_) { /* skip unreadable file */ }
+    }
+    galleryInput.value = '';
+  });
+
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
     const btn = form.querySelector('button[type=submit]');
@@ -755,6 +844,21 @@ function wireEditor(node, isPet) {
       if (isPet) applyPetForm(node, form); else applySimForm(node, form);
       if (isNew) { delete node._isNew; (isPet ? store.data.pets : store.data.people).push(node); }
       if (pendingPhoto) node.photo = await store.savePhoto(node.id, pendingPhoto);
+      // Album: upload any new photos, keep captions/rotation, honour the ⭐ cover pick.
+      const grows = [...form.querySelectorAll('.gallery-rows .grow')];
+      const gallery = [];
+      let coverFromAlbum = null;
+      for (const r of grows) {
+        let src = r.dataset.src;
+        if (src.startsWith('data:')) src = await store.saveGalleryPhoto(node.id, src);
+        const item = { src };
+        const cap = r.querySelector('.gcap').value.trim(); if (cap) item.caption = cap;
+        const rot = r.querySelector('.grot').value; if (rot !== '') item.rotation = Number(rot);
+        gallery.push(item);
+        if (r.classList.contains('is-cover')) coverFromAlbum = src;
+      }
+      if (gallery.length) node.gallery = gallery; else delete node.gallery;
+      if (coverFromAlbum) node.photo = coverFromAlbum;
       const res = await store.commit(`${isNew ? 'Add' : 'Update'} ${node.display || node.name || 'Sim'}`);
       window.dispatchEvent(new CustomEvent('data-updated'));
       openProfile(node.id);
