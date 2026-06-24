@@ -41,7 +41,7 @@ function draw() {
     const cx = r.points.reduce((a, p) => a + p[0], 0) / r.points.length;
     const cy = r.points.reduce((a, p) => a + p[1], 0) / r.points.length;
     const forName = r.forId ? (store.person(r.forId)?.display || store.person(r.forId)?.name || '') : '';
-    const label = r.name ? `<text x="${cx}" y="${cy}" class="lay-label" font-size="1">${esc(r.name)}${forName ? ` <tspan font-size="0.8" fill="#7c6f5e">(${esc(forName)})</tspan>` : ''}</text>` : '';
+    const label = r.name ? `<text x="${cx}" y="${cy}" class="lay-label" font-size="0.8">${esc(r.name)}${forName ? ` <tspan font-size="0.65" fill="#7c6f5e">(${esc(forName)})</tspan>` : ''}</text>` : '';
     const handles = sel ? r.points.map((p, vi) => `<circle cx="${p[0]}" cy="${p[1]}" r="0.42" class="lay-handle" data-room="${i}" data-vert="${vi}"/>`).join('') : '';
     const mids = sel ? r.points.map((p, vi) => {
       const q = r.points[(vi + 1) % r.points.length];
