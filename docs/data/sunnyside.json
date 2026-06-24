@@ -2555,9 +2555,9 @@
       "bodyFrame": "Male",
       "career": {
         "track": "",
-        "level": 0,
         "levelName": "",
-        "topOfCareer": "",
+        "level": 0,
+        "top": "",
         "degree": ""
       },
       "skills": {
@@ -2574,12 +2574,12 @@
         "hairHidden": "Could carry blonde from Claire!!",
         "eyesVisible": "Dark brown — from Kareem/Samuel",
         "eyesHidden": "Could carry lilac from Claire!!",
-        "skinTone": "Warm brown",
-        "freckles": false,
-        "notableFeatures": "First Rainbow baby!!",
+        "skin": "",
+        "freckles": "",
+        "notable": "",
         "fromMum": "TBD when he grows up!!",
         "fromDad": "Dark brown eyes, warm skin",
-        "geneticNotes": "Claire's hidden blonde and lilac could be hiding in Kofi!! Won't know until he has children of his own!!"
+        "notes": ""
       },
       "parents": [
         "kareem",
@@ -2598,11 +2598,14 @@
           "notes": "First Rainbow baby. Born the day after his parents' wedding. Heritage name — Ghanaian soul name for Friday."
         }
       ],
-      "type": "living",
+      "type": "Human",
       "adopted": false,
-      "bornRotation": "R5",
       "bornDay": 3,
-      "yellowBow": false
+      "yellowBow": false,
+      "cas": false,
+      "glasses": true,
+      "hairTexture": "Curly",
+      "badges": {}
     }
   ],
   "pets": [
