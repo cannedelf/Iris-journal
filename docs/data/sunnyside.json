@@ -2020,8 +2020,8 @@
       "bodyFrame": "Female",
       "career": {
         "track": "Natural Science",
-        "level": 2,
         "levelName": "",
+        "level": 2,
         "top": "Ecological Guru",
         "degree": "Biology"
       },
@@ -2093,7 +2093,14 @@
         }
       ],
       "bornRotation": 4,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "glasses": false,
+      "hairTexture": "Straight",
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "andrea",
