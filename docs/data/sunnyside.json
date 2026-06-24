@@ -191,6 +191,29 @@
             "name": "New room",
             "colour": "#d97aa0",
             "status": "planned"
+          },
+          {
+            "points": [
+              [
+                1,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                1,
+                6
+              ]
+            ],
+            "name": "New room",
+            "colour": "#6f9e5e",
+            "status": "planned"
           }
         ]
       }
