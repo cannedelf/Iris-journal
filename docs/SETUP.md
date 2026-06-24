@@ -55,6 +55,17 @@ You'll see **● Auto-saving to GitHub** in the top corner. Done! 🎉
 - Photos you upload are committed to `docs/photos/`.
 - Because everything is a normal file in git, you get **automatic backups and full history**.
 
+### Your own backup copy 💾
+
+Even with all that, you can keep a personal copy on your computer. In **⚙️ Settings**:
+
+- **💾 Download data backup (.json)** — saves the whole neighbourhood as a single
+  `sunnyside-backup-YYYY-MM-DD.json`. Instant, works even read-only.
+- **🗂️ Download full backup with photos (.zip)** — a complete keepsake: the data file
+  plus every photo, zipped together.
+
+Tuck these somewhere safe now and then for total peace of mind.
+
 ---
 
 ## Tips

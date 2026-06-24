@@ -6,6 +6,7 @@ import { renderTree, renderHouseholds, getColourMode, setColourMode } from './tr
 import { renderPredictor } from './predictor.js';
 import { renderNames, renderLots, renderStats } from './extras.js';
 import { openProfile, openNewSim, openNewPet, openNewHousehold, openHousehold, openNewLot, openLot } from './profile.js';
+import { downloadData, downloadFull } from './backup.js';
 import { SIM_TYPES } from './constants.js';
 
 let current = { view: 'tree', family: 'rainbow' };
@@ -174,6 +175,21 @@ function bindSettings() {
     } catch (e) {
       msg.textContent = '✗ ' + e.message;
     }
+  });
+  el('setBackupData').addEventListener('click', () => {
+    const m = el('setBackupMsg');
+    try { downloadData(); m.textContent = '✓ Saved the .json to your downloads.'; }
+    catch (e) { m.textContent = '✗ ' + e.message; }
+  });
+  el('setBackupFull').addEventListener('click', async () => {
+    const m = el('setBackupMsg'), btn = el('setBackupFull');
+    btn.disabled = true;
+    m.textContent = 'Gathering photos…';
+    try {
+      const r = await downloadFull((d, t) => { m.textContent = `Bundling photos… ${d}/${t}`; });
+      m.textContent = `✓ Full backup downloaded — ${r.saved} photo${r.saved === 1 ? '' : 's'}${r.failed ? `, ${r.failed} skipped` : ''}.`;
+    } catch (e) { m.textContent = '✗ ' + e.message; }
+    finally { btn.disabled = false; }
   });
   el('setSave').addEventListener('click', async () => {
     gh.repo = el('setRepo').value;

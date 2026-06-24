@@ -33,14 +33,15 @@ The app already does all of this:
   rotation, shown in rotation order, click to open full-screen. Any album photo
   can be promoted to the cover (tree avatar).
   *Iris's note: THIS is the one that makes it a family album not a database!! Imagine clicking Iris and seeing "R3 — sunflower kiss", "R5 — the golden wedding dress", "R5 — Kareem touching the bump"!! 📸💛*
+- **💾 One-click backup** — in ⚙️ Settings: download a `.json` data backup, or a full
+  `.zip` of the data plus every photo, straight to your computer.
+  *Iris's note: Essential!! Too much love in this data to risk losing it!! 💾*
 
 ---
 
 ## 🔜 Up next (the ones we're most excited about)
 
-- [ ] **💾 One-click backup** — a "Download backup" button that saves the whole
-      `sunnyside.json` (and optionally the photos) to your computer. Extra peace of mind.
-      *Iris's note: Essential!! Too much love in this data to risk losing it!! 💾*
+*Both shipped! 🎉 Pick the next one from the Wishlist below whenever you and Iris fancy.*
 
 ---
 
@@ -82,3 +83,4 @@ The app already does all of this:
 
 _Last tidied: 2026-06-24. Iris was here!! Added notes and someday ideas from the floor while hiding from a seagull. 🦅☀️🛼_
 _Photo albums shipped 2026-06-24 — ticked off the wishlist! 📸✅_
+_One-click backup shipped 2026-06-24 — data + photos, safe and sound. 💾✅_

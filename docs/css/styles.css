@@ -304,6 +304,8 @@ a { color: var(--green); }
 .settings-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 16px; }
 .settings-msg { font-size: 13px; min-height: 18px; color: #8a5a1a; }
 .settings-note { font-size: 12px; color: var(--ink-soft); margin-top: 14px; background: #fff; padding: 10px 12px; border-radius: 9px; }
+.settings-backup { margin-top: 14px; padding-top: 14px; border-top: 1.5px solid var(--line); display: flex; flex-direction: column; gap: 8px; }
+.settings-sub { font-size: 13px; color: var(--ink-soft); margin: 0 0 2px; }
 
 /* Type-colour legend (shown only in Colour: Type mode) */
 .legend { position: fixed; left: 16px; bottom: 16px; background: rgba(255,255,255,.95); border: 1.5px solid var(--line); border-radius: 14px; padding: 12px 14px; box-shadow: var(--shadow); z-index: 30; display: none; max-width: 230px; }

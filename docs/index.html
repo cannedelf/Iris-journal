@@ -71,6 +71,12 @@
       <label class="frow"><span>Access token</span><input id="setToken" type="password" placeholder="github_pat_…"></label>
       <p id="setMsg" class="settings-msg"></p>
       <button id="setResync" type="button" class="ghost" style="width:100%">🔄 Reload latest from GitHub (fixes out-of-sync)</button>
+      <div class="settings-backup">
+        <p class="settings-sub">💾 Backups — keep your own copy on your computer, just in case.</p>
+        <button id="setBackupData" type="button" class="ghost" style="width:100%">💾 Download data backup (.json)</button>
+        <button id="setBackupFull" type="button" class="ghost" style="width:100%">🗂️ Download full backup with photos (.zip)</button>
+        <p id="setBackupMsg" class="settings-msg"></p>
+      </div>
       <div class="settings-actions"><button id="setCancel" class="ghost">Cancel</button><button id="setSave" class="primary">Save &amp; connect</button></div>
       <p class="settings-note">🔒 The token is stored only in this browser (localStorage). Use a fine-grained token scoped to just this one repository with Contents read &amp; write.</p>
     </div>
