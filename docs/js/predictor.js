@@ -146,7 +146,7 @@ function personalityBlock(a, b) {
       <div class="pers-strip" style="display:grid;grid-template-columns:repeat(11,1fr);gap:3px;margin:6px 0 4px">${cells}</div>
       <div class="pers-scale" style="font-size:12px;color:#7c6f5e"><span class="pers-range">most likely <b>${mode}</b> · possible range <b>${min}–${max}</b></span></div></div>`;
   }).join('');
-  return `<div class="gene-block"><h3>🧠 Personality</h3>
+  return `<div class="gene-block"><h3>🧠 Personality 🆕✅</h3>
     <p class="pers-intro">Each trait rolls on its own: the child takes Mum's or Dad's value (50/50), then wanders <b>±2</b> from it — capped at 0–10. Totals don't add to 25 (that's a CAS-only rule). 🎲</p>
     ${rows}</div>`;
 }
