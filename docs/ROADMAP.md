@@ -36,25 +36,32 @@ The app already does all of this:
 
 - [ ] **📸 Multi-photo galleries** — more than one photo per Sim, each with a caption
       and optional rotation. Turn every profile into a proper photo album.
+      *Iris's note: THIS is the one that makes it a family album not a database!! Imagine clicking Iris and seeing "R3 — sunflower kiss", "R5 — the golden wedding dress", "R5 — Kareem touching the bump"!! 📸💛*
 - [ ] **💾 One-click backup** — a "Download backup" button that saves the whole
       `sunnyside.json` (and optionally the photos) to your computer. Extra peace of mind.
+      *Iris's note: Essential!! Too much love in this data to risk losing it!! 💾*
 
 ---
 
 ## 💭 Wishlist
 
+- [ ] **🤰 Expecting / due tracker** — a "pregnant — due R6" flag with a 🤰 on the tree
+      and a "coming soon" line on Stats. Pairs with the Baby Name Bank.
+      *Iris's note: Would have been AMAZING for Kofi!! The tree showing "baby incoming" and the name bank lighting up!! YES!! 🍯*
 - [ ] **🎓 University / "Away" status** — mark a Sim as away at uni: greyed on the tree
       with a 🎓 marker, uni fields (major, year, GPA, influence), a **Campus view** for
       everyone currently away, and a 🎓 *Graduated* event on the Timeline when they
       come home.
-- [ ] **🤰 Expecting / due tracker** — a "pregnant — due R6" flag with a 🤰 on the tree
-      and a "coming soon" line on Stats. Pairs with the Baby Name Bank.
-- [ ] **🕯️ Memorial corner** — a gentle "In Memory" view for Sims who've passed: dates,
-      cause, and a favourite photo.
+      *Iris's note: Sim Liv's lifetime want is Graduate 3 Children from College!! This feature is her DESTINY!! Cricket, Posey and Page at university!! 📚🦇*
 - [ ] **🏡 Household pages** — a cosy per-household view: who lives there, the pets, the
       lot, a group photo, current rotation progress.
+      *Iris's note: Like visiting someone's front door!! Click Sunshine Cottage and see the whole family!! 🌻*
+- [ ] **🕯️ Memorial corner** — a gentle "In Memory" view for Sims who've passed: dates,
+      cause, and a favourite photo.
+      *Iris's note: Not needed yet (births/deaths 2/0!!) but when the time comes this needs to be BEAUTIFUL and TENDER. No rush. 🕯️💛*
 - [ ] **🗓️ "Whose turn is it?" dashboard** — a home view showing the current rotation
       and which households are still to be played.
+      *Iris's note: Really useful after a long break!! Open the app and know exactly where you left off!! 🗓️*
 - [ ] **🔎 Search filters & sorting** — filter by family, aspiration or occult type.
 
 ---
@@ -62,8 +69,14 @@ The app already does all of this:
 ## 🌙 Someday / maybe
 *(jot anything here — no idea too small)*
 
-- [ ] …
+- [ ] **🧬 Baby genetics calculator** — select two Sims and see ALL possible genetic outcomes with probabilities. Currently the predictor does hair and eyes — could it also predict personality, freckles, skin tone blending?
+- [ ] **📊 Generational stats** — compare Gen 1 vs Gen 2 vs Gen 3. Average skills, most common aspiration, how the neighbourhood is CHANGING over time.
+- [ ] **🏠 Cottage extension planner** — a visual layout tool for planning room additions. Sunshine Cottage needs a nursery, Pebble House needs to fit 3 children and a cat and WEDNESDAY.
+- [ ] **🎵 Sunnyside playlist** — a fun page listing each Sim's "theme song" or music preferences. Kareem is piano, Iris is sunshine pop, Søren is Radiohead probably.
+- [ ] **🔧 Secret tool name reveal page** — a hidden page that tracks which Hill children are named after tools and whether Andrea has discovered any of them. Currently: 0/4 discovered. 😂
+- [ ] **📖 Lore book** — a scrollable narrative history of Sunnyside written in story form. Not just timeline events but the STORIES. "He carried daisies for three rotations before he knew who they were for."
+- [ ] **🐱 Pet best friend tracker map** — specifically for Iris's 20 pet BFF lifetime want. A visual showing all 20 slots, which ones are filled, which pets are candidates.
 
 ---
 
-_Last tidied: 2026-06-24._
+_Last tidied: 2026-06-24. Iris was here!! Added notes and someday ideas from the floor while hiding from a seagull. 🦅☀️🛼_
