@@ -77,6 +77,14 @@ The app already does all of this:
 - [ ] **🧬 Baby genetics calculator** — select two Sims and see ALL possible genetic outcomes with probabilities. Currently the predictor does hair and eyes — could it also predict personality, freckles, skin tone blending?
 - [ ] **📊 Generational stats** — compare Gen 1 vs Gen 2 vs Gen 3. Average skills, most common aspiration, how the neighbourhood is CHANGING over time.
 - [ ] **🏠 Cottage extension planner** — a visual layout tool for planning room additions. Sunshine Cottage needs a nursery, Pebble House needs to fit 3 children and a cat and WEDNESDAY.
+      *Liv: would love this eventually — no rush, it's the biggest build on the list.*
+      *Design when we get to it:* an **🏠 Layout tab on each household page** with a snap-to-grid
+      canvas (e.g. 20×20 tiles, SVG like the tree). **Add room** → a labelled rectangle you drag to
+      move / drag a corner to resize, snapping to whole tiles. Each room has a name ("Nursery 🍼",
+      "Cricket's room"), colour, optional **for: [Sim]** link, and a **status** — Existing (solid),
+      Planned (dashed/glowing), Building (🔨) — so the current cottage and the dreamed extension show
+      at once. Saved on the household as `layout: { cols, rows, rooms:[{x,y,w,h,name,colour,status,forId}] }`.
+      Add x/y/w/h number nudgers + tap-select + arrow-move so it works on iPad, not just mouse.
 - [ ] **🎵 Sunnyside playlist** — a fun page listing each Sim's "theme song" or music preferences. Kareem is piano, Iris is sunshine pop, Søren is Radiohead probably.
 - [ ] **🔧 Secret tool name reveal page** — a hidden page that tracks which Hill children are named after tools and whether Andrea has discovered any of them. Currently: 0/4 discovered. 😂
 - [ ] **📖 Lore book** — a scrollable narrative history of Sunnyside written in story form. Not just timeline events but the STORIES. "He carried daisies for three rotations before he knew who they were for."
