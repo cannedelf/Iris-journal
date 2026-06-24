@@ -165,8 +165,8 @@
               ]
             ],
             "name": "New room",
-            "colour": "#e6a91f",
-            "status": "existing",
+            "colour": "#d97aa0",
+            "status": "planned",
             "forId": "iris"
           }
         ]
