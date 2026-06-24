@@ -817,7 +817,9 @@
       "bornDay": 1,
       "cas": false,
       "foundingResident": true,
-      "badges": {}
+      "badges": {},
+      "glasses": false,
+      "hairTexture": "Wavy"
     },
     {
       "id": "kareem",
