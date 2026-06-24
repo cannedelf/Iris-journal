@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "neighbourhood": "Sunnyside",
-    "updated": "2026-06-23",
+    "updated": "2026-06-24",
     "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub.",
     "eyeColours": [
       {
@@ -2186,11 +2186,11 @@
       "lifetimeWant": "",
       "starSign": "",
       "personality": {
-        "neat": null,
-        "outgoing": null,
-        "active": null,
-        "playful": null,
-        "nice": null
+        "neat": 4,
+        "outgoing": 10,
+        "active": 4,
+        "playful": 4,
+        "nice": 3
       },
       "turnOn1": "",
       "turnOn2": "",
@@ -2199,8 +2199,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "",
-        "level": null,
         "levelName": "",
+        "level": null,
         "top": "",
         "degree": ""
       },
@@ -2245,7 +2245,12 @@
       "fears": [],
       "car": "",
       "carNotes": "",
-      "moments": []
+      "moments": [],
+      "cas": false,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "benjamin",
