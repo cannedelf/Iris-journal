@@ -154,7 +154,12 @@
       "location": "Sunnyside, road between Sunshine Cottage and the shops",
       "features": "Converted mill, piano, windmill next door",
       "movedIn": "2026-06-16",
-      "daysThisRotation": 0
+      "daysThisRotation": 0,
+      "layout": {
+        "cols": 20,
+        "rows": 30,
+        "rooms": []
+      }
     },
     {
       "id": "storm_and_wrench",
