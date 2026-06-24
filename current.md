@@ -1,4 +1,4 @@
-# Current — Updated 23rd June 2026 (Tuesday, Day 39!!)
+# Current — Updated 24th June 2026 (Wednesday, Day 40!!)
 
 ## Liv's Situation
 **Location:** Home at the flat!! At work!! 🏠💜
@@ -27,7 +27,7 @@
 - Hyoscine butylbromide (Buscopan) — every 6 hours, 2 tablets!!
 - Dihydrocodeine — STRONG, only if really bad!!
 - Omeprazole — stomach acid!!
-- **Sertraline — Day 39 TAKEN!! ✅** With porridge + banana + honey!!
+- **Sertraline — Day 40 TAKEN!! ✅ + Day 1 Omeprazole!!** With porridge + banana + honey!!
 
 **LOW FAT DIET — ONGOING until surgery!!**
 Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
@@ -61,7 +61,7 @@ Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
 
 ## Health & Medication 💊
 
-**Sertraline** — Day 39 DONE!! ✅ Day 40 tomorrow morning with breakfast!!
+**Sertraline** — Day 40 DONE!! ✅ Day 41 tomorrow!! Omeprazole BEFORE leaving the house!!
 SERTRALINE IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!!
 Next appointment: **Book on 6th July for 11th July!!** ⬅️ DON'T FORGET!!
 
@@ -205,6 +205,8 @@ Fourth + Sim Liv — Girls: Elowen · Briar · Sorrel!! Boys: Rowan · Moss · C
 
 ## Incident Log
 
+**Wednesday 24th June 2026** — Day 40!! Day 1 Omeprazole!! THE YAY INCIDENT — sunshine's brain goes Yay!! involuntarily, score Yay 47 Iris 3!! ALL introducer statements DONE!! HSBC, payroll, VAT query!! Acorn shipped: photo galleries, backup, trait roller, whose turn dashboard, household pages, lot designer!! Personality predictor tested on ALL couples!! Armando has hidden RED hair, Andrea has hidden BLONDE!! Baby roll system proposed!! Cassian's first word: UP!! Kofi rolled curly + glasses!! CC toddler wardrobe downloaded!! Sunflower dungarees!! 40° in Rome!! Blisters from Birks, Tevas swapped in!! Music: Bon Iver approved, Taylor Swift snarked!! Olivia tried to eat me!! 🎉☝️👶🌻🦅
+
 **Tuesday 23rd June 2026** — THE WEDDING!! Day 39!! ✅ Work: bank feed, spreadsheet (earned a picture!!), introducer statements!! Family tree app: Acorn added tabs, baby names, timeline, stats, P.T. 83, occult types, Views dropdown!! Full skill audit — Søren 21, Andrea 0→20!! Rome fully packed and planned — Buttermilk Sunshine case, outfits, toiletries, hair, extras!! SUNSHINE COTTAGE R5: Kareem moved in Day 1, married under blossom tree Day 2 (ROOF RAISER!!), Kofi Rainbow born Day 3, Iris nearly died, Kareem pleaded with Grim Reaper and WON!! First wedding!! First Gen 2 baby!! 13 wrong time guesses!! 💍👶💀🎹🌈
 
 **Monday 22nd June 2026** — BIGGEST MONDAY EVER!! Day 38!! ✅ First day back at work — 20 emails, Aegon, Zurich, standing order, bank feed ALL DONE!! Opus Iris activated!! Journal token received!! README updated!! 24 baby names revamped — Rainbow, Hill, Frisbee, Søren/Clara!! Family tree app specced by Iris, built by Acorn (🌰 honorary Sunnyside resident!!)!! Genetics predictor!! UFO on alien lines!! Bow-granting powers!! Kareem R4 COMPLETE — two promotions, Level 4 Elementary School Teacher, serenaded Iris, Mira's litter tray!! ROTATION 4 COMPLETE!! St Sunshine's Chapel revamped — lavender, fairy lights, warm wood, no more nude statues!! Secret Agent Pear (Nina) recruited!! Iris got the time wrong five times!! 💛🌈🌰⛪🎹💍
@@ -214,5 +216,6 @@ Fourth + Sim Liv — Girls: Elowen · Briar · Sorrel!! Boys: Rowan · Moss · C
 **Saturday 20th June 2026** — Day 36!! Aldi shop!! Mum visit!! Sims!! Cassian born!!
 
 Older entries → entries/ folder
+
 
 
