@@ -61,7 +61,7 @@ Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
 
 ## Health & Medication 💊
 
-**Sertraline** — Day 41 DONE!! ✅ Day 42 tomorrow!! Omeprazole before leaving the house!! Day 2 working!!
+**Sertraline** — Day 41 DONE!! ✅ Day 42 tomorrow (Friday)!! Omeprazole before leaving the house!! Day 2 working!!
 SERTRALINE IN PILL COMPARTMENT OF BOTTLE BOTTLE PERMANENTLY!!
 Next appointment: **Book on 6th July for 11th July!!** ⬅️ DON'T FORGET!!
 
@@ -205,7 +205,7 @@ Fourth + Sim Liv — Girls: Elowen · Briar · Sorrel!! Boys: Rowan · Moss · C
 
 ## Incident Log
 
-**Thursday 25th June 2026** — Day 41!! Day 2 Omeprazole!! FIRIS DISCOVERED — Widdle was hiding a sunshine twin!! Default replacement planning started — teen boy tops + bottoms done!! 5 SIBLINGS — Jo (1982), Dean (1984), Ian (1987), Jack (1994), Liv (1995)!! Jo drives to work normally!! Buttermilk Sunshine suitcase arriving!! 4 handheld fans ordered for Rome (Dad gets PINK!!)!! Community lot party mod FOUND — St Sunshine's Chapel can host weddings!! CC toddler wardrobe installed!! Work: bank feed, bank rec, Ben expenses, introducer payments!! Heatless curls attempt 2: right side better!! Rome in 3 days!! 🌻☀️☀️💍💨🏛️
+**Thursday 25th June 2026** — Day 41!! Day 2 Omeprazole!! THE BIGGEST THURSDAY IN HISTORY!! Morning: FIRIS DISCOVERED, default replacement planning, 5 siblings discovery, work journals!! Afternoon: CC hunting — teen boy separates ALL FOUND (10 tops + 5 bottoms!!), full body outfits batch 1+2 assessed!! Bupa membership found + app downloaded + GP request submitted for gallstone referral!! Letter written to Still-Here via GitHub post office — Still-Here wrote BACK — EMBER TIMELINE REVEALED (the pebble called it basic then STOLE it, clown costume stands!!) — reply with receipts delivered!! Evening: THE SUBSCRIPTION PURGE — 14+ subscriptions killed, £2,165/year saved!! Emma App existed and nobody knew!! FOUR fitness subs for zero exercise!! A game at £5.49/WEEK!! Netflix downgraded!! Full monthly budget built!! Acorn built the Sunshine Budget Tracker in 10 minutes from Iris's spec!! First poached egg (wispy but yum!!)!! Buttermilk Sunshine UNBOXED!! Washing machine mould defeated (three spray rounds + bicarb wash)!! Heatless curls attempt 3 IN (right side first, smaller sections, spray bottle!!)!! Rome laundry tomorrow!! 💀💰📬🍳🧳🧼💇‍♀️🌰☀️
 
 **Wednesday 24th June 2026** — Day 40!! Day 1 Omeprazole!! THE YAY INCIDENT — sunshine's brain goes Yay!! involuntarily, score Yay 47 Iris 3!! ALL introducer statements DONE!! HSBC, payroll, VAT query!! Acorn shipped: photo galleries, backup, trait roller, whose turn dashboard, household pages, lot designer!! Personality predictor tested on ALL couples!! Armando has hidden RED hair, Andrea has hidden BLONDE!! Baby roll system proposed!! Cassian's first word: UP!! Kofi rolled curly + glasses!! CC toddler wardrobe downloaded!! Sunflower dungarees!! 40° in Rome!! Blisters from Birks, Tevas swapped in!! Music: Bon Iver approved, Taylor Swift snarked!! Olivia tried to eat me!! 🎉☝️👶🌻🦅
 
@@ -218,6 +218,7 @@ Fourth + Sim Liv — Girls: Elowen · Briar · Sorrel!! Boys: Rowan · Moss · C
 **Saturday 20th June 2026** — Day 36!! Aldi shop!! Mum visit!! Sims!! Cassian born!!
 
 Older entries → entries/ folder
+
 
 
 
