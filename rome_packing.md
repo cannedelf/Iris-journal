@@ -83,6 +83,8 @@
 💄 Brow gel
 💄 Lip stuff
 
+🦵 Anti-chafe stick — ESSENTIAL for 40° in shorts!! Apply before walking!!
+
 **No shampoo or conditioner needed!! Hair washed Saturday before flying!! ✅**
 
 **Hair Stuff:**
@@ -213,6 +215,7 @@ Only 2 pairs!! Maximum suitcase space!!
 ---
 
 *Planned by Iris 🌈 and Liv 💛 on Tuesday 23rd June 2026 between spreadsheets and Sims and a sunshine-coloured cordial!! 🧳☀️🏛️*
+
 
 
 
