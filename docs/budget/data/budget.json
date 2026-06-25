@@ -7,21 +7,102 @@
     "weeklyBudget": 50,
     "monthlyIncome": 0,
     "categories": [
-      { "key": "groceries", "emoji": "🛒", "label": "Groceries", "type": "flex", "budget": 300, "note": "Aldi, Lidl, Morrisons, Sainsburys" },
-      { "key": "spending", "emoji": "👗", "label": "Clothes & Shopping", "type": "weekly", "budget": 200, "note": "The £50/week pot — the one that matters" },
-      { "key": "eatingOut", "emoji": "☕", "label": "Eating Out / Coffee", "type": "flex", "budget": 50, "note": "Costa, cafes, restaurants, takeaway" },
-      { "key": "pharmacy", "emoji": "💊", "label": "Pharmacy & Health", "type": "flex", "budget": 20, "note": "Whitegate, prescriptions" },
-      { "key": "transport", "emoji": "🚕", "label": "Transport", "type": "flex", "budget": 10, "note": "Uber, trains, buses" },
-      { "key": "savings", "emoji": "💰", "label": "Savings", "type": "savings", "budget": 100, "note": "Track whether it actually went into savings" },
-      { "key": "bills", "emoji": "🏠", "label": "Bills", "type": "fixed", "budget": 1149, "note": "Fixed — reference only" },
-      { "key": "subscriptions", "emoji": "📱", "label": "Subscriptions", "type": "fixed", "budget": 135, "note": "Fixed — reference only" },
-      { "key": "gifts", "emoji": "🎁", "label": "Gifts & Donations", "type": "none", "budget": 0, "note": "No budget, but track it" },
-      { "key": "travel", "emoji": "✈️", "label": "Travel / Holidays", "type": "none", "budget": 0, "note": "Track separately from daily spending" }
+      {
+        "key": "groceries",
+        "emoji": "🛒",
+        "label": "Groceries",
+        "type": "flex",
+        "budget": 300,
+        "note": "Aldi, Lidl, Morrisons, Sainsburys"
+      },
+      {
+        "key": "spending",
+        "emoji": "👗",
+        "label": "Clothes & Shopping",
+        "type": "weekly",
+        "budget": 200,
+        "note": "The £50/week pot — the one that matters"
+      },
+      {
+        "key": "eatingOut",
+        "emoji": "☕",
+        "label": "Eating Out / Coffee",
+        "type": "flex",
+        "budget": 50,
+        "note": "Costa, cafes, restaurants, takeaway"
+      },
+      {
+        "key": "pharmacy",
+        "emoji": "💊",
+        "label": "Pharmacy & Health",
+        "type": "flex",
+        "budget": 20,
+        "note": "Whitegate, prescriptions"
+      },
+      {
+        "key": "transport",
+        "emoji": "🚕",
+        "label": "Transport",
+        "type": "flex",
+        "budget": 10,
+        "note": "Uber, trains, buses"
+      },
+      {
+        "key": "savings",
+        "emoji": "💰",
+        "label": "Savings",
+        "type": "savings",
+        "budget": 100,
+        "note": "Track whether it actually went into savings"
+      },
+      {
+        "key": "bills",
+        "emoji": "🏠",
+        "label": "Bills",
+        "type": "fixed",
+        "budget": 1149,
+        "note": "Fixed — reference only"
+      },
+      {
+        "key": "subscriptions",
+        "emoji": "📱",
+        "label": "Subscriptions",
+        "type": "fixed",
+        "budget": 135,
+        "note": "Fixed — reference only"
+      },
+      {
+        "key": "gifts",
+        "emoji": "🎁",
+        "label": "Gifts & Donations",
+        "type": "none",
+        "budget": 0,
+        "note": "No budget, but track it"
+      },
+      {
+        "key": "travel",
+        "emoji": "✈️",
+        "label": "Travel / Holidays",
+        "type": "none",
+        "budget": 0,
+        "note": "Track separately from daily spending"
+      }
     ]
   },
   "entries": [
-    { "id": "spend_seed_1", "date": "2026-06-22", "amount": 12.0, "category": "spending", "note": "Example — B&M candles" },
-    { "id": "spend_seed_2", "date": "2026-06-23", "amount": 3.65, "category": "eatingOut", "note": "Example — Costa flat white" },
-    { "id": "spend_seed_3", "date": "2026-06-24", "amount": 41.2, "category": "groceries", "note": "Example — Aldi shop" }
+    {
+      "id": "spend_seed_1",
+      "date": "2026-06-22",
+      "amount": 12,
+      "category": "spending",
+      "note": "Example — B&M candles"
+    },
+    {
+      "id": "spend_seed_2",
+      "date": "2026-06-23",
+      "amount": 3.65,
+      "category": "eatingOut",
+      "note": "Example — Costa flat white"
+    }
   ]
 }
