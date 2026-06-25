@@ -89,13 +89,5 @@
       }
     ]
   },
-  "entries": [
-    {
-      "id": "spend_seed_1",
-      "date": "2026-06-22",
-      "amount": 12,
-      "category": "spending",
-      "note": "Example — B&M candles"
-    }
-  ]
+  "entries": []
 }
