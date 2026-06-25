@@ -96,13 +96,6 @@
       "amount": 12,
       "category": "spending",
       "note": "Example — B&M candles"
-    },
-    {
-      "id": "spend_seed_2",
-      "date": "2026-06-23",
-      "amount": 3.65,
-      "category": "eatingOut",
-      "note": "Example — Costa flat white"
     }
   ]
 }
