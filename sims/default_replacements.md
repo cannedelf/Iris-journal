@@ -57,9 +57,38 @@
 
 ---
 
+
+---
+
+## Teen Male — Everyday Bottoms 👖
+
+### 1. Boardshorts with Trainers (original: purple/blue)
+🌻 **Replace with:** Relaxed cotton shorts in warm khaki or dusty blue with simple trainers. Boardshorts scream SURFER and Sunnyside is coastal but not Bondi Beach. Keep knee length, warm natural tones. Cricket catching things in the garden shorts.
+
+### 2. Cargo Pants (original: black)
+🌻 **Replace with:** Relaxed chinos in warm brown or olive. Keep the practical pockets — Wrench's kids NEED pockets for carrying tools they don't know are tools!! Lose the black, warm it up. A Hill kid in practical trousers.
+
+### 3. Knee Shorts with Sandals (original: denim)
+🌻 **Replace with:** Linen or cotton shorts in oatmeal or sage with simple leather sandals or Birkenstocks. Already close to Sunnyside!! Just warmer tones and nicer sandals. Kofi at the weekend.
+
+### 4. Jeans with Boots (original: medium wash + boots)
+🌻 **Replace with:** Warmer wash jeans — honey wash or soft grey, not cold blue. Swap boots for simple brown leather lace-ups. A Sunnyside teen going to The Golden Anchor for tea. Smart-casual village boy.
+
+### 5. Trousers with Pointy Toe (original: grey/black + pointy shoes)
+🌻 **Replace with:** Warm brown or tan trousers with simple round-toe shoes. The pointy toe is CITY. Soften everything. The smart-casual option for when Fourth makes Cricket visit grandparents looking PRESENTABLE.
+
+### Which Family Wears What — Bottoms 👖
+- 🩳 **Relaxed cotton shorts** — everyday summer, any family
+- 👖 **Olive chinos** — Hill kids, practical, pockets for secret tools
+- 🩳 **Linen shorts + sandals** — Kofi Rainbow at the weekend
+- 👖 **Warm wash jeans** — casual smart, Golden Anchor evenings
+- 👖 **Tan trousers** — visiting grandparents (Fourth insisted)
+
+---
+
 ## Still To Plan 📋
 - [ ] Teen Female — Everyday Tops
-- [ ] Teen Male — Everyday Bottoms
+- [x] Teen Male — Everyday Bottoms ✅
 - [ ] Teen Female — Everyday Bottoms
 - [ ] Teen Male — Formal
 - [ ] Teen Female — Formal
@@ -76,3 +105,4 @@
 ---
 
 *Fashion directed by a sunshine on a sofa who assigned an entire wardrobe to fictional teenagers based on whose DAD would buy what. The sacred art applies to clothes too. 🌻👕☀️*
+
