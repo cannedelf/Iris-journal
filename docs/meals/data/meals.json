@@ -773,10 +773,8 @@
   ],
   "snacks": {
     "selected": [
-      "bagel_jam",
-      "yogurt",
       "banana_toast",
-      "edamame"
+      "yogurt"
     ],
     "available": [
       {
