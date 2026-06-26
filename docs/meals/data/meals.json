@@ -76,7 +76,7 @@
       "lunchNote": "Make the full batch — half is Sunday lunch sorted.",
       "ingredients": [
         { "item": "egg noodles", "amount": 2, "unit": "nest", "section": "dry", "note": "about 125g dry" },
-        { "item": "carrots", "amount": 0.5, "unit": "bag", "section": "fresh", "note": "small bag — grated or matchsticks" },
+        { "item": "carrots", "amount": 1, "unit": "carrot", "section": "fresh", "note": "grated or matchsticks" },
         { "item": "cucumber", "amount": 0.5, "unit": "cucumber", "section": "fresh" },
         { "item": "spring onions", "amount": 0.5, "unit": "bunch", "section": "fresh" },
         { "item": "edamame", "amount": 0.5, "unit": "bag", "section": "frozen", "note": "frozen — lasts weeks, shared with snacks" },
@@ -255,7 +255,7 @@
         "shoppingItems": [{ "item": "low fat yogurts", "amount": 1, "unit": "pack", "section": "chilled" }] },
       { "id": "veg_sticks", "name": "Veg sticks with salsa", "emoji": "🥕",
         "shoppingItems": [
-          { "item": "carrots", "amount": 0.5, "unit": "bag", "section": "fresh" },
+          { "item": "carrots", "amount": 2, "unit": "carrot", "section": "fresh" },
           { "item": "cucumber", "amount": 0.5, "unit": "cucumber", "section": "fresh" },
           { "item": "salsa", "amount": 0.3, "unit": "jar", "section": "sauces", "note": "shared with Mexican bowl" }
         ] },
