@@ -11,16 +11,16 @@
     "sunday":    { "breakfast": "eggs_on_toast",   "lunch": "noodle_salad_leftovers", "dinner": "sweet_potato_chilli" },
     "monday":    { "breakfast": "porridge",        "lunch": "chilli_rice_tub",        "dinner": "shakshuka" },
     "tuesday":   { "breakfast": "porridge",        "lunch": "fridge_pitta",           "dinner": "arrabbiata" },
-    "wednesday": { "breakfast": "porridge",        "lunch": "arrabbiata_cold",        "dinner": "veggie_pasta" },
-    "thursday":  { "breakfast": "porridge",        "lunch": "veggie_pasta_cold",      "dinner": "mexican_bowl" },
-    "friday":    { "breakfast": "porridge",        "lunch": "mexican_bowl_cold",      "dinner": "falafel_pittas" }
+    "wednesday": { "breakfast": "porridge",        "lunch": "arrabbiata_cold",        "dinner": "mexican_bowl" },
+    "thursday":  { "breakfast": "porridge",        "lunch": "mexican_bowl_cold",      "dinner": "veggie_pasta" },
+    "friday":    { "breakfast": "porridge",        "lunch": "veggie_pasta_cold",      "dinner": "falafel_pittas" }
   },
   "connections": [
     { "from": "noodle_salad",        "fromDay": "saturday",  "toDay": "sunday",    "label": "Sat noodles → Sunday lunch" },
     { "from": "sweet_potato_chilli", "fromDay": "sunday",    "toDay": "monday",    "label": "Sun chilli → Monday chilli rice tub" },
     { "from": "arrabbiata",          "fromDay": "tuesday",   "toDay": "wednesday", "label": "Tue arrabbiata → Wednesday cold pasta" },
-    { "from": "veggie_pasta",        "fromDay": "wednesday", "toDay": "thursday",  "label": "Wed veggie pasta → Thursday cold pasta" },
-    { "from": "mexican_bowl",        "fromDay": "thursday",  "toDay": "friday",    "label": "Thu Mexican bowl → Friday tub (the BEST leftover!!)" }
+    { "from": "mexican_bowl",        "fromDay": "wednesday", "toDay": "thursday",  "label": "Wed Mexican bowl → Thursday tub (the BEST leftover!!)" },
+    { "from": "veggie_pasta",        "fromDay": "thursday",  "toDay": "friday",    "label": "Thu veggie pasta → Friday cold pasta" }
   ],
   "derived": {
     "weekend_free":          { "label": "Weekend — your call!", "emoji": "🎉", "note": "Lazy Saturday. Porridge, toast, or whatever you fancy." },
@@ -37,8 +37,8 @@
     "sunday":    { "tub": true,  "text": "Half the chilli + a mug of cooked rice into a tub for Monday lunch." },
     "monday":    { "tub": false, "text": "NO TUB — pitta day tomorrow!! Shakshuka doesn't travel." },
     "tuesday":   { "tub": true,  "text": "Half the pasta straight into a tub for Wednesday — lid on, fridge." },
-    "wednesday": { "tub": true,  "text": "Half the veggie pasta into a tub with an extra squeeze of lemon." },
-    "thursday":  { "tub": true,  "text": "Half of everything — rice, beans, salsa, fresh bits — into a tub. The best one." },
+    "wednesday": { "tub": true,  "text": "Half of everything — rice, beans, salsa, fresh bits — into a tub. The best one." },
+    "thursday":  { "tub": true,  "text": "Half the veggie pasta into a tub with an extra squeeze of lemon." },
     "friday":    { "tub": false, "text": "NO TUB — WEEKEND!! 🎉 Shop tomorrow." }
   },
   "recipes": [
