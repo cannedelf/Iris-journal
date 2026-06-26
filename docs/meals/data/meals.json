@@ -958,7 +958,9 @@
   },
   "shopping": {
     "generated": "2026-06-26",
-    "have": {},
+    "have": {
+      "lemons": 1
+    },
     "got": {
       "tinned_black_beans": true
     },
