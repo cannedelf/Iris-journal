@@ -957,13 +957,9 @@
     "sesame seeds": true
   },
   "shopping": {
-    "generated": "2026-06-26",
-    "have": {
-      "lemons": 1
-    },
-    "got": {
-      "tinned_black_beans": true
-    },
+    "generated": null,
+    "have": {},
+    "got": {},
     "checked": {}
   }
 }
