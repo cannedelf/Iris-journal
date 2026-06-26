@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#fbeeca">
+  <title>Sunshine Meal Planner 🌻🍳</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <script>
+    // GitHub Pages caches static assets, so a plain reload can show stale styles.
+    // Load the stylesheet with a cache-buster so tweaks appear on a normal reload.
+    document.write('<link rel="stylesheet" href="css/styles.css?v=' + Date.now() + '">');
+  </script>
+  <noscript><link rel="stylesheet" href="css/styles.css"></noscript>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍳</text></svg>">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-emoji">🌻</span>
+      <div><h1>Sunshine Meals</h1><small>plan · cook once · shop smart</small></div></div>
+    <span id="saveStatus" class="status readonly">○ Read-only</span>
+  </header>
+
+  <main id="app" class="app"><div class="loading">Loading your sunshine meals… 🌻🍳</div></main>
+
+  <nav class="bottomnav">
+    <button class="navbtn active" data-view="home"><span>🏠</span>Today</button>
+    <button class="navbtn" data-view="plan"><span>📅</span>Plan</button>
+    <button class="navbtn" data-view="recipes"><span>🍳</span>Recipes</button>
+    <button class="navbtn" data-view="shop"><span>🛒</span>Shop</button>
+    <button class="navbtn" data-view="settings"><span>⚙️</span>More</button>
+  </nav>
+
+  <div id="toast" class="toast"></div>
+
+  <script>
+    // Cache-bust the whole JS module graph: an import map rewrites every local module to
+    // a versioned URL so logic changes also appear on a normal reload. If the import map
+    // is rejected it falls back to cached files — graceful staleness, never a broken page.
+    (function () {
+      var v = Date.now();
+      var mods = ['app', 'store', 'github', 'meals'];
+      var imports = {};
+      mods.forEach(function (m) { imports['./js/' + m + '.js'] = './js/' + m + '.js?v=' + v; });
+      document.write('<script type="importmap">' + JSON.stringify({ imports: imports }) + '<\/script>');
+      document.write('<script type="module" src="js/app.js?v=' + v + '"><\/script>');
+    })();
+  </script>
+</body>
+</html>
