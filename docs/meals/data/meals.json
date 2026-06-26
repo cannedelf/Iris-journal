@@ -959,7 +959,9 @@
   "shopping": {
     "generated": "2026-06-26",
     "have": {},
-    "got": {},
+    "got": {
+      "tinned_black_beans": true
+    },
     "checked": {}
   }
 }
