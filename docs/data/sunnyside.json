@@ -162,13 +162,13 @@
       }
     },
     {
-      "id": "storm_and_wrench",
-      "name": "Storm and Wrench",
-      "emoji": "🌩️",
+      "id": "the_observatory",
+      "name": "The Observatory",
+      "emoji": "🔭",
       "location": "Sunnyside",
-      "features": "Dark Nordic house, telescope, robotics bench, fish tank",
+      "features": "Where a storm cloud watches the sky his son fell out of and calls it science.",
       "movedIn": "2026-06-17",
-      "daysThisRotation": 2
+      "daysThisRotation": 1
     },
     {
       "id": "the_flat",
@@ -985,7 +985,7 @@
       "display": "Søren",
       "emoji": "🌩️",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_observatory",
       "preMarriageName": "",
       "lifeStage": "Adult",
       "daysRemaining": null,
@@ -1428,7 +1428,7 @@
       "display": "Cassian",
       "emoji": "💚",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_observatory",
       "preMarriageName": "",
       "lifeStage": "Toddler",
       "daysRemaining": null,
