@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "neighbourhood": "Sunnyside",
-    "updated": "2026-06-24",
+    "updated": "2026-06-27",
     "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub.",
     "eyeColours": [
       {
@@ -154,7 +154,7 @@
       "location": "Sunnyside",
       "features": "Converted mill. Stone walls, dark wood, teal bench courtyard, detached workshop with robotics station. Sage green nursery. Butterfly bedroom. Pickup truck in the drive.",
       "movedIn": "2026-06-16",
-      "daysThisRotation": 0,
+      "daysThisRotation": 1,
       "layout": {
         "cols": 20,
         "rows": 30,
