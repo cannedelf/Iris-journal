@@ -110,6 +110,13 @@
       "amount": 12.17,
       "category": "groceries",
       "note": "Aldi"
+    },
+    {
+      "id": "spend_1_4b4ok",
+      "date": "2026-06-27",
+      "amount": 100,
+      "category": "savings",
+      "note": ""
     }
   ]
 }
