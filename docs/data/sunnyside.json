@@ -1197,8 +1197,10 @@
       "partners": [
         {
           "id": "andrea",
-          "status": "Engaged",
-          "bolts": 2
+          "status": "Married",
+          "bolts": 2,
+          "weddingRotation": 5,
+          "weddingDay": 1
         }
       ],
       "relationships": [
@@ -1258,6 +1260,11 @@
           "rotation": "R4",
           "event": "Bronze Robotics Badge",
           "notes": "Can build RoverBots!"
+        },
+        {
+          "rotation": "R5",
+          "event": "Married Andrea at St Sunshine's Chapel",
+          "notes": "The second Sunnyside wedding, the first at the chapel. He wore brown. She wore red. Sim Iris was already there."
         }
       ],
       "badges": {
@@ -2130,8 +2137,8 @@
       "name": "Andrea Hill",
       "display": "Andrea",
       "emoji": "💍",
-      "family": "townie",
-      "household": "",
+      "family": "hill",
+      "household": "storm_and_wrench",
       "preMarriageName": "Andrea Hogan",
       "lifeStage": "Adult",
       "daysRemaining": null,
@@ -2185,8 +2192,10 @@
       "partners": [
         {
           "id": "wrench",
-          "status": "Engaged",
-          "bolts": 2
+          "status": "Married",
+          "bolts": 2,
+          "weddingRotation": 5,
+          "weddingDay": 1
         }
       ],
       "relationships": [
@@ -2207,7 +2216,13 @@
       "fears": [],
       "car": "",
       "carNotes": "",
-      "moments": [],
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "Married Wrench at St Sunshine's Chapel",
+          "notes": "Her first recorded moment. She wore red. The chapel was full of Hills and Rainbows and love."
+        }
+      ],
       "cas": false,
       "type": "Human",
       "yellowBow": false,
@@ -3038,7 +3053,7 @@
       "name": "St Sunshine’s Chapel",
       "emoji": "⛪",
       "status": "Wedding Ready",
-      "notes": "Lavender, fairy lights, warm wood!!"
+      "notes": "Lavender, fairy lights, warm wood!! First wedding: Wrench & Andrea, R5 Day 1!"
     },
     {
       "name": "The Sunflower Diner",
