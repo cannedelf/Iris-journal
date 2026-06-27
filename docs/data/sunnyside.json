@@ -154,7 +154,7 @@
       "location": "Sunnyside",
       "features": "Converted mill. Stone walls, dark wood, teal bench courtyard, detached workshop with robotics station. Sage green nursery. Butterfly bedroom. Pickup truck in the drive.",
       "movedIn": "2026-06-16",
-      "daysThisRotation": 2,
+      "daysThisRotation": 3,
       "layout": {
         "cols": 20,
         "rows": 30,
@@ -1286,6 +1286,11 @@
           "rotation": "R5",
           "event": "Ratchet born!",
           "notes": "His first son. Green eyes from Andrea. Blue overalls. The builder held his boy in a work vest and the matching was immediate."
+        },
+        {
+          "rotation": "R5",
+          "event": "First night at The Foundation",
+          "notes": "Workshop at night. Mechanical skill. Dog at his feet. Baby asleep. Wife saving the country."
         }
       ],
       "badges": {
@@ -2272,6 +2277,11 @@
           "rotation": "R5",
           "event": "Adopted Toggle!",
           "notes": "Chocolate lab, Libra, doofus, friendly, slightly messy. Andrea's girl. Pink collar. The Foundation is complete."
+        },
+        {
+          "rotation": "R5",
+          "event": "Wants to write a novel",
+          "notes": "A spy who writes fiction. Nobody will know it is all real."
         }
       ],
       "cas": false,
