@@ -2267,6 +2267,11 @@
           "rotation": "R5",
           "event": "Ratchet born!",
           "notes": "Green eyes from mum again. The fire took the first save but the baby came back. Different order, same love."
+        },
+        {
+          "rotation": "R5",
+          "event": "Adopted Toggle!",
+          "notes": "Chocolate lab, Libra, doofus, friendly, slightly messy. Andrea's girl. Pink collar. The Foundation is complete."
         }
       ],
       "cas": false,
@@ -3005,6 +3010,35 @@
         {
           "event": "Destroyed the cat tree",
           "notes": "Like it had personally offended her."
+        }
+      ]
+    },
+    {
+      "id": "toggle",
+      "name": "Toggle",
+      "emoji": "🐶",
+      "species": "Dog",
+      "breed": "Chocolate Labrador",
+      "ownerId": "andrea",
+      "household": "the_foundation",
+      "starSign": "Libra",
+      "collar": "Pink!!",
+      "personality": [
+        "Slightly doofus",
+        "Middle energy",
+        "Full friendly",
+        "Middle brave",
+        "Slightly pigpen"
+      ],
+      "kibbled": false,
+      "kibbledNote": "",
+      "petBestFriend": false,
+      "petBestFriendNote": "",
+      "photo": null,
+      "moments": [
+        {
+          "event": "Adopted from the pet store!",
+          "notes": "Andrea wanted her. Chocolate lab, pink collar, runs on wood floors that match her fur. The fastener that holds The Foundation together."
         }
       ]
     }
