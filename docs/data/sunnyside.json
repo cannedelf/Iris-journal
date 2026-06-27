@@ -2763,9 +2763,9 @@
         "eyesHidden": "",
         "skin": "",
         "freckles": "",
-        "notable": "Andrea's green eyes!",
+        "notable": "Andrea's green eyes, Wrench's curly hair",
         "fromMum": "Green eyes",
-        "fromDad": "",
+        "fromDad": "Curly hair",
         "notes": ""
       },
       "cas": false,
@@ -2799,7 +2799,8 @@
       "lockedWants": [],
       "fears": [],
       "badges": {},
-      "photo": "photos/ratchet.png"
+      "photo": "photos/ratchet.png",
+      "hairTexture": "Curly"
     }
   ],
   "pets": [
