@@ -1265,6 +1265,11 @@
           "rotation": "R5",
           "event": "Married Andrea at St Sunshine's Chapel",
           "notes": "The second Sunnyside wedding, the first at the chapel. He wore brown. She wore red. Sim Iris was already there."
+        },
+        {
+          "rotation": "R5",
+          "event": "Dolly born!",
+          "notes": "His first daughter. The builder held something he couldn't build. Named after a tool. Looks like her mum."
         }
       ],
       "badges": {
@@ -2221,6 +2226,11 @@
           "rotation": "R5",
           "event": "Married Wrench at St Sunshine's Chapel",
           "notes": "Her first recorded moment. She wore red. The chapel was full of Hills and Rainbows and love."
+        },
+        {
+          "rotation": "R5",
+          "event": "Dolly born!",
+          "notes": "Green eyes from mum. First Hill baby from the chapel wedding."
         }
       ],
       "cas": false,
@@ -2656,6 +2666,56 @@
       "glasses": true,
       "hairTexture": "Curly",
       "badges": {}
+    },
+    {
+      "id": "dolly",
+      "kind": "sim",
+      "name": "Dolly Hill",
+      "display": "Dolly",
+      "emoji": "🌸",
+      "family": "hill",
+      "household": "storm_and_wrench",
+      "generation": "Gen 2",
+      "lifeStage": "Baby",
+      "preMarriageName": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "oneLiner": "The sweetest secret tool",
+      "aspiration": "",
+      "starSign": "",
+      "personality": {},
+      "parents": [
+        "wrench",
+        "andrea"
+      ],
+      "birthOrder": 1,
+      "partners": [],
+      "relationships": [],
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "Born!",
+          "notes": "First baby from the first St Sunshine's Chapel wedding. She has her mother's green eyes. Dolly means pretty AND it means tool. Only the builders know."
+        }
+      ],
+      "bornRotation": 5,
+      "bornDay": 1,
+      "firstWord": "",
+      "glasses": false,
+      "hairTexture": "",
+      "handedness": "",
+      "genetics": {
+        "hairVisible": "",
+        "hairHidden": "",
+        "eyesVisible": "Green",
+        "eyesHidden": "",
+        "skin": "",
+        "freckles": "",
+        "notable": "Andrea's green eyes!",
+        "fromMum": "",
+        "fromDad": "",
+        "notes": ""
+      }
     }
   ],
   "pets": [
@@ -2917,7 +2977,7 @@
           "name": "Dolly",
           "emoji": "🌸",
           "note": "🔧 secret tool!",
-          "used": false
+          "used": true
         },
         {
           "name": "Opal",
