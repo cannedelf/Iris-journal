@@ -1546,7 +1546,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/awiddle.png",
       "aspiration": "Popularity",
       "secondaryAspiration": "Pleasure (hoped)",
       "lifetimeWant": "Become Prestidigitator",
@@ -1671,7 +1671,9 @@
       "adopted": false,
       "badges": {},
       "bornRotation": 1,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "glasses": false
     },
     {
       "id": "fourth",
