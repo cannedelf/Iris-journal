@@ -2705,7 +2705,13 @@
       "oneLiner": "The tool that only turns forward",
       "aspiration": "",
       "starSign": "",
-      "personality": {},
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
       "parents": [
         "wrench",
         "andrea"
@@ -2722,10 +2728,7 @@
       ],
       "bornRotation": 5,
       "bornDay": 2,
-      "firstWord": "",
       "glasses": false,
-      "hairTexture": "",
-      "handedness": "",
       "genetics": {
         "hairVisible": "",
         "hairHidden": "",
@@ -2737,7 +2740,39 @@
         "fromMum": "Green eyes",
         "fromDad": "",
         "notes": ""
-      }
+      },
+      "cas": false,
+      "yellowBow": false,
+      "adopted": false,
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "",
+      "career": {
+        "track": "",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {
+        "cooking": 0,
+        "mechanical": 0,
+        "charisma": 0,
+        "body": 0,
+        "logic": 0,
+        "creativity": 0,
+        "cleaning": 0
+      },
+      "car": "",
+      "carNotes": "",
+      "lockedWants": [],
+      "fears": [],
+      "badges": {},
+      "photo": "photos/ratchet.png"
     }
   ],
   "pets": [
