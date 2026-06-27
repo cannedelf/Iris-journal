@@ -162,13 +162,13 @@
       }
     },
     {
-      "id": "storm_and_wrench",
-      "name": "Storm and Wrench",
-      "emoji": "🌩️",
+      "id": "the_observatory",
+      "name": "The Observatory",
+      "emoji": "🔭",
       "location": "Sunnyside",
-      "features": "Dark Nordic house, telescope, robotics bench, fish tank",
+      "features": "Where a storm cloud watches the sky his son fell out of and calls it science.",
       "movedIn": "2026-06-17",
-      "daysThisRotation": 2
+      "daysThisRotation": 1
     },
     {
       "id": "the_flat",
@@ -672,7 +672,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/iris.png",
       "aspiration": "Popularity",
       "secondaryAspiration": "Family (hoped)",
       "lifetimeWant": "Make 20 Simultaneous Pet Best Friends",
@@ -985,12 +985,12 @@
       "display": "Søren",
       "emoji": "🌩️",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_observatory",
       "preMarriageName": "",
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/soren.png",
       "aspiration": "Knowledge",
       "secondaryAspiration": "Family (hoped)",
       "lifetimeWant": "Become Mad Scientist",
@@ -1131,7 +1131,8 @@
       "yellowBow": false,
       "adopted": false,
       "badges": {},
-      "townElder": true
+      "townElder": true,
+      "glasses": false
     },
     {
       "id": "wrench",
@@ -1428,7 +1429,7 @@
       "display": "Cassian",
       "emoji": "💚",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_observatory",
       "preMarriageName": "",
       "lifeStage": "Toddler",
       "daysRemaining": null,
@@ -1942,7 +1943,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/idris.png",
       "aspiration": "Popularity",
       "secondaryAspiration": "",
       "lifetimeWant": "20 Best Friends",
@@ -1961,8 +1962,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Medicine",
-        "level": 3,
         "levelName": "",
+        "level": 3,
         "top": "Chief of Staff",
         "degree": "History"
       },
@@ -2021,7 +2022,13 @@
         "items": []
       },
       "bornRotation": 4,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "glasses": false,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "clara",
