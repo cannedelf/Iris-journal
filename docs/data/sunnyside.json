@@ -1684,7 +1684,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/fourth.png",
       "aspiration": "Knowledge",
       "secondaryAspiration": "Fortune (hoped)",
       "lifetimeWant": "Max Out 7 Skills",
