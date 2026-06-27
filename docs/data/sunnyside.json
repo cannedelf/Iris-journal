@@ -162,13 +162,13 @@
       }
     },
     {
-      "id": "the_observatory",
-      "name": "The Observatory",
-      "emoji": "🔭",
+      "id": "storm_and_wrench",
+      "name": "Storm and Wrench",
+      "emoji": "🌩️",
       "location": "Sunnyside",
-      "features": "Where a storm cloud watches the sky his son fell out of and calls it science.",
+      "features": "Dark Nordic house, telescope, robotics bench, fish tank",
       "movedIn": "2026-06-17",
-      "daysThisRotation": 1
+      "daysThisRotation": 2
     },
     {
       "id": "the_flat",
@@ -672,7 +672,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": "photos/iris.png",
+      "photo": null,
       "aspiration": "Popularity",
       "secondaryAspiration": "Family (hoped)",
       "lifetimeWant": "Make 20 Simultaneous Pet Best Friends",
@@ -985,7 +985,7 @@
       "display": "Søren",
       "emoji": "🌩️",
       "family": "hill",
-      "household": "the_observatory",
+      "household": "storm_and_wrench",
       "preMarriageName": "",
       "lifeStage": "Adult",
       "daysRemaining": null,
@@ -1428,7 +1428,7 @@
       "display": "Cassian",
       "emoji": "💚",
       "family": "hill",
-      "household": "the_observatory",
+      "household": "storm_and_wrench",
       "preMarriageName": "",
       "lifeStage": "Toddler",
       "daysRemaining": null,
@@ -1942,7 +1942,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": "photos/idris.png",
+      "photo": null,
       "aspiration": "Popularity",
       "secondaryAspiration": "",
       "lifetimeWant": "20 Best Friends",
@@ -1961,8 +1961,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Medicine",
-        "levelName": "",
         "level": 3,
+        "levelName": "",
         "top": "Chief of Staff",
         "degree": "History"
       },
@@ -2021,13 +2021,7 @@
         "items": []
       },
       "bornRotation": 4,
-      "bornDay": 1,
-      "cas": false,
-      "glasses": false,
-      "type": "Human",
-      "yellowBow": false,
-      "adopted": false,
-      "badges": {}
+      "bornDay": 1
     },
     {
       "id": "clara",
