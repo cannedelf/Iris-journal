@@ -1532,7 +1532,14 @@
         "firstWord": "Up",
         "firstWordNote": "Not asking. Telling. Active 10 Nice 0 says UP. And the parent he will never meet came from up there."
       },
-      "firstWord": "Up!"
+      "firstWord": "Up!",
+      "gallery": [
+        {
+          "src": "photos/cassian-0krzr7.png",
+          "caption": "Cassians little face",
+          "rotation": 5
+        }
+      ]
     },
     {
       "id": "awiddle",
