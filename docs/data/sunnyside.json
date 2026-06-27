@@ -672,7 +672,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/iris.png",
       "aspiration": "Popularity",
       "secondaryAspiration": "Family (hoped)",
       "lifetimeWant": "Make 20 Simultaneous Pet Best Friends",
