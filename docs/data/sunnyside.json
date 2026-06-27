@@ -2348,7 +2348,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/benjamin.png",
       "aspiration": "Fortune",
       "secondaryAspiration": "",
       "lifetimeWant": "",
