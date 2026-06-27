@@ -162,13 +162,13 @@
       }
     },
     {
-      "id": "the_observatory",
-      "name": "The Observatory",
-      "emoji": "🔭",
+      "id": "storm_and_wrench",
+      "name": "Storm and Wrench",
+      "emoji": "🌩️",
       "location": "Sunnyside",
-      "features": "Where a storm cloud watches the sky his son fell out of and calls it science.",
+      "features": "Dark Nordic house, telescope, robotics bench, fish tank",
       "movedIn": "2026-06-17",
-      "daysThisRotation": 1
+      "daysThisRotation": 2
     },
     {
       "id": "the_flat",
@@ -985,7 +985,7 @@
       "display": "Søren",
       "emoji": "🌩️",
       "family": "hill",
-      "household": "the_observatory",
+      "household": "storm_and_wrench",
       "preMarriageName": "",
       "lifeStage": "Adult",
       "daysRemaining": null,
@@ -1428,7 +1428,7 @@
       "display": "Cassian",
       "emoji": "💚",
       "family": "hill",
-      "household": "the_observatory",
+      "household": "storm_and_wrench",
       "preMarriageName": "",
       "lifeStage": "Toddler",
       "daysRemaining": null,
@@ -2035,7 +2035,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/clara.png",
       "aspiration": "Family",
       "secondaryAspiration": "Knowledge",
       "lifetimeWant": "Raise 20 Puppies or Kittens",
