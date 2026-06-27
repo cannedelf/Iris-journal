@@ -1942,7 +1942,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/idris.png",
       "aspiration": "Popularity",
       "secondaryAspiration": "",
       "lifetimeWant": "20 Best Friends",
@@ -1961,8 +1961,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Medicine",
-        "level": 3,
         "levelName": "",
+        "level": 3,
         "top": "Chief of Staff",
         "degree": "History"
       },
@@ -2021,7 +2021,13 @@
         "items": []
       },
       "bornRotation": 4,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "glasses": false,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "clara",
