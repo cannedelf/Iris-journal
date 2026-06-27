@@ -1268,8 +1268,8 @@
         },
         {
           "rotation": "R5",
-          "event": "Dolly born!",
-          "notes": "His first daughter. The builder held something he couldn't build. Named after a tool. Looks like her mum."
+          "event": "Ratchet born!",
+          "notes": "His first son. Green eyes from Andrea. Blue overalls. The builder held his boy in a work vest and the matching was immediate."
         }
       ],
       "badges": {
@@ -2229,8 +2229,8 @@
         },
         {
           "rotation": "R5",
-          "event": "Dolly born!",
-          "notes": "Green eyes from mum. First Hill baby from the chapel wedding."
+          "event": "Ratchet born!",
+          "notes": "Green eyes from mum again. The fire took the first save but the baby came back. Different order, same love."
         }
       ],
       "cas": false,
@@ -2668,11 +2668,11 @@
       "badges": {}
     },
     {
-      "id": "dolly",
+      "id": "ratchet",
       "kind": "sim",
-      "name": "Dolly Hill",
-      "display": "Dolly",
-      "emoji": "🌸",
+      "name": "Ratchet Hill",
+      "display": "Ratchet",
+      "emoji": "⚙️",
       "family": "hill",
       "household": "storm_and_wrench",
       "generation": "Gen 2",
@@ -2680,7 +2680,7 @@
       "preMarriageName": "",
       "daysRemaining": null,
       "type": "Human",
-      "oneLiner": "The sweetest secret tool",
+      "oneLiner": "The tool that only turns forward",
       "aspiration": "",
       "starSign": "",
       "personality": {},
@@ -2695,7 +2695,7 @@
         {
           "rotation": "R5",
           "event": "Born!",
-          "notes": "First baby from the first St Sunshine's Chapel wedding. She has her mother's green eyes. Dolly means pretty AND it means tool. Only the builders know."
+          "notes": "Green eyes from mum. Blue overalls from day one. The fire changed the order but not the story. Ratchet came first so Dolly could have a big brother."
         }
       ],
       "bornRotation": 5,
@@ -2712,7 +2712,7 @@
         "skin": "",
         "freckles": "",
         "notable": "Andrea's green eyes!",
-        "fromMum": "",
+        "fromMum": "Green eyes",
         "fromDad": "",
         "notes": ""
       }
@@ -2977,7 +2977,7 @@
           "name": "Dolly",
           "emoji": "🌸",
           "note": "🔧 secret tool!",
-          "used": true
+          "used": false
         },
         {
           "name": "Opal",
@@ -2997,7 +2997,7 @@
           "name": "Ratchet",
           "emoji": "⚙️",
           "note": "🔧 secret tool!",
-          "used": false
+          "used": true
         },
         {
           "name": "Rivet",
