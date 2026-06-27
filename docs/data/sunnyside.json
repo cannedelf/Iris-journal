@@ -168,7 +168,7 @@
       "location": "Sunnyside",
       "features": "Where a storm cloud watches the sky his son fell out of and calls it science.",
       "movedIn": "2026-06-17",
-      "daysThisRotation": 1
+      "daysThisRotation": 3
     },
     {
       "id": "the_flat",
@@ -1009,8 +1009,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Science",
-        "levelName": "Field Researcher",
-        "level": 4,
+        "levelName": "Project Leader",
+        "level": 5,
         "top": "Mad Scientist",
         "degree": "Philosophy"
       },
@@ -1122,6 +1122,21 @@
           "rotation": "R4",
           "event": "Three bolts with Clara",
           "notes": "Kiss on the porch. Spring."
+        },
+        {
+          "rotation": "R5",
+          "event": "Promoted to Project Leader",
+          "notes": "Two promotions in one rotation. Used experimental rocket fuel. The coworkers doubted him. They were wrong."
+        },
+        {
+          "rotation": "R5",
+          "event": "First night as a single dad",
+          "notes": "Cassian escaped his crib at 3am. Found him on the floor with his teddy. Picked him up. Said nothing."
+        },
+        {
+          "rotation": "R5",
+          "event": "Taught Cassian to walk and talk",
+          "notes": "Came home from his promotion and got on the floor with his son. Called it educational necessity. Meant I love you."
         }
       ],
       "bornRotation": 1,
@@ -1518,6 +1533,11 @@
           "rotation": "R4",
           "event": "Aged up to Toddler",
           "notes": "Kitchen fire happening simultaneously. Classic Storm and Wrench."
+        },
+        {
+          "rotation": "R5",
+          "event": "Learned all toddler skills!",
+          "notes": "Potty by Uncle Wrench, walking and talking by Dad. First word: Up. Escaped crib at 3am to play with teddy. Space shirt. Dark alien eyes. Nice 0 but hugs his bear."
         }
       ],
       "yellowBow": false,
@@ -1532,7 +1552,7 @@
         "firstWord": "Up",
         "firstWordNote": "Not asking. Telling. Active 10 Nice 0 says UP. And the parent he will never meet came from up there."
       },
-      "firstWord": "Up!",
+      "firstWord": "Up",
       "gallery": [
         {
           "src": "photos/cassian-0krzr7.png",
