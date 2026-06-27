@@ -154,7 +154,7 @@
       "location": "Sunnyside",
       "features": "Converted mill. Stone walls, dark wood, teal bench courtyard, detached workshop with robotics station. Sage green nursery. Butterfly bedroom. Pickup truck in the drive.",
       "movedIn": "2026-06-16",
-      "daysThisRotation": 1,
+      "daysThisRotation": 2,
       "layout": {
         "cols": 20,
         "rows": 30,
@@ -168,7 +168,7 @@
       "location": "Sunnyside",
       "features": "Dark Nordic house, telescope, robotics bench, fish tank",
       "movedIn": "2026-06-17",
-      "daysThisRotation": 0
+      "daysThisRotation": 1
     },
     {
       "id": "the_flat",
