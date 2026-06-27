@@ -2148,7 +2148,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/andrea.png",
       "aspiration": "Fortune",
       "secondaryAspiration": "",
       "lifetimeWant": "Become Head of SCIA",
