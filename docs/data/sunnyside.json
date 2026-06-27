@@ -2348,16 +2348,16 @@
       "daysRemaining": null,
       "generation": "Gen 1",
       "photo": null,
-      "aspiration": "",
+      "aspiration": "Fortune",
       "secondaryAspiration": "",
       "lifetimeWant": "",
-      "starSign": "",
+      "starSign": "Capricorn",
       "personality": {
-        "neat": null,
-        "outgoing": null,
-        "active": null,
-        "playful": null,
-        "nice": null
+        "neat": 5,
+        "outgoing": 6,
+        "active": 5,
+        "playful": 6,
+        "nice": 3
       },
       "turnOn1": "",
       "turnOn2": "",
@@ -2366,8 +2366,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "",
-        "level": null,
         "levelName": "",
+        "level": null,
         "top": "",
         "degree": ""
       },
@@ -2382,9 +2382,9 @@
       },
       "genetics": {
         "hairVisible": "Ginger",
-        "hairHidden": "",
+        "hairHidden": "Ginger",
         "eyesVisible": "Green",
-        "eyesHidden": "",
+        "eyesHidden": "Green",
         "skin": "",
         "freckles": "",
         "notable": "Yellow striped jacket",
@@ -2412,7 +2412,14 @@
       "fears": [],
       "car": "",
       "carNotes": "",
-      "moments": []
+      "moments": [],
+      "cas": false,
+      "glasses": false,
+      "hairTexture": "Straight",
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "ptn83",
