@@ -1427,6 +1427,16 @@
           "rotation": "R4",
           "event": "ENGAGED to Fourth",
           "notes": "He proposed at the teal arched door in his best suit. She said YES!"
+        },
+        {
+          "rotation": "R5",
+          "event": "Married Fourth at St Sunshine's Chapel!",
+          "notes": "Liv Hill became Liv Frisbee. Second wedding at the chapel. Best surname wins."
+        },
+        {
+          "rotation": "R5",
+          "event": "Posey born!",
+          "notes": "First Frisbee baby. A flower for a flower name. Green eyes and glasses like mum."
         }
       ],
       "type": "Human",
@@ -1771,8 +1781,10 @@
       "partners": [
         {
           "id": "liv",
-          "status": "Engaged",
-          "bolts": null
+          "status": "Married",
+          "bolts": null,
+          "weddingRotation": 5,
+          "weddingDay": 3
         }
       ],
       "relationships": [
@@ -1834,6 +1846,16 @@
           "rotation": "R4",
           "event": "Proposed to Sim Liv at the teal arched door",
           "notes": "In his proper clothes. She said YES!"
+        },
+        {
+          "rotation": "R5",
+          "event": "Married Sim Liv at St Sunshine's Chapel!",
+          "notes": "She swept him off his feet. Pink petals. He took her name. She took his."
+        },
+        {
+          "rotation": "R5",
+          "event": "Posey born!",
+          "notes": "His first daughter. She has his glasses and his hair and her mother's everything else."
         }
       ],
       "birthOrder": 3,
@@ -1844,7 +1866,8 @@
       "bornRotation": 1,
       "bornDay": 1,
       "cas": false,
-      "glasses": true
+      "glasses": true,
+      "hairTexture": "Straight"
     },
     {
       "id": "stillhere",
@@ -2816,6 +2839,56 @@
       "badges": {},
       "photo": "photos/ratchet.png",
       "hairTexture": "Curly"
+    },
+    {
+      "id": "posey",
+      "kind": "sim",
+      "name": "Posey Frisbee",
+      "display": "Posey",
+      "emoji": "🌼",
+      "family": "frisbee",
+      "household": "pebble_house",
+      "generation": "Gen 2",
+      "lifeStage": "Baby",
+      "preMarriageName": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "oneLiner": "A bunch of wildflowers tied together with love",
+      "aspiration": "",
+      "starSign": "",
+      "personality": {},
+      "parents": [
+        "fourth",
+        "liv"
+      ],
+      "birthOrder": 1,
+      "partners": [],
+      "relationships": [],
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "Born!",
+          "notes": "First Frisbee daughter. Green eyes from both parents. Straight hair from dad. Glasses from the whole family. Born the same day her parents married at St Sunshine's Chapel."
+        }
+      ],
+      "bornRotation": 5,
+      "bornDay": 3,
+      "firstWord": "",
+      "glasses": true,
+      "hairTexture": "Straight",
+      "handedness": "",
+      "genetics": {
+        "hairVisible": "",
+        "hairHidden": "",
+        "eyesVisible": "Green",
+        "eyesHidden": "",
+        "skin": "",
+        "freckles": "",
+        "notable": "Green eyes from both parents, glasses from both parents, straight hair from Fourth",
+        "fromMum": "Green eyes, glasses",
+        "fromDad": "Straight hair, glasses, green eyes",
+        "notes": ""
+      }
     }
   ],
   "pets": [
@@ -3150,7 +3223,7 @@
           "name": "Posey",
           "emoji": "🌼",
           "note": "Liv’s pick",
-          "used": false
+          "used": true
         },
         {
           "name": "Page",
