@@ -96,6 +96,13 @@
       "amount": 28.01,
       "category": "travel",
       "note": "Stuff for Rome!"
+    },
+    {
+      "id": "spend_2_kh9tz",
+      "date": "2026-06-27",
+      "amount": 1.18,
+      "category": "pharmacy",
+      "note": "Pills 💊"
     }
   ]
 }
