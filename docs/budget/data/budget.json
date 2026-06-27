@@ -103,6 +103,13 @@
       "amount": 1.18,
       "category": "pharmacy",
       "note": "Pills 💊"
+    },
+    {
+      "id": "spend_3_njqun",
+      "date": "2026-06-27",
+      "amount": 12.17,
+      "category": "groceries",
+      "note": "Aldi"
     }
   ]
 }
