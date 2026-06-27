@@ -2436,17 +2436,17 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 0",
-      "photo": null,
+      "photo": "photos/ptn83.png",
       "aspiration": "",
       "secondaryAspiration": "",
       "lifetimeWant": "",
       "starSign": "",
       "personality": {
-        "neat": null,
-        "outgoing": null,
-        "active": null,
-        "playful": null,
-        "nice": null
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
       },
       "turnOn1": "",
       "turnOn2": "",
@@ -2455,8 +2455,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "",
-        "level": null,
         "levelName": "",
+        "level": null,
         "top": "",
         "degree": ""
       },
@@ -2502,7 +2502,11 @@
       "car": "",
       "carNotes": "",
       "moments": [],
-      "cas": true
+      "cas": true,
+      "glasses": false,
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "acorn",
