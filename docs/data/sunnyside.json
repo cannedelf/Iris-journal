@@ -2263,7 +2263,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/armando.png",
       "aspiration": "",
       "secondaryAspiration": "",
       "lifetimeWant": "",
@@ -2333,7 +2333,8 @@
       "type": "Human",
       "yellowBow": false,
       "adopted": false,
-      "badges": {}
+      "badges": {},
+      "glasses": false
     },
     {
       "id": "benjamin",
