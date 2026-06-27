@@ -1146,7 +1146,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/wrench.png",
       "aspiration": "Fortune",
       "secondaryAspiration": "Knowledge (hoped)",
       "lifetimeWant": "Become City Planner",
