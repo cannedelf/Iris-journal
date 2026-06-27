@@ -148,11 +148,11 @@
       }
     },
     {
-      "id": "music_room",
-      "name": "The Music Room",
-      "emoji": "🎹",
-      "location": "Sunnyside, road between Sunshine Cottage and the shops",
-      "features": "Converted mill, piano, windmill next door",
+      "id": "the_foundation",
+      "name": "The Foundation",
+      "emoji": "🏗️",
+      "location": "Sunnyside",
+      "features": "Converted mill. Stone walls, dark wood, teal bench courtyard, detached workshop with robotics station. Sage green nursery. Butterfly bedroom. Pickup truck in the drive.",
       "movedIn": "2026-06-16",
       "daysThisRotation": 0,
       "layout": {
@@ -1140,7 +1140,7 @@
       "display": "Wrench",
       "emoji": "🔧",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_foundation",
       "preMarriageName": "",
       "lifeStage": "Adult",
       "daysRemaining": null,
@@ -2143,7 +2143,7 @@
       "display": "Andrea",
       "emoji": "💍",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_foundation",
       "preMarriageName": "Andrea Hogan",
       "lifeStage": "Adult",
       "daysRemaining": null,
@@ -2151,7 +2151,7 @@
       "photo": null,
       "aspiration": "Fortune",
       "secondaryAspiration": "",
-      "lifetimeWant": "",
+      "lifetimeWant": "Become Head of SCIA",
       "starSign": "Capricorn",
       "personality": {
         "neat": 7,
@@ -2170,7 +2170,7 @@
         "levelName": "Projectionist",
         "level": 6,
         "top": "",
-        "degree": ""
+        "degree": "Political Science"
       },
       "skills": {
         "cooking": 2,
@@ -2239,7 +2239,8 @@
       "adopted": false,
       "badges": {},
       "glasses": false,
-      "hairTexture": "Coily"
+      "hairTexture": "Coily",
+      "oneLiner": "Wore red to her wedding. Wants to run the secret service. Plants flowers as a cover story."
     },
     {
       "id": "armando",
@@ -2674,7 +2675,7 @@
       "display": "Ratchet",
       "emoji": "⚙️",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_foundation",
       "generation": "Gen 2",
       "lifeStage": "Baby",
       "preMarriageName": "",
