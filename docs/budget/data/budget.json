@@ -124,6 +124,13 @@
       "amount": 14.25,
       "category": "travel",
       "note": "Breakfast that may or may not be eaten"
+    },
+    {
+      "id": "spend_1_sc91n",
+      "date": "2026-06-28",
+      "amount": 8,
+      "category": "travel",
+      "note": "European phone internet"
     }
   ]
 }
