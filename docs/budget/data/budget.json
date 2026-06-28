@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-06-27",
+    "updated": "2026-06-28",
     "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub. The few example spends below can be deleted from the History tab.",
     "weeklyBudget": 50,
     "monthlyIncome": 2500,
@@ -117,6 +117,13 @@
       "amount": 100,
       "category": "savings",
       "note": ""
+    },
+    {
+      "id": "spend_1_0pnlo",
+      "date": "2026-06-28",
+      "amount": 14.25,
+      "category": "travel",
+      "note": "Breakfast that may or may not be eaten"
     }
   ]
 }
