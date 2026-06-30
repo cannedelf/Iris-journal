@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-06-28",
+    "updated": "2026-06-30",
     "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub. The few example spends below can be deleted from the History tab.",
     "weeklyBudget": 50,
     "monthlyIncome": 2500,
@@ -131,6 +131,13 @@
       "amount": 8,
       "category": "travel",
       "note": "European phone internet"
+    },
+    {
+      "id": "spend_1_xo4j4",
+      "date": "2026-06-27",
+      "amount": 231.99,
+      "category": "travel",
+      "note": "To revolut for euros"
     }
   ]
 }
