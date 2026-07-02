@@ -151,6 +151,27 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 .bar-fill.over { background: var(--red); }
 .catrow.over .catnum { color: var(--red); }
 
+/* tappable itemised breakdown (bills, subscriptions, income) */
+.breakdown { border-bottom: 1px dashed var(--line); }
+.breakdown:last-of-type { border-bottom: none; }
+.breakdown summary {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 10px 0; font-weight: 700; cursor: pointer; list-style: none; user-select: none;
+}
+.breakdown summary::-webkit-details-marker { display: none; }
+.breakdown summary b { font-weight: 800; display: inline-flex; align-items: center; gap: 6px; }
+.breakdown .chev { display: inline-block; color: var(--ink-soft); transition: transform .18s ease; font-size: 12px; }
+.breakdown[open] .chev { transform: rotate(90deg); }
+.mini-row.sub { padding: 7px 0 7px 14px; font-weight: 600; color: var(--ink-soft); border-bottom: 1px dashed var(--line); }
+.mini-row.sub b { color: var(--ink); font-weight: 700; }
+.breakdown .mini-row.sub:last-child { border-bottom: none; padding-bottom: 4px; }
+
+/* buffer safety-net card */
+.buffer-card { display: flex; align-items: flex-start; gap: 14px; background: #eef4fb; border-color: #cfe0f0; }
+.buffer-face { font-size: 30px; line-height: 1.2; }
+.buffer-amount { margin: 2px 0 0; font-size: 20px; font-weight: 800; color: #3a6ea5; }
+.buffer-amount i { font-size: 12px; font-weight: 700; margin-left: 6px; }
+
 .savings-card { display: flex; align-items: center; gap: 14px; }
 .savings-card.hit { background: var(--green-soft); border-color: #c4ddb4; }
 .savings-card.miss { background: var(--cream); }
