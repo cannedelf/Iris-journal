@@ -205,9 +205,13 @@ export function periodBreakdown(data, withinDate) {
   const loggedOut = rows
     .filter(r => r.type !== 'fixed' && r.type !== 'savings')
     .reduce((s, r) => s + r.spent, 0);
-  const savings = rows.filter(r => r.type === 'savings').reduce((s, r) => s + r.spent, 0);
+  // Savings can be several lines (e.g. Chase + ISA). Automatic transfers (standing order,
+  // direct debit) always land, so they count at their full budget; manual pots count what's
+  // actually been put in. Target is the sum of all savings budgets.
+  const savingsRows = rows.filter(r => r.type === 'savings');
+  const savings = savingsRows.reduce((s, r) => s + (r.auto ? r.budget : r.spent), 0);
+  const savingsTarget = savingsRows.reduce((s, r) => s + (r.budget || 0), 0);
   const fixed = rows.filter(r => r.type === 'fixed').reduce((s, r) => s + r.budget, 0);
-  const savingsTarget = (rows.find(r => r.type === 'savings') || {}).budget || 0;
 
   // Planned buffer (the untouched safety net): everything left after income minus every
   // budgeted pound (fixed + subs + all flexible incl. savings). Auto-updates with budgets.
@@ -219,13 +223,42 @@ export function periodBreakdown(data, withinDate) {
     rows,
     loggedOut: Math.round(loggedOut * 100) / 100,
     savings: Math.round(savings * 100) / 100,
-    savingsTarget,
-    savingsAnnual: savingsTarget * 12,
-    savingsHit: savingsTarget > 0 && savings >= savingsTarget,
+    savingsTarget: Math.round(savingsTarget * 100) / 100,
+    savingsAnnual: Math.round(savingsTarget * 12 * 100) / 100,
+    savingsHit: savingsTarget > 0 && savings >= savingsTarget - 0.005,
     fixed: Math.round(fixed * 100) / 100,
     income,
     incomeItems: data.meta.incomeItems || [],
     plannedBuffer,
     totalOut: Math.round((loggedOut + savings + fixed) * 100) / 100
   };
+}
+
+// --- end-of-month money sorter ----------------------------------------------
+//
+// Given the current-account balance and the credit-card balance to clear, work out
+// where every remaining pound should go. The card is ALWAYS paid in full; whatever is
+// left is swept out of the current account and split between the holiday fund and the
+// Chase emergency fund, on a sliding scale that rewards a smaller card bill.
+
+export const SORTER_TIERS = [
+  { max: 450, name: 'QUEEN', emoji: '👑', holiday: 0.40, chase: 0.60, celebrate: true },
+  { max: 550, name: 'Sensible Girlie', emoji: '💛', holiday: 0.30, chase: 0.70 },
+  { max: 650, name: 'On Budget', emoji: '✅', holiday: 0.25, chase: 0.75 },
+  { max: Infinity, name: 'Reined It In', emoji: '🫣', holiday: 0.20, chase: 0.80 }
+];
+
+export function sortMoney(balance, card) {
+  const bal = Math.max(0, Number(balance) || 0);
+  const cc = Math.max(0, Number(card) || 0);
+  const remainder = Math.round((bal - cc) * 100) / 100;
+  const tier = SORTER_TIERS.find(t => cc < t.max);
+  const highCard = cc >= 650; // 23% interest bites hardest on a big balance
+
+  if (remainder <= 0) {
+    return { overspent: true, remainder, card: cc, tier, highCard };
+  }
+  const holiday = Math.round(remainder * tier.holiday * 100) / 100;
+  const chase = Math.round((remainder - holiday) * 100) / 100; // exact remainder split
+  return { overspent: false, remainder, card: cc, tier, highCard, holiday, chase };
 }
