@@ -213,6 +213,28 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 .sort-note { margin: 12px 0 0; color: var(--ink-soft); font-weight: 700; font-size: 13px; text-align: center; }
 .sort-card.warn p { margin: 4px 0 0; font-weight: 700; font-size: 14px; line-height: 1.5; }
 
+/* ---------- 🎯 goal & debt trackers ---------- */
+.tracker-title { margin: 8px 2px -2px; font-size: 17px; color: #8a5a1a; }
+.tracker { padding: 14px 16px; }
+.tracker-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; font-weight: 800; }
+.tracker-head span { font-size: 15px; }
+.tracker-head b { font-size: 16px; }
+.bar.big { height: 12px; }
+.bar-fill.emerg { background: linear-gradient(90deg, #7cc4e0, #4a90b8); }
+.bar-fill.widdle { background: linear-gradient(90deg, #f0a94a, #e07a2c); }
+.tracker-foot { display: flex; justify-content: space-between; align-items: center; margin-top: 7px; font-size: 12px; font-weight: 700; color: var(--ink-soft); gap: 8px; }
+.tracker-foot span:last-child { text-align: right; }
+.tracker-btn { width: 100%; margin-top: 11px; font-size: 13px; padding: 10px; }
+.holiday-card { background: linear-gradient(165deg, #fffaf0, #fdefd6); border-color: #f0dcb8; }
+.freed { margin: 9px 0 0; font-weight: 800; color: var(--green); font-size: 13px; background: var(--green-soft); padding: 7px 11px; border-radius: 12px; text-align: center; }
+.card-trend { margin: 2px 0 0; font-weight: 800; font-size: 13px; }
+.card-trend.good { color: var(--green); }
+.card-trend.up { color: var(--amber); }
+.cbars { display: flex; align-items: flex-end; gap: 8px; height: 66px; margin-top: 12px; padding-top: 4px; }
+.cbar { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; gap: 4px; }
+.cbar-fill { width: 100%; max-width: 34px; background: linear-gradient(180deg, #eab44d, var(--gold-deep)); border-radius: 6px 6px 3px 3px; min-height: 6px; }
+.cbar span { font-size: 10px; font-weight: 700; color: var(--ink-soft); }
+
 /* ---------- bottom nav ---------- */
 .bottomnav {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 40;

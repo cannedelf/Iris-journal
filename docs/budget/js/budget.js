@@ -262,3 +262,53 @@ export function sortMoney(balance, card) {
   const chase = Math.round((remainder - holiday) * 100) / 100; // exact remainder split
   return { overspent: false, remainder, card: cc, tier, highCard, holiday, chase };
 }
+
+// --- goal & debt trackers ---------------------------------------------------
+
+export function addMonths(date, n) {
+  return new Date(date.getFullYear(), date.getMonth() + n, date.getDate());
+}
+
+// Emergency/holiday fund progress. Emergency has a target & monthly top-up (for an ETA);
+// the holiday fund has neither — it just grows.
+export function fundProgress(fund, today) {
+  const balance = Number(fund.balance) || 0;
+  const target = Number(fund.target) || 0;
+  const monthly = Number(fund.monthly) || 0;
+  const remaining = Math.max(0, target - balance);
+  const pct = target ? Math.min(100, (balance / target) * 100) : 0;
+  const monthsToGo = (monthly > 0 && remaining > 0) ? Math.ceil(remaining / monthly) : 0;
+  const eta = monthsToGo ? monthLabel(addMonths(today, monthsToGo)) : null;
+  return { balance, target, monthly, remaining, pct, monthsToGo, eta, hit: target > 0 && balance >= target };
+}
+
+// Widdle debt: total minus the sum of logged repayments. Months-to-go uses the most
+// recent payment as the running rate.
+export function widdleStatus(d) {
+  const payments = (d.payments || []).slice().sort((a, b) => a.date.localeCompare(b.date));
+  const total = Number(d.total) || 0;
+  const paid = payments.reduce((s, p) => s + (Number(p.amount) || 0), 0);
+  const remaining = Math.max(0, Math.round((total - paid) * 100) / 100);
+  const pct = total ? Math.min(100, (paid / total) * 100) : 0;
+  const rate = payments.length ? (Number(payments[payments.length - 1].amount) || 0) : 0;
+  const monthsToGo = (rate > 0 && remaining > 0) ? Math.ceil(remaining / rate) : 0;
+  return { total, paid: Math.round(paid * 100) / 100, remaining, pct, monthsToGo, payments };
+}
+
+// Novuna loan countdown. Returns endDate:null when Liv hasn't set it yet.
+export function novunaStatus(d, today) {
+  const monthly = Number(d.monthly) || 0;
+  if (!d.endDate) return { monthly, endDate: null, monthsToGo: null, done: false };
+  const end = parseDate(d.endDate);
+  const monthsToGo = Math.max(0, (end.getFullYear() - today.getFullYear()) * 12 + (end.getMonth() - today.getMonth()));
+  return { monthly, endDate: end, monthsToGo, done: end <= today };
+}
+
+// Credit-card month-on-month trend from recorded period totals.
+export function cardTrend(history) {
+  const list = (history || []).slice().sort((a, b) => a.period.localeCompare(b.period));
+  const latest = list[list.length - 1] || null;
+  const prev = list[list.length - 2] || null;
+  const delta = (latest && prev) ? Math.round((latest.amount - prev.amount) * 100) / 100 : null;
+  return { list, latest, prev, delta, improved: delta != null && delta < 0 };
+}

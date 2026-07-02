@@ -78,6 +78,9 @@ export const store = {
     d.meta = d.meta || {};
     d.meta.weeklyBudget = d.meta.weeklyBudget ?? 50;
     d.meta.categories = d.meta.categories || [];
+    d.meta.funds = d.meta.funds || {};
+    d.meta.debts = d.meta.debts || {};
+    d.meta.cardHistory = d.meta.cardHistory || [];
     d.entries = d.entries || [];
     return d;
   },
@@ -166,5 +169,43 @@ export const store = {
   async setCategories(categories) {
     this.data.meta.categories = categories;
     return this.commit('Update categories');
+  },
+
+  // --- funds & debts trackers ---------------------------------------------
+  _round(n) { return Math.round((Number(n) || 0) * 100) / 100; },
+
+  // Record a month-end sort: top up the funds and log the card total for this period.
+  async recordSort({ chase, holiday, card, periodKey }) {
+    const f = this.data.meta.funds;
+    if (f.emergency) f.emergency.balance = this._round((f.emergency.balance || 0) + chase);
+    if (f.holiday) f.holiday.balance = this._round((f.holiday.balance || 0) + holiday);
+    const hist = this.data.meta.cardHistory;
+    const existing = hist.find(h => h.period === periodKey);
+    if (existing) existing.amount = this._round(card);
+    else hist.push({ period: periodKey, amount: this._round(card) });
+    return this.commit('Record month-end sort');
+  },
+
+  // Log a Widdle repayment; it feeds the holiday fund.
+  async addWiddlePayment({ date, amount }) {
+    const w = this.data.meta.debts.widdle;
+    if (!w) return { saved: false };
+    w.payments = w.payments || [];
+    w.payments.push({ date, amount: this._round(amount) });
+    const h = this.data.meta.funds.holiday;
+    if (h) h.balance = this._round((h.balance || 0) + amount);
+    return this.commit(`Widdle repayment £${this._round(amount).toFixed(2)}`);
+  },
+
+  async setNovunaEndDate(date) {
+    if (!this.data.meta.debts.novuna) return { saved: false };
+    this.data.meta.debts.novuna.endDate = date || null;
+    return this.commit('Set Novuna end date');
+  },
+
+  // Merge edits into a fund (balance/target/monthly) from settings.
+  async setFund(key, patch) {
+    this.data.meta.funds[key] = { ...(this.data.meta.funds[key] || {}), ...patch };
+    return this.commit(`Update ${key} fund`);
   }
 };
