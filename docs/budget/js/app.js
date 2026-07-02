@@ -7,7 +7,8 @@ import { gh } from './github.js';
 import {
   parseDate, isoDate, weekStart, addDays, money, weeklyStatus, sunshine,
   periodBreakdown, spendingKey, getPayDay, periodStart, samePeriod,
-  shiftPeriod, periodLabel, weekOfPeriod, sortMoney
+  shiftPeriod, periodLabel, weekOfPeriod, sortMoney,
+  fundProgress, widdleStatus, novunaStatus, cardTrend
 } from './budget.js';
 
 // ---------- tiny helpers ----------
@@ -100,7 +101,99 @@ function viewHome() {
       <div class="mini-row"><span>Savings</span><b>${mb.savingsHit ? '✅ ' : ''}${money(mb.savings)} / ${money(mb.savingsTarget)}</b></div>
       ${mb.income ? `<div class="mini-row"><span>In vs out</span><b>${money(mb.income)} / ${money(mb.totalOut)}</b></div>` : ''}
     </div>
+
+    ${trackerCards(now)}
   </section>`;
+}
+
+// The five goal & debt trackers shown on the dashboard.
+function trackerCards(now) {
+  const m = store.data.meta;
+  const f = m.funds || {}, d = m.debts || {};
+  const cards = [];
+
+  // 🎯 Emergency fund progress
+  if (f.emergency) {
+    const p = fundProgress(f.emergency, now);
+    cards.push(`
+    <div class="card tracker">
+      <div class="tracker-head"><span>${f.emergency.emoji || '🎯'} ${esc(f.emergency.label || 'Emergency Fund')}</span>
+        <b>${money(p.balance)} <i>/ ${money(p.target)}</i></b></div>
+      <div class="bar big"><div class="bar-fill emerg" style="width:${p.pct}%"></div></div>
+      <div class="tracker-foot"><span>${Math.round(p.pct)}% there${p.hit ? ' 🎉' : ''}</span>
+        <span>${p.eta ? `~${p.monthsToGo} mo · ${esc(p.eta)} at ${money(p.monthly)}/mo` : (p.hit ? 'Target hit!' : '')}</span></div>
+    </div>`);
+  }
+
+  // 🏖️ Holiday fund
+  if (f.holiday) {
+    cards.push(`
+    <div class="card tracker holiday-card">
+      <div class="tracker-head"><span>${f.holiday.emoji || '🏖️'} ${esc(f.holiday.label || 'Holiday Fund')}</span>
+        <b>${money(f.holiday.balance || 0)}</b></div>
+      <p class="hint" style="margin:2px 0 0">Grows with the 🧮 sorter &amp; Widdle repayments. Watch it climb! 🌴</p>
+    </div>`);
+  }
+
+  // 🍊 Widdle debt countdown
+  if (d.widdle) {
+    const w = widdleStatus(d.widdle);
+    cards.push(`
+    <div class="card tracker">
+      <div class="tracker-head"><span>${d.widdle.emoji || '🍊'} ${esc(d.widdle.label || 'Widdle')}</span>
+        <b>${money(w.remaining)} <i>left</i></b></div>
+      <div class="bar big"><div class="bar-fill widdle" style="width:${w.pct}%"></div></div>
+      <div class="tracker-foot"><span>${money(w.paid)} of ${money(w.total)} paid</span>
+        <span>${w.remaining > 0 ? (w.monthsToGo ? `~${w.monthsToGo} mo left` : '') : 'Paid off! 🎉'}</span></div>
+      <button class="ghost tracker-btn" data-widdle-pay>＋ Log a repayment <i>(→ holiday fund)</i></button>
+    </div>`);
+  }
+
+  // 🏠 Novuna kitchen-loan countdown
+  if (d.novuna) {
+    const n = novunaStatus(d.novuna, now);
+    cards.push(`
+    <div class="card tracker">
+      <div class="tracker-head"><span>${d.novuna.emoji || '🏠'} ${esc(d.novuna.label || 'Kitchen Loan')}</span>
+        <b>${money(n.monthly)}<i>/mo</i></b></div>
+      ${n.endDate
+        ? `<div class="tracker-foot"><span>~${n.monthsToGo} months left</span><span>ends ${esc(monthShortYear(n.endDate))}</span></div>
+           <p class="freed">🎉 ${money(n.monthly)}/month FREE when it ends!!</p>`
+        : `<p class="hint" style="margin:6px 0 8px">📅 End date not set yet — pop it in to start the countdown. When it ends you get ${money(n.monthly)}/month free!!</p>
+           <button class="ghost tracker-btn" data-novuna-date>📅 Set end date</button>`}
+    </div>`);
+  }
+
+  // 📊 Credit-card month-on-month
+  const ct = cardTrend(m.cardHistory);
+  cards.push(`
+    <div class="card tracker">
+      <div class="tracker-head"><span>📊 Credit card</span>${ct.latest ? `<b>${money(ct.latest.amount)}</b>` : ''}</div>
+      ${ct.latest
+        ? `${ct.delta != null
+              ? `<p class="card-trend ${ct.improved ? 'good' : 'up'}">${ct.improved
+                    ? `📉 ${money(-ct.delta)} less than last month — get it! 🎉`
+                    : `📈 ${money(ct.delta)} more than last month`}</p>`
+              : '<p class="hint" style="margin:2px 0 0">First month recorded — the trend starts next month.</p>'}
+           ${miniCardBars(ct.list)}`
+        : '<p class="hint" style="margin:2px 0 0">Record a month-end in the 🧮 Sorter to start tracking your card trend.</p>'}
+    </div>`);
+
+  return `<h3 class="tracker-title">🎯 Your goals</h3>${cards.join('')}`;
+}
+
+function monthShortYear(d) { return `${shortMonth(d)} ${d.getFullYear()}`; }
+
+// Tiny bar chart of the last few periods' credit-card totals.
+function miniCardBars(list) {
+  if (!list.length) return '';
+  const recent = list.slice(-6);
+  const max = Math.max(...recent.map(h => h.amount), 1);
+  const bars = recent.map(h => {
+    const label = shortMonth(parseDate(h.period));
+    return `<div class="cbar"><div class="cbar-fill" style="height:${Math.max(6, (h.amount / max) * 100)}%"></div><span>${esc(label)}</span></div>`;
+  }).join('');
+  return `<div class="cbars">${bars}</div>`;
 }
 
 function shortMonth(d) { return ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'][d.getMonth()]; }
@@ -322,6 +415,7 @@ function renderSorterResult() {
     <div class="sort-row keep"><span>💷 Keep in current account</span><b>${money(0)}</b></div>
 
     <p class="sort-note">Sweep it <b>all</b> — the current account is bills money only. ✨</p>
+    <button class="primary" style="width:100%;margin-top:10px" data-sort-record>✅ Record this month <i>(top up the funds)</i></button>
   </div>`;
 }
 
@@ -355,6 +449,19 @@ function viewSettings() {
           <div class="amount-input"><span class="curr">£</span>
             <input class="bcat" data-key="${esc(c.key)}" type="number" step="1" value="${esc(c.budget || 0)}"></div></label>`).join('')}
       <button id="bSave" class="primary" style="width:100%">Save budgets</button>
+    </div>
+
+    <div class="card">
+      <h3>🎯 Funds &amp; debts</h3>
+      <p class="hint" style="margin-top:-2px">These usually update themselves from the sorter and repayments — but you can correct any figure here.</p>
+      <label class="field inline"><span>🎯 Emergency balance</span><div class="amount-input"><span class="curr">£</span><input id="fEmBal" type="number" step="1" value="${esc((m.funds.emergency||{}).balance ?? '')}"></div></label>
+      <label class="field inline"><span>🎯 Emergency target</span><div class="amount-input"><span class="curr">£</span><input id="fEmTgt" type="number" step="1" value="${esc((m.funds.emergency||{}).target ?? '')}"></div></label>
+      <label class="field inline"><span>🎯 Monthly top-up</span><div class="amount-input"><span class="curr">£</span><input id="fEmMon" type="number" step="1" value="${esc((m.funds.emergency||{}).monthly ?? '')}"></div></label>
+      <label class="field inline"><span>🏖️ Holiday balance</span><div class="amount-input"><span class="curr">£</span><input id="fHolBal" type="number" step="1" value="${esc((m.funds.holiday||{}).balance ?? '')}"></div></label>
+      <label class="field inline"><span>🍊 Widdle total owed</span><div class="amount-input"><span class="curr">£</span><input id="dWidTot" type="number" step="1" value="${esc((m.debts.widdle||{}).total ?? '')}"></div></label>
+      <label class="field inline"><span>🏠 Novuna monthly</span><div class="amount-input"><span class="curr">£</span><input id="dNovMon" type="number" step="0.01" value="${esc((m.debts.novuna||{}).monthly ?? '')}"></div></label>
+      <label class="field inline"><span>🏠 Novuna end date</span><input id="dNovEnd" type="date" value="${esc((m.debts.novuna||{}).endDate || '')}"></label>
+      <button id="fSave" class="primary" style="width:100%">Save funds &amp; debts</button>
     </div>
 
     <div class="card">
@@ -398,7 +505,7 @@ function wire() {
 }
 
 function onAppClick(e) {
-  const t = e.target.closest('[data-go], [data-cat], [data-period], [data-del], #logSave, #setSave, #setResync, #bSave, #dlBackup');
+  const t = e.target.closest('[data-go], [data-cat], [data-period], [data-del], [data-sort-record], [data-widdle-pay], [data-novuna-date], #logSave, #setSave, #setResync, #bSave, #fSave, #dlBackup');
   if (!t) return;
 
   if (t.dataset.go) return go(t.dataset.go);
@@ -412,10 +519,14 @@ function onAppClick(e) {
     return render();
   }
   if (t.dataset.del) return onDelete(t.dataset.del);
+  if (t.hasAttribute('data-sort-record')) return onSortRecord();
+  if (t.hasAttribute('data-widdle-pay')) return onWiddlePay();
+  if (t.hasAttribute('data-novuna-date')) return onNovunaDate();
   if (t.id === 'logSave') return onLogSave();
   if (t.id === 'setSave') return onTokenSave();
   if (t.id === 'setResync') return onResync();
   if (t.id === 'bSave') return onBudgetSave();
+  if (t.id === 'fSave') return onFundsSave();
   if (t.id === 'dlBackup') return onBackup();
 }
 
@@ -459,6 +570,62 @@ async function onDelete(id) {
   if (!confirm(`Delete ${money(e.amount)}${e.note ? ' — ' + e.note : ''}?`)) return;
   await save(store.deleteEntry(id), 'Deleted');
   render();
+}
+
+// Sorter → record this month's split into the funds + card history.
+async function onSortRecord() {
+  const s = state.sorter || {};
+  const r = sortMoney(s.balance, s.card);
+  if (r.overspent) return toast('Nothing to record — overspent this month.', 'warn');
+  const periodKey = isoDate(periodStart(today(), payDay()));
+  const already = (store.data.meta.cardHistory || []).some(h => h.period === periodKey);
+  if (already && !confirm('This period is already recorded. Record again (overwrites the card total and adds the fund top-ups again)?')) return;
+  await save(store.recordSort({ chase: r.chase, holiday: r.holiday, card: r.card, periodKey }),
+    `Recorded! Emergency +${money(r.chase)}, Holiday +${money(r.holiday)} 🎉`);
+  go('home'); // show the trackers move
+}
+
+// Widdle → log a repayment (feeds the holiday fund).
+async function onWiddlePay() {
+  const raw = prompt('Widdle repayment amount (£):');
+  if (raw == null) return;
+  const amount = Math.round(Number(raw) * 100) / 100;
+  if (!amount || amount <= 0) return toast('Enter an amount greater than £0.', 'warn');
+  await save(store.addWiddlePayment({ date: isoDate(today()), amount }),
+    `Widdle −${money(amount)} · Holiday +${money(amount)} 🏖️`);
+  render();
+}
+
+// Novuna → set the loan end date.
+async function onNovunaDate() {
+  const raw = prompt('Novuna loan end date (YYYY-MM-DD):', (store.data.meta.debts.novuna || {}).endDate || '');
+  if (raw == null) return;
+  const v = raw.trim();
+  if (v && !/^\d{4}-\d{2}-\d{2}$/.test(v)) return toast('Use the format YYYY-MM-DD.', 'warn');
+  await save(store.setNovunaEndDate(v || null), v ? 'End date set — countdown on! ⏳' : 'End date cleared');
+  render();
+}
+
+async function onFundsSave() {
+  const num = id => { const v = $(id).value; return v === '' ? undefined : (Number(v) || 0); };
+  const em = { balance: num('#fEmBal'), target: num('#fEmTgt'), monthly: num('#fEmMon') };
+  const hol = { balance: num('#fHolBal') };
+  store.data.meta.debts.widdle = store.data.meta.debts.widdle || {};
+  store.data.meta.debts.novuna = store.data.meta.debts.novuna || {};
+  const wt = num('#dWidTot'); if (wt !== undefined) store.data.meta.debts.widdle.total = wt;
+  const nm = num('#dNovMon'); if (nm !== undefined) store.data.meta.debts.novuna.monthly = nm;
+  const nd = $('#dNovEnd').value; store.data.meta.debts.novuna.endDate = nd || null;
+  store.data.meta.funds.emergency = { ...(store.data.meta.funds.emergency || {}), ...clean(em) };
+  store.data.meta.funds.holiday = { ...(store.data.meta.funds.holiday || {}), ...clean(hol) };
+  await save(store.commit('Update funds & debts'), 'Funds & debts saved 💛');
+  render();
+}
+
+// Drop undefined keys so blank inputs don't overwrite existing values with 0.
+function clean(obj) {
+  const out = {};
+  for (const k in obj) if (obj[k] !== undefined) out[k] = obj[k];
+  return out;
 }
 
 async function onTokenSave() {
