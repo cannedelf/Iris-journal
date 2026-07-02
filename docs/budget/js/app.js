@@ -5,8 +5,9 @@
 import { store } from './store.js';
 import { gh } from './github.js';
 import {
-  parseDate, isoDate, weekStart, addDays, weekOfMonth, monthLabel, monthKey,
-  sameMonth, money, weeklyStatus, sunshine, monthlyBreakdown, spendingKey
+  parseDate, isoDate, weekStart, addDays, money, weeklyStatus, sunshine,
+  periodBreakdown, spendingKey, getPayDay, periodStart, samePeriod,
+  shiftPeriod, periodLabel, weekOfPeriod
 } from './budget.js';
 
 // ---------- tiny helpers ----------
@@ -18,10 +19,14 @@ function today() { return new Date(); }
 // ---------- app state ----------
 const state = {
   view: 'home',                 // home | log | month | history | settings
-  month: monthKey(today()),     // which month the Month/History views look at
+  period: null,                 // ISO date of the viewed pay-period start (null = current)
   histFilter: 'all',            // category filter on History
   logDraft: null                // { amount, category, note, date } while editing the log form
 };
+
+// The pay day and the period the Month/History views are currently showing.
+function payDay() { return getPayDay(store.data.meta); }
+function curPeriod() { return state.period ? parseDate(state.period) : periodStart(today(), payDay()); }
 
 // ---------- save-status badge ----------
 function setStatus(kind, text) {
@@ -57,8 +62,6 @@ async function save(promise, okMsg) {
 }
 
 // ---------- month navigation helpers ----------
-function monthDateFromKey(key) { const [y, m] = key.split('-').map(Number); return new Date(y, m - 1, 1); }
-function shiftMonth(key, delta) { const d = monthDateFromKey(key); d.setMonth(d.getMonth() + delta); return monthKey(d); }
 
 // =====================================================================
 //  VIEWS
@@ -69,8 +72,8 @@ function viewHome() {
   const ws = weeklyStatus(store.data, now);
   const sun = sunshine(ws.status, ws.remaining);
   const pct = Math.max(0, Math.min(100, ws.allowance ? (ws.remaining / ws.allowance) * 100 : 0));
-  const wom = weekOfMonth(now);
-  const mb = monthlyBreakdown(store.data, now);
+  const wom = weekOfPeriod(now, payDay());
+  const mb = periodBreakdown(store.data, now);
 
   const sunday = addDays(ws.monday, 6);
   const range = `${ws.monday.getDate()} ${shortMonth(ws.monday)} – ${sunday.getDate()} ${shortMonth(sunday)}`;
@@ -91,7 +94,7 @@ function viewHome() {
     <button class="biglog" data-go="log">➕ &nbsp;Log a spend</button>
 
     <div class="card">
-      <div class="card-head"><h3>This month so far</h3>
+      <div class="card-head"><h3>This pay period so far</h3>
         <button class="link" data-go="month">See all →</button></div>
       <div class="mini-row"><span>Spent (flexible)</span><b>${money(mb.loggedOut)}</b></div>
       <div class="mini-row"><span>Savings</span><b>${mb.savingsHit ? '✅ ' : ''}${money(mb.savings)} / ${money(mb.savingsTarget)}</b></div>
@@ -141,9 +144,9 @@ function viewLog() {
 }
 
 function viewMonth() {
-  const md = monthDateFromKey(state.month);
-  const mb = monthlyBreakdown(store.data, md);
-  const isThis = sameMonth(md, today());
+  const md = curPeriod();
+  const mb = periodBreakdown(store.data, md);
+  const isThis = samePeriod(md, today(), payDay());
 
   const flexRows = mb.rows.filter(r => r.type !== 'fixed').map(r => {
     const showBudget = r.budget > 0;
@@ -169,9 +172,9 @@ function viewMonth() {
   return `
   <section class="screen month">
     <div class="monthnav">
-      <button class="nav" data-month="-1">‹</button>
-      <h2>${monthLabel(md)}${isThis ? ' <small>· this month</small>' : ''}</h2>
-      <button class="nav" data-month="1" ${isThis ? 'disabled' : ''}>›</button>
+      <button class="nav" data-period="-1">‹</button>
+      <h2>${periodLabel(md, payDay())}${isThis ? ' <small>· now</small>' : ''}</h2>
+      <button class="nav" data-period="1" ${isThis ? 'disabled' : ''}>›</button>
     </div>
 
     <div class="card savings-card ${mb.savingsHit ? 'hit' : 'miss'}">
@@ -207,12 +210,12 @@ function viewMonth() {
 }
 
 function viewHistory() {
-  const md = monthDateFromKey(state.month);
+  const md = curPeriod();
   const cats = store.data.meta.categories;
   const catMap = Object.fromEntries(cats.map(c => [c.key, c]));
 
   let entries = store.data.entries
-    .filter(e => sameMonth(parseDate(e.date), md))
+    .filter(e => samePeriod(parseDate(e.date), md, payDay()))
     .filter(e => state.histFilter === 'all' || e.category === state.histFilter)
     .slice()
     .sort((a, b) => b.date.localeCompare(a.date) || b.id.localeCompare(a.id));
@@ -240,9 +243,9 @@ function viewHistory() {
   return `
   <section class="screen history">
     <div class="monthnav">
-      <button class="nav" data-month="-1">‹</button>
-      <h2>${monthLabel(md)}</h2>
-      <button class="nav" data-month="1" ${sameMonth(md, today()) ? 'disabled' : ''}>›</button>
+      <button class="nav" data-period="-1">‹</button>
+      <h2>${periodLabel(md, payDay())}</h2>
+      <button class="nav" data-period="1" ${samePeriod(md, today(), payDay()) ? 'disabled' : ''}>›</button>
     </div>
     <select id="histFilter" class="select">${filterOpts}</select>
     <div class="runtotal"><span>${entries.length} spend${entries.length === 1 ? '' : 's'}</span><b>${money(total)}</b></div>
@@ -277,8 +280,10 @@ function viewSettings() {
 
     <div class="card">
       <h3>💰 Budgets</h3>
+      <label class="field inline"><span>Pay day <i>(day of month)</i></span><input id="bPayDay" type="number" step="1" min="1" max="31" style="width:90px" value="${esc(getPayDay(m))}"></label>
+      <p class="hint" style="margin-top:-2px">Your budget runs payday-to-payday (e.g. 25th → 24th), not by calendar month. Set to 1 for calendar months.</p>
       <label class="field inline"><span>Weekly spending money</span><div class="amount-input"><span class="curr">£</span><input id="bWeekly" type="number" step="1" value="${esc(m.weeklyBudget)}"></div></label>
-      <label class="field inline"><span>Monthly income <i>(optional)</i></span><div class="amount-input"><span class="curr">£</span><input id="bIncome" type="number" step="1" value="${esc(m.monthlyIncome || '')}"></div></label>
+      <label class="field inline"><span>Income per period <i>(optional)</i></span><div class="amount-input"><span class="curr">£</span><input id="bIncome" type="number" step="1" value="${esc(m.monthlyIncome || '')}"></div></label>
       ${m.categories.map(c => `
         <label class="field inline"><span>${c.emoji} ${esc(c.label)}</span>
           <div class="amount-input"><span class="curr">£</span>
@@ -327,7 +332,7 @@ function wire() {
 }
 
 function onAppClick(e) {
-  const t = e.target.closest('[data-go], [data-cat], [data-month], [data-del], #logSave, #setSave, #setResync, #bSave, #dlBackup');
+  const t = e.target.closest('[data-go], [data-cat], [data-period], [data-del], #logSave, #setSave, #setResync, #bSave, #dlBackup');
   if (!t) return;
 
   if (t.dataset.go) return go(t.dataset.go);
@@ -336,8 +341,8 @@ function onAppClick(e) {
     state.logDraft.category = t.dataset.cat;
     return render();
   }
-  if (t.dataset.month) {                      // month navigation
-    state.month = shiftMonth(state.month, Number(t.dataset.month));
+  if (t.dataset.period) {                     // pay-period navigation
+    state.period = isoDate(shiftPeriod(curPeriod(), Number(t.dataset.period), payDay()));
     return render();
   }
   if (t.dataset.del) return onDelete(t.dataset.del);
@@ -404,12 +409,14 @@ async function onResync() {
 async function onBudgetSave() {
   const weekly = Number($('#bWeekly').value) || 0;
   const income = Number($('#bIncome').value) || 0;
+  const pay = Math.min(31, Math.max(1, Math.floor(Number($('#bPayDay').value) || 1)));
   const cats = store.data.meta.categories.map(c => {
     const inp = document.querySelector(`.bcat[data-key="${CSS.escape(c.key)}"]`);
     return { ...c, budget: inp ? (Number(inp.value) || 0) : c.budget };
   });
   store.data.meta.categories = cats;
-  await save(store.setBudgets({ weeklyBudget: weekly, monthlyIncome: income }), 'Budgets saved 💛');
+  state.period = null; // snap the viewed period back to the current one under the new pay day
+  await save(store.setBudgets({ weeklyBudget: weekly, monthlyIncome: income, payDay: pay }), 'Budgets saved 💛');
   render();
 }
 
