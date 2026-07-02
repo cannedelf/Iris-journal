@@ -157,8 +157,14 @@ function viewMonth() {
     </div>`;
   }).join('');
 
-  const fixedRows = mb.rows.filter(r => r.type === 'fixed').map(r =>
-    `<div class="mini-row"><span>${r.emoji} ${esc(r.label)}</span><b>${money(r.budget)} <i>fixed</i></b></div>`).join('');
+  // Fixed categories (Bills, Subscriptions) render as tappable breakdowns when they
+  // carry an itemised list, otherwise as a plain reference line.
+  const fixedRows = mb.rows.filter(r => r.type === 'fixed').map(r => {
+    const items = r.items || [];
+    if (!items.length) return `<div class="mini-row"><span>${r.emoji} ${esc(r.label)}</span><b>${money(r.budget)} <i>fixed</i></b></div>`;
+    const lines = items.map(it => `<div class="mini-row sub"><span>${esc(it.label)}</span><b>${money(it.amount)}</b></div>`).join('');
+    return `<details class="breakdown"><summary><span>${r.emoji} ${esc(r.label)}</span><b>${money(r.budget)} <span class="chev">▸</span></b></summary>${lines}</details>`;
+  }).join('');
 
   return `
   <section class="screen month">
@@ -171,7 +177,7 @@ function viewMonth() {
     <div class="card savings-card ${mb.savingsHit ? 'hit' : 'miss'}">
       <span class="savings-face">${mb.savingsHit ? '✅' : '⭕'}</span>
       <div><b>Savings ${mb.savingsHit ? 'on track!' : 'this month'}</b>
-        <p>${money(mb.savings)} of ${money(mb.savingsTarget)} target</p></div>
+        <p>${money(mb.savings)} of ${money(mb.savingsTarget)} target${mb.savingsAnnual ? ` · ${money(mb.savingsAnnual)}/year 🎯` : ''}</p></div>
     </div>
 
     <div class="card">
@@ -181,11 +187,22 @@ function viewMonth() {
 
     <div class="card">
       <h3>Fixed (reference only)</h3>
+      <p class="hint" style="margin-top:-2px">Tap a row to see every line. 💀 Fourteen subscriptions were harmed.</p>
       ${fixedRows}
       <div class="mini-row total"><span>Total out (logged + savings + fixed)</span><b>${money(mb.totalOut)}</b></div>
-      ${mb.income ? `<div class="mini-row total"><span>Money in</span><b>${money(mb.income)}</b></div>
+      ${mb.income ? `${mb.incomeItems.length
+          ? `<details class="breakdown"><summary><span>Money in</span><b>${money(mb.income)} <span class="chev">▸</span></b></summary>${
+              mb.incomeItems.map(it => `<div class="mini-row sub"><span>${esc(it.label)}</span><b>${money(it.amount)}</b></div>`).join('')}</details>`
+          : `<div class="mini-row total"><span>Money in</span><b>${money(mb.income)}</b></div>`}
         <div class="mini-row total ${mb.income - mb.totalOut < 0 ? 'over' : ''}"><span>Left over</span><b>${money(mb.income - mb.totalOut)}</b></div>` : ''}
     </div>
+
+    ${mb.income ? `<div class="card buffer-card">
+      <span class="buffer-face">🛟</span>
+      <div><b>Buffer — your safety net</b>
+        <p class="buffer-amount">${money(mb.plannedBuffer)}<i>/month planned</i></p>
+        <p class="hint" style="margin:4px 0 0">Not spending money — it covers emergencies &amp; quarterly bills. Left after income minus every budget.</p></div>
+    </div>` : ''}
   </section>`;
 }
 

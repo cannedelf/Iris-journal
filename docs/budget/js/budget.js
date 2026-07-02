@@ -58,7 +58,9 @@ export function monthKey(date) { return `${date.getFullYear()}-${String(date.get
 
 export function money(n) {
   const v = Number(n) || 0;
-  return '£' + v.toFixed(2);
+  // Thousands separators, always 2dp, keep a leading minus outside the £.
+  const s = Math.abs(v).toLocaleString('en-GB', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  return (v < 0 ? '-£' : '£') + s;
 }
 
 // --- the weekly £50 pot -----------------------------------------------------
@@ -151,14 +153,23 @@ export function monthlyBreakdown(data, monthDate) {
   const fixed = rows.filter(r => r.type === 'fixed').reduce((s, r) => s + r.budget, 0);
   const savingsTarget = (rows.find(r => r.type === 'savings') || {}).budget || 0;
 
+  // Planned buffer (the untouched safety net): everything left after income minus every
+  // budgeted pound (fixed + subs + all flexible incl. savings). Auto-updates with budgets.
+  const income = data.meta.monthlyIncome || 0;
+  const allBudgets = cats.reduce((s, c) => s + (c.budget || 0), 0);
+  const plannedBuffer = Math.round((income - allBudgets) * 100) / 100;
+
   return {
     rows,
     loggedOut: Math.round(loggedOut * 100) / 100,
     savings: Math.round(savings * 100) / 100,
     savingsTarget,
+    savingsAnnual: savingsTarget * 12,
     savingsHit: savingsTarget > 0 && savings >= savingsTarget,
-    fixed,
-    income: data.meta.monthlyIncome || 0,
+    fixed: Math.round(fixed * 100) / 100,
+    income,
+    incomeItems: data.meta.incomeItems || [],
+    plannedBuffer,
     totalOut: Math.round((loggedOut + savings + fixed) * 100) / 100
   };
 }
