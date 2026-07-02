@@ -53,8 +53,62 @@ export function weekOfMonth(date) {
 
 const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June',
   'July', 'August', 'September', 'October', 'November', 'December'];
+const MONTHS_SHORT = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 export function monthLabel(date) { return `${MONTHS[date.getMonth()]} ${date.getFullYear()}`; }
 export function monthKey(date) { return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`; }
+
+// --- pay-period (budget cycle) ----------------------------------------------
+//
+// The budget runs from one payday to the day before the next (e.g. 25th → 24th),
+// not the calendar month. `payDay` is the day of the month you're paid. A payDay of
+// 1 makes a period identical to a calendar month, so all the calendar-month behaviour
+// is just the special case payDay = 1.
+
+export function getPayDay(meta) {
+  const p = meta && Number(meta.payDay);
+  return (p >= 1 && p <= 31) ? Math.floor(p) : 1;
+}
+
+// Clamp a day to the last valid day of that month (so payDay 31 works in February).
+function clampDay(y, m, day) { return Math.min(day, new Date(y, m + 1, 0).getDate()); }
+
+// The payday that starts the period `date` falls in.
+export function periodStart(date, payDay) {
+  const y = date.getFullYear(), m = date.getMonth();
+  if (date.getDate() >= clampDay(y, m, payDay)) return new Date(y, m, clampDay(y, m, payDay));
+  return new Date(y, m - 1, clampDay(y, m - 1, payDay)); // previous month's payday
+}
+
+// The last day of the period that begins at `start` (day before the next payday).
+export function periodEnd(start, payDay) {
+  const ny = start.getFullYear(), nm = start.getMonth() + 1;
+  return addDays(new Date(ny, nm, clampDay(ny, nm, payDay)), -1);
+}
+
+export function samePeriod(a, b, payDay) {
+  return isoDate(periodStart(a, payDay)) === isoDate(periodStart(b, payDay));
+}
+
+// Move `delta` whole periods from a period-start date.
+export function shiftPeriod(start, delta, payDay) {
+  const t = new Date(start.getFullYear(), start.getMonth() + delta, 1);
+  return new Date(t.getFullYear(), t.getMonth(), clampDay(t.getFullYear(), t.getMonth(), payDay));
+}
+
+// Friendly range label, e.g. "25 Jun – 24 Jul 2026".
+export function periodLabel(start, payDay) {
+  const end = periodEnd(start, payDay);
+  const s = `${start.getDate()} ${MONTHS_SHORT[start.getMonth()]}`;
+  const e = `${end.getDate()} ${MONTHS_SHORT[end.getMonth()]} ${end.getFullYear()}`;
+  return `${s} – ${e}`;
+}
+
+// Which Monday-week of the current pay period `date` sits in (1-based).
+export function weekOfPeriod(date, payDay) {
+  const anchor = weekStart(periodStart(date, payDay));
+  const diff = Math.round((weekStart(date) - anchor) / 86400000);
+  return Math.floor(diff / 7) + 1;
+}
 
 export function money(n) {
   const v = Number(n) || 0;
@@ -68,7 +122,7 @@ export function money(n) {
 // The spending-money category gets a fresh `weeklyBudget` every Monday. Overspend
 // carries forward as debt (you feel the consequence next week); underspend does NOT
 // roll over — use it or lose it. We compute a running balance across the Monday-weeks
-// of the current calendar month so debt accumulates but surplus is dropped each week.
+// of the current pay period so debt accumulates within a cycle but resets each payday.
 
 export function spendingKey(meta) {
   const weekly = (meta.categories || []).find(c => c.type === 'weekly');
@@ -91,11 +145,11 @@ export function weeklyStatus(data, today) {
   const key = spendingKey(meta);
   const thisMonday = weekStart(today);
 
-  // Walk every Monday-week from the start of this calendar month up to (not incl.) this week,
-  // carrying only negative balances forward.
-  const monthFirstMonday = weekStart(new Date(today.getFullYear(), today.getMonth(), 1));
+  // Walk every Monday-week from the start of this pay period up to (not incl.) this week,
+  // carrying only negative balances forward (debt resets each payday).
+  const periodFirstMonday = weekStart(periodStart(today, getPayDay(meta)));
   let carry = 0;
-  for (let m = new Date(monthFirstMonday); m < thisMonday; m = addDays(m, 7)) {
+  for (let m = new Date(periodFirstMonday); m < thisMonday; m = addDays(m, 7)) {
     const bal = weekly - spentInWeek(data.entries, key, m) + carry;
     carry = Math.min(0, bal); // surplus lost, debt kept
   }
@@ -126,15 +180,17 @@ export function sunshine(status, remaining) {
   }
 }
 
-// --- monthly rollups --------------------------------------------------------
+// --- period rollups ---------------------------------------------------------
 //
-// For each category, total what was spent in the given month and compare to budget.
-export function monthlyBreakdown(data, monthDate) {
+// For each category, total what was spent in the pay period containing `withinDate`
+// and compare to budget. (payDay 1 = calendar month.)
+export function periodBreakdown(data, withinDate) {
   const cats = data.meta.categories || [];
-  const inMonth = data.entries.filter(e => sameMonth(parseDate(e.date), monthDate));
+  const payDay = getPayDay(data.meta);
+  const inPeriod = data.entries.filter(e => samePeriod(parseDate(e.date), withinDate, payDay));
 
   const rows = cats.map(c => {
-    const spent = inMonth
+    const spent = inPeriod
       .filter(e => e.category === c.key)
       .reduce((s, e) => s + (Number(e.amount) || 0), 0);
     return {
