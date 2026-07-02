@@ -7,7 +7,7 @@ import { gh } from './github.js';
 import {
   parseDate, isoDate, weekStart, addDays, money, weeklyStatus, sunshine,
   periodBreakdown, spendingKey, getPayDay, periodStart, samePeriod,
-  shiftPeriod, periodLabel, weekOfPeriod
+  shiftPeriod, periodLabel, weekOfPeriod, sortMoney
 } from './budget.js';
 
 // ---------- tiny helpers ----------
@@ -106,7 +106,8 @@ function viewHome() {
 function shortMonth(d) { return ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'][d.getMonth()]; }
 
 function loggableCats() {
-  return store.data.meta.categories.filter(c => c.type !== 'fixed');
+  // Fixed reference lines and automatic transfers (standing orders/DDs) aren't logged by hand.
+  return store.data.meta.categories.filter(c => c.type !== 'fixed' && !c.auto);
 }
 
 function viewLog() {
@@ -150,6 +151,17 @@ function viewMonth() {
 
   const flexRows = mb.rows.filter(r => r.type !== 'fixed').map(r => {
     const showBudget = r.budget > 0;
+    if (r.auto) {
+      // Automatic transfer — it always lands, so show it as done rather than a spend bar.
+      return `
+      <div class="catrow">
+        <div class="catrow-top">
+          <span class="catname">${r.emoji || '•'} ${esc(r.label)}</span>
+          <span class="catnum">${money(r.budget)} <i>auto ✓</i></span>
+        </div>
+        <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
+      </div>`;
+    }
     return `
     <div class="catrow ${r.over ? 'over' : ''}">
       <div class="catrow-top">
@@ -259,6 +271,60 @@ function prettyDate(str) {
   return `${days[d.getDay()]} ${d.getDate()} ${shortMonth(d)}`;
 }
 
+// ---------- 🧮 End-of-Month Money Sorter ----------
+function viewSorter() {
+  const s = state.sorter || (state.sorter = { balance: '', card: '' });
+  return `
+  <section class="screen sorter">
+    <h2 class="screen-title">🧮 End-of-Month Sorter</h2>
+    <p class="hint" style="margin-top:0">Payday's here — let's sort what's left. Pop in your two numbers and I'll tell you exactly where every pound goes. 💛</p>
+
+    <label class="field amount-field">
+      <span>💷 Current account balance</span>
+      <div class="amount-input"><span class="curr">£</span>
+        <input id="sortBalance" type="number" inputmode="decimal" step="0.01" min="0" placeholder="0.00" value="${esc(s.balance)}" autocomplete="off"></div>
+    </label>
+    <label class="field amount-field">
+      <span>💳 Credit card balance to clear</span>
+      <div class="amount-input"><span class="curr">£</span>
+        <input id="sortCard" type="number" inputmode="decimal" step="0.01" min="0" placeholder="0.00" value="${esc(s.card)}" autocomplete="off"></div>
+    </label>
+
+    <div id="sorterResult">${renderSorterResult()}</div>
+
+    <p class="hint">The rewards card is <b>always</b> paid in full — every purchase runs through it, so the card balance is really "how well did I stick to the £580 flex budget this month?"</p>
+  </section>`;
+}
+
+// Renders just the results block (recomputed live as the numbers change).
+function renderSorterResult() {
+  const s = state.sorter || { balance: '', card: '' };
+  if (s.balance === '' && s.card === '') return '';
+  const r = sortMoney(s.balance, s.card);
+
+  if (r.overspent) {
+    return `<div class="sort-card warn">
+      <div class="sort-tier">🫣 Overspent this month</div>
+      <p>Your card bill (${money(r.card)}) is more than what's in the account, so there's nothing to sort this time.
+      ${r.highCard ? '<b>Still pay the card in full</b> — 23% interest is nobody\'s friend.' : 'Pay what you can and go gently next month. 💛'}</p>
+    </div>`;
+  }
+
+  return `
+  <div class="sort-card ${r.tier.celebrate ? 'queen' : ''}">
+    ${r.tier.celebrate ? '<div class="queen-banner">👑 QUEEN MODE! Look at you go!! 🎉</div>' : ''}
+    <div class="sort-tier">${r.tier.emoji} ${esc(r.tier.name)} <span class="tier-split">${Math.round(r.tier.holiday * 100)}% holiday · ${Math.round(r.tier.chase * 100)}% emergency</span></div>
+
+    <div class="sort-row pay"><span>💳 Pay off credit card</span><b>${money(r.card)}</b></div>
+    ${r.highCard ? '<p class="sort-warn">⚠️ Big balance — pay it in full to dodge 23% interest.</p>' : ''}
+    <div class="sort-row"><span>🏖️ Holiday fund</span><b>${money(r.holiday)}</b></div>
+    <div class="sort-row"><span>🏦 Chase emergency fund</span><b>${money(r.chase)}</b></div>
+    <div class="sort-row keep"><span>💷 Keep in current account</span><b>${money(0)}</b></div>
+
+    <p class="sort-note">Sweep it <b>all</b> — the current account is bills money only. ✨</p>
+  </div>`;
+}
+
 function viewSettings() {
   const m = store.data.meta;
   const cat = k => m.categories.find(c => c.key === k) || {};
@@ -305,7 +371,7 @@ function viewSettings() {
 //  RENDER + ROUTER
 // =====================================================================
 
-const VIEWS = { home: viewHome, log: viewLog, month: viewMonth, history: viewHistory, settings: viewSettings };
+const VIEWS = { home: viewHome, log: viewLog, month: viewMonth, history: viewHistory, sorter: viewSorter, settings: viewSettings };
 
 function render() {
   if (!store.data) return;
@@ -355,11 +421,21 @@ function onAppClick(e) {
 
 // Keep the log draft in sync as the user types (so switching chips doesn't wipe input).
 function onAppInput(e) {
-  if (state.view !== 'log') return;
-  const d = state.logDraft;
-  if (e.target.id === 'logAmount') d.amount = e.target.value;
-  if (e.target.id === 'logNote') d.note = e.target.value;
-  if (e.target.id === 'logDate') d.date = e.target.value;
+  if (state.view === 'log') {
+    const d = state.logDraft;
+    if (e.target.id === 'logAmount') d.amount = e.target.value;
+    if (e.target.id === 'logNote') d.note = e.target.value;
+    if (e.target.id === 'logDate') d.date = e.target.value;
+    return;
+  }
+  if (state.view === 'sorter') {
+    const s = state.sorter || (state.sorter = { balance: '', card: '' });
+    if (e.target.id === 'sortBalance') s.balance = e.target.value;
+    if (e.target.id === 'sortCard') s.card = e.target.value;
+    // Recompute just the result block so the inputs keep focus.
+    const out = $('#sorterResult');
+    if (out) out.innerHTML = renderSorterResult();
+  }
 }
 
 function onAppChange(e) {
