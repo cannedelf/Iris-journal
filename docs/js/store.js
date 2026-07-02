@@ -89,18 +89,28 @@ export const store = {
 
     if (!gh.configured) return { saved: false, reason: 'no-token' };
 
-    try {
-      // Make sure we have the file's current SHA (load may have come from a fallback).
-      if (!this.sha) { const ex = await gh.getFile(DATA_PATH); this.sha = ex && ex.sha; }
-      const json = JSON.stringify(this.data, null, 2);
-      this.sha = await gh.putFile(DATA_PATH, toBase64(json), message, this.sha);
-      this.dirty = false;
-      localStorage.setItem(LS_DIRTY, '0');
-      this._emit();
-      return { saved: true };
-    } catch (e) {
-      console.error('Auto-save failed:', e);
-      return { saved: false, reason: 'error', error: e };
+    const json = JSON.stringify(this.data, null, 2);
+    // Try up to 3 times. A SHA conflict means the file moved under us (e.g. another
+    // auto-save landed first) — re-sync the latest SHA and retry, so saves never get
+    // silently dropped. There's one in-memory copy of the data, so re-writing it is
+    // safe (last write = the complete current state, not a partial overwrite).
+    for (let attempt = 0; attempt < 3; attempt++) {
+      try {
+        if (!this.sha) { const ex = await gh.getFile(DATA_PATH); this.sha = ex && ex.sha; }
+        this.sha = await gh.putFile(DATA_PATH, toBase64(json), message, this.sha);
+        this.dirty = false;
+        localStorage.setItem(LS_DIRTY, '0');
+        this._emit();
+        return { saved: true };
+      } catch (e) {
+        const conflict = /\((409|422)\)/.test(String(e && e.message));
+        if (conflict && attempt < 2) {
+          try { const ex = await gh.getFile(DATA_PATH); this.sha = ex && ex.sha; } catch (_) { this.sha = null; }
+          continue; // retry with the fresh SHA
+        }
+        console.error('Auto-save failed:', e);
+        return { saved: false, reason: 'error', error: e };
+      }
     }
   },
 

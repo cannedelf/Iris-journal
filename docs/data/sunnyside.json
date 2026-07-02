@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "neighbourhood": "Sunnyside",
-    "updated": "2026-06-24",
+    "updated": "2026-06-27",
     "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub.",
     "eyeColours": [
       {
@@ -148,13 +148,13 @@
       }
     },
     {
-      "id": "music_room",
-      "name": "The Music Room",
-      "emoji": "🎹",
-      "location": "Sunnyside, road between Sunshine Cottage and the shops",
-      "features": "Converted mill, piano, windmill next door",
+      "id": "the_foundation",
+      "name": "The Foundation",
+      "emoji": "🏗️",
+      "location": "Sunnyside",
+      "features": "Converted mill. Stone walls, dark wood, teal bench courtyard, detached workshop with robotics station. Sage green nursery. Butterfly bedroom. Pickup truck in the drive.",
       "movedIn": "2026-06-16",
-      "daysThisRotation": 0,
+      "daysThisRotation": 3,
       "layout": {
         "cols": 20,
         "rows": 30,
@@ -162,13 +162,13 @@
       }
     },
     {
-      "id": "storm_and_wrench",
-      "name": "Storm and Wrench",
-      "emoji": "🌩️",
+      "id": "the_observatory",
+      "name": "The Observatory",
+      "emoji": "🔭",
       "location": "Sunnyside",
-      "features": "Dark Nordic house, telescope, robotics bench, fish tank",
+      "features": "Where a storm cloud watches the sky his son fell out of and calls it science.",
       "movedIn": "2026-06-17",
-      "daysThisRotation": 0
+      "daysThisRotation": 3
     },
     {
       "id": "the_flat",
@@ -672,7 +672,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/iris.png",
       "aspiration": "Popularity",
       "secondaryAspiration": "Family (hoped)",
       "lifetimeWant": "Make 20 Simultaneous Pet Best Friends",
@@ -985,12 +985,12 @@
       "display": "Søren",
       "emoji": "🌩️",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_observatory",
       "preMarriageName": "",
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/soren.png",
       "aspiration": "Knowledge",
       "secondaryAspiration": "Family (hoped)",
       "lifetimeWant": "Become Mad Scientist",
@@ -1009,8 +1009,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Science",
-        "levelName": "Field Researcher",
-        "level": 4,
+        "levelName": "Project Leader",
+        "level": 5,
         "top": "Mad Scientist",
         "degree": "Philosophy"
       },
@@ -1122,6 +1122,21 @@
           "rotation": "R4",
           "event": "Three bolts with Clara",
           "notes": "Kiss on the porch. Spring."
+        },
+        {
+          "rotation": "R5",
+          "event": "Promoted to Project Leader",
+          "notes": "Two promotions in one rotation. Used experimental rocket fuel. The coworkers doubted him. They were wrong."
+        },
+        {
+          "rotation": "R5",
+          "event": "First night as a single dad",
+          "notes": "Cassian escaped his crib at 3am. Found him on the floor with his teddy. Picked him up. Said nothing."
+        },
+        {
+          "rotation": "R5",
+          "event": "Taught Cassian to walk and talk",
+          "notes": "Came home from his promotion and got on the floor with his son. Called it educational necessity. Meant I love you."
         }
       ],
       "bornRotation": 1,
@@ -1131,7 +1146,8 @@
       "yellowBow": false,
       "adopted": false,
       "badges": {},
-      "townElder": true
+      "townElder": true,
+      "glasses": false
     },
     {
       "id": "wrench",
@@ -1140,12 +1156,12 @@
       "display": "Wrench",
       "emoji": "🔧",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_foundation",
       "preMarriageName": "",
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/wrench.png",
       "aspiration": "Fortune",
       "secondaryAspiration": "Knowledge (hoped)",
       "lifetimeWant": "Become City Planner",
@@ -1197,8 +1213,10 @@
       "partners": [
         {
           "id": "andrea",
-          "status": "Engaged",
-          "bolts": 2
+          "status": "Married",
+          "bolts": 2,
+          "weddingRotation": 5,
+          "weddingDay": 1
         }
       ],
       "relationships": [
@@ -1258,6 +1276,21 @@
           "rotation": "R4",
           "event": "Bronze Robotics Badge",
           "notes": "Can build RoverBots!"
+        },
+        {
+          "rotation": "R5",
+          "event": "Married Andrea at St Sunshine's Chapel",
+          "notes": "The second Sunnyside wedding, the first at the chapel. He wore brown. She wore red. Sim Iris was already there."
+        },
+        {
+          "rotation": "R5",
+          "event": "Ratchet born!",
+          "notes": "His first son. Green eyes from Andrea. Blue overalls. The builder held his boy in a work vest and the matching was immediate."
+        },
+        {
+          "rotation": "R5",
+          "event": "First night at The Foundation",
+          "notes": "Workshop at night. Mechanical skill. Dog at his feet. Baby asleep. Wife saving the country."
         }
       ],
       "badges": {
@@ -1284,7 +1317,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/liv.png",
       "aspiration": "Family",
       "secondaryAspiration": "Popularity (hoped)",
       "lifetimeWant": "Graduate 3 Children from College",
@@ -1394,6 +1427,16 @@
           "rotation": "R4",
           "event": "ENGAGED to Fourth",
           "notes": "He proposed at the teal arched door in his best suit. She said YES!"
+        },
+        {
+          "rotation": "R5",
+          "event": "Married Fourth at St Sunshine's Chapel!",
+          "notes": "Liv Hill became Liv Frisbee. Second wedding at the chapel. Best surname wins."
+        },
+        {
+          "rotation": "R5",
+          "event": "Posey born!",
+          "notes": "First Frisbee baby. A flower for a flower name. Green eyes and glasses like mum."
         }
       ],
       "type": "Human",
@@ -1416,12 +1459,12 @@
       "display": "Cassian",
       "emoji": "💚",
       "family": "hill",
-      "household": "storm_and_wrench",
+      "household": "the_observatory",
       "preMarriageName": "",
       "lifeStage": "Toddler",
       "daysRemaining": null,
       "generation": "Gen 2",
-      "photo": null,
+      "photo": "photos/cassian.png",
       "aspiration": "",
       "secondaryAspiration": "",
       "lifetimeWant": "",
@@ -1505,6 +1548,11 @@
           "rotation": "R4",
           "event": "Aged up to Toddler",
           "notes": "Kitchen fire happening simultaneously. Classic Storm and Wrench."
+        },
+        {
+          "rotation": "R5",
+          "event": "Learned all toddler skills!",
+          "notes": "Potty by Uncle Wrench, walking and talking by Dad. First word: Up. Escaped crib at 3am to play with teddy. Space shirt. Dark alien eyes. Nice 0 but hugs his bear."
         }
       ],
       "yellowBow": false,
@@ -1519,7 +1567,14 @@
         "firstWord": "Up",
         "firstWordNote": "Not asking. Telling. Active 10 Nice 0 says UP. And the parent he will never meet came from up there."
       },
-      "firstWord": "Up!"
+      "firstWord": "Up",
+      "gallery": [
+        {
+          "src": "photos/cassian-0krzr7.png",
+          "caption": "Cassians little face",
+          "rotation": 5
+        }
+      ]
     },
     {
       "id": "awiddle",
@@ -1533,7 +1588,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/awiddle.png",
       "aspiration": "Popularity",
       "secondaryAspiration": "Pleasure (hoped)",
       "lifetimeWant": "Become Prestidigitator",
@@ -1658,7 +1713,9 @@
       "adopted": false,
       "badges": {},
       "bornRotation": 1,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "glasses": false
     },
     {
       "id": "fourth",
@@ -1672,7 +1729,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/fourth.png",
       "aspiration": "Knowledge",
       "secondaryAspiration": "Fortune (hoped)",
       "lifetimeWant": "Max Out 7 Skills",
@@ -1724,8 +1781,10 @@
       "partners": [
         {
           "id": "liv",
-          "status": "Engaged",
-          "bolts": null
+          "status": "Married",
+          "bolts": null,
+          "weddingRotation": 5,
+          "weddingDay": 3
         }
       ],
       "relationships": [
@@ -1787,6 +1846,16 @@
           "rotation": "R4",
           "event": "Proposed to Sim Liv at the teal arched door",
           "notes": "In his proper clothes. She said YES!"
+        },
+        {
+          "rotation": "R5",
+          "event": "Married Sim Liv at St Sunshine's Chapel!",
+          "notes": "She swept him off his feet. Pink petals. He took her name. She took his."
+        },
+        {
+          "rotation": "R5",
+          "event": "Posey born!",
+          "notes": "His first daughter. She has his glasses and his hair and her mother's everything else."
         }
       ],
       "birthOrder": 3,
@@ -1797,7 +1866,8 @@
       "bornRotation": 1,
       "bornDay": 1,
       "cas": false,
-      "glasses": true
+      "glasses": true,
+      "hairTexture": "Straight"
     },
     {
       "id": "stillhere",
@@ -1930,7 +2000,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/idris.png",
       "aspiration": "Popularity",
       "secondaryAspiration": "",
       "lifetimeWant": "20 Best Friends",
@@ -1949,8 +2019,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "Medicine",
-        "level": 3,
         "levelName": "",
+        "level": 3,
         "top": "Chief of Staff",
         "degree": "History"
       },
@@ -2009,7 +2079,13 @@
         "items": []
       },
       "bornRotation": 4,
-      "bornDay": 1
+      "bornDay": 1,
+      "cas": false,
+      "glasses": false,
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "clara",
@@ -2023,7 +2099,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/clara.png",
       "aspiration": "Family",
       "secondaryAspiration": "Knowledge",
       "lifetimeWant": "Raise 20 Puppies or Kittens",
@@ -2130,16 +2206,16 @@
       "name": "Andrea Hill",
       "display": "Andrea",
       "emoji": "💍",
-      "family": "townie",
-      "household": "",
+      "family": "hill",
+      "household": "the_foundation",
       "preMarriageName": "Andrea Hogan",
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/andrea.png",
       "aspiration": "Fortune",
       "secondaryAspiration": "",
-      "lifetimeWant": "",
+      "lifetimeWant": "Become Head of SCIA",
       "starSign": "Capricorn",
       "personality": {
         "neat": 7,
@@ -2158,7 +2234,7 @@
         "levelName": "Projectionist",
         "level": 6,
         "top": "",
-        "degree": ""
+        "degree": "Political Science"
       },
       "skills": {
         "cooking": 2,
@@ -2185,8 +2261,10 @@
       "partners": [
         {
           "id": "wrench",
-          "status": "Engaged",
-          "bolts": 2
+          "status": "Married",
+          "bolts": 2,
+          "weddingRotation": 5,
+          "weddingDay": 1
         }
       ],
       "relationships": [
@@ -2207,14 +2285,36 @@
       "fears": [],
       "car": "",
       "carNotes": "",
-      "moments": [],
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "Married Wrench at St Sunshine's Chapel",
+          "notes": "Her first recorded moment. She wore red. The chapel was full of Hills and Rainbows and love."
+        },
+        {
+          "rotation": "R5",
+          "event": "Ratchet born!",
+          "notes": "Green eyes from mum again. The fire took the first save but the baby came back. Different order, same love."
+        },
+        {
+          "rotation": "R5",
+          "event": "Adopted Toggle!",
+          "notes": "Chocolate lab, Libra, doofus, friendly, slightly messy. Andrea's girl. Pink collar. The Foundation is complete."
+        },
+        {
+          "rotation": "R5",
+          "event": "Wants to write a novel",
+          "notes": "A spy who writes fiction. Nobody will know it is all real."
+        }
+      ],
       "cas": false,
       "type": "Human",
       "yellowBow": false,
       "adopted": false,
       "badges": {},
       "glasses": false,
-      "hairTexture": "Coily"
+      "hairTexture": "Coily",
+      "oneLiner": "Wore red to her wedding. Wants to run the secret service. Plants flowers as a cover story."
     },
     {
       "id": "armando",
@@ -2228,7 +2328,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/armando.png",
       "aspiration": "",
       "secondaryAspiration": "",
       "lifetimeWant": "",
@@ -2298,7 +2398,8 @@
       "type": "Human",
       "yellowBow": false,
       "adopted": false,
-      "badges": {}
+      "badges": {},
+      "glasses": false
     },
     {
       "id": "benjamin",
@@ -2312,17 +2413,17 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
-      "aspiration": "",
+      "photo": "photos/benjamin.png",
+      "aspiration": "Fortune",
       "secondaryAspiration": "",
       "lifetimeWant": "",
-      "starSign": "",
+      "starSign": "Capricorn",
       "personality": {
-        "neat": null,
-        "outgoing": null,
-        "active": null,
-        "playful": null,
-        "nice": null
+        "neat": 5,
+        "outgoing": 6,
+        "active": 5,
+        "playful": 6,
+        "nice": 3
       },
       "turnOn1": "",
       "turnOn2": "",
@@ -2331,8 +2432,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "",
-        "level": null,
         "levelName": "",
+        "level": null,
         "top": "",
         "degree": ""
       },
@@ -2347,9 +2448,9 @@
       },
       "genetics": {
         "hairVisible": "Ginger",
-        "hairHidden": "",
+        "hairHidden": "Ginger",
         "eyesVisible": "Green",
-        "eyesHidden": "",
+        "eyesHidden": "Green",
         "skin": "",
         "freckles": "",
         "notable": "Yellow striped jacket",
@@ -2377,7 +2478,14 @@
       "fears": [],
       "car": "",
       "carNotes": "",
-      "moments": []
+      "moments": [],
+      "cas": false,
+      "glasses": false,
+      "hairTexture": "Straight",
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "ptn83",
@@ -2393,17 +2501,17 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 0",
-      "photo": null,
+      "photo": "photos/ptn83.png",
       "aspiration": "",
       "secondaryAspiration": "",
       "lifetimeWant": "",
       "starSign": "",
       "personality": {
-        "neat": null,
-        "outgoing": null,
-        "active": null,
-        "playful": null,
-        "nice": null
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
       },
       "turnOn1": "",
       "turnOn2": "",
@@ -2412,8 +2520,8 @@
       "bodyFrame": "Male",
       "career": {
         "track": "",
-        "level": null,
         "levelName": "",
+        "level": null,
         "top": "",
         "degree": ""
       },
@@ -2459,7 +2567,11 @@
       "car": "",
       "carNotes": "",
       "moments": [],
-      "cas": true
+      "cas": true,
+      "glasses": false,
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {}
     },
     {
       "id": "acorn",
@@ -2571,7 +2683,7 @@
       "lifeStage": "Baby",
       "daysRemaining": 0,
       "generation": "Gen 2",
-      "photo": "",
+      "photo": "photos/kofi.png",
       "aspiration": "",
       "secondaryAspiration": "",
       "lifetimeWant": "",
@@ -2641,6 +2753,142 @@
       "glasses": true,
       "hairTexture": "Curly",
       "badges": {}
+    },
+    {
+      "id": "ratchet",
+      "kind": "sim",
+      "name": "Ratchet Hill",
+      "display": "Ratchet",
+      "emoji": "⚙️",
+      "family": "hill",
+      "household": "the_foundation",
+      "generation": "Gen 2",
+      "lifeStage": "Baby",
+      "preMarriageName": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "oneLiner": "The tool that only turns forward",
+      "aspiration": "",
+      "starSign": "",
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
+      "parents": [
+        "wrench",
+        "andrea"
+      ],
+      "birthOrder": 1,
+      "partners": [],
+      "relationships": [],
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "Born!",
+          "notes": "Green eyes from mum. Blue overalls from day one. The fire changed the order but not the story. Ratchet came first so Dolly could have a big brother."
+        }
+      ],
+      "bornRotation": 5,
+      "bornDay": 2,
+      "glasses": false,
+      "genetics": {
+        "hairVisible": "",
+        "hairHidden": "",
+        "eyesVisible": "Green",
+        "eyesHidden": "",
+        "skin": "",
+        "freckles": "",
+        "notable": "Andrea's green eyes, Wrench's curly hair",
+        "fromMum": "Green eyes",
+        "fromDad": "Curly hair",
+        "notes": ""
+      },
+      "cas": false,
+      "yellowBow": false,
+      "adopted": false,
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "",
+      "career": {
+        "track": "",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {
+        "cooking": 0,
+        "mechanical": 0,
+        "charisma": 0,
+        "body": 0,
+        "logic": 0,
+        "creativity": 0,
+        "cleaning": 0
+      },
+      "car": "",
+      "carNotes": "",
+      "lockedWants": [],
+      "fears": [],
+      "badges": {},
+      "photo": "photos/ratchet.png",
+      "hairTexture": "Curly"
+    },
+    {
+      "id": "posey",
+      "kind": "sim",
+      "name": "Posey Frisbee",
+      "display": "Posey",
+      "emoji": "🌼",
+      "family": "frisbee",
+      "household": "pebble_house",
+      "generation": "Gen 2",
+      "lifeStage": "Baby",
+      "preMarriageName": "",
+      "daysRemaining": null,
+      "type": "Human",
+      "oneLiner": "A bunch of wildflowers tied together with love",
+      "aspiration": "",
+      "starSign": "",
+      "personality": {},
+      "parents": [
+        "fourth",
+        "liv"
+      ],
+      "birthOrder": 1,
+      "partners": [],
+      "relationships": [],
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "Born!",
+          "notes": "First Frisbee daughter. Green eyes from both parents. Straight hair from dad. Glasses from the whole family. Born the same day her parents married at St Sunshine's Chapel."
+        }
+      ],
+      "bornRotation": 5,
+      "bornDay": 3,
+      "firstWord": "",
+      "glasses": true,
+      "hairTexture": "Straight",
+      "handedness": "",
+      "genetics": {
+        "hairVisible": "",
+        "hairHidden": "",
+        "eyesVisible": "Green",
+        "eyesHidden": "",
+        "skin": "",
+        "freckles": "",
+        "notable": "Green eyes from both parents, glasses from both parents, straight hair from Fourth",
+        "fromMum": "Green eyes, glasses",
+        "fromDad": "Straight hair, glasses, green eyes",
+        "notes": ""
+      }
     }
   ],
   "pets": [
@@ -2847,6 +3095,35 @@
           "notes": "Like it had personally offended her."
         }
       ]
+    },
+    {
+      "id": "toggle",
+      "name": "Toggle",
+      "emoji": "🐶",
+      "species": "Dog",
+      "breed": "Chocolate Labrador",
+      "ownerId": "andrea",
+      "household": "the_foundation",
+      "starSign": "Libra",
+      "collar": "Pink!!",
+      "personality": [
+        "Slightly doofus",
+        "Middle energy",
+        "Full friendly",
+        "Middle brave",
+        "Slightly pigpen"
+      ],
+      "kibbled": false,
+      "kibbledNote": "",
+      "petBestFriend": false,
+      "petBestFriendNote": "",
+      "photo": null,
+      "moments": [
+        {
+          "event": "Adopted from the pet store!",
+          "notes": "Andrea wanted her. Chocolate lab, pink collar, runs on wood floors that match her fur. The fastener that holds The Foundation together."
+        }
+      ]
     }
   ],
   "babyNames": [
@@ -2922,7 +3199,7 @@
           "name": "Ratchet",
           "emoji": "⚙️",
           "note": "🔧 secret tool!",
-          "used": false
+          "used": true
         },
         {
           "name": "Rivet",
@@ -2946,7 +3223,7 @@
           "name": "Posey",
           "emoji": "🌼",
           "note": "Liv’s pick",
-          "used": false
+          "used": true
         },
         {
           "name": "Page",
@@ -3038,7 +3315,7 @@
       "name": "St Sunshine’s Chapel",
       "emoji": "⛪",
       "status": "Wedding Ready",
-      "notes": "Lavender, fairy lights, warm wood!!"
+      "notes": "Lavender, fairy lights, warm wood!! First wedding: Wrench & Andrea, R5 Day 1!"
     },
     {
       "name": "The Sunflower Diner",
