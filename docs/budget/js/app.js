@@ -385,7 +385,7 @@ function viewSorter() {
 
     <div id="sorterResult">${renderSorterResult()}</div>
 
-    <p class="hint">The rewards card is <b>always</b> paid in full — every purchase runs through it, so the card balance is really "how well did I stick to the £580 flex budget this month?"</p>
+    <p class="hint">Your tier is set by your <b>true leftover</b> (what's left after clearing the card) — not by how much you spent. A big month can still be a <i>fine</i> month. 💛 The card is <b>always</b> paid in full.</p>
   </section>`;
 }
 
@@ -407,6 +407,7 @@ function renderSorterResult() {
   <div class="sort-card ${r.tier.celebrate ? 'queen' : ''}">
     ${r.tier.celebrate ? '<div class="queen-banner">👑 QUEEN MODE! Look at you go!! 🎉</div>' : ''}
     <div class="sort-tier">${r.tier.emoji} ${esc(r.tier.name)} <span class="tier-split">${Math.round(r.tier.holiday * 100)}% holiday · ${Math.round(r.tier.chase * 100)}% emergency</span></div>
+    <p class="sort-leftover">✨ True leftover: <b>${money(r.remainder)}</b> <span>— that's what sets your tier</span></p>
 
     <div class="sort-row pay"><span>💳 Pay off credit card</span><b>${money(r.card)}</b></div>
     ${r.highCard ? '<p class="sort-warn">⚠️ Big balance — pay it in full to dodge 23% interest.</p>' : ''}
