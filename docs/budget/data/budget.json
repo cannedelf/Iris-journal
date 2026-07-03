@@ -18,42 +18,12 @@
       }
     ],
     "funds": {
-      "emergency": {
-        "label": "Emergency Fund",
-        "emoji": "🎯",
-        "target": 3850,
-        "balance": 100,
-        "monthly": 130,
-        "startDate": "2026-07-02",
-        "note": "3 months of bills — minimum"
-      },
-      "holiday": {
-        "label": "Holiday Fund",
-        "emoji": "🏖️",
-        "balance": 0,
-        "note": "Fed by the sorter + Widdle repayments"
-      }
+      "emergency": { "label": "Emergency Fund", "emoji": "🎯", "target": 3850, "balance": 100, "monthly": 130, "startDate": "2026-07-02", "note": "3 months of bills — minimum" },
+      "holiday": { "label": "Holiday Fund", "emoji": "🏖️", "balance": 0, "note": "Fed by the sorter + Widdle repayments" }
     },
     "debts": {
-      "widdle": {
-        "label": "Widdle",
-        "emoji": "🍊",
-        "total": 739,
-        "payments": [
-          {
-            "date": "2026-04-30",
-            "amount": 100
-          }
-        ],
-        "note": "Repayments go into the holiday fund"
-      },
-      "novuna": {
-        "label": "Novuna Kitchen Loan",
-        "emoji": "🏠",
-        "monthly": 194.14,
-        "endDate": "2028-10-14",
-        "note": "When it ends: £194/month free!"
-      }
+      "widdle": { "label": "Widdle", "emoji": "🍊", "total": 739, "payments": [ { "date": "2026-04-30", "amount": 100 } ], "note": "Repayments go into the holiday fund" },
+      "novuna": { "label": "Novuna Kitchen Loan", "emoji": "🏠", "monthly": 194.14, "endDate": "2028-10-14", "note": "When it ends: £194/month free!" }
     },
     "cardHistory": [],
     "categories": [

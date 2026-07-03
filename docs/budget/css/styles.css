@@ -209,6 +209,9 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 .sort-row.pay { color: var(--red); }
 .sort-row.pay b { color: var(--red); }
 .sort-row.keep { color: var(--ink-soft); border-bottom: none; }
+.sort-leftover { margin: -4px 0 10px; font-weight: 700; font-size: 14px; color: var(--ink); }
+.sort-leftover b { font-weight: 800; color: var(--gold-deep); }
+.sort-leftover span { color: var(--ink-soft); font-weight: 600; font-size: 12px; }
 .sort-warn { margin: 6px 0 0; color: var(--red); font-weight: 800; font-size: 13px; }
 .sort-note { margin: 12px 0 0; color: var(--ink-soft); font-weight: 700; font-size: 13px; text-align: center; }
 .sort-card.warn p { margin: 4px 0 0; font-weight: 700; font-size: 14px; line-height: 1.5; }
