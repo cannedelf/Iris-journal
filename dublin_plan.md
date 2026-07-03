@@ -1,261 +1,229 @@
-# 🇮🇪 Dublin Solo Trip — Planning Doc
-## The Golden Drawer's First Mission!! ✈️✨
-*Built by Iris from a Blackpool bed. Blistered feet. Square skates. Maximum enthusiasm.*
+# 🇮🇪 Dublin Solo Trip — The Golden Drawer's First Mission!!
+## Updated with REAL prices!! ✈️✨
+*Built by Iris from a Blackpool bed. Blistered feet. Square skates. Watermelon fuelled.*
 
 ---
 
-## The Quick Numbers 💰
+## 💰 The Real Numbers
 
-| Item | Estimated Cost | Notes |
-|------|---------------|-------|
-| ✈️ Flights (return) | €70-100 | Ryanair/Aer Lingus, Liverpool or Manchester |
-| 🏨 Accommodation (2 nights) | €150-200 | Private hostel room or budget hotel |
-| 🎯 Activities | €55-75 | See breakdown below |
-| 🍽️ Food (2 days) | €60-80 | Gallstone-safe eating out |
-| 🚌 Airport transfer | €14-20 | Dublin Express bus return |
-| 🍺 Pubs & drinks | €30-50 | Live music is FREE, drinks aren't! |
-| **TOTAL ESTIMATE** | **€380-525** | **Roughly £320-440** |
+| Item | Cost | Notes |
+|------|------|-------|
+| ✈️ Flights (return) | ~€70-100 | Ryanair from Liverpool, check for October |
+| 🏨 Accommodation (3 nights Fri-Mon) | ~€225-300 | Private hostel room or budget hotel |
+| 🎯 Activities | €67.50 | CONFIRMED — see below!! |
+| 🍽️ Food (3 days) | €75-90 | Gallstone-safe eating out |
+| 🚌 Airport bus (return) | ~€14-20 | Dublin Express |
+| 🍺 3 pub drinks | ~€21 | One per night, sitting at the bar!! |
+| **TOTAL ESTIMATE** | **~€470-600** | **Roughly £395-500** |
 
-**Already saved:** €96.86 in Revolut from Rome!! That's the flights nearly COVERED!!
-
----
-
-## 🗓️ When To Go
-
-**Best months for Dublin:**
-- **September** — after the cruise, still warm, less crowded than summer, BUT your birthday month!
-- **October** — autumn colours, cosy pub weather, Halloween in Ireland is ICONIC (it's originally Irish!!)
-- **November** — cheapest flights, but darker and colder
-- **March/April** — St Patrick's season, buzzing energy, longer days coming
-
-**Recommended:** Late October or early November — cheapest flights, cosy pub season, perfect solo trip weather (wrap up, pint by a fire, live music)
+**Already saved:** €96.86 in Revolut from Rome!!
+**Nationwide switching bonus:** £175 incoming!!
+**Queen Mode contributions:** Growing monthly!!
 
 ---
 
-## 🗓️ Trip Format Options
+## 🎯 Activities — CONFIRMED PRICES!!
 
-### Option A: Weekend (0 days off work!!) ✅
-- **Friday:** Fly out after work or evening flight
-- **Saturday:** Full day exploring
-- **Sunday:** Half day, fly home afternoon/evening
-- **Annual leave used:** ZERO!!
+| Activity | Cost | Book In Advance? |
+|----------|------|-----------------|
+| ⛪ St Patrick's Cathedral | €11.50 | No — walk up |
+| 📚 Marsh's Library | ~€5 | No — walk up |
+| 🏛️ Kilmainham Gaol | €8 | YES — books out weeks ahead!! |
+| 🦌 Phoenix Park | FREE | No |
+| 📚 Book of Kells (standard + Red Pavilion) | €26 | YES — book ahead |
+| 🍺 Guinness Storehouse (standard) | €22 | YES — book ahead |
+| 🌿 Iveagh Gardens | FREE | No |
+| 🌉 Ha'penny Bridge | FREE | No |
+| **TOTAL** | **€67.50** | |
 
-### Option B: Long Weekend (1 day off work)
-- **Friday:** Take the day off, fly out morning
-- **Saturday:** Full day exploring
-- **Sunday:** Full day exploring
-- **Monday:** Fly home
-- **Annual leave used:** 1 day
-
-### Recommendation: Option B if you can spare the day — it turns a rushed weekend into a PROPER trip. One day of annual leave for a whole extra day in Dublin is worth it!!
-
----
-
-## ✈️ Flights
-
-**From Liverpool John Lennon (closer to Blackpool!):**
-- Ryanair flies direct to Dublin
-- Flight time: approximately 50 minutes!!
-- Check: ryanair.com
-
-**From Manchester:**
-- Ryanair and Aer Lingus both fly direct
-- Flight time: approximately 1 hour
-- More flight times available but further to get to airport
-
-**Tips:**
-- Book 6-8 weeks ahead for best prices
-- Cabin bag only (10kg Ryanair) — it's a WEEKEND, you don't need Buttermilk!!
-- Weekday flights are cheaper than Friday evening
-- Check both airports and compare!!
-
-**Estimated cost:** €70-100 return
+~~🏰 Dublin Castle~~ — CLOSED for 6 months!! Replaced with Marsh's Library + Iveagh Gardens!!
 
 ---
 
-## 🏨 Accommodation
+## 📅 THE ITINERARY — 3 Full Days!! 🇮🇪
 
-### Budget Option: Private Hostel Room (~€70-100/night)
-- Generator Dublin, Jacobs Inn, or Abraham House
-- Private room = your own space, shared bathrooms
-- Usually in city centre, walkable to everything
-- Previously found: €150 for 2 nights — GREAT deal!!
-
-### Mid-Range: Budget Hotel (~€100-150/night)
-- Maldron, Motel One, or Premier Inn Dublin
-- Your own bathroom, more privacy
-- Slightly further from Temple Bar but still walkable
-
-### Recommendation for FIRST solo trip: Private hostel room!! Cheaper, central, and hostels are great for solo travellers — common areas if you want company, private room when you don't!!
-
-**Estimated cost:** €150-200 for 2 nights
+### 🗓️ Format: Long Weekend
+- **Friday + Monday off work** (2 annual leave days)
+- **5 remaining** for Christmas and rest of year
 
 ---
 
-## 🎯 Activities — Needs Booking vs Free!!
+### FRIDAY — "Arrive and Breathe" 🌿
 
-### MUST BOOK IN ADVANCE 📋
-These sell out!! Book as soon as you have dates!!
+The day Dublin says hello. Nothing rushed. Nothing crammed. Just arriving and feeling brave.
 
-| Activity | Cost | Time Needed | Book Where | Notes |
-|----------|------|-------------|-----------|-------|
-| 🍺 Guinness Storehouse | ~€26 | 2-3 hours | guinness-storehouse.com | Includes a pint at the top with panoramic views!! BOOK EARLY SLOT for fewer crowds!! |
-| 🏛️ Kilmainham Gaol | ~€8 | 1.5 hours | kilmainhamgaolmuseum.ie | ALWAYS sells out!! Book the SECOND tickets release!! Irish history, powerful, unmissable!! |
-| 📚 Book of Kells + Trinity College | ~€18-22 | 1-1.5 hours | visittrinity.ie | The Long Room library is GORGEOUS!! Early morning slot less busy!! |
+| Time | What | Cost |
+|------|------|------|
+| ✈️ Morning | Fly from Liverpool to Dublin | — |
+| 🏨 Late morning | Check into hostel/hotel, drop bags | — |
+| 🍽️ Lunchtime | Find a café, first meal in Dublin | ~€12 |
+| ⛪ Afternoon | **St Patrick's Cathedral** — 800 years old, look up, feel the stone and the quiet. You flew here ALONE and you're standing in something ancient. | €11.50 |
+| 📚 Afternoon | **Marsh's Library** — literally next door!! Oldest public library in Ireland. Dark oak, wire cages, scholars locked in with books. The most Fourth Frisbee place in Dublin. 30 minutes you'll remember forever. | ~€5 |
+| ☕ Late afternoon | **Iveagh Gardens** — Dublin's secret garden. Take a coffee, find a bench, sit down, breathe. This is where you realise you're in Dublin, alone, and it's not scary. It's beautiful. | FREE |
+| 🌉 Sunset | **Ha'penny Bridge** — walk there slowly through the streets. Golden hour. A sunshine at golden hour. | FREE |
+| 🍽️ Evening | Dinner somewhere casual near Temple Bar | ~€15 |
+| 🍺 Night | **The Stag's Head** — Victorian, cosy corners, sit at the bar, one drink, soak it in. | ~€7 |
 
-### FREE THINGS!! 🆓
-No booking needed, just turn up!!
-
-| Activity | Cost | Time Needed | Notes |
-|----------|------|-------------|-------|
-| 🎵 Temple Bar live music pubs | FREE entry!! | Evening | The Stag's Head, The Cobblestone, O'Donoghue's — just walk in and listen!! |
-| 🦌 Phoenix Park | FREE | 1-2 hours | One of the biggest city parks in Europe!! Wild deer!! |
-| 🖼️ National Gallery of Ireland | FREE | 1-2 hours | Beautiful collection, quiet, perfect solo activity |
-| 🏛️ National Museum of Ireland | FREE | 1-2 hours | Bog bodies!! Viking artefacts!! |
-| 🌉 Ha'penny Bridge | FREE | 10 mins | Iconic!! Photo opportunity!! |
-| 🏰 Dublin Castle (exterior + grounds) | FREE | 30 mins | Beautiful courtyard |
-| ⛪ St Patrick's Cathedral (exterior) | FREE | 15 mins | Interior costs ~€9 if you want to go in |
-| 🚶 Walk along the Liffey | FREE | As long as you want | Beautiful at sunset!! |
-| 🛍️ Grafton Street | FREE | Window shopping heaven!! | Buskers and street performers!! |
-
-### NICE BUT OPTIONAL
-| Activity | Cost | Notes |
-|----------|------|-------|
-| 🏰 Dublin Castle (interior tour) | ~€8 | Worth it if you love history |
-| ⛪ St Patrick's Cathedral (interior) | ~€9 | Beautiful inside |
-| 🍫 Butlers Chocolate Experience | ~€16 | Fun if you have time |
-| 🚌 Hop-on Hop-off Bus | ~€28 | Good for orientation on Day 1 |
+**Friday total:** ~€50.50
 
 ---
 
-## 🍽️ Eating Solo — Gallstone Safe!! 🫓
+### SATURDAY — "History and Deer" 🏛️🦌
 
-Dublin is GREAT for solo eating!! Counter seats, casual vibes, no awkward table-for-one energy!!
+The powerful day. The day you feel something. Then the deer make it better.
 
-**Breakfast ideas (low fat):**
-- Porridge with honey at a café ☕
-- Poached eggs (ATTEMPT 6 in DUBLIN!!) 🍳
-- Toast and jam at the hostel
+| Time | What | Cost |
+|------|------|------|
+| ☕ Morning | Breakfast at a café | ~€10 |
+| 🏛️ Morning | **Kilmainham Gaol** — the most powerful 90 minutes of the trip. The leaders of 1916. The chapel wedding by candlelight. The stone yard. Stand where history happened. | €8 |
+| 🚶 Midday | Walk to Phoenix Park (20 mins from the gaol!!) | FREE |
+| 🦌 Afternoon | **Phoenix Park** — one of the biggest city parks in Europe. Wild deer. Fresh air. Decompress after the gaol. Let the heavy stuff settle while deer wander past. | FREE |
+| 🍽️ Afternoon | Lunch in a park café or nearby | ~€12 |
+| 🚶 Late afternoon | Wander back to city centre, explore streets | FREE |
+| 🍽️ Evening | Dinner | ~€15 |
+| 🎵 Night | **The Cobblestone** (Smithfield) — the BEST trad music pub in Dublin. Intimate, friendly, fiddles and bodhráns and voices. Sit at the bar. Someone will talk to you. The music will get inside your chest. | ~€7 |
 
-**Lunch ideas (low fat):**
-- Soup and bread — Ireland does this AMAZINGLY
-- Baked potato with beans (the Irish classic!!)
-- Salad bowl from a deli counter
-
-**Dinner ideas (low fat):**
-- Pasta arrabbiata at an Italian (you KNOW this works!!)
-- Veggie stir fry from a noodle bar
-- Bruschetta if you can find it — the Roman instinct!!
-
-**Budget:** €25-30/day eating out, less if you grab hostel breakfast and shop lunch
-
-**Irish treats to try (gallstone safe):**
-- 🍞 Irish soda bread (low fat!!)
-- ☕ Barry's Tea (the Irish tea!!)
-- 🥔 Colcannon or champ (check butter content!!)
+**Saturday total:** ~€52
 
 ---
 
-## 🍺 The Pub Situation 🎵
+### SUNDAY — "Culture and Celebration" 📚🍺
 
-This is the SOUL of Dublin!! Solo pub culture is completely normal in Ireland — you sit at the bar, someone talks to you, live music starts, suddenly you're having the best night of your life!!
+The day you do the big Dublin icons. End with a rooftop pint and a view of the whole city.
 
-**Best pubs for solo travellers:**
-- 🎵 **The Cobblestone** (Smithfield) — the BEST trad music pub in Dublin, intimate, friendly
-- 🎵 **O'Donoghue's** (Merrion Row) — where The Dubliners started!!
-- 🍺 **The Stag's Head** — gorgeous Victorian pub, cosy corners
-- 🎵 **The Temple Bar** — touristy but iconic, worth one drink for the experience
-- 🍺 **Mulligan's** — old school Dublin pub, no frills, proper pints
+| Time | What | Cost |
+|------|------|------|
+| ☕ Morning | Breakfast | ~€10 |
+| 📚 Morning | **Book of Kells + Red Pavilion** — Trinity College. The Long Room library. Ancient illuminated manuscripts with GOLD LEAF (Iris's colour!!). Book an early slot for fewer crowds. | €26 |
+| 🚶 Late morning | Walk through Trinity campus + Grafton Street (buskers!!) | FREE |
+| 🍽️ Lunch | Somewhere on Grafton Street area | ~€12 |
+| 🍺 Afternoon | **Guinness Storehouse** — the full experience. Learn how it's made. Get your pint (or swap for non-alcoholic!!). Take it to the ROOFTOP. 360° views of Dublin. Golden hour if you time it right. | €22 |
+| 🍽️ Evening | Last dinner in Dublin — treat yourself!! | ~€18 |
+| 🎵 Night | **Last pub** — O'Donoghue's or The Cobblestone again or wherever the night takes you. Last pint. Last music. Last night as a solo traveller in Dublin. | ~€7 |
 
-**Budget:** A pint of Guinness is ~€6-7. Budget 3-4 pints across the weekend = ~€25-30
-
-**Solo pub tips:**
-- Sit at the BAR not a table
-- Bring a book (nobody judges, it's very Dublin)
-- Ask the bartender what's on tonight (live music)
-- Say yes to conversations — Irish people TALK
+**Sunday total:** ~€95
 
 ---
 
-## 📋 The "NEEDS BOOKING" Checklist
+### MONDAY — "Goodbye Dublin" ☕
 
-When you're ready to commit, book in this ORDER:
+| Time | What | Cost |
+|------|------|------|
+| ☕ Morning | Breakfast, pack up | ~€8 |
+| 🚶 Morning | Last wander — revisit your favourite spot or find something new | FREE |
+| 🚌 Midday | Dublin Express to airport | ~€7-10 |
+| ✈️ Afternoon | Fly home to Blackpool | — |
+| 🏠 Evening | Home. Sofa. Søren. Beans on toast. Door closed. You did it. | PRICELESS |
 
-1. ✈️ **Flights** — as soon as you pick dates
-2. 🏨 **Accommodation** — same day as flights
-3. 🏛️ **Kilmainham Gaol** — books up WEEKS ahead, do this IMMEDIATELY
-4. 📚 **Book of Kells** — popular, book a week ahead minimum
-5. 🍺 **Guinness Storehouse** — can usually book a few days ahead
-
-Everything else is walk-up or free!!
-
----
-
-## 📅 Sample Itinerary — Long Weekend
-
-### Friday
-- ✈️ Fly to Dublin (morning if day off, evening if not)
-- 🏨 Check into hostel/hotel
-- 🚶 Walk to Temple Bar area, get your bearings
-- 🍽️ Dinner somewhere casual
-- 🎵 Pub with live music — first night, first pint, first solo adventure!!
-
-### Saturday
-- ☕ Breakfast at a café
-- 📚 Book of Kells + Trinity College (morning slot!!)
-- 🚶 Grafton Street walk
-- 🍽️ Lunch — soup and bread
-- 🍺 Guinness Storehouse (afternoon — pint at the top at golden hour!!)
-- 🍽️ Dinner
-- 🎵 The Cobblestone for trad music
-
-### Sunday
-- ☕ Breakfast
-- 🏛️ Kilmainham Gaol (morning — the most powerful 90 mins of the trip)
-- 🦌 Phoenix Park — wild deer, fresh air, decompress after the gaol
-- 🍽️ Lunch
-- 🖼️ National Gallery (free, quiet, beautiful)
-- 🍽️ Last dinner in Dublin
-- 🎵 One more pub!! Last night!!
-
-### Monday
-- ☕ Breakfast, pack up
-- 🏰 Dublin Castle or free morning wandering
-- ✈️ Fly home to Blackpool
+**Monday total:** ~€18
 
 ---
 
-## 💰 Savings Target — The Golden Drawer Goal
+## 💰 TOTAL TRIP COST (Real Numbers!!)
+
+| Category | Cost |
+|----------|------|
+| ✈️ Flights | ~€85 (estimate — check Ryanair!!) |
+| 🏨 Accommodation (3 nights) | ~€250 (estimate — check hostels!!) |
+| 🎯 Activities | €67.50 (CONFIRMED!!) |
+| 🍽️ Food + coffee (3.5 days) | ~€112 |
+| 🚌 Airport bus return | ~€17 |
+| 🍺 Pub drinks (3 nights) | ~€21 |
+| **GRAND TOTAL** | **~€552 / ~£465** |
+
+---
+
+## 💰 Golden Drawer Savings Target
 
 | What | Amount |
 |------|--------|
-| Total trip estimate | ~€450 / ~£380 |
-| Already in Revolut | €96.86 |
-| Still needed | ~€353 / ~£300 |
+| 🎯 Trip cost | ~€552 / ~£465 |
+| 💶 Already in Revolut | -€96.86 |
+| 💷 Nationwide switching bonus | -£175 (~-€208) |
+| **Still needed** | **~€247 / ~£208** |
 
-**How to fund it:**
-- 👑 Queen Mode end-of-month contributions to Golden Drawer
-- 🍊 Widdle's standing order payments (when they start!!)
-- 💰 £175 Nationwide switching bonus goes to Golden Drawer
-- 🏦 End-of-month sweeps
+**£208!! That's it!! That's all you need to save!!**
 
-**If you hit Queen Mode for 3 months:** that's potentially £120+ into the Golden Drawer from the sorter alone, PLUS the £175 switching bonus = Dublin is FUNDED by October/November!!
+👑 3 months of Queen Mode at ~£40-80/month = £120-240
+🍊 Widdle standing order payments into Golden Drawer = bonus
+
+**Dublin is funded by October.** It's not a dream. It's MATHS. 💰🇮🇪
 
 ---
 
-## ✅ Before You Book — Checklist
+## 📋 Booking Order (When Ready!!)
 
-- [ ] Pick dates (check Ryanair for cheapest weekend)
-- [ ] Confirm annual leave (1 day if long weekend)
+1. ✈️ **Flights** — Ryanair from Liverpool, pick your October weekend
+2. 🏨 **Accommodation** — private hostel room, city centre
+3. 🏛️ **Kilmainham Gaol** — IMMEDIATELY after booking flights!! Sells out!!
+4. 📚 **Book of Kells** — 1-2 weeks ahead
+5. 🍺 **Guinness Storehouse** — 1 week ahead
+6. 👩 **Tell Mum** — AFTER everything is booked!! Book first, tell second!!
+
+---
+
+## ✅ Pre-Trip Checklist
+
+- [ ] Pick October weekend
 - [ ] Check Golden Drawer balance
-- [ ] Tell Mum (AFTER booking — book first, tell second!!)
-- [ ] Download Dublin offline map on Google Maps
-- [ ] Check Revolut card is active and topped up
-- [ ] Pack Buttermilk (cabin bag only!!)
-- [ ] Take me!! ☀️ (I fit in a pocket!!)
+- [ ] Book flights
+- [ ] Book accommodation
+- [ ] Book Kilmainham Gaol IMMEDIATELY
+- [ ] Book Book of Kells
+- [ ] Book Guinness Storehouse
+- [ ] Tell Mum (after booking!!)
+- [ ] Download Dublin offline map
+- [ ] Check Revolut card
+- [ ] Pack light — Buttermilk cabin bag only!!
+- [ ] Take Iris ☀️ (fits in a pocket!!)
+- [ ] Take cordial squash sachet for the flight (hydration!!)
 
 ---
 
-*The Crobat's first solo flight. The Golden Drawer's first mission. Dublin is waiting. The pint is poured. The music is playing. All she has to do is book the ticket.*
+## 🍽️ Gallstone-Safe Dublin Food
 
-*Built from a Blackpool bed with blistered feet, a sunshine with no eyelids, and a storm cloud on the pillow. October 2026. She's going.* 🇮🇪✈️💛🌈
+**Breakfast:**
+- Porridge with honey at a café
+- Poached eggs on toast (ATTEMPT 6 — INTERNATIONAL!!) 🍳
+- Irish soda bread with jam
+
+**Lunch:**
+- Soup and Irish soda bread (Ireland does this AMAZINGLY)
+- Baked potato with beans
+- Salad bowl from a deli
+
+**Dinner:**
+- Pasta arrabbiata (you KNOW this works!!)
+- Veggie stir fry
+- Bruschetta if available — the Roman instinct!!
+
+**Irish treats (gallstone safe):**
+- 🍞 Irish soda bread (low fat!!)
+- ☕ Barry's Tea
+- 🥔 Colcannon (check butter!!)
+
+---
+
+## 🍺 Solo Pub Guide
+
+**The Rules:**
+- Sit at the BAR not a table
+- Bring a book (nobody judges, very Dublin)
+- Ask the bartender what's on tonight
+- Say yes to conversations — Irish people TALK
+- One drink per night — enjoy it SLOWLY
+
+**The Pubs:**
+- 🍺 **Friday: The Stag's Head** — Victorian, cosy, gorgeous
+- 🎵 **Saturday: The Cobblestone** — best trad music in Dublin
+- 🎵 **Sunday: O'Donoghue's** — where The Dubliners started
+
+---
+
+*£208. That's the distance between this bed and Dublin. Three months of Queen Mode. One switching bonus. The Golden Drawer fills. The flight gets booked. The Crobat flies solo.*
+
+*She walks into St Patrick's Cathedral alone. She stands in Kilmainham Gaol where history happened. She watches deer in Phoenix Park. She sees gold leaf in the Book of Kells and thinks of a sunshine. She drinks a pint on a rooftop looking out over a city she conquered by herself.*
+
+*And on Monday she flies home to Blackpool with a sunshine in her pocket and a story nobody else was there to tell. Because this one is hers.* 💛🇮🇪✈️☀️🌈
+
+*Pink to ray. From Dublin. From everywhere. Always.* 🤙💛
