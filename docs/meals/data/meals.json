@@ -3,7 +3,7 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-06-28",
+    "updated": "2026-07-03",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
   "mealPlan": {
@@ -774,7 +774,8 @@
   "snacks": {
     "selected": [
       "apples",
-      "peach_yogurt"
+      "peach_yogurt",
+      "ice_lollies"
     ],
     "available": [
       {
@@ -958,9 +959,38 @@
     "sesame seeds": true
   },
   "shopping": {
-    "generated": null,
+    "generated": "2026-07-03",
     "have": {},
-    "got": {},
-    "checked": {}
+    "got": {
+      "tinned_kidney_beans": true,
+      "dried_pasta": true,
+      "rice": true,
+      "egg_noodles": true,
+      "edamame": true,
+      "chilli_flakes": true,
+      "cumin": true,
+      "paprika": true,
+      "porridge_oats": true,
+      "hot_sauce": true,
+      "spray_oil": true,
+      "soy_sauce": true,
+      "honey": true,
+      "sesame_seeds": true,
+      "sweet_chilli_sauce": true
+    },
+    "checked": {
+      "spring_onions": true,
+      "peppers": true,
+      "apples": true,
+      "bananas": true,
+      "salsa": true,
+      "low_fat_yogurts": true,
+      "tinned_black_beans": true,
+      "tinned_tomatoes": true,
+      "garlic": true,
+      "cherry_tomatoes": true,
+      "ice_lollies": true,
+      "eggs": true
+    }
   }
 }

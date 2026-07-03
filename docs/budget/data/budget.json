@@ -2,14 +2,20 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-07-02",
+    "updated": "2026-07-03",
     "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
     "weeklyBudget": 50,
     "payDay": 25,
     "monthlyIncome": 2500,
     "incomeItems": [
-      { "label": "Salary (estimated)", "amount": 2100 },
-      { "label": "Widdle bills contribution", "amount": 400 }
+      {
+        "label": "Salary (estimated)",
+        "amount": 2100
+      },
+      {
+        "label": "Widdle bills contribution",
+        "amount": 400
+      }
     ],
     "funds": {
       "emergency": { "label": "Emergency Fund", "emoji": "🎯", "target": 3850, "balance": 100, "monthly": 130, "startDate": "2026-07-02", "note": "3 months of bills — minimum" },
@@ -17,7 +23,7 @@
     },
     "debts": {
       "widdle": { "label": "Widdle", "emoji": "🍊", "total": 739, "payments": [ { "date": "2026-04-30", "amount": 100 } ], "note": "Repayments go into the holiday fund" },
-      "novuna": { "label": "Novuna Kitchen Loan", "emoji": "🏠", "monthly": 194.14, "endDate": null, "note": "When it ends: £194/month free!" }
+      "novuna": { "label": "Novuna Kitchen Loan", "emoji": "🏠", "monthly": 194.14, "endDate": "2028-10-14", "note": "When it ends: £194/month free!" }
     },
     "cardHistory": [],
     "categories": [
@@ -87,15 +93,42 @@
         "budget": 1098.62,
         "note": "Fixed — reference only",
         "items": [
-          { "label": "Mortgage (Nationwide)", "amount": 438.01 },
-          { "label": "Council Tax", "amount": 195.00 },
-          { "label": "Kitchen loan (Novuna)", "amount": 194.14 },
-          { "label": "Energy (E.ON)", "amount": 82.67 },
-          { "label": "Flat Service Fees", "amount": 75.00 },
-          { "label": "Water (United Utilities)", "amount": 43.44 },
-          { "label": "Broadband (Virgin Media)", "amount": 35.40 },
-          { "label": "Pension (NEST)", "amount": 20.00 },
-          { "label": "TV Licence (quarterly, ~monthly)", "amount": 14.96 }
+          {
+            "label": "Mortgage (Nationwide)",
+            "amount": 438.01
+          },
+          {
+            "label": "Council Tax",
+            "amount": 195
+          },
+          {
+            "label": "Kitchen loan (Novuna)",
+            "amount": 194.14
+          },
+          {
+            "label": "Energy (E.ON)",
+            "amount": 82.67
+          },
+          {
+            "label": "Flat Service Fees",
+            "amount": 75
+          },
+          {
+            "label": "Water (United Utilities)",
+            "amount": 43.44
+          },
+          {
+            "label": "Broadband (Virgin Media)",
+            "amount": 35.4
+          },
+          {
+            "label": "Pension (NEST)",
+            "amount": 20
+          },
+          {
+            "label": "TV Licence (quarterly, ~monthly)",
+            "amount": 14.96
+          }
         ]
       },
       {
@@ -106,11 +139,26 @@
         "budget": 134.97,
         "note": "The five survivors",
         "items": [
-          { "label": "Claude.ai", "amount": 90.00 },
-          { "label": "Netflix", "amount": 12.99 },
-          { "label": "Spotify", "amount": 12.99 },
-          { "label": "giffgaff (phone)", "amount": 10.00 },
-          { "label": "Amazon Prime", "amount": 8.99 }
+          {
+            "label": "Claude.ai",
+            "amount": 90
+          },
+          {
+            "label": "Netflix",
+            "amount": 12.99
+          },
+          {
+            "label": "Spotify",
+            "amount": 12.99
+          },
+          {
+            "label": "giffgaff (phone)",
+            "amount": 10
+          },
+          {
+            "label": "Amazon Prime",
+            "amount": 8.99
+          }
         ]
       },
       {
@@ -180,6 +228,20 @@
       "amount": 231.99,
       "category": "travel",
       "note": "To revolut for euros"
+    },
+    {
+      "id": "spend_1_g5e4l",
+      "date": "2026-07-03",
+      "amount": 31.7,
+      "category": "groceries",
+      "note": "Aldi weekly shop"
+    },
+    {
+      "id": "spend_2_4pepe",
+      "date": "2026-07-03",
+      "amount": 7.98,
+      "category": "gifts",
+      "note": ""
     }
   ]
 }
