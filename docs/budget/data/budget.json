@@ -265,6 +265,13 @@
       "amount": 31.7,
       "category": "groceries",
       "note": "Aldi weekly shop"
+    },
+    {
+      "id": "spend_2_4pepe",
+      "date": "2026-07-03",
+      "amount": 7.98,
+      "category": "gifts",
+      "note": ""
     }
   ]
 }
