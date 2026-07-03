@@ -981,7 +981,9 @@
     "checked": {
       "spring_onions": true,
       "peppers": true,
-      "apples": true
+      "apples": true,
+      "bananas": true,
+      "salsa": true
     }
   }
 }
