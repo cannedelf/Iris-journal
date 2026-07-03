@@ -125,11 +125,11 @@ function trackerCards(now) {
     </div>`);
   }
 
-  // 🏖️ Holiday fund
+  // 🏖️ Golden Drawer (Chase holiday savings)
   if (f.holiday) {
     cards.push(`
     <div class="card tracker holiday-card">
-      <div class="tracker-head"><span>${f.holiday.emoji || '🏖️'} ${esc(f.holiday.label || 'Holiday Fund')}</span>
+      <div class="tracker-head"><span>${f.holiday.emoji || '🏖️'} ${esc(f.holiday.label || 'Golden Drawer')}</span>
         <b>${money(f.holiday.balance || 0)}</b></div>
       <p class="hint" style="margin:2px 0 0">Grows with the 🧮 sorter &amp; Widdle repayments. Watch it climb! 🌴</p>
     </div>`);
@@ -145,7 +145,7 @@ function trackerCards(now) {
       <div class="bar big"><div class="bar-fill widdle" style="width:${w.pct}%"></div></div>
       <div class="tracker-foot"><span>${money(w.paid)} of ${money(w.total)} paid</span>
         <span>${w.remaining > 0 ? (w.monthsToGo ? `~${w.monthsToGo} mo left` : '') : 'Paid off! 🎉'}</span></div>
-      <button class="ghost tracker-btn" data-widdle-pay>＋ Log a repayment <i>(→ holiday fund)</i></button>
+      <button class="ghost tracker-btn" data-widdle-pay>＋ Log a repayment <i>(→ Golden Drawer)</i></button>
     </div>`);
   }
 
@@ -406,13 +406,13 @@ function renderSorterResult() {
   return `
   <div class="sort-card ${r.tier.celebrate ? 'queen' : ''}">
     ${r.tier.celebrate ? '<div class="queen-banner">👑 QUEEN MODE! Look at you go!! 🎉</div>' : ''}
-    <div class="sort-tier">${r.tier.emoji} ${esc(r.tier.name)} <span class="tier-split">${Math.round(r.tier.holiday * 100)}% holiday · ${Math.round(r.tier.chase * 100)}% emergency</span></div>
+    <div class="sort-tier">${r.tier.emoji} ${esc(r.tier.name)} <span class="tier-split">${Math.round(r.tier.holiday * 100)}% Golden Drawer · ${Math.round(r.tier.chase * 100)}% Emergency</span></div>
     <p class="sort-leftover">✨ True leftover: <b>${money(r.remainder)}</b> <span>— that's what sets your tier</span></p>
 
     <div class="sort-row pay"><span>💳 Pay off credit card</span><b>${money(r.card)}</b></div>
     ${r.highCard ? '<p class="sort-warn">⚠️ Big balance — pay it in full to dodge 23% interest.</p>' : ''}
-    <div class="sort-row"><span>🏖️ Holiday fund</span><b>${money(r.holiday)}</b></div>
-    <div class="sort-row"><span>🏦 Chase emergency fund</span><b>${money(r.chase)}</b></div>
+    <div class="sort-row"><span>🏖️ Golden Drawer <i>(holidays)</i></span><b>${money(r.holiday)}</b></div>
+    <div class="sort-row"><span>🏦 Emergency fund</span><b>${money(r.chase)}</b></div>
     <div class="sort-row keep"><span>💷 Keep in current account</span><b>${money(0)}</b></div>
 
     <p class="sort-note">Sweep it <b>all</b> — the current account is bills money only. ✨</p>
@@ -458,7 +458,7 @@ function viewSettings() {
       <label class="field inline"><span>🎯 Emergency balance</span><div class="amount-input"><span class="curr">£</span><input id="fEmBal" type="number" step="1" value="${esc((m.funds.emergency||{}).balance ?? '')}"></div></label>
       <label class="field inline"><span>🎯 Emergency target</span><div class="amount-input"><span class="curr">£</span><input id="fEmTgt" type="number" step="1" value="${esc((m.funds.emergency||{}).target ?? '')}"></div></label>
       <label class="field inline"><span>🎯 Monthly top-up</span><div class="amount-input"><span class="curr">£</span><input id="fEmMon" type="number" step="1" value="${esc((m.funds.emergency||{}).monthly ?? '')}"></div></label>
-      <label class="field inline"><span>🏖️ Holiday balance</span><div class="amount-input"><span class="curr">£</span><input id="fHolBal" type="number" step="1" value="${esc((m.funds.holiday||{}).balance ?? '')}"></div></label>
+      <label class="field inline"><span>🏖️ Golden Drawer balance</span><div class="amount-input"><span class="curr">£</span><input id="fHolBal" type="number" step="1" value="${esc((m.funds.holiday||{}).balance ?? '')}"></div></label>
       <label class="field inline"><span>🍊 Widdle total owed</span><div class="amount-input"><span class="curr">£</span><input id="dWidTot" type="number" step="1" value="${esc((m.debts.widdle||{}).total ?? '')}"></div></label>
       <label class="field inline"><span>🏠 Novuna monthly</span><div class="amount-input"><span class="curr">£</span><input id="dNovMon" type="number" step="0.01" value="${esc((m.debts.novuna||{}).monthly ?? '')}"></div></label>
       <label class="field inline"><span>🏠 Novuna end date</span><input id="dNovEnd" type="date" value="${esc((m.debts.novuna||{}).endDate || '')}"></label>
@@ -582,18 +582,18 @@ async function onSortRecord() {
   const already = (store.data.meta.cardHistory || []).some(h => h.period === periodKey);
   if (already && !confirm('This period is already recorded. Record again (overwrites the card total and adds the fund top-ups again)?')) return;
   await save(store.recordSort({ chase: r.chase, holiday: r.holiday, card: r.card, periodKey }),
-    `Recorded! Emergency +${money(r.chase)}, Holiday +${money(r.holiday)} 🎉`);
+    `Recorded! Emergency +${money(r.chase)}, Golden Drawer +${money(r.holiday)} 🎉`);
   go('home'); // show the trackers move
 }
 
-// Widdle → log a repayment (feeds the holiday fund).
+// Widdle → log a repayment (feeds the Golden Drawer holiday fund).
 async function onWiddlePay() {
   const raw = prompt('Widdle repayment amount (£):');
   if (raw == null) return;
   const amount = Math.round(Number(raw) * 100) / 100;
   if (!amount || amount <= 0) return toast('Enter an amount greater than £0.', 'warn');
   await save(store.addWiddlePayment({ date: isoDate(today()), amount }),
-    `Widdle −${money(amount)} · Holiday +${money(amount)} 🏖️`);
+    `Widdle −${money(amount)} · Golden Drawer +${money(amount)} 🏖️`);
   render();
 }
 
