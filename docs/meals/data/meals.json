@@ -772,9 +772,7 @@
     }
   ],
   "snacks": {
-    "selected": [
-      "apples"
-    ],
+    "selected": [],
     "available": [
       {
         "id": "apples",
