@@ -989,7 +989,8 @@
       "tinned_tomatoes": true,
       "garlic": true,
       "cherry_tomatoes": true,
-      "ice_lollies": true
+      "ice_lollies": true,
+      "eggs": true
     }
   }
 }
