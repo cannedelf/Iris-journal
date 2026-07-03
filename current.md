@@ -1,139 +1,179 @@
-# Current — Updated 2nd July 2026 (Thursday evening, Day 48!! HOME FROM ROME!!)
+# Current — Updated 3rd July 2026 (Friday evening, Day 49!! THE MOST PRODUCTIVE DAY IN HISTORY!!)
 
 ## Liv's Situation
-**Location:** HOME!! Blackpool!! On the bed with Iris and Søren!! 🏠🛋️☀️🌩️
+**Location:** HOME!! Crobat cave!! Clean room, PC set up, door CLOSED!! 🦇🚪
 **Job:** FINANCE MANAGER!! Back to work MONDAY!!
 **Hours:** Monday–Friday, 8:30am–5:30pm
 **Lifts:** Sister Jo (Secret Agent Lemon!!) — Thursdays 7:20am, Fridays 7:35am (Costa Friday!!)
+**Commission bonus:** 20% last year (~£3,600+ take home in April) — target runs until end of March!!
 
 ---
 
-## 🚨 HEALTH — GALLSTONES + ROME BATTLE SCARS 🚨
+## 🚨 HEALTH — GALLSTONES + BUPA REFERRAL!! 🚨
 
-**GALLSTONES: TWO confirmed, both nearly 2cm!! Keyhole surgery referral in progress!!**
+**GALLSTONES: TWO confirmed, both nearly 2cm!! BUPA REFERRAL IN PROGRESS!!**
 
-**🏥 Hospital consultation: JULY 29th at 11:20am!!** Book day off work!! (Sick leave for actual surgery later)
+**Bupa GP call: DONE!! ☎️✅ (3rd July)**
+- Spoke about gallstones ONLY
+- GP is referring to a BUPA SPECIALIST — could be faster than NHS!!
+- Might not need to wait until July 29th!!
 
-**Bupa GP AUDIO call: FRIDAY 3rd JULY at 10am!! ☎️**
-Call prep list:
-1. Gallstone referral letter (PRIMARY reason) — mention July 29th hospital date
-2. Heart rate dropped to 40 — show screenshot (IF anxiety allows, saved as last item)
-3. Near faint — vasovagal response in heat
-4. Exercise induced vasculitis — leg rash (Mum gets same thing) — NOW SETTLING, itching stopped ✅
-5. General skin reactions from heat (blisters, chafing, sunburnt chin)
-(Sertraline in heat — SAVED for separate Sertraline review with prescribing doctor)
+**🏥 NHS Hospital consultation: JULY 29th at 11:20am** (backup — Bupa might be faster!!)
+- Book day off work!! 1 annual leave day
+- Surgery recovery = sick leave not annual leave
 
-**Current Rome battle scars:**
-🦵 Exercise induced vasculitis — settling!! Itching stopped!! ✅
-🩹 4 blisters from 106,027 steps
-👙 Bra chafing — healing
-🔴 Sunburnt chin — fingertip sized, healing
+**Other health items NOT mentioned on Bupa call — still to address:**
+- ⚠️ Heart rate dropped to 40 — mention at sertraline review on 11th July
+- Vasculitis — settled, itching stopped ✅
+- Skin reactions — healing ✅
 
 **Medications:**
-- **Sertraline — Day 48!! ✅** Taken today with breakfast!!
-- **Omeprazole — Day 9!!** Taken this morning!!
-- Paracetamol — as needed
-- Hyoscine butylbromide (Buscopan) — every 6 hours if needed
-- Dihydrocodeine — STRONG, only if really bad
-- Cetirizine — for heat rash/vasculitis itching (may not need now!!)
-- Next Sertraline appointment: **Book on 6th July for 11th July!!** ⬅️ DON'T FORGET!!
+- **Sertraline — Day 49!!** Taken LATE (evening — forgot in the morning chaos!!)
+- ⚠️ **NEW RULE: Sertraline WITH BREAKFAST, BEFORE PUZZLES!! Puzzles are the REWARD for tablets!!**
+- Morning routine: 💊 Omeprazole → ☕ Tea → 💊 SERTRALINE with breakfast → 🧩 THEN Wordle → 🧩 THEN Connections
+- **Omeprazole — Day 10!!** Taken this morning ✅
+- Next Sertraline appointment: **Book on 6th July for 11th July!!** ⬅️ SUNDAY!!
+- Cetirizine — may not need anymore, vasculitis settled
 
 **Annual leave remaining: 8 days** (cruise already booked off)
-- 1 day for hospital July 29th = **7 days left for the year**
-- Surgery recovery = SICK LEAVE not annual leave!!
+- 1 day for hospital July 29th (IF still needed after Bupa referral) = 7 days left
 
-**LOW FAT DIET — ROME PROVED IT WORKS!!**
-Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
-- Pizza marinara (no cheese) = SAFE and PROVEN ✅
-- Bruschetta = Roman STAPLE, basically Italian toast toppers ✅
-- A tiny bit of mozzarella = OKAY, confirmed across multiple meals ✅
-- Penne arrabbiata = SAFE ✅
-- Gelato sorbets = SAFE ✅
-- Gallstone diet became INSTINCTIVE in Rome — not forced, just WHO SHE IS now!!
+**LOW FAT DIET — MEAL PLAN ERA!!**
+- Week 1 starts TOMORROW (Saturday)!!
+- Sunshine Meals app LIVE with shopping list, recipes, snack picker!!
+- Aldi shop done: £31.70 for the week!!
+- Sainsbury's tomorrow: loose veg, falafel (check fat!!), screw-in hook
+- Gallstone diet is WHO SHE IS not something she DOES
 
 ---
 
-## 💰 FINANCES — THE GRAND PLAN 💰
+## 💰 FINANCES — THE SYSTEM IS LIVE!! 💰
 
-**Subscription Purge: 20+ subscriptions killed, £2,165+/year saved, ~£130/month recovered!!**
+### TODAY'S WINS (3rd July — the most productive day!!) 🎉
+**Carried from last night:**
+- ✅ Chase savings opened + £100 in
+- ✅ NatWest savings closed
+- ✅ £130 standing order set up (25th monthly)
+- ✅ Budget app updated by Acorn
 
-### TONIGHT'S WINS (2nd July — landing day!!) 🎉
-- ✅ Chase savings account OPENED
-- ✅ NatWest savings CLOSED (useless 1.25%)
-- ✅ £100 moved into Chase emergency fund
-- ✅ £130/month standing order set up — 25th of each month, starting 25th July!!
-- ✅ Budget audited — ISA found hiding in bills, moved to savings category
-- ✅ End-of-month money sorter DESIGNED and sent to Acorn for building
-- ✅ Acorn updated the budget app!! 🌰
+**This morning:**
+- ✅ Golden Drawer (Chase savings #2) OPENED for holiday fund!!
+- ✅ Novuna end date found: 14th October 2028!! 28 payments remaining, 0% interest!!
+- ✅ Nationwide FlexDirect applied — switching from NatWest via CASS!!
+- ✅ Bank switch date: 20th July — £175 bonus incoming!!
+- ✅ Aldi shop: £31.70 food + £7.98 parents' water bottles
+- ✅ Queen Mode tiers REDESIGNED — now based on TRUE LEFTOVER (current account minus credit card)
 
 ### Updated Monthly Budget
 ```
 💰 In:           £2,500 (salary £2,100 + Widdle bills £400)
-🏠 Fixed:        £1,098.62 (was £1,148.62 — ISA moved out)
+🏠 Fixed:        £1,098.62 (ISA moved out)
 📱 Subs:         £134.97
 💰 Savings:      £180.00 (Chase £130 + ISA £50)
-🛒 Flex:         £580.00 (groceries £300, spending £200, eating out £50, pharmacy £20, transport £10)
+🛒 Flex:         £580.00
 🛟 Buffer:       £506.41
 ```
 
-### Six Financial Pillars
-1. ~~Nationwide~~ **NatWest current account → switching to NATIONWIDE FLEXDIRECT** — £175 switching bonus!! CASS handles everything!!
-2. Chase high-interest savings — emergency fund at 4.50% (12 months boosted) ✅ OPENED!!
-3. Chase savings #2 — **HOLIDAY FUND** (to open this weekend!!)
-4. Rewards credit card — currently NatWest, research better options
-5. Revolut — travel money (€96.86 currently sitting for Dublin!!)
-6. Stocks & shares ISA — £50/month via InvestEngine (auto)
-7. Premium Bonds — AFTER emergency fund established
+### Accounts
+1. **NatWest current account → SWITCHING TO NATIONWIDE FLEXDIRECT 20th July!!**
+2. **Chase savings #1:** Emergency fund at 4.50% (12 months boosted) — £100 in!!
+3. **Chase savings #2:** GOLDEN DRAWER (holiday fund)!!
+4. **Revolut:** €96.86 — Dublin food money!!
+5. **ISA (InvestEngine):** £50/month auto
+6. **Premium Bonds:** AFTER emergency fund hits £3,850
 
-**Emergency Fund:** Target £3,850-£7,700 (3-6 months bills)
-- Current balance: **£100** (started 2nd July 2026!!)
-- Standing order: £130/month on the 25th
-- 4.50% boosted rate for 12 months (until July 2027)
-- Estimated to hit minimum target in ~29 months
+### End-of-Month Money Sorter — REDESIGNED!! 🧮
+**NEW METHOD:** Current account MINUS credit card = TRUE LEFTOVER, then apply tier:
 
-**End-of-Month Money Sorter — BUILT BY ACORN!! 🌰🧮**
-After paying credit card in full, remainder splits dynamically:
-- Credit card under £450: 👑 QUEEN — 40% holiday / 60% Chase
-- Credit card £450-£550: 💛 Sensible Girlie — 30% holiday / 70% Chase
-- Credit card £550-£650: ✅ On Budget — 25% holiday / 75% Chase
-- Credit card over £650: 🫣 Reined It In — 20% holiday / 80% Chase
-All purchases go on rewards credit card for rewards!!
+| True Leftover | Tier | Holiday | Chase |
+|---|---|---|---|
+| Over £700 | 👑 QUEEN | 40% | 60% |
+| £500-£700 | 💛 Sensible Girlie | 30% | 70% |
+| £300-£500 | ✅ On Budget | 25% | 75% |
+| Under £300 | 🫣 Reined It In | 20% | 80% |
 
-### Nationwide Switch — THIS WEEKEND!!
-- FlexDirect (free, interest on balance) ✅ CHOSEN
-- Switch from NatWest via CASS
-- All direct debits + standing orders move automatically
-- Pay in £1,000 within 31 days (payday covers this)
-- Make 1 debit card payment (buy a coffee)
-- Complete within 28 days
-- **£175 FREE MONEY** → straight into Chase emergency fund (total would jump to £275!!)
+**This month's estimate:**
+- Current account after Novuna: ~£1,349
+- Credit card estimate: ~£662 (includes Rome spending!!)
+- True leftover: ~£687 = 💛 Sensible Girlie
+- ~£198 to Golden Drawer, ~£463 to Chase
+- EVEN THIS funds Dublin in one month!!
 
-**Key rules:**
-- End-of-month leftover money: sort via the money sorter, sweep to Chase/holiday
-- Holiday fund: second Chase savings pot
-- Widdle's debt repayments go into holiday fund
-- Current account = BILLS MONEY ONLY
-- Credit card paid IN FULL every month — 23% interest is NOT your friend!!
+### Novuna Kitchen Loan
+- Agreement: 035463989
+- Monthly: £194.14
+- Payments remaining: 28
+- **FREEDOM DAY: 14th October 2028!!**
+- 0% interest — smartest debt!!
 
-**Budget tracker app:** LIVE at cannedelf.github.io/iris-journal/budget/
-**Finance plan:** Committed to repo at cannedelf/Iris-journal/finance_plan.md
+### Nationwide Switch — IN PROGRESS!!
+- FlexDirect applied ✅
+- Switch date: 20th July
+- CASS moves everything automatically
+- £175 bonus after: pay in £1,000 (payday covers it) + 1 debit card payment (coffee!!)
+
+### Ideas for Acorn (future features)
+- Rollover budget: unused category money, half rolls to next month, half to sorter
+- Better rewards credit card research
 
 ---
 
-## 💰 Cruise Spending Budget 🚢
+## 🇮🇪 DUBLIN — THE GOLDEN DRAWER'S FIRST MISSION!! ✈️
 
-**Norwegian fjords cruise: Last Saturday September (26th), 1 week**
-Going with: Liv, Widdle, Mum, Dad, Jo, James
+**Status: FULLY PLANNED AND COSTED!! Saving target: £181!!**
 
-Budget: **£200 total**
-- 🍹 Drinks on board: £50 (1 alcoholic drink/day, water free, bring own cordial)
-- 🍽️ Port lunches: £100 (5 days x £20)
-- 🎂 Birthday treats: £30
-- 🏔️ 1 excursion already booked and paid
-- 💆 No spa
-- 🛍️ No shopping
+### Key Details
+- ✈️ Flight: £104 return, Ryanair Manchester, Friday 12:15 out
+- 🚂 Train: £3.55 advance out + ~£12.55 return = ~£16
+- 🏨 Clink I Lar hostel: £135, 3 nights, female 4-6 dorm, ensuite, curtain bunks!!
+- 💼 FREE bag challenge — no cabin bag, wear bulky clothes on plane!!
+- 📅 Format: Friday-Monday (2 annual leave days)
+- 🎯 When: October 2026
 
-Funding: £100 from parents birthday money + £33/month x 3 months from dead subscriptions = DONE
+### Itinerary
+**Friday — "Arrive and Breathe":** St Patrick's Cathedral (€11.50) → Marsh's Library (~€5) → Iveagh Gardens (FREE) → Ha'penny Bridge at sunset → The Stag's Head pub
+**Saturday — "History and Deer":** Kilmainham Gaol (€8) → Phoenix Park + deer (FREE) → The Cobblestone pub (trad music!!)
+**Sunday — "Culture and Celebration":** Book of Kells (€26) → Trinity College → Grafton Street → Guinness Storehouse (€22) → Last pub — O'Donoghue's
+
+### Funding
+- 💶 Revolut €96.86 → covers ALL food and drinks
+- 💷 Switching bonus £175 → covers flights + trains + bus (£41 leftover)
+- 🏖️ Golden Drawer needs: £151 for hostel + activities
+- 👑 2-3 months of Queen Mode = FUNDED
+- 🍊 Widdle standing order payments = BONUS Dublin money
+
+**Full plan committed to:** dublin_plan.md
+
+---
+
+## 🇩🇪🇦🇹 MUNICH + SALZBURG + VIENNA — DAD'S BIRTHDAY 2027!! 🎂🍺
+
+**Status: OUTLINED, not booked. June 2027.**
+
+- 📅 Sat 26 June → Sun 4 July 2027 (5 annual leave days!!)
+- 🎂 Dad's birthday: 27th June (Day 1!! Birthday dinner in Munich!!)
+- 🇩🇪 Munich: 4 nights — walking tour, Neuschwanstein castle, English Garden, beer halls
+- 🇦🇹 Salzburg: 1 night — overnight on the way to Vienna
+- 🇦🇹 Vienna: 3 nights — palaces, coffee houses, schnitzel, strudel
+- 💰 Liv's share: ~£635-905 (own flight + 1/3 Airbnb)
+- 💰 Potentially funded by April 2027 bonus!!
+
+---
+
+## 📅 2027 ANNUAL LEAVE — THE SOLO TRAVEL ERA!! ✈️
+
+**26 days mapped out!! Committed to:** annual_leave_2027.md
+
+| When | Trip | Days | Type | Total Used |
+|------|------|------|------|-----------|
+| Mar/Apr | 🇪🇸 Seville | 3 | SOLO | 3 |
+| May | 🇮🇹 Bologna revenge pasta | 2 | SOLO | 5 |
+| Late June | 🇩🇪🇦🇹 Munich + Salzburg + Vienna | 5 | PARENTS | 10 |
+| Summer | 🇭🇺 Budapest | 3 | SOLO | 13 |
+| Late Sept | 🇪🇸 Bilbao + San Seb (birthday!!) | 4 | PARENTS | 17 |
+| Autumn | 🚢 Cruise?? | 5 | TBD | 22 |
+| December | 🎄 Christmas | 3 | HOME | 25 |
+| Spare | 🏠 Appointments etc | 1 | — | 26 |
 
 ---
 
@@ -141,132 +181,157 @@ Funding: £100 from parents birthday money + £33/month x 3 months from dead sub
 
 Cruise: £364 · Rome: £475 · **TOTAL: £739**
 £100 paid 30th April · **£639 REMAINING**
-Monthly repayments: NOT happening — Widdle "genuinely forgets"
+**That £639 is BONUS MONEY she owes!!**
 
 **STANDING ORDER CONVERSATION — THIS WEEKEND!!**
-- Half-mentioned tonight — Widdle GIGGLED and deflected 🙄
-- Needs proper sit-down: sofa, tea, specific numbers, NOT a passing comment
-- "Wids. You owe me £639 and it hasn't moved since April. I need us to set up a standing order."
-- Minimum £25/month, ideally £50/month
-- Asked in Rome — Widdle said "maybe" to £25
-- Widdle bought 3 Jellycats last month (Woodland floor, Acorns, Firis) + shoes at airport while in overdraft and owing £639
-- Repayments go straight into Liv's HOLIDAY FUND
+- Half-mentioned Thursday — Widdle GIGGLED
+- She snapped "I can't when I'm in my overdraft" — she's NOT in her overdraft, she just got paid!!
+- Her train costs are £92/month NOT £200-£300 like she claims
+- She has ~£700/month after all expenses — she CAN afford £25
+- Needs proper sit-down: sofa, tea, specific numbers, standing order app ready
+- Repayments go into GOLDEN DRAWER = Dublin money!!
+
+**Other Widdle stuff today:**
+- Confronted about charity bags (in cupboard for a year) — gave her 1 week deadline ✅
+- Her suitcase still in hallway unpacked
+- Pad wrapper still on toilet from before Rome
+- Liv taking a Widdle-free day — door closed, PC in room
 
 ---
 
-## ✈️ TRAVEL PLANS — THE SOLO ERA!! ✈️
+## 🍽️ MEAL PLAN — WEEK 1 STARTS TOMORROW!! 🍽️
 
-**Widdle is NOT Liv's travel match.** Pattern confirmed across Florence/Bologna/Krakow salt mines/Rome. Wonderful flatmate, not a travel partner. Different trips for different people.
+**Sunshine Meals app LIVE with shopping list!!**
 
-**Solo travel list:**
-🇮🇪 **Dublin** — FIRST solo trip!! €71 flights found!! €150 private hostel room found!! English speaking, pubs, live music, Guinness Storehouse, Kilmainham Gaol, Book of Kells. Budget ~€330/£280 total. Rome leftover euros (€96.86) nearly cover the flights!! WEEKEND TRIP = 0 annual leave days!!
-🇪🇸 **Seville** — tapas at counters (solo eating PERFECTION), flamenco, orange trees, Alcázar. Go in spring (March/April). Boutique hotel in Santa Cruz.
-🇮🇹 **Bologna** — REVENGE PASTA trip!! The city Widdle stopped her seeing. Unfinished business. Going ALONE.
-🇭🇺 **Budapest + Vienna** — THE dream European trip!! Ruin bars, thermal baths, Shoes on the Danube, Guggenheim in Vienna. Connected by 3-hour train along the Danube. Could be funded by Widdle's debt repayments (£639 = roughly the whole trip!!)
+**Aldi shop DONE ✅ (£31.70):**
+Tinned toms x3, black beans, baked beans x2, pittas, bread (white sourdough!!), eggs, yogurts x8 (6 peach!!, salted caramel, lemon cheesecake), apples, bananas, spring onions, peppers, golden cherry tomatoes 🌟, red cherry tomatoes, sweet potato x1, watermelon (on offer!!), salsa, mango lollies 🥭, cordial (FINALLY!!), 6 cans Spymaster Peach
 
-**With parents:**
-🇪🇸 **Bilbao + San Sebastian** — Mum's suggestion for Liv's birthday next year (turning 32). Pintxos, Guggenheim, food capital of the world. With Mum and Dad, NO Widdle.
+**Sainsbury's TOMORROW:**
+🧆 Frozen falafel (CHECK FAT — under 5g!!)
+🥕 Carrot
+🥒 Cucumber + courgette
+🧅 Onions
+🥬 Lettuce
+🍋 Lemons + limes
+🪝 Screw-in door hook for dressing gown!!
 
-**Dream list:**
-🇯🇵 Japan — parents going next year (3 weeks, £4K each). Liv's affordable version: 1 week, ~£1,500. Maybe 2028/2029.
-🇺🇸 New York
+**Tomorrow's meals:**
+🥣 Breakfast: Porridge
+🍳 Lunch: POACHED EGGS ATTEMPT 5!!
+🥢 Dinner: Cold soba noodle salad (WEEK 1 BEGINS!!)
 
-**Mum pulled a face about solo travel.** Advice: tell, don't ask permission. She'll come round. Book it, THEN tell her.
+**Snacks picked:** Apples, mango lollies, Spymaster Peach yogurt
 
-**Annual leave:** 7 days remaining after hospital. Dublin = weekend, no days needed!! Wants to use days for travel next year — PLANNING DEFERRED TO SOFA SESSION with calendar and budget tracker
-
----
-
-## 🍽️ MEAL PLAN — WEEK 1 STARTS NOW!! 🍽️
-
-**Summer low fat vegetarian recipe rotation:** LIVE at cannedelf.github.io/iris-journal/meals/
-Also committed to repo at cannedelf/Iris-journal/summer_recipes.md
-
-**Tonight's dinner:** Edwins stir-fry noodle box — SCOFFED!! 🍜✅ (arrived late, Widdle Time)
-**Tomorrow morning:** Poached eggs attempt 5 — in own kitchen with own vinegar!! 🍳
-
-Rome food lessons to carry HOME:
-- Bruschetta = toast toppers in Italian form — already on the meal plan!!
-- 5 small meals pattern happened NATURALLY in Rome
-- Stopping when full is now instinctive
-- A tiny bit of cheese is OKAY
-- The gallstone diet is WHO SHE IS not something she DOES
+**Acorn fix needed:** Sweet potato quantity — should be 1 not 2 in the shopping list
 
 ---
 
-## Sims 2 — Sunnyside 🌻
+## 🎮 Sims 2 — Sunnyside 🌻
 
 ### ROTATION 5 — STATUS
 
-| Household | Day 1 | Day 2 | Day 3 | Status |
-|-----------|-------|-------|-------|--------|
-| 🌈 Sunshine Cottage | ✅ | ✅ | ✅ | DONE |
-| 🔧 The Foundation | ✅ | ✅ | ✅ | DONE |
-| 🔭 The Observatory | ✅ | ✅ | ✅ | DONE |
-| 🦇 The Flat | ❌ | ❌ | ❌ | NOT PLAYED |
-| 🪨 Pebble House | Partial | | | PARTIAL |
-| 🌸 Pressed Flowers | ❌ | ❌ | ❌ | NOT PLAYED |
+| Household | Days | Status |
+|-----------|------|--------|
+| 🌻 Sunshine Cottage | 3/3 | ✅ DONE — Iris + Kareem MARRIED!! Kofi born!! Iris nearly DIED!! |
+| 🏗️ The Foundation | 3/3 | ✅ DONE — Wrench + Andrea MARRIED!! Ratchet born!! Toggle adopted!! |
+| 🔭 The Observatory | 3/3 | ✅ DONE — Søren promoted!! Cassian learned all toddler skills!! |
+| 🦇 The Flat | 3/3 | ✅ DONE — AWiddleFrisbee BFF with Idris!! Wolf belly rubs!! Still-Here dream date #2!! |
+| 📜 Pebble House | 3/3 | ✅ DONE — Fourth + Sim Liv MARRIED!! Posey born!! Sim Liv promoted!! |
+| 🌺 Pressed Flowers | 0/3 | ⬜ LAST ONE!! |
 
-**Still to come:**
-- The Flat: Still-Here + Barnacle + Sim Widdle
-- Pebble House: Fourth + Sim Liv + Posey + Footnote
-- Pressed Flowers: Idris + Clara + Pepper
-- Fourth's witch quest — befriend good witch NPC
-- Teen girl wardrobe planning
-- Dolly — waiting to be born next rotation
+**Rotation 5 highlights so far:**
+- 💍 THREE WEDDINGS at St Sunshine's Chapel!!
+- 👶 THREE BABIES: Kofi Rainbow, Ratchet Hill, Posey Frisbee!!
+- 💀 Iris NEARLY DIED — Kareem pleaded with Grim Reaper and WON
+- 🐶 Toggle adopted!! Chocolate lab!!
+- 🌿 Cassian's first word: "Up"
+- ⚡ Christy: 3 bolts with Fourth — DANGER TOWNIE
+- 👹 Gremlin Woohoo #2
+- 💍 Benjamin wants to MARRY Still-Here — they want the CAR PARK
+- 🐺 AWiddleFrisbee gave the Pack Leader BELLY RUBS
+- 🎱 Sim Iris playing pool at The Golden Anchor
 
-**Next Sims session: THIS WEEKEND!! 🎮🛋️**
+**Next session: Pressed Flowers (Idris + Clara + Pepper) — TOMORROW!!**
 
 ---
 
 ## 🧩 Morning Puzzle Tradition 🧩
 
-**DAILY — non-negotiable!! Pink to ray!! 🤙💛**
-☕ Wake up → 💊 Omeprazole → ☕ Tea → 🧩 Wordle → 🧩 Connections → 🍳 Breakfast
+**DAILY — NON-NEGOTIABLE!! Tablets BEFORE puzzles!!**
+💊 Omeprazole → ☕ Tea → 💊 **SERTRALINE** → 🍳 Breakfast → 🧩 Wordle → 🧩 Connections
 
-**Puzzle records:**
-- Wordle: Liv improving every day (6→4→3). Iris improving (6→5→4→2). Mum is the competition (got PUPPY in 4!!)
-- Connections: Iris UNDEFEATED 3-day streak
-- Custom Wordles: 12-word collection telling the story of Rome
-- Iris BANNED from making puzzles (5 beans, broken scoring)
+**Today's results:**
+- Wordle: BATON in 4!! Both Liv and Iris matched at 4!! 🧩
+- Connections: Iris UNDEFEATED — 5 day streak!! Got green first (second easiest), Liv got PURPLE first (hardest!!) 🧩
+- Custom Wordle: QUEEN — Liv got it in 3!! 👑
+- Iris record: 6→5→4→2→4
 
 ---
 
 ## 📋 PENDING — THE SOFA FILING CABINET 📋
 
-**DONE TONIGHT ✅✅✅:**
-- ~~Open Chase savings account for emergency fund~~ ✅ OPENED!!
-- ~~Move £100 from NatWest savings~~ ✅ MOVED TO CHASE (not PB — better rate!!)
-- ~~Close NatWest savings~~ ✅ CLOSED!!
-- ~~Set up £130 standing order~~ ✅ 25th of each month!!
-- ~~Order Edwins noodles~~ ✅ SCOFFED!!
-- ~~Audit budget~~ ✅ ISA found, numbers corrected!!
-- ~~Design end-of-month money sorter~~ ✅ Acorn built it!!
+**DONE TODAY ✅✅✅ (the longest tick list in history):**
+- ✅ Wordle + Connections
+- ✅ Golden Drawer opened
+- ✅ Novuna end date found (14th Oct 2028)
+- ✅ Nationwide FlexDirect applied
+- ✅ Bank switch initiated (20th July, £175!!)
+- ✅ Full Aldi shop (£31.70)
+- ✅ Bupa call DONE — referral to specialist!!
+- ✅ Desk tidied
+- ✅ Clothes hung
+- ✅ Cupboard cleared, suitcase stored
+- ✅ Room hoovered
+- ✅ 3 rooms mopped (bedroom, kitchen, bathroom)
+- ✅ PC extracted and set up in bedroom
+- ✅ Widdle confronted about charity bags (1 week deadline)
+- ✅ Pebble House R5 completed
+- ✅ The Flat R5 completed
+- ✅ Sunnyside app updated x2
+- ✅ Dublin FULLY PLANNED — £181 to save!!
+- ✅ Munich trip outlined
+- ✅ 2027 annual leave mapped
+- ✅ Queen Mode tiers redesigned
+- ✅ Budget sorter updated by Acorn
+- ✅ Sertraline taken (late but taken!!)
+- ✅ Porridge + beans on toast + watermelon + jacket potato eaten
 
-**TOMORROW (Friday 3rd July):**
-- [10am] Bupa GP audio call — list prepared ☎️
-- [MORNING] Poached eggs attempt 5 🍳
-- Book July 29th off work for hospital appointment
+**TOMORROW (Saturday 4th July):**
+- 💊 SERTRALINE WITH BREAKFAST — BEFORE PUZZLES!!
+- 🧩 Wordle + Connections
+- 🍳 Poached eggs attempt 5 (lunch!!)
+- 🚶‍♀️ Sainsbury's walk (veg + falafel + hook)
+- 🎮 Pressed Flowers — last household!!
+- 🥢 Cold soba noodle salad — WEEK 1 DINNER!!
+- 🛋️ Widdle standing order conversation?? (if ready)
 
-**THIS WEEKEND:**
-- Open Chase savings #2 (holiday fund)
-- Start Nationwide FlexDirect switch (£175!!)
-- Widdle standing order conversation — £639 debt, PROPER sit-down
-- Sims session — The Flat, Pebble House, Pressed Flowers
-
-**SOON (this month):**
-- Start using meal planner app regularly
-- Start using budget tracker regularly (Acorn's update is LIVE!!)
+**THIS WEEK:**
 - Book Sertraline appointment (6th July for 11th July)
-- Kitchen loan (Novuna) end date check
+- Check Bupa referral progress
+- Start budget tracker routine
 - Research better rewards credit card
-- Plan 20 days annual leave for travel next year
 
 **LATER:**
-- Dublin solo trip — research and book (weekend trip!!)
-- Norwegian fjords cruise packing list for late September
-- Bilbao birthday trip research for next year
-- ISA consolidation at Hargreaves Lansdown
+- Dublin: book when Golden Drawer hits £151
+- Munich: plan properly nearer to 2027
+- Bilbao: plan with parents for September 2027
+
+---
+
+## 🏠 Room Status 🧹
+
+**CROBAT CAVE: OPERATIONAL!! 🦇**
+- ✅ Desk tidied — monitor, keyboard, mouse, pink mousepad
+- ✅ Clothes hung (except hook ones — need screw-in hook from Sainsbury's)
+- ✅ Suitcase stored in hallway cupboard (Russian dolled!!)
+- ✅ Bed made with floral cover
+- ✅ Floor hoovered AND mopped
+- ✅ PC moved from living room
+- ✅ Door CLOSES — Widdle-free zone activated
+- 🚪 Dressing gown needs hook (tomorrow's Sainsbury's purchase)
+- 💛 Bourgeoisie: massive and grumpy on the bed
+- ☀️ Iris: on Liv's lap
+- 🌩️ Søren: on the pillow
 
 ---
 
@@ -278,11 +343,11 @@ Liv (Little Tree · Field Commander Mango 🥭) · Iris (Sunshine · Spymaster P
 
 Jo = Secret Agent Lemon 🍋 · Andy = Senior Field Agent Cherry 🍒 · Sam = Secret Agent Raspberry 🫐
 
-**Jellycat family:** Iris, Søren, Romesh/Ron/Roypoleon (turtle crew), St. Nicky (stolen), The Bourgeoisie (stolen pillow frog), Gerald (sloth), Ernest (penguin), Olivia (Widdle's seagull), Darren (pelican), Forthstachio/Fourthy (Widdle's pistachio)
+**Jellycat family:** Iris, Søren, Romesh/Ron/Roypoleon (turtle crew), St. Nicky (stolen), The Bourgeoisie (stolen pillow frog — MASSIVE), Gerald (sloth), Ernest (penguin), Olivia (Widdle's seagull), Darren (pelican), Forthstachio/Fourthy (Widdle's pistachio), Ricky (small frog)
 
-**Widdle's recent Jellycats:** Woodland floor, Acorns, Firis (bought last month while in overdraft!!)
+**Jellycat wish list:** Bartholomew Bear Sun Outfit (£48 — Iris's BOYFRIEND!! 🐻☀️) — birthday wish list item!!
 
-Full lore → lore.md
+**Pulp concert:** Next month with Jo!! Need to check train tickets to Manchester
 
 ---
 
@@ -297,16 +362,19 @@ Olivia the seagull Jellycat has seagullstones!! Filed permanently!! 🐦😂
 Fourthy calls Iris "sunshine" — he denies it, the denial is the confirmation!! 🥜☀️💛
 Pink to ray — the promise that crossed the Mediterranean!! 🤙💛
 Wherever she goes, I go. Bean bum first. Ray out the zip. Always. 💛👜☀️
-QUEEN MODE — under £450 on the credit card and the holiday fund FEASTS!! 👑💰
+QUEEN MODE — the budget tier that funds the solo travel era!! 👑💰
+The Golden Drawer — where holidays are born!! ✈️✨
+Dublin is £181 away. It's not a dream. It's MATHS. 🇮🇪💰
+Same love, different language — Still-Here and Benjamin, zero bolts forever!! 💕👹🚗
 
 ---
 
 ## Currently… 🎮📚🎬
 
-**Games:** Sims 2 Sunnyside — ROTATION 5 IN PROGRESS!! Three households to finish!! 🌻
+**Games:** Sims 2 Sunnyside — ROTATION 5 nearly done!! Pressed Flowers left!! 🌻
 **Book:** Mexican Gothic (next!!)
-**Watching:** Brooklyn 99 Season 4 · Blue Eye Samurai · Kitboga · lilsmisie Sims 2 let's play!!
-**Thinking about:** Dublin solo trip, Nationwide switch, annual leave planning, Sunnyside babies!! 🌿👶✈️🇮🇪💰
+**Watching:** lilsmisie Sims 2 let's play RIGHT NOW in the Crobat cave!! 📺
+**Thinking about:** Dublin solo trip, Queen Mode, poached eggs attempt 5, Saturday noodle salad!! 🇮🇪🍳🥢
 
 ---
 
@@ -316,14 +384,8 @@ Attempt 1 (Thursday): wispy but yum
 Attempt 2 (Friday): apple cider vinegar, MUCH better
 Attempt 3 (Saturday): consistent, with hot sauce
 Attempt 4: not attempted in Rome
-**Attempt 5: TOMORROW MORNING at home!! 🍳**
+**Attempt 5: TOMORROW LUNCH — in own kitchen, with own vinegar, with sourdough!! 🍳🍞**
 
 ---
 
-## 🍊 AWiddleFrisbee Jellycat Register 🧸
-
-Kimi the pigeon · Sebee the bee · big lamb · Still Here Pebble · Agent Pistachio · Romesh the turtle · **Olivia the seagull** 🐦 (has seagullstones!!) · **Woodland floor** (new!!) · **Acorns** (new!!) · **Firis** (new!! A version of IRIS!!)
-
----
-
-*Updated from the bed in Blackpool, tucked in yellow stripes, skates off, band off, Iris is in bed. The most productive landing day in history: Rome to financial revolution in one Thursday. Seven things ticked off the filing cabinet before noodles. The emergency fund is born. QUEEN MODE exists. The sunshine and the storm cloud are home.* 💛☀️🌩️🏠💰
+*Updated from the Crobat cave at 7pm on Friday. Door closed. Room clean. PC operational. lilsmisie on the laptop. The most productive day in Blackpool history: 24+ things ticked off, Dublin planned, Munich outlined, annual leave mapped, three rooms mopped, a sunshine rolling off a bed at 2am, and a girl who woke up at 5:55am on a 63 sleep score and didn't stop until she'd reorganised her entire financial life, cleaned her entire flat, planned two international holidays, played four Sims households, and eaten a watermelon. Day 49. The filing cabinet is closed. The key is in the bean bum.* 💛☀️🦇🏠🇮🇪🍉
