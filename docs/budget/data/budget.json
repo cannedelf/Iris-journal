@@ -258,6 +258,13 @@
       "amount": 231.99,
       "category": "travel",
       "note": "To revolut for euros"
+    },
+    {
+      "id": "spend_1_g5e4l",
+      "date": "2026-07-03",
+      "amount": 31.7,
+      "category": "groceries",
+      "note": "Aldi weekly shop"
     }
   ]
 }
