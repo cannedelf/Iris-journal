@@ -3,7 +3,7 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-06-28",
+    "updated": "2026-07-03",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
   "mealPlan": {
@@ -772,10 +772,7 @@
     }
   ],
   "snacks": {
-    "selected": [
-      "apples",
-      "peach_yogurt"
-    ],
+    "selected": [],
     "available": [
       {
         "id": "apples",
