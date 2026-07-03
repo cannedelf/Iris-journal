@@ -177,7 +177,7 @@
       "location": "Sunnyside",
       "features": "Teal arched door, Hugo's bay-window bed, money tree",
       "movedIn": "2026-06-01",
-      "daysThisRotation": 0
+      "daysThisRotation": 3
     },
     {
       "id": "pebble_house",
@@ -809,6 +809,11 @@
           "rotation": "R5",
           "event": "Promoted to Wedding Photographer \u2014 the day before her own wedding!! Married Kareem under the blossom tree. Roof Raiser. Kofi born. Nearly died \u2014 Kareem pleaded with the Grim Reaper and WON.",
           "notes": "The biggest day in Sunnyside history."
+        },
+        {
+          "rotation": "R5",
+          "event": "Playing pool at The Golden Anchor during Still-Here's date",
+          "notes": "Just there. Being golden. Shooting pool. Witnessing everything. The sunshine doesn't need an invitation."
         }
       ],
       "type": "Human",
@@ -1627,7 +1632,7 @@
         "cooking": 1,
         "mechanical": 2,
         "charisma": 3,
-        "body": 0,
+        "body": 1,
         "logic": 0,
         "creativity": 4,
         "cleaning": 1
@@ -1691,12 +1696,17 @@
           "type": "Romantic",
           "bolts": 2,
           "notes": "Eye-print shirt! Kissed and woohooed the same day they met. Spring."
+        },
+        {
+          "id": "idris",
+          "type": "Best Friend",
+          "bolts": null,
+          "notes": "BFF!! Locked want FIRED R5!!"
         }
       ],
       "lockedWants": [
         "BFF with Wrench",
-        "Become a werewolf",
-        "BFF with Idris"
+        "Become a werewolf"
       ],
       "fears": [],
       "car": "Teal flame Nissan Skyline",
@@ -1716,6 +1726,21 @@
           "rotation": "R4",
           "event": "Armando Cox in the eye-print shirt",
           "notes": "2 bolts. Same day they met."
+        },
+        {
+          "rotation": "R5",
+          "event": "BFF with Idris!! Locked want FIRED!!",
+          "notes": "Did it in one rotation. Same energy as kissing Armando on day one. No messing about."
+        },
+        {
+          "rotation": "R5",
+          "event": "Wolf belly rubs!! Befriending the Pack Leader!!",
+          "notes": "Werewolf appeared at night. AWiddleFrisbee went outside and gave it BELLY RUBS. Zero fear. Maximum enthusiasm. The werewolf want inches closer."
+        },
+        {
+          "rotation": "R5",
+          "event": "1 body skill point toward promotion",
+          "notes": "Needs 1 more for the next level."
         }
       ],
       "birthOrder": 1,
@@ -1986,7 +2011,9 @@
         }
       ],
       "lockedWants": [],
-      "fears": [],
+      "fears": [
+        "Benjamin dying"
+      ],
       "car": "The Gremlin",
       "carNotes": "White car with a screaming face. Scene of the dream-date woohoo.",
       "moments": [
@@ -1999,6 +2026,11 @@
           "rotation": "R4",
           "event": "Dream date at The Golden Anchor with Benjamin",
           "notes": "The Gremlin woohoo! Zero bolts, in love anyway."
+        },
+        {
+          "rotation": "R5",
+          "event": "Dream Date #2 at The Golden Anchor!! Gremlin Woohoo #2!!",
+          "notes": "Zero bolts. Maximum love. Benjamin wants to MARRY them. Still-Here wants the CAR PARK. Sim Iris was at the pub playing pool. S\u00f8ren showed up. The whole family witnessed everything."
         }
       ],
       "birthOrder": 2,
@@ -2081,6 +2113,12 @@
           "type": "Pet",
           "bolts": null,
           "notes": "Pepper adopted him as her favourite person while officially being Clara's cat."
+        },
+        {
+          "id": "awiddle",
+          "type": "Best Friend",
+          "bolts": null,
+          "notes": "BFF!! Made friends fast. Entertainment duo energy."
         }
       ],
       "lockedWants": [
@@ -2496,11 +2534,19 @@
           "notes": "Dream date at The Golden Anchor. Gremlin woohoo."
         }
       ],
-      "lockedWants": [],
+      "lockedWants": [
+        "Marry Still-Here"
+      ],
       "fears": [],
       "car": "",
       "carNotes": "",
-      "moments": [],
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "Wants to MARRY Still-Here!!",
+          "notes": "Zero bolts. In love. Dream date #2. Gremlin woohoo #2. He wants FOREVER. She wants the car park. Same love, different language."
+        }
+      ],
       "cas": false,
       "glasses": false,
       "hairTexture": "Straight",
