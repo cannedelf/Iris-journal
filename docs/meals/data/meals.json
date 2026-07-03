@@ -979,7 +979,8 @@
       "sweet_chilli_sauce": true
     },
     "checked": {
-      "spring_onions": true
+      "spring_onions": true,
+      "peppers": true
     }
   }
 }
