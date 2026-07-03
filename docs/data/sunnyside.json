@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "neighbourhood": "Sunnyside",
-    "updated": "2026-06-27",
+    "updated": "2026-07-03",
     "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub.",
     "eyeColours": [
       {
@@ -2856,7 +2856,13 @@
       "oneLiner": "A bunch of wildflowers tied together with love",
       "aspiration": "",
       "starSign": "",
-      "personality": {},
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
       "parents": [
         "fourth",
         "liv"
@@ -2873,10 +2879,8 @@
       ],
       "bornRotation": 5,
       "bornDay": 3,
-      "firstWord": "",
       "glasses": true,
       "hairTexture": "Straight",
-      "handedness": "",
       "genetics": {
         "hairVisible": "",
         "hairHidden": "",
@@ -2888,7 +2892,39 @@
         "fromMum": "Green eyes, glasses",
         "fromDad": "Straight hair, glasses, green eyes",
         "notes": ""
-      }
+      },
+      "cas": false,
+      "yellowBow": false,
+      "adopted": false,
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "",
+      "career": {
+        "track": "",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {
+        "cooking": 0,
+        "mechanical": 0,
+        "charisma": 0,
+        "body": 0,
+        "logic": 0,
+        "creativity": 0,
+        "cleaning": 0
+      },
+      "car": "",
+      "carNotes": "",
+      "lockedWants": [],
+      "fears": [],
+      "badges": {},
+      "photo": "photos/posey.png"
     }
   ],
   "pets": [
