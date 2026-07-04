@@ -985,7 +985,8 @@
       "spring_onions": true,
       "sweet_potatoes": true,
       "apples": true,
-      "bananas": true
+      "bananas": true,
+      "eggs": true
     },
     "checked": {
       "spring_onions": true,
