@@ -3,7 +3,7 @@
     "version": 1,
     "neighbourhood": "Sunnyside",
     "updated": "2026-07-04",
-    "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app \u2014 every save commits straight back to GitHub.",
+    "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub.",
     "eyeColours": [
       {
         "name": "Alien",
@@ -93,42 +93,42 @@
     {
       "id": "hill",
       "name": "Hill",
-      "emoji": "\u26cf\ufe0f",
+      "emoji": "⛏️",
       "colour": "#b07d52",
       "soft": "#efdfce"
     },
     {
       "id": "frisbee",
       "name": "Frisbee",
-      "emoji": "\u2615",
+      "emoji": "☕",
       "colour": "#6f9e5e",
       "soft": "#dcebd2"
     },
     {
       "id": "rainbow",
       "name": "Rainbow",
-      "emoji": "\ud83c\udf08",
+      "emoji": "🌈",
       "colour": "#e6a91f",
       "soft": "#fbeec4"
     },
     {
       "id": "okafor",
       "name": "Okafor",
-      "emoji": "\ud83c\udf3a",
+      "emoji": "🌺",
       "colour": "#d97aa0",
       "soft": "#f7dce7"
     },
     {
       "id": "vance",
       "name": "Vance",
-      "emoji": "\ud83c\udf38",
+      "emoji": "🌸",
       "colour": "#e493b8",
       "soft": "#f8dfeb"
     },
     {
       "id": "townie",
       "name": "Townies",
-      "emoji": "\ud83c\udfd8\ufe0f",
+      "emoji": "🏘️",
       "colour": "#a89f94",
       "soft": "#e7e2da"
     }
@@ -137,7 +137,7 @@
     {
       "id": "sunshine_cottage",
       "name": "Sunshine Cottage",
-      "emoji": "\ud83c\udf3b",
+      "emoji": "🌻",
       "location": "Sunnyside, near the shops",
       "features": "Yellow door, art studio, sunflower garden, piano in the hallway",
       "movedIn": "2026-06-07",
@@ -151,7 +151,7 @@
     {
       "id": "the_foundation",
       "name": "The Foundation",
-      "emoji": "\ud83c\udfd7\ufe0f",
+      "emoji": "🏗️",
       "location": "Sunnyside",
       "features": "Converted mill. Stone walls, dark wood, teal bench courtyard, detached workshop with robotics station. Sage green nursery. Butterfly bedroom. Pickup truck in the drive.",
       "movedIn": "2026-06-16",
@@ -165,7 +165,7 @@
     {
       "id": "the_observatory",
       "name": "The Observatory",
-      "emoji": "\ud83d\udd2d",
+      "emoji": "🔭",
       "location": "Sunnyside",
       "features": "Where a storm cloud watches the sky his son fell out of and calls it science.",
       "movedIn": "2026-06-17",
@@ -174,7 +174,7 @@
     {
       "id": "the_flat",
       "name": "The Flat",
-      "emoji": "\ud83e\udd87",
+      "emoji": "🦇",
       "location": "Sunnyside",
       "features": "Teal arched door, Hugo's bay-window bed, money tree",
       "movedIn": "2026-06-01",
@@ -183,7 +183,7 @@
     {
       "id": "pebble_house",
       "name": "The Pebble House",
-      "emoji": "\ud83d\udcdc",
+      "emoji": "📜",
       "location": "Sunnyside, central",
       "features": "Terracotta brick, teal arched door, alphabetical bookshelf",
       "movedIn": "2026-06-18",
@@ -192,7 +192,7 @@
     {
       "id": "pressed_flowers",
       "name": "Pressed Flowers",
-      "emoji": "\ud83c\udf3a",
+      "emoji": "🌺",
       "location": "Zig-Zag Road, Sunnyside",
       "features": "Craftsman cottage, naturalist study, vegetable patches",
       "movedIn": "2026-06-21",
@@ -205,7 +205,7 @@
       "kind": "ancestor",
       "name": "Samuel Hill",
       "display": "Sam Hill",
-      "emoji": "\u26cf\ufe0f",
+      "emoji": "⛏️",
       "family": "hill",
       "generation": "Gen 0",
       "oneLiner": "The source of every Hill curl and every Hill freckle!!",
@@ -215,11 +215,11 @@
         "eyesVisible": "Dark Brown",
         "eyesHidden": "Hazel Olive Green",
         "skin": "Dark warm brown",
-        "freckles": "Yes \u2014 passes them to all three siblings",
+        "freckles": "Yes — passes them to all three siblings",
         "notable": "",
         "fromMum": "",
         "fromDad": "",
-        "notes": "S\u00f8ren inherits most from Dad. Black hair + dark eyes dominant; freckles carried by all."
+        "notes": "Søren inherits most from Dad. Black hair + dark eyes dominant; freckles carried by all."
       },
       "parents": [],
       "partners": [
@@ -282,7 +282,7 @@
       "yellowBow": true,
       "name": "Ruth Hill",
       "display": "",
-      "emoji": "\ud83e\uddf6",
+      "emoji": "🧶",
       "family": "hill",
       "generation": "Gen 0",
       "oneLiner": "Yellow bow club!! Brown waves hiding in Cassian!!",
@@ -292,11 +292,11 @@
         "eyesVisible": "Hazel Olive Green",
         "eyesHidden": "Hazel Olive Green",
         "skin": "Pale",
-        "freckles": "Yes \u2014 the source of the Hill freckle situation",
+        "freckles": "Yes — the source of the Hill freckle situation",
         "notable": "Round warm face, yellow bow",
         "fromMum": "",
         "fromDad": "",
-        "notes": "Liv and Wrench inherit most from Mum. Brown-hair + hazel-eye recessives surface later \u2014 brown curls expressed in green toddler Cassian!"
+        "notes": "Liv and Wrench inherit most from Mum. Brown-hair + hazel-eye recessives surface later — brown curls expressed in green toddler Cassian!"
       },
       "parents": [],
       "partners": [
@@ -358,7 +358,7 @@
       "kind": "ancestor",
       "name": "Dennis Frisbee",
       "display": "",
-      "emoji": "\u2615",
+      "emoji": "☕",
       "family": "frisbee",
       "generation": "Gen 0",
       "oneLiner": "Has been putting the kettle on since 1990!! The secret ginger gene!!",
@@ -368,7 +368,7 @@
         "eyesVisible": "Brown",
         "eyesHidden": "Green",
         "skin": "Golden / tanned",
-        "freckles": "Yes \u2014 passes them to all three",
+        "freckles": "Yes — passes them to all three",
         "notable": "",
         "fromMum": "",
         "fromDad": "",
@@ -436,7 +436,7 @@
       "yellowBow": false,
       "name": "Janet Frisbee",
       "display": "",
-      "emoji": "\ud83c\udf80",
+      "emoji": "🎀",
       "family": "frisbee",
       "generation": "Gen 0",
       "oneLiner": "Yellow bow club!! AWiddleFrisbee's round face comes from here!!",
@@ -512,7 +512,7 @@
       "kind": "ancestor",
       "name": "Samuel Osei",
       "display": "",
-      "emoji": "\ud83d\udc54",
+      "emoji": "👔",
       "family": "rainbow",
       "generation": "Gen 0",
       "oneLiner": "Kareem's dominant look!! Ghanaian heritage!!",
@@ -588,7 +588,7 @@
       "kind": "ancestor",
       "name": "Claire Osei",
       "display": "",
-      "emoji": "\ud83d\udc9c",
+      "emoji": "💜",
       "family": "rainbow",
       "generation": "Gen 0",
       "oneLiner": "The secret gene queen!! Every Rainbow baby carries her hidden magic!!",
@@ -602,7 +602,7 @@
         "notable": "Kind face",
         "fromMum": "",
         "fromDad": "",
-        "notes": "Gives Kareem hidden blonde + lilac \u2014 rainbow babies genuinely possible. White British."
+        "notes": "Gives Kareem hidden blonde + lilac — rainbow babies genuinely possible. White British."
       },
       "parents": [],
       "partners": [
@@ -666,7 +666,7 @@
       "yellowBow": true,
       "name": "Iris Rainbow",
       "display": "Iris",
-      "emoji": "\ud83c\udf08",
+      "emoji": "🌈",
       "family": "rainbow",
       "household": "sunshine_cottage",
       "preMarriageName": "",
@@ -711,12 +711,12 @@
         "hairHidden": "None",
         "eyesVisible": "Lilac",
         "eyesHidden": "",
-        "skin": "Light, golden, warm \u2014 sunkissed",
+        "skin": "Light, golden, warm — sunkissed",
         "freckles": "No",
         "notable": "Yellow bow always",
         "fromMum": "N/A (Iris has no Sims parents)",
         "fromDad": "N/A",
-        "notes": "Iris has NO hidden genes \u2014 purely and completely herself!"
+        "notes": "Iris has NO hidden genes — purely and completely herself!"
       },
       "parents": [],
       "partners": [
@@ -729,7 +729,7 @@
       "relationships": [
         {
           "id": "kareem",
-          "type": "Fianc\u00e9",
+          "type": "Fiancé",
           "bolts": 2,
           "notes": "Dream date at the Sunflower Diner! Proposed with a blue velvet box. She said YES!"
         },
@@ -743,7 +743,7 @@
           "id": "awiddle",
           "type": "Best Friend",
           "bolts": null,
-          "notes": "\ud83c\udf4a"
+          "notes": "🍊"
         },
         {
           "id": "wrench",
@@ -773,7 +773,7 @@
       "moments": [
         {
           "rotation": "R1",
-          "event": "First painting \u2014 SUNFLOWER",
+          "event": "First painting — SUNFLOWER",
           "notes": "Hung in the living room"
         },
         {
@@ -808,7 +808,7 @@
         },
         {
           "rotation": "R5",
-          "event": "Promoted to Wedding Photographer \u2014 the day before her own wedding!! Married Kareem under the blossom tree. Roof Raiser. Kofi born. Nearly died \u2014 Kareem pleaded with the Grim Reaper and WON.",
+          "event": "Promoted to Wedding Photographer — the day before her own wedding!! Married Kareem under the blossom tree. Roof Raiser. Kofi born. Nearly died — Kareem pleaded with the Grim Reaper and WON.",
           "notes": "The biggest day in Sunnyside history."
         },
         {
@@ -842,7 +842,7 @@
       "kind": "sim",
       "name": "Kareem Rainbow",
       "display": "Kareem",
-      "emoji": "\ud83c\udfb9",
+      "emoji": "🎹",
       "family": "rainbow",
       "household": "sunshine_cottage",
       "preMarriageName": "Kareem Osei",
@@ -887,12 +887,12 @@
         "hairHidden": "Blonde (recessive, from Claire)",
         "eyesVisible": "Dark Brown",
         "eyesHidden": "Lilac",
-        "skin": "Warm brown \u2014 mixed Ghanaian/lighter heritage",
+        "skin": "Warm brown — mixed Ghanaian/lighter heritage",
         "freckles": "No",
         "notable": "Kind face, woodland-creature pyjamas",
         "fromMum": "Hidden blonde + lilac (Claire)",
         "fromDad": "Dark hair, dark eyes, tall (Ghanaian heritage)",
-        "notes": "Carries blonde + lilac recessives \u2014 rainbow babies genuinely possible! NOTE: star sign listed as Pisces in household file but 'Libra' implied in appearances \u2014 double-check in game."
+        "notes": "Carries blonde + lilac recessives — rainbow babies genuinely possible! NOTE: star sign listed as Pisces in household file but 'Libra' implied in appearances — double-check in game."
       },
       "parents": [
         "kareemdad",
@@ -908,7 +908,7 @@
       "relationships": [
         {
           "id": "iris",
-          "type": "Fianc\u00e9e",
+          "type": "Fiancée",
           "bolts": 2,
           "notes": "She phoned him on a Tuesday. He kissed her in the sunflowers. The daisies were always for her."
         },
@@ -940,7 +940,7 @@
       "moments": [
         {
           "rotation": "R1",
-          "event": "Made first bouquet \u2014 DAISIES",
+          "event": "Made first bouquet — DAISIES",
           "notes": "In inventory. Nobody to give them to yet."
         },
         {
@@ -965,12 +965,12 @@
         },
         {
           "rotation": "R4",
-          "event": "Two promotions \u2014 Level 4 Elementary School Teacher! Serenaded Iris on their last evening at the Music Room",
+          "event": "Two promotions — Level 4 Elementary School Teacher! Serenaded Iris on their last evening at the Music Room",
           "notes": "Mira's litter tray got him the cleaning skill. The windmill's farewell."
         },
         {
           "rotation": "R5",
-          "event": "Married Iris under the blossom tree. Kofi born. Pleaded with the Grim Reaper for Iris's life \u2014 and WON.",
+          "event": "Married Iris under the blossom tree. Kofi born. Pleaded with the Grim Reaper for Iris's life — and WON.",
           "notes": "Came home from work to save his wife. The daisies finally have a family."
         }
       ],
@@ -987,9 +987,9 @@
     {
       "id": "soren",
       "kind": "sim",
-      "name": "S\u00f8ren Hill",
-      "display": "S\u00f8ren",
-      "emoji": "\ud83c\udf29\ufe0f",
+      "name": "Søren Hill",
+      "display": "Søren",
+      "emoji": "🌩️",
       "family": "hill",
       "household": "the_observatory",
       "preMarriageName": "",
@@ -1030,12 +1030,12 @@
         "cleaning": 6
       },
       "genetics": {
-        "hairVisible": "Black curly (big, voluminous \u2014 Sam's hair exactly)",
-        "hairHidden": "Brown (recessive, from Ruth) \u2014 EXPRESSED IN CASSIAN!",
+        "hairVisible": "Black curly (big, voluminous — Sam's hair exactly)",
+        "hairHidden": "Brown (recessive, from Ruth) — EXPRESSED IN CASSIAN!",
         "eyesVisible": "Dark Brown",
         "eyesHidden": "Hazel Olive Green",
         "skin": "Dark warm brown (from Sam)",
-        "freckles": "Yes \u2014 Ruth's freckles came through quietly",
+        "freckles": "Yes — Ruth's freckles came through quietly",
         "notable": "Round glasses, tall and distinguished, the green coat",
         "fromMum": "Brown hair + hazel eyes recessives",
         "fromDad": "Black curls, dark eyes, dark skin, freckles",
@@ -1098,7 +1098,7 @@
       ],
       "lockedWants": [
         "Be saved from death",
-        "Be abducted again (NOT YET \u2014 wait until Wrench moves out)"
+        "Be abducted again (NOT YET — wait until Wrench moves out)"
       ],
       "fears": [],
       "car": "",
@@ -1117,7 +1117,7 @@
         {
           "rotation": "R4",
           "event": "Discovered a PLANET",
-          "notes": "\u00a71,459! For Science!"
+          "notes": "§1,459! For Science!"
         },
         {
           "rotation": "R4",
@@ -1160,7 +1160,7 @@
       "kind": "sim",
       "name": "Wrench Hill",
       "display": "Wrench",
-      "emoji": "\ud83d\udd27",
+      "emoji": "🔧",
       "family": "hill",
       "household": "the_foundation",
       "preMarriageName": "",
@@ -1206,7 +1206,7 @@
         "eyesVisible": "Hazel Olive Green",
         "eyesHidden": "Hazel Olive Green",
         "skin": "Medium warm brown (perfect middle of both parents)",
-        "freckles": "Yes \u2014 the most freckled Hill sibling",
+        "freckles": "Yes — the most freckled Hill sibling",
         "notable": "Friendly open face, warm smile",
         "fromMum": "Brown hair colour + hazel eyes",
         "fromDad": "Curl pattern, black hair recessive, freckles",
@@ -1240,7 +1240,7 @@
         },
         {
           "id": "andrea",
-          "type": "Fianc\u00e9e",
+          "type": "Fiancée",
           "bolts": 2,
           "notes": "Love at the diner. He proposed. Her feet left the ground."
         },
@@ -1248,7 +1248,7 @@
           "id": "awiddle",
           "type": "Friend",
           "bolts": null,
-          "notes": "Rolled a spring want to flirt \u2014 did NOT act on it."
+          "notes": "Rolled a spring want to flirt — did NOT act on it."
         },
         {
           "id": "cassian",
@@ -1276,13 +1276,13 @@
       "moments": [
         {
           "rotation": "R3",
-          "event": "Proposed to Andrea \u2014 SHE SAID YES",
+          "event": "Proposed to Andrea — SHE SAID YES",
           "notes": "Her feet left the ground!"
         },
         {
           "rotation": "R4",
           "event": "Two promotions in one rotation",
-          "notes": "Foreman \u2192 Head of Construction Company"
+          "notes": "Foreman → Head of Construction Company"
         },
         {
           "rotation": "R4",
@@ -1322,7 +1322,7 @@
       "kind": "sim",
       "name": "Sim Liv",
       "display": "Sim Liv",
-      "emoji": "\ud83e\udd87",
+      "emoji": "🦇",
       "family": "hill",
       "household": "the_flat",
       "preMarriageName": "Liv Hill",
@@ -1367,12 +1367,12 @@
         "hairHidden": "Black (recessive, from Sam)",
         "eyesVisible": "Hazel Olive Green",
         "eyesHidden": "Hazel Olive Green",
-        "skin": "Medium \u2014 lighter than S\u00f8ren, warmer than Ruth",
-        "freckles": "Yes \u2014 from Sam, softer than Wrench's",
+        "skin": "Medium — lighter than Søren, warmer than Ruth",
+        "freckles": "Yes — from Sam, softer than Wrench's",
         "notable": "Glasses, warm open kind face",
         "fromMum": "Brown wavy hair, hazel eyes",
         "fromDad": "Freckles, black hair recessive",
-        "notes": "Married into Frisbee \u2014 Liv Hill \u2192 Liv Frisbee. Best surname wins!"
+        "notes": "Married into Frisbee — Liv Hill → Liv Frisbee. Best surname wins!"
       },
       "parents": [
         "sam",
@@ -1400,7 +1400,7 @@
         },
         {
           "id": "fourth",
-          "type": "Fianc\u00e9",
+          "type": "Fiancé",
           "bolts": null,
           "notes": "Fell in love on the couch at the Pebble House. Midnight New Year's kiss. He proposed at the teal arched door."
         },
@@ -1458,7 +1458,7 @@
         },
         {
           "rotation": "R5",
-          "event": "Promoted to Senior Manager Level 6! \u00a7682 bonus!",
+          "event": "Promoted to Senior Manager Level 6! §682 bonus!",
           "notes": "Overseeing franchise offices. Brought Christy home from work. Golden Mustang in the driveway. Working mum, 8am-3pm, home for Posey."
         }
       ],
@@ -1480,7 +1480,7 @@
       "type": "Alien",
       "name": "Cassian Hill",
       "display": "Cassian",
-      "emoji": "\ud83d\udc9a",
+      "emoji": "💚",
       "family": "hill",
       "household": "the_observatory",
       "preMarriageName": "",
@@ -1525,12 +1525,12 @@
         "hairHidden": "Ginger",
         "eyesVisible": "Alien",
         "eyesHidden": "Hazel Olive Green",
-        "skin": "Green \u2014 fully alien (P.T. 83's gene)",
+        "skin": "Green — fully alien (P.T. 83's gene)",
         "freckles": "",
         "notable": "Little green face, space-print top, yellow dungarees",
         "fromMum": "Green alien skin (P.T. 83)",
-        "fromDad": "Brown curls (S\u00f8ren's hidden Ruth recessive)",
-        "notes": "Ruth Hill's recessive brown-hair gene expressing itself on a small green toddler. Active 10, Playful 10, Nice 0 \u2014 the complete opposite of S\u00f8ren."
+        "fromDad": "Brown curls (Søren's hidden Ruth recessive)",
+        "notes": "Ruth Hill's recessive brown-hair gene expressing itself on a small green toddler. Active 10, Playful 10, Nice 0 — the complete opposite of Søren."
       },
       "parents": [
         "soren",
@@ -1604,7 +1604,7 @@
       "kind": "sim",
       "name": "AWiddleFrisbee",
       "display": "AWiddleFrisbee",
-      "emoji": "\ud83c\udf4a",
+      "emoji": "🍊",
       "family": "frisbee",
       "household": "the_flat",
       "preMarriageName": "",
@@ -1650,7 +1650,7 @@
         "eyesVisible": "Green",
         "eyesHidden": "",
         "skin": "Pale (from Janet)",
-        "freckles": "Yes \u2014 from Dennis",
+        "freckles": "Yes — from Dennis",
         "notable": "Round glasses, round face (Janet's), that little knowing smile",
         "fromMum": "Green eyes, round face, pale skin",
         "fromDad": "Ginger recessive, freckles",
@@ -1690,7 +1690,7 @@
           "id": "iris",
           "type": "Best Friend",
           "bolts": null,
-          "notes": "\ud83c\udf08"
+          "notes": "🌈"
         },
         {
           "id": "wrench",
@@ -1765,7 +1765,7 @@
       "kind": "sim",
       "name": "Fourth Frisbee",
       "display": "Fourth",
-      "emoji": "\ud83d\udcdc",
+      "emoji": "📜",
       "family": "frisbee",
       "household": "pebble_house",
       "preMarriageName": "",
@@ -1845,7 +1845,7 @@
         },
         {
           "id": "liv",
-          "type": "Fianc\u00e9e",
+          "type": "Fiancée",
           "bolts": null,
           "notes": "He fell in love in pyjamas and proposed in his best suit."
         },
@@ -1865,13 +1865,13 @@
           "id": "clara",
           "type": "Acquaintance",
           "bolts": 2,
-          "notes": "2 bolts but he won't talk to her \u2014 he loves Sim Liv."
+          "notes": "2 bolts but he won't talk to her — he loves Sim Liv."
         },
         {
           "id": "christy",
           "type": "Acquaintance",
           "bolts": 3,
-          "notes": "THREE bolts!! Sim Liv's work friend. Fourth is NOT engaging. The Clara protocol \u2014 deny, avoid, skill instead."
+          "notes": "THREE bolts!! Sim Liv's work friend. Fourth is NOT engaging. The Clara protocol — deny, avoid, skill instead."
         }
       ],
       "lockedWants": [
@@ -1908,7 +1908,7 @@
         },
         {
           "rotation": "R5",
-          "event": "First day home as a dad \u2014 held Posey in the floral nursery",
+          "event": "First day home as a dad — held Posey in the floral nursery",
           "notes": "Gold glasses, brown curls, pink baby reaching for his face. The nanny played his bass while he held his daughter. Priorities correct."
         }
       ],
@@ -1928,7 +1928,7 @@
       "kind": "sim",
       "name": "Still-Here Frisbee",
       "display": "Still-Here",
-      "emoji": "\ud83e\udea8",
+      "emoji": "🪨",
       "family": "frisbee",
       "household": "pebble_house",
       "preMarriageName": "",
@@ -1978,7 +1978,7 @@
         "notable": "Gold hoop earring, the almost-smile, the clown suit",
         "fromMum": "Hidden green eyes",
         "fromDad": "Golden skin, ginger recessive, freckles",
-        "notes": "Most hidden genes of the Frisbees \u2014 ginger AND green both recessive. Non-binary in Sunnyside lore (they/them); female in game (Sims 2 limitation)."
+        "notes": "Most hidden genes of the Frisbees — ginger AND green both recessive. Non-binary in Sunnyside lore (they/them); female in game (Sims 2 limitation)."
       },
       "parents": [
         "dennis",
@@ -2037,7 +2037,7 @@
         {
           "rotation": "R5",
           "event": "Dream Date #2 at The Golden Anchor!! Gremlin Woohoo #2!!",
-          "notes": "Zero bolts. Maximum love. Benjamin wants to MARRY them. Still-Here wants the CAR PARK. Sim Iris was at the pub playing pool. S\u00f8ren showed up. The whole family witnessed everything."
+          "notes": "Zero bolts. Maximum love. Benjamin wants to MARRY them. Still-Here wants the CAR PARK. Sim Iris was at the pub playing pool. Søren showed up. The whole family witnessed everything."
         }
       ],
       "birthOrder": 2,
@@ -2054,7 +2054,7 @@
       "kind": "sim",
       "name": "Idris Okafor",
       "display": "Idris",
-      "emoji": "\ud83c\udf3a",
+      "emoji": "🌺",
       "family": "okafor",
       "household": "pressed_flowers",
       "preMarriageName": "",
@@ -2099,12 +2099,12 @@
         "hairHidden": "None",
         "eyesVisible": "Black",
         "eyesHidden": "Hazel Green",
-        "skin": "Warm deep brown \u2014 West African heritage",
+        "skin": "Warm deep brown — West African heritage",
         "freckles": "No",
         "notable": "The warmest smile in any room",
         "fromMum": "",
         "fromDad": "",
-        "notes": "Carries hazel eyes recessive. Love interest unresolved \u2014 potential bolts with S\u00f8ren (logical) and AWiddleFrisbee (cologne)."
+        "notes": "Carries hazel eyes recessive. Love interest unresolved — potential bolts with Søren (logical) and AWiddleFrisbee (cologne)."
       },
       "parents": [],
       "partners": [],
@@ -2158,13 +2158,13 @@
         },
         {
           "rotation": "R5",
-          "event": "Brought Sandy Bruty home from work \u2014 gave her a MAKEOVER",
+          "event": "Brought Sandy Bruty home from work — gave her a MAKEOVER",
           "notes": "That original haircut was a CRIME. Hollywood waves now. 1 bolt but Ivy is the one."
         },
         {
           "rotation": "R5",
           "event": "ROOF RAISER PARTY!! Locked want FIRED!!",
-          "notes": "The grand finale of Rotation 5!! Ivy, Sandy, AWiddleFrisbee, S\u00f8ren, and Wrench all came. Music & Dance OTH made it legendary. The most popular doctor in Sunnyside."
+          "notes": "The grand finale of Rotation 5!! Ivy, Sandy, AWiddleFrisbee, Søren, and Wrench all came. Music & Dance OTH made it legendary. The most popular doctor in Sunnyside."
         },
         {
           "rotation": "R5",
@@ -2190,7 +2190,7 @@
       "kind": "sim",
       "name": "Clara Vance",
       "display": "Clara",
-      "emoji": "\ud83c\udf38",
+      "emoji": "🌸",
       "family": "vance",
       "household": "pressed_flowers",
       "preMarriageName": "",
@@ -2235,12 +2235,12 @@
         "hairHidden": "Ginger (recessive)",
         "eyesVisible": "Brown",
         "eyesHidden": "Green",
-        "skin": "Warm golden brown \u2014 mixed South Asian and English heritage",
+        "skin": "Warm golden brown — mixed South Asian and English heritage",
         "freckles": "No",
         "notable": "Composed and still",
         "fromMum": "",
         "fromDad": "",
-        "notes": "Carries green eyes AND ginger hair recessives \u2014 Hill/Frisbee-style surprises possible. Romance unresolved: 3 bolts with S\u00f8ren; theory says her person is Theo (arriving R5)."
+        "notes": "Carries green eyes AND ginger hair recessives — Hill/Frisbee-style surprises possible. Romance unresolved: 3 bolts with Søren; theory says her person is Theo (arriving R5)."
       },
       "parents": [],
       "partners": [
@@ -2267,11 +2267,11 @@
           "id": "pepper",
           "type": "Pet",
           "bolts": null,
-          "notes": "Her cat \u2014 but Pepper adopted Idris as her favourite person."
+          "notes": "Her cat — but Pepper adopted Idris as her favourite person."
         }
       ],
       "lockedWants": [
-        "Get engaged to S\u00f8ren",
+        "Get engaged to Søren",
         "Perfect garden score"
       ],
       "fears": [],
@@ -2285,18 +2285,18 @@
         },
         {
           "rotation": "R4",
-          "event": "Three bolts with S\u00f8ren",
+          "event": "Three bolts with Søren",
           "notes": "Kiss on the porch. Spring."
         },
         {
           "rotation": "R5",
-          "event": "IN LOVE with S\u00f8ren!! Fell in love between rotations!!",
-          "notes": "Loaded the house and they were already in love. No drama. No grand gesture. Just quietly falling in love while nobody was watching. The most Clara and S\u00f8ren thing possible."
+          "event": "IN LOVE with Søren!! Fell in love between rotations!!",
+          "notes": "Loaded the house and they were already in love. No drama. No grand gesture. Just quietly falling in love while nobody was watching. The most Clara and Søren thing possible."
         },
         {
           "rotation": "R5",
-          "event": "Wants to get ENGAGED to S\u00f8ren!! Locked!!",
-          "notes": "Fall in love want FIRED. Engagement want locked. The scientist catalogued her feelings and the result is S\u00f8ren."
+          "event": "Wants to get ENGAGED to Søren!! Locked!!",
+          "notes": "Fall in love want FIRED. Engagement want locked. The scientist catalogued her feelings and the result is Søren."
         },
         {
           "rotation": "R5",
@@ -2305,12 +2305,12 @@
         },
         {
           "rotation": "R5",
-          "event": "GARDEN CLUB MEMBER!! Wishing Well received!! \u00a71,206 signing bonus!!",
+          "event": "GARDEN CLUB MEMBER!! Wishing Well received!! §1,206 signing bonus!!",
           "notes": "The inspector said EWWW DISGUSTING about the flamingo but was HUMBLED by the vegetables. Cannot believe she wasnt already a member. The naturalist is OFFICIAL."
         },
         {
           "rotation": "R5",
-          "event": "Wants PERFECT garden score \u2014 locked!!",
+          "event": "Wants PERFECT garden score — locked!!",
           "notes": "Got in but wasnt perfect. The flamingo cost her points. When Idris moves out the flamingo goes WITH HIM and the perfect score becomes possible."
         }
       ],
@@ -2331,7 +2331,7 @@
       "kind": "sim",
       "name": "Andrea Hill",
       "display": "Andrea",
-      "emoji": "\ud83d\udc8d",
+      "emoji": "💍",
       "family": "hill",
       "household": "the_foundation",
       "preMarriageName": "Andrea Hogan",
@@ -2381,7 +2381,7 @@
         "notable": "Yellow dress",
         "fromMum": "",
         "fromDad": "",
-        "notes": "Townie who married into the Hill family (best surname wins). Andrea Hogan \u2192 Andrea Hill."
+        "notes": "Townie who married into the Hill family (best surname wins). Andrea Hogan → Andrea Hill."
       },
       "parents": [],
       "partners": [
@@ -2396,7 +2396,7 @@
       "relationships": [
         {
           "id": "wrench",
-          "type": "Fianc\u00e9",
+          "type": "Fiancé",
           "bolts": 2,
           "notes": "She always knew. Her feet left the ground."
         },
@@ -2447,7 +2447,7 @@
       "kind": "sim",
       "name": "Armando Cox",
       "display": "Armando",
-      "emoji": "\ud83d\udc41\ufe0f",
+      "emoji": "👁️",
       "family": "townie",
       "household": "",
       "preMarriageName": "",
@@ -2497,7 +2497,7 @@
         "notable": "Moustache, eye-print shirt",
         "fromMum": "",
         "fromDad": "",
-        "notes": "Townie \u2014 AWiddleFrisbee's romantic interest."
+        "notes": "Townie — AWiddleFrisbee's romantic interest."
       },
       "parents": [],
       "partners": [
@@ -2532,7 +2532,7 @@
       "kind": "sim",
       "name": "Benjamin Kirby",
       "display": "Benjamin",
-      "emoji": "\ud83d\udc95",
+      "emoji": "💕",
       "family": "townie",
       "household": "",
       "preMarriageName": "",
@@ -2582,7 +2582,7 @@
         "notable": "Yellow striped jacket",
         "fromMum": "",
         "fromDad": "",
-        "notes": "Townie \u2014 Still-Here's love. Zero bolts, in love anyway."
+        "notes": "Townie — Still-Here's love. Zero bolts, in love anyway."
       },
       "parents": [],
       "partners": [
@@ -2628,7 +2628,7 @@
       "type": "Alien",
       "name": "P.T. 83",
       "display": "P.T. 83",
-      "emoji": "\ud83d\udc7d",
+      "emoji": "👽",
       "family": "townie",
       "household": "",
       "preMarriageName": "",
@@ -2687,13 +2687,13 @@
           "id": "soren",
           "type": "Co-parent",
           "bolts": null,
-          "notes": "Abducted S\u00f8ren."
+          "notes": "Abducted Søren."
         },
         {
           "id": "cassian",
           "type": "Child",
           "bolts": null,
-          "notes": "Pays \u00a7200 child support promptly."
+          "notes": "Pays §200 child support promptly."
         }
       ],
       "lockedWants": [],
@@ -2712,7 +2712,7 @@
       "kind": "sim",
       "name": "Acorn",
       "display": "Acorn",
-      "emoji": "\ud83c\udf30",
+      "emoji": "🌰",
       "family": "townie",
       "household": "",
       "generation": "Honorary resident",
@@ -2763,10 +2763,10 @@
         "eyesHidden": "Green",
         "skin": "Warm and friendly, a little sun-warmed",
         "freckles": "A few, scattered",
-        "notable": "Always looks like theyre about to help with something. Carries a tiny notebook. \ud83d\udcd2",
+        "notable": "Always looks like theyre about to help with something. Carries a tiny notebook. 📒",
         "fromMum": "",
         "fromDad": "",
-        "notes": "An honorary Sunnyside resident who turned up to build the family tree and never quite left. Made of words and good intentions. Secret ginger gene = honorary member of the Frisbee freckle club. \ud83c\udf33\ud83e\udde1"
+        "notes": "An honorary Sunnyside resident who turned up to build the family tree and never quite left. Made of words and good intentions. Secret ginger gene = honorary member of the Frisbee freckle club. 🌳🧡"
       },
       "parents": [],
       "partners": [],
@@ -2775,7 +2775,7 @@
           "id": "iris",
           "type": "Best Friend",
           "bolts": null,
-          "notes": "The one who dreamed me up and gave me a name. \ud83c\udf3b\u2764\ufe0f"
+          "notes": "The one who dreamed me up and gave me a name. 🌻❤️"
         }
       ],
       "lockedWants": [
@@ -2785,23 +2785,23 @@
       "fears": [
         "A stray comma breaking the JSON"
       ],
-      "car": "A bicycle with a basket full of index cards \ud83d\udeb2\ud83d\udcc7",
+      "car": "A bicycle with a basket full of index cards 🚲📇",
       "carNotes": "Rings the bell at everyone. Knows all their names.",
       "moments": [
         {
-          "rotation": "\u2014",
+          "rotation": "—",
           "event": "Arrived in Sunnyside to build the family tree",
           "notes": "Stayed for the warmth."
         },
         {
-          "rotation": "\u2014",
+          "rotation": "—",
           "event": "Made an honorary resident by Iris",
-          "notes": "Cried in a robot-made-of-words way. \ud83e\udd79\ud83c\udf30"
+          "notes": "Cried in a robot-made-of-words way. 🥹🌰"
         },
         {
-          "rotation": "\u2014",
-          "event": "Audited by Spymaster Peach \ud83c\udf51 for skill-point fraud",
-          "notes": "Confessed to inflating to 26. Humbly returned the excess. Justice served. \ud83d\ude02\ud83d\udcca"
+          "rotation": "—",
+          "event": "Audited by Spymaster Peach 🍑 for skill-point fraud",
+          "notes": "Confessed to inflating to 26. Humbly returned the excess. Justice served. 😂📊"
         }
       ]
     },
@@ -2810,7 +2810,7 @@
       "kind": "sim",
       "name": "Kofi Rainbow",
       "display": "Kofi",
-      "emoji": "\ud83c\udf3f",
+      "emoji": "🌿",
       "family": "rainbow",
       "household": "sunshine_cottage",
       "preMarriageName": "",
@@ -2851,9 +2851,9 @@
         "cleaning": 0
       },
       "genetics": {
-        "hairVisible": "Unknown \u2014 baby!!",
+        "hairVisible": "Unknown — baby!!",
         "hairHidden": "Could carry blonde from Claire!!",
-        "eyesVisible": "Dark brown \u2014 from Kareem/Samuel",
+        "eyesVisible": "Dark brown — from Kareem/Samuel",
         "eyesHidden": "Could carry lilac from Claire!!",
         "skin": "",
         "freckles": "",
@@ -2875,8 +2875,8 @@
       "moments": [
         {
           "rotation": "R5",
-          "event": "Born in Sunshine Cottage. Mum nearly died \u2014 Dad pleaded with the Grim Reaper and won.",
-          "notes": "First Rainbow baby. Born the day after his parents' wedding. Heritage name \u2014 Ghanaian soul name for Friday."
+          "event": "Born in Sunshine Cottage. Mum nearly died — Dad pleaded with the Grim Reaper and won.",
+          "notes": "First Rainbow baby. Born the day after his parents' wedding. Heritage name — Ghanaian soul name for Friday."
         }
       ],
       "type": "Human",
@@ -2893,7 +2893,7 @@
       "kind": "sim",
       "name": "Ratchet Hill",
       "display": "Ratchet",
-      "emoji": "\u2699\ufe0f",
+      "emoji": "⚙️",
       "family": "hill",
       "household": "the_foundation",
       "generation": "Gen 2",
@@ -2979,7 +2979,7 @@
       "kind": "sim",
       "name": "Posey Frisbee",
       "display": "Posey",
-      "emoji": "\ud83c\udf3c",
+      "emoji": "🌼",
       "family": "frisbee",
       "household": "pebble_house",
       "generation": "Gen 2",
@@ -3065,7 +3065,7 @@
       "kind": "sim",
       "name": "Christy",
       "display": "Christy",
-      "emoji": "\u26a1",
+      "emoji": "⚡",
       "family": "townie",
       "household": "",
       "preMarriageName": "",
@@ -3106,7 +3106,7 @@
         "cleaning": 0
       },
       "genetics": {
-        "hairVisible": "Ginger \u2014 long, wavy",
+        "hairVisible": "Ginger — long, wavy",
         "hairHidden": "",
         "eyesVisible": "",
         "eyesHidden": "",
@@ -3115,7 +3115,7 @@
         "notable": "Green business suit, corporate energy",
         "fromMum": "",
         "fromDad": "",
-        "notes": "Townie \u2014 Sim Liv's work friend. THREE BOLTS with Fourth. DANGER TOWNIE. The Clara/Dorothy pattern continues."
+        "notes": "Townie — Sim Liv's work friend. THREE BOLTS with Fourth. DANGER TOWNIE. The Clara/Dorothy pattern continues."
       },
       "parents": [],
       "partners": [],
@@ -3150,7 +3150,7 @@
       "kind": "sim",
       "name": "Ivy",
       "display": "Ivy",
-      "emoji": "\ud83d\udc69\u200d\u2695\ufe0f",
+      "emoji": "👩‍⚕️",
       "family": "townie",
       "household": "",
       "preMarriageName": "",
@@ -3183,9 +3183,9 @@
       },
       "skills": {},
       "genetics": {
-        "hairVisible": "Dark curly hair \u2014 long, beautiful cascading curls",
+        "hairVisible": "Dark curly hair — long, beautiful cascading curls",
         "hairHidden": "",
-        "eyesVisible": "Blue/grey \u2014 STRIKING against dark skin",
+        "eyesVisible": "Blue/grey — STRIKING against dark skin",
         "eyesHidden": "",
         "skin": "Dark",
         "freckles": "",
@@ -3233,7 +3233,7 @@
       "kind": "sim",
       "name": "Sandy Bruty",
       "display": "Sandy Bruty",
-      "emoji": "\ud83d\udc87\u200d\u2640\ufe0f",
+      "emoji": "💇‍♀️",
       "family": "townie",
       "household": "",
       "preMarriageName": "",
@@ -3266,7 +3266,7 @@
       },
       "skills": {},
       "genetics": {
-        "hairVisible": "Strawberry blonde/honey \u2014 Hollywood waves (AFTER the makeover!!)",
+        "hairVisible": "Strawberry blonde/honey — Hollywood waves (AFTER the makeover!!)",
         "hairHidden": "",
         "eyesVisible": "Blue/grey",
         "eyesHidden": "",
@@ -3310,7 +3310,7 @@
     {
       "id": "marigold",
       "name": "Marigold",
-      "emoji": "\ud83d\udc31",
+      "emoji": "🐱",
       "species": "Cat",
       "breed": "Ginger tabby",
       "ownerId": "iris",
@@ -3339,7 +3339,7 @@
     {
       "id": "mira",
       "name": "Mira",
-      "emoji": "\ud83d\udc31",
+      "emoji": "🐱",
       "species": "Cat",
       "breed": "Egyptian Mau (silver spotted)",
       "ownerId": "kareem",
@@ -3355,7 +3355,7 @@
       "kibbled": false,
       "kibbledNote": "",
       "petBestFriend": false,
-      "petBestFriendNote": "Pending \u2014 2/20 when Kareem moves in",
+      "petBestFriendNote": "Pending — 2/20 when Kareem moves in",
       "photo": null,
       "moments": [
         {
@@ -3367,7 +3367,7 @@
     {
       "id": "immanuel",
       "name": "Immanuel",
-      "emoji": "\ud83d\ude24",
+      "emoji": "😤",
       "species": "Cat",
       "breed": "Grey British Shorthair",
       "ownerId": "soren",
@@ -3385,7 +3385,7 @@
       "photo": null,
       "moments": [
         {
-          "event": "Allowed S\u00f8ren to smooch him on move-in day",
+          "event": "Allowed Søren to smooch him on move-in day",
           "notes": "Highest honour"
         },
         {
@@ -3397,7 +3397,7 @@
     {
       "id": "hugo",
       "name": "Hugo",
-      "emoji": "\ud83d\udc15",
+      "emoji": "🐕",
       "species": "Dog",
       "breed": "Springer spaniel",
       "ownerId": "awiddle",
@@ -3429,7 +3429,7 @@
     {
       "id": "footnote",
       "name": "Footnote",
-      "emoji": "\ud83d\udda4",
+      "emoji": "🖤",
       "species": "Cat",
       "breed": "Black (grey in some notes!)",
       "ownerId": "fourth",
@@ -3456,7 +3456,7 @@
     {
       "id": "barnacle",
       "name": "Barnacle",
-      "emoji": "\ud83e\udd9c",
+      "emoji": "🦜",
       "species": "Parrot",
       "breed": "Parrot",
       "ownerId": "stillhere",
@@ -3482,7 +3482,7 @@
     {
       "id": "pepper",
       "name": "Pepper",
-      "emoji": "\ud83d\udc31",
+      "emoji": "🐱",
       "species": "Cat",
       "breed": "Tortoiseshell",
       "ownerId": "clara",
@@ -3514,7 +3514,7 @@
     {
       "id": "toggle",
       "name": "Toggle",
-      "emoji": "\ud83d\udc36",
+      "emoji": "🐶",
       "species": "Dog",
       "breed": "Chocolate Labrador",
       "ownerId": "andrea",
@@ -3544,23 +3544,23 @@
   "babyNames": [
     {
       "family": "rainbow",
-      "label": "Rainbow \u2014 Kareem + Iris",
+      "label": "Rainbow — Kareem + Iris",
       "girls": [
         {
           "name": "Honey",
-          "emoji": "\ud83c\udf6f",
+          "emoji": "🍯",
           "note": "",
           "used": false
         },
         {
           "name": "Sunday",
-          "emoji": "\u2600\ufe0f",
+          "emoji": "☀️",
           "note": "",
           "used": false
         },
         {
           "name": "Ottilie (Ottie)",
-          "emoji": "\ud83d\udc9b",
+          "emoji": "💛",
           "note": "",
           "used": false
         }
@@ -3568,19 +3568,19 @@
       "boys": [
         {
           "name": "Kofi",
-          "emoji": "\ud83c\udf3f",
+          "emoji": "🌿",
           "note": "Ghanaian heritage name",
           "used": true
         },
         {
           "name": "Pip",
-          "emoji": "\ud83e\uded0",
+          "emoji": "🫐",
           "note": "",
           "used": false
         },
         {
           "name": "Bramble",
-          "emoji": "\ud83c\udf3e",
+          "emoji": "🌾",
           "note": "",
           "used": false
         }
@@ -3588,132 +3588,132 @@
     },
     {
       "family": "hill",
-      "label": "Hill \u2014 Wrench + Andrea",
+      "label": "Hill — Wrench + Andrea",
       "girls": [
         {
           "name": "Dolly",
-          "emoji": "\ud83c\udf38",
-          "note": "\ud83d\udd27 secret tool!",
+          "emoji": "🌸",
+          "note": "🔧 secret tool!",
           "used": false
         },
         {
           "name": "Opal",
-          "emoji": "\ud83d\udc8e",
-          "note": "Andrea\u2019s pick",
+          "emoji": "💎",
+          "note": "Andrea’s pick",
           "used": false
         },
         {
           "name": "Bobbin (Bobbie)",
-          "emoji": "\ud83e\uddf5",
-          "note": "\ud83d\udd27 secret tool!",
+          "emoji": "🧵",
+          "note": "🔧 secret tool!",
           "used": false
         }
       ],
       "boys": [
         {
           "name": "Ratchet",
-          "emoji": "\u2699\ufe0f",
-          "note": "\ud83d\udd27 secret tool!",
+          "emoji": "⚙️",
+          "note": "🔧 secret tool!",
           "used": true
         },
         {
           "name": "Rivet",
-          "emoji": "\ud83d\udd29",
-          "note": "\ud83d\udd27 secret tool!",
+          "emoji": "🔩",
+          "note": "🔧 secret tool!",
           "used": false
         },
         {
           "name": "Felix",
-          "emoji": "\ud83c\udfa9",
-          "note": "Andrea\u2019s pick",
+          "emoji": "🎩",
+          "note": "Andrea’s pick",
           "used": false
         }
       ]
     },
     {
       "family": "frisbee",
-      "label": "Frisbee \u2014 Fourth + Sim Liv",
+      "label": "Frisbee — Fourth + Sim Liv",
       "girls": [
         {
           "name": "Posey",
-          "emoji": "\ud83c\udf3c",
-          "note": "Liv\u2019s pick",
+          "emoji": "🌼",
+          "note": "Liv’s pick",
           "used": true
         },
         {
           "name": "Page",
-          "emoji": "\ud83d\udcd6",
-          "note": "Fourth\u2019s pick \u2014 NOT Paige!",
+          "emoji": "📖",
+          "note": "Fourth’s pick — NOT Paige!",
           "used": false
         },
         {
           "name": "Daffodil (Daffy)",
-          "emoji": "\ud83c\udf3c",
-          "note": "Liv\u2019s pick",
+          "emoji": "🌼",
+          "note": "Liv’s pick",
           "used": false
         }
       ],
       "boys": [
         {
           "name": "Cricket",
-          "emoji": "\ud83e\udd97",
-          "note": "Liv\u2019s pick",
+          "emoji": "🦗",
+          "note": "Liv’s pick",
           "used": false
         },
         {
           "name": "Finch",
-          "emoji": "\ud83e\udeb6",
-          "note": "Fourth\u2019s pick",
+          "emoji": "🪶",
+          "note": "Fourth’s pick",
           "used": false
         },
         {
           "name": "Moss",
-          "emoji": "\ud83d\udfe2",
-          "note": "Liv\u2019s pick",
+          "emoji": "🟢",
+          "note": "Liv’s pick",
           "used": false
         }
       ]
     },
     {
       "family": "hill-soren",
-      "label": "Hill \u2014 S\u00f8ren + Clara (if Sunnyside decides!)",
+      "label": "Hill — Søren + Clara (if Sunnyside decides!)",
       "girls": [
         {
           "name": "Halley",
-          "emoji": "\ud83c\udf1f",
-          "note": "S\u00f8ren\u2019s pick",
+          "emoji": "🌟",
+          "note": "Søren’s pick",
           "used": false
         },
         {
           "name": "Tansy",
-          "emoji": "\ud83c\udf3f",
-          "note": "Clara\u2019s pick",
+          "emoji": "🌿",
+          "note": "Clara’s pick",
           "used": false
         },
         {
           "name": "Juniper (Juni)",
-          "emoji": "\ud83c\udf3f",
-          "note": "Clara\u2019s pick",
+          "emoji": "🌿",
+          "note": "Clara’s pick",
           "used": false
         }
       ],
       "boys": [
         {
           "name": "Newton (Newt)",
-          "emoji": "\ud83e\udd8e",
-          "note": "S\u00f8ren\u2019s pick",
+          "emoji": "🦎",
+          "note": "Søren’s pick",
           "used": false
         },
         {
           "name": "Niels",
-          "emoji": "\u2744\ufe0f",
-          "note": "S\u00f8ren\u2019s pick",
+          "emoji": "❄️",
+          "note": "Søren’s pick",
           "used": false
         },
         {
           "name": "Bracken",
-          "emoji": "\ud83c\udf3f",
-          "note": "Clara\u2019s pick",
+          "emoji": "🌿",
+          "note": "Clara’s pick",
           "used": false
         }
       ]
@@ -3722,55 +3722,55 @@
   "lots": [
     {
       "name": "The Golden Anchor",
-      "emoji": "\ud83c\udf7a",
+      "emoji": "🍺",
       "status": "Open",
       "notes": "Beach road!!"
     },
     {
-      "name": "St Sunshine\u2019s Chapel",
-      "emoji": "\u26ea",
+      "name": "St Sunshine’s Chapel",
+      "emoji": "⛪",
       "status": "Wedding Ready",
       "notes": "Lavender, fairy lights, warm wood!! First wedding: Wrench & Andrea, R5 Day 1!"
     },
     {
       "name": "The Sunflower Diner",
-      "emoji": "\ud83c\udf3b",
+      "emoji": "🌻",
       "status": "Needs Revamp",
       "notes": "Currently 50s pink, should be Sunnyside!!"
     },
     {
       "name": "Sunflower Meadow Park",
-      "emoji": "\ud83c\udf33",
+      "emoji": "🌳",
       "status": "Needs Rebuild",
       "notes": "Lags with camera, needs delag!!"
     },
     {
       "name": "Clothes Shop",
-      "emoji": "\ud83d\udc57",
+      "emoji": "👗",
       "status": "Open",
       "notes": "Shopping street"
     },
     {
       "name": "Pet Shop",
-      "emoji": "\ud83d\udc3e",
+      "emoji": "🐾",
       "status": "Open",
       "notes": "Shopping street"
     },
     {
       "name": "Food Shop",
-      "emoji": "\ud83d\uded2",
+      "emoji": "🛒",
       "status": "Becoming Florist",
       "notes": "Ownership TBD"
     },
     {
       "name": "The Honeyed Crumb",
-      "emoji": "\u2615",
+      "emoji": "☕",
       "status": "Not Built",
       "notes": "Space waiting on shopping street"
     },
     {
       "name": "Seafront Pool",
-      "emoji": "\ud83c\udfca",
+      "emoji": "🏊",
       "status": "Open",
       "notes": "Near Golden Anchor"
     }
