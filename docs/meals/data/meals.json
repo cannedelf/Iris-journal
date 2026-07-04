@@ -986,7 +986,8 @@
       "sweet_potatoes": true,
       "apples": true,
       "bananas": true,
-      "eggs": true
+      "eggs": true,
+      "low_fat_yogurts": true
     },
     "checked": {
       "spring_onions": true,
