@@ -86,7 +86,8 @@
         "dominant": false
       }
     ],
-    "rotation": 5
+    "rotation": 5,
+    "rotationStatus": "COMPLETE"
   },
   "families": [
     {
@@ -195,7 +196,7 @@
       "location": "Zig-Zag Road, Sunnyside",
       "features": "Craftsman cottage, naturalist study, vegetable patches",
       "movedIn": "2026-06-21",
-      "daysThisRotation": 0
+      "daysThisRotation": 3
     }
   ],
   "people": [
@@ -1254,6 +1255,12 @@
           "type": "Nephew",
           "bolts": null,
           "notes": "Held him during the kitchen fire. Hero uncle."
+        },
+        {
+          "id": "idris",
+          "type": "Friend",
+          "bolts": null,
+          "notes": "Friends!! Made at Pressed Flowers R5!! The doctor and the builder!!"
         }
       ],
       "lockedWants": [
@@ -2128,7 +2135,7 @@
         }
       ],
       "lockedWants": [
-        "Be friends with Wrench"
+        "BFF with Ivy"
       ],
       "fears": [],
       "car": "Red car",
@@ -2153,6 +2160,16 @@
           "rotation": "R5",
           "event": "Brought Sandy Bruty home from work \u2014 gave her a MAKEOVER",
           "notes": "That original haircut was a CRIME. Hollywood waves now. 1 bolt but Ivy is the one."
+        },
+        {
+          "rotation": "R5",
+          "event": "ROOF RAISER PARTY!! Locked want FIRED!!",
+          "notes": "The grand finale of Rotation 5!! Ivy, Sandy, AWiddleFrisbee, S\u00f8ren, and Wrench all came. Music & Dance OTH made it legendary. The most popular doctor in Sunnyside."
+        },
+        {
+          "rotation": "R5",
+          "event": "BFF want with Ivy LOCKED",
+          "notes": "The crush became love became a BFF goal. Building the foundation."
         }
       ],
       "tracker": {
@@ -2254,7 +2271,8 @@
         }
       ],
       "lockedWants": [
-        "Get engaged to S\u00f8ren"
+        "Get engaged to S\u00f8ren",
+        "Perfect garden score"
       ],
       "fears": [],
       "car": "Cream/gold car",
@@ -2284,6 +2302,16 @@
           "rotation": "R5",
           "event": "Bronze talent badge in gardening!!",
           "notes": "Day 1 she planted seeds. Rotation 5 she earned a badge. While Idris was upstairs with Ivy she was outside with her vegetables. Priorities."
+        },
+        {
+          "rotation": "R5",
+          "event": "GARDEN CLUB MEMBER!! Wishing Well received!! \u00a71,206 signing bonus!!",
+          "notes": "The inspector said EWWW DISGUSTING about the flamingo but was HUMBLED by the vegetables. Cannot believe she wasnt already a member. The naturalist is OFFICIAL."
+        },
+        {
+          "rotation": "R5",
+          "event": "Wants PERFECT garden score \u2014 locked!!",
+          "notes": "Got in but wasnt perfect. The flamingo cost her points. When Idris moves out the flamingo goes WITH HIM and the perfect score becomes possible."
         }
       ],
       "bornRotation": 4,
@@ -2294,7 +2322,9 @@
       "type": "Human",
       "yellowBow": false,
       "adopted": false,
-      "badges": {}
+      "badges": {
+        "gardening": "bronze"
+      }
     },
     {
       "id": "andrea",
