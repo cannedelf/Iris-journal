@@ -1008,7 +1008,8 @@
       "eggs": true,
       "carrots": true,
       "courgette": true,
-      "cucumber": true
+      "cucumber": true,
+      "lettuce": true
     }
   }
 }
