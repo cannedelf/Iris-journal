@@ -1010,7 +1010,8 @@
       "courgette": true,
       "cucumber": true,
       "lettuce": true,
-      "lemons": true
+      "lemons": true,
+      "limes": true
     }
   }
 }
