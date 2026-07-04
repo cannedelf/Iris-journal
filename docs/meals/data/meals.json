@@ -1011,7 +1011,8 @@
       "cucumber": true,
       "lettuce": true,
       "lemons": true,
-      "limes": true
+      "limes": true,
+      "red_onions": true
     }
   }
 }
