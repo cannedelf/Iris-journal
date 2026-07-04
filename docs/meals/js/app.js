@@ -183,9 +183,11 @@ function viewRecipe(id) {
 
   const ings = (r.ingredients || []).map(i => {
     const meta = sectionMeta(i.section);
+    const emoji = i.emoji || meta.emoji;
     return `<li>
-      <span class="ing-sec">${meta.emoji}</span>
+      <span class="ing-sec">${emoji}</span>
       <span class="ing-name">${esc(i.item)}${i.note ? ` <i>— ${esc(i.note)}</i>` : ''}</span>
+      ${i.qty ? `<span class="ing-qty">${esc(i.qty)}</span>` : ''}
     </li>`;
   }).join('');
 

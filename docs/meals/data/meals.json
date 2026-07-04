@@ -75,15 +75,17 @@
       "fat": "Under 5g — no oil in the dressing 💛",
       "lunchNote": "Make the full batch — half is Sunday lunch sorted.",
       "ingredients": [
-        { "item": "egg noodles", "amount": 2, "unit": "nest", "section": "dry", "note": "about 125g dry" },
-        { "item": "carrots", "amount": 1, "unit": "carrot", "section": "fresh", "note": "grated or matchsticks" },
-        { "item": "cucumber", "amount": 0.5, "unit": "cucumber", "section": "fresh" },
-        { "item": "spring onions", "amount": 0.5, "unit": "bunch", "section": "fresh" },
-        { "item": "edamame", "amount": 0.5, "unit": "bag", "section": "frozen", "note": "frozen — lasts weeks, shared with snacks" },
-        { "item": "limes", "amount": 1, "unit": "lime", "section": "fruit" },
-        { "item": "soy sauce", "amount": 1, "unit": "bottle", "section": "sauces", "check": true },
-        { "item": "sweet chilli sauce", "amount": 1, "unit": "bottle", "section": "sauces", "check": true },
-        { "item": "sesame seeds", "amount": 1, "unit": "pack", "section": "sauces", "check": true }
+        { "item": "soba noodles", "emoji": "🍜", "qty": "150g dry (2 nests)", "amount": 2, "unit": "nest", "section": "dry" },
+        { "item": "carrots", "emoji": "🥕", "qty": "1 medium — matchsticks or grated", "amount": 1, "unit": "carrot", "section": "fresh" },
+        { "item": "cucumber", "emoji": "🥒", "qty": "½ — thin strips or chunks", "amount": 0.5, "unit": "cucumber", "section": "fresh" },
+        { "item": "spring onions", "emoji": "🧅", "qty": "2 — sliced thin", "amount": 0.5, "unit": "bunch", "section": "fresh" },
+        { "item": "edamame", "emoji": "🫘", "qty": "80g", "amount": 0.5, "unit": "bag", "section": "frozen", "note": "frozen — lasts weeks, shared with snacks" },
+        { "item": "limes", "emoji": "🍋", "qty": "juice of 2 limes", "amount": 2, "unit": "lime", "section": "fruit" },
+        { "item": "soy sauce", "emoji": "🫙", "qty": "2 tbsp (30ml)", "amount": 1, "unit": "bottle", "section": "sauces", "check": true },
+        { "item": "sweet chilli sauce", "emoji": "🌶️", "qty": "2 tbsp (40g)", "amount": 1, "unit": "bottle", "section": "sauces", "check": true },
+        { "item": "sesame seeds", "emoji": "✨", "qty": "1 tsp, sprinkled", "amount": 1, "unit": "pack", "section": "sauces", "check": true },
+        { "item": "fresh coriander", "emoji": "🌿", "qty": "handful, torn on top", "amount": 1, "unit": "pack", "section": "fresh", "check": true, "note": "optional" },
+        { "item": "salt and pepper", "emoji": "🧂", "qty": "to taste", "amount": 0, "unit": "", "section": "spices" }
       ],
       "steps": [
         "Cook noodles per packet, drain, run under cold water until fully cool.",

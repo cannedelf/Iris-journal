@@ -144,10 +144,11 @@ code { background: var(--cream-2); padding: 1px 6px; border-radius: 6px; font-si
 .fat-note { background: var(--green-soft); color: #4d7340; }
 .lunch-note { background: var(--amber-soft); color: #9a6516; }
 .ing-list { list-style: none; margin: 0; padding: 0; }
-.ing-list li { display: flex; align-items: baseline; gap: 10px; padding: 9px 0; border-bottom: 1px dashed var(--line); font-weight: 700; }
+.ing-list li { display: flex; align-items: baseline; gap: 10px; padding: 10px 0; border-bottom: 1px dashed var(--line); font-weight: 700; }
 .ing-list li:last-child { border-bottom: none; }
-.ing-sec { font-size: 16px; }
-.ing-name { flex: 1; }
+.ing-sec { font-size: 16px; flex-shrink: 0; }
+.ing-name { flex: 1 1 40%; min-width: 0; }
+.ing-qty { flex: 1 1 auto; min-width: 0; font-weight: 800; color: var(--gold-deep); text-align: right; }
 .step-list { margin: 0; padding-left: 22px; }
 .step-list li { padding: 7px 0; font-weight: 600; line-height: 1.5; }
 .step-list li::marker { color: var(--gold-deep); font-weight: 800; }
