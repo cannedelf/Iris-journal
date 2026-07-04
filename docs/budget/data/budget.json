@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-07-03",
+    "updated": "2026-07-04",
     "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
     "weeklyBudget": 50,
     "payDay": 25,
@@ -18,12 +18,42 @@
       }
     ],
     "funds": {
-      "emergency": { "label": "Emergency Fund", "emoji": "🎯", "target": 3850, "balance": 100, "monthly": 130, "startDate": "2026-07-02", "note": "3 months of bills — minimum" },
-      "holiday": { "label": "Golden Drawer", "emoji": "🏖️", "balance": 0, "note": "Chase holiday savings — fed by the sorter + Widdle repayments" }
+      "emergency": {
+        "label": "Emergency Fund",
+        "emoji": "🎯",
+        "target": 3850,
+        "balance": 100,
+        "monthly": 130,
+        "startDate": "2026-07-02",
+        "note": "3 months of bills — minimum"
+      },
+      "holiday": {
+        "label": "Golden Drawer",
+        "emoji": "🏖️",
+        "balance": 0,
+        "note": "Chase holiday savings — fed by the sorter + Widdle repayments"
+      }
     },
     "debts": {
-      "widdle": { "label": "Widdle", "emoji": "🍊", "total": 739, "payments": [ { "date": "2026-04-30", "amount": 100 } ], "note": "Repayments go into the holiday fund" },
-      "novuna": { "label": "Novuna Kitchen Loan", "emoji": "🏠", "monthly": 194.14, "endDate": "2028-10-14", "note": "When it ends: £194/month free!" }
+      "widdle": {
+        "label": "Widdle",
+        "emoji": "🍊",
+        "total": 739,
+        "payments": [
+          {
+            "date": "2026-04-30",
+            "amount": 100
+          }
+        ],
+        "note": "Repayments go into the holiday fund"
+      },
+      "novuna": {
+        "label": "Novuna Kitchen Loan",
+        "emoji": "🏠",
+        "monthly": 194.14,
+        "endDate": "2028-10-14",
+        "note": "When it ends: £194/month free!"
+      }
     },
     "cardHistory": [],
     "categories": [
@@ -242,6 +272,13 @@
       "amount": 7.98,
       "category": "gifts",
       "note": ""
+    },
+    {
+      "id": "spend_1_0lx0h",
+      "date": "2026-07-04",
+      "amount": 1.37,
+      "category": "groceries",
+      "note": "Sainsbury's - £7.50 nectar points used"
     }
   ]
 }
