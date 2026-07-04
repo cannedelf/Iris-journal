@@ -983,7 +983,8 @@
       "garlic": true,
       "peppers": true,
       "spring_onions": true,
-      "sweet_potatoes": true
+      "sweet_potatoes": true,
+      "apples": true
     },
     "checked": {
       "spring_onions": true,
