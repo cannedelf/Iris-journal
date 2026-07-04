@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "neighbourhood": "Sunnyside",
-    "updated": "2026-07-03",
+    "updated": "2026-07-04",
     "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app \u2014 every save commits straight back to GitHub.",
     "eyeColours": [
       {
@@ -1072,9 +1072,9 @@
         },
         {
           "id": "clara",
-          "type": "Crush",
+          "type": "In Love",
           "bolts": 3,
-          "notes": "Three bolts! Kissed on the porch. Same Cancer sign. Letting Sunnyside decide."
+          "notes": "IN LOVE!! 3 bolts!! The porch kiss became EVERYTHING!! Wedding in R6??"
         },
         {
           "id": "kareem",
@@ -2118,7 +2118,13 @@
           "id": "awiddle",
           "type": "Best Friend",
           "bolts": null,
-          "notes": "BFF!! Made friends fast. Entertainment duo energy."
+          "notes": "BFF!! Fired R5!!"
+        },
+        {
+          "id": "sandy",
+          "type": "Friend",
+          "bolts": 1,
+          "notes": "Work friend! 1 bolt. Got a MAKEOVER from the Crobat and the Sunshine. Hollywood waves now."
         }
       ],
       "lockedWants": [
@@ -2132,6 +2138,21 @@
           "rotation": "R1",
           "event": "On The Golden Anchor stage",
           "notes": "Sang his heart out, one arm raised. Music & Dance OTH discovered. Nobody asked."
+        },
+        {
+          "rotation": "R5",
+          "event": "Friends with Wrench!! Locked want FIRED!!",
+          "notes": "Four rotations of waiting! The doctor and the builder are finally friends!"
+        },
+        {
+          "rotation": "R5",
+          "event": "IN LOVE with Ivy!! ACR woohoo while Clara was gardening!!",
+          "notes": "The crush became a flame. She came over after work. ACR decided. Clara was earning a bronze gardening badge and missed the whole thing."
+        },
+        {
+          "rotation": "R5",
+          "event": "Brought Sandy Bruty home from work \u2014 gave her a MAKEOVER",
+          "notes": "That original haircut was a CRIME. Hollywood waves now. 1 bolt but Ivy is the one."
         }
       ],
       "tracker": {
@@ -2221,9 +2242,9 @@
         },
         {
           "id": "soren",
-          "type": "Crush",
+          "type": "In Love",
           "bolts": 3,
-          "notes": "Three bolts! Same Cancer sign. Kissed on the porch. Letting Sunnyside decide."
+          "notes": "IN LOVE!! Wants to get ENGAGED!! 3 bolts!! The slow burn IGNITED between rotations!!"
         },
         {
           "id": "pepper",
@@ -2233,7 +2254,7 @@
         }
       ],
       "lockedWants": [
-        "Fall in love"
+        "Get engaged to S\u00f8ren"
       ],
       "fears": [],
       "car": "Cream/gold car",
@@ -2248,6 +2269,21 @@
           "rotation": "R4",
           "event": "Three bolts with S\u00f8ren",
           "notes": "Kiss on the porch. Spring."
+        },
+        {
+          "rotation": "R5",
+          "event": "IN LOVE with S\u00f8ren!! Fell in love between rotations!!",
+          "notes": "Loaded the house and they were already in love. No drama. No grand gesture. Just quietly falling in love while nobody was watching. The most Clara and S\u00f8ren thing possible."
+        },
+        {
+          "rotation": "R5",
+          "event": "Wants to get ENGAGED to S\u00f8ren!! Locked!!",
+          "notes": "Fall in love want FIRED. Engagement want locked. The scientist catalogued her feelings and the result is S\u00f8ren."
+        },
+        {
+          "rotation": "R5",
+          "event": "Bronze talent badge in gardening!!",
+          "notes": "Day 1 she planted seeds. Rotation 5 she earned a badge. While Idris was upstairs with Ivy she was outside with her vegetables. Priorities."
         }
       ],
       "bornRotation": 4,
@@ -3072,6 +3108,166 @@
       "car": "",
       "carNotes": "",
       "moments": [],
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {},
+      "cas": false,
+      "glasses": false
+    },
+    {
+      "id": "ivy",
+      "kind": "sim",
+      "name": "Ivy",
+      "display": "Ivy",
+      "emoji": "\ud83d\udc69\u200d\u2695\ufe0f",
+      "family": "townie",
+      "household": "",
+      "preMarriageName": "",
+      "lifeStage": "Adult",
+      "daysRemaining": null,
+      "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "",
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "starSign": "",
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "Female",
+      "career": {
+        "track": "Medicine",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {},
+      "genetics": {
+        "hairVisible": "Dark curly hair \u2014 long, beautiful cascading curls",
+        "hairHidden": "",
+        "eyesVisible": "Blue/grey \u2014 STRIKING against dark skin",
+        "eyesHidden": "",
+        "skin": "Dark",
+        "freckles": "",
+        "notable": "Teal work shirt. Stunning. Period drama energy.",
+        "fromMum": "",
+        "fromDad": "",
+        "notes": "Idris's work friend turned LOVE. 1 bolt. ACR woohoo while Clara was gardening. The blue eyes saw what they wanted."
+      },
+      "parents": [],
+      "partners": [],
+      "relationships": [
+        {
+          "id": "idris",
+          "type": "In Love",
+          "bolts": 1,
+          "notes": "IN LOVE!! ACR woohoo at Pressed Flowers!! Crush to flame!! Will move to The Observatory with him eventually!!"
+        },
+        {
+          "id": "clara",
+          "type": "Acquaintance",
+          "bolts": null,
+          "notes": "Met at Pressed Flowers. No bolts. AWiddleFrisbee was on the kitchen floor."
+        }
+      ],
+      "lockedWants": [],
+      "fears": [],
+      "car": "",
+      "carNotes": "",
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "IN LOVE with Idris!! ACR woohoo at Pressed Flowers!!",
+          "notes": "Came over after work. ACR decided while Clara was earning a gardening badge outside. The blue eyes and the red beanie. Sunnyside decided."
+        }
+      ],
+      "type": "Human",
+      "yellowBow": false,
+      "adopted": false,
+      "badges": {},
+      "cas": false,
+      "glasses": false
+    },
+    {
+      "id": "sandy",
+      "kind": "sim",
+      "name": "Sandy Bruty",
+      "display": "Sandy Bruty",
+      "emoji": "\ud83d\udc87\u200d\u2640\ufe0f",
+      "family": "townie",
+      "household": "",
+      "preMarriageName": "",
+      "lifeStage": "Adult",
+      "daysRemaining": null,
+      "generation": "Gen 1",
+      "photo": null,
+      "aspiration": "",
+      "secondaryAspiration": "",
+      "lifetimeWant": "",
+      "starSign": "",
+      "personality": {
+        "neat": 0,
+        "outgoing": 0,
+        "active": 0,
+        "playful": 0,
+        "nice": 0
+      },
+      "turnOn1": "",
+      "turnOn2": "",
+      "turnOff": "",
+      "oth": "",
+      "bodyFrame": "Female",
+      "career": {
+        "track": "Medicine",
+        "levelName": "",
+        "level": null,
+        "top": "",
+        "degree": ""
+      },
+      "skills": {},
+      "genetics": {
+        "hairVisible": "Strawberry blonde/honey \u2014 Hollywood waves (AFTER the makeover!!)",
+        "hairHidden": "",
+        "eyesVisible": "Blue/grey",
+        "eyesHidden": "",
+        "skin": "Light",
+        "freckles": "",
+        "notable": "Original haircut was a CRIME. The Crobat and Sunshine gave her vintage Hollywood waves. Much improved.",
+        "fromMum": "",
+        "fromDad": "",
+        "notes": "Idris's work friend. 1 bolt but Ivy is the one. Got the most dramatic makeover in Sunnyside history."
+      },
+      "parents": [],
+      "partners": [],
+      "relationships": [
+        {
+          "id": "idris",
+          "type": "Friend",
+          "bolts": 1,
+          "notes": "Work friends! 1 bolt. But Ivy has the crush and the woohoo. Sandy has the Hollywood hair."
+        }
+      ],
+      "lockedWants": [],
+      "fears": [],
+      "car": "",
+      "carNotes": "",
+      "moments": [
+        {
+          "rotation": "R5",
+          "event": "Got a MAKEOVER from the Crobat and the Sunshine",
+          "notes": "Original haircut was described as 'mum cut this in the kitchen'. Now has vintage Hollywood waves. Brought home from work by Idris. The most improved townie in Sunnyside."
+        }
+      ],
       "type": "Human",
       "yellowBow": false,
       "adopted": false,
