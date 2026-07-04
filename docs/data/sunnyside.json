@@ -849,7 +849,7 @@
       "lifeStage": "Adult",
       "daysRemaining": null,
       "generation": "Gen 1",
-      "photo": null,
+      "photo": "photos/kareem.png",
       "aspiration": "Family",
       "secondaryAspiration": "Knowledge",
       "lifetimeWant": "Reach Golden Anniversary",
