@@ -989,7 +989,8 @@
       "eggs": true,
       "low_fat_yogurts": true,
       "ice_lollies": true,
-      "bread": true
+      "bread": true,
+      "pitta_bread": true
     },
     "checked": {
       "spring_onions": true,
