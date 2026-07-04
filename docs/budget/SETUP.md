@@ -16,7 +16,8 @@ The budget tracker is served from the **same GitHub Pages site** as the family t
 1. On GitHub: repo → **Settings** → **Pages**.
 2. **Source:** Deploy from a branch → **Branch** `main`, folder **`/docs`** → **Save**.
 3. Wait ~1 minute. Your budget tracker lives at:
-   **`https://cannedelf.github.io/iris-journal/budget/`**
+   **`https://cannedelf.github.io/Iris-journal/budget/`**
+   (note the capital **I** — GitHub Pages URLs are case-sensitive)
 4. Open it on your phone and **add it to your Home Screen** (Share → Add to Home Screen)
    so it feels like a real app.
 

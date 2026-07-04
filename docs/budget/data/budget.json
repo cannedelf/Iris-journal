@@ -2,10 +2,60 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-06-25",
-    "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub. The few example spends below can be deleted from the History tab.",
+    "updated": "2026-07-04",
+    "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
     "weeklyBudget": 50,
-    "monthlyIncome": 0,
+    "payDay": 25,
+    "monthlyIncome": 2500,
+    "incomeItems": [
+      {
+        "label": "Salary (estimated)",
+        "amount": 2100
+      },
+      {
+        "label": "Widdle bills contribution",
+        "amount": 400
+      }
+    ],
+    "funds": {
+      "emergency": {
+        "label": "Emergency Fund",
+        "emoji": "🎯",
+        "target": 3850,
+        "balance": 100,
+        "monthly": 130,
+        "startDate": "2026-07-02",
+        "note": "3 months of bills — minimum"
+      },
+      "holiday": {
+        "label": "Golden Drawer",
+        "emoji": "🏖️",
+        "balance": 0,
+        "note": "Chase holiday savings — fed by the sorter + Widdle repayments"
+      }
+    },
+    "debts": {
+      "widdle": {
+        "label": "Widdle",
+        "emoji": "🍊",
+        "total": 739,
+        "payments": [
+          {
+            "date": "2026-04-30",
+            "amount": 100
+          }
+        ],
+        "note": "Repayments go into the holiday fund"
+      },
+      "novuna": {
+        "label": "Novuna Kitchen Loan",
+        "emoji": "🏠",
+        "monthly": 194.14,
+        "endDate": "2028-10-14",
+        "note": "When it ends: £194/month free!"
+      }
+    },
+    "cardHistory": [],
     "categories": [
       {
         "key": "groceries",
@@ -48,28 +98,98 @@
         "note": "Uber, trains, buses"
       },
       {
-        "key": "savings",
-        "emoji": "💰",
-        "label": "Savings",
+        "key": "chase",
+        "emoji": "🏦",
+        "label": "Chase Emergency Fund",
         "type": "savings",
-        "budget": 100,
-        "note": "Track whether it actually went into savings"
+        "auto": true,
+        "budget": 130,
+        "note": "Standing order on the 25th"
+      },
+      {
+        "key": "isa",
+        "emoji": "📈",
+        "label": "ISA (InvestEngine)",
+        "type": "savings",
+        "auto": true,
+        "budget": 50,
+        "note": "Auto direct debit"
       },
       {
         "key": "bills",
         "emoji": "🏠",
         "label": "Bills",
         "type": "fixed",
-        "budget": 1149,
-        "note": "Fixed — reference only"
+        "budget": 1098.62,
+        "note": "Fixed — reference only",
+        "items": [
+          {
+            "label": "Mortgage (Nationwide)",
+            "amount": 438.01
+          },
+          {
+            "label": "Council Tax",
+            "amount": 195
+          },
+          {
+            "label": "Kitchen loan (Novuna)",
+            "amount": 194.14
+          },
+          {
+            "label": "Energy (E.ON)",
+            "amount": 82.67
+          },
+          {
+            "label": "Flat Service Fees",
+            "amount": 75
+          },
+          {
+            "label": "Water (United Utilities)",
+            "amount": 43.44
+          },
+          {
+            "label": "Broadband (Virgin Media)",
+            "amount": 35.4
+          },
+          {
+            "label": "Pension (NEST)",
+            "amount": 20
+          },
+          {
+            "label": "TV Licence (quarterly, ~monthly)",
+            "amount": 14.96
+          }
+        ]
       },
       {
         "key": "subscriptions",
         "emoji": "📱",
         "label": "Subscriptions",
         "type": "fixed",
-        "budget": 135,
-        "note": "Fixed — reference only"
+        "budget": 134.97,
+        "note": "The five survivors",
+        "items": [
+          {
+            "label": "Claude.ai",
+            "amount": 90
+          },
+          {
+            "label": "Netflix",
+            "amount": 12.99
+          },
+          {
+            "label": "Spotify",
+            "amount": 12.99
+          },
+          {
+            "label": "giffgaff (phone)",
+            "amount": 10
+          },
+          {
+            "label": "Amazon Prime",
+            "amount": 8.99
+          }
+        ]
       },
       {
         "key": "gifts",
@@ -89,5 +209,76 @@
       }
     ]
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "spend_1_884k9",
+      "date": "2026-06-27",
+      "amount": 28.01,
+      "category": "travel",
+      "note": "Stuff for Rome!"
+    },
+    {
+      "id": "spend_2_kh9tz",
+      "date": "2026-06-27",
+      "amount": 1.18,
+      "category": "pharmacy",
+      "note": "Pills 💊"
+    },
+    {
+      "id": "spend_3_njqun",
+      "date": "2026-06-27",
+      "amount": 12.17,
+      "category": "groceries",
+      "note": "Aldi"
+    },
+    {
+      "id": "spend_1_4b4ok",
+      "date": "2026-06-27",
+      "amount": 100,
+      "category": "chase",
+      "note": "Emergency fund — first deposit"
+    },
+    {
+      "id": "spend_1_0pnlo",
+      "date": "2026-06-28",
+      "amount": 14.25,
+      "category": "travel",
+      "note": "Breakfast that may or may not be eaten"
+    },
+    {
+      "id": "spend_1_sc91n",
+      "date": "2026-06-28",
+      "amount": 8,
+      "category": "travel",
+      "note": "European phone internet"
+    },
+    {
+      "id": "spend_1_xo4j4",
+      "date": "2026-06-27",
+      "amount": 231.99,
+      "category": "travel",
+      "note": "To revolut for euros"
+    },
+    {
+      "id": "spend_1_g5e4l",
+      "date": "2026-07-03",
+      "amount": 31.7,
+      "category": "groceries",
+      "note": "Aldi weekly shop"
+    },
+    {
+      "id": "spend_2_4pepe",
+      "date": "2026-07-03",
+      "amount": 7.98,
+      "category": "gifts",
+      "note": ""
+    },
+    {
+      "id": "spend_1_0lx0h",
+      "date": "2026-07-04",
+      "amount": 1.37,
+      "category": "groceries",
+      "note": "Sainsbury's - £7.50 nectar points used"
+    }
+  ]
 }

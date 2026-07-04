@@ -3,52 +3,187 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-06-26",
+    "updated": "2026-07-04",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
   "mealPlan": {
-    "saturday":  { "breakfast": "weekend_free",   "lunch": "eggs_on_toast",          "dinner": "noodle_salad",        "shopping": true },
-    "sunday":    { "breakfast": "eggs_on_toast",   "lunch": "noodle_salad_leftovers", "dinner": "sweet_potato_chilli" },
-    "monday":    { "breakfast": "porridge",        "lunch": "chilli_rice_tub",        "dinner": "shakshuka" },
-    "tuesday":   { "breakfast": "porridge",        "lunch": "fridge_pitta",           "dinner": "arrabbiata" },
-    "wednesday": { "breakfast": "porridge",        "lunch": "arrabbiata_cold",        "dinner": "mexican_bowl" },
-    "thursday":  { "breakfast": "porridge",        "lunch": "mexican_bowl_cold",      "dinner": "veggie_pasta" },
-    "friday":    { "breakfast": "porridge",        "lunch": "veggie_pasta_cold",      "dinner": "falafel_pittas" }
+    "saturday": {
+      "breakfast": "weekend_free",
+      "lunch": "eggs_on_toast",
+      "dinner": "noodle_salad",
+      "shopping": true
+    },
+    "sunday": {
+      "breakfast": "eggs_on_toast",
+      "lunch": "noodle_salad_leftovers",
+      "dinner": "sweet_potato_chilli"
+    },
+    "monday": {
+      "breakfast": "porridge",
+      "lunch": "chilli_rice_tub",
+      "dinner": "shakshuka"
+    },
+    "tuesday": {
+      "breakfast": "porridge",
+      "lunch": "fridge_pitta",
+      "dinner": "arrabbiata"
+    },
+    "wednesday": {
+      "breakfast": "porridge",
+      "lunch": "arrabbiata_cold",
+      "dinner": "mexican_bowl"
+    },
+    "thursday": {
+      "breakfast": "porridge",
+      "lunch": "mexican_bowl_cold",
+      "dinner": "veggie_pasta"
+    },
+    "friday": {
+      "breakfast": "porridge",
+      "lunch": "veggie_pasta_cold",
+      "dinner": "falafel_pittas"
+    }
   },
   "connections": [
-    { "from": "noodle_salad",        "fromDay": "saturday",  "toDay": "sunday",    "label": "Sat noodles → Sunday lunch" },
-    { "from": "sweet_potato_chilli", "fromDay": "sunday",    "toDay": "monday",    "label": "Sun chilli → Monday chilli rice tub" },
-    { "from": "arrabbiata",          "fromDay": "tuesday",   "toDay": "wednesday", "label": "Tue arrabbiata → Wednesday cold pasta" },
-    { "from": "mexican_bowl",        "fromDay": "wednesday", "toDay": "thursday",  "label": "Wed Mexican bowl → Thursday tub (the BEST leftover!!)" },
-    { "from": "veggie_pasta",        "fromDay": "thursday",  "toDay": "friday",    "label": "Thu veggie pasta → Friday cold pasta" }
+    {
+      "from": "noodle_salad",
+      "fromDay": "saturday",
+      "toDay": "sunday",
+      "label": "Sat noodles → Sunday lunch"
+    },
+    {
+      "from": "sweet_potato_chilli",
+      "fromDay": "sunday",
+      "toDay": "monday",
+      "label": "Sun chilli → Monday chilli rice tub"
+    },
+    {
+      "from": "arrabbiata",
+      "fromDay": "tuesday",
+      "toDay": "wednesday",
+      "label": "Tue arrabbiata → Wednesday cold pasta"
+    },
+    {
+      "from": "mexican_bowl",
+      "fromDay": "wednesday",
+      "toDay": "thursday",
+      "label": "Wed Mexican bowl → Thursday tub (the BEST leftover!!)"
+    },
+    {
+      "from": "veggie_pasta",
+      "fromDay": "thursday",
+      "toDay": "friday",
+      "label": "Thu veggie pasta → Friday cold pasta"
+    }
   ],
   "derived": {
-    "weekend_free":          { "label": "Weekend — your call!", "emoji": "🎉", "note": "Lazy Saturday. Porridge, toast, or whatever you fancy." },
-    "eggs_on_toast":         { "label": "Eggs on toast", "emoji": "🍳", "of": "eggs_on_toast" },
-    "noodle_salad_leftovers":{ "label": "Cold noodle salad (leftovers)", "emoji": "🥢", "of": "noodle_salad", "note": "Sunday lunch sorted — straight from the fridge." },
-    "chilli_rice_tub":       { "label": "Chilli over rice (tub)", "emoji": "🍚", "of": "sweet_potato_chilli", "note": "Half the chilli + a mug of cooked rice. Grabbed Monday morning." },
-    "fridge_pitta":          { "label": "Fridge clear-out pitta", "emoji": "🥙", "of": "fridge_pitta" },
-    "arrabbiata_cold":       { "label": "Cold arrabbiata (tub)", "emoji": "🍝", "of": "arrabbiata", "note": "The chilli mellows overnight — genuinely lovely cold." },
-    "veggie_pasta_cold":     { "label": "Cold veggie pasta + lemon (tub)", "emoji": "🌿", "of": "veggie_pasta", "note": "Even better cold — the lemon keeps it fresh." },
-    "mexican_bowl_cold":     { "label": "Mexican bowl (tub)", "emoji": "🌮", "of": "mexican_bowl", "note": "Rice soaks up the bean juices overnight. You'll look forward to this one." }
+    "weekend_free": {
+      "label": "Weekend — your call!",
+      "emoji": "🎉",
+      "note": "Lazy Saturday. Porridge, toast, or whatever you fancy."
+    },
+    "eggs_on_toast": {
+      "label": "Eggs on toast",
+      "emoji": "🍳",
+      "of": "eggs_on_toast"
+    },
+    "noodle_salad_leftovers": {
+      "label": "Cold noodle salad (leftovers)",
+      "emoji": "🥢",
+      "of": "noodle_salad",
+      "note": "Sunday lunch sorted — straight from the fridge."
+    },
+    "chilli_rice_tub": {
+      "label": "Chilli over rice (tub)",
+      "emoji": "🍚",
+      "of": "sweet_potato_chilli",
+      "note": "Half the chilli + a mug of cooked rice. Grabbed Monday morning."
+    },
+    "fridge_pitta": {
+      "label": "Fridge clear-out pitta",
+      "emoji": "🥙",
+      "of": "fridge_pitta"
+    },
+    "arrabbiata_cold": {
+      "label": "Cold arrabbiata (tub)",
+      "emoji": "🍝",
+      "of": "arrabbiata",
+      "note": "The chilli mellows overnight — genuinely lovely cold."
+    },
+    "veggie_pasta_cold": {
+      "label": "Cold veggie pasta + lemon (tub)",
+      "emoji": "🌿",
+      "of": "veggie_pasta",
+      "note": "Even better cold — the lemon keeps it fresh."
+    },
+    "mexican_bowl_cold": {
+      "label": "Mexican bowl (tub)",
+      "emoji": "🌮",
+      "of": "mexican_bowl",
+      "note": "Rice soaks up the bean juices overnight. You'll look forward to this one."
+    }
   },
   "tubSchedule": {
-    "saturday":  { "tub": true,  "text": "Scoop half the noodle salad into a tub for Sunday lunch (optional — Sunday can be snacky too)." },
-    "sunday":    { "tub": true,  "text": "Half the chilli + a mug of cooked rice into a tub for Monday lunch." },
-    "monday":    { "tub": false, "text": "NO TUB — pitta day tomorrow!! Shakshuka doesn't travel." },
-    "tuesday":   { "tub": true,  "text": "Half the pasta straight into a tub for Wednesday — lid on, fridge." },
-    "wednesday": { "tub": true,  "text": "Half of everything — rice, beans, salsa, fresh bits — into a tub. The best one." },
-    "thursday":  { "tub": true,  "text": "Half the veggie pasta into a tub with an extra squeeze of lemon." },
-    "friday":    { "tub": false, "text": "NO TUB — WEEKEND!! 🎉 Shop tomorrow." }
+    "saturday": {
+      "tub": true,
+      "text": "Scoop half the noodle salad into a tub for Sunday lunch (optional — Sunday can be snacky too)."
+    },
+    "sunday": {
+      "tub": true,
+      "text": "Half the chilli + a mug of cooked rice into a tub for Monday lunch."
+    },
+    "monday": {
+      "tub": false,
+      "text": "NO TUB — pitta day tomorrow!! Shakshuka doesn't travel."
+    },
+    "tuesday": {
+      "tub": true,
+      "text": "Half the pasta straight into a tub for Wednesday — lid on, fridge."
+    },
+    "wednesday": {
+      "tub": true,
+      "text": "Half of everything — rice, beans, salsa, fresh bits — into a tub. The best one."
+    },
+    "thursday": {
+      "tub": true,
+      "text": "Half the veggie pasta into a tub with an extra squeeze of lemon."
+    },
+    "friday": {
+      "tub": false,
+      "text": "NO TUB — WEEKEND!! 🎉 Shop tomorrow."
+    }
   },
   "recipes": [
     {
-      "id": "porridge", "name": "Porridge at the Desk", "emoji": "🥣", "servings": "every weekday",
+      "id": "porridge",
+      "name": "Porridge at the Desk",
+      "emoji": "🥣",
+      "servings": "every weekday",
       "fat": "Under 5g — gallstone safe 💛",
       "ingredients": [
-        { "item": "porridge oats", "amount": 1, "unit": "bag", "section": "dry", "check": true, "note": "40g a morning — buy if running low" },
-        { "item": "honey", "amount": 1, "unit": "jar", "section": "sauces", "check": true, "note": "the favourite topping — buy if low" },
-        { "item": "bananas", "amount": 0.5, "unit": "bunch", "section": "fruit", "note": "sliced on top with honey" }
+        {
+          "item": "porridge oats",
+          "amount": 1,
+          "unit": "bag",
+          "section": "dry",
+          "check": true,
+          "note": "40g a morning — buy if running low"
+        },
+        {
+          "item": "honey",
+          "amount": 1,
+          "unit": "jar",
+          "section": "sauces",
+          "check": true,
+          "note": "the favourite topping — buy if low"
+        },
+        {
+          "item": "bananas",
+          "amount": 0.5,
+          "unit": "bunch",
+          "section": "fruit",
+          "note": "sliced on top with honey"
+        }
       ],
       "steps": [
         "40g porridge oats + 250ml water or milk (or half and half).",
@@ -57,12 +192,26 @@
       ]
     },
     {
-      "id": "eggs_on_toast", "name": "Eggs on Toast", "emoji": "🍳", "servings": 2,
+      "id": "eggs_on_toast",
+      "name": "Eggs on Toast",
+      "emoji": "🍳",
+      "servings": 2,
       "fat": "Poached or boiled to keep it low fat",
       "lunchNote": "Weekend breakfast + Saturday lunch — easy and filling.",
       "ingredients": [
-        { "item": "eggs", "amount": 4, "unit": "egg", "section": "chilled" },
-        { "item": "bread", "amount": 0.3, "unit": "loaf", "section": "bakery", "note": "shared with shakshuka" }
+        {
+          "item": "eggs",
+          "amount": 4,
+          "unit": "egg",
+          "section": "chilled"
+        },
+        {
+          "item": "bread",
+          "amount": 0.3,
+          "unit": "loaf",
+          "section": "bakery",
+          "note": "shared with shakshuka"
+        }
       ],
       "steps": [
         "Toast 2 slices of bread.",
@@ -71,21 +220,107 @@
       ]
     },
     {
-      "id": "noodle_salad", "name": "Cold Noodle Salad", "emoji": "🥢", "servings": 2,
+      "id": "noodle_salad",
+      "name": "Cold Noodle Salad",
+      "emoji": "🥢",
+      "servings": 2,
       "fat": "Under 5g — no oil in the dressing 💛",
       "lunchNote": "Make the full batch — half is Sunday lunch sorted.",
       "ingredients": [
-        { "item": "soba noodles", "emoji": "🍜", "qty": "150g dry (2 nests)", "amount": 2, "unit": "nest", "section": "dry" },
-        { "item": "carrots", "emoji": "🥕", "qty": "1 medium — matchsticks or grated", "amount": 1, "unit": "carrot", "section": "fresh" },
-        { "item": "cucumber", "emoji": "🥒", "qty": "½ — thin strips or chunks", "amount": 0.5, "unit": "cucumber", "section": "fresh" },
-        { "item": "spring onions", "emoji": "🧅", "qty": "2 — sliced thin", "amount": 0.5, "unit": "bunch", "section": "fresh" },
-        { "item": "edamame", "emoji": "🫘", "qty": "80g", "amount": 0.5, "unit": "bag", "section": "frozen", "note": "frozen — lasts weeks, shared with snacks" },
-        { "item": "limes", "emoji": "🍋", "qty": "juice of 2 limes", "amount": 2, "unit": "lime", "section": "fruit" },
-        { "item": "soy sauce", "emoji": "🫙", "qty": "2 tbsp (30ml)", "amount": 1, "unit": "bottle", "section": "sauces", "check": true },
-        { "item": "sweet chilli sauce", "emoji": "🌶️", "qty": "2 tbsp (40g)", "amount": 1, "unit": "bottle", "section": "sauces", "check": true },
-        { "item": "sesame seeds", "emoji": "✨", "qty": "1 tsp, sprinkled", "amount": 1, "unit": "pack", "section": "sauces", "check": true },
-        { "item": "fresh coriander", "emoji": "🌿", "qty": "handful, torn on top", "amount": 1, "unit": "pack", "section": "fresh", "check": true, "note": "optional" },
-        { "item": "salt and pepper", "emoji": "🧂", "qty": "to taste", "amount": 0, "unit": "", "section": "spices" }
+        {
+          "item": "soba noodles",
+          "emoji": "🍜",
+          "qty": "150g dry (2 nests)",
+          "amount": 2,
+          "unit": "nest",
+          "section": "dry"
+        },
+        {
+          "item": "carrots",
+          "emoji": "🥕",
+          "qty": "1 medium — matchsticks or grated",
+          "amount": 1,
+          "unit": "carrot",
+          "section": "fresh"
+        },
+        {
+          "item": "cucumber",
+          "emoji": "🥒",
+          "qty": "½ — thin strips or chunks",
+          "amount": 0.5,
+          "unit": "cucumber",
+          "section": "fresh"
+        },
+        {
+          "item": "spring onions",
+          "emoji": "🧅",
+          "qty": "2 — sliced thin",
+          "amount": 0.5,
+          "unit": "bunch",
+          "section": "fresh"
+        },
+        {
+          "item": "edamame",
+          "emoji": "🫘",
+          "qty": "80g",
+          "amount": 0.5,
+          "unit": "bag",
+          "section": "frozen",
+          "note": "frozen — lasts weeks, shared with snacks"
+        },
+        {
+          "item": "limes",
+          "emoji": "🍋",
+          "qty": "juice of 2 limes",
+          "amount": 2,
+          "unit": "lime",
+          "section": "fruit"
+        },
+        {
+          "item": "soy sauce",
+          "emoji": "🫙",
+          "qty": "2 tbsp (30ml)",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "sweet chilli sauce",
+          "emoji": "🌶️",
+          "qty": "2 tbsp (40g)",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "sesame seeds",
+          "emoji": "✨",
+          "qty": "1 tsp, sprinkled",
+          "amount": 1,
+          "unit": "pack",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "fresh coriander",
+          "emoji": "🌿",
+          "qty": "handful, torn on top",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh",
+          "check": true,
+          "note": "optional"
+        },
+        {
+          "item": "salt and pepper",
+          "emoji": "🧂",
+          "qty": "to taste",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        }
       ],
       "steps": [
         "Cook noodles per packet, drain, run under cold water until fully cool.",
@@ -95,22 +330,91 @@
       ]
     },
     {
-      "id": "sweet_potato_chilli", "name": "Loaded Sweet Potato + Bean Chilli", "emoji": "🍠", "servings": 2,
+      "id": "sweet_potato_chilli",
+      "name": "Loaded Sweet Potato + Bean Chilli",
+      "emoji": "🍠",
+      "servings": 2,
       "fat": "Under 5g — spray oil only 💛",
       "lunchNote": "Half over a sweet potato tonight, half + rice into a tub for Monday.",
       "ingredients": [
-        { "item": "sweet potatoes", "amount": 2, "unit": "sweet potato", "section": "fresh" },
-        { "item": "red onions", "amount": 1, "unit": "onion", "section": "fresh" },
-        { "item": "garlic", "amount": 2, "unit": "clove", "section": "fresh" },
-        { "item": "peppers", "amount": 1, "unit": "pepper", "section": "fresh", "note": "any colour" },
-        { "item": "tinned tomatoes", "amount": 1, "unit": "tin", "section": "tins" },
-        { "item": "tinned kidney beans", "amount": 1, "unit": "tin", "section": "tins" },
-        { "item": "rice", "amount": 0.15, "unit": "bag", "section": "dry", "note": "for the Monday lunch tub" },
-        { "item": "limes", "amount": 1, "unit": "lime", "section": "fruit" },
-        { "item": "cumin", "amount": 1, "unit": "tsp", "section": "spices", "check": true },
-        { "item": "paprika", "amount": 1, "unit": "tsp", "section": "spices", "check": true },
-        { "item": "chilli flakes", "amount": 1, "unit": "pinch", "section": "spices", "check": true },
-        { "item": "spray oil", "amount": 1, "unit": "can", "section": "spices", "check": true }
+        {
+          "item": "sweet potatoes",
+          "amount": 2,
+          "unit": "sweet potato",
+          "section": "fresh"
+        },
+        {
+          "item": "red onions",
+          "amount": 1,
+          "unit": "onion",
+          "section": "fresh"
+        },
+        {
+          "item": "garlic",
+          "amount": 2,
+          "unit": "clove",
+          "section": "fresh"
+        },
+        {
+          "item": "peppers",
+          "amount": 1,
+          "unit": "pepper",
+          "section": "fresh",
+          "note": "any colour"
+        },
+        {
+          "item": "tinned tomatoes",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "tinned kidney beans",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "rice",
+          "amount": 0.15,
+          "unit": "bag",
+          "section": "dry",
+          "note": "for the Monday lunch tub"
+        },
+        {
+          "item": "limes",
+          "amount": 1,
+          "unit": "lime",
+          "section": "fruit"
+        },
+        {
+          "item": "cumin",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "paprika",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "chilli flakes",
+          "amount": 1,
+          "unit": "pinch",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "spray oil",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
+        }
       ],
       "steps": [
         "Spray oil in a saucepan, fry onion 5 mins until soft.",
@@ -121,19 +425,72 @@
       ]
     },
     {
-      "id": "shakshuka", "name": "Shakshuka", "emoji": "🍅", "servings": 1,
+      "id": "shakshuka",
+      "name": "Shakshuka",
+      "emoji": "🍅",
+      "servings": 1,
       "fat": "Under 5g — spray oil only 💛",
       "lunchNote": "Doesn't travel — tomorrow is pitta day!!",
       "ingredients": [
-        { "item": "red onions", "amount": 1, "unit": "onion", "section": "fresh" },
-        { "item": "garlic", "amount": 2, "unit": "clove", "section": "fresh" },
-        { "item": "tinned tomatoes", "amount": 1, "unit": "tin", "section": "tins" },
-        { "item": "eggs", "amount": 2, "unit": "egg", "section": "chilled" },
-        { "item": "bread", "amount": 0.4, "unit": "loaf", "section": "bakery", "note": "for dipping" },
-        { "item": "cumin", "amount": 1, "unit": "tsp", "section": "spices", "check": true },
-        { "item": "paprika", "amount": 1, "unit": "tsp", "section": "spices", "check": true },
-        { "item": "chilli flakes", "amount": 1, "unit": "pinch", "section": "spices", "check": true },
-        { "item": "spray oil", "amount": 1, "unit": "can", "section": "spices", "check": true }
+        {
+          "item": "red onions",
+          "amount": 1,
+          "unit": "onion",
+          "section": "fresh"
+        },
+        {
+          "item": "garlic",
+          "amount": 2,
+          "unit": "clove",
+          "section": "fresh"
+        },
+        {
+          "item": "tinned tomatoes",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "eggs",
+          "amount": 2,
+          "unit": "egg",
+          "section": "chilled"
+        },
+        {
+          "item": "bread",
+          "amount": 0.4,
+          "unit": "loaf",
+          "section": "bakery",
+          "note": "for dipping"
+        },
+        {
+          "item": "cumin",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "paprika",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "chilli flakes",
+          "amount": 1,
+          "unit": "pinch",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "spray oil",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
+        }
       ],
       "steps": [
         "Spray oil in a frying pan with a lid. Fry half an onion 5 mins, add garlic + spices, fry 30 sec.",
@@ -143,14 +500,41 @@
       ]
     },
     {
-      "id": "fridge_pitta", "name": "Fridge Clear-Out Pitta", "emoji": "🥙", "servings": 1,
+      "id": "fridge_pitta",
+      "name": "Fridge Clear-Out Pitta",
+      "emoji": "🥙",
+      "servings": 1,
       "fat": "Low — it's salad in a pitta 💛",
       "lunchNote": "The fridge decides. Hot sauce fixes everything.",
       "ingredients": [
-        { "item": "pitta bread", "amount": 0, "unit": "pack", "section": "bakery", "note": "from Saturday's pack — already on the list" },
-        { "item": "peppers", "amount": 2, "unit": "pepper", "section": "fresh", "note": "clear-out spares" },
-        { "item": "lettuce", "amount": 0.5, "unit": "bag", "section": "fresh", "note": "shared with falafel pittas" },
-        { "item": "salsa", "amount": 0, "unit": "jar", "section": "sauces", "note": "or hot sauce — already on the list" }
+        {
+          "item": "pitta bread",
+          "amount": 0,
+          "unit": "pack",
+          "section": "bakery",
+          "note": "from Saturday's pack — already on the list"
+        },
+        {
+          "item": "peppers",
+          "amount": 2,
+          "unit": "pepper",
+          "section": "fresh",
+          "note": "clear-out spares"
+        },
+        {
+          "item": "lettuce",
+          "amount": 0.5,
+          "unit": "bag",
+          "section": "fresh",
+          "note": "shared with falafel pittas"
+        },
+        {
+          "item": "salsa",
+          "amount": 0,
+          "unit": "jar",
+          "section": "sauces",
+          "note": "or hot sauce — already on the list"
+        }
       ],
       "steps": [
         "Warm a pitta in the toaster.",
@@ -159,16 +543,54 @@
       ]
     },
     {
-      "id": "arrabbiata", "name": "Pasta Arrabbiata", "emoji": "🍝", "servings": 2,
+      "id": "arrabbiata",
+      "name": "Pasta Arrabbiata",
+      "emoji": "🍝",
+      "servings": 2,
       "fat": "Under 5g — spray oil only 💛",
       "lunchNote": "Half hot tonight, half cold in a tub tomorrow.",
       "ingredients": [
-        { "item": "dried pasta", "amount": 0.4, "unit": "bag", "section": "dry", "note": "penne or rigatoni — 500g bag" },
-        { "item": "garlic", "amount": 3, "unit": "clove", "section": "fresh" },
-        { "item": "tinned tomatoes", "amount": 1, "unit": "tin", "section": "tins" },
-        { "item": "fresh basil", "amount": 1, "unit": "pack", "section": "fresh", "check": true, "note": "optional" },
-        { "item": "chilli flakes", "amount": 1, "unit": "tsp", "section": "spices", "check": true },
-        { "item": "spray oil", "amount": 1, "unit": "can", "section": "spices", "check": true }
+        {
+          "item": "dried pasta",
+          "amount": 0.4,
+          "unit": "bag",
+          "section": "dry",
+          "note": "penne or rigatoni — 500g bag"
+        },
+        {
+          "item": "garlic",
+          "amount": 3,
+          "unit": "clove",
+          "section": "fresh"
+        },
+        {
+          "item": "tinned tomatoes",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "fresh basil",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh",
+          "check": true,
+          "note": "optional"
+        },
+        {
+          "item": "chilli flakes",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "spray oil",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
+        }
       ],
       "steps": [
         "Cook all 200g pasta per packet.",
@@ -178,16 +600,53 @@
       ]
     },
     {
-      "id": "veggie_pasta", "name": "Summer Veggie Pasta", "emoji": "🌿", "servings": 2,
+      "id": "veggie_pasta",
+      "name": "Summer Veggie Pasta",
+      "emoji": "🌿",
+      "servings": 2,
       "fat": "Under 5g — spray oil only 💛",
       "lunchNote": "Half hot tonight, half cold + extra lemon tomorrow.",
       "ingredients": [
-        { "item": "dried pasta", "amount": 0.4, "unit": "bag", "section": "dry", "note": "any shape — 500g bag" },
-        { "item": "courgette", "amount": 1, "unit": "courgette", "section": "fresh" },
-        { "item": "cherry tomatoes", "amount": 1, "unit": "punnet", "section": "fresh", "note": "about 10, halved" },
-        { "item": "garlic", "amount": 2, "unit": "clove", "section": "fresh" },
-        { "item": "lemons", "amount": 1, "unit": "lemon", "section": "fruit" },
-        { "item": "fresh basil", "amount": 1, "unit": "pack", "section": "fresh", "check": true, "note": "or rocket — optional" }
+        {
+          "item": "dried pasta",
+          "amount": 0.4,
+          "unit": "bag",
+          "section": "dry",
+          "note": "any shape — 500g bag"
+        },
+        {
+          "item": "courgette",
+          "amount": 1,
+          "unit": "courgette",
+          "section": "fresh"
+        },
+        {
+          "item": "cherry tomatoes",
+          "amount": 1,
+          "unit": "punnet",
+          "section": "fresh",
+          "note": "about 10, halved"
+        },
+        {
+          "item": "garlic",
+          "amount": 2,
+          "unit": "clove",
+          "section": "fresh"
+        },
+        {
+          "item": "lemons",
+          "amount": 1,
+          "unit": "lemon",
+          "section": "fruit"
+        },
+        {
+          "item": "fresh basil",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh",
+          "check": true,
+          "note": "or rocket — optional"
+        }
       ],
       "steps": [
         "Cook all 200g pasta.",
@@ -197,20 +656,79 @@
       ]
     },
     {
-      "id": "mexican_bowl", "name": "Mexican Rice Bowl", "emoji": "🌮", "servings": 2,
+      "id": "mexican_bowl",
+      "name": "Mexican Rice Bowl",
+      "emoji": "🌮",
+      "servings": 2,
       "fat": "Under 5g — no oil needed 💛",
       "lunchNote": "The BEST leftover on the list — rice soaks up the bean juices overnight.",
       "ingredients": [
-        { "item": "rice", "amount": 0.3, "unit": "bag", "section": "dry", "note": "about a mugful dry" },
-        { "item": "tinned black beans", "amount": 1, "unit": "tin", "section": "tins" },
-        { "item": "limes", "amount": 1, "unit": "lime", "section": "fruit" },
-        { "item": "cherry tomatoes", "amount": 0.5, "unit": "punnet", "section": "fresh" },
-        { "item": "cucumber", "amount": 0.25, "unit": "cucumber", "section": "fresh" },
-        { "item": "spring onions", "amount": 0.5, "unit": "bunch", "section": "fresh" },
-        { "item": "salsa", "amount": 0.7, "unit": "jar", "section": "sauces", "note": "shared with veg-stick snacks" },
-        { "item": "fresh coriander", "amount": 1, "unit": "pack", "section": "fresh", "check": true, "note": "optional" },
-        { "item": "cumin", "amount": 1, "unit": "tsp", "section": "spices", "check": true },
-        { "item": "paprika", "amount": 1, "unit": "tsp", "section": "spices", "check": true }
+        {
+          "item": "rice",
+          "amount": 0.3,
+          "unit": "bag",
+          "section": "dry",
+          "note": "about a mugful dry"
+        },
+        {
+          "item": "tinned black beans",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "limes",
+          "amount": 1,
+          "unit": "lime",
+          "section": "fruit"
+        },
+        {
+          "item": "cherry tomatoes",
+          "amount": 0.5,
+          "unit": "punnet",
+          "section": "fresh"
+        },
+        {
+          "item": "cucumber",
+          "amount": 0.25,
+          "unit": "cucumber",
+          "section": "fresh"
+        },
+        {
+          "item": "spring onions",
+          "amount": 0.5,
+          "unit": "bunch",
+          "section": "fresh"
+        },
+        {
+          "item": "salsa",
+          "amount": 0.7,
+          "unit": "jar",
+          "section": "sauces",
+          "note": "shared with veg-stick snacks"
+        },
+        {
+          "item": "fresh coriander",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh",
+          "check": true,
+          "note": "optional"
+        },
+        {
+          "item": "cumin",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "paprika",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        }
       ],
       "steps": [
         "Cook rice per packet.",
@@ -220,18 +738,64 @@
       ]
     },
     {
-      "id": "falafel_pittas", "name": "Baked Falafel Pittas", "emoji": "🥙", "servings": 2,
+      "id": "falafel_pittas",
+      "name": "Baked Falafel Pittas",
+      "emoji": "🥙",
+      "servings": 2,
       "fat": "Check the packet — baked is much lower than fried, aim under 5g 💛",
       "lunchNote": "NO TUB — it's the weekend tomorrow!! 🎉",
       "ingredients": [
-        { "item": "frozen falafel", "amount": 1, "unit": "box", "section": "frozen" },
-        { "item": "pitta bread", "amount": 1, "unit": "pack", "section": "bakery", "note": "Tuesday lunch + Friday dinner" },
-        { "item": "lettuce", "amount": 0.5, "unit": "bag", "section": "fresh", "note": "shared with fridge pitta" },
-        { "item": "cherry tomatoes", "amount": 0.5, "unit": "punnet", "section": "fresh" },
-        { "item": "cucumber", "amount": 0.25, "unit": "cucumber", "section": "fresh" },
-        { "item": "red onions", "amount": 1, "unit": "onion", "section": "fresh" },
-        { "item": "lemons", "amount": 1, "unit": "lemon", "section": "fruit" },
-        { "item": "hot sauce", "amount": 1, "unit": "bottle", "section": "sauces", "check": true }
+        {
+          "item": "frozen falafel",
+          "amount": 1,
+          "unit": "box",
+          "section": "frozen"
+        },
+        {
+          "item": "pitta bread",
+          "amount": 1,
+          "unit": "pack",
+          "section": "bakery",
+          "note": "Tuesday lunch + Friday dinner"
+        },
+        {
+          "item": "lettuce",
+          "amount": 0.5,
+          "unit": "bag",
+          "section": "fresh",
+          "note": "shared with fridge pitta"
+        },
+        {
+          "item": "cherry tomatoes",
+          "amount": 0.5,
+          "unit": "punnet",
+          "section": "fresh"
+        },
+        {
+          "item": "cucumber",
+          "amount": 0.25,
+          "unit": "cucumber",
+          "section": "fresh"
+        },
+        {
+          "item": "red onions",
+          "amount": 1,
+          "unit": "onion",
+          "section": "fresh"
+        },
+        {
+          "item": "lemons",
+          "amount": 1,
+          "unit": "lemon",
+          "section": "fruit"
+        },
+        {
+          "item": "hot sauce",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        }
       ],
       "steps": [
         "Bake falafel per packet (usually 15–20 mins at 200°C).",
@@ -242,39 +806,179 @@
     }
   ],
   "snacks": {
-    "selected": ["apples", "bagel_jam", "yogurt", "banana_toast", "edamame"],
+    "selected": [
+      "apples",
+      "peach_yogurt",
+      "ice_lollies"
+    ],
     "available": [
-      { "id": "apples", "name": "Apple slices", "emoji": "🍎",
-        "shoppingItems": [{ "item": "apples", "amount": 1, "unit": "bag", "section": "fruit" }] },
-      { "id": "bagel_jam", "name": "Bagel with jam", "emoji": "🥯",
+      {
+        "id": "apples",
+        "name": "Apple slices",
+        "emoji": "🍎",
         "shoppingItems": [
-          { "item": "bagels", "amount": 1, "unit": "pack", "section": "bakery" },
-          { "item": "jam", "amount": 1, "unit": "jar", "section": "sauces", "check": true }
-        ] },
-      { "id": "rice_cakes", "name": "Rice cakes with jam or salsa", "emoji": "🍚",
-        "shoppingItems": [{ "item": "rice cakes", "amount": 1, "unit": "pack", "section": "dry" }] },
-      { "id": "yogurt", "name": "Low fat yogurt", "emoji": "🥄",
-        "shoppingItems": [{ "item": "low fat yogurts", "amount": 1, "unit": "pack", "section": "chilled" }] },
-      { "id": "veg_sticks", "name": "Veg sticks with salsa", "emoji": "🥕",
+          {
+            "item": "apples",
+            "amount": 1,
+            "unit": "bag",
+            "section": "fruit"
+          }
+        ]
+      },
+      {
+        "id": "bagel_jam",
+        "name": "Bagel with jam",
+        "emoji": "🥯",
         "shoppingItems": [
-          { "item": "carrots", "amount": 2, "unit": "carrot", "section": "fresh" },
-          { "item": "cucumber", "amount": 0.5, "unit": "cucumber", "section": "fresh" },
-          { "item": "salsa", "amount": 0.3, "unit": "jar", "section": "sauces", "note": "shared with Mexican bowl" }
-        ] },
-      { "id": "banana_toast", "name": "Banana on toast with honey", "emoji": "🍌",
+          {
+            "item": "bagels",
+            "amount": 1,
+            "unit": "pack",
+            "section": "bakery"
+          },
+          {
+            "item": "jam",
+            "amount": 1,
+            "unit": "jar",
+            "section": "sauces",
+            "check": true
+          }
+        ]
+      },
+      {
+        "id": "rice_cakes",
+        "name": "Rice cakes with jam or salsa",
+        "emoji": "🍚",
         "shoppingItems": [
-          { "item": "bananas", "amount": 0.5, "unit": "bunch", "section": "fruit", "note": "shared with porridge" },
-          { "item": "honey", "amount": 1, "unit": "jar", "section": "sauces", "check": true },
-          { "item": "bread", "amount": 0.2, "unit": "loaf", "section": "bakery", "note": "shared with shakshuka" }
-        ] },
-      { "id": "frozen_sorbet", "name": "Frozen fruit sorbet", "emoji": "🧊",
-        "shoppingItems": [{ "item": "frozen fruit", "amount": 1, "unit": "bag", "section": "frozen" }] },
-      { "id": "edamame", "name": "Edamame with soy sauce", "emoji": "🫘",
-        "shoppingItems": [{ "item": "edamame", "amount": 0.5, "unit": "bag", "section": "frozen", "note": "shared with noodle salad" }] },
-      { "id": "ice_lollies", "name": "Low fat ice lollies", "emoji": "🍦",
-        "shoppingItems": [{ "item": "ice lollies", "amount": 1, "unit": "box", "section": "frozen" }] },
-      { "id": "peach_yogurt", "name": "Peach & passionfruit yogurt", "emoji": "🍑",
-        "shoppingItems": [{ "item": "low fat yogurts", "amount": 1, "unit": "pack", "section": "chilled", "note": "Spymaster Peach approved!!" }] }
+          {
+            "item": "rice cakes",
+            "amount": 1,
+            "unit": "pack",
+            "section": "dry"
+          }
+        ]
+      },
+      {
+        "id": "yogurt",
+        "name": "Low fat yogurt",
+        "emoji": "🥄",
+        "shoppingItems": [
+          {
+            "item": "low fat yogurts",
+            "amount": 1,
+            "unit": "pack",
+            "section": "chilled"
+          }
+        ]
+      },
+      {
+        "id": "veg_sticks",
+        "name": "Veg sticks with salsa",
+        "emoji": "🥕",
+        "shoppingItems": [
+          {
+            "item": "carrots",
+            "amount": 2,
+            "unit": "carrot",
+            "section": "fresh"
+          },
+          {
+            "item": "cucumber",
+            "amount": 0.5,
+            "unit": "cucumber",
+            "section": "fresh"
+          },
+          {
+            "item": "salsa",
+            "amount": 0.3,
+            "unit": "jar",
+            "section": "sauces",
+            "note": "shared with Mexican bowl"
+          }
+        ]
+      },
+      {
+        "id": "banana_toast",
+        "name": "Banana on toast with honey",
+        "emoji": "🍌",
+        "shoppingItems": [
+          {
+            "item": "bananas",
+            "amount": 0.5,
+            "unit": "bunch",
+            "section": "fruit",
+            "note": "shared with porridge"
+          },
+          {
+            "item": "honey",
+            "amount": 1,
+            "unit": "jar",
+            "section": "sauces",
+            "check": true
+          },
+          {
+            "item": "bread",
+            "amount": 0.2,
+            "unit": "loaf",
+            "section": "bakery",
+            "note": "shared with shakshuka"
+          }
+        ]
+      },
+      {
+        "id": "frozen_sorbet",
+        "name": "Frozen fruit sorbet",
+        "emoji": "🧊",
+        "shoppingItems": [
+          {
+            "item": "frozen fruit",
+            "amount": 1,
+            "unit": "bag",
+            "section": "frozen"
+          }
+        ]
+      },
+      {
+        "id": "edamame",
+        "name": "Edamame with soy sauce",
+        "emoji": "🫘",
+        "shoppingItems": [
+          {
+            "item": "edamame",
+            "amount": 0.5,
+            "unit": "bag",
+            "section": "frozen",
+            "note": "shared with noodle salad"
+          }
+        ]
+      },
+      {
+        "id": "ice_lollies",
+        "name": "Low fat ice lollies",
+        "emoji": "🍦",
+        "shoppingItems": [
+          {
+            "item": "ice lollies",
+            "amount": 1,
+            "unit": "box",
+            "section": "frozen"
+          }
+        ]
+      },
+      {
+        "id": "peach_yogurt",
+        "name": "Peach & passionfruit yogurt",
+        "emoji": "🍑",
+        "shoppingItems": [
+          {
+            "item": "low fat yogurts",
+            "amount": 1,
+            "unit": "pack",
+            "section": "chilled",
+            "note": "Spymaster Peach approved!!"
+          }
+        ]
+      }
     ]
   },
   "pantry": {
@@ -289,9 +993,60 @@
     "sesame seeds": true
   },
   "shopping": {
-    "generated": null,
+    "generated": "2026-07-03",
     "have": {},
-    "got": {},
-    "checked": {}
+    "got": {
+      "tinned_kidney_beans": true,
+      "dried_pasta": true,
+      "rice": true,
+      "egg_noodles": true,
+      "edamame": true,
+      "chilli_flakes": true,
+      "cumin": true,
+      "paprika": true,
+      "porridge_oats": true,
+      "hot_sauce": true,
+      "spray_oil": true,
+      "soy_sauce": true,
+      "honey": true,
+      "sesame_seeds": true,
+      "sweet_chilli_sauce": true,
+      "tinned_black_beans": true,
+      "tinned_tomatoes": true,
+      "cherry_tomatoes": true,
+      "garlic": true,
+      "peppers": true,
+      "spring_onions": true,
+      "sweet_potatoes": true,
+      "apples": true,
+      "bananas": true,
+      "eggs": true,
+      "low_fat_yogurts": true,
+      "ice_lollies": true,
+      "bread": true,
+      "pitta_bread": true,
+      "salsa": true
+    },
+    "checked": {
+      "spring_onions": true,
+      "peppers": true,
+      "apples": true,
+      "bananas": true,
+      "salsa": true,
+      "low_fat_yogurts": true,
+      "tinned_black_beans": true,
+      "tinned_tomatoes": true,
+      "garlic": true,
+      "cherry_tomatoes": true,
+      "ice_lollies": true,
+      "eggs": true,
+      "carrots": true,
+      "courgette": true,
+      "cucumber": true,
+      "lettuce": true,
+      "lemons": true,
+      "limes": true,
+      "red_onions": true
+    }
   }
 }

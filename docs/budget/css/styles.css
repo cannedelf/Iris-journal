@@ -151,6 +151,27 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 .bar-fill.over { background: var(--red); }
 .catrow.over .catnum { color: var(--red); }
 
+/* tappable itemised breakdown (bills, subscriptions, income) */
+.breakdown { border-bottom: 1px dashed var(--line); }
+.breakdown:last-of-type { border-bottom: none; }
+.breakdown summary {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 10px 0; font-weight: 700; cursor: pointer; list-style: none; user-select: none;
+}
+.breakdown summary::-webkit-details-marker { display: none; }
+.breakdown summary b { font-weight: 800; display: inline-flex; align-items: center; gap: 6px; }
+.breakdown .chev { display: inline-block; color: var(--ink-soft); transition: transform .18s ease; font-size: 12px; }
+.breakdown[open] .chev { transform: rotate(90deg); }
+.mini-row.sub { padding: 7px 0 7px 14px; font-weight: 600; color: var(--ink-soft); border-bottom: 1px dashed var(--line); }
+.mini-row.sub b { color: var(--ink); font-weight: 700; }
+.breakdown .mini-row.sub:last-child { border-bottom: none; padding-bottom: 4px; }
+
+/* buffer safety-net card */
+.buffer-card { display: flex; align-items: flex-start; gap: 14px; background: #eef4fb; border-color: #cfe0f0; }
+.buffer-face { font-size: 30px; line-height: 1.2; }
+.buffer-amount { margin: 2px 0 0; font-size: 20px; font-weight: 800; color: #3a6ea5; }
+.buffer-amount i { font-size: 12px; font-weight: 700; margin-left: 6px; }
+
 .savings-card { display: flex; align-items: center; gap: 14px; }
 .savings-card.hit { background: var(--green-soft); border-color: #c4ddb4; }
 .savings-card.miss { background: var(--cream); }
@@ -173,6 +194,50 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 
 .version { text-align: center; color: var(--ink-soft); font-size: 12px; font-weight: 700; margin: 6px 0 0; }
 
+/* ---------- 🧮 money sorter ---------- */
+.sort-card {
+  background: var(--card); border: 1.5px solid var(--line); border-radius: var(--radius);
+  box-shadow: var(--shadow); padding: 16px; margin-top: 4px; animation: fade .25s ease;
+}
+.sort-card.warn { background: var(--amber-soft); border-color: #f0cf9a; }
+.sort-card.queen { background: linear-gradient(165deg, #fff7e0, #ffeec2); border-color: var(--gold); box-shadow: 0 8px 26px rgba(230,169,31,.3); }
+.queen-banner { text-align: center; font-weight: 800; color: var(--gold-deep); font-size: 16px; margin-bottom: 10px; }
+.sort-tier { font-size: 20px; font-weight: 800; display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.tier-split { font-size: 12px; font-weight: 700; color: var(--ink-soft); background: var(--cream-2); padding: 3px 9px; border-radius: 999px; }
+.sort-row { display: flex; justify-content: space-between; align-items: center; padding: 11px 0; border-bottom: 1px dashed var(--line); font-weight: 700; }
+.sort-row b { font-weight: 800; font-size: 17px; }
+.sort-row.pay { color: var(--red); }
+.sort-row.pay b { color: var(--red); }
+.sort-row.keep { color: var(--ink-soft); border-bottom: none; }
+.sort-leftover { margin: -4px 0 10px; font-weight: 700; font-size: 14px; color: var(--ink); }
+.sort-leftover b { font-weight: 800; color: var(--gold-deep); }
+.sort-leftover span { color: var(--ink-soft); font-weight: 600; font-size: 12px; }
+.sort-warn { margin: 6px 0 0; color: var(--red); font-weight: 800; font-size: 13px; }
+.sort-note { margin: 12px 0 0; color: var(--ink-soft); font-weight: 700; font-size: 13px; text-align: center; }
+.sort-card.warn p { margin: 4px 0 0; font-weight: 700; font-size: 14px; line-height: 1.5; }
+
+/* ---------- 🎯 goal & debt trackers ---------- */
+.tracker-title { margin: 8px 2px -2px; font-size: 17px; color: #8a5a1a; }
+.tracker { padding: 14px 16px; }
+.tracker-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; font-weight: 800; }
+.tracker-head span { font-size: 15px; }
+.tracker-head b { font-size: 16px; }
+.bar.big { height: 12px; }
+.bar-fill.emerg { background: linear-gradient(90deg, #7cc4e0, #4a90b8); }
+.bar-fill.widdle { background: linear-gradient(90deg, #f0a94a, #e07a2c); }
+.tracker-foot { display: flex; justify-content: space-between; align-items: center; margin-top: 7px; font-size: 12px; font-weight: 700; color: var(--ink-soft); gap: 8px; }
+.tracker-foot span:last-child { text-align: right; }
+.tracker-btn { width: 100%; margin-top: 11px; font-size: 13px; padding: 10px; }
+.holiday-card { background: linear-gradient(165deg, #fffaf0, #fdefd6); border-color: #f0dcb8; }
+.freed { margin: 9px 0 0; font-weight: 800; color: var(--green); font-size: 13px; background: var(--green-soft); padding: 7px 11px; border-radius: 12px; text-align: center; }
+.card-trend { margin: 2px 0 0; font-weight: 800; font-size: 13px; }
+.card-trend.good { color: var(--green); }
+.card-trend.up { color: var(--amber); }
+.cbars { display: flex; align-items: flex-end; gap: 8px; height: 66px; margin-top: 12px; padding-top: 4px; }
+.cbar { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; gap: 4px; }
+.cbar-fill { width: 100%; max-width: 34px; background: linear-gradient(180deg, #eab44d, var(--gold-deep)); border-radius: 6px 6px 3px 3px; min-height: 6px; }
+.cbar span { font-size: 10px; font-weight: 700; color: var(--ink-soft); }
+
 /* ---------- bottom nav ---------- */
 .bottomnav {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 40;
@@ -183,9 +248,9 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 .navbtn {
   flex: 1; border: none; background: none; color: var(--ink-soft);
   display: flex; flex-direction: column; align-items: center; gap: 2px;
-  padding: 9px 0 8px; font-size: 11px; font-weight: 800;
+  padding: 9px 0 8px; font-size: 10.5px; font-weight: 800;
 }
-.navbtn span { font-size: 21px; line-height: 1; filter: grayscale(.4); opacity: .75; transition: all .15s; }
+.navbtn span { font-size: 20px; line-height: 1; filter: grayscale(.4); opacity: .75; transition: all .15s; }
 .navbtn.active { color: var(--gold-deep); }
 .navbtn.active span { filter: none; opacity: 1; transform: translateY(-1px) scale(1.08); }
 

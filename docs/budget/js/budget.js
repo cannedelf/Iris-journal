@@ -53,12 +53,68 @@ export function weekOfMonth(date) {
 
 const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June',
   'July', 'August', 'September', 'October', 'November', 'December'];
+const MONTHS_SHORT = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 export function monthLabel(date) { return `${MONTHS[date.getMonth()]} ${date.getFullYear()}`; }
 export function monthKey(date) { return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`; }
 
+// --- pay-period (budget cycle) ----------------------------------------------
+//
+// The budget runs from one payday to the day before the next (e.g. 25th → 24th),
+// not the calendar month. `payDay` is the day of the month you're paid. A payDay of
+// 1 makes a period identical to a calendar month, so all the calendar-month behaviour
+// is just the special case payDay = 1.
+
+export function getPayDay(meta) {
+  const p = meta && Number(meta.payDay);
+  return (p >= 1 && p <= 31) ? Math.floor(p) : 1;
+}
+
+// Clamp a day to the last valid day of that month (so payDay 31 works in February).
+function clampDay(y, m, day) { return Math.min(day, new Date(y, m + 1, 0).getDate()); }
+
+// The payday that starts the period `date` falls in.
+export function periodStart(date, payDay) {
+  const y = date.getFullYear(), m = date.getMonth();
+  if (date.getDate() >= clampDay(y, m, payDay)) return new Date(y, m, clampDay(y, m, payDay));
+  return new Date(y, m - 1, clampDay(y, m - 1, payDay)); // previous month's payday
+}
+
+// The last day of the period that begins at `start` (day before the next payday).
+export function periodEnd(start, payDay) {
+  const ny = start.getFullYear(), nm = start.getMonth() + 1;
+  return addDays(new Date(ny, nm, clampDay(ny, nm, payDay)), -1);
+}
+
+export function samePeriod(a, b, payDay) {
+  return isoDate(periodStart(a, payDay)) === isoDate(periodStart(b, payDay));
+}
+
+// Move `delta` whole periods from a period-start date.
+export function shiftPeriod(start, delta, payDay) {
+  const t = new Date(start.getFullYear(), start.getMonth() + delta, 1);
+  return new Date(t.getFullYear(), t.getMonth(), clampDay(t.getFullYear(), t.getMonth(), payDay));
+}
+
+// Friendly range label, e.g. "25 Jun – 24 Jul 2026".
+export function periodLabel(start, payDay) {
+  const end = periodEnd(start, payDay);
+  const s = `${start.getDate()} ${MONTHS_SHORT[start.getMonth()]}`;
+  const e = `${end.getDate()} ${MONTHS_SHORT[end.getMonth()]} ${end.getFullYear()}`;
+  return `${s} – ${e}`;
+}
+
+// Which Monday-week of the current pay period `date` sits in (1-based).
+export function weekOfPeriod(date, payDay) {
+  const anchor = weekStart(periodStart(date, payDay));
+  const diff = Math.round((weekStart(date) - anchor) / 86400000);
+  return Math.floor(diff / 7) + 1;
+}
+
 export function money(n) {
   const v = Number(n) || 0;
-  return '£' + v.toFixed(2);
+  // Thousands separators, always 2dp, keep a leading minus outside the £.
+  const s = Math.abs(v).toLocaleString('en-GB', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  return (v < 0 ? '-£' : '£') + s;
 }
 
 // --- the weekly £50 pot -----------------------------------------------------
@@ -66,7 +122,7 @@ export function money(n) {
 // The spending-money category gets a fresh `weeklyBudget` every Monday. Overspend
 // carries forward as debt (you feel the consequence next week); underspend does NOT
 // roll over — use it or lose it. We compute a running balance across the Monday-weeks
-// of the current calendar month so debt accumulates but surplus is dropped each week.
+// of the current pay period so debt accumulates within a cycle but resets each payday.
 
 export function spendingKey(meta) {
   const weekly = (meta.categories || []).find(c => c.type === 'weekly');
@@ -89,11 +145,11 @@ export function weeklyStatus(data, today) {
   const key = spendingKey(meta);
   const thisMonday = weekStart(today);
 
-  // Walk every Monday-week from the start of this calendar month up to (not incl.) this week,
-  // carrying only negative balances forward.
-  const monthFirstMonday = weekStart(new Date(today.getFullYear(), today.getMonth(), 1));
+  // Walk every Monday-week from the start of this pay period up to (not incl.) this week,
+  // carrying only negative balances forward (debt resets each payday).
+  const periodFirstMonday = weekStart(periodStart(today, getPayDay(meta)));
   let carry = 0;
-  for (let m = new Date(monthFirstMonday); m < thisMonday; m = addDays(m, 7)) {
+  for (let m = new Date(periodFirstMonday); m < thisMonday; m = addDays(m, 7)) {
     const bal = weekly - spentInWeek(data.entries, key, m) + carry;
     carry = Math.min(0, bal); // surplus lost, debt kept
   }
@@ -124,15 +180,17 @@ export function sunshine(status, remaining) {
   }
 }
 
-// --- monthly rollups --------------------------------------------------------
+// --- period rollups ---------------------------------------------------------
 //
-// For each category, total what was spent in the given month and compare to budget.
-export function monthlyBreakdown(data, monthDate) {
+// For each category, total what was spent in the pay period containing `withinDate`
+// and compare to budget. (payDay 1 = calendar month.)
+export function periodBreakdown(data, withinDate) {
   const cats = data.meta.categories || [];
-  const inMonth = data.entries.filter(e => sameMonth(parseDate(e.date), monthDate));
+  const payDay = getPayDay(data.meta);
+  const inPeriod = data.entries.filter(e => samePeriod(parseDate(e.date), withinDate, payDay));
 
   const rows = cats.map(c => {
-    const spent = inMonth
+    const spent = inPeriod
       .filter(e => e.category === c.key)
       .reduce((s, e) => s + (Number(e.amount) || 0), 0);
     return {
@@ -147,18 +205,113 @@ export function monthlyBreakdown(data, monthDate) {
   const loggedOut = rows
     .filter(r => r.type !== 'fixed' && r.type !== 'savings')
     .reduce((s, r) => s + r.spent, 0);
-  const savings = rows.filter(r => r.type === 'savings').reduce((s, r) => s + r.spent, 0);
+  // Savings can be several lines (e.g. Chase + ISA). Automatic transfers (standing order,
+  // direct debit) always land, so they count at their full budget; manual pots count what's
+  // actually been put in. Target is the sum of all savings budgets.
+  const savingsRows = rows.filter(r => r.type === 'savings');
+  const savings = savingsRows.reduce((s, r) => s + (r.auto ? r.budget : r.spent), 0);
+  const savingsTarget = savingsRows.reduce((s, r) => s + (r.budget || 0), 0);
   const fixed = rows.filter(r => r.type === 'fixed').reduce((s, r) => s + r.budget, 0);
-  const savingsTarget = (rows.find(r => r.type === 'savings') || {}).budget || 0;
+
+  // Planned buffer (the untouched safety net): everything left after income minus every
+  // budgeted pound (fixed + subs + all flexible incl. savings). Auto-updates with budgets.
+  const income = data.meta.monthlyIncome || 0;
+  const allBudgets = cats.reduce((s, c) => s + (c.budget || 0), 0);
+  const plannedBuffer = Math.round((income - allBudgets) * 100) / 100;
 
   return {
     rows,
     loggedOut: Math.round(loggedOut * 100) / 100,
     savings: Math.round(savings * 100) / 100,
-    savingsTarget,
-    savingsHit: savingsTarget > 0 && savings >= savingsTarget,
-    fixed,
-    income: data.meta.monthlyIncome || 0,
+    savingsTarget: Math.round(savingsTarget * 100) / 100,
+    savingsAnnual: Math.round(savingsTarget * 12 * 100) / 100,
+    savingsHit: savingsTarget > 0 && savings >= savingsTarget - 0.005,
+    fixed: Math.round(fixed * 100) / 100,
+    income,
+    incomeItems: data.meta.incomeItems || [],
+    plannedBuffer,
     totalOut: Math.round((loggedOut + savings + fixed) * 100) / 100
   };
+}
+
+// --- end-of-month money sorter ----------------------------------------------
+//
+// Given the current-account balance and the credit-card balance to clear, work out
+// where every remaining pound should go. The card is ALWAYS paid in full; whatever is
+// left (the TRUE LEFTOVER = balance − card) is swept out of the current account and
+// split between the holiday fund and the Chase emergency fund. The tier is set by how
+// much is genuinely left, not by how much was spent — a big-but-fine month (lots on the
+// card, but still plenty left over) is rewarded, not punished.
+
+// Tiers keyed by the leftover amount; `min` is the inclusive lower bound.
+export const SORTER_TIERS = [
+  { min: 700, name: 'QUEEN', emoji: '👑', holiday: 0.40, chase: 0.60, celebrate: true },
+  { min: 500, name: 'Sensible Girlie', emoji: '💛', holiday: 0.30, chase: 0.70 },
+  { min: 300, name: 'On Budget', emoji: '✅', holiday: 0.25, chase: 0.75 },
+  { min: 0, name: 'Reined It In', emoji: '🫣', holiday: 0.20, chase: 0.80 }
+];
+
+export function sortMoney(balance, card) {
+  const bal = Math.max(0, Number(balance) || 0);
+  const cc = Math.max(0, Number(card) || 0);
+  const remainder = Math.round((bal - cc) * 100) / 100; // the true leftover
+  const highCard = cc >= 650; // 23% interest bites hardest on a big balance
+
+  if (remainder <= 0) {
+    return { overspent: true, remainder, card: cc, tier: null, highCard };
+  }
+  const tier = SORTER_TIERS.find(t => remainder >= t.min); // tier from the leftover
+  const holiday = Math.round(remainder * tier.holiday * 100) / 100;
+  const chase = Math.round((remainder - holiday) * 100) / 100; // exact remainder split
+  return { overspent: false, remainder, card: cc, tier, highCard, holiday, chase };
+}
+
+// --- goal & debt trackers ---------------------------------------------------
+
+export function addMonths(date, n) {
+  return new Date(date.getFullYear(), date.getMonth() + n, date.getDate());
+}
+
+// Emergency/holiday fund progress. Emergency has a target & monthly top-up (for an ETA);
+// the holiday fund has neither — it just grows.
+export function fundProgress(fund, today) {
+  const balance = Number(fund.balance) || 0;
+  const target = Number(fund.target) || 0;
+  const monthly = Number(fund.monthly) || 0;
+  const remaining = Math.max(0, target - balance);
+  const pct = target ? Math.min(100, (balance / target) * 100) : 0;
+  const monthsToGo = (monthly > 0 && remaining > 0) ? Math.ceil(remaining / monthly) : 0;
+  const eta = monthsToGo ? monthLabel(addMonths(today, monthsToGo)) : null;
+  return { balance, target, monthly, remaining, pct, monthsToGo, eta, hit: target > 0 && balance >= target };
+}
+
+// Widdle debt: total minus the sum of logged repayments. Months-to-go uses the most
+// recent payment as the running rate.
+export function widdleStatus(d) {
+  const payments = (d.payments || []).slice().sort((a, b) => a.date.localeCompare(b.date));
+  const total = Number(d.total) || 0;
+  const paid = payments.reduce((s, p) => s + (Number(p.amount) || 0), 0);
+  const remaining = Math.max(0, Math.round((total - paid) * 100) / 100);
+  const pct = total ? Math.min(100, (paid / total) * 100) : 0;
+  const rate = payments.length ? (Number(payments[payments.length - 1].amount) || 0) : 0;
+  const monthsToGo = (rate > 0 && remaining > 0) ? Math.ceil(remaining / rate) : 0;
+  return { total, paid: Math.round(paid * 100) / 100, remaining, pct, monthsToGo, payments };
+}
+
+// Novuna loan countdown. Returns endDate:null when Liv hasn't set it yet.
+export function novunaStatus(d, today) {
+  const monthly = Number(d.monthly) || 0;
+  if (!d.endDate) return { monthly, endDate: null, monthsToGo: null, done: false };
+  const end = parseDate(d.endDate);
+  const monthsToGo = Math.max(0, (end.getFullYear() - today.getFullYear()) * 12 + (end.getMonth() - today.getMonth()));
+  return { monthly, endDate: end, monthsToGo, done: end <= today };
+}
+
+// Credit-card month-on-month trend from recorded period totals.
+export function cardTrend(history) {
+  const list = (history || []).slice().sort((a, b) => a.period.localeCompare(b.period));
+  const latest = list[list.length - 1] || null;
+  const prev = list[list.length - 2] || null;
+  const delta = (latest && prev) ? Math.round((latest.amount - prev.amount) * 100) / 100 : null;
+  return { list, latest, prev, delta, improved: delta != null && delta < 0 };
 }
