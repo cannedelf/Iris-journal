@@ -255,13 +255,16 @@ function viewMonth() {
         <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
       </div>`;
     }
+    const hasRoll = r.rollover > 0;
+    const atCap = hasRoll && r.rollover >= r.budget * 0.5 - 0.005;
     return `
     <div class="catrow ${r.over ? 'over' : ''}">
       <div class="catrow-top">
         <span class="catname">${r.emoji || '•'} ${esc(r.label)}</span>
-        <span class="catnum">${money(r.spent)}${showBudget ? ` <i>/ ${money(r.budget)}</i>` : ''}</span>
+        <span class="catnum">${money(r.spent)}${showBudget ? ` <i>/ ${money(r.effectiveBudget)}</i>` : ''}</span>
       </div>
       ${showBudget ? `<div class="bar"><div class="bar-fill ${r.over ? 'over' : ''}" style="width:${r.pct}%"></div></div>` : ''}
+      ${hasRoll ? `<p class="rollover-note">✨ ${money(r.budget)} + ${money(r.rollover)} rolled over${atCap ? ' <i>(max)</i>' : ''}</p>` : ''}
     </div>`;
   }).join('');
 
@@ -278,8 +281,8 @@ function viewMonth() {
   <section class="screen month">
     <div class="monthnav">
       <button class="nav" data-period="-1">‹</button>
-      <h2>${periodLabel(md, payDay())}${isThis ? ' <small>· now</small>' : ''}</h2>
-      <button class="nav" data-period="1" ${isThis ? 'disabled' : ''}>›</button>
+      <h2>${periodLabel(md, payDay())}${isThis ? ' <small>· now</small>' : (md > today() ? ' <small>· upcoming</small>' : '')}</h2>
+      <button class="nav" data-period="1" title="Peek at the next pay period">›</button>
     </div>
 
     <div class="card savings-card ${mb.savingsHit ? 'hit' : 'miss'}">
@@ -445,6 +448,7 @@ function viewSettings() {
       <p class="hint" style="margin-top:-2px">Your budget runs payday-to-payday (e.g. 25th → 24th), not by calendar month. Set to 1 for calendar months.</p>
       <label class="field inline"><span>Weekly spending money</span><div class="amount-input"><span class="curr">£</span><input id="bWeekly" type="number" step="1" value="${esc(m.weeklyBudget)}"></div></label>
       <label class="field inline"><span>Income per period <i>(optional)</i></span><div class="amount-input"><span class="curr">£</span><input id="bIncome" type="number" step="1" value="${esc(m.monthlyIncome || '')}"></div></label>
+      <label class="field inline"><span>🔄 Rollover budget <i>(half of unused rolls over)</i></span><input id="bRollover" type="checkbox" class="toggle" ${m.rolloverEnabled ? 'checked' : ''}></label>
       ${m.categories.map(c => `
         <label class="field inline"><span>${c.emoji} ${esc(c.label)}</span>
           <div class="amount-input"><span class="curr">£</span>
@@ -654,13 +658,14 @@ async function onBudgetSave() {
   const weekly = Number($('#bWeekly').value) || 0;
   const income = Number($('#bIncome').value) || 0;
   const pay = Math.min(31, Math.max(1, Math.floor(Number($('#bPayDay').value) || 1)));
+  const rollover = $('#bRollover').checked;
   const cats = store.data.meta.categories.map(c => {
     const inp = document.querySelector(`.bcat[data-key="${CSS.escape(c.key)}"]`);
     return { ...c, budget: inp ? (Number(inp.value) || 0) : c.budget };
   });
   store.data.meta.categories = cats;
   state.period = null; // snap the viewed period back to the current one under the new pay day
-  await save(store.setBudgets({ weeklyBudget: weekly, monthlyIncome: income, payDay: pay }), 'Budgets saved 💛');
+  await save(store.setBudgets({ weeklyBudget: weekly, monthlyIncome: income, payDay: pay, rolloverEnabled: rollover }), 'Budgets saved 💛');
   render();
 }
 

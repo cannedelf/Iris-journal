@@ -180,6 +180,51 @@ export function sunshine(status, remaining) {
   }
 }
 
+// --- rollover budget --------------------------------------------------------
+//
+// Flexible categories carry HALF of each period's unused budget into the next period,
+// capped at 50% of the base budget. Overspend is forgiven (the next period simply resets
+// to the base budget — never a negative). Fixed and savings categories don't roll, and
+// the buffer is always computed from base budgets, so rollover is a pure bonus on top.
+
+export function rollsOver(cat) {
+  return (cat.type === 'flex' || cat.type === 'weekly') && (cat.budget || 0) > 0;
+}
+
+function spentInPeriod(entries, key, pStart, payDay) {
+  const startISO = isoDate(pStart);
+  return entries
+    .filter(e => e.category === key && isoDate(periodStart(parseDate(e.date), payDay)) === startISO)
+    .reduce((s, e) => s + (Number(e.amount) || 0), 0);
+}
+
+// The first pay period rollover applies from: the period of the earliest logged entry.
+// (Periods before Liv started tracking must not manufacture phantom rollover.)
+export function rolloverAnchor(data, payDay) {
+  if (!data.entries.length) return null;
+  let min = data.entries[0].date;
+  for (const e of data.entries) if (e.date < min) min = e.date;
+  return periodStart(parseDate(min), payDay);
+}
+
+// Rollover carried INTO the period starting at `pStart` for one category — the running
+// balance from the anchor period forward. Only positive leftovers roll; the carry is
+// capped at 50% of the base budget each period.
+export function rolloverInto(data, cat, pStart, payDay, anchor) {
+  if (!rollsOver(cat) || !anchor || pStart <= anchor) return 0;
+  const base = cat.budget || 0;
+  const cap = base * 0.5;
+  let rollIn = 0;
+  let p = new Date(anchor);
+  const target = isoDate(pStart);
+  for (let guard = 0; guard < 600 && isoDate(p) !== target; guard++) {
+    const unused = Math.max(0, (base + rollIn) - spentInPeriod(data.entries, cat.key, p, payDay));
+    rollIn = Math.min(cap, Math.round((unused / 2) * 100) / 100);
+    p = shiftPeriod(p, 1, payDay);
+  }
+  return rollIn;
+}
+
 // --- period rollups ---------------------------------------------------------
 //
 // For each category, total what was spent in the pay period containing `withinDate`
@@ -187,18 +232,27 @@ export function sunshine(status, remaining) {
 export function periodBreakdown(data, withinDate) {
   const cats = data.meta.categories || [];
   const payDay = getPayDay(data.meta);
+  const pStart = periodStart(withinDate, payDay);
   const inPeriod = data.entries.filter(e => samePeriod(parseDate(e.date), withinDate, payDay));
+
+  const rollEnabled = !!data.meta.rolloverEnabled;
+  const anchor = rollEnabled ? rolloverAnchor(data, payDay) : null;
 
   const rows = cats.map(c => {
     const spent = inPeriod
       .filter(e => e.category === c.key)
       .reduce((s, e) => s + (Number(e.amount) || 0), 0);
+    const rollover = anchor ? rolloverInto(data, c, pStart, payDay, anchor) : 0;
+    const base = c.budget || 0;
+    const effective = Math.round((base + rollover) * 100) / 100;
     return {
       ...c,
       spent: Math.round(spent * 100) / 100,
-      budget: c.budget || 0,
-      pct: c.budget ? Math.min(100, (spent / c.budget) * 100) : 0,
-      over: c.budget ? spent > c.budget : false
+      budget: base,
+      rollover,
+      effectiveBudget: effective,
+      pct: effective ? Math.min(100, (spent / effective) * 100) : 0,
+      over: effective ? spent > effective : false
     };
   });
 
