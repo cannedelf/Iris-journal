@@ -70,7 +70,7 @@
         "emoji": "👗",
         "label": "Clothes & Shopping",
         "type": "weekly",
-        "budget": 200,
+        "budget": 170,
         "note": "The £50/week pot — the one that matters"
       },
       {
@@ -96,6 +96,14 @@
         "type": "flex",
         "budget": 10,
         "note": "Uber, trains, buses"
+      },
+      {
+        "key": "household",
+        "emoji": "🛋️",
+        "label": "Household / Home",
+        "type": "flex",
+        "budget": 30,
+        "note": "Homeware & DIY — B&M, Wickes, etc."
       },
       {
         "key": "chase",
