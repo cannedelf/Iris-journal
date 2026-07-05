@@ -25,7 +25,7 @@
     },
     "tuesday": {
       "breakfast": "porridge",
-      "lunch": "fridge_pitta",
+      "lunch": "chilli_rice_tub",
       "dinner": "arrabbiata"
     },
     "wednesday": {
@@ -97,12 +97,7 @@
       "label": "Chilli over rice (tub)",
       "emoji": "🍚",
       "of": "sweet_potato_chilli",
-      "note": "Half the chilli + a mug of cooked rice. Grabbed Monday morning."
-    },
-    "fridge_pitta": {
-      "label": "Fridge clear-out pitta",
-      "emoji": "🥙",
-      "of": "fridge_pitta"
+      "note": "A third of the chilli over a mug of rice — grab Tuesday morning."
     },
     "arrabbiata_cold": {
       "label": "Cold arrabbiata (tub)",
@@ -140,7 +135,7 @@
     },
     "monday": {
       "tub": false,
-      "text": "NO TUB — pitta day tomorrow!! Shakshuka doesn't travel."
+      "text": "NO TUB tonight — shakshuka doesn’t travel, and Tuesday’s chilli tub is already prepped!"
     },
     "tuesday": {
       "tub": true,
@@ -589,49 +584,6 @@
         "Pour in tomatoes, simmer 10 mins until thick (not watery).",
         "Make 2 dips, crack an egg into each. Lid on, cook 5–6 mins until whites set, yolks soft.",
         "Eat straight from the pan with bread for dipping."
-      ]
-    },
-    {
-      "id": "fridge_pitta",
-      "name": "Fridge Clear-Out Pitta",
-      "emoji": "🥙",
-      "servings": 1,
-      "fat": "Low — it's salad in a pitta 💛",
-      "lunchNote": "The fridge decides. Hot sauce fixes everything.",
-      "ingredients": [
-        {
-          "item": "pitta bread",
-          "amount": 0,
-          "unit": "pack",
-          "section": "bakery",
-          "note": "from Saturday's pack — already on the list"
-        },
-        {
-          "item": "peppers",
-          "amount": 2,
-          "unit": "pepper",
-          "section": "fresh",
-          "note": "clear-out spares"
-        },
-        {
-          "item": "lettuce",
-          "amount": 0.5,
-          "unit": "bag",
-          "section": "fresh",
-          "note": "shared with falafel pittas"
-        },
-        {
-          "item": "salsa",
-          "amount": 0,
-          "unit": "jar",
-          "section": "sauces",
-          "note": "or hot sauce — already on the list"
-        }
-      ],
-      "steps": [
-        "Warm a pitta in the toaster.",
-        "Open the fridge. Leftover pepper? Onion? Sad lettuce? Cucumber end? Soft tomato? IN.",
-        "Squeeze of hot sauce or salsa. Wrap and eat."
       ]
     },
     {
