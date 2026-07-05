@@ -150,6 +150,14 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 .bar-fill { height: 100%; background: var(--green); border-radius: 999px; transition: width .4s ease; }
 .bar-fill.over { background: var(--red); }
 .catrow.over .catnum { color: var(--red); }
+.rollover-note { margin: 6px 0 0; font-size: 12px; font-weight: 800; color: var(--gold-deep); background: #fff6e0; display: inline-block; padding: 3px 10px; border-radius: 999px; }
+.rollover-note i { color: var(--ink-soft); font-weight: 700; }
+
+/* settings toggle */
+.toggle { width: 46px; height: 26px; -webkit-appearance: none; appearance: none; background: var(--cream-2); border: 1.5px solid var(--line); border-radius: 999px; position: relative; cursor: pointer; transition: background .2s; flex: none; }
+.toggle::after { content: ''; position: absolute; top: 2px; left: 2px; width: 20px; height: 20px; border-radius: 50%; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2); transition: transform .2s; }
+.toggle:checked { background: var(--green); border-color: var(--green); }
+.toggle:checked::after { transform: translateX(20px); }
 
 /* tappable itemised breakdown (bills, subscriptions, income) */
 .breakdown { border-bottom: 1px dashed var(--line); }
