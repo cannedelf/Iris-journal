@@ -287,6 +287,20 @@
       "amount": 1.37,
       "category": "groceries",
       "note": "Sainsbury's - £7.50 nectar points used"
+    },
+    {
+      "id": "spend_1_bm16h",
+      "date": "2026-07-05",
+      "amount": 16,
+      "category": "household",
+      "note": "B&M"
+    },
+    {
+      "id": "spend_1_wk48h",
+      "date": "2026-07-05",
+      "amount": 48,
+      "category": "household",
+      "note": "Wickes"
     }
   ]
 }
