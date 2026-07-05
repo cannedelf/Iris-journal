@@ -3,7 +3,7 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-07-04",
+    "updated": "2026-07-05",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
   "mealPlan": {
@@ -20,7 +20,7 @@
     },
     "monday": {
       "breakfast": "porridge",
-      "lunch": "chilli_rice_tub",
+      "lunch": "chilli_potato_tub",
       "dinner": "shakshuka"
     },
     "tuesday": {
@@ -55,7 +55,7 @@
       "from": "sweet_potato_chilli",
       "fromDay": "sunday",
       "toDay": "monday",
-      "label": "Sun chilli → Monday chilli rice tub"
+      "label": "Sun chilli → Monday potato tub (+ a Tuesday rice tub!)"
     },
     {
       "from": "arrabbiata",
@@ -121,6 +121,12 @@
       "emoji": "🌮",
       "of": "mexican_bowl",
       "note": "Rice soaks up the bean juices overnight. You'll look forward to this one."
+    },
+    "chilli_potato_tub": {
+      "label": "Chilli + baked potato (tub)",
+      "emoji": "🥔",
+      "of": "sweet_potato_chilli",
+      "note": "A third of the chilli + a baked potato — reheat both at work."
     }
   },
   "tubSchedule": {
@@ -130,7 +136,7 @@
     },
     "sunday": {
       "tub": true,
-      "text": "Half the chilli + a mug of cooked rice into a tub for Monday lunch."
+      "text": "Big batch tonight!! Potato + a third of the chilli in separate tubs for Monday. The chilli keeps, so you can prep Tuesday’s rice tub now too."
     },
     "monday": {
       "tub": false,
@@ -333,69 +339,56 @@
       "id": "sweet_potato_chilli",
       "name": "Loaded Sweet Potato + Bean Chilli",
       "emoji": "🍠",
-      "servings": 2,
+      "servings": 3,
       "fat": "Under 5g — spray oil only 💛",
-      "lunchNote": "Half over a sweet potato tonight, half + rice into a tub for Monday.",
+      "lunchNote": "Makes 3 — a loaded sweet potato tonight, a baked-potato tub for Monday, a rice tub for Tuesday. 📦📦",
       "ingredients": [
         {
-          "item": "sweet potatoes",
-          "amount": 2,
-          "unit": "sweet potato",
-          "section": "fresh"
+          "item": "spray oil",
+          "emoji": "🫒",
+          "qty": "a few sprays",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
         },
         {
           "item": "red onions",
+          "emoji": "🧅",
+          "qty": "1 medium — diced",
           "amount": 1,
           "unit": "onion",
           "section": "fresh"
         },
         {
           "item": "garlic",
+          "emoji": "🧄",
+          "qty": "2 cloves — chopped or crushed",
           "amount": 2,
           "unit": "clove",
           "section": "fresh"
         },
         {
           "item": "peppers",
+          "emoji": "🫑",
+          "qty": "1 (any colour) — 2cm chunks",
           "amount": 1,
           "unit": "pepper",
-          "section": "fresh",
-          "note": "any colour"
-        },
-        {
-          "item": "tinned tomatoes",
-          "amount": 1,
-          "unit": "tin",
-          "section": "tins"
-        },
-        {
-          "item": "tinned kidney beans",
-          "amount": 1,
-          "unit": "tin",
-          "section": "tins"
-        },
-        {
-          "item": "rice",
-          "amount": 0.15,
-          "unit": "bag",
-          "section": "dry",
-          "note": "for the Monday lunch tub"
-        },
-        {
-          "item": "limes",
-          "amount": 1,
-          "unit": "lime",
-          "section": "fruit"
+          "section": "fresh"
         },
         {
           "item": "cumin",
+          "emoji": "🌶️",
+          "qty": "1 tsp",
           "amount": 1,
           "unit": "tsp",
           "section": "spices",
           "check": true
         },
         {
-          "item": "paprika",
+          "item": "smoked paprika",
+          "emoji": "🌶️",
+          "qty": "1 tsp",
           "amount": 1,
           "unit": "tsp",
           "section": "spices",
@@ -403,25 +396,124 @@
         },
         {
           "item": "chilli flakes",
+          "emoji": "🌶️",
+          "qty": "pinch (more if brave!!)",
           "amount": 1,
           "unit": "pinch",
           "section": "spices",
           "check": true
         },
         {
-          "item": "spray oil",
+          "item": "tinned tomatoes",
+          "emoji": "🍅",
+          "qty": "1 tin (400g)",
           "amount": 1,
-          "unit": "can",
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "tinned kidney beans",
+          "emoji": "🫘",
+          "qty": "1 tin (400g) — or black beans, drained & rinsed",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "soy sauce",
+          "emoji": "🫙",
+          "qty": "1 tbsp (15ml) — a splash",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "stock cube",
+          "emoji": "🧊",
+          "qty": "½ cube or 1 tsp bouillon",
+          "amount": 1,
+          "unit": "box",
           "section": "spices",
           "check": true
+        },
+        {
+          "item": "marmite",
+          "emoji": "🫙",
+          "qty": "½ tsp — stir well, it CLUMPS!!",
+          "amount": 1,
+          "unit": "jar",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "salt and pepper",
+          "emoji": "🧂",
+          "qty": "to taste",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        },
+        {
+          "item": "limes",
+          "emoji": "🍋",
+          "qty": "squeeze of ½ lime",
+          "amount": 1,
+          "unit": "lime",
+          "section": "fruit"
+        },
+        {
+          "item": "fresh coriander",
+          "emoji": "🌿",
+          "qty": "to garnish, torn",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh",
+          "check": true,
+          "note": "optional"
+        },
+        {
+          "item": "sweet potatoes",
+          "emoji": "🍠",
+          "qty": "1 large (~250g) — Sunday dinner",
+          "amount": 1,
+          "unit": "sweet potato",
+          "section": "fresh"
+        },
+        {
+          "item": "potatoes",
+          "emoji": "🥔",
+          "qty": "1 regular — Monday tub",
+          "amount": 1,
+          "unit": "potato",
+          "section": "fresh"
+        },
+        {
+          "item": "rice",
+          "emoji": "🍚",
+          "qty": "75g dry (~1 mug cooked) — Tuesday tub",
+          "amount": 0.15,
+          "unit": "bag",
+          "section": "dry"
         }
       ],
       "steps": [
-        "Spray oil in a saucepan, fry onion 5 mins until soft.",
-        "Add garlic, pepper and spices, fry 1 min.",
-        "Tin of tomatoes + drained beans in, stir, simmer 20 mins lid slightly off until thick. Season, squeeze of lime.",
-        "Dinner: pierce a sweet potato, microwave 8–10 mins, split, load with HALF the chilli.",
-        "Monday tub: cook ~75g rice, spoon the other half of the chilli on top, fridge it."
+        "🫒 Spray oil in a saucepan.",
+        "🧅 Fry the onion 5 mins until soft.",
+        "🧄 Add garlic, pepper, cumin, smoked paprika and chilli flakes — fry 1 min.",
+        "🍅 Tin of tomatoes in.",
+        "🫘 Beans in, stir.",
+        "⏰ Simmer 20 mins with the lid slightly off until thick.",
+        "🫙 Add the soy sauce, stir.",
+        "🧊 Add the stock cube or bouillon, stir until dissolved.",
+        "🫙 Add ½ tsp Marmite, stir well — it CLUMPS if you don’t!!",
+        "🧂 Season with salt and pepper.",
+        "🍋 Squeeze of half a lime.",
+        "🌿 Garnish with fresh torn coriander.",
+        "🍠 Sunday dinner — 1 large sweet potato: if large, microwave 5 mins then airfryer 30 mins (regular: airfryer 35–40 mins). Fork-test the DEEPEST part — if there’s resistance, cook more. Split, load with a third of the chilli + coriander.",
+        "🥔 Monday lunch tub — 1 regular potato in the airfryer ~45 mins. Potato + a third of the chilli in separate tubs, fridge Sunday night, reheat both at work.",
+        "📦 Tuesday lunch tub — cook 75g dry rice (~a mug cooked), a third of the chilli on top, fridge and grab Tuesday morning.",
+        "🍠 Size guide — Regular: airfryer 35–40 mins, squeeze test works. LARGE: microwave 5 mins FIRST then airfryer 30 mins, and use the FORK TEST — the outside LIES on big ones!!"
       ]
     },
     {
@@ -990,7 +1082,10 @@
     "sweet chilli sauce": true,
     "hot sauce": true,
     "spray oil": true,
-    "sesame seeds": true
+    "sesame seeds": true,
+    "smoked paprika": true,
+    "marmite": true,
+    "stock cube": true
   },
   "shopping": {
     "generated": "2026-07-03",
