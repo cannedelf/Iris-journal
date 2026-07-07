@@ -3,7 +3,7 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-07-05",
+    "updated": "2026-07-07",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
   "mealPlan": {
@@ -517,41 +517,37 @@
       "emoji": "🍅",
       "servings": 1,
       "fat": "Under 5g — spray oil only 💛",
-      "lunchNote": "Doesn't travel — tomorrow is pitta day!!",
+      "lunchNote": "Doesn’t travel — but that’s fine, Tuesday’s chilli tub is already sorted!",
       "ingredients": [
         {
+          "item": "spray oil",
+          "emoji": "🫒",
+          "qty": "a few sprays",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
+        },
+        {
           "item": "red onions",
+          "emoji": "🧅",
+          "qty": "½ medium — diced",
           "amount": 1,
           "unit": "onion",
           "section": "fresh"
         },
         {
           "item": "garlic",
+          "emoji": "🧄",
+          "qty": "2 cloves — chopped",
           "amount": 2,
           "unit": "clove",
           "section": "fresh"
         },
         {
-          "item": "tinned tomatoes",
-          "amount": 1,
-          "unit": "tin",
-          "section": "tins"
-        },
-        {
-          "item": "eggs",
-          "amount": 2,
-          "unit": "egg",
-          "section": "chilled"
-        },
-        {
-          "item": "bread",
-          "amount": 0.4,
-          "unit": "loaf",
-          "section": "bakery",
-          "note": "for dipping"
-        },
-        {
           "item": "cumin",
+          "emoji": "🌶️",
+          "qty": "1 tsp",
           "amount": 1,
           "unit": "tsp",
           "section": "spices",
@@ -559,6 +555,8 @@
         },
         {
           "item": "paprika",
+          "emoji": "🌶️",
+          "qty": "1 tsp",
           "amount": 1,
           "unit": "tsp",
           "section": "spices",
@@ -566,24 +564,103 @@
         },
         {
           "item": "chilli flakes",
+          "emoji": "🌶️",
+          "qty": "pinch",
           "amount": 1,
           "unit": "pinch",
           "section": "spices",
           "check": true
         },
         {
-          "item": "spray oil",
+          "item": "tinned tomatoes",
+          "emoji": "🍅",
+          "qty": "1 tin (400g)",
           "amount": 1,
-          "unit": "can",
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "soy sauce",
+          "emoji": "🫙",
+          "qty": "1 tbsp — a splash",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "ground coriander",
+          "emoji": "🌿",
+          "qty": "pinch",
+          "amount": 1,
+          "unit": "tsp",
           "section": "spices",
           "check": true
+        },
+        {
+          "item": "MSG",
+          "emoji": "🧂",
+          "qty": "tiny sprinkle",
+          "amount": 1,
+          "unit": "pack",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "salt and pepper",
+          "emoji": "🧂",
+          "qty": "to taste",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        },
+        {
+          "item": "eggs",
+          "emoji": "🍳",
+          "qty": "2",
+          "amount": 2,
+          "unit": "egg",
+          "section": "chilled"
+        },
+        {
+          "item": "bread",
+          "emoji": "🍞",
+          "qty": "2 slices, for dipping",
+          "amount": 0.4,
+          "unit": "loaf",
+          "section": "bakery"
+        },
+        {
+          "item": "fresh coriander",
+          "emoji": "🌿",
+          "qty": "to garnish, torn",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh",
+          "check": true,
+          "note": "optional"
+        },
+        {
+          "item": "limes",
+          "emoji": "🍋",
+          "qty": "squeeze, to garnish",
+          "amount": 1,
+          "unit": "lime",
+          "section": "fruit"
         }
       ],
       "steps": [
-        "Spray oil in a frying pan with a lid. Fry half an onion 5 mins, add garlic + spices, fry 30 sec.",
-        "Pour in tomatoes, simmer 10 mins until thick (not watery).",
-        "Make 2 dips, crack an egg into each. Lid on, cook 5–6 mins until whites set, yolks soft.",
-        "Eat straight from the pan with bread for dipping."
+        "🫒 Spray oil in a frying pan with a LID.",
+        "🧅 Fry the onion 5 mins.",
+        "🧄 Add the garlic and spices, fry 30 seconds.",
+        "🍅 Pour in the tomatoes, simmer 10 mins until THICK.",
+        "🫙 Add soy sauce, ground coriander and a tiny sprinkle of MSG, stir.",
+        "🧂 Taste and season with salt and pepper.",
+        "🥄 Make 2 dips with a spoon, crack an egg into each.",
+        "⏰ Lid ON, cook 4 minutes on Liv’s hob (NOT 5.5!!).",
+        "👀 Check — whites SET, yolks still RUNNY.",
+        "🌿 Garnish with torn fresh coriander and a squeeze of lime.",
+        "🍞 Eat straight from the PAN with bread!!"
       ]
     },
     {
@@ -596,51 +673,103 @@
       "ingredients": [
         {
           "item": "dried pasta",
+          "emoji": "🍝",
+          "qty": "200g (penne or rigatoni)",
           "amount": 0.4,
           "unit": "bag",
           "section": "dry",
-          "note": "penne or rigatoni — 500g bag"
+          "note": "500g bag"
+        },
+        {
+          "item": "spray oil",
+          "emoji": "🫒",
+          "qty": "a few sprays",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
         },
         {
           "item": "garlic",
+          "emoji": "🧄",
+          "qty": "3 cloves — sliced thin",
           "amount": 3,
           "unit": "clove",
           "section": "fresh"
         },
         {
-          "item": "tinned tomatoes",
-          "amount": 1,
-          "unit": "tin",
-          "section": "tins"
-        },
-        {
-          "item": "fresh basil",
-          "amount": 1,
-          "unit": "pack",
-          "section": "fresh",
-          "check": true,
-          "note": "optional"
-        },
-        {
           "item": "chilli flakes",
+          "emoji": "🌶️",
+          "qty": "1 tsp",
           "amount": 1,
           "unit": "tsp",
           "section": "spices",
           "check": true
         },
         {
-          "item": "spray oil",
+          "item": "cayenne pepper",
+          "emoji": "🌶️",
+          "qty": "pinch",
           "amount": 1,
-          "unit": "can",
+          "unit": "tsp",
           "section": "spices",
           "check": true
+        },
+        {
+          "item": "tinned tomatoes",
+          "emoji": "🍅",
+          "qty": "1 tin (400g)",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "sugar",
+          "emoji": "🤏",
+          "qty": "pinch",
+          "amount": 1,
+          "unit": "bag",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "MSG",
+          "emoji": "🧂",
+          "qty": "tiny sprinkle",
+          "amount": 1,
+          "unit": "pack",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "salt",
+          "emoji": "🧂",
+          "qty": "to taste (Liv likes it SALTY!!)",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        },
+        {
+          "item": "fresh basil",
+          "emoji": "🌿",
+          "qty": "if you have it",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh",
+          "check": true,
+          "note": "optional"
         }
       ],
       "steps": [
-        "Cook all 200g pasta per packet.",
-        "Spray oil in a pan, fry sliced garlic + chilli flakes 1 min (don't burn it!!).",
-        "Pour in tomatoes, pinch of sugar + salt, simmer 10 mins. Toss pasta through.",
-        "Eat half hot. Other half straight into a tub — lovely cold tomorrow."
+        "🍝 Cook ALL the pasta per packet instructions.",
+        "🫒 While it boils — spray oil in a pan.",
+        "🧄 Fry the garlic and chilli flakes on medium 1 min — DON’T BURN THE GARLIC!!",
+        "🌶️ Add the cayenne pepper, stir.",
+        "🍅 Pour in the tomatoes, add a pinch of sugar.",
+        "⏰ Simmer 10 mins until thick.",
+        "🧂 Add a tiny sprinkle of MSG, season with salt to taste.",
+        "🍝 Drain the pasta, toss through the sauce.",
+        "🌿 Fresh basil on top if you have it."
       ]
     },
     {
@@ -1037,7 +1166,11 @@
     "sesame seeds": true,
     "smoked paprika": true,
     "marmite": true,
-    "stock cube": true
+    "stock cube": true,
+    "ground coriander": true,
+    "MSG": true,
+    "cayenne pepper": true,
+    "sugar": true
   },
   "shopping": {
     "generated": "2026-07-03",

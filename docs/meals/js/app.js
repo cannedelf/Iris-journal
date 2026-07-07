@@ -385,7 +385,7 @@ function render() {
 
 function go(view) {
   state.view = view;
-  if (view !== 'recipes') state.recipeId = null;
+  state.recipeId = null;   // tapping any nav tab (incl. Recipes) returns to the list
   render();
   window.scrollTo(0, 0);
 }
