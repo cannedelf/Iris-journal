@@ -5,9 +5,9 @@
 import { store } from './store.js';
 import { gh } from './github.js';
 import {
-  parseDate, isoDate, weekStart, addDays, money, weeklyStatus, sunshine,
+  parseDate, isoDate, money,
   periodBreakdown, spendingKey, getPayDay, periodStart, samePeriod,
-  shiftPeriod, periodLabel, weekOfPeriod, sortMoney,
+  shiftPeriod, periodLabel, sortMoney,
   fundProgress, widdleStatus, novunaStatus, cardTrend
 } from './budget.js';
 
@@ -71,31 +71,13 @@ async function save(promise, okMsg) {
 
 function viewHome() {
   const now = today();
-  const ws = weeklyStatus(store.data, now);
-  const sun = sunshine(ws.status, ws.remaining);
-  const pct = Math.max(0, Math.min(100, ws.allowance ? (ws.remaining / ws.allowance) * 100 : 0));
-  const wom = weekOfPeriod(now, payDay());
   const mb = periodBreakdown(store.data, now);
-
-  const sunday = addDays(ws.monday, 6);
-  const range = `${ws.monday.getDate()} ${shortMonth(ws.monday)} – ${sunday.getDate()} ${shortMonth(sunday)}`;
 
   return `
   <section class="screen home">
     ${tierBadge()}
 
     ${savingsSection(now)}
-
-    <div class="bigcard ${ws.status}">
-      <div class="sun ${sun.mood}">${sun.face}</div>
-      <p class="bigcard-label">Spending money left this week</p>
-      <p class="bigcard-amount">${money(ws.remaining)}</p>
-      <div class="depbar"><div class="depbar-fill" style="width:${pct}%"></div></div>
-      <p class="bigcard-sub">of ${money(ws.allowance)} ·
-        Week ${wom} · ${esc(range)}</p>
-      ${ws.carriedDebt < 0 ? `<p class="carry">↪ ${money(-ws.carriedDebt)} borrowed from an earlier week</p>` : ''}
-      <p class="sun-line">${esc(sun.line)}</p>
-    </div>
 
     <button class="biglog" data-go="log">➕ &nbsp;Log a spend</button>
 
