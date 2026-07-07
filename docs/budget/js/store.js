@@ -174,8 +174,8 @@ export const store = {
   // --- funds & debts trackers ---------------------------------------------
   _round(n) { return Math.round((Number(n) || 0) * 100) / 100; },
 
-  // Record a month-end sort: top up the funds and log the card total for this period.
-  async recordSort({ chase, holiday, card, periodKey }) {
+  // Record a month-end sort: top up the funds, log the card total, remember the tier.
+  async recordSort({ chase, holiday, card, periodKey, tier, leftover }) {
     const f = this.data.meta.funds;
     if (f.emergency) f.emergency.balance = this._round((f.emergency.balance || 0) + chase);
     if (f.holiday) f.holiday.balance = this._round((f.holiday.balance || 0) + holiday);
@@ -183,7 +183,31 @@ export const store = {
     const existing = hist.find(h => h.period === periodKey);
     if (existing) existing.amount = this._round(card);
     else hist.push({ period: periodKey, amount: this._round(card) });
+    if (tier) this.data.meta.lastSort = { tier, leftover: this._round(leftover), period: periodKey };
     return this.commit('Record month-end sort');
+  },
+
+  // Remember the current tier for the Home badge, without moving any money.
+  async pinTier({ tier, leftover, periodKey }) {
+    this.data.meta.lastSort = { tier, leftover: this._round(leftover), period: periodKey };
+    return this.commit('Update tier badge');
+  },
+
+  // Log a savings movement: add to `to` fund, and (if given) take from `from` fund.
+  async addTransfer({ to, from, amount, note }) {
+    const amt = this._round(amount);
+    const f = this.data.meta.funds;
+    if (f[to]) f[to].balance = this._round((f[to].balance || 0) + amt);
+    if (from && f[from]) f[from].balance = this._round((f[from].balance || 0) - amt);
+    const toName = f[to] ? f[to].label : to;
+    const msg = from && f[from] ? `Move £${amt.toFixed(2)}: ${f[from].label} → ${toName}` : `Add £${amt.toFixed(2)} to ${toName}${note ? ` (${note})` : ''}`;
+    return this.commit(msg);
+  },
+
+  // Set (or clear) the Golden Drawer's current trip target.
+  async setTrip(trip) {
+    if (this.data.meta.funds.holiday) this.data.meta.funds.holiday.trip = trip;
+    return this.commit(trip ? `Set trip target: ${trip.name}` : 'Clear trip target');
   },
 
   // Log a Widdle repayment; it feeds the holiday fund.

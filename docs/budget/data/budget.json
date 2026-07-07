@@ -32,7 +32,14 @@
         "label": "Golden Drawer",
         "emoji": "🏖️",
         "balance": 0,
+        "trip": null,
         "note": "Chase holiday savings — fed by the sorter + Widdle repayments"
+      },
+      "premiumBonds": {
+        "label": "Premium Bonds",
+        "emoji": "🎟️",
+        "balance": 1,
+        "note": "Tracking for the future!"
       }
     },
     "debts": {
