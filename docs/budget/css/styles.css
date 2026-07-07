@@ -88,6 +88,32 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 .depbar { margin: 16px auto 4px; height: 14px; width: 100%; background: rgba(255,255,255,.3); border-radius: 999px; overflow: hidden; }
 .depbar-fill { height: 100%; background: #fff; border-radius: 999px; transition: width .5s ease; }
 
+/* ---------- tier badge ---------- */
+.tier-badge {
+  width: 100%; display: flex; align-items: center; gap: 12px; text-align: left;
+  border: 1.5px solid var(--line); background: var(--card); border-radius: 16px;
+  padding: 12px 16px; box-shadow: var(--shadow); color: var(--ink); font-weight: 800;
+}
+.tier-badge.queen { background: linear-gradient(165deg, #fff7e0, #ffeec2); border-color: var(--gold); }
+.tier-badge.none { justify-content: center; color: var(--ink-soft); font-size: 14px; }
+.tb-emoji { font-size: 30px; line-height: 1; }
+.tb-text { display: flex; flex-direction: column; line-height: 1.2; }
+.tb-text b { font-size: 16px; }
+.tb-text small { color: var(--ink-soft); font-weight: 700; font-size: 12px; }
+
+/* ---------- savings section (Home) ---------- */
+.savings-top .sav-total { color: var(--green); font-weight: 800; font-size: 15px; margin-left: 6px; }
+.sav-acct { padding: 10px 0; border-bottom: 1px dashed var(--line); }
+.sav-acct:last-child { border-bottom: none; padding-bottom: 2px; }
+.sav-top { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; font-weight: 700; }
+.sav-top b { font-weight: 800; }
+.sav-foot { display: flex; justify-content: space-between; align-items: center; margin-top: 6px; font-size: 12px; font-weight: 700; color: var(--ink-soft); }
+.bar-fill.gold { background: linear-gradient(90deg, #f0c14b, var(--gold-deep)); }
+.linkbtn { background: none; border: none; color: var(--green); font-weight: 800; font-size: 12px; padding: 2px 4px; }
+
+/* transfer form */
+.transfer-form { margin-top: 10px; padding-top: 12px; border-top: 1.5px solid var(--line); display: flex; flex-direction: column; gap: 10px; animation: fade .2s ease; }
+
 /* ---------- big log button ---------- */
 .biglog {
   width: 100%; border: none; border-radius: 18px; padding: 18px;
