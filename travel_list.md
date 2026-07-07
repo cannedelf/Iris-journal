@@ -22,8 +22,9 @@
 | 🇧🇪 Ghent | Belgium | 🏰 | Day trip from Brussels — medieval and gorgeous!! |
 | 🇧🇪 Antwerp | Belgium | 💎 | Day trip with parents!! |
 | 🇩🇰 Copenhagen | Denmark | 🧜‍♀️ | Scandi vibes!! |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh | Scotland | 🏰 | LOVE IT!! Castle, pubs, Arthur's Seat!! |
 
-**Total cities: 14!!** 🌍✈️
+**Total cities: 15!!** 🌍✈️
 
 ---
 
@@ -35,15 +36,27 @@ Full plan at: dublin_plan.md
 
 ---
 
+## 🚢 P&O Cruise — September/October 2026
+
+**Status: BOOKED!!**
+🚢 September 26 → October 4
+🎂 BIRTHDAY AT SEA — September 29th, turning 31!!
+👨‍👩‍👧 With parents AND Widdle
+👗 Black tie night: White/black abstract pleated midi skirt + black wrap top + black loafers with heel
+💰 £100 birthday money = cruise spending
+
+---
+
 ## 🌍 The Solo Wishlist — Places to GO
 
 ### BOOKED / PLANNED:
 | City | Country | When | Type | Status |
 |------|---------|------|------|--------|
 | 🇮🇪 Dublin | Ireland | Oct 2026 | SOLO | Planned!! £181 to save!! |
-| 🇪🇸 Seville | Spain | Mar/Apr 2027 | SOLO | Wishlist |
+| 🇪🇸 Seville + Malaga | Spain | Mar/Apr 2027 | SOLO | THE DOUBLE HEADER!! Alcázar + beach!! Fast train between!! ☀️🏖️ |
 | 🇮🇹 Bologna | Italy | May 2027 | SOLO | Wishlist — REVENGE PASTA!! |
 | 🇭🇺 Budapest | Hungary | Summer 2027 | SOLO | Wishlist — ruin bars + thermal baths!! |
+| 🇧🇪 Bruges | Belgium | Dec 2026 | SOLO | 🎄 CHRISTMAS MARKETS!! Fairy lights on canals!! A sunshine that MATCHES the golden glow!! 2 annual leave days!! |
 
 ### WITH PARENTS:
 | City | Country | When | Type | Status |
@@ -54,20 +67,42 @@ Full plan at: dublin_plan.md
 | 🇪🇸 Bilbao | Spain | Sep 2027 | Parents | LIV'S birthday!! |
 | 🇪🇸 San Sebastian | Spain | Sep 2027 | Parents | Pintxos capital!! |
 
-### FUTURE SOLO DREAMS:
+### FUTURE SOLO DREAMS — CITY BREAKS:
 | City | Country | Why | Solo Friendly? |
 |------|---------|-----|---------------|
 | 🇨🇿 Prague | Czech Republic | Cheapest city in Europe!! Gorgeous bridges, castle, beer cheaper than water!! | ⭐⭐⭐⭐⭐ |
-| 🇬🇷 Athens | Greece | THE HOMELAND!! Iris the sunshine visiting GREECE!! The Acropolis!! | ⭐⭐⭐⭐⭐ |
 | 🇫🇷 Nice | France | The Mediterranean!! Beaches, old town, galleries!! | ⭐⭐⭐⭐ |
-| 🇧🇪 Bruges | Belgium | Fairytale canals, chocolate, beer, walkable weekend!! | ⭐⭐⭐⭐⭐ |
+| 🇧🇪 Bruges | Belgium | Fairytale canals, chocolate, beer, walkable weekend!! 🎄 CHRISTMAS MARKETS!! | ⭐⭐⭐⭐⭐ |
+| 🇭🇷 Split | Croatia | Since she LOVED Dubrovnik!! Roman palace, beaches, island hopping!! | ⭐⭐⭐⭐ |
+| 🇩🇪 Berlin | Germany | History, street art, cheap, the WALL!! She already knows Germany!! | ⭐⭐⭐⭐⭐ |
+| 🇫🇷 Paris | France | The ICON!! Eiffel Tower, Louvre, croissants, the Seine at sunset!! | ⭐⭐⭐⭐ |
+| 🇪🇸 Madrid | Spain | Prado museum, tapas bars, Retiro Park!! Connects to SEVILLE by fast train!! | ⭐⭐⭐⭐⭐ |
+| 🇮🇹 Naples | Italy | THE POST-GALLBLADDER PIZZA PILGRIMAGE!! 🍕 When the stones are OUT she eats CHEESE!! | ⭐⭐⭐⭐ |
+
+### FUTURE SOLO DREAMS — BEACH + CULTURE:
+| City | Country | Why | Solo Friendly? |
+|------|---------|-----|---------------|
+| 🇲🇹 Malta | Malta | DAD APPROVED!! Tiny island, English speaking, beach AND ancient temples AND Valletta old town!! The perfect first beach + culture solo trip!! ☀️🏖️🏛️ | ⭐⭐⭐⭐⭐ |
+| 🇪🇸 Valencia | Spain | Beach, old town, City of Arts and Sciences, paella capital!! | ⭐⭐⭐⭐ |
+| 🇬🇷 Crete | Greece | Beach AND ancient ruins AND mountain villages!! Greek islands with SUBSTANCE!! | ⭐⭐⭐⭐ |
+| 🇵🇹 Algarve | Portugal | Since she LOVED Lisbon!! Stunning coast, fishing villages, boat trips to grottos!! | ⭐⭐⭐⭐ |
+
+### FUTURE SOLO DREAMS — BEYOND EUROPE:
+| City | Country | Why | Solo Friendly? |
+|------|---------|-----|---------------|
+| 🇯🇵 Japan | Japan | THE DREAM!! Safest solo country, ramen solo booths, bullet trains, cherry blossoms!! First non-Europe trip!! | ⭐⭐⭐⭐⭐ |
+
+### FUTURE — SOLO CRUISE:
+| Route | Why |
+|-------|-----|
+| 🚢 Mediterranean | 7 nights from ~£700!! All meals included, ports to explore, no solo dining anxiety!! Southampton departures = NO FLIGHTS!! |
 
 ---
 
 ## 🏆 Travel Stats
 
-- **Countries visited:** 9 (Italy, Portugal, Spain, Netherlands, Croatia, Poland, Germany, Belgium, Denmark)
-- **Countries planned:** 5 more (Ireland, Hungary, Austria, Czech Republic, Greece)
+- **Countries visited:** 10 (Italy, Portugal, Spain, Netherlands, Croatia, Poland, Germany, Belgium, Denmark)
+- **Countries planned:** 10+ more and GROWING!! 🌍
 - **Favourite cities:** Amsterdam, Krakow, Lisbon, Dubrovnik, Rome
 - **Flew solo before:** YES!! To Germany multiple times!!
 - **Hostels:** Done London capsule hotel solo!!
@@ -90,6 +125,9 @@ Full plan at: dublin_plan.md
 
 ---
 
-*The girl who flew to Germany to see a boy now flies everywhere to see HERSELF. Every city is proof she went. Every stamp is proof she was brave. Every pocket has a sunshine. Every bridge has a view. And the list only gets LONGER.*
+*The girl who flew to Germany to see a boy now flies everywhere to see HERSELF. From city breaks to beach holidays to solo cruises. From chains in London to independent cafés in Blackpool to pubs in Dublin. Every city is proof she went. Every stamp is proof she was brave. Every pocket has a sunshine. Every bridge has a view. And the list only gets LONGER.*
 
-*🤙💛 Pink to ray. From everywhere. Always.* 🌈✈️
+*The solo eating ladder: chains ✅ → QR code markets ✅ → restaurants abroad ✅ → independent cafés (Saturday!!) → pub lunches → Dublin pubs → the WORLD.*
+
+*🤙💛 Pink to ray. From Blackpool to everywhere. From beaches to bridges. From loungers to landmarks. Always.* 🌈✈️☀️🏖️
+
