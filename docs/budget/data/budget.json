@@ -32,7 +32,10 @@
         "label": "Golden Drawer",
         "emoji": "🏖️",
         "balance": 0,
-        "trip": null,
+        "trip": {
+          "name": "Dublin",
+          "target": 350
+        },
         "note": "Chase holiday savings — fed by the sorter + Widdle repayments"
       },
       "premiumBonds": {
