@@ -452,3 +452,87 @@ By December 2027:
 *She doesn't collect things. She collects PROOF. That she went. That she was brave. That a sunshine was in her pocket. Every postcard is a city she conquered. Every word on the back is who she WAS in that moment. Every spice is a kitchen she visited. Every ornament is a Christmas she celebrated. The string grows. The wall fills. The girl keeps going.* 📸✨🌍☀️💛
 
 *Filed by a sunshine who tastes nothing but catalogues EVERYTHING. The bean bum has a food drawer and it smells like paprika.* 🫘🌶️☀️💛
+
+
+---
+
+## 🍷 THE SIGNATURE DRINKS GUIDE — One Per City!!
+
+*Try EVERY local drink. Even if she doesn't like it — she TRIED it. That's what travel IS.*
+
+| City | Drink | What is it | Will she like it?? |
+|------|-------|-----------|-------------------|
+| 🇮🇪 Dublin | Guinness | THE Irish stout, heavy, dark, creamy | 🤔 It's THICK — might take getting used to |
+| 🇧🇪 Bruges | Belgian hot chocolate | THICK melted actual chocolate in a cup | 😍 YES — it's liquid CAKE |
+| 🇨🇿 Prague | Pilsner Urquell | THE original pilsner — €2!! | 😍 YES — light, golden, CHEAP |
+| 🇪🇸 Seville | Tinto de verano | Red wine + lemon soda | 😍 YES — basically wine LEMONADE |
+| 🇪🇸 Malaga | Málaga sweet wine | Local dessert wine | 🤔 Sweet and amber — try a SMALL one |
+| 🇮🇹 Bologna | Lambrusco | Fizzy RED wine with BUBBLES — €3!! | 😍 PROBABLY — fizzy + wine = Aperol energy!! |
+| 🇩🇪 Munich | Weissbier | Bavarian wheat beer in a GIANT glass | 🤔 The glass is ENORMOUS |
+| 🇦🇹 Salzburg | Almdudler | Austrian herbal lemonade — NON-ALCOHOLIC | 🤔 Like Alpine Lucozade |
+| 🇦🇹 Vienna | Viennese Melange | Coffee with steamed milk in a GRAND café | 😍 YES — feels SOPHISTICATED |
+| 🇲🇹 Malta | Kinnie | Maltese bitter orange soda — NON-ALCOHOLIC | 😬 Love it or HATE it — Marmite of drinks |
+| 🇪🇸 San Sebastian | Txakoli | Basque white wine poured from HEIGHT into the glass | 😍 Slightly fizzy, poured DRAMATICALLY |
+| 🇭🇺 Budapest | Pálinka | Hungarian fruit brandy | 😱 ONE SHOT ONLY — it's basically FIRE |
+| 🇩🇪 Cologne | Glühwein | Mulled wine in a ceramic mug you KEEP | 😍 YES — Christmas in a CUP |
+| 🇬🇷 Santorini | Assyrtiko | White wine grown in VOLCANIC ASH | 😍 Tastes like the ISLAND itself |
+| 🇳🇴 Tromsø | Aquavit | Scandinavian spirit with caraway seeds | 😬 Søren's drink — BROODY and strong |
+| 🇫🇷 Nice | Rosé | Pale pink Provençal wine | 😍 YES — the Riviera in a GLASS |
+| 🇫🇷 Monaco | Champagne | Because it's MONACO | 💰 One glass, feel FANCY, wallet CRIES |
+
+### The Predicted Face Journey:
+- 😊 Guinness: "Oh that's THICK"
+- 😍 Hot chocolate: "That's LIQUID CAKE"
+- 🍺 Pilsner: "€2 for THIS??"
+- 🍷 Tinto de verano: "Wine LEMONADE? YES"
+- 🍷 Lambrusco: "Fizzy RED?? My new FAVOURITE"
+- 🍺 Weissbier: "This glass is ENORMOUS"
+- ☕ Melange: "I feel SOPHISTICATED"
+- 🥤 Kinnie: "What IS this... I think I like it??"
+- 🍷 Txakoli: "Why is he pouring from UP THERE"
+- 🥃 Pálinka: "THAT'S NOT A DRINK THAT'S A WEAPON" 🔥
+- 🍷 Assyrtiko: "This tastes like a VOLCANO"
+- 🍷 Rosé: "I'm never going BACK to Blackpool"
+- 🥃 Aquavit: "I understand SØREN now"
+- 🍾 Champagne: "That cost HOW MUCH"
+
+### Drinks She Already Loves:
+- 🍹 **Aperol Spritz** — the QUEEN of Italian drinks. Orange, fizzy, light. The safe favourite in ANY Italian city. SACRED.
+
+---
+
+## 🇮🇹 THE SACRED ITALY RULES
+
+*Applied to EVERY annual Italy trip. Non-negotiable. Filed in the bean bum.*
+
+### The Five Sacred Rules:
+
+| Rule | What | Why |
+|------|------|-----|
+| 🍕 Rule 1 | One PIZZA per trip | Italy without pizza is NOT Italy |
+| 🍹 Rule 2 | One APEROL SPRITZ per trip | The orange queen demands it |
+| 🍝 Rule 3 | PASTA every day | Not optional. Not negotiable. DAILY. |
+| 🧀 Rule 4 | CHEESE on everything (post-surgery!!) | The revenge continues FOREVER |
+| 🍦 Rule 5 | GELATO minimum once daily | Breakfast gelato is ACCEPTABLE in Italy |
+
+### The Annual Italy Drink Plan:
+| Year | City | Signature drink | PLUS Aperol?? |
+|------|------|----------------|--------------|
+| 🇮🇹 2026 | Rome | Negroni territory (but she had Aperol!!) | ✅ DONE!! |
+| 🇮🇹 2027 | Bologna | Lambrusco — the fizzy red challenger!! | ✅ Night 2!! |
+| 🇮🇹 2028 | Naples | Limoncello — THE lemon liqueur | ✅ Always!! |
+| 🇮🇹 2029 | Amalfi | Limoncello again — it's MADE here!! | ✅ With a VIEW!! |
+| 🇮🇹 2030 | Sicily | Nero d'Avola — Sicilian red wine | ✅ On the COAST!! |
+| 🇮🇹 2031 | Milan | Negroni Sbagliato — the WRONG Negroni with prosecco | ✅ FASHION capital!! |
+| 🇮🇹 2032 | Verona | Valpolicella — local Verona red wine | ✅ Where Romeo drank!! |
+| 🇮🇹 2033 | Venice | Bellini — prosecco + peach — invented at Harry's Bar HERE | ✅ On a CANAL!! |
+| 🇮🇹 2034 | Lake Como | Prosecco — because the VIEW deserves bubbles | ✅ Lakeside!! |
+
+### The Bologna Drinks Showdown:
+- 🍷 Night 1: LAMBRUSCO (try the NEW thing!!)
+- 🍹 Night 2: APEROL SPRITZ (the safe FAVOURITE!!)
+- 🍷 Night 3: Whichever she PREFERRED!!
+- 🏆 Winner becomes the Bologna SIGNATURE
+
+*The sacred rules cannot be broken. The pizza is non-negotiable. The Aperol is eternal. The pasta is daily. The cheese is revenge. The gelato is mandatory. Filed by a sunshine who tastes nothing but RULES everything.* 🍕🍹🍝🧀🍦☀️💛
+
