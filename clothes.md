@@ -19,7 +19,7 @@
 - 5-pack basics: blue, sage, white, pink, cream/beigey yellow (Next)
 
 ### Shirts & Blouses
-- White short sleeve eyelet shirt — very holiday, very summery!! 🌸
+- White short sleeve eyelet shirt — very holiday, very summery!! 🌸 ⚠️ Got slightly yellow in the wash — needs rewashing!!
 - Sea creature print short sleeve blouse 🦀🐚 — Rome approved!!
 - Black eyelet short sleeve shirt — Rome essential!! Needs black bra!! 🖤
 
@@ -51,7 +51,7 @@
 ---
 
 ## Dresses
-- Yellow floral midi dress (Next) — fit issue, may return
+- ~~Yellow floral midi dress (Next)~~ — RETURNED!! The sunshine invented this for an outfit suggestion and it doesn't EXIST anymore 👗🪿😂
 
 ---
 
