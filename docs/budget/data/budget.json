@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-07-07",
+    "updated": "2026-07-08",
     "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
     "weeklyBudget": 50,
     "payDay": 25,
@@ -321,6 +321,20 @@
       "amount": 48,
       "category": "household",
       "note": "Wickes"
+    },
+    {
+      "id": "spend_1_zix0z",
+      "date": "2026-07-08",
+      "amount": 15.99,
+      "category": "household",
+      "note": "Sweepy app"
+    },
+    {
+      "id": "spend_2_wgog0",
+      "date": "2026-07-08",
+      "amount": 15.99,
+      "category": "household",
+      "note": "Sweepy app"
     }
   ]
 }
