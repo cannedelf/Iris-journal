@@ -3,7 +3,7 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-07-07",
+    "updated": "2026-07-09",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
   "mealPlan": {
@@ -834,62 +834,28 @@
       "emoji": "🌮",
       "servings": 2,
       "fat": "Under 5g — no oil needed 💛",
-      "lunchNote": "The BEST leftover on the list — rice soaks up the bean juices overnight.",
+      "lunchNote": "The BEST leftover on the list — tub half; the rice soaks up the bean juices overnight.",
       "ingredients": [
         {
-          "item": "rice",
-          "amount": 0.3,
-          "unit": "bag",
-          "section": "dry",
-          "note": "about a mugful dry"
+          "item": "Mexican rice pouch",
+          "emoji": "🍚",
+          "qty": "1 pouch",
+          "amount": 1,
+          "unit": "pouch",
+          "section": "dry"
         },
         {
           "item": "tinned black beans",
+          "emoji": "🫘",
+          "qty": "1 tin (400g) — drained & rinsed",
           "amount": 1,
           "unit": "tin",
           "section": "tins"
         },
         {
-          "item": "limes",
-          "amount": 1,
-          "unit": "lime",
-          "section": "fruit"
-        },
-        {
-          "item": "cherry tomatoes",
-          "amount": 0.5,
-          "unit": "punnet",
-          "section": "fresh"
-        },
-        {
-          "item": "cucumber",
-          "amount": 0.25,
-          "unit": "cucumber",
-          "section": "fresh"
-        },
-        {
-          "item": "spring onions",
-          "amount": 0.5,
-          "unit": "bunch",
-          "section": "fresh"
-        },
-        {
-          "item": "salsa",
-          "amount": 0.7,
-          "unit": "jar",
-          "section": "sauces",
-          "note": "shared with veg-stick snacks"
-        },
-        {
-          "item": "fresh coriander",
-          "amount": 1,
-          "unit": "pack",
-          "section": "fresh",
-          "check": true,
-          "note": "optional"
-        },
-        {
           "item": "cumin",
+          "emoji": "🌶️",
+          "qty": "1 tsp",
           "amount": 1,
           "unit": "tsp",
           "section": "spices",
@@ -897,17 +863,122 @@
         },
         {
           "item": "paprika",
+          "emoji": "🌶️",
+          "qty": "1 tsp",
           "amount": 1,
           "unit": "tsp",
           "section": "spices",
           "check": true
+        },
+        {
+          "item": "mild chilli powder",
+          "emoji": "🌶️",
+          "qty": "½ tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "garlic powder",
+          "emoji": "🧄",
+          "qty": "½ tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "limes",
+          "emoji": "🍋",
+          "qty": "juice of 1 lime",
+          "amount": 1,
+          "unit": "lime",
+          "section": "fruit"
+        },
+        {
+          "item": "salt",
+          "emoji": "🧂",
+          "qty": "to taste",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        },
+        {
+          "item": "MSG",
+          "emoji": "🧂",
+          "qty": "pinch",
+          "amount": 1,
+          "unit": "pack",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "peppers",
+          "emoji": "🫑",
+          "qty": "1 — diced",
+          "amount": 1,
+          "unit": "pepper",
+          "section": "fresh"
+        },
+        {
+          "item": "cherry tomatoes",
+          "emoji": "🍅",
+          "qty": "6–8, roughly chopped",
+          "amount": 0.5,
+          "unit": "punnet",
+          "section": "fresh"
+        },
+        {
+          "item": "cucumber",
+          "emoji": "🥒",
+          "qty": "¼ — diced",
+          "amount": 0.25,
+          "unit": "cucumber",
+          "section": "fresh"
+        },
+        {
+          "item": "spring onions",
+          "emoji": "🧅",
+          "qty": "2 — sliced",
+          "amount": 0.5,
+          "unit": "bunch",
+          "section": "fresh"
+        },
+        {
+          "item": "fresh coriander",
+          "emoji": "🌿",
+          "qty": "handful, roughly chopped",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh",
+          "check": true,
+          "note": "optional"
+        },
+        {
+          "item": "salsa",
+          "emoji": "🫙",
+          "qty": "3–4 tbsp from a jar",
+          "amount": 0.7,
+          "unit": "jar",
+          "section": "sauces"
+        },
+        {
+          "item": "smoked sweet jalapeños",
+          "emoji": "🌶️",
+          "qty": "on top, to taste",
+          "amount": 1,
+          "unit": "jar",
+          "section": "sauces"
         }
       ],
       "steps": [
-        "Cook rice per packet.",
-        "Warm beans with cumin, paprika, lime juice + a splash of water, 3–4 mins.",
-        "Chop tomatoes, cucumber, spring onions (+ coriander).",
-        "Half the rice + beans in a bowl, pile on fresh bits, spoon over salsa. Other half into a tub."
+        "🫘 Warm the beans with cumin, paprika, chilli powder, garlic powder, lime and a splash of water — 3–4 mins.",
+        "🫑 Diced pepper in WITH the beans.",
+        "🍚 Microwave the rice pouch — 90 seconds.",
+        "🍅 Chop all the fresh stuff while the beans warm.",
+        "🍚 Rice in a bowl, beans on top, fresh stuff on, salsa on, jalapeños on TOP.",
+        "📦 Thursday tub — half of everything into a tub; it soaks up the bean juices overnight."
       ]
     },
     {
@@ -1170,7 +1241,9 @@
     "ground coriander": true,
     "MSG": true,
     "cayenne pepper": true,
-    "sugar": true
+    "sugar": true,
+    "mild chilli powder": true,
+    "garlic powder": true
   },
   "shopping": {
     "generated": "2026-07-03",
