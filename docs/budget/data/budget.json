@@ -31,7 +31,7 @@
       "holiday": {
         "label": "Golden Drawer",
         "emoji": "🏖️",
-        "balance": 0,
+        "balance": 300,
         "trip": {
           "name": "Dublin",
           "target": 450
