@@ -64,21 +64,59 @@
 
 ---
 
-## 🇧🇪 BRUGES — December 2026
+## 🇧🇪 BRUGES — Last Week of November 2026
 
 ### Status: GALLSTONES STILL IN!! 💎
+
+### ✈️ Travel Details
+| Detail | Info |
+|--------|------|
+| 📅 Dates | Wed 25 → Sat 28 November 2026 |
+| ✈️ Outbound | 8:50am Ryanair from Manchester |
+| ✈️ Return | 16:00 Ryanair to Manchester |
+| 💰 Flights | £60 — SAVED on Skyscanner |
+| 🏨 Airport hotel | Holiday Inn Express Manchester — £70 inc FREE breakfast!! |
+| 🏨 Bruges hotel | Ibis Budget near station — £223 (without breakfast — eat BRUGES waffles instead!!) |
+| 💰 Total travel | £378 |
+| 📅 Leave days | 3 (Wed + Thu + Fri) — Sun + Mon = TWO decompression days!! |
+
+### 🎫 Activities BOOKED
+| Activity | What | When | Cost |
+|----------|------|------|------|
+| 🚶‍♀️🍫🍺 Guided Tour & Beer Tasting in English | Walking tour + chocolate shop tasting + 4 Belgian beer tasting | Thursday 10:30am | £26.44 |
+
+Thursday morning = walking tour gets her ORIENTED + chocolate tasting + Belgian beer at 10:30am because she's being BELGIAN not irresponsible!! 🍺🇧🇪😂
+
+### 📅 The Bruges Schedule
+| Day | Plan |
+|-----|------|
+| 🏨 Tue PM | Train to Manchester, Holiday Inn Express, FREE breakfast |
+| 🎄 Wed PM | Arrive ~12pm, explore, first Glühwein, Christmas markets!! |
+| 🍫🍺 Thursday AM | 10:30 Walking tour + chocolate + BEER TASTING |
+| 🎄 Thursday PM | FREE — Christmas markets properly!! |
+| 🎄 Friday | Last day — cathedral, canals, more markets |
+| ✈️ Saturday | Last wander, fly HOME 16:00 |
+| 🛋️ Sunday | Decompression day 1 |
+| 🛋️ Monday | Decompression day 2 |
 
 ### 🍽️ Food to Try
 | Food | What is it | Gallstone safe? | Where to try |
 |------|-----------|----------------|-------------|
-| 🍫 Belgian chocolate | Handmade pralines | ⚠️ Small amounts, dark better | Chocolate shops everywhere |
-| 🧇 Liège waffle | Caramelised sugar waffle | ⚠️ Skip whipped cream | Street stalls |
+| 🍫 Belgian chocolate | Handmade pralines | ⚠️ Small amounts, dark better | Walking tour chocolate tasting!! |
+| 🧇 Liège waffle | Caramelised sugar waffle | ⚠️ Skip whipped cream | Street stalls — BREAKFAST!! |
 | 🍟 Belgian frites | Twice-fried, best in the world | ⚠️ Small portion treat | Frituur stalls |
 | 🥣 Stomp | Mashed potato with vegetables | ✅ YES | Restaurants |
 | 🧅 Waterzooi | Creamy vegetable stew | ⚠️ Check cream amount | Traditional restaurants |
 | 🥜 Roasted chestnuts | From a market stall | ✅ PERFECT | Christmas market stalls |
 | 🍪 Speculoos | Cinnamon gingerbread biscuits | ✅ YES | Everywhere!! |
 | ☕ Belgian hot chocolate | Thick melted ACTUAL chocolate | ⚠️ Small amount | Christmas market cafés |
+| 🍺 Belgian beer x4 | Beer TASTING on the walking tour!! | ✅ | Tour included!! |
+| 🧀 Raclette | Melted cheese scraped onto potatoes | ⚠️ Small portion | Christmas market stalls |
+| ☕ Glühwein | Hot mulled wine in a CERAMIC MUG she KEEPS!! | ✅ | Every Christmas market!! |
+
+### 🍽️ Bruges Breakfast Strategy
+NO hotel breakfast — eat BRUGES waffles in medieval cafés instead!! 🧇🏰☕
+Skip the Ibis buffet, find a Belgian waffle stall, hot chocolate in hand, fairy lights overhead. THAT'S breakfast.
 
 ### 🎁 Souvenirs
 | Item | Budget | Notes |
@@ -88,6 +126,7 @@
 | 🍫 Chocolate box | ~£5-8 | For Mum |
 | 🍫 Single truffle | ~£2 | For herself, eaten on a canal bench |
 | 🍺 Belgian beer glass | ~£5 | For Dad |
+| ☕ Glühwein mug | ~£3-5 | KEEP the ceramic mug from the market!! |
 | ✍️ String postcard word | — | **"GOLDEN"** |
 
 ---
