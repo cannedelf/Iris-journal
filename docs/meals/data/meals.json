@@ -1298,6 +1298,11 @@
         "id": "c_milk_xo6t",
         "name": "Milk",
         "permanent": false
+      },
+      {
+        "id": "c_bananas_j2k3",
+        "name": "Bananas",
+        "permanent": false
       }
     ]
   }
