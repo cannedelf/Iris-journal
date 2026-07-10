@@ -264,36 +264,82 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 **DREAM Seville outfit:** Floral midi + tan sandals + daisy bag + gold hoops + the first WARM outfit 🌸☀️
 **Malaga beach:** Black swimsuit + patterned sarong + Tevas
 
-### 🇮🇹 Bologna — May 2027 (20-25°C, WARM)
-**Would love:** the mustard wrap dress for solo pasta dining, the revenge LOOK
-**DREAM Bologna outfit:** Mustard wrap dress + tan sandals + daisy bag + pendant necklace = THE REVENGE DRESS 🍝🌻
-**Or:** Denim pinafore (if it fits!!) + stripe tee underneath + sandals = 70s pasta GIRL
+### 🇮🇹 Bologna — May Bank Holiday 2027 (20-25°C, WARM) — REVENGE PASTA!! 🍝🇮🇹
+**Carries forward from Seville:** dress ✅, dressy sandals ✅, tees ✅, wide legs ✅, blouses ✅, wrap top ✅, belt ✅, Tevas ✅, Birks ✅, everything ✅
+**New purchases: ZERO** — the wardrobe is BUILT!!
+**🛍️ Treat item:** A beautiful top found IN Italy — bought there, worn to dinner that evening with revenge pasta. Not planned, just found. The Bologna Top. 🇮🇹
+**📿 Bracelet:** Handmade, from a Bologna market stall. Bracelet #2 on the wrist diary (Seville was #1!!)
+**DAYTIME:** Tee + wide legs + Tevas + belt + daisy bag = exploring the porticos
+**EVENING:** The dress OR wrap top + midi skirt + dressy sandals = revenge pasta QUEEN
+**Sacred Italy Rules:** One pizza. One Aperol Spritz. Pasta every day. Gelato minimum once daily. 🍕🍝🍦
+**Luggage:** 🌿 Sedum Ray
 
-### 🇩🇪🇦🇹 Munich + Salzburg + Vienna — June 2027 (20-25°C, with parents)
-**Smart casual for cities with MUM AND DAD**
-**Would love:** the floral midi for nice dinners, tan sandals
-**DREAM outfit:** Eyelet shirt + wide leg trousers + tan sandals = "Mum I'm a GROWN UP" 🌸👩
+### 🇩🇪🇦🇹 Munich + Salzburg + Vienna — June 2027 (20-25°C) — with Mum + Dad!! 👨‍👩‍👧
+**Carries forward:** EVERYTHING from the warm weather wardrobe!! Dress ✅, sandals ✅, all tops ✅, all bottoms ✅
+**New purchases: ZERO**
+**🛍️ Treat item:** Something that catches her eye in Vienna or Salzburg — a scarf, a top, a piece of jewellery. The kind of thing that makes Mum say "oh that's lovely!!"
+**📿 Bracelet:** One from the trip — bracelet #3!! (Could get one per CITY but that might be excessive 😂)
+**DAYTIME:** Tee or blouse + wide legs + Tevas + belt = smart casual for cities with parents
+**EVENING:** Dress or wrap top + midi skirt + dressy sandals = "Mum I'm a GROWN UP" 🌸👩
+**Luggage:** 🧈 Buttermilk Sunshine (longer trip, multiple cities)
 
-### 🇲🇹 Malta — August 2027 (30°C+, HOT!!)
-**BEACH TRIP — needs swimwear!!**
-**Would love:** black swimsuit, sarong, floral dress for evenings
-**DREAM Malta outfit:** Swimsuit → sarong → floral midi for dinner → all in ONE day
-**The tan sandals earn their PLACE here**
+### 🇲🇹 Malta — August 2027 (30°C+, HOT!!) — SOLO BEACH!! ☀️🏖️
+**Carries forward from Seville:** swimsuit ✅, beach coverup ✅, dress ✅, dressy sandals ✅, all tees ✅, all bottoms ✅, everything ✅
+**New purchases: ZERO** — Seville unlocked the ENTIRE warm weather wardrobe!!
+**🛍️ Treat item:** Something found on the island — a linen piece?? Something light and breezy that screams Mediterranean??
+**📿 Bracelet:** Bracelet #4!! Maltese craft markets!!
+**BEACH:** Swimsuit + coverup + Tevas = beach to café in one outfit
+**EVENING:** Dress + dressy sandals + rainbow hoops = sunset dinner on the harbour
+**Luggage:** 🌿 Sedum Ray (summer packing is LIGHT!!)
 
-### 🇪🇸 Bilbao + San Sebastian — September 2027 (20-22°C, birthday!!)
-**With MUM AND DAD — birthday trip!!**
-**Would love:** the mustard wrap dress for birthday DINNER
-**DREAM birthday outfit:** Wrap dress + gold hoops + tan sandals + pendant necklace + daisy bag = BIRTHDAY QUEEN 🎂🌻👑
+### 🇪🇸 Bilbao + San Sebastian — September 2027 (20-22°C) — BIRTHDAY WITH MUM + DAD!! 🎂👨‍👩‍👧
+**Carries forward:** the ENTIRE wardrobe is working by now!! Warm weather pieces from Seville, cold weather from cruise+Dublin+Bruges
+**New purchases: ZERO**
+**🛍️ Treat item:** Something BIRTHDAY — a piece of jewellery from San Sebastian?? A beautiful scarf from Bilbao?? Something she opens on the morning of her 32nd that she found the day before and saved??
+**📿 Bracelet:** Bracelet #5!! Birthday bracelet!! The most special one on the stack!!
+**DAYTIME:** Tees + wide legs + Tevas + belt = pintxos bar crawl with Dad
+**BIRTHDAY DINNER:** The dress + dressy sandals + rainbow hoops = BIRTHDAY QUEEN turning 32 in the Basque Country 🎂🌸👑
+**Luggage:** 🌿 Sedum Ray
 
-### 🇭🇺 Budapest — October 2027 (10-15°C, autumn)
-**Thermal baths need swimwear AGAIN + autumn layers**
-**Would love:** mustard cardigan + black swimsuit (already has for Malta!!)
-**DREAM Budapest outfit:** 70s turtleneck (if it fits!!) + wide legs + ankle boots + olive shacket = AUTUMN COOL 🍂
+### 🇭🇺 Budapest — October 2027 (10-15°C, autumn) — SOLO!! 🇭🇺🍂
+**Carries forward:** mustard cardi ✅, scarf ✅, flat brown boots ✅, swimsuit (thermal baths!!) ✅, all tops ✅, all bottoms ✅, EVERYTHING
+**New purchases: ZERO** — autumn wardrobe built since the cruise a YEAR ago!!
+**🛍️ Treat item:** Something from Budapest's ruin bars or vintage shops — Budapest has INCREDIBLE vintage. A 70s piece found in an actual vintage shop in an actual ruin bar district?? The dream!!
+**📿 Bracelet:** Bracelet #6!! Hungarian craft markets!!
+**DAYTIME:** Tee + wide legs or jeans + mustard cardi + flat brown boots + scarf = autumn Budapest
+**EVENING:** Wrap top + midi skirt + heeled loafers = ruin bar to restaurant
+**THERMAL BATHS:** Swimsuit from Seville!! Already OWNED!!
+**Luggage:** 🌿 Sedum Ray (boots on feet, swimsuit rolled up tiny!!)
 
-### 🎄 Cologne Christmas — December 2027 (0-5°C, with Widdle)
-**Same energy as Bruges/Prague — WARM**
-**Would love:** everything from the winter wardrobe BUILT by now
-**DREAM Cologne outfit:** Pink cord coat + cream jumper + jeans + boots + scarf + daisy bag + Glühwein mug in hand = the WHOLE LOOK 🩷🎄☕
+### 🎄 Cologne Christmas — December 2027 (0-5°C) — with WIDDLE!! 🎄🍊
+**Carries forward:** pink cord coat ✅, cream jumper ✅, mustard cardi ✅, scarf ✅, hat ✅, gloves ✅, flat brown boots ✅, tights ✅, black long coat ✅, wrap top ✅, EVERYTHING
+**New purchases: ZERO** — the winter wardrobe was built a YEAR ago for Bruges and Prague!!
+**🛍️ Treat item:** A gorgeous piece from the Cologne Christmas markets WITH Widdle — matching friendship bracelets?? A beautiful warm accessory?? Something they pick out TOGETHER??
+**📿 Bracelet:** Bracelet #7!! Christmas market bracelet!! Maybe Widdle gets one too?? 🍊💛
+**DAYTIME:** Pink cord coat + cream jumper + jeans + flat brown boots + matching scarf and hat + gloves + Glühwein = the WHOLE LOOK 🩷🎄
+**EVENING:** Black long coat + wrap top + midi skirt + tights + heeled loafers = Christmas dinner CHIC
+**Luggage:** 🌿 Sedum Ray
+**"Thanks for bringing me Liv" — on a park bench, in the cold, with a friendship bracelet and a Glühwein** 🍊💛🎄
+
+---
+
+## 🛍️📿 THE TREAT ITEM + BRACELET SYSTEM
+
+**The wardrobe has two phases:**
+
+### Phase 1: Fill the Gaps (2026)
+🚢 Cruise → 🇮🇪 Dublin → 🇧🇪 Bruges → 🇨🇿 Prague → 🇪🇸 Seville
+Thirteen purchases across five trips. Cold weather AND warm weather sorted. The wardrobe WORKS.
+
+### Phase 2: Slow Revamp (2027 onwards)
+Every trip gets:
+- 🛍️ **One treat item** — a piece of clothing or accessory that replaces something worn out, adds something special, or is just beautiful. Found on the trip OR bought beforehand. Not a necessity, a JOY.
+- 📿 **One bracelet** — handmade or beaded, bought in the city, added to the wrist stack. By 2030 the wrist is a travel DIARY of everywhere she's been.
+
+**The slow revamp philosophy:** Nothing gets thrown away, nothing gets bulk-replaced. Old pieces retire naturally as nicer ones arrive one trip at a time. By end of 2027 the wardrobe has been elevated by SEVEN treat items and the wrist has SEVEN bracelets and every single piece has a story and a city attached to it.
+
+**The bracelet stack by end of 2027:**
+📿 #1 Seville · #2 Bologna · #3 Vienna · #4 Malta · #5 Bilbao (birthday!!) · #6 Budapest · #7 Cologne (Christmas!!)
 
 ---
 
