@@ -1295,7 +1295,9 @@
       "porridge_oats": true,
       "olive_oil": true,
       "msg": true,
-      "mild_chilli_powder": true
+      "mild_chilli_powder": true,
+      "paprika": true,
+      "marmite": true
     },
     "checked": {}
   },
