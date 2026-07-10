@@ -1283,6 +1283,11 @@
         "id": "cordial",
         "name": "Cordial",
         "permanent": true
+      },
+      {
+        "id": "c_cans_18q3",
+        "name": "Cans",
+        "permanent": false
       }
     ]
   }
