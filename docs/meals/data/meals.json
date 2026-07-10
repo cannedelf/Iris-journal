@@ -1288,6 +1288,11 @@
         "id": "c_cans_18q3",
         "name": "Cans",
         "permanent": false
+      },
+      {
+        "id": "c_bin_bags_1juc",
+        "name": "Bin bags",
+        "permanent": false
       }
     ]
   }
