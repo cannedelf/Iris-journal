@@ -1075,10 +1075,7 @@
     }
   ],
   "snacks": {
-    "selected": [
-      "apples",
-      "ice_lollies"
-    ],
+    "selected": [],
     "available": [
       {
         "id": "apples",
