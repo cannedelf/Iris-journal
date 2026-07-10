@@ -245,14 +245,15 @@ function viewShopIntro() {
 }
 
 function itemRow(item, mode) {
-  const need = item.qtyText;
+  // Spice-rack items carry a vague "check you have some" — drop it when it's a real buy line.
+  const need = item.qtyText === 'check you have some' ? '' : item.qtyText;
   const sources = item.sources.length > 1
     ? `<span class="src">for ${esc(item.sources.join(' + '))}</span>` : '';
   if (mode === 'buy') {
     return `
     <button class="buy-row ${item.checked ? 'done' : ''}" data-check="${esc(item.key)}">
       <span class="tick">${item.checked ? '✓' : ''}</span>
-      <span class="buy-main"><b>${esc(item.name)}</b> <i>${esc(need)}</i>${sources}</span>
+      <span class="buy-main"><b>${esc(item.name)}</b>${need ? ` <i>${esc(need)}</i>` : ''}${sources}</span>
     </button>`;
   }
   // check-cupboard mode: stepper for "I already have"
@@ -283,10 +284,11 @@ function viewShopCheck(list, gen) {
   const cupboard = list.cupboard.length ? `
     <div class="card cupboard-card">
       <h3>🌶️ Spice rack & store cupboard</h3>
-      <p class="hint">These last for months — just check you've got them, don't auto-buy.</p>
+      <p class="hint">Tick the ones you already have. Anything you leave unticked gets added to your shopping list.</p>
       ${list.cupboard.map(i => `
         <button class="cup-row ${i.got ? 'got' : ''}" data-got="${esc(i.key)}">
-          <span class="tick">${i.got ? '✓' : '○'}</span>${esc(i.name)}
+          <span class="tick">${i.got ? '✓' : '○'}</span><span class="cup-name">${esc(i.name)}</span>
+          ${i.got ? '' : '<span class="cup-tag">on the list</span>'}
         </button>`).join('')}
     </div>` : '';
 
@@ -311,6 +313,12 @@ function viewShopBuy(list, gen) {
   const sections = list.sections
     .map(s => ({ ...s, items: s.items.filter(i => !i.got) }))
     .filter(s => s.items.length);
+
+  // Cupboard staples you did NOT tick as "already have" get their own aisle on the list.
+  const cupboardToBuy = list.cupboard.filter(i => !i.got);
+  if (cupboardToBuy.length) {
+    sections.push({ emoji: '🌶️', label: 'Spice Rack & Store Cupboard', items: cupboardToBuy });
+  }
 
   const allDone = sections.every(s => s.items.every(i => i.checked)) && sections.length;
   const blocks = sections.map(s => `

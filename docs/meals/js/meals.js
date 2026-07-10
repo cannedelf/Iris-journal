@@ -69,6 +69,14 @@ function roundCount(n) {
   return Number.isInteger(r) ? r : Math.ceil(r);
 }
 
+// Cupboard staples: you buy ONE (jar/pack/bottle) regardless of how many recipes use it.
+// Pure spice-rack amounts (tsp/pinch) show no quantity — just the name.
+function cupboardQty(line) {
+  if (VAGUE_UNITS.has(line.unit)) return '';
+  const u = pluralUnit(line.unit, 1);
+  return u ? `1 ${u}` : '';
+}
+
 // --- the generator ----------------------------------------------------------
 //
 // Walk every recipe scheduled this week + every picked snack, accumulating each
@@ -131,7 +139,9 @@ export function buildShoppingList(data) {
       ...line,
       sources: [...line.sources],
       notes: [...line.notes],
-      qtyText: formatQty(line),
+      // Cupboard staples are bought once (one jar/pack) however many recipes use them;
+      // only genuine buy items sum their quantities across the week.
+      qtyText: line.check ? cupboardQty(line) : formatQty(line),
       have: have[line.key] || 0,
       got: !!got[line.key],
       checked: !!checkedMap[line.key]
