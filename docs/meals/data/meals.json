@@ -1276,7 +1276,8 @@
     "have": {},
     "got": {
       "mexican_rice_pouch": true,
-      "dried_pasta": true
+      "dried_pasta": true,
+      "rice": true
     },
     "checked": {}
   },
