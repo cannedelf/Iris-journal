@@ -335,6 +335,13 @@
       "amount": 29.58,
       "category": "groceries",
       "note": "Aldi weekly shop"
+    },
+    {
+      "id": "spend_2_uig4a",
+      "date": "2026-07-10",
+      "amount": 1.65,
+      "category": "household",
+      "note": "Bin bags"
     }
   ]
 }
