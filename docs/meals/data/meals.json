@@ -1293,7 +1293,9 @@
       "soy_sauce": true,
       "smoked_paprika": true,
       "porridge_oats": true,
-      "olive_oil": true
+      "olive_oil": true,
+      "msg": true,
+      "mild_chilli_powder": true
     },
     "checked": {}
   },
