@@ -3,7 +3,7 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-07-09",
+    "updated": "2026-07-10",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
   "mealPlan": {
@@ -31,17 +31,17 @@
     "wednesday": {
       "breakfast": "porridge",
       "lunch": "arrabbiata_cold",
-      "dinner": "mexican_bowl"
+      "dinner": "bruschetta"
     },
     "thursday": {
       "breakfast": "porridge",
-      "lunch": "mexican_bowl_cold",
-      "dinner": "veggie_pasta"
+      "lunch": "bruschetta_cold",
+      "dinner": "mexican_bowl"
     },
     "friday": {
       "breakfast": "porridge",
-      "lunch": "veggie_pasta_cold",
-      "dinner": "falafel_pittas"
+      "lunch": "mexican_bowl_cold",
+      "dinner": "quorn_pittas"
     }
   },
   "connections": [
@@ -64,16 +64,16 @@
       "label": "Tue arrabbiata → Wednesday cold pasta"
     },
     {
-      "from": "mexican_bowl",
+      "from": "bruschetta",
       "fromDay": "wednesday",
       "toDay": "thursday",
-      "label": "Wed Mexican bowl → Thursday tub (the BEST leftover!!)"
+      "label": "Wed bruschetta → Thursday desk lunch"
     },
     {
-      "from": "veggie_pasta",
+      "from": "mexican_bowl",
       "fromDay": "thursday",
       "toDay": "friday",
-      "label": "Thu veggie pasta → Friday cold pasta"
+      "label": "Thu Mexican bowl → Friday tub (the BEST leftover!!)"
     }
   ],
   "derived": {
@@ -105,12 +105,6 @@
       "of": "arrabbiata",
       "note": "The chilli mellows overnight — genuinely lovely cold."
     },
-    "veggie_pasta_cold": {
-      "label": "Cold veggie pasta + lemon (tub)",
-      "emoji": "🌿",
-      "of": "veggie_pasta",
-      "note": "Even better cold — the lemon keeps it fresh."
-    },
     "mexican_bowl_cold": {
       "label": "Mexican bowl (tub)",
       "emoji": "🌮",
@@ -122,6 +116,12 @@
       "emoji": "🥔",
       "of": "sweet_potato_chilli",
       "note": "A third of the chilli + a baked potato — reheat both at work."
+    },
+    "bruschetta_cold": {
+      "label": "Bruschetta (desk assembly)",
+      "emoji": "🥖",
+      "of": "bruschetta",
+      "note": "Tomato mix in one tub, bread separate — toast at work and pile it on!"
     }
   },
   "tubSchedule": {
@@ -143,11 +143,11 @@
     },
     "wednesday": {
       "tub": true,
-      "text": "Half of everything — rice, beans, salsa, fresh bits — into a tub. The best one."
+      "text": "Tomato mix in ONE tub, bread SEPARATE — toast & assemble at your desk tomorrow!"
     },
     "thursday": {
       "tub": true,
-      "text": "Half the veggie pasta into a tub with an extra squeeze of lemon."
+      "text": "Half of everything — rice, beans, salsa, fresh bits — into a tub. The best one."
     },
     "friday": {
       "tub": false,
@@ -753,7 +753,7 @@
           "item": "fresh basil",
           "emoji": "🌿",
           "qty": "if you have it",
-          "amount": 1,
+          "amount": 0,
           "unit": "pack",
           "section": "fresh",
           "check": true,
@@ -770,62 +770,6 @@
         "🧂 Add a tiny sprinkle of MSG, season with salt to taste.",
         "🍝 Drain the pasta, toss through the sauce.",
         "🌿 Fresh basil on top if you have it."
-      ]
-    },
-    {
-      "id": "veggie_pasta",
-      "name": "Summer Veggie Pasta",
-      "emoji": "🌿",
-      "servings": 2,
-      "fat": "Under 5g — spray oil only 💛",
-      "lunchNote": "Half hot tonight, half cold + extra lemon tomorrow.",
-      "ingredients": [
-        {
-          "item": "dried pasta",
-          "amount": 0.4,
-          "unit": "bag",
-          "section": "dry",
-          "note": "any shape — 500g bag"
-        },
-        {
-          "item": "courgette",
-          "amount": 1,
-          "unit": "courgette",
-          "section": "fresh"
-        },
-        {
-          "item": "cherry tomatoes",
-          "amount": 1,
-          "unit": "punnet",
-          "section": "fresh",
-          "note": "about 10, halved"
-        },
-        {
-          "item": "garlic",
-          "amount": 2,
-          "unit": "clove",
-          "section": "fresh"
-        },
-        {
-          "item": "lemons",
-          "amount": 1,
-          "unit": "lemon",
-          "section": "fruit"
-        },
-        {
-          "item": "fresh basil",
-          "amount": 1,
-          "unit": "pack",
-          "section": "fresh",
-          "check": true,
-          "note": "or rocket — optional"
-        }
-      ],
-      "steps": [
-        "Cook all 200g pasta.",
-        "Spray oil, fry courgette half-moons 5 mins until golden.",
-        "Add cherry tomatoes + garlic, cook 2–3 mins until tomatoes soften.",
-        "Toss pasta through, squeeze lemon over, season. Half hot, half in a tub with extra lemon."
       ]
     },
     {
@@ -982,70 +926,151 @@
       ]
     },
     {
-      "id": "falafel_pittas",
-      "name": "Baked Falafel Pittas",
-      "emoji": "🥙",
+      "id": "bruschetta",
+      "name": "Tomato Bruschetta",
+      "emoji": "🥖",
       "servings": 2,
-      "fat": "Check the packet — baked is much lower than fried, aim under 5g 💛",
-      "lunchNote": "NO TUB — it's the weekend tomorrow!! 🎉",
+      "fat": "Under 5g — just a tiny drizzle of olive oil 💛",
+      "lunchNote": "Tomato mix in ONE tub, bread SEPARATE — toast at work and assemble at your desk so it is not soggy!",
       "ingredients": [
         {
-          "item": "frozen falafel",
+          "item": "cherry tomatoes",
+          "emoji": "🍅",
+          "qty": "1 punnet — diced",
           "amount": 1,
-          "unit": "box",
+          "unit": "punnet",
+          "section": "fresh"
+        },
+        {
+          "item": "garlic",
+          "emoji": "🧄",
+          "qty": "1 clove — finely chopped",
+          "amount": 1,
+          "unit": "clove",
+          "section": "fresh"
+        },
+        {
+          "item": "fresh basil",
+          "emoji": "🌿",
+          "qty": "handful — torn",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh"
+        },
+        {
+          "item": "lemons",
+          "emoji": "🍋",
+          "qty": "squeeze",
+          "amount": 1,
+          "unit": "lemon",
+          "section": "fruit"
+        },
+        {
+          "item": "bread",
+          "emoji": "🍞",
+          "qty": "4 slices / small baguette — toasted",
+          "amount": 0.4,
+          "unit": "loaf",
+          "section": "bakery"
+        },
+        {
+          "item": "olive oil",
+          "emoji": "🫒",
+          "qty": "tiny drizzle",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "salt and pepper",
+          "emoji": "🧂",
+          "qty": "to taste",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        }
+      ],
+      "steps": [
+        "🍅 Dice the cherry tomatoes, finely chop the garlic, tear the basil.",
+        "🥣 Mix with a squeeze of lemon, a tiny drizzle of olive oil, salt & pepper.",
+        "🍞 Toast the bread.",
+        "🥖 Pile the tomato mix on the toast — eat straight away.",
+        "📦 Lunch tub — tomato mix in ONE tub, bread SEPARATE. Toast at work and assemble at your desk!"
+      ]
+    },
+    {
+      "id": "quorn_pittas",
+      "name": "Sweet Chilli Quorn Pittas",
+      "emoji": "🥙",
+      "servings": 2,
+      "fat": "Lower fat than fried falafel — kinder on gallstones 💛",
+      "lunchNote": "NO TUB — it is the weekend tomorrow!! 🎉",
+      "ingredients": [
+        {
+          "item": "Quorn chicken pieces",
+          "emoji": "🍗",
+          "qty": "1 bag (frozen)",
+          "amount": 1,
+          "unit": "bag",
           "section": "frozen"
         },
         {
           "item": "pitta bread",
+          "emoji": "🥙",
+          "qty": "2 pittas",
           "amount": 1,
           "unit": "pack",
-          "section": "bakery",
-          "note": "Tuesday lunch + Friday dinner"
+          "section": "bakery"
+        },
+        {
+          "item": "sweet chilli sauce",
+          "emoji": "🌶️",
+          "qty": "2 tbsp",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
         },
         {
           "item": "lettuce",
+          "emoji": "🥬",
+          "qty": "handful — shredded",
           "amount": 0.5,
           "unit": "bag",
-          "section": "fresh",
-          "note": "shared with fridge pitta"
+          "section": "fresh"
         },
         {
           "item": "cherry tomatoes",
+          "emoji": "🍅",
+          "qty": "4–5 — halved",
           "amount": 0.5,
           "unit": "punnet",
           "section": "fresh"
         },
         {
           "item": "cucumber",
+          "emoji": "🥒",
+          "qty": "¼ — sliced",
           "amount": 0.25,
           "unit": "cucumber",
           "section": "fresh"
         },
         {
           "item": "red onions",
+          "emoji": "🧅",
+          "qty": "a few slices",
           "amount": 1,
           "unit": "onion",
           "section": "fresh"
-        },
-        {
-          "item": "lemons",
-          "amount": 1,
-          "unit": "lemon",
-          "section": "fruit"
-        },
-        {
-          "item": "hot sauce",
-          "amount": 1,
-          "unit": "bottle",
-          "section": "sauces",
-          "check": true
         }
       ],
       "steps": [
-        "Bake falafel per packet (usually 15–20 mins at 200°C).",
-        "Warm pittas in the toaster, split open.",
-        "Stuff with shredded lettuce, tomatoes, cucumber, red onion.",
-        "Add falafel, squeeze lemon, hot sauce on top."
+        "🍗 Cook the Quorn chicken pieces per packet (oven/airfryer ~15–20 mins).",
+        "🌶️ Toss the hot Quorn in sweet chilli sauce.",
+        "🥙 Warm the pittas, split open.",
+        "🥬 Stuff with shredded lettuce, tomatoes, cucumber, red onion.",
+        "🍗 Pile in the sweet chilli Quorn. Done!!"
       ]
     }
   ],
@@ -1243,7 +1268,8 @@
     "cayenne pepper": true,
     "sugar": true,
     "mild chilli powder": true,
-    "garlic powder": true
+    "garlic powder": true,
+    "olive oil": true
   },
   "shopping": {
     "generated": "2026-07-03",

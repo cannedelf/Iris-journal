@@ -45,7 +45,7 @@ const VAGUE_UNITS = new Set(['tsp', 'tbsp', 'pinch']);
 
 function pluralUnit(unit, n) {
   if (!unit || VAGUE_UNITS.has(unit)) return '';
-  const irregular = { box: 'boxes', bunch: 'bunches', punnet: 'punnets', 'sweet potato': 'sweet potatoes' };
+  const irregular = { box: 'boxes', bunch: 'bunches', punnet: 'punnets', loaf: 'loaves', 'sweet potato': 'sweet potatoes' };
   if (n === 1) return unit;
   return irregular[unit] || (unit.endsWith('s') ? unit : unit + 's');
 }
@@ -89,13 +89,13 @@ export function buildShoppingList(data) {
     let line = lines.get(key);
     if (!line) {
       line = { key, name: ing.item, unit: ing.unit || '', amount: 0,
-        section: ing.section || 'fresh', check: !!ing.check, sources: new Set(), notes: new Set() };
+        section: ing.section || 'fresh', check: true, sources: new Set(), notes: new Set() };
       lines.set(key, line);
     }
     line.amount += Number(ing.amount) || 0;
     line.sources.add(sourceLabel);
     if (ing.note) line.notes.add(ing.note);
-    if (ing.check) line.check = true;       // any contributor marking it cupboard wins
+    line.check = line.check && !!ing.check; // cupboard only if EVERY recipe treats it as a staple
   }
 
   // 1) recipes scheduled this week (every recipe in the file is part of the plan)
