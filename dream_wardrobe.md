@@ -236,18 +236,22 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 **Birthday outfit:** Black wrap top + midi skirt + heeled loafers = thirty-one at sea!! 🎂
 **Luggage:** 💚 Juniper Terra (coach = no luggage limits!!)
 
-### 🇮🇪 Dublin — October 2026 (8-12°C, possibly rainy)
-**Already has:** jeans, linen trousers, black denim jacket, tees, sea creature blouse, Tevas or trainers, brown suede boots??, holographic Docs??
-**Would love:** sage lightweight scarf, mustard cardigan (+ tan ankle boots IF brown suede boots aren't comfy enough)
-**Solo dining outfit:** Black eyelet shirt + wide leg stripes + ankle boots + daisy bag = CONFIDENCE ✅
+### 🇮🇪 Dublin — October 2026 (8-12°C, possibly rainy) — SOLO!! 🇮🇪💚
+**Carries forward from cruise:** mustard cardi ✅, scarf ✅, brown belt ✅, black wrap top ✅
+**New for Dublin:** flat brown/tan boots — THE purchase!! Carries forward to Bruges, Prague, Bilbao, Cologne!!
+**Daytime outfit:** Jeans + nice tee + mustard cardi + flat brown boots + scarf = autumn Dublin QUEEN
+**Solo dining outfit:** Black eyelet shirt + wide leg stripes + flat brown boots + daisy bag = CONFIDENCE ✅
 **Dublin EVENING outfit:** Black eyelet shirt + straight leg jeans + HOLOGRAPHIC SILVER DOCS + daisy bag = ROCKSTAR SOLO DINER 👢✨🪩 Nobody looks at a girl in holographic Docs and thinks "she's alone" — they think "she's INCREDIBLE"
 **Luggage:** 🌿 Sedum Ray + 🌼 Daisy Baggu + 🩷 Pink crossbody
 
-### 🇧🇪 Bruges — November 2026 (3-7°C, COLD)
-**Already has:** jeans, black cardigan, tees
-**Would love:** cream cable knit jumper, tan ankle boots, chunky scarf
-**DREAM Bruges outfit:** Pink cord coat (if it fits!!) + 70s turtleneck + gingham trousers + ankle boots + daisy bag = 70s CHRISTMAS QUEEN 🩷🎄
-**Backup Bruges:** Cream jumper + jeans + black denim jacket + boots + daisy bag
+### 🇧🇪 Bruges — Last week November 2026 (3-7°C, COLD) — with Widdle!!
+**Carries forward from cruise + Dublin:** mustard cardi ✅, scarf ✅, brown belt ✅, black wrap top ✅, flat brown boots ✅
+**New for Bruges:** cream chunky cable knit jumper (Oct/Nov, TK Maxx??), gloves (Primark, cheap!!)
+**TRY ON the pink cord coat after Dublin!! If it fits = DREAM Bruges coat!!**
+**DREAM Bruges outfit:** Pink cord coat + cream cable knit + jeans + flat brown boots + scarf + mustard cardi underneath = 70s CHRISTMAS QUEEN 🩷🎄
+**Backup if coat doesn't fit yet:** Cream jumper + jeans + black denim jacket + flat brown boots + scarf + all the layers
+**Evenings:** Black wrap top + midi skirt + heeled loafers — same formula as cruise!!
+**Luggage:** 🌿 Sedum Ray (3 nights, no extra shoes needed — boots on feet, loafers in bag!!)**
 
 ### 🇨🇿 Prague — February 2027 (0-4°C, FREEZING)
 **Needs:** WARM everything — thermals, chunky knit, boots, scarf, gloves, hat
@@ -309,12 +313,16 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 2. 🖤 **Black wrap top** — Primark, August, cruise formal night + birthday dinner + everything 🚢
 3. 💰 **List black Docs on Vinted** — £30-50 for shoes she can't WEAR (July)
 3. 👢 **Test brown suede boots** — if they're comfy = no new boots needed!! (July)
-4. 👢✨ **Test holographic Docs** — if comfy = Dublin evening shoes SORTED (July)
+4. 🤎👢 **Flat brown/tan boots** — THE autumn essential, Dublin purchase, carries to Bruges+Prague+Bilbao+Cologne (Sept/Oct)
+5. 👢✨ **Test holographic Docs** — if comfy = Dublin evening shoes SORTED (July)
 5. 🧶 **Cream cable knit jumper** — Bruges and Prague ESSENTIAL (Oct)
 6. 🌻 **Mustard cardigan** — September BEFORE CRUISE!! Double duty: cruise ports + Dublin + Bruges (Sept)
 7. 🧣 **Scarf (cream/oatmeal or olive/sage)** — cruise fjords + Dublin + Bruges + Prague (Sept)
 8. 🤎 **Tan ankle boots** — ONLY if brown suede boots don't work (Sept)
-9. 🖤 **Black swimsuit** — Malta prep well in advance (Spring 2027)
+9. 🧶 **Cream chunky cable knit jumper** — Bruges+Prague+Cologne essential, TK Maxx?? (Oct/Nov)
+10. 🧤 **Gloves** — Primark, cheap, Christmas markets NEED them (Nov)
+11. 🩷 **Try on pink cord coat** — after Dublin, if it fits = Bruges DREAM coat (Oct/Nov)
+12. 🖤 **Black swimsuit** — Malta prep well in advance (Spring 2027)
 10. 👗 **Mustard wrap dress** — Bologna REVENGE and birthday (Spring 2027)
 11. 🌼 **Floral midi dress** — Malta and summer 2027 (Spring 2027)
 12. 🌈 **Trip bracelets** — buy one per CITY, stack them, wear the MEMORIES
@@ -335,7 +343,7 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 
 🚢 **Late Sept 2026 (Cruise):** Black wrap top + mustard cardigan + scarf + brown belt = CRUISE READY
 🍂 **Autumn 2026 (Dublin):** Mustard cardigan + scarf + brown belt = Dublin READY (cruise pieces do DOUBLE DUTY!!)
-❄️ **Winter 2026 (Bruges/Prague):** Cream jumper + warm scarf = Christmas market READY
+❄️ **Winter 2026 (Bruges):** Cream cable knit + scarf + gloves + pink cord coat (if fits!!) + flat brown boots = Christmas market READY (almost everything carried from cruise + Dublin!!)
 🌸 **Spring 2027 (Seville/Bologna):** Floral dress OR wrap dress + tan sandals = WARM weather READY
 ☀️ **Summer 2027 (Malta):** Black swimsuit + sarong = beach READY
 
