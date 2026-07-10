@@ -1272,61 +1272,10 @@
     "olive oil": true
   },
   "shopping": {
-    "generated": "2026-07-03",
+    "generated": null,
     "have": {},
-    "got": {
-      "tinned_kidney_beans": true,
-      "dried_pasta": true,
-      "rice": true,
-      "egg_noodles": true,
-      "edamame": true,
-      "chilli_flakes": true,
-      "cumin": true,
-      "paprika": true,
-      "porridge_oats": true,
-      "hot_sauce": true,
-      "spray_oil": true,
-      "soy_sauce": true,
-      "honey": true,
-      "sesame_seeds": true,
-      "sweet_chilli_sauce": true,
-      "tinned_black_beans": true,
-      "tinned_tomatoes": true,
-      "cherry_tomatoes": true,
-      "garlic": true,
-      "peppers": true,
-      "spring_onions": true,
-      "sweet_potatoes": true,
-      "apples": true,
-      "bananas": true,
-      "eggs": true,
-      "low_fat_yogurts": true,
-      "ice_lollies": true,
-      "bread": true,
-      "pitta_bread": true,
-      "salsa": true
-    },
-    "checked": {
-      "spring_onions": true,
-      "peppers": true,
-      "apples": true,
-      "bananas": true,
-      "salsa": true,
-      "low_fat_yogurts": true,
-      "tinned_black_beans": true,
-      "tinned_tomatoes": true,
-      "garlic": true,
-      "cherry_tomatoes": true,
-      "ice_lollies": true,
-      "eggs": true,
-      "carrots": true,
-      "courgette": true,
-      "cucumber": true,
-      "lettuce": true,
-      "lemons": true,
-      "limes": true,
-      "red_onions": true
-    }
+    "got": {},
+    "checked": {}
   },
   "custom": {
     "items": [
@@ -1334,11 +1283,6 @@
         "id": "cordial",
         "name": "Cordial",
         "permanent": true
-      },
-      {
-        "id": "toilet_roll",
-        "name": "Toilet roll",
-        "permanent": false
       }
     ]
   }
