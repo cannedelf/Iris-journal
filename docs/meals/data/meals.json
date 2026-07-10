@@ -1293,6 +1293,11 @@
         "id": "c_bin_bags_1juc",
         "name": "Bin bags",
         "permanent": false
+      },
+      {
+        "id": "c_milk_xo6t",
+        "name": "Milk",
+        "permanent": false
       }
     ]
   }
