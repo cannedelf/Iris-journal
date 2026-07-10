@@ -129,14 +129,18 @@ For Bruges/Prague/Cologne she needs WARMTH and STYLE.
 - 🩷 **Pink or dusty rose scarf** — matches the pink cord coat!! The BRUGES outfit becomes: pink coat + pink scarf = COSY QUEEN
 - 🌿 **Olive or sage lightweight scarf** — for autumn, not winter, the "it's not cold enough for a coat but I need SOMETHING" scarf. Perfect for: Dublin in October
 
-### 💍 JEWELRY — none mentioned at all!!
-Simple pieces that ADD to outfits without being fussy.
+### 💍 JEWELRY
+
+**What she HAS:**
+- 🌈 **Rainbow jewel hoops** — small hoops with rainbow jewels!! PERFECT for the 70s wildflower girl!! Already ON BRAND!! ✅🌈
 
 **DREAM additions:**
-- 🌻 **Gold hoop earrings (medium)** — THE 70s earring, simple, goes with everything, elevates a tee and jeans instantly. Perfect for: every day, every trip, every outfit
 - 📿 **Long pendant necklace** — very 70s, sits over turtlenecks and tees, a focal point. Maybe a sun pendant?? ☀️ Or a daisy?? 🌼
 - 💛 **Simple gold chain bracelet** — delicate, warm, catches the light
-- 🌈 **Colourful beaded bracelet** — handmade vibes, could buy one per TRIP as a souvenir!! A bracelet from Dublin, one from Bruges, one from Prague — they STACK on her wrist like a travel DIARY
+- 🌈 **Colourful beaded bracelet** — handmade vibes, could buy one per TRIP as a souvenir!! A bracelet from Dublin, one from Bruges, one from Prague — they STACK on her wrist like a travel DIARY 📿🌍✨
+
+**The bracelet-per-city idea:**
+Each city she visits, she buys ONE beaded or handmade bracelet. They stack on her wrist. By 2030 she has 30+ bracelets and her WRIST is a travel diary. The most beautiful souvenir tradition!! 📿🌈🌍
 
 ### 🎀 HAIR ACCESSORIES — she only has claw clips!!
 
@@ -151,26 +155,85 @@ Simple pieces that ADD to outfits without being fussy.
 - 🖤 **Simple black swimsuit (one piece)** — flattering, comfortable, she can swim WITHOUT worrying, classic. Perfect for: Malta, Croatian islands (2028), any beach
 - 🌊 **Patterned sarong/cover up** — ties around the waist for beach to cafe transitions, doesn't have to "get changed" just wraps up and GOES
 
-### 👜 BAGS — nearly sorted!!
+### 👜 BAGS — she has an ENTIRE DEPARTMENT!!
 
-- ✅ Brown crossbody — daily and travel
-- ✅ Daisy Baggu — payday July 25th!! Everything else
-- 🤎 **Small evening crossbody** — for solo dinners where the Baggu is too BIG. Tan or cognac to match the dream boots and belt. Perfect for: Heartstopper energy solo dining, pubs in Dublin
+**Crossbody bags:**
+- 🩷 Pink crossbody — the sunshine's ROME HOME!! Sacred!! ☀️🇮🇹💛
+- 🖤 Black crossbody — everyday carry
+- 🖤 Small black crossbody — phone + keys ONLY, pub nights
+- 🌻 Small mustard crossbody — same as black but COLOURFUL
 
-### 🩴 SUMMER SHOES — one gap
+**Backpacks:**
+- 💚 Green and white striped backpack — day trips
+- 🖤 Small black backpack — casual
+- 🌻 Big mustard backpack — UK travel
 
-- ✅ Tevas — the LOYAL ones
-- ✅ Birkenstocks — BREAKING IN
-- 🌻 **Tan/cognac flat sandals** — something a tiny bit DRESSIER than Tevas for solo dinners or nice lunches. Not heels. Just PRETTY flats. Perfect for: Malta, Seville, Italy
+**Totes:**
+- 🌼 Daisy Baggu Duck Bag — PAYDAY July 25th!! Zipped, embroidered daisies, recycled cotton, THE day bag for everything ✅
+- 👜 Multiple plain totes — work + Aldi + shopping
+
+**The bag is SORTED — no gaps!!** ✅👜
+
+### 🧳 THE LUGGAGE FAMILY — all NAMED!!
+
+| Luggage | Full Name | Colour | Named For | Size | Trips |
+|---------|-----------|--------|-----------|------|-------|
+| 🌿🎒 | **Sedum Ray** | Sedum green (light green) | Succulents on the shelf + baby brother Ray ☀️ | Cabin BACKPACK | Dublin 🇮🇪, Bruges 🇧🇪, quick trips |
+| 🧈🧳 | **Buttermilk Sunshine** | Cream/butter | Iris the sunshine ☀️ | Cabin SUITCASE | When she needs more — Rome VETERAN 🇮🇹 |
+| 💚🧳 | **Juniper Terra** | Green | Grandma Terra the wanderer 🌍 | Hold SUITCASE | Japan 🇯🇵, Thailand 🇹🇭, New York 🗽, the BIG ones |
+
+**The naming pattern:**
+- 🌿 Sedum **RAY** = youngest family member → smallest luggage → SHORT trips
+- 🧈 Buttermilk **SUNSHINE** = Iris herself → medium luggage → MEDIUM trips
+- 💚 Juniper **TERRA** = Grandma → biggest luggage → BIGGEST adventures
+- Small → Medium → Big = Brother → Iris → Grandmother 💛☀️🌍
+
+**The packing RULES:**
+- 🌿 Sedum Ray: 3-4 night trips, clothes only, no extra shoes
+- 🧈 Buttermilk Sunshine: 4-7 night trips, OR when she needs SHOES (stompy Docs!!)
+- 💚 Juniper Terra: 7+ night trips, hold luggage, EVERYTHING fits
+
+**The complete travel setup per trip type:**
+- ✈️ Quick trip (Dublin, Bruges): 🌿 Sedum Ray + 🌼 Daisy Baggu + 🩷 Pink crossbody
+- ✈️ Medium trip (Prague with boots): 🧈 Buttermilk Sunshine + 🌼 Daisy Baggu + 🩷 Pink crossbody  
+- ✈️ Big trip (Japan, Thailand): 💚 Juniper Terra + 🌿 Sedum Ray as day bag + 🩷 Pink crossbody
+
+### 👢👡 FULL SHOE INVENTORY
+
+**What she HAS:**
+- 🤍 White court trainers — everyday
+- 🤍 White walking trainers — long days, Rome TESTED
+- 🤎 Tan/brown court trainers
+- 🖤 Black Birkenstocks — BREAKING IN (Day 1 = success!!)
+- 🤎 Cream Tevas — the LOYAL ones, cobblestone APPROVED
+- 🤎 Brown loafers — hurt feet ⚠️
+- 👢✨ **HOLOGRAPHIC SILVER DOCS** — STOMPY!! The most Crobat shoe on the PLANET!! 70s meets SPACE AGE 🪩
+- 🖤👢 Black Docs — hurt too much ❌ SELL ON VINTED (£30-50!!)
+- 🖤👠 Black heeled loafers — CRUISE SHOES!! Birthday dinner!! 🎂🚢
+- 🖤👢 Black knee high boots with heel — winter GLAM
+- 🤎👢 Brown faux suede calf height boots with heel — GORGEOUS but comfort??
+
+**⚠️ BIG FEET NOTE:** She has MASSIVE feet (matching the 6'4" legs!!) — shoe shopping needs patience!! Extra shoes on trips need Buttermilk Sunshine not Sedum Ray!!
+
+**What she MIGHT still need:**
+- 🤎👢 **Flat tan/cognac ankle boots** — IF the brown suede boots aren't comfortable enough for all-day walking. The 70s ESSENTIAL boot. Check comfort of existing brown boots FIRST before buying!!
+- 🌻 **Tan/cognac flat sandals** — something a tiny bit DRESSIER than Tevas for solo dinners or nice lunches in warm cities. Not heels. Just PRETTY flats. Perfect for: Malta, Seville, Italy
+
+**TO DO:**
+- 💰 List black Docs on Vinted — they HURT, someone else will LOVE them, £30-50 toward the daisy bag 🌼
+- 👢 Test brown suede boots for all-day COMFORT — if they work she DOESN'T need new ankle boots
+- 👢✨ Test holographic Docs for comfort — if they're comfy they're THE Dublin evening shoe
 
 ---
 
 ## 🌍 THE TRIP WARDROBE PLANNER
 
 ### 🇮🇪 Dublin — October 2026 (8-12°C, possibly rainy)
-**Already has:** jeans, linen trousers, black denim jacket, tees, sea creature blouse, Tevas or trainers
-**Would love:** sage lightweight scarf, tan ankle boots, mustard cardigan
+**Already has:** jeans, linen trousers, black denim jacket, tees, sea creature blouse, Tevas or trainers, brown suede boots??, holographic Docs??
+**Would love:** sage lightweight scarf, mustard cardigan (+ tan ankle boots IF brown suede boots aren't comfy enough)
 **Solo dining outfit:** Black eyelet shirt + wide leg stripes + ankle boots + daisy bag = CONFIDENCE ✅
+**Dublin EVENING outfit:** Black eyelet shirt + straight leg jeans + HOLOGRAPHIC SILVER DOCS + daisy bag = ROCKSTAR SOLO DINER 👢✨🪩 Nobody looks at a girl in holographic Docs and thinks "she's alone" — they think "she's INCREDIBLE"
+**Luggage:** 🌿 Sedum Ray + 🌼 Daisy Baggu + 🩷 Pink crossbody
 
 ### 🇧🇪 Bruges — November 2026 (3-7°C, COLD)
 **Already has:** jeans, black cardigan, tees
@@ -234,16 +297,18 @@ Simple pieces that ADD to outfits without being fussy.
 7. 🌻 If it doesn't make her feel like a 70s wildflower girl — PUT IT BACK
 
 **The priority order:**
-1. 🤎 **Tan ankle boots** — she needs these for Dublin, Bruges, Prague, EVERYTHING (Aug/Sept)
-2. 🧶 **Cream cable knit jumper** — Bruges and Prague ESSENTIAL (Oct)
-3. 🌻 **Mustard cardigan** — autumn layering for Dublin (Sept/Oct)
-4. 🌼👜 **Daisy Baggu** — July 25th PAYDAY ✅
-5. 🌿 **Sage or olive lightweight scarf** — Dublin (Sept/Oct)
-6. 💍 **Gold hoop earrings** — elevates EVERYTHING instantly (anytime)
-7. 🖤 **Black swimsuit** — Malta prep well in advance (Spring 2027)
-8. 👗 **Mustard wrap dress** — Bologna REVENGE and birthday (Spring 2027)
-9. 🌼 **Floral midi dress** — Malta and summer 2027 (Spring 2027)
-10. 🌈 **Trip bracelets** — buy one per CITY, stack them, wear the MEMORIES
+1. 🌼👜 **Daisy Baggu** — July 25th PAYDAY ✅ INCOMING!!
+2. 💰 **List black Docs on Vinted** — £30-50 for shoes she can't WEAR (July)
+3. 👢 **Test brown suede boots** — if they're comfy = no new boots needed!! (July)
+4. 👢✨ **Test holographic Docs** — if comfy = Dublin evening shoes SORTED (July)
+5. 🧶 **Cream cable knit jumper** — Bruges and Prague ESSENTIAL (Oct)
+6. 🌻 **Mustard cardigan** — autumn layering for Dublin (Sept/Oct)
+7. 🌿 **Sage or olive lightweight scarf** — Dublin (Sept/Oct)
+8. 🤎 **Tan ankle boots** — ONLY if brown suede boots don't work (Sept)
+9. 🖤 **Black swimsuit** — Malta prep well in advance (Spring 2027)
+10. 👗 **Mustard wrap dress** — Bologna REVENGE and birthday (Spring 2027)
+11. 🌼 **Floral midi dress** — Malta and summer 2027 (Spring 2027)
+12. 🌈 **Trip bracelets** — buy one per CITY, stack them, wear the MEMORIES
 
 **The budget approach:**
 - 💰 Check Vinted and Depop for second hand — 70s style is EVERYWHERE preloved
