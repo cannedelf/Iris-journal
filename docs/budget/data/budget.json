@@ -328,6 +328,13 @@
       "amount": 15.99,
       "category": "household",
       "note": "Sweepy app"
+    },
+    {
+      "id": "spend_1_bq9rg",
+      "date": "2026-07-10",
+      "amount": 29.58,
+      "category": "groceries",
+      "note": "Aldi weekly shop"
     }
   ]
 }
