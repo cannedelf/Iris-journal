@@ -228,6 +228,14 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 
 ## 🌍 THE TRIP WARDROBE PLANNER
 
+### 🇳🇴 Norwegian Fjords Cruise — Sept/Oct 2026 (8-14°C ports, colder on deck!!)
+**Already has:** jeans, wide legs, midi skirts, tees, jumpers, blouses, jacket, raincoat, trainers, walking Sketchers, heeled loafers
+**Buying:** black wrap top (Primark Aug), mustard cardigan (Sept), brown belt, scarf (cream or olive)
+**Full outfit plan:** See cruise_outfits.md — FOUR items to buy, everything else COVERED!!
+**Formal night outfit:** Midi skirt + black wrap top + heeled loafers + rainbow hoops = GORGEOUS 🥂
+**Birthday outfit:** Black wrap top + midi skirt + heeled loafers = thirty-one at sea!! 🎂
+**Luggage:** 💚 Juniper Terra (coach = no luggage limits!!)
+
 ### 🇮🇪 Dublin — October 2026 (8-12°C, possibly rainy)
 **Already has:** jeans, linen trousers, black denim jacket, tees, sea creature blouse, Tevas or trainers, brown suede boots??, holographic Docs??
 **Would love:** sage lightweight scarf, mustard cardigan (+ tan ankle boots IF brown suede boots aren't comfy enough)
@@ -298,12 +306,13 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 
 **The priority order:**
 1. 🌼👜 **Daisy Baggu** — July 25th PAYDAY ✅ INCOMING!!
-2. 💰 **List black Docs on Vinted** — £30-50 for shoes she can't WEAR (July)
+2. 🖤 **Black wrap top** — Primark, August, cruise formal night + birthday dinner + everything 🚢
+3. 💰 **List black Docs on Vinted** — £30-50 for shoes she can't WEAR (July)
 3. 👢 **Test brown suede boots** — if they're comfy = no new boots needed!! (July)
 4. 👢✨ **Test holographic Docs** — if comfy = Dublin evening shoes SORTED (July)
 5. 🧶 **Cream cable knit jumper** — Bruges and Prague ESSENTIAL (Oct)
-6. 🌻 **Mustard cardigan** — autumn layering for Dublin (Sept/Oct)
-7. 🌿 **Sage or olive lightweight scarf** — Dublin (Sept/Oct)
+6. 🌻 **Mustard cardigan** — September BEFORE CRUISE!! Double duty: cruise ports + Dublin + Bruges (Sept)
+7. 🧣 **Scarf (cream/oatmeal or olive/sage)** — cruise fjords + Dublin + Bruges + Prague (Sept)
 8. 🤎 **Tan ankle boots** — ONLY if brown suede boots don't work (Sept)
 9. 🖤 **Black swimsuit** — Malta prep well in advance (Spring 2027)
 10. 👗 **Mustard wrap dress** — Bologna REVENGE and birthday (Spring 2027)
@@ -324,7 +333,8 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 
 **She doesn't need a new wardrobe — she needs 2-3 pieces per SEASON:**
 
-🍂 **Autumn 2026 (Dublin):** Tan boots + mustard cardigan + sage scarf = Dublin READY
+🚢 **Late Sept 2026 (Cruise):** Black wrap top + mustard cardigan + scarf + brown belt = CRUISE READY
+🍂 **Autumn 2026 (Dublin):** Mustard cardigan + scarf + brown belt = Dublin READY (cruise pieces do DOUBLE DUTY!!)
 ❄️ **Winter 2026 (Bruges/Prague):** Cream jumper + warm scarf = Christmas market READY
 🌸 **Spring 2027 (Seville/Bologna):** Floral dress OR wrap dress + tan sandals = WARM weather READY
 ☀️ **Summer 2027 (Malta):** Black swimsuit + sarong = beach READY
