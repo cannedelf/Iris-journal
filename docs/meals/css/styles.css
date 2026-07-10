@@ -200,6 +200,20 @@ code { background: var(--cream-2); padding: 1px 6px; border-radius: 6px; font-si
 .done-card span { font-size: 30px; }
 .done-card b { font-size: 15px; color: #4d7340; }
 
+/* ---------- custom / household items ---------- */
+.custom-add { display: flex; gap: 8px; margin-bottom: 10px; }
+.custom-add input { flex: 1; min-width: 0; font-family: inherit; font-size: 16px; font-weight: 700; color: var(--ink); background: var(--card); border: 1.5px solid var(--line); border-radius: 14px; padding: 12px 14px; }
+.custom-add input:focus { outline: 2px solid var(--gold); border-color: var(--gold); }
+.custom-add .primary { width: auto; padding: 0 20px; }
+.custom-list { display: flex; flex-direction: column; }
+.custom-row { display: flex; align-items: center; gap: 8px; padding: 9px 2px; border-bottom: 1px dashed var(--line); }
+.custom-row:last-child { border-bottom: none; }
+.custom-name { flex: 1; font-weight: 700; }
+.pin { border: none; background: none; font-size: 17px; line-height: 1; padding: 5px; border-radius: 9px; opacity: .3; filter: grayscale(1); }
+.pin.on { opacity: 1; filter: none; background: #fff6e0; }
+.custom-del { border: none; background: none; color: var(--ink-soft); font-size: 15px; padding: 5px 8px; border-radius: 9px; }
+.custom-del:active { background: var(--red-soft); color: var(--red); }
+
 .version { text-align: center; color: var(--ink-soft); font-size: 12px; font-weight: 700; margin: 6px 0 0; }
 
 /* ---------- field inputs ---------- */

@@ -84,6 +84,8 @@ export const store = {
     d.shopping.have = d.shopping.have || {};
     d.shopping.got = d.shopping.got || {};
     d.shopping.checked = d.shopping.checked || {};
+    d.custom = d.custom || {};
+    d.custom.items = d.custom.items || [];
     return d;
   },
 
@@ -185,6 +187,33 @@ export const store = {
     this.data.shopping.got = {};
     this.data.shopping.checked = {};
     this.data.shopping.generated = null;
+    // Drop this week's one-off extras; keep the pinned (permanent) ones for next time.
+    this.data.custom.items = this.data.custom.items.filter(i => i.permanent);
     return this.commit('Shopping done — list reset 🎉');
+  },
+
+  // --- custom / household items --------------------------------------------
+  customKey(id) { return `x_${id}`; },
+
+  addCustomItem(name) {
+    name = (name || '').trim();
+    if (!name) return Promise.resolve({ saved: false });
+    const id = 'c_' + name.toLowerCase().replace(/[^a-z0-9]+/g, '_').slice(0, 20) + '_' +
+      Math.random().toString(36).slice(2, 6);
+    this.data.custom.items.push({ id, name, permanent: false });
+    return this.commit(`Add to list — ${name}`);
+  },
+
+  removeCustomItem(id) {
+    const item = this.data.custom.items.find(i => i.id === id);
+    this.data.custom.items = this.data.custom.items.filter(i => i.id !== id);
+    delete this.data.shopping.checked[this.customKey(id)];
+    return this.commit(`Remove from list — ${item ? item.name : id}`);
+  },
+
+  toggleCustomPermanent(id) {
+    const item = this.data.custom.items.find(i => i.id === id);
+    if (item) item.permanent = !item.permanent;
+    return this.commit(`${item && item.permanent ? 'Pin' : 'Unpin'} — ${item ? item.name : id}`);
   }
 };

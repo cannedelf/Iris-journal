@@ -1327,5 +1327,19 @@
       "limes": true,
       "red_onions": true
     }
+  },
+  "custom": {
+    "items": [
+      {
+        "id": "cordial",
+        "name": "Cordial",
+        "permanent": true
+      },
+      {
+        "id": "toilet_roll",
+        "name": "Toilet roll",
+        "permanent": true
+      }
+    ]
   }
 }

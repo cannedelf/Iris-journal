@@ -240,6 +240,8 @@ function viewShopIntro() {
       <div class="snack-grid">${chips}</div>
     </div>
 
+    ${customCard()}
+
     <button id="btnGenerate" class="bigbtn">✨ Generate shopping list</button>
   </section>`;
 }
@@ -274,6 +276,37 @@ function itemRow(item, mode) {
   </div>`;
 }
 
+// Manage-your-extras card (add / pin / remove). Shown on the intro and cupboard views.
+function customCard() {
+  const items = store.data.custom.items || [];
+  const rows = items.map(i => `
+    <div class="custom-row">
+      <span class="custom-name">${esc(i.name)}</span>
+      <button class="pin ${i.permanent ? 'on' : ''}" data-custom-pin="${esc(i.id)}"
+        title="${i.permanent ? 'Always on the list — tap to unpin' : 'Pin so it always appears'}">📌</button>
+      <button class="custom-del" data-custom-del="${esc(i.id)}" title="Remove">✕</button>
+    </div>`).join('');
+
+  return `
+  <div class="card custom-card">
+    <h3>🧺 Household &amp; Extras</h3>
+    <p class="hint">Non-recipe bits — cordial, toilet roll, cleaning stuff. 📌 keeps an item on <b>every</b> list; the rest clear when you finish the shop.</p>
+    <div class="custom-add">
+      <input id="customInput" type="text" placeholder="Add an item…" maxlength="40" autocomplete="off">
+      <button id="btnAddCustom" class="primary">Add</button>
+    </div>
+    <div class="custom-list">${rows || '<p class="empty">Nothing added yet.</p>'}</div>
+  </div>`;
+}
+
+// Pseudo buy-rows for the custom items, so they tick off like everything else in the shop.
+function customBuyItems() {
+  return (store.data.custom.items || []).map(i => ({
+    key: store.customKey(i.id), name: i.name, qtyText: '', sources: [], notes: [],
+    checked: !!store.data.shopping.checked[store.customKey(i.id)], got: false
+  }));
+}
+
 function viewShopCheck(list, gen) {
   const sections = list.sections.map(s => `
     <div class="card sec-card">
@@ -301,6 +334,7 @@ function viewShopCheck(list, gen) {
     <p class="hint">Tap <b>+</b> if you already have some — "buy 3" becomes "buy 1". Tap <b>got it</b> to remove it.</p>
     ${sections || '<div class="card"><p class="empty">Nothing to buy — pick some meals!</p></div>'}
     ${cupboard}
+    ${customCard()}
     <div class="shop-actions">
       <button id="btnToBuy" class="bigbtn">🛍️ Go shopping →</button>
       <button id="btnReset" class="ghost">↺ Reset list</button>
@@ -318,6 +352,12 @@ function viewShopBuy(list, gen) {
   const cupboardToBuy = list.cupboard.filter(i => !i.got);
   if (cupboardToBuy.length) {
     sections.push({ emoji: '🌶️', label: 'Spice Rack & Store Cupboard', items: cupboardToBuy });
+  }
+
+  // Household & extras (cordial et al.) get their own aisle at the end.
+  const custom = customBuyItems();
+  if (custom.length) {
+    sections.push({ emoji: '🧺', label: 'Household & Extras', items: custom });
   }
 
   const allDone = sections.every(s => s.items.every(i => i.checked)) && sections.length;
@@ -405,11 +445,18 @@ function wire() {
   document.querySelectorAll('.navbtn').forEach(b =>
     b.addEventListener('click', () => go(b.dataset.view)));
   $('#app').addEventListener('click', onAppClick);
+  // Enter in the custom-item box adds it.
+  $('#app').addEventListener('keydown', e => {
+    if (e.target.id === 'customInput' && e.key === 'Enter') { e.preventDefault(); onAddCustom(); }
+  });
 }
 
 async function onAppClick(e) {
-  const t = e.target.closest('[data-go],[data-recipe],[data-back-recipes],[data-snack],[data-have-plus],[data-have-minus],[data-got],[data-check],#btnGenerate,#btnToBuy,#btnBackCheck,#btnReset,#btnDone,#setSave,#setResync,#dlBackup');
+  const t = e.target.closest('[data-go],[data-recipe],[data-back-recipes],[data-snack],[data-have-plus],[data-have-minus],[data-got],[data-check],[data-custom-pin],[data-custom-del],#btnGenerate,#btnToBuy,#btnBackCheck,#btnReset,#btnDone,#btnAddCustom,#setSave,#setResync,#dlBackup');
   if (!t) return;
+
+  if (t.dataset.customPin) return onCustomPin(t.dataset.customPin);
+  if (t.dataset.customDel) return onCustomDel(t.dataset.customDel);
 
   if (t.dataset.go) return go(t.dataset.go);
   if (t.dataset.recipe) return openRecipe(t.dataset.recipe);
@@ -426,6 +473,7 @@ async function onAppClick(e) {
   if (t.id === 'btnBackCheck') { state.shopMode = 'check'; render(); window.scrollTo(0, 0); return; }
   if (t.id === 'btnReset') return onReset();
   if (t.id === 'btnDone') return onDone();
+  if (t.id === 'btnAddCustom') return onAddCustom();
   if (t.id === 'setSave') return onTokenSave();
   if (t.id === 'setResync') return onResync();
   if (t.id === 'dlBackup') return onBackup();
@@ -433,6 +481,26 @@ async function onAppClick(e) {
 
 async function onSnack(id) {
   await save(store.toggleSnack(id), null);
+  render();
+}
+
+async function onAddCustom() {
+  const inp = $('#customInput');
+  const name = (inp && inp.value || '').trim();
+  if (!name) return;
+  await save(store.addCustomItem(name), null);
+  render();
+  const box = $('#customInput');
+  if (box) box.focus();     // keep typing more items
+}
+
+async function onCustomPin(id) {
+  await save(store.toggleCustomPermanent(id), null);
+  render();
+}
+
+async function onCustomDel(id) {
+  await save(store.removeCustomItem(id), null);
   render();
 }
 
