@@ -1274,7 +1274,8 @@
   "shopping": {
     "generated": "2026-07-10",
     "have": {
-      "red_onions": 2
+      "red_onions": 2,
+      "cherry_tomatoes": 1
     },
     "got": {
       "mexican_rice_pouch": true,
