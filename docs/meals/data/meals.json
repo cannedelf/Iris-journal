@@ -1298,7 +1298,9 @@
       "mild_chilli_powder": true,
       "paprika": true,
       "marmite": true,
-      "honey": true
+      "honey": true,
+      "ground_coriander": true,
+      "garlic_powder": true
     },
     "checked": {}
   },
