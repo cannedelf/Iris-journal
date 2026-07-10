@@ -253,13 +253,10 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 **Evenings:** Black wrap top + midi skirt + heeled loafers — same formula as cruise!!
 **Luggage:** 🌿 Sedum Ray (3 nights, no extra shoes needed — boots on feet, loafers in bag!!)**
 
-### 🇨🇿 Prague — Late February 2027 (0-4°C, FREEZING!!) — SOLO!! 🇨🇿❄️
-**Carries forward from cruise + Dublin + Bruges:** mustard cardi ✅, scarf ✅, brown belt ✅, black wrap top ✅, flat brown boots ✅, cream cable knit ✅, gloves ✅, pink cord coat (if fits!!) ✅
-**New for Prague:** tights (Primark), hat to MATCH the scarf colour (Primark), check black long coat still fits!!
-**DAYTIME outfit:** Pink cord coat + cream cable knit + jeans + flat brown boots + matching scarf and hat + gloves = 70s winter QUEEN
-**EVENING outfit:** Black long coat + black wrap top + midi skirt + black tights + heeled loafers + matching scarf and hat = chic Prague NIGHTS 🖤
-**The two coat system:** 🩷 Pink for day (cosy, fun, 70s) · 🖤 Black for evening (formal, chic, elegant)
-**Luggage:** 🧈 Buttermilk Sunshine (needs extra shoes — boots on feet, loafers in case)
+### 🇨🇿 Prague — February 2027 (0-4°C, FREEZING)
+**Needs:** WARM everything — thermals, chunky knit, boots, scarf, gloves, hat
+**DREAM Prague outfit:** Pink cord coat + cream cable knit + straight leg jeans + black chelsea boots + mustard scarf + daisy bag
+**Prague is about WARMTH not fashion — but she can still look 70s COSY!!**
 
 ### 🇪🇸 Seville + Malaga — April 2027 (18-24°C, WARM!!)
 **Finally takes the COAT OFF!!**
@@ -324,13 +321,11 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 8. 🤎 **Tan ankle boots** — ONLY if brown suede boots don't work (Sept)
 9. 🧶 **Cream chunky cable knit jumper** — Bruges+Prague+Cologne essential, TK Maxx?? (Oct/Nov)
 10. 🧤 **Gloves** — Primark, cheap, Christmas markets NEED them (Nov)
-11. 🩷 **Try on pink cord coat** — after Dublin, if it fits = Bruges+Prague DREAM coat (Oct/Nov)
-12. 🖤 **Check black long coat** — still have it?? Still fits?? Prague evening coat (Jan/Feb)
-13. 🧶 **Hat to MATCH the scarf** — same colour!! Matching set!! Primark (Jan/Feb)
-14. 🩷 **Black tights** — Primark, midi skirt in 0°C needs them!! (Jan/Feb)
-12. 🖤 **Black swimsuit** — Malta prep well in advance (Spring 2027)
-10. 👗 **Mustard wrap dress** — Bologna REVENGE and birthday (Spring 2027)
-11. 🌼 **Floral midi dress** — Malta and summer 2027 (Spring 2027)
+11. 🩷 **Try on pink cord coat** — after Dublin, if it fits = Bruges DREAM coat (Oct/Nov)
+15. 👗 **A lovely dress** — floral midi or wrap, the warm weather CENTREPIECE (Spring 2027)
+16. 👡 **Dressy flat sandals** — tan/brown, prettier than Tevas, every warm trip (Spring 2027)
+17. 👙 **Swimsuit** — black or colourful!! Decide closer to the time!! Malaga+Malta+Budapest (Spring 2027)
+18. 👗 **Beach coverup/dress** — swimsuit to café without changing (Spring 2027) — Malta prep well in advance (Spring 2027)
 12. 🌈 **Trip bracelets** — buy one per CITY, stack them, wear the MEMORIES
 
 **The budget approach:**
@@ -350,9 +345,8 @@ Each city she visits, she buys ONE beaded or handmade bracelet. They stack on he
 🚢 **Late Sept 2026 (Cruise):** Black wrap top + mustard cardigan + scarf + brown belt = CRUISE READY
 🍂 **Autumn 2026 (Dublin):** Mustard cardigan + scarf + brown belt = Dublin READY (cruise pieces do DOUBLE DUTY!!)
 ❄️ **Winter 2026 (Bruges):** Cream cable knit + scarf + gloves + pink cord coat (if fits!!) + flat brown boots = Christmas market READY (almost everything carried from cruise + Dublin!!)
-🧊 **Winter 2027 (Prague):** EVERYTHING from Bruges + tights + matching hat + black long coat for evenings = ZERO new real purchases, just Primark cheapies!!
-🌸 **Spring 2027 (Seville/Bologna):** Floral dress OR wrap dress + tan sandals = WARM weather READY
-☀️ **Summer 2027 (Malta):** Black swimsuit + sarong = beach READY
+🌸 **Spring 2027 (Seville/Bologna):** A gorgeous dress + dressy flat sandals + swimsuit + beach coverup = WARM WEATHER UNLOCKED!! These pieces carry through every summer trip to 2028+!!
+☀️ **Summer 2027 (Malta):** Swimsuit + coverup + dress + sandals ALL carried from Seville = beach READY with ZERO new purchases!!
 
 **That's about 8-10 new pieces across a WHOLE YEAR — not a shopping SPREE!!**
 
