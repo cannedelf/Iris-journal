@@ -1274,7 +1274,9 @@
   "shopping": {
     "generated": "2026-07-10",
     "have": {},
-    "got": {},
+    "got": {
+      "dried_pasta": true
+    },
     "checked": {}
   },
   "custom": {
