@@ -1338,7 +1338,7 @@
       {
         "id": "toilet_roll",
         "name": "Toilet roll",
-        "permanent": true
+        "permanent": false
       }
     ]
   }
