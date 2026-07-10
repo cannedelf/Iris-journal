@@ -1277,7 +1277,9 @@
     "got": {
       "mexican_rice_pouch": true,
       "dried_pasta": true,
-      "rice": true
+      "rice": true,
+      "soba_noodles": true,
+      "lettuce": true
     },
     "checked": {}
   },
