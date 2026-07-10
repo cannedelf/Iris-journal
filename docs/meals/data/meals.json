@@ -1306,7 +1306,9 @@
       "cayenne_pepper": true,
       "sesame_seeds": true
     },
-    "checked": {}
+    "checked": {
+      "spring_onions": true
+    }
   },
   "custom": {
     "items": [
