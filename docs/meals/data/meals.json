@@ -1308,7 +1308,8 @@
     },
     "checked": {
       "spring_onions": true,
-      "lettuce": true
+      "lettuce": true,
+      "cucumber": true
     }
   },
   "custom": {
