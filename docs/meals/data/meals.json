@@ -1273,7 +1273,9 @@
   },
   "shopping": {
     "generated": "2026-07-10",
-    "have": {},
+    "have": {
+      "red_onions": 1
+    },
     "got": {
       "mexican_rice_pouch": true,
       "dried_pasta": true,
