@@ -1313,7 +1313,8 @@
       "garlic": true,
       "lettuce": true,
       "red_onions": true,
-      "spring_onions": true
+      "spring_onions": true,
+      "eggs": true
     },
     "checked": {
       "spring_onions": true,
