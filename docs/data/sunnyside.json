@@ -2886,7 +2886,8 @@
       "cas": false,
       "glasses": true,
       "hairTexture": "Curly",
-      "badges": {}
+      "badges": {},
+      "birthOrder": 1
     },
     {
       "id": "ratchet",
