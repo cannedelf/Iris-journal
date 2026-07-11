@@ -86,7 +86,7 @@
         "dominant": false
       }
     ],
-    "rotation": 6,
+    "rotation": 7,
     "rotationStatus": "COMPLETE"
   },
   "families": [
@@ -141,7 +141,7 @@
       "location": "Sunnyside, near the shops",
       "features": "Yellow door, art studio, sunflower garden, piano in the hallway",
       "movedIn": "2026-06-07",
-      "daysThisRotation": 2,
+      "daysThisRotation": 0,
       "layout": {
         "cols": 60,
         "rows": 60,
@@ -155,7 +155,7 @@
       "location": "Sunnyside",
       "features": "Converted mill. Stone walls, dark wood, teal bench courtyard, detached workshop with robotics station. Sage green nursery. Butterfly bedroom. Pickup truck in the drive.",
       "movedIn": "2026-06-16",
-      "daysThisRotation": 3,
+      "daysThisRotation": 0,
       "layout": {
         "cols": 20,
         "rows": 30,
@@ -169,7 +169,7 @@
       "location": "Sunnyside",
       "features": "Where a storm cloud watches the sky his son fell out of and calls it science.",
       "movedIn": "2026-06-17",
-      "daysThisRotation": 3
+      "daysThisRotation": 0
     },
     {
       "id": "the_flat",
@@ -178,7 +178,7 @@
       "location": "Sunnyside",
       "features": "Teal arched door, Hugo's bay-window bed, money tree",
       "movedIn": "2026-06-01",
-      "daysThisRotation": 3
+      "daysThisRotation": 0
     },
     {
       "id": "pebble_house",
@@ -187,7 +187,7 @@
       "location": "Sunnyside, central",
       "features": "Terracotta brick, teal arched door, alphabetical bookshelf",
       "movedIn": "2026-06-18",
-      "daysThisRotation": 3
+      "daysThisRotation": 0
     },
     {
       "id": "pressed_flowers",
@@ -196,7 +196,7 @@
       "location": "Zig-Zag Road, Sunnyside",
       "features": "Craftsman cottage, naturalist study, vegetable patches",
       "movedIn": "2026-06-21",
-      "daysThisRotation": 3
+      "daysThisRotation": 0
     }
   ],
   "people": [
