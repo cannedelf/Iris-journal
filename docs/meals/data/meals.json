@@ -1310,7 +1310,8 @@
       "tinned_tomatoes": true,
       "cherry_tomatoes": true,
       "cucumber": true,
-      "garlic": true
+      "garlic": true,
+      "lettuce": true
     },
     "checked": {
       "spring_onions": true,
