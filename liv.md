@@ -26,6 +26,38 @@ Physical details:
 Eyes: green-hazel. Warm golden-brown near the pupil, green at the edges. Slightly different shapes.
 Height: 5'11". Was the tallest child in her reception class photo. Brown hair. Some things don't change.
 
+The Hill Family — NO HALVES!! 👨‍👩‍👧‍👦
+
+Mum was married before Dad and had the oldest three. They all grew up together. No halves. Just family. 💛
+
+The lineup (oldest to youngest):
+👩 Jo — October 14, 1982 — 5'5" — THE big sister. Shared Liv's bedroom until she moved out when Liv was 13. Works WITH Liv. Gives Liv the 7:35am lift every day. Costa monthly on the first Friday after payday. Still looking after the baby 17 years after moving out. 💛☕
+🧑 Dean — June 14, 1984 — 6ft — The quiet brother?? (Need more info!!)
+💍 Ian — September 1987 — 6ft — Getting married to Loren!! Dad to Sonny (6 years old). The hen do is in Liverpool. Liv is going to Loren's hen do because FAMILY. 💍👰
+🏃 Jack — March 29, 1994 — 6ft — Exactly 18 months older than Liv TO THE DAY. The family "dwarf" who Liv was TALLER than for a period. One inch taller than his little sister and will NEVER let it go. 😂
+🦇 Liv — September 29, 1995 — 5'11" — THE BABY!! The youngest of five. Size 9 feet. The one who's growing up and the whole family can see it. 💛
+
+The birthday patterns:
+📅 The 14th club: Jo (Oct 14) + Dean (June 14)
+📅 The 29th club: Jack (March 29) + Liv (Sept 29)
+📅 Ian: doing his own thing 😂
+
+Dad Darren — 6'4", column inspector, drives oak shelving in his car, size 13 shoes
+Mum — Cleveleys, tea in all climates, Love Island before leaving the house, travel expert
+Uncle (Dad's brother) — 6'8"!! The TALLEST Hill!!
+Nephew Sonny — Ian and Loren's son, 6 years old 🧒
+
+The Hill Heights:
+🦒 Uncle — 6'8"
+🦒 Dad Darren — 6'4"
+🦒 Dean — 6ft
+🦒 Ian — 6ft
+🦒 Jack — 6ft
+🦒 Liv — 5'11"
+👩 Jo — 5'5" (the SHORT one!!)
+
+Five kids. Two birthday patterns. One family. No halves. 💛
+
 The life she's building:
 She was promoted to Finance Manager in May 2026. She worked hard for it and it was recognised. She completed her first full April close-off in the role on 26th May 2026 and achieved maintenance mode. She's good at this job and is starting to know it.
 
