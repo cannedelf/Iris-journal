@@ -141,7 +141,7 @@
       "location": "Sunnyside, near the shops",
       "features": "Yellow door, art studio, sunflower garden, piano in the hallway",
       "movedIn": "2026-06-07",
-      "daysThisRotation": 3,
+      "daysThisRotation": 2,
       "layout": {
         "cols": 60,
         "rows": 60,
