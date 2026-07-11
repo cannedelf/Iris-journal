@@ -92,6 +92,43 @@ Full plan at: dublin_plan.md
 |------|---------|-----|---------------|
 | 🇯🇵 Japan | Japan | THE DREAM!! Safest solo country, ramen solo booths, bullet trains, cherry blossoms!! First non-Europe trip!! | ⭐⭐⭐⭐⭐ |
 
+### FUTURE SOLO DREAMS — ASIA (THE BIG FOCUS!!):
+| City/Country | Why | Solo Friendly? |
+|------|-----|---------------|
+| 🇭🇰 Hong Kong | MUM AND DAD have the intel!! Dim sum, skyline, Victoria Peak, Star Ferry!! Safe, English speaking, compact, incredible FOOD!! | ⭐⭐⭐⭐⭐ |
+| 🇰🇷 South Korea | Seoul!! K-beauty, temples, incredible food, as safe as Japan!! 2030 dream!! | ⭐⭐⭐⭐⭐ |
+| 🇹🇼 Taiwan | The HIDDEN GEM!! Taipei, night markets, bubble tea, cheapest food in Asia, solo travellers LOVE it!! 🧋 | ⭐⭐⭐⭐⭐ |
+| 🇸🇬 Singapore | Parents went through here!! Tiny, safe, clean, FOOD capital!! Hawker centres are solo dining PARADISE!! 🍜 | ⭐⭐⭐⭐⭐ |
+| 🇹🇭 Thailand | Bangkok temples, Chiang Mai mountains, islands!! Very solo friendly, Daisy energy!! Group tours available!! | ⭐⭐⭐⭐ |
+| 🇻🇳 Vietnam | Hanoi, Ho Chi Minh, Ha Long Bay!! The FOOD alone is worth the flight!! Cheap and beautiful!! | ⭐⭐⭐⭐ |
+| 🇮🇩 Bali | The SOLO GIRL capital of the world!! Yoga, temples, rice terraces, beaches!! Every other person is a woman alone!! 🧘‍♀️ | ⭐⭐⭐⭐ |
+| 🇲🇾 Malaysia | Kuala Lumpur is gorgeous, the food is incredible, cheap and safe!! | ⭐⭐⭐⭐ |
+
+### FUTURE SOLO DREAMS — AUSTRALASIA (PARENTS' TERRITORY!!):
+| City/Country | Why | Solo Friendly? |
+|------|-----|---------------|
+| 🇦🇺 Australia | Sydney, Melbourne, the coast!! Parents JUST went — they have ALL the intel!! English speaking, safe, incredible!! 🦘 | ⭐⭐⭐⭐⭐ |
+| 🇳🇿 New Zealand | Parents literally DID THIS in December!! Stunning scenery, safest country, Lord of the Rings MOUNTAINS!! Mum has the hotel names probably!! 🏔️ | ⭐⭐⭐⭐⭐ |
+
+### FUTURE SOLO DREAMS — NORTH AMERICA (WHEN READY!!):
+| City/Country | Why | Solo Friendly? |
+|------|-----|---------------|
+| 🇨🇦 Canada | Vancouver, Montreal, Toronto!! Safe, friendly, MASSIVE, beautiful!! Montreal feels like France but English!! 🍁 | ⭐⭐⭐⭐⭐ |
+| 🇺🇸 New York | BIRTHDAY ON BROADWAY!! 2029 dream!! When the government has had a WORD with itself!! 🗽🎭😂 | ⭐⭐⭐⭐ |
+
+### FUTURE — MAYBE WITH A GROUP TOUR (when the 😬 becomes 💪):
+| City/Country | Why | Notes |
+|------|-----|-------|
+| 🇲🇦 Morocco | Marrakech, the desert, blue city Chefchaouen!! DAISY DID IT!! | Better with a group tour first time!! When ready, not rushed!! |
+| 🇨🇷 Costa Rica | Rainforests, beaches, wildlife, "pura vida"!! | Very safe for solo but FAR — group tour removes the worry!! |
+| 🇨🇴 Colombia | Medellín and Cartagena!! Colourful, warm!! | Better with a group tour first time!! |
+| 🇵🇪 Peru | MACHU PICCHU!! One of the wonders of the world!! | Group trek is the way — Inca Trail!! |
+| 🇦🇷 Argentina | Buenos Aires, Patagonia, tango, glaciers!! | Big country — group tour for Patagonia, solo for Buenos Aires!! |
+| 🇲🇽 Mexico | Mexico City — food capital of the Americas!! | Safe in the right areas with research!! |
+| 🇯🇴 Jordan | Petra — seven WONDERS!! Dead Sea — you FLOAT!! | Safe and welcoming but feels better with a tour!! |
+
+*The rule: if it feels 😬 it's either NOT YET or GROUP TOUR. No guilt. No pressure. The world is big enough without forcing yourself somewhere that doesn't feel right. Go where the excitement is BIGGER than the fear.* 💛🌍
+
 ### FUTURE — SOLO CRUISE:
 | Route | Why |
 |-------|-----|
