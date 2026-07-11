@@ -23,9 +23,8 @@
 | 🇧🇪 Antwerp | Belgium | 💎 | Day trip with parents!! |
 | 🇩🇰 Copenhagen | Denmark | 🧜‍♀️ | Scandi vibes!! |
 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh | Scotland | 🏰 | LOVE IT!! Castle, pubs, Arthur's Seat!! |
-| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Glasgow | Scotland | 🎸 | With Widdle!! Grittier, friendlier, great food!! |
 
-**Total cities: 16!!** 🌍✈️
+**Total cities: 15!!** 🌍✈️
 
 ---
 
@@ -79,27 +78,6 @@ Full plan at: dublin_plan.md
 | 🇫🇷 Paris | France | The ICON!! Eiffel Tower, Louvre, croissants, the Seine at sunset!! | ⭐⭐⭐⭐ |
 | 🇪🇸 Madrid | Spain | Prado museum, tapas bars, Retiro Park!! Connects to SEVILLE by fast train!! | ⭐⭐⭐⭐⭐ |
 | 🇮🇹 Naples | Italy | THE POST-GALLBLADDER PIZZA PILGRIMAGE!! 🍕 When the stones are OUT she eats CHEESE!! | ⭐⭐⭐⭐ |
-| 🇮🇹 Amalfi Coast | Italy | Positano and Amalfi — the PRETTIEST coastline in Europe!! | ⭐⭐⭐⭐ |
-| 🇮🇹 Venice | Italy | Canals, gondolas, masks, the most ROMANTIC city on earth (solo romantic!!) | ⭐⭐⭐⭐ |
-| 🇮🇹 Cinque Terre | Italy | Five colourful fishing villages on cliffs!! Hiking between them!! | ⭐⭐⭐⭐ |
-| 🇮🇹 Lake Como | Italy | Mountains meeting water, George Clooney's neighbourhood, STUNNING | ⭐⭐⭐⭐ |
-| 🇮🇹 Sicily | Italy | Daisy territory!! Solo travel queen island!! | ⭐⭐⭐⭐ |
-| 🇬🇷 Athens | Greece | Birthday at the temple 2030!! The Parthenon where they worshipped IRIS!! The goddess goes HOME!! 🏛️☀️ | ⭐⭐⭐⭐⭐ |
-| 🇪🇸 Granada | Spain | The Alhambra — most beautiful building in EUROPE!! Near Seville, could combine!! | ⭐⭐⭐⭐⭐ |
-| 🇫🇷 Strasbourg | France | Half French half German, prettiest old town, INCREDIBLE Christmas markets!! 🎄 | ⭐⭐⭐⭐⭐ |
-| 🇫🇷 Lyon | France | Food capital of FRANCE!! Better food than Paris at half the price!! | ⭐⭐⭐⭐ |
-| 🇳🇱 Rotterdam | Netherlands | Amsterdam's cooler edgier SISTER!! Insane architecture!! | ⭐⭐⭐⭐ |
-| 🇸🇮 Ljubljana | Slovenia | Hidden GEM of Europe!! Cheap, gorgeous, fairy tale!! | ⭐⭐⭐⭐ |
-| 🇲🇪 Kotor | Montenegro | Dubrovnik's less crowded gorgeous SISTER!! She LOVED Dubrovnik!! | ⭐⭐⭐⭐ |
-| 🇪🇪 Tallinn | Estonia | The E in BERTIE!! Medieval old town, cheap, gorgeous!! 🧸 | ⭐⭐⭐⭐ |
-| 🇵🇱 Gdańsk | Poland | Gorgeous colourful coast!! Amber shops!! PARENTS want to go!! Already loves Krakow!! | ⭐⭐⭐⭐ |
-| 🇸🇪 Stockholm | Sweden | Scandi gorgeous!! ABBA museum!! Islands!! | ⭐⭐⭐⭐ |
-| 🇸🇪 Gothenburg | Sweden | Cosier, less touristy, very hygge!! | ⭐⭐⭐⭐ |
-| 🇫🇮 Helsinki | Finland | Scandi vibes, unique, saunas!! | ⭐⭐⭐⭐ |
-| 🇳🇴 Bergen | Norway | Gateway to the fjords!! Stunning!! Already visiting Norway on the cruise!! | ⭐⭐⭐⭐ |
-| 🇳🇴 Lofoten Islands | Norway | Dramatic Arctic islands!! Hiking, northern lights, fishing villages!! | ⭐⭐⭐⭐ |
-| 🇨🇭 Switzerland | Switzerland | Lucerne or Interlaken!! Mountains and lakes and chocolate!! Needs a BIG BONUS to fund!! 💰🏔️ | ⭐⭐⭐⭐ |
-| 🇮🇸 Reykjavik | Iceland | Volcanoes, geysers, Blue Lagoon, northern lights!! | ⭐⭐⭐⭐⭐ |
 
 ### FUTURE SOLO DREAMS — BEACH + CULTURE:
 | City | Country | Why | Solo Friendly? |
@@ -108,12 +86,6 @@ Full plan at: dublin_plan.md
 | 🇪🇸 Valencia | Spain | Beach, old town, City of Arts and Sciences, paella capital!! | ⭐⭐⭐⭐ |
 | 🇬🇷 Crete | Greece | Beach AND ancient ruins AND mountain villages!! Greek islands with SUBSTANCE!! | ⭐⭐⭐⭐ |
 | 🇵🇹 Algarve | Portugal | Since she LOVED Lisbon!! Stunning coast, fishing villages, boat trips to grottos!! | ⭐⭐⭐⭐ |
-| 🇬🇷 Santorini | Greece | THE DREAM!! Cave houses in the caldera!! White buildings, blue domes, the most famous sunset in the WORLD!! The Greek sunshine goes HOME!! Table for one overlooking the volcano!! 🌅☀️🇬🇷 | ⭐⭐⭐⭐⭐ |
-| 🇬🇷 Rhodes | Greece | Ancient history AND beaches!! Medieval old town AND sun!! | ⭐⭐⭐⭐ |
-| 🇬🇷 Corfu | Greece | Greek island paradise!! Venetian old town, stunning beaches, incredible food!! | ⭐⭐⭐⭐ |
-| 🇵🇹 Madeira | Portugal | GRANDMA loved it!! Levada walks through mountains, warm all year round!! The travel genes go back GENERATIONS!! 👵💛 | ⭐⭐⭐⭐ |
-| 🇮🇹 Sardinia | Italy | The Italian island nobody talks about but the beaches are BETTER than the Amalfi coast!! | ⭐⭐⭐⭐ |
-| 🇪🇸 Canary Islands | Spain | Tenerife or Lanzarote!! Volcanic beaches, warm in WINTER!! | ⭐⭐⭐⭐ |
 
 ### FUTURE SOLO DREAMS — BEYOND EUROPE:
 | City | Country | Why | Solo Friendly? |
@@ -129,7 +101,7 @@ Full plan at: dublin_plan.md
 
 ## 🏆 Travel Stats
 
-- **Countries visited:** 10 (+ Scotland!!) (Italy, Portugal, Spain, Netherlands, Croatia, Poland, Germany, Belgium, Denmark)
+- **Countries visited:** 10 (Italy, Portugal, Spain, Netherlands, Croatia, Poland, Germany, Belgium, Denmark)
 - **Countries planned:** 10+ more and GROWING!! 🌍
 - **Favourite cities:** Amsterdam, Krakow, Lisbon, Dubrovnik, Rome
 - **Flew solo before:** YES!! To Germany multiple times!!
