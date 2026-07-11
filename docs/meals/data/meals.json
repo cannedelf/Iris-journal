@@ -1315,7 +1315,8 @@
       "red_onions": true,
       "spring_onions": true,
       "eggs": true,
-      "low_fat_yogurts": true
+      "low_fat_yogurts": true,
+      "frozen_fruit": true
     },
     "checked": {
       "spring_onions": true,
