@@ -1305,7 +1305,9 @@
       "chilli_flakes": true,
       "cayenne_pepper": true,
       "sesame_seeds": true,
-      "tinned_black_beans": true
+      "tinned_black_beans": true,
+      "tinned_kidney_beans": true,
+      "tinned_tomatoes": true
     },
     "checked": {
       "spring_onions": true,
