@@ -152,6 +152,16 @@ Buffer days for: surgery recovery, Christmas extension, mental health days, or a
 
 **THE FIRST SOLO BEACH + CULTURE TRIP!!**
 
+### 🏨 Accommodation Research
+**Park Lane Boutique Aparthotel** — St Paul's Bay
+- 🫖 MUM AND DAD APPROVED!! They stayed here!!
+- 🏠 Aparthotel = kitchen (budget meals!!) + hotel security (solo safety!!)
+- 🚌 RIGHT at the bus stop — easy Valletta day trips!!
+- 🏖️ Near the beach!!
+- 💰 St Paul's Bay is WAY cheaper than Valletta
+- ☀️ TikTok solo travel tip: aparthotels are the BEST for solo — hotel security + apartment facilities
+- 📋 Book nearer the time — compare prices but THIS is the starting point!!
+
 - 🏖️ DAD APPROVED destination!!
 - 🇬🇧 English speaking — less scary!!
 - 🏝️ Tiny island — can't get lost!!
