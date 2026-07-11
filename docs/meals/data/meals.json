@@ -3,7 +3,7 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-07-10",
+    "updated": "2026-07-11",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
   "mealPlan": {
@@ -1304,7 +1304,8 @@
       "cumin": true,
       "chilli_flakes": true,
       "cayenne_pepper": true,
-      "sesame_seeds": true
+      "sesame_seeds": true,
+      "tinned_black_beans": true
     },
     "checked": {
       "spring_onions": true,
