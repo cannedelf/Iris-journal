@@ -1343,7 +1343,8 @@
       "pitta_bread": true,
       "bread": true,
       "carrots": true,
-      "peppers": true
+      "peppers": true,
+      "fresh_basil": true
     }
   },
   "custom": {
