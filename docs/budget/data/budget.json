@@ -370,6 +370,13 @@
       "amount": 2,
       "category": "household",
       "note": "Primark - fairy lights"
+    },
+    {
+      "id": "spend_2_wbafg",
+      "date": "2026-07-12",
+      "amount": 2.5,
+      "category": "travel",
+      "note": "Primark - passport cover"
     }
   ]
 }
