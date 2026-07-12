@@ -363,6 +363,13 @@
       "amount": 4.8,
       "category": "eatingOut",
       "note": "Last light coffee - SOLO COFFEE!"
+    },
+    {
+      "id": "spend_1_p6avp",
+      "date": "2026-07-12",
+      "amount": 2,
+      "category": "household",
+      "note": "Primark - fairy lights"
     }
   ]
 }
