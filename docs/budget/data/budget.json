@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-07-11",
+    "updated": "2026-07-12",
     "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
     "weeklyBudget": 50,
     "payDay": 25,
@@ -349,6 +349,20 @@
       "amount": 0.72,
       "category": "groceries",
       "note": "Sainsbury's - nectar points"
+    },
+    {
+      "id": "spend_1_aptk1",
+      "date": "2026-07-12",
+      "amount": 4,
+      "category": "household",
+      "note": "Tape to fix pipe"
+    },
+    {
+      "id": "spend_1_qb7r3",
+      "date": "2026-07-12",
+      "amount": 4.8,
+      "category": "eatingOut",
+      "note": "Last light coffee"
     }
   ]
 }
