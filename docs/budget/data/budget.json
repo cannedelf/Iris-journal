@@ -356,6 +356,13 @@
       "amount": 4,
       "category": "household",
       "note": "Tape to fix pipe"
+    },
+    {
+      "id": "spend_2_pb1y2",
+      "date": "2026-07-12",
+      "amount": 4.8,
+      "category": "eatingOut",
+      "note": "Last light coffee - SOLO COFFEE!"
     }
   ]
 }
