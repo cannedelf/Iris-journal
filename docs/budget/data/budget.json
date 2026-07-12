@@ -377,6 +377,13 @@
       "amount": 2.5,
       "category": "travel",
       "note": "Primark - passport cover"
+    },
+    {
+      "id": "spend_3_g520q",
+      "date": "2026-07-12",
+      "amount": 4.99,
+      "category": "spending",
+      "note": "TK Maxx - claw clips x3"
     }
   ]
 }
