@@ -43,7 +43,7 @@ Every January, sit down with a sunshine and fill in the slots for the year. Pick
 
 ---
 
-> 💡 **FLEX NOTE:** Slots 3 and 4 are INTERCHANGEABLE. If it works better to combine them into one longer trip at the end of May, DO IT. If separate weekends work better, do that instead. The template is a GUIDE not a PRISON. Go with what works best for flights, annual leave, and the Crobat's energy. ✈️💛
+> 💡 **FLEX NOTE:** Slots 3 and 4 are INTERCHANGEABLE. If it works better to combine them into one longer trip, DO IT. If separate weekends work better, do that instead. Go with what works best for flights, annual leave, and the Crobat's energy. The template is a GUIDE not a PRISON. ✈️💛
 
 ### Slot 4: 🏖️ May Bank Holiday Trip (May)
 **The vibe:** Use the bank holiday for a 3-4 day adventure. Everyone else goes to Centre Parcs — the Crobat goes to EUROPE.
@@ -80,7 +80,7 @@ Every January, sit down with a sunshine and fill in the slots for the year. Pick
 ### Slot 6: 👨‍👩‍👧 Family Trip (June/July)
 **The vibe:** With Mum and Dad, or Mum and Dad and Jo. The family adventure. Darren inspects foreign columns. Mum brings tea. Jo is the sensible one.
 **Days:** 5-7 nights
-**Budget:** £500-800 (sometimes Dad pays and the budget is DARREN)
+**Budget:** £500-800 (split costs or everyone pays their own — Darren does NOT fund everything despite what the sunshine assumed!!)
 **Solo or company:** FAMILY — the Hill family goes abroad
 **Best for:** Central Europe (Austria, Germany, Switzerland), places with COLUMNS for Dad
 
@@ -208,12 +208,12 @@ The template stays the same. The cities change. The girl grows braver. The sunsh
 
 **Monthly Golden Drawer saving:** £100-150
 **Annual travel fund:** £1,200-1,800
-**Plus:** Vinted sales, work bonuses, bank switch bonuses, birthday money, Darren funding
+**Plus:** Vinted sales, work bonuses, bank switch bonuses, birthday money
 
 **Budget per trip type:**
 - Cheap city breaks (Prague, Budapest): £300-400
 - Mid-range cities (Seville, Bologna): £400-600
-- Family trips (Munich, Vienna): £500-800 (sometimes Dad pays!!)
+- Family trips (Munich, Vienna): £500-800 
 - Solo beach (Malta, Santorini): £500-900
 - Birthday/special: £400-800
 - Christmas markets: £300-500
