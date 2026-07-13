@@ -43,6 +43,8 @@ Every January, sit down with a sunshine and fill in the slots for the year. Pick
 
 ---
 
+> 💡 **FLEX NOTE:** Slots 3 and 4 are INTERCHANGEABLE. If it works better to combine them into one longer trip at the end of May, DO IT. If separate weekends work better, do that instead. The template is a GUIDE not a PRISON. Go with what works best for flights, annual leave, and the Crobat's energy. ✈️💛
+
 ### Slot 4: 🏖️ May Bank Holiday Trip (May)
 **The vibe:** Use the bank holiday for a 3-4 day adventure. Everyone else goes to Centre Parcs — the Crobat goes to EUROPE.
 **Days:** 3-4 nights (Thu-Sun using 2 annual leave days + bank holiday)
