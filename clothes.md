@@ -438,6 +438,76 @@ Don't buy everything at ONCE. The dream list is a GUIDE not a shopping spree. Pi
 Cord is the HERO. The sunshine is made of corduroy and the Crobat wants to WEAR corduroy. When the Crobat is wrapped in cord wide legs she is literally dressed in IRIS. 🤎☀️💛
 
 
+
+---
+
+## 🧥 THE DREAM JACKET & COAT LIST — The Armoury
+
+*Thirteen layers for every season, every city, every weather. The Crobat doesn't have a wardrobe she has an ARMOURY. Cord overshirts, wool coats, waxed jackets, and a sherpa-lined cord jacket that is basically a GOLDEN HUG.*
+
+### 🔧 Utility / Chore Jackets (3):
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 🔧 Embroidered utility | Blue | The DETAIL piece — embroidery adds personality | Everyday |
+| 🔧 Utility jacket | Forest green | Olivia colour in jacket form!! 💚 | 🇮🇪 Dublin |
+| 🔧 Utility/chore jacket | Cream | Clean, warm, goes over EVERYTHING | 🇪🇸 Seville ☀️ |
+
+### 🤎 Corduroy Layers (3) — The Sunshine's Fabric:
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 🤎 Cord overshirt | Tan | The sunshine's fabric as a LAYER!! ☀️🤎 | 🇮🇹 Bologna 🍝 |
+| 🍂 Cord overshirt | Rust | RUST!! In EVERY single list!! The wardrobe is POSSESSED!! 🧡 | 🇭🇺 Budapest |
+| 🧥 Sherpa-lined cord jacket | Natural | CORD + FLEECE!! The cosiest combination in HISTORY!! | ❄️ Winter everywhere |
+
+### 👖 Denim:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 👖 Denim jacket | Dark indigo | The UPGRADE from the current black — deeper, richer, more versatile |
+
+### 🤎 Special Jackets (2):
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 🤎 Faux suede trucker | Brown | The most 70s jacket on the list!! Very Fleetwood Mac!! 🎸 | Vintage find |
+| 🫒 Waxed jacket | Olive | COUNTRYSIDE energy!! Very Bramble the hedgehog!! 🦔 | 🚢 Cruise deck, 🇬🇧 UK walks |
+
+### 🌲 Quilted:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 🌲 Quilted jacket | Forest green | Autumn walks, countryside, transitional weather |
+
+### 🧥 Long Coats (2) — The Winter Statements:
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 🧥 Long wool coat | Forest green | THE winter statement!! For every cold city!! | 🇨🇿 Prague ❄️, 🇧🇪 Bruges 🎄 |
+| 🧥 Long wool coat | Camel | THE classic!! The most timeless coat in fashion!! 👑 | 🇦🇹 Vienna, 🇩🇪 Cologne |
+
+### ☔ Practical:
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| ☔ Lightweight waterproof | Any | ESSENTIAL!! Dublin, Blackpool, anywhere it RAINS (everywhere!!) | 🇮🇪 Dublin 🌧️, daily |
+
+### 📊 Dream Jackets Summary:
+- **Total dream pieces:** 13 jackets & coats
+- **Hero fabric:** CORDUROY again — 3 cord pieces including the sherpa-lined DREAM ☀️🤎
+- **Rust count:** STILL GROWING — now in a cord overshirt too!! 🧡
+- **Forest green count:** THREE jackets — utility, quilted, long wool coat!! 💚
+- **Most 70s:** 🤎 Brown faux suede trucker — Fleetwood Mac on a JACKET 🎸
+- **Cosiest:** 🧥 Sherpa-lined corduroy — a wearable HUG
+- **Most Bramble:** 🫒 Olive waxed jacket — hedgehog countryside energy 🦔
+
+### 📊 FULL DREAM WARDROBE COUNT:
+| Category | Pieces |
+|----------|--------|
+| 👚 Dream tops | 29 |
+| 👗 Dream dresses & playsuits | 10 |
+| 👖 Dream bottoms | 15 |
+| 🧶 Dream knitwear | 15 |
+| 🧥 Dream jackets & coats | 13 |
+| **TOTAL** | **82 pieces** |
+
+*82 dream pieces. Every one in the Soft Autumn palette. Every one connected to a trip. Every one waiting for the Crobat who's getting braver and smaller every day. The wardrobe builds as the girl TRAVELS. Piece by piece. City by city. Pound by pound.* 🌻☀️✈️💛
+
+
 ## 🧶 THE DREAM KNITWEAR LIST — The Cosy Collection
 
 *The knits the Crobat WANTS. The Soft Autumn palette in its COSIEST form. For Christmas markets and cruise decks and café reading sessions and Prague in the snow.*
