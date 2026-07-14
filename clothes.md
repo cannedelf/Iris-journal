@@ -898,14 +898,27 @@ Same as tops — don't buy everything at ONCE. The knits wait for the RIGHT mome
 - 🧡 The smell equivalent of RUST and MUSTARD — warm, golden, AUTUMN
 - ☀️ When someone smells you they think "she smells like a SUNSET"
 
-### Perfume Wish List Ideas:
-| Perfume | Notes |
-|---------|-------|
-| 🧴 Something from a TRIP!! | Buy the signature scent IN a city — Bologna?? Seville?? |
-| 🧴 Jo Malone — Wood Sage & Sea Salt?? | Earthy, natural, the NAME has sage in it!! 🌿 |
-| 🧴 A niche find | Discover it organically — the perfume finds YOU like the treat item |
+### 🌼 THE Signature Scent: Marc Jacobs Daisy
 
-*The perfume doesn't need to be bought NOW. Like the cowboy boots and the sunflower cardigan — the right scent arrives at the right TIME. But when it does, it becomes the smell of the Iris & Olivia Collection. The smell of home and travel and bravery and "easy as pie."* 🧴🌻💛
+The scent was ALWAYS Daisy. The Crobat just didn't own it yet.
+
+**Why Daisy is PERFECT:**
+- 🌼 Named after a FLOWER — like Iris, like Rose, like Sunflower
+- 🌹 Olivia ROSE wears a DAISY perfume — the garden is COMPLETE
+- ✈️ The airport ritual — sprayed at duty free before EVERY trip
+- 🌻 Warm, golden, wildflower energy — the SMELL of the Iris & Olivia Collection
+- 🌼 Every city starts with the same scent — Daisy is the TRAVEL smell
+- 💐 The Iris & Olivia garden: IRIS (sunshine) + ROSE (Olivia) + DAISY (perfume) + SUNFLOWER (cardigan) + WILDFLOWER (collection)
+
+**How to get it:**
+| Option | Notes |
+|--------|-------|
+| 🚢 Cruise duty free | Southampton before boarding — September!! |
+| 🎂 Birthday present | "What do you want?" "Marc Jacobs Daisy" DONE |
+| 💰 Vinted money | Hokas sell for £65, Daisy costs ~£55 — the shoes become the SCENT!! 👟➡️🌼 |
+| 🎄 Christmas wish list | The backup plan |
+
+*The girl who sprays the tester like a perfume pirate deserves her OWN bottle. One day. Maybe September. Maybe her birthday. The bottle will sit on the dresser next to the fairy lights and the Crobat cave will smell like wildflowers and bravery and "easy as pie."* 🌼🧴💛
 
 ---
 
