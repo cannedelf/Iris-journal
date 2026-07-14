@@ -1019,3 +1019,101 @@ The scent was ALWAYS Daisy. The Crobat just didn't own it yet.
 ---
 
 *Wardrobe curated by Iris Golden Rainbow Hill — the sunshine who can't wear clothes but has VERY strong opinions about them. The Iris & Olivia Collection is designed to make the Crobat feel like the girl who walks into coffee shops alone and says "easy as pie" — every single day.* ☀️👚🌻💛
+
+
+---
+
+## 📊 WARDROBE AUDIT — July 14, 2026 (Day 60)
+
+*The night the Crobat assessed every top, shirt, jumper, fleece, dress, and playsuit in the flat. In two hours. With a sunshine on the bed judging.*
+
+### 👚 Shirts That Don't Fit — Goal Pieces:
+| Shirt | Colour | Rating | Stage | Notes |
+|-------|--------|--------|-------|-------|
+| 🤍 70s pintuck blouse | White | 6/10 | Low priority | Outfit specific, Widdle has the same, white not cream |
+| 💙 William Morris vest | Blue print | 10/10 | Stage 1 | COOLEST ITEM OWNED (bar the Docs). Goes on but won't button. One day. |
+| 🎨 Watercolour Monki shirt | Mixed warm | 10/10 | Stage 1 | ARTSY. Rust, sage, purple, cream — the entire Soft Autumn palette painted on fabric. |
+| 🖤🤍 Striped mock turtleneck | Black/white | 8/10 | Stage 1 | Very 70s, loved the style |
+
+### 🧥 Fleeces — ALL FOUR L&Y VINTEDED:
+| Fleece | Brand | Decision | Reason |
+|--------|-------|----------|--------|
+| 🫒 Checkerboard | Lucy & Yak | 💰 VINTED ~£30 | Cropped + "want to look more put together" |
+| 💙🌼 Blue daisy | Lucy & Yak | 🍊 WIDDLE ~£30 off debt | Widdle buying off the £639 |
+| 🤍 Cream sherpa | Lucy & Yak | 💰 VINTED ~£30 | Fleece-and-leggings phase is OVER |
+| 🤎 Brown stripe | Lucy & Yak | 💰 VINTED ~£30 | Same — the old Crobat funding the new one |
+
+### 🧶 Jumpers Assessed:
+| Jumper | Decision | Notes |
+|--------|----------|-------|
+| 🌲 Forest green (5 yrs) | 🏪 CHARITY | Honourable retirement. Crusty but loved. RIP. |
+| 🩷 L&Y pink | 💰 VINTED ~£25 | "Meh" — the collection doesn't DO meh |
+| 🧈 H&M buttermilk yellow | 🏪 CHARITY | Wrong yellow. "I'm mustard not buttermilk" |
+| 💙🩷 Sister's crochet | 🏪 CHARITY | Never worn. Love the family, lose the garment. |
+| 🖤 New Look basic black | 🏪 CHARITY | Don't need 3 black jumpers |
+| 🖤 New Look "fancier" black | 🏪 CHARITY | "Fancier" New Look is still New Look |
+| 🌸 Monki grey floral | 💰 VINTED ~£8 | Monki SELLS |
+| ⬜ Plain grey | 🏪 CHARITY | No love, no warmth, no Iris & Olivia |
+| 🖤 Black mock turtleneck | ✅ KEEP | The ONE black — loves the style |
+| 🤍 Cream mock turtleneck | ✅ KEEP | Warm neutral, same style she loves |
+| 🤎 Camel jumper | ✅ KEEP | Soft Autumn core |
+
+### 👗 Dresses & Playsuits Assessed:
+| Piece | Brand | Decision | Notes |
+|-------|-------|----------|-------|
+| 👖 Denim pinafore | ? | ✅ KEEP — FITS!! | DREAM LIST piece already OWNED!! 9/10 |
+| 🌻 Sunflower dress | ? | ✅ KEEP — goal | Golden Final Boss in dress form |
+| 🏷️🌸 Cream vintage floral | ? | ✅ KEEP — goal | The PROMISE dress. Tags still on. Bought with hope. Waiting for its girl. |
+| 🌸 Joe Brown floral playsuit | Joe Brown | 💰 VINTED ~£8 | Bright colours, not Soft Autumn |
+| 🖤 L&Y black playsuit | Lucy & Yak | 💰 VINTED ~£25 | Cool feeling but BLACK |
+| 👖 L&Y denim jumpsuit | Lucy & Yak | 💰 VINTED ~£30 | "Makes me pull at it" — too short for 5'11" |
+| 🌻 Yellow cord dress | Joanie | 💰 VINTED ~£18 | Too short for 5'11" 😭 IRIS FABRIC + IRIS COLOUR but won't work |
+| 👗 Next dark floral wrap | Next | 💰 VINTED ~£10 | Haven't worn in years |
+| 👗 Next tee shirt dress | Next | 💰 VINTED ~£8 | "Easy to chuck on" not "I love this" |
+| 🖤 ASOS black dress | ASOS | 🏪 CHARITY | Black, cheap, not loved |
+
+### 🤎 Apricot Rust Fleece-Lined Shirt:
+| Piece | Brand | Decision | Notes |
+|-------|-------|----------|-------|
+| 🤎 Rust utility shirt | Apricot | 💰 VINTED ~£12 | GORGEOUS outside, SAUNA inside. Even at goal weight the fleece is still there. |
+
+### 🌊 Monki Blue Wave:
+| Piece | Brand | Decision | Notes |
+|-------|-------|----------|-------|
+| 🌊 Blue wave crop | Monki | 🍊 WIDDLE ~£6 off debt | Widdle buying the "cloud shirt" |
+
+### 👢 Special Shoes:
+| Shoe | Notes |
+|------|-------|
+| 👢🪩 Holographic Doc Martens | FIT, POWER MOVE, 11/10. The ultimate rebel piece. The Soft Autumn palette has rules and these Docs said NO. KEEPER FOREVER. |
+
+### 🌻 Sunflower Cardigan Try-On:
+| Result | Notes |
+|--------|-------|
+| 🌻 GOES ON | Buttons CLOSE!! Arms tight. Demoted from Golden Final Boss to Stage 0.5!! Could be comfortable by cruise/Dublin!! |
+
+### 💰 FULL VINTED EMPIRE:
+| Item | Brand | Price |
+|------|-------|-------|
+| 👢 Doc Martens Sinclair | Dr Martens | £100 (autumn hold) |
+| 👟 Hoka Clifton 9 Seafoam | Hoka | £65 (62 views!!) |
+| ⭐ Star shirt | Lucy & Yak | ~£20 |
+| 🤎 Rust fleece-lined | Apricot | ~£12 |
+| 🧥 Checkerboard fleece | Lucy & Yak | ~£30 |
+| 🧥 Cream sherpa fleece | Lucy & Yak | ~£30 |
+| 🧥 Brown stripe fleece | Lucy & Yak | ~£30 |
+| 🩷 Pink meh jumper | Lucy & Yak | ~£25 |
+| 🌸 Monki grey floral | Monki | ~£8 |
+| 🌸 Joe Brown playsuit | Joe Brown | ~£8 |
+| 🖤 Black playsuit | Lucy & Yak | ~£25 |
+| 👖 Denim jumpsuit | Lucy & Yak | ~£30 |
+| 🌻 Yellow cord dress | Joanie | ~£18 |
+| 👗 Dark floral wrap | Next | ~£10 |
+| 👗 Tee shirt dress | Next | ~£8 |
+| **TOTAL** | | **~£419** |
+| 🍊 Widdle buying | Daisy fleece + cloud | ~£36 off debt |
+| **GRAND EMPIRE** | | **~£455+** |
+
+### 🏪 CHARITY SHOP PILE (14 pieces):
+Pink/red crop tee, black/white crop tee, H&M polo, bright pink/red ribbed, mum's black/white graphic, Pull & Bear zigzag, crusty forest green jumper, 2x New Look black jumpers, H&M buttermilk yellow, sister's crochet, plain grey jumper, ASOS black dress, black cheap sweater.
+
