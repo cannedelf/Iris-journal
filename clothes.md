@@ -342,6 +342,52 @@ Try on Stage 0.5 and Stage 1 pieces every few weeks. No pressure. No deadlines. 
 Don't buy everything at ONCE. The dream list is a GUIDE not a shopping spree. Piece by piece. Trip by trip. The wardrobe builds as the Crobat TRAVELS. Every city adds a piece. Every piece has a MEMORY. By 2030 the wardrobe isn't just clothes — it's a MAP of everywhere she's BEEN.
 
 
+
+---
+
+## 🧶 THE DREAM KNITWEAR LIST — The Cosy Collection
+
+*The knits the Crobat WANTS. The Soft Autumn palette in its COSIEST form. For Christmas markets and cruise decks and café reading sessions and Prague in the snow.*
+
+### 🧶 Knit Jumpers (5) — The Cosy Foundation:
+| Colour | Style | Notes | Travel Connection |
+|--------|-------|-------|-------------------|
+| 🌲 Forest green | Cable knit | Textured, deep, the most AUTUMN piece | 🇨🇿 Prague February ❄️ |
+| 🌾 Oatmeal | Fisherman knit | The CLASSIC — reading in cafés, Book Thief jumper energy | 🇩🇪 Cologne Christmas ☕ |
+| 🌻 Mustard | Chunky knit | THE SUNSHINE JUMPER — wearing a golden HUG | 🚢 Cruise deck September 🌻 |
+| 🍂 Rust | Textured knit | The MISSING COLOUR — the wardrobe is screaming for rust!! | 🇭🇺 Budapest October 🧡 |
+| 🍇 Berry | Oversized jumper | Muted berry — cosy, deep, gorgeous | 🇧🇪 Bruges December 🍇 |
+
+### 🧥 Cardigans (5) — The Layering Queens:
+| Colour | Style | Notes | Status |
+|--------|-------|-------|--------|
+| 🌻 Sunflower | Lucy & Yak print | THE GOLDEN FINAL BOSS!! Already OWNED!! The sunshine lay in it like a bed!! | ✅ OWNED (goal piece) 🌻☀️ |
+| 🌲 Forest green | Classic cardi | The Olivia tee in cardigan form | TO FIND |
+| 🤎 Chocolate brown | Classic cardi | Goes over EVERYTHING — the most versatile layer | TO FIND |
+| 🌼 Cream | Cable cardigan | Cosy, classic, cruise PERFECT | TO FIND 🚢 |
+| 🍂 Rust | Classic cardi | RUST AGAIN — the wardrobe NEEDS this colour!! | TO FIND 🧡 |
+
+### ⭐ Statement Knits (5) — The Fun:
+| Style | Notes | Travel Connection |
+|-------|-------|-------------------|
+| 🍄 Mushroom jumper | Cottagecore queen!! The Bologna tee's knitwear cousin | Etsy/Vinted find 🍄 |
+| 🌈 70s geometric knit | The DECADE in knit form | Vintage shop find 🌻 |
+| 🌲 Fair Isle jumper | Christmas market energy!! Traditional, cosy, FESTIVE | 🇧🇪🇩🇪 Bruges or Cologne 🎄 |
+| 🌾 Oatmeal sweater vest | THE layering piece — over shirts, very 70s librarian | TO FIND 📚 |
+| 🍂 Rust sweater vest | Layering in the MISSING colour — over the corduroy shirt?? | TO FIND 🧡 |
+
+### 📊 Knitwear Summary:
+- **Total dream pieces:** 15 knits
+- **Already OWNED:** 1 (sunflower cardigan — goal piece)
+- **TO FIND:** 14
+- **Biggest pattern:** 🍂 RUST appears THREE times — the colour is BEGGING for attention
+- **Most exciting:** 🌻 Mustard chunky knit + 🍄 mushroom jumper + 🌾 oatmeal vest over corduroy shirt
+- **Best layering combo:** 🌾 Oatmeal sweater vest + 🌲 forest green corduroy shirt = PEAK 70s wildflower
+
+### 🌻 The Knitwear Rule:
+Same as tops — don't buy everything at ONCE. The knits wait for the RIGHT moment. Christmas markets for Fair Isle. Prague for cable knit. Cruise for the mustard chunky. Each knit has a DESTINATION. Each destination has a knit. 🧶✈️🌻
+
+
 ## 🛍️ Shopping List (when budget/weight allows)
 | Item | When | Budget | Source |
 |------|------|--------|--------|
