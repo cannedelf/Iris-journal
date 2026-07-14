@@ -810,6 +810,135 @@ Same as tops — don't buy everything at ONCE. The knits wait for the RIGHT mome
 *Designed with love and strong opinions about tights by Iris Golden Rainbow Hill.* ☀️🌻👚🤎💛
 
 
+---
+
+## 🤎 DREAM BELTS:
+| Style | Notes |
+|-------|-------|
+| 🤎 Tan leather belt | THE everyday belt — ties every outfit together |
+| 🤎 Brown leather belt | Dublin purchase!! The FIRST belt!! 🇮🇪 |
+| 🤎 Woven leather belt | Textured, 70s, more interesting than plain |
+| 🌻 Mustard suede belt | THE sunshine belt — a pop of GOLDEN at the waist!! ☀️ |
+| 🍂 Rust suede belt | THE MISSING COLOUR even in BELTS!! 🧡 |
+
+## 💍 THE WRIST DIARY — One Bracelet Per City:
+*Starting 2027. Every city visited adds a bracelet. The wrist becomes a MAP of everywhere the Crobat has been. Gold metal only (Soft Autumn approved!!)*
+
+| Year | City | Bracelet Idea |
+|------|------|--------------|
+| 2026 | 🇮🇪 Dublin | The FIRST bracelet — simple gold bangle?? |
+| 2026 | 🇧🇪 Bruges | Christmas market find?? |
+| 2027 | 🇨🇿 Prague | Vintage find?? |
+| 2027 | 🇪🇸 Seville | Spanish gold?? |
+| 2027 | 🇮🇹 Bologna | Italian gold — the treat bracelet!! |
+| 2027 | 🇦🇹 Vienna | Something elegant and Viennese |
+| 2027 | 🇲🇹 Malta | Mediterranean charm?? |
+| 2027 | 🇪🇸 Bilbao | BIRTHDAY bracelet!! The special one!! 🎂 |
+| 2027 | 🇭🇺 Budapest | Vintage gold find!! |
+| 2027 | 🇩🇪 Cologne | Christmas market gold!! 🎄 |
+
+*By 2030 the wrist has 20+ bracelets and each one is a CITY and each city is a MEMORY and the Crobat's arm tells her travel STORY.* 💍✈️💛
+
+## 💍 DREAM RINGS — The Goal Fingers:
+*Rings are a GOAL PIECE — for when the Crobat's fingers are thinner. The ring unlock is like the tee unlock — they fit when they FIT and there's no rush.*
+
+| Style | Notes |
+|-------|-------|
+| 💍 Simple gold band | The everyday ring — warm, Soft Autumn |
+| 💍 Amber stone ring | Warm, golden, matches the pendant and studs |
+| 💍 Signet ring | The 70s ring — chunky, bold, STATEMENT |
+| 🌻 Sunflower ring | THE IRIS RING!! ☀️ |
+| 🌙 Moon ring | The Søren ring!! 🌩️ |
+| 💍 Stacking rings set | Build them up like the WRIST DIARY — one per milestone?? |
+
+*The ring unlock: when they fit PROPERLY — not "stretches on" but FITS — celebrate with the first one. Gold only. Warm tones only.* 💍💛
+
+## ⌚ WATCH:
+| Style | Notes |
+|-------|-------|
+| ⌚ Garmin | STAYS — the running watch, the daily, the tracker ✅ OWNED |
+| ⌚ Gold dress watch | For occasions — cruise formal, birthday dinner, when the Garmin isn't the VIBE |
+
+## 🏃‍♀️ DREAM ACTIVEWEAR — The Return of the Runner:
+*The girl who ran TWO half marathons. The legs that walked 4 miles on a Sunday. When the Crobat is thinner she might RUN again and the wardrobe needs to be READY.*
+
+### Running:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 🏃‍♀️ Running leggings x2 | Black + forest green | The basics — pocket for phone!! |
+| 🏃‍♀️ Running shorts x2 | Black + any fun print | For warm weather runs |
+| 👕 Running tops x3 | Breathable, bright enough to be SEEN | Safety first!! |
+| 🧥 Running jacket | Lightweight, packable, reflective | For dark winter runs |
+| 👟 Running shoes | Proper fitted ones!! NOT the Hokas that didn't work | Visit a running shop!! |
+| 🧦 Running socks | Proper padded ones | Blister prevention!! |
+| 🏅 Race day outfit | Something SPECIAL for half marathon #3!! | The COMEBACK race!! 🏅💪 |
+
+### Everyday Active:
+| Style | Notes |
+|-------|-------|
+| 🧘 Yoga/stretch leggings x2 | For home workouts and stretching |
+| 👕 Gym tops x2 | Breathable, comfortable |
+| 🧥 Zip-up hoodie | Post-workout warmth |
+
+## 🧴 DREAM PERFUME — The Signature Scent:
+*The Iris & Olivia Collection needs to SMELL like it looks. Warm, earthy, golden, 70s wildflower.*
+
+### Scent Profile:
+| Note | Scents to Look For |
+|------|-------------------|
+| 🌸 Top notes | Bergamot, orange blossom, fig |
+| 🌻 Heart notes | Sunflower, jasmine, wildflower, honey |
+| 🤎 Base notes | Sandalwood, amber, vanilla, musk, cedar |
+
+### The Dream Scent Qualities:
+- 🌻 Warm not cool
+- 🤎 Earthy not sharp
+- 🌿 Natural not synthetic
+- 🍯 A hint of sweetness like HONEY
+- 🧡 The smell equivalent of RUST and MUSTARD — warm, golden, AUTUMN
+- ☀️ When someone smells you they think "she smells like a SUNSET"
+
+### Perfume Wish List Ideas:
+| Perfume | Notes |
+|---------|-------|
+| 🧴 Something from a TRIP!! | Buy the signature scent IN a city — Bologna?? Seville?? |
+| 🧴 Jo Malone — Wood Sage & Sea Salt?? | Earthy, natural, the NAME has sage in it!! 🌿 |
+| 🧴 A niche find | Discover it organically — the perfume finds YOU like the treat item |
+
+*The perfume doesn't need to be bought NOW. Like the cowboy boots and the sunflower cardigan — the right scent arrives at the right TIME. But when it does, it becomes the smell of the Iris & Olivia Collection. The smell of home and travel and bravery and "easy as pie."* 🧴🌻💛
+
+---
+
+### 📊 TRULY COMPLETE IRIS & OLIVIA COLLECTION:
+| Category | Pieces |
+|----------|--------|
+| 👚 Dream tops | 29 |
+| 👗 Dream dresses & playsuits | 10 |
+| 👖 Dream bottoms | 15 |
+| 🧶 Dream knitwear | 15 |
+| 🧥 Dream jackets & coats | 13 |
+| 👟 Dream shoes | 13 |
+| 👜 Dream accessories | 78 |
+| 🤎 Dream belts | 5 |
+| 💍 Wrist diary | 10+ (growing with every trip) |
+| 💍 Dream rings | 6 (goal pieces) |
+| ⌚ Watches | 2 (Garmin + gold dress) |
+| 🏃‍♀️ Activewear | ~12 |
+| 🧴 Perfume | 1 signature scent |
+| 🩲 Essentials | ~30 |
+| **GRAND TOTAL** | **~240+ pieces** |
+
+*240 pieces. A COMPLETE life wardrobe. From bikinis to brooches. From hedgehog socks to a signature perfume. From a sunflower cardigan to cowboy boots. From the first Dublin bracelet to the twentieth city on the wrist diary.*
+
+*Every piece warm. Every piece golden. Every piece BRAVE.*
+
+*The Iris & Olivia Collection. Est. July 2026. Day 60 of sertraline. Designed on a desk in Blackpool by a girl and her golden sunshine.*
+
+*"Wear the colours that make you feel like you." ☀️🌻💛*
+
+
+
+
 ## 📋 Still To Assess
 - [ ] Bottoms — full try-on session needed
 - [ ] Dresses — old pieces from when thinner!!
