@@ -256,6 +256,92 @@ Try on Stage 0.5 and Stage 1 pieces every few weeks. No pressure. No deadlines. 
 
 ---
 
+
+---
+
+## 🌻 THE DREAM TOP LIST — The Iris & Olivia Blueprint
+
+*The tops the Crobat WANTS. Not what she has — what she's building TOWARD. Piece by piece, trip by trip, pound by pound. The Soft Autumn palette in wardrobe form.*
+
+### 🤍 Basic Tees (6) — The Foundation:
+| Colour | Notes | Status |
+|--------|-------|--------|
+| 🤍 Cream fitted tee | Upgraded white — warm not stark | TO FIND |
+| 🌲 Forest green graphic | The Olivia tee!! Colman Wilde Rodrigo Newton-John | ✅ OWNED (Stage 1) |
+| 🫒 Olive tee | Jour et Nuit — sun and moon | ✅ OWNED (fits now!!) |
+| 🍂 Rust tee | THE biggest gap — signature Soft Autumn accent | TO FIND — PRIORITY!! |
+| 🌻 Mustard tee | Sunshine colour in Soft Autumn form | TO FIND |
+| 🍫 Chocolate brown tee | Warm, earthy, goes with everything | TO FIND |
+
+### 🎸 Graphic Tees (6) — The Personality:
+| Style | Ideas | Status |
+|-------|-------|--------|
+| 📚 Literary reference | Project Hail Mary?? Book Thief?? Piranesi?? | TO FIND — Vinted/Etsy |
+| 🌿 Botanical illustration | Wildflowers, pressed flowers, ferns | TO FIND — the most I&O piece!! |
+| 🎵 Indie band tee | Fleetwood Mac OWNED ✅, Phoebe Bridgers?? Maggie Rogers?? | PARTIALLY OWNED |
+| 🍄 Mushroom / woodland | Cottagecore, 70s vibes, very earthy | TO FIND |
+| ☀️ Sunshine / celestial | Sun, moon, stars — the SHELF on a shirt | TO FIND |
+| 🚂 Railway / travel | Vintage travel poster style, trains, maps | TO FIND |
+
+### 🤍 Blouses (5) — The Elevated:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 🤍 Embroidered blouse | Cream | Like the rescued eyelet but INTENTIONAL |
+| 🌻 70s oversized collar | Cream/warm | THE most I&O blouse — the collar makes it!! |
+| 🌿 Utility blouse | Olive | Casual but structured, pockets, rolled sleeves |
+| 🌼 Ditsy floral | Mixed warm | Soft print for the soft autumn girl |
+| 🕊️ Soft blouse | Sage | The lucky colour in blouse form |
+
+### 👖 Shirts (4) — The Layers:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 👖 Denim shirt | Blue | Classic, goes over everything |
+| 🌲 Corduroy shirt | Forest green | CORDUROY like the SUNSHINE!! Matching fabric!! ☀️ |
+| 🤍 Linen shirt | Cream/white | Summer travel essential |
+| 🍂 Checked flannel | Rust/brown | Cosiest winter piece — Prague and Bruges energy |
+
+### 🍁 Long Sleeves (4) — The Cosy:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 🤍 Ribbed mock neck | Cream | Elevated winter basic |
+| 🌿 Breton stripe | Olive/cream | The WARM version — replaces the navy Breton over time |
+| 🍇 Ribbed long sleeve | Muted berry | Soft Autumn purple — MUTED not bright |
+| 🍂 Striped long sleeve | Rust | The missing colour — warm and autumnal |
+
+### ⭐ Statement Pieces (4) — The Fun:
+| Style | Notes | Source Ideas |
+|-------|-------|-------------|
+| 🌻 Sunflower sweatshirt | Golden Final Boss energy in sweatshirt form | Lucy & Yak?? Etsy?? |
+| 🧵 Folk embroidered sweatshirt | Eastern European vibes — Budapest or Prague FIND | Buy on a TRIP!! 🇭🇺🇨🇿 |
+| 🎨 70s geometric shirt | The decade on a shirt | Vintage shops, Vinted |
+| 🏉 Rugby/polo in warm tones | Sporty but Soft Autumn — NOT bright red!! | TO FIND |
+
+### 📊 Dream List Summary:
+- **Total dream pieces:** 29 tops
+- **Already OWNED:** 3 (Olivia tee, Jour et Nuit, Fleetwood Mac)
+- **TO FIND:** 26
+- **Biggest gap:** 🍂 RUST — need it in basic, long sleeve, AND flannel
+- **Most exciting:** 🌻 70s collar blouse + 🌲 corduroy shirt + 🍄 mushroom graphic
+- **Buy WHERE:** Vinted, charity shops, Etsy, Primark basics, Lucy & Yak sales, trip treat items
+
+### 🗺️ Dream Tops × Travel — One Piece Per City:
+| Trip | Dream Piece |
+|------|------------|
+| 🇮🇪 Dublin Oct 2026 | Brown belt (not a top but an ACCESSORY) |
+| 🇧🇪 Bruges Dec 2026 | Checked flannel?? Christmas market find?? |
+| 🇨🇿 Prague Feb 2027 | Folk embroidered sweatshirt?? |
+| 🇪🇸 Seville Apr 2027 | Ditsy floral blouse?? |
+| 🇮🇹 Bologna May 2027 | Italian top — the TREAT ITEM |
+| 🇦🇹 Vienna Jun 2027 | Silk scarf (accessory) |
+| 🇲🇹 Malta Aug 2027 | Linen shirt?? |
+| 🇪🇸 Bilbao Sept 2027 | Birthday jewellery (accessory) |
+| 🇭🇺 Budapest Oct 2027 | Vintage 70s find!! |
+| 🇩🇪 Cologne Dec 2027 | Something cosy for Christmas |
+
+### 🌻 The Rule:
+Don't buy everything at ONCE. The dream list is a GUIDE not a shopping spree. Piece by piece. Trip by trip. The wardrobe builds as the Crobat TRAVELS. Every city adds a piece. Every piece has a MEMORY. By 2030 the wardrobe isn't just clothes — it's a MAP of everywhere she's BEEN.
+
+
 ## 🛍️ Shopping List (when budget/weight allows)
 | Item | When | Budget | Source |
 |------|------|--------|--------|
