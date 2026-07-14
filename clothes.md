@@ -348,6 +348,39 @@ Don't buy everything at ONCE. The dream list is a GUIDE not a shopping spree. Pi
 
 ---
 
+
+---
+
+## 👗 THE DREAM DRESSES & PLAYSUITS LIST — The One-Piece Wonders
+
+*Dresses and playsuits for every occasion. Cord pinafores, velvet A-lines, vintage florals, and linen playsuits. The Iris & Olivia Collection in ONE piece.*
+
+### 👗 Dresses (7):
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 👖 Denim pinafore | Blue denim | Layer over EVERYTHING — the most versatile dress | Everyday, any city |
+| 🌲 Shirt dress | Forest green | Olivia tee energy in DRESS form!! Button down, rolled sleeves | 🇮🇹 Bologna, work |
+| 🌸 Vintage floral tea dress | Mixed warm | THE most Iris & Olivia dress — 70s wildflower in one piece!! | 🇪🇸 Seville 🌸 |
+| 🤍 Embroidered summer dress | Cream | Santorini, Malta, beaches, SUNSHINE energy!! | 🇬🇷🇲🇹 Summer trips ☀️ |
+| 🍂 Corduroy pinafore | Rust | RUST + CORD!! The two things the wardrobe SCREAMS for in ONE dress!! ☀️🧡 | 🇭🇺 Budapest autumn |
+| 🤎 Velvet A-line | Chocolate brown | VELVET!! Winter texture queen!! Christmas market gorgeous!! | 🇧🇪🇩🇪 Bruges/Cologne 🎄 |
+| 🌲 Occasion dress | Forest green | The SPECIAL one — cruise formal, birthday dinner, celebrations!! | 🚢 Cruise, 🎂 Birthday |
+
+### 🩳 Playsuits (3):
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 🫒 Linen playsuit | Olive | Summer travel in ONE piece — easy, breezy, packable!! | 🇲🇹 Malta, 🇪🇸 Seville |
+| 🤎 Corduroy playsuit | Chocolate | CORD AGAIN!! The sunshine's fabric in playsuit form!! ☀️🤎 | 🇮🇹 Autumn Italy |
+| 🌸 Vintage floral playsuit | Mixed warm | The FUN piece — 70s wildflower energy | 🏖️ Beach holidays |
+
+### 📊 Dream Dresses Summary:
+- **Total dream pieces:** 10 dresses & playsuits
+- **Hero fabrics:** CORDUROY (pinafore + playsuit) and VELVET (A-line)
+- **Missing colour:** 🍂 RUST appears again — the cord pinafore!!
+- **Most exciting:** 🍂 Rust cord pinafore + 🤎 chocolate velvet A-line + 🌸 vintage floral tea dress
+- **Forest green count:** THREE dresses!! The Olivia colour dominates!! 💚
+
+
 ## 👖 THE DREAM BOTTOMS LIST — The Lower Half
 
 *The bottoms the Crobat WANTS. Cord is the HERO FABRIC. Rust is the MISSING COLOUR. The 70s wildflower palette from the WAIST DOWN.*
