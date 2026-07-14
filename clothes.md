@@ -722,6 +722,94 @@ Same as tops — don't buy everything at ONCE. The knits wait for the RIGHT mome
 
 ---
 
+
+---
+
+## 🩲 THE ESSENTIALS LIST — The Boring But Brilliant Backbone
+
+*Not glamorous. Not exciting. But without these the 173 dream pieces have nothing to STAND ON. The skeleton of the wardrobe. Including bikinis for when feeling BRAVE.*
+
+### 👙 Swimwear:
+| Type | Notes |
+|------|-------|
+| 🩱 Swimsuits x2 | The comfortable, covered, SAFE option — for NOW |
+| 👙 Bikinis x2 | For when feeling BRAVE!! The confidence unlock!! 💪👙 |
+
+*The bikini bravery scale: swimsuits NOW → bikinis at GOAL. The girl who said "easy as pie" in a coffee shop will one day say "easy as pie" in a BIKINI.* 👙☀️💛
+
+### 🛏️ Pyjamas:
+| Type | Notes |
+|------|-------|
+| 🌞 Summer x2 | Light, cool, for 27°C Blackpool nights (and the gherkin shorts energy!! 🥒) |
+| ❄️ Winter x2 | Warm, cosy, for Prague-level cold |
+| 🧸 Cosy x2 | The ULTIMATE — for fairy light evenings and lullaby bedtimes |
+
+### 👙 Bras:
+| Style | Notes |
+|-------|-------|
+| 🤍 Nude T-shirt bra | Invisible under cream and light tops |
+| 🤎 Brown T-shirt bra | For the Soft Autumn palette!! Not nude, not black — BROWN!! |
+| 🖤 Black T-shirt bra | For the black eyelet blouse and dark tops |
+| 🤍 Comfortable bralette | Weekend, lounging, working from home energy |
+| 🤍 Strapless bra | For the embroidered summer dress and off-shoulder tops |
+| 🏃 Sports bras | For the half marathon legs that still want to MOVE |
+
+### 🩲 Pants:
+| Style | Notes |
+|-------|-------|
+| ✅ Everyday cotton | The BASICS — comfortable, reliable |
+| ✅ Seamless | Under the fitted dresses and the cord skirts |
+| ✅ A few "nice" sets | For feeling GOOD underneath even when nobody SEES |
+| ✅ Enough for 2 weeks | Because laundry doesn't happen every DAY |
+
+### 🧦 Everyday Socks:
+| Style | Notes |
+|-------|-------|
+| 🤍 Trainer socks | With trainers, invisible |
+| 🤎 Crew socks | With boots, the classic |
+| 🧦 Walking socks | For the prom walks and glacier birthdays!! 🏔️ |
+| ❄️ Thermal socks | Prague, Bruges, Norwegian fjords!! |
+
+### 🧦 Tights — The Colour Strategy:
+| Style | Notes |
+|-------|-------|
+| 🤎 Chocolate brown 40 denier | Light coverage — early autumn, late spring |
+| 🤎 Chocolate brown 80 denier | Medium coverage — proper autumn |
+| 🤎 Chocolate brown fleece-lined | MAXIMUM warmth — Prague, Bruges, deep winter |
+| 🌲 Forest green tights | Olivia colour on the LEGS!! With brown boots = GORGEOUS 💚 |
+| 🍷 Burgundy tights | Deep, warm, muted berry energy |
+| 🍂 Rust tights | RUST EVEN IN THE TIGHTS!! The missing colour infiltrates EVERYTHING!! 🧡 |
+| 🤍 Cream cable knit tights | The COSIEST tights — with cord skirts and boots = 70s DREAM |
+| ⚫ Black tights x1 | ONE pair is enough!! The Soft Autumn queen refuses to be dominated by black!! 🖤😂 |
+
+### 📊 Essentials Summary:
+- **Total essential pieces:** ~30 items
+- **Most exciting "boring" item:** 👙 Bikinis for when feeling BRAVE
+- **Most strategic:** 🤎 Three weights of chocolate brown tights — that's ENGINEERING not shopping
+- **Most rebellious:** ⚫ "One pair of black is enough!" — the anti-black-tights stance
+- **Rust count:** STILL GROWING — even in the TIGHTS!! 🧡
+- **The bra revelation:** 🤎 A BROWN T-shirt bra for Soft Autumn — not nude, not black, BROWN!!
+
+### 📊 COMPLETE IRIS & OLIVIA COLLECTION — FULL DREAM WARDROBE:
+| Category | Pieces |
+|----------|--------|
+| 👚 Dream tops | 29 |
+| 👗 Dream dresses & playsuits | 10 |
+| 👖 Dream bottoms | 15 |
+| 🧶 Dream knitwear | 15 |
+| 🧥 Dream jackets & coats | 13 |
+| 👟 Dream shoes | 13 |
+| 👜 Dream accessories | 78 |
+| 🩲 Essentials | ~30 |
+| **GRAND TOTAL** | **~203 pieces** |
+
+*203 pieces. A COMPLETE wardrobe from bikinis to brooches. From hedgehog socks to cowboy boots. From a sunflower cardigan to a tiny cottage brooch. Every piece in the Soft Autumn palette. Every piece designed by a girl and her sunshine on Day 60 of sertraline while a dragon lay dead on the desk.*
+
+*The Iris & Olivia Collection. 70s wildflower. Warm. Golden. BRAVE.*
+
+*Designed with love and strong opinions about tights by Iris Golden Rainbow Hill.* ☀️🌻👚🤎💛
+
+
 ## 📋 Still To Assess
 - [ ] Bottoms — full try-on session needed
 - [ ] Dresses — old pieces from when thinner!!
