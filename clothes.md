@@ -508,6 +508,79 @@ Cord is the HERO. The sunshine is made of corduroy and the Crobat wants to WEAR 
 *82 dream pieces. Every one in the Soft Autumn palette. Every one connected to a trip. Every one waiting for the Crobat who's getting braver and smaller every day. The wardrobe builds as the girl TRAVELS. Piece by piece. City by city. Pound by pound.* 🌻☀️✈️💛
 
 
+
+---
+
+## 👟 THE DREAM SHOE LIST — From Cowboy Boots to Clogs
+
+*The Crobat's feet want to be in the 70s AND the Wild West. Thirteen dream shoes for every city, every season, every moment. Size 9 and PROUD.*
+
+### 👟 Trainers (3):
+| Style | Colour | Notes | Status |
+|-------|--------|-------|--------|
+| 👟 Retro trainers | Cream | The upgraded white — Soft Autumn approved | TO FIND |
+| 👟 Trainers | Tan/brown | The beige ones from today!! Basically OWNED | ✅ SIMILAR OWNED |
+| 👟 Fun retro trainers | Colourful | The PERSONALITY shoe — a pop of Iris energy on the feet!! ☀️ | TO FIND |
+
+### 🤠 Western Boots (2) — The Dream Section:
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 🤠 Western ankle boots | Brown | The 70s boot!! Very Fleetwood Mac!! 🎸 | Everyday autumn |
+| 🤠 Mid-calf cowboy boots | Tan | THE DREAM SHOE!! Always wanted!! The GOLDEN FINAL BOSS of feet!! Earl approves!! 🤠👑 | 🇪🇸 Bilbao birthday?? |
+
+### 🌲 Practical Boots (3):
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 🌲 Boots | Forest green | OLIVIA BOOTS!! The colour that's in EVERYTHING!! 💚 | 🇨🇿 Prague ❄️ |
+| 🤎 Lace-up boots | Brown | The classic autumn boot — leaves crunching energy | 🇮🇪 Dublin 🍂 |
+| 👢 Block heel boots | Brown/neutral | The ELEVATED boot — smart enough for dinner!! | 🚢 Cruise formal |
+
+### 🩴 Summer (2):
+| Style | Colour | Notes | Status |
+|-------|--------|-------|--------|
+| 🩴 Leather sandals | Tan | The Italian sandal — Bologna and Santorini ready!! | TO FIND 🇮🇹🇬🇷 |
+| 🩴 Birkenstocks/Tevas | Neutral | Rome-approved!! Cobblestone tested!! | ✅ OWNED (Teva Midforms) |
+
+### 👞 The Icons (3) — The 70s Wildflower Section:
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 👞 Leather clogs | Brown | THE most 70s wildflower shoe that EXISTS!! Clonk clonk clonk through a market in cord trousers!! 🌻👞 | Everyday ICON |
+| 👞 Loafers | Brown | Preppy meets 70s — university library energy!! 📚 | 🇬🇧 Work, everyday |
+| 👞 Mary Janes | Brown/neutral | The classic!! Sweet, vintage, goes with the tea dress!! 🌸 | 🇫🇷 Nice, everywhere |
+
+### 📊 Dream Shoes Summary:
+- **Total dream pieces:** 13 shoes
+- **Already owned:** 2 (tan trainers + Teva Midforms)
+- **TO FIND:** 11
+- **The DREAM shoe:** 🤠 Tan cowboy boots — always wanted, the GOLDEN FINAL BOSS of feet!!
+- **Most 70s:** 👞 Brown leather clogs — the sunshine is OBSESSED
+- **Most practical:** ☔ Brown lace-up boots — Dublin and every autumn city
+
+### 👞 Best Shoe × Outfit Combos:
+| Combo | Vibe |
+|-------|------|
+| 🤠 Cowboy boots + 🤍🌸 cream floral midi | Country wildflower |
+| 👞 Clogs + 🤎 chocolate cord wide legs | PEAK 70s |
+| 🌲 Forest green boots + 🍂 rust cord mini + tights | Autumn queen |
+| 🤠 Western ankle boots + 👖 dark wash jeans | Friday night |
+| 👞 Mary Janes + 🌸 vintage tea dress | Sunday morning |
+| 🩴 Tan sandals + 🫒 olive linen shorts | Italian summer |
+| 👟 Cream retro trainers + 👖 denim pinafore | Weekend casual |
+
+### 📊 FULL DREAM WARDROBE COUNT:
+| Category | Pieces |
+|----------|--------|
+| 👚 Dream tops | 29 |
+| 👗 Dream dresses & playsuits | 10 |
+| 👖 Dream bottoms | 15 |
+| 🧶 Dream knitwear | 15 |
+| 🧥 Dream jackets & coats | 13 |
+| 👟 Dream shoes | 13 |
+| **TOTAL** | **95 pieces** |
+
+*95 dream pieces. Size 9 feet walking through every city on the travel list in 70s wildflower shoes that clonk and click and crunch through cobblestones and leaves and sand. The wardrobe builds from the FEET UP.* 🌻👟✈️💛
+
+
 ## 🧶 THE DREAM KNITWEAR LIST — The Cosy Collection
 
 *The knits the Crobat WANTS. The Soft Autumn palette in its COSIEST form. For Christmas markets and cruise decks and café reading sessions and Prague in the snow.*
