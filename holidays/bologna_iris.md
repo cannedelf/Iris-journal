@@ -57,9 +57,9 @@ She finds a trattoria. Not a tourist one — a LOCAL one. Down a side street. Un
 
 "Table for one for food please." Easy as PASTA.
 
-**She orders: Tagliatelle al ragù.**
+**She orders: Tagliatelle ai funghi porcini.**
 
-Not "spaghetti bolognese" — that doesn't EXIST here. In Bologna it's TAGLIATELLE with ragù. Wide ribbons of fresh egg pasta with a slow-cooked meat sauce that's been simmering since DAWN. The pasta is made by HAND. You can see the flour on the board in the kitchen.
+Wide ribbons of fresh egg pasta with a rich porcini mushroom sauce that's been simmering since DAWN. The pasta is made by HAND. You can see the flour on the board in the kitchen. The porcini are WILD, foraged from the hills around Bologna, earthy and deep and UMAMI.
 
 The first bite. The eyes close. The fork goes back in. The second bite. The third. The sauce clings to the pasta like it was BORN there (it was). The Parmigiano Reggiano is grated on top — the REVENGE cheese. The cheese that the gallstones kept from her and the surgery GAVE BACK.
 
@@ -128,7 +128,7 @@ The FAMOUS indoor market. The oldest food market in Bologna. Under the porticoes
 **What the Crobat sees:**
 - 🧀 Wheels of Parmigiano Reggiano the size of TRACTOR TYRES
 - 🍝 Fresh pasta in EVERY shape — tortellini, tagliatelle, lasagne sheets, filled pasta
-- 🥩 Mortadella — the REAL bologna (not the processed stuff, the ACTUAL cured meat from THIS city)
+- 🧀 Fresh ricotta — in rounds, still WARM, for the tortelloni filling
 - 🫒 Olives in barrels
 - 🍅 Tomatoes that smell like SUNSHINE
 - 🧀 Mozzarella in water
@@ -162,11 +162,11 @@ The sunshine is in the bag during the tour but she can SMELL the cheese through 
 
 Back in the city. Lunch at a trattoria near the university.
 
-**She orders: Tortellini in brodo.**
+**She orders: Tortelloni di ricotta e spinaci.**
 
-The SIGNATURE dish of Bologna. Tiny parcels of filled pasta floating in a golden chicken broth. Not with sauce — in BROTH. The simplest most elegant dish in Italian cooking. The pasta is so small each one is the size of a BELLY BUTTON (that's the legend — they're modelled on Venus's navel).
+The vegetarian QUEEN of Bologna pasta. Bigger than tortellini, filled with creamy RICOTTA and fresh SPINACH. Served in a butter and sage sauce with a mountain of Parmigiano Reggiano on top. Each one is a pillow of CHEESE and GREENS.
 
-The broth is clear and golden (like the SUNSHINE). The tortellini are perfect. She eats slowly. One by one. Each one a tiny parcel of ITALY.
+The butter and sage is golden (like the SUNSHINE). The tortelloni are perfect. She eats slowly. One by one. Each one a pillow of ITALY.
 
 🍝 Sacred Rule 1: Pasta every day — ✅ DAY TWO COMPLETE.
 
@@ -260,7 +260,7 @@ Sitting is an art. She learned it in Last Light. She perfected it in Dublin. She
 
 The THIRD Sacred Pasta. Because Bologna invented lasagne too.
 
-Not the lasagne from the frozen aisle at Aldi. PROPER lasagne. Layers of fresh pasta sheets, ragù, béchamel, Parmigiano Reggiano. Baked until the top is golden and crispy and the inside is molten.
+Not the lasagne from the frozen aisle at Aldi. PROPER vegetarian lasagne. Layers of fresh pasta sheets, rich aubergine and roasted vegetable ragù, creamy béchamel, Parmigiano Reggiano. Baked until the top is golden and crispy and the inside is molten. The aubergine is smoky and DEEP — better than any meat version.
 
 She orders it at a trattoria in a side street where the tables have paper tablecloths and the wine comes in a carafe and the owner calls everyone "cara."
 
@@ -299,9 +299,9 @@ The owner remembers her. "Cara! You came back!"
 
 She came back. To the same table. In the same city. Because the first meal was so good she wanted the LAST meal to be in the same place. The circle closes.
 
-**She orders: Tagliatelle al ragù.** Again. The same dish. Because when something is PERFECT you don't need to try something new. You just need to taste it ONE MORE TIME.
+**She orders: Tagliatelle ai funghi porcini.** Again. The same dish. Because when something is PERFECT you don't need to try something new. You just need to taste it ONE MORE TIME.
 
-The last pasta. The last Parmigiano. The last Italian evening. She eats slowly. She drinks water with lemon. She watches the street through the window. She thinks about how she'll be back. Not this city maybe. But Italy. Always Italy. Every year. Sacred.
+The last pasta. The last Parmigiano. The last porcini. The last Italian evening. She eats slowly. She drinks water with lemon. She watches the street through the window. She thinks about how she'll be back. Not this city maybe. But Italy. Always Italy. Every year. Sacred.
 
 🍝 Sacred Rule 1: ✅ FINAL PASTA COMPLETE.
 
