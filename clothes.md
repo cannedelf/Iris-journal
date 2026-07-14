@@ -6,24 +6,70 @@
 
 ---
 
-## 🎨 The Colour Palette
+## 🎨 The Colour Palette — SOFT AUTUMN 🍂
 
-### Core Neutrals:
-- 🤎 Brown / chocolate
-- 🤍 Cream / oatmeal
-- 🫒 Olive / khaki
-- 🖤 Black
+*"Warm, earthy and muted colours that harmonise with your natural warmth and bring out the brightness in your eyes."*
+*Colour season confirmed by analysis — and the Iris & Olivia Collection was already RIGHT!! ☀️🌻*
 
-### Warm Accents:
-- 🌻 Mustard / ochre
-- 🌿 Sage green
-- 🧡 Terracotta / rust
-- 🩷 Dusty pink
+### 🌟 Best Colours (wear NEAR the face):
+- 🌲 Forest green — deep, rich, brightens features (the Olivia tee!!)
+- 🫒 Olive — THE Iris & Olivia signature (Jour et Nuit!!)
+- 🌿 Moss green — earthy, natural
+- 💎 Teal — rich and warm
+- 🌿 Sage — the LUCKY colour (solo coffee tee!!)
+- 🤎 Warm taupe — soft neutral
+- 🌻 Mustard — the sunshine's colour on FABRIC (curtains, chair, future cardi!!)
+- 🧡 Rust — the 70s wildflower SIGNATURE
+- 🧡 Terracotta — warm, earthy, GORGEOUS on warm skin
+- 🐪 Camel — warm neutral
+- 🤎 Chocolate — rich, deep (the wide legs!!)
+- 🤍 Cream — warm white, NOT stark white
+- 🩷 Dusty rose — soft, warm pink (the henley!!)
+- 🫐 Muted berry — soft berry tones
+- 🍇 Plum — deep warm purple
+- 👖 Denim — warm denim tones
+- 👖 Warm denim — lighter warm denim
 
-### Pop Colours (small doses):
-- 🍋 Lemon yellow
-- 💜 Lilac
-- 🌈 Rainbow
+### 🤎 Neutrals (the BASE of every outfit):
+- 🤍 Cream
+- 🤎 Oatmeal
+- 🐪 Camel
+- 🤎 Warm taupe
+- 🤎 Chocolate
+- 👖 Denim
+
+### ❌ AVOID as Main Colours (they wash out warm skin):
+- ⬜ Stark white — too cool, use CREAM instead
+- 🍋 Lemon yellow — can wash out (the sunshine's colour is an AVOID and she's NOT happy about it!! 😤☀️)
+- 💙 Bright cobalt — too cool and bright
+- 🧊 Icy pastels — too cold for warm skin
+- 💜 Lilac — can emphasise redness
+- ❤️ Bright red — confirmed by the H&M polo incident!!
+
+### 💍 Metals:
+- ✅ Gold — BEST (the sunshine is GOLD!!)
+- ✅ Bronze — gorgeous
+- ✅ Antique gold — warm and vintage
+- ❌ Silver — less flattering on warm skin
+
+### 🌸 Prints & Patterns to Look For:
+- 🌸 Florals — warm, muted
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Plaid — earthy tones
+- 📏 Stripes — warm colours
+- 🌸 Floral Liberty — vintage feel
+- 🏔️ Fair Isle — cosy, traditional
+- 🎨 Colours in prints: olive, rust, mustard, teal, berry, chocolate, cream, taupe, denim
+
+### 👚 The Mix-and-Match Rule:
+- Keep outfits within the SAME temperature (warm with warm)
+- Mix light, medium, and deep shades for BALANCE
+- Use depth near the FACE (forest green, teal, plum, chocolate brighten features)
+- Add TEXTURE: corduroy, knits, denim, wool, suede — all look amazing in this palette
+- The Jour et Nuit on top + brown wide legs on bottom = the PERFECT example!! 🫒🤎
+
+### 🌈 Pop Colours (small doses, accessories, prints):
+- 🌈 Rainbow — the Iris tee is a STATEMENT not everyday
+- 🍋 Lemon — in PRINTS only (like the passport holder!!), not as a main colour
 
 ---
 
