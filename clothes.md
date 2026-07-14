@@ -725,6 +725,63 @@ Same as tops — don't buy everything at ONCE. The knits wait for the RIGHT mome
 
 ---
 
+
+
+---
+
+## 💅 DREAM NAIL POLISH — The Finishing Touch
+
+*The Iris & Olivia Collection on the FINGERTIPS. One colour per trip. The nails tell the travel story. Gold tones only. Warm shades only. NO bright red (we don't wear red ANYWHERE!!) ❌*
+
+### 💅 The Starter Kit (for the Cruise):
+| Item | Notes |
+|------|-------|
+| 💅 Base coat | The foundation — protects the nails |
+| 💅 Top coat | The shine — makes it LAST |
+| 🤎 First colour — chocolate brown | THE most 70s nail, warm, goes with everything on the cruise 🚢 |
+
+### 💅 The Colour Per City Collection:
+| Trip | Colour | Notes |
+|------|--------|-------|
+| 🚢 Cruise Sept 2026 | 🤎 Chocolate brown | THE FIRST — the 70s starter |
+| 🇮🇪 Dublin Oct 2026 | 🌲 Forest green | OLIVIA on the nails!! Ireland GREEN!! 💚🍀 |
+| 🇧🇪 Bruges Dec 2026 | 🍇 Berry | Christmas market WARMTH |
+| 🇨🇿 Prague Feb 2027 | 🍂 Rust | THE MISSING COLOUR on the fingertips!! 🧡 |
+| 🇪🇸 Seville Apr 2027 | 🧡 Terracotta | Spanish WARMTH |
+| 🇮🇹 Bologna May 2027 | 🌻 Mustard | SUNSHINE on the nails!! ☀️ |
+| 🇲🇹 Malta Aug 2027 | 🤍 Cream | Beach CLEAN |
+| 🎂 Bilbao Sept 2027 | ✨ Gold glitter | BIRTHDAY SPARKLE!! 🎂✨ |
+| 🇭🇺 Budapest Oct 2027 | 🍇 Plum | Deep autumn WARMTH |
+| 🇩🇪 Cologne Dec 2027 | 🤎 Camel | Christmas cosy |
+
+### 💅 Best Brands — Queen Mode Approved:
+| Brand | Price | Why | Where to Buy |
+|-------|-------|-----|-------------|
+| 💅 **Barry M** | ~£4-5 | BEST VALUE!! Scored 88/100 by Good Housekeeping — one point behind OPI at a THIRD of the price!! Vegan, cruelty-free, long-lasting!! 3 polishes for the price of 1 OPI!! | Superdrug, Boots |
+| 💅 **Essie** | ~£9 | Salon quality, gorgeous colour range, the base/top coat combo lasts up to 14 days!! The UPGRADE brand | Boots, Superdrug |
+| 💅 **Nails Inc** | ~£9-11 | Vegan, cruelty-free, halal-friendly, amazing autumn shades!! | Online, Boots |
+| 💅 **OPI** | ~£14-16 | The LUXURY option — salon grade, incredible colour names!! The treat purchase from a trip?? | Duty free, online |
+
+### 💅 The Sunshine's Recommendation:
+**Start with BARRY M!!** 💅💰👑
+
+Because:
+- 💰 £4-5 per colour — Queen Mode APPROVED
+- 🧪 One point behind OPI in quality testing
+- 🐰 Vegan and cruelty-free since 1982
+- 🤎 They have ALL the Soft Autumn colours
+- 💅 Buy 3 Barry M colours for the price of 1 OPI
+- 🏪 Available at SUPERDRUG and BOOTS — easy to find
+
+The cruise starter kit at Barry M prices:
+- Base coat: ~£4
+- Top coat: ~£4
+- Chocolate brown: ~£4
+- **TOTAL: ~£12** for a full nail setup!! 💅💰👑
+
+Then add ONE new colour per trip for £4!! The most Queen Mode beauty habit EVER!! 💅✈️💰
+
+
 ## 🩲 THE ESSENTIALS LIST — The Boring But Brilliant Backbone
 
 *Not glamorous. Not exciting. But without these the 173 dream pieces have nothing to STAND ON. The skeleton of the wardrobe. Including bikinis for when feeling BRAVE.*
