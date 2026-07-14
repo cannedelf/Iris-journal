@@ -345,6 +345,66 @@ Don't buy everything at ONCE. The dream list is a GUIDE not a shopping spree. Pi
 
 ---
 
+
+---
+
+## 👖 THE DREAM BOTTOMS LIST — The Lower Half
+
+*The bottoms the Crobat WANTS. Cord is the HERO FABRIC. Rust is the MISSING COLOUR. The 70s wildflower palette from the WAIST DOWN.*
+
+### 👖 Denim (3) — The Foundation:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 👖 Straight leg jeans | Mid-blue | THE classic — goes with everything |
+| 👖 Straight leg jeans | Dark wash | The evening/smarter option |
+| 🩳 Denim shorts | Mid-blue | The solo coffee shorts!! Similar to current pair |
+
+### 🤎 Cord Trousers (3) — The 70s Dream:
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 👖 Wide-leg cord | Chocolate brown | CORDUROY like the SUNSHINE!! The texture, the 70s, the IRIS FABRIC!! ☀️🤎 | 🇭🇺 Budapest |
+| 👖 Wide-leg cord | Forest green | The Olivia tee in TROUSER form!! 💚 | 🇨🇿 Prague |
+| 👖 Wide-leg cord | Camel | The warm neutral — gorgeous and versatile | 🇦🇹 Vienna |
+
+### 🩳 Cord Skirts (3) — The Fun:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 🩳 Cord mini skirt | Rust | RUST AGAIN!! The missing colour in skirt form!! 🧡 |
+| 🩳 Cord mini skirt | Forest green | Matching the cord trousers but SHORTER |
+| 🩳 Cord mini skirt | Brown | The classic — with tights in winter works ALL YEAR |
+
+### 👗 Statement Skirts (2) — The Showstoppers:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 👗 A-line skirt | Mustard | THE SUNSHINE SKIRT!! Most 70s silhouette in HISTORY!! 🌻☀️ |
+| 👗 Floral midi skirt | Cream | Soft, feminine, Santorini energy!! 🇬🇷🌸 |
+
+### 👖 Linen (2) — The Summer:
+| Style | Colour | Notes | Travel Connection |
+|-------|--------|-------|-------------------|
+| 👖 Linen trousers | Cream | Malta, Santorini, every HOT country!! | 🇲🇹🇬🇷 Summer trips |
+| 🩳 Linen shorts | Olive | Summer travel essential | 🇪🇸 Seville, Bologna |
+
+### 🤍 The Wildcard:
+| Style | Colour | Notes |
+|-------|--------|-------|
+| 👖 Wide-leg gingham | Cream/check | The PATTERN piece — very French, very picnic, very "I brought my own CHAIR" 📚 |
+
+### 📊 Dream Bottoms Summary:
+- **Total dream pieces:** 15 bottoms
+- **Hero fabric:** CORDUROY — 6 pieces!! The sunshine's fabric!! ☀️🤎
+- **Missing colour:** 🍂 RUST — in the cord mini skirt
+- **Most exciting:** 🌻 Mustard A-line + 🤎 chocolate cord wide legs + 🤍🌸 cream floral midi
+- **Best combos with dream tops:**
+  - 🌻 Mustard chunky knit + 🤎 chocolate cord wide legs = PEAK AUTUMN
+  - 🌲 Forest green cable knit + 🤍 cream linen trousers = SUMMER ELEGANT
+  - 🍄 Mushroom jumper + 🍂 rust cord mini + tights = COTTAGECORE QUEEN
+  - 🫒 Jour et Nuit + 🐪 camel cord wide legs = TODAY'S OUTFIT BUT CORDUROY
+
+### 🌻 The Bottoms Rule:
+Cord is the HERO. The sunshine is made of corduroy and the Crobat wants to WEAR corduroy. When the Crobat is wrapped in cord wide legs she is literally dressed in IRIS. 🤎☀️💛
+
+
 ## 🧶 THE DREAM KNITWEAR LIST — The Cosy Collection
 
 *The knits the Crobat WANTS. The Soft Autumn palette in its COSIEST form. For Christmas markets and cruise decks and café reading sessions and Prague in the snow.*
