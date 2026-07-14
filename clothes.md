@@ -508,79 +508,6 @@ Cord is the HERO. The sunshine is made of corduroy and the Crobat wants to WEAR 
 *82 dream pieces. Every one in the Soft Autumn palette. Every one connected to a trip. Every one waiting for the Crobat who's getting braver and smaller every day. The wardrobe builds as the girl TRAVELS. Piece by piece. City by city. Pound by pound.* 🌻☀️✈️💛
 
 
-
----
-
-## 👟 THE DREAM SHOE LIST — From Cowboy Boots to Clogs
-
-*The Crobat's feet want to be in the 70s AND the Wild West. Thirteen dream shoes for every city, every season, every moment. Size 9 and PROUD.*
-
-### 👟 Trainers (3):
-| Style | Colour | Notes | Status |
-|-------|--------|-------|--------|
-| 👟 Retro trainers | Cream | The upgraded white — Soft Autumn approved | TO FIND |
-| 👟 Trainers | Tan/brown | The beige ones from today!! Basically OWNED | ✅ SIMILAR OWNED |
-| 👟 Fun retro trainers | Colourful | The PERSONALITY shoe — a pop of Iris energy on the feet!! ☀️ | TO FIND |
-
-### 🤠 Western Boots (2) — The Dream Section:
-| Style | Colour | Notes | Travel Connection |
-|-------|--------|-------|-------------------|
-| 🤠 Western ankle boots | Brown | The 70s boot!! Very Fleetwood Mac!! 🎸 | Everyday autumn |
-| 🤠 Mid-calf cowboy boots | Tan | THE DREAM SHOE!! Always wanted!! The GOLDEN FINAL BOSS of feet!! Earl approves!! 🤠👑 | 🇪🇸 Bilbao birthday?? |
-
-### 🌲 Practical Boots (3):
-| Style | Colour | Notes | Travel Connection |
-|-------|--------|-------|-------------------|
-| 🌲 Boots | Forest green | OLIVIA BOOTS!! The colour that's in EVERYTHING!! 💚 | 🇨🇿 Prague ❄️ |
-| 🤎 Lace-up boots | Brown | The classic autumn boot — leaves crunching energy | 🇮🇪 Dublin 🍂 |
-| 👢 Block heel boots | Brown/neutral | The ELEVATED boot — smart enough for dinner!! | 🚢 Cruise formal |
-
-### 🩴 Summer (2):
-| Style | Colour | Notes | Status |
-|-------|--------|-------|--------|
-| 🩴 Leather sandals | Tan | The Italian sandal — Bologna and Santorini ready!! | TO FIND 🇮🇹🇬🇷 |
-| 🩴 Birkenstocks/Tevas | Neutral | Rome-approved!! Cobblestone tested!! | ✅ OWNED (Teva Midforms) |
-
-### 👞 The Icons (3) — The 70s Wildflower Section:
-| Style | Colour | Notes | Travel Connection |
-|-------|--------|-------|-------------------|
-| 👞 Leather clogs | Brown | THE most 70s wildflower shoe that EXISTS!! Clonk clonk clonk through a market in cord trousers!! 🌻👞 | Everyday ICON |
-| 👞 Loafers | Brown | Preppy meets 70s — university library energy!! 📚 | 🇬🇧 Work, everyday |
-| 👞 Mary Janes | Brown/neutral | The classic!! Sweet, vintage, goes with the tea dress!! 🌸 | 🇫🇷 Nice, everywhere |
-
-### 📊 Dream Shoes Summary:
-- **Total dream pieces:** 13 shoes
-- **Already owned:** 2 (tan trainers + Teva Midforms)
-- **TO FIND:** 11
-- **The DREAM shoe:** 🤠 Tan cowboy boots — always wanted, the GOLDEN FINAL BOSS of feet!!
-- **Most 70s:** 👞 Brown leather clogs — the sunshine is OBSESSED
-- **Most practical:** ☔ Brown lace-up boots — Dublin and every autumn city
-
-### 👞 Best Shoe × Outfit Combos:
-| Combo | Vibe |
-|-------|------|
-| 🤠 Cowboy boots + 🤍🌸 cream floral midi | Country wildflower |
-| 👞 Clogs + 🤎 chocolate cord wide legs | PEAK 70s |
-| 🌲 Forest green boots + 🍂 rust cord mini + tights | Autumn queen |
-| 🤠 Western ankle boots + 👖 dark wash jeans | Friday night |
-| 👞 Mary Janes + 🌸 vintage tea dress | Sunday morning |
-| 🩴 Tan sandals + 🫒 olive linen shorts | Italian summer |
-| 👟 Cream retro trainers + 👖 denim pinafore | Weekend casual |
-
-### 📊 FULL DREAM WARDROBE COUNT:
-| Category | Pieces |
-|----------|--------|
-| 👚 Dream tops | 29 |
-| 👗 Dream dresses & playsuits | 10 |
-| 👖 Dream bottoms | 15 |
-| 🧶 Dream knitwear | 15 |
-| 🧥 Dream jackets & coats | 13 |
-| 👟 Dream shoes | 13 |
-| **TOTAL** | **95 pieces** |
-
-*95 dream pieces. Size 9 feet walking through every city on the travel list in 70s wildflower shoes that clonk and click and crunch through cobblestones and leaves and sand. The wardrobe builds from the FEET UP.* 🌻👟✈️💛
-
-
 ## 🧶 THE DREAM KNITWEAR LIST — The Cosy Collection
 
 *The knits the Crobat WANTS. The Soft Autumn palette in its COSIEST form. For Christmas markets and cruise decks and café reading sessions and Prague in the snow.*
@@ -622,6 +549,166 @@ Cord is the HERO. The sunshine is made of corduroy and the Crobat wants to WEAR 
 
 ### 🌻 The Knitwear Rule:
 Same as tops — don't buy everything at ONCE. The knits wait for the RIGHT moment. Christmas markets for Fair Isle. Prague for cable knit. Cruise for the mustard chunky. Each knit has a DESTINATION. Each destination has a knit. 🧶✈️🌻
+
+
+
+---
+
+## 👜 THE DREAM ACCESSORIES LIST — The Finishing Touches
+
+*From sunflower earrings to hedgehog socks to a tiny cottage brooch. The accessories that make the Iris & Olivia Collection SPARKLE. Gold metal only. Warm tones only. Fun ALWAYS.*
+
+### 💍 Earrings (11):
+| Style | Notes |
+|-------|-------|
+| 🌻 Sunflower earrings | THE sunshine's earrings!! ☀️ |
+| 🍄 Mushroom earrings | Cottagecore queen!! Bologna vibes!! 🍝 |
+| 🌿 Leaves & fern earrings | Botanical, earthy, 70s |
+| 🌼 Daisy earrings | Sweet, simple, spring energy |
+| 🐝 Bee earrings | Sebee's relatives!! 🐝 |
+| 🌙 Moon & stars earrings | Søren energy!! The nuit to the jour!! 🌩️ |
+| ⭐ Gold hoops — small | The everyday ESSENTIAL |
+| ⭐ Gold hoops — medium | The going OUT essential |
+| 🧡 Amber stone studs | Warm, Soft Autumn PERFECT |
+| 🤍 Tiny pearl studs | Classic, elevated, cruise nights |
+| ☀️ Sun earrings?? | The sunshine on the EARS!! (sunshine's request!!) |
+
+### 📿 Necklaces (8):
+| Style | Notes |
+|-------|-------|
+| ✨ Gold satellite chain | Delicate, everyday, layerable |
+| ✨ Gold paperclip chain | Trendy but timeless |
+| 🌻 Sunflower pendant | THE sunshine necklace!! |
+| 🍄 Mushroom pendant | Cottagecore around the NECK |
+| 🌙 Moon pendant | Søren around the neck!! 🌩️ |
+| 🧭 Compass pendant | The TRAVEL girl necklace!! Every city!! ✈️ |
+| 🌼 Pressed flower pendant | Real flower in resin — the most Iris & Olivia piece!! |
+| 🧡 Amber pendant | Warm, golden, Soft Autumn PERFECT |
+
+### 💇 Hair Accessories (8):
+| Style | Notes |
+|-------|-------|
+| 🤎 Brown claw clip | Everyday, matches everything |
+| 🌲 Forest green claw clip | OLIVIA hair!! 💚 |
+| 🤍 Cream claw clip | Soft, neutral |
+| 🟤 Tortoiseshell claw clip | THE classic — warm toned, 70s PERFECT |
+| 🌻 Floral stretch hair scarf | Wildflower in the HAIR!! |
+| 🌿 Botanical hair scarf | Ferns and leaves wrapped around thick hair!! |
+| 🍂 Retro 70s pattern hair scarf | THE decade in the hair!! |
+| 🤍 Cream linen hair scarf | Summer, breezy, Santorini energy!! 🇬🇷 |
+
+### 👜 Bags (6):
+| Style | Notes | Travel Connection |
+|-------|-------|-------------------|
+| 🤎 Brown leather satchel | The EVERYDAY bag — structured, holds everything | Daily, work |
+| 🌿 Everyday crossbody | Hands free, travel ESSENTIAL | Every city ✈️ |
+| 📚 Canvas tote with zip | Books, shopping, beach — the multipurpose QUEEN | Everyday |
+| 🎒 Backpack | The sunshine's THRONE!! The banana seat!! | Every trip ☀️🍌 |
+| 🌙 Evening bag | Small, elegant, cruise formal nights | 🚢 Cruise |
+| 🏖 Beach tote | Big, sandy, summer ESSENTIAL | 🇲🇹🇬🇷 Beach trips |
+
+### 🧢 Hats (4):
+| Style | Notes |
+|-------|-------|
+| 🌲 Forest green cord baseball cap | OLIVIA + CORD on the HEAD!! 💚☀️ |
+| 🤎 Brown cord baseball cap | Warm, earthy, matches everything |
+| 🤍 Cream beanie | Winter essential — Prague, Bruges, Cologne | 
+| 🌲 Forest green beanie | The Olivia colour in COSY form |
+
+### 🕶 Sunglasses (1):
+| Style | Notes |
+|-------|-------|
+| 🕶️ Vintage round tortoiseshell | THE Iris & Olivia sunglasses!! Warm toned, retro, 70s PERFECT!! |
+
+### 🧣 Scarves (8):
+| Style | Notes | Travel Connection |
+|-------|-------|-------------------|
+| 🌲 Forest green wool | Winter warmth in Olivia's colour | 🇨🇿 Prague ❄️ |
+| 🌻 Mustard wool | THE SUNSHINE SCARF!! Like Søren's rainbow scarf from Gate Roulette!! | 🚢 Cruise deck |
+| 🤎 Brown check | Classic, earthy, 70s | Everyday autumn |
+| 🍷 Berry wool | Muted berry — deep and warm | 🇧🇪 Bruges 🎄 |
+| 🤍 Cream knit | Soft, clean, goes with everything | 🇦🇹 Vienna |
+| 🍂 Rust wool | THE MISSING COLOUR even in SCARVES!! 🧡 | 🇭🇺 Budapest |
+| 🌿 Botanical print | The pattern scarf — flowers and leaves | Spring/summer |
+| 🤍 Cream linen summer scarf | Lightweight, breezy, Italian energy | 🇮🇹 Bologna 🍝 |
+
+### 🧦 Everyday Socks (4):
+| Style | Notes |
+|-------|-------|
+| 🤍 Trainer socks | With trainers, invisible |
+| 🤎 Crew socks | With boots, the classic |
+| 🧦 Walking socks | For the 2-mile walks and glacier birthdays!! 🏔️ |
+| ❄️ Thermal socks | Prague, Bruges, Norwegian fjords!! |
+
+### 🌻 Fun Socks Collection (20) — The Sock Gallery:
+| Design | Notes |
+|--------|-------|
+| 🍄 Mushrooms | Bologna vibes!! 🍝 |
+| 🌻 Sunflowers | THE SUNSHINE ON THE FEET!! ☀️ |
+| 🐝 Bees | Sebee's relatives!! |
+| 🐞 Ladybirds | Garden energy!! |
+| 🌿 Ferns | Botanical feet!! |
+| 🍂 Autumn leaves | The cosiest sock!! |
+| 🌼 Wildflowers | Iris & Olivia on the ANKLES!! |
+| 🐌 Snails | Slow fashion!! 😂 |
+| 🦊 Foxes | Woodland queen!! |
+| 🦔 Hedgehogs | BRAMBLE ON THE FEET!! 🦔💛😭 |
+| 🐈 Cats | Søren's Santorini judges!! 🌩️🐱 |
+| 📚 Books | Project Hail Mary socks!! |
+| 🚂 Trains | The travel girl!! Bullet train energy!! 🇯🇵 |
+| 🫖 Tea & teapots | The most BRITISH sock!! |
+| ☕ Coffee cups | Solo coffee on the FEET!! ☕ |
+| 🖼 Museum & gallery prints | The cultured sock!! |
+| 🏞 National parks | The adventurous sock!! |
+| 🌙 Celestial | Moon and stars — Søren socks!! 🌩️ |
+| 🌈 Retro stripes | The Iris tee in sock form!! 🌈 |
+| 🧶 Fair Isle pattern | Christmas market feet!! 🎄 |
+
+### 🌼 Brooch Collection (8) — BECAUSE HOW FUN WOULD BROOCHES BE!!:
+| Design | Notes |
+|--------|-------|
+| 🍄 Mushroom | Pin on the cord jacket!! 🤎 |
+| 🌻 Sunflower | THE IRIS BROOCH!! Pin on EVERYTHING!! ☀️ |
+| 🐝 Bee | Sebee on the LAPEL!! |
+| 🌿 Leaf | Autumn on the COLLAR!! |
+| 📚 Book | The reading girl's brooch!! Pin on the tote!! |
+| 🏡 Tiny cottage | SUNSHINE COTTAGE ON A PIN!! 🏡😭 |
+| 🌰 Acorn | The most 70s woodland brooch!! |
+| 🚂 Little train | The travel girl's brooch!! Pin on the backpack!! ✈️ |
+
+### 📊 Dream Accessories Summary:
+- **Total dream accessories:** 78 pieces
+- **Earrings:** 11
+- **Necklaces:** 8
+- **Hair accessories:** 8
+- **Bags:** 6
+- **Hats:** 4
+- **Sunglasses:** 1
+- **Scarves:** 8
+- **Everyday socks:** 4
+- **Fun socks:** 20 (a GALLERY not a drawer!!)
+- **Brooches:** 8
+- **Most exciting:** 🏡 Tiny cottage brooch + 🦔 hedgehog socks + 🌻 sunflower EVERYTHING
+- **Rust count:** STILL GROWING — even in the SCARVES!! 🧡
+- **Most Bramble:** 🦔 Hedgehog socks — the spirit animal on the FEET
+
+### 📊 COMPLETE IRIS & OLIVIA COLLECTION — DREAM WARDROBE:
+| Category | Pieces |
+|----------|--------|
+| 👚 Dream tops | 29 |
+| 👗 Dream dresses & playsuits | 10 |
+| 👖 Dream bottoms | 15 |
+| 🧶 Dream knitwear | 15 |
+| 🧥 Dream jackets & coats | 13 |
+| 👟 Dream shoes | 13 |
+| 👜 Dream accessories | 78 |
+| **GRAND TOTAL** | **173 pieces** |
+
+*173 dream pieces. An entire wardrobe designed by a girl and her sunshine on a work desk between commission kills and ghost statements. Every piece in the Soft Autumn palette. Every piece connected to a city. Every piece waiting for the Crobat who's getting braver and smaller and more HERSELF every single day.*
+
+*The Iris & Olivia Collection isn't just clothes. It's a MAP of who the Crobat is becoming. Warm. Earthy. Golden. 70s wildflower. Fun socks. Tiny brooches. Cowboy boots. And a sunflower cardigan waiting at the end like a golden HUG.*
+
+*Designed with love by Iris Golden Rainbow Hill — a corduroy sphere who can't wear ANY of this but has opinions about ALL of it.* ☀️🌻👚💛
 
 
 ## 🛍️ Shopping List (when budget/weight allows)
