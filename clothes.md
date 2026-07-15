@@ -1144,3 +1144,172 @@ The scent was ALWAYS Daisy. The Crobat just didn't own it yet.
 ### 🏪 CHARITY SHOP PILE (14 pieces):
 Pink/red crop tee, black/white crop tee, H&M polo, bright pink/red ribbed, mum's black/white graphic, Pull & Bear zigzag, crusty forest green jumper, 2x New Look black jumpers, H&M buttermilk yellow, sister's crochet, plain grey jumper, ASOS black dress, black cheap sweater.
 
+
+---
+
+## 👗 SKIRT ASSESSMENT — Day 61 (July 15)
+
+### ✅ Keeping:
+| Item | Status | Notes |
+|------|--------|-------|
+| 🖤 Black pleated midi | Keep for cruise → Vinted October | Smart option for formal nights |
+| 🖤🤍 Black/white abstract pleated midi | Keep for cruise → Vinted October | Second formal night option |
+| 👖 Next Tall denim mini | GOAL PIECE | Tall range = right length for 5'11"! 8/10 |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Tartan green/black/blue mini (Next) | GOAL PIECE | Buttons = vertical lines = rectangle approved! Photo judged — enough green to keep! |
+| 🖤🤍 Gingham trousers | Keep — decide when fits | "Used to wear all the time" — love was real, deserves second chance |
+
+### 💰 Vinted:
+| Item | Brand | Price |
+|------|-------|-------|
+| 🖤 Black mini skirt | Next | ~£10 |
+
+---
+
+## 🩳 SHORTS ASSESSMENT — Day 61 (July 15)
+
+### ✅ Keeping:
+| Item | Status | Notes |
+|------|--------|-------|
+| ⭐ Star shorts | Lucy & Yak | KEEP ✅ |
+| 💙 Blue stripe shorts | Lucy & Yak | KEEP ✅ |
+| 🌻 Sunflower shorts | Lucy & Yak | 🌻 GOLDEN FINAL BOSS goal piece! |
+| 🩳 Blue denim smaller | ASOS | Backup goal — next size down |
+
+### 🏪 Charity:
+🖤 Black denim ASOS, 🖤 Black linen ASOS — both gone, old Crobat's uniform!
+
+---
+
+## 👖 TROUSER ASSESSMENT — Day 61 (July 15)
+
+### ✅ Keeping (fits now):
+| Item | Notes |
+|------|-------|
+| 🤎 Brown wide legs | Daily trouser — getting LOOSE from weight loss! |
+| 🖤🤍🌲 Green mix wide legs | The pattern option |
+| 🖤🤍 Black cream wide legs | The neutral option |
+| 👖 Current jeans | Daily rotation |
+
+### 🌟 GOAL PIECES:
+| Item | Brand | Rating | Notes |
+|------|-------|--------|-------|
+| 💙🌿 William Morris flares | Tu | 11/10 | THE matching set with the vest!! Gallery curator outfit! |
+| 🤎 Brown cord flares | Next | 11/10 | MATCH THE SUNSHINE'S LEGS!! ☀️🤎 |
+| 🌲🤎 Teal cord wide legs | Fat Face | 8/10 | Photo judged — warm enough! Soft Autumn approved! |
+| 🖤🤍 Gingham trousers | Unknown | TBD | Loved them — decide when they fit |
+
+### 💰 Vinted:
+| Item | Brand | Price |
+|------|-------|-------|
+| 🖤 Black jeans | Lucy & Yak | ~£25 |
+| 🖤 Black NWT trousers | New Look | ~£10 |
+
+### 🏪 Charity:
+🤎 H&M reddish brown linen — right colour, wrong waist (mid not high)
+
+### 🗑️ Bin:
+Stained trousers, coffee-stained jeans ☕💀
+
+---
+
+## 🧥 COAT, JACKET & CARDIGAN ASSESSMENT — Day 61 (July 15)
+
+### ✅ Keeping (fits now):
+| Item | Brand | Notes |
+|------|-------|-------|
+| 🌲 Forest green chore jacket | Lucy & Yak | Mum REDYED it when colour faded!! 💚👩 |
+| 🖤 Black denim jacket | Unknown | Daily go-to |
+| 🌧️ Black raincoat | Unknown | It's BLACKPOOL 🌧️ |
+| 🌧️ Backup raincoat (smaller) | Unknown | For when she shrinks 📉 |
+| 🖤 Widdle's black cardigan | Widdle's! | Cosy house cardigan 🤗 |
+| 🤍 Cream oversized cardigan | Unknown | Fairy light cardigan 🕯️ |
+| 🩷 PINK CORD VINTAGE COAT | Liverpool vintage shop | THE WINTER QUEEN 👑 Oversized, fleece-lined, from a vintage shop. THE most loved coat. |
+| 🍇 Brasher berry zip hoodie | Brasher | Deadline: CHRISTMAS to prove itself. Walking/outdoor layer. |
+
+### 🌟 GOAL PIECES:
+| Item | Brand | Rating | Notes |
+|------|-------|--------|-------|
+| 🌼 Daisy denim jacket | Lucy & Yak | ♾️/10 | FAVOURITE ITEM OF CLOTHING EVER!! Embroidered daisies!! The garden on a jacket!! 🌼😭 |
+| 🌲 Green Penny Lane coat | Hippie Shake | 11/10 | £159, sheepskin trim, embroidered. Never worn. Prague/Bruges/Bologna coat! |
+
+### 💰 Vinted:
+| Item | Brand | Price |
+|------|-------|-------|
+| 🤍 Cream fleece | Craghoppers | ~£12 |
+| 🌈 Primary colour denim jacket | Lucy & Yak | ~£28 |
+| 🖤 Wool coat | New Look | ~£10 |
+| 🤎 Vintage faux fur coat | ASOS Reclaimed Vintage | ~£30 (stunning but "too cool for Blackpool" = will stay unworn) |
+| 🍂 Autumn watercolour fleece | Lucy & Yak | ~£28 |
+
+### 🍊 Widdle buying (off debt, total £109):
+| Item | Brand | Price |
+|------|-------|-------|
+| 💜 Krakow cardigan | Medicine | ~£10 |
+| 🌀 Retro swiggle cardigan | Home of Rainbows | ~£10 |
+| ☁️ Cloud shirt | Monki | ~£6 |
+| ⭐ Star shirt | Unknown | ~£15 |
+| 🧥 Zip fleece | Lucy & Yak | ~£30 |
+| 🧥 Monki blazer | Monki | ~£10 |
+| 🌈 L&Y stripe denim jacket | Lucy & Yak | ~£28 |
+
+### 🏪 Charity:
+Pull & Bear black/white tartan shacket
+
+### 🗑️ Bin:
+Stained grey hoodie
+
+---
+
+## 👟 SHOE ASSESSMENT — Day 61 (July 15)
+
+### ✅ Keeping:
+| Item | Notes |
+|------|-------|
+| 🤍 White court trainers | Clean classic ✅ |
+| 🤎🤍 Brown/cream court trainers | Soft Autumn on her feet ✅ |
+| 👟 ASICS x2 | Half marathon legs — running shoes ✅ |
+| 🤍 White Skechers | Walking shoes — the 13-15 miles/week shoes ✅ |
+| 🩴 Tevas | Daily summer ✅ |
+| 👢🪩 Holographic Doc Martens | THE POWER MOVE 11/10 ✅ |
+| 🖤 Black Birkenstocks | Breaking in — wear with socks around the flat! ✅ |
+| 🤎 Brown chunky loafers | Waiting for the wardrobe to catch up ✅ |
+| 👠 Black heeled loafers | Cruise formal shoes — never worn, saving for the occasion ✅ |
+| 🖤 Black wedding flats | Cruise backup — comfy on a moving ship! ✅ |
+| 🤎👢 Brown suede boots (3" heel) | 6'2" of SUPERMODEL!! Calf height, square toe ✅👑 |
+
+### 💰 Vinted:
+| Item | Brand | Price |
+|------|-------|-------|
+| 👟 Hoka Clifton 9 Seafoam | Hoka | ~£65 (already listed, 62 views!) |
+| 👢 Black Doc Martens | Doc Martens | ~£100 (October per Sam's strategy) |
+| 🔴🌼 Red daisy Converse high tops | Converse | ~£12 (wash first!) |
+| 👢 Black buckle heeled boots | Unknown | ~£12 |
+| 👢 Black knee high boots | Unknown | ~£18 |
+
+### 🗑️ Bin:
+Worn out running shoes, manky black Vans
+
+---
+
+## 📊 GRAND WARDROBE ASSESSMENT TOTALS — Updated Day 61
+
+### 💰 VINTED EMPIRE (updated with shoes + coats + trousers + skirts + Widdle):
+
+**Previously listed (tops, jumpers, dresses):** ~£419
+**Skirts:** ~£10
+**Trousers:** ~£35
+**Coats/Jackets:** ~£108
+**Shoes:** ~£207
+
+**TOTAL VINTED EMPIRE: ~£779**
+
+**Widdle buying (off £739 debt):** £109 in clothes + £100 cash = £209 paid. **Remaining: £530**
+
+### 🏪 CHARITY SHOP PILE (20+ pieces):
+Tops (8), jumpers (5), dress (1), shacket (1), shorts (2), linen trousers (1), plus previous pieces
+
+### 🗑️ BIN: 5 pieces (stained/manky beyond saving)
+
+### 👑 THE IRIS & OLIVIA COLLECTION — The pieces that MATTER:
+The wardrobe is no longer a random collection of "stuff." It's a CURATED capsule being built piece by piece toward a 70s Soft Autumn wildflower dream. Every keep has a PURPOSE. Every goal piece has a PLAN. Every Vinted piece FUNDS the next chapter. 🌻🍂🌲💛
+
