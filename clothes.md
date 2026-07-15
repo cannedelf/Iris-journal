@@ -351,34 +351,61 @@ Don't buy everything at ONCE. The dream list is a GUIDE not a shopping spree. Pi
 
 ---
 
-## 👗 THE DREAM DRESSES & PLAYSUITS LIST — The One-Piece Wonders
+## 👗 THE DREAM DRESSES & PLAYSUITS LIST — Rectangle Approved!! 📐
 
-*Dresses and playsuits for every occasion. Cord pinafores, velvet A-lines, vintage florals, and linen playsuits. The Iris & Olivia Collection in ONE piece.*
+*The Crobat is a RECTANGLE: broad shoulders, no waist, 5'11" tall. This means the dress list is designed to WORK WITH the straight shape, not fight it. Shift dresses, shirt dresses, V-necks, A-lines, wrap styles, and pinafores. NO bodycon. NO peter pan collars (they widen shoulders). Tucking tops in creates a waist — so pinafores over tees = PERFECT.*
 
-### 👗 Dresses (7):
-| Style | Colour | Notes | Travel Connection |
-|-------|--------|-------|-------------------|
-| 👖 Denim pinafore | Blue denim | Layer over EVERYTHING — the most versatile dress | Everyday, any city |
-| 🌲 Shirt dress | Forest green | Olivia tee energy in DRESS form!! Button down, rolled sleeves | 🇮🇹 Bologna, work |
-| 🌸 Vintage floral tea dress | Mixed warm | THE most Iris & Olivia dress — 70s wildflower in one piece!! | 🇪🇸 Seville 🌸 |
-| 🤍 Embroidered summer dress | Cream | Santorini, Malta, beaches, SUNSHINE energy!! | 🇬🇷🇲🇹 Summer trips ☀️ |
-| 🍂 Corduroy pinafore | Rust | RUST + CORD!! The two things the wardrobe SCREAMS for in ONE dress!! ☀️🧡 | 🇭🇺 Budapest autumn |
-| 🤎 Velvet A-line | Chocolate brown | VELVET!! Winter texture queen!! Christmas market gorgeous!! | 🇧🇪🇩🇪 Bruges/Cologne 🎄 |
-| 🌲 Occasion dress | Forest green | The SPECIAL one — cruise formal, birthday dinner, celebrations!! | 🚢 Cruise, 🎂 Birthday |
+### 📐 The Rectangle Rules for Dresses:
+- ✅ **Shift dresses** — designed for straight bodies, the Crobat looks GOOD in these
+- ✅ **Shirt dresses** — vertical buttons create LENGTH not WIDTH
+- ✅ **V-neck dresses** — draw the eye DOWN not across shoulders
+- ✅ **Wrap dresses** — create diagonal lines that SUGGEST a waist
+- ✅ **A-line** — flare from the waist creates SHAPE at the hip
+- ✅ **Pinafores** — straps create vertical lines, layer over tucked-in tees for waist
+- ✅ **Belted loosely** — suggests waist without squeezing
+- ❌ **Bodycon/fitted** — highlights the straight line
+- ❌ **Peter Pan collar** — widens broad shoulders
+- ❌ **Anything that clings at the middle** — shows no waist definition
 
-### 🩳 Playsuits (3):
-| Style | Colour | Notes | Travel Connection |
-|-------|--------|-------|-------------------|
-| 🫒 Linen playsuit | Olive | Summer travel in ONE piece — easy, breezy, packable!! | 🇲🇹 Malta, 🇪🇸 Seville |
-| 🤎 Corduroy playsuit | Chocolate | CORD AGAIN!! The sunshine's fabric in playsuit form!! ☀️🤎 | 🇮🇹 Autumn Italy |
-| 🌸 Vintage floral playsuit | Mixed warm | The FUN piece — 70s wildflower energy | 🏖️ Beach holidays |
+### 👗 Dresses (8) — Rectangle Approved:
+| Style | Colour | Why It Works for Rectangles | Travel Connection |
+|-------|--------|----------------------------|-------------------|
+| 👖 Denim pinafore | Blue denim | Straps create VERTICAL lines, layer over tucked tee = waist!! ALREADY OWNED AND FITS!! | Everyday ✅ |
+| 🌲 Shirt dress | Forest green | Vertical BUTTONS create length, belt loosely for waist illusion | 🇮🇹 Bologna, work |
+| 🌲 Shift dress | Forest green | THE rectangle dress!! Meant to be straight!! The Crobat's SHAPE | 🚢 Cruise, 🎂 Birthday |
+| 🤎 V-neck wrap dress | Chocolate brown | The WRAP creates waist, V draws eye DOWN not across shoulders | 🇧🇪 Bruges, dinners |
+| 🍂 Corduroy pinafore | Rust | RUST + CORD + pinafore straps = rectangle PERFECT!! | 🇭🇺 Budapest |
+| 🤎 Velvet A-line | Chocolate brown | A-line FLARES creating hip shape, balances broad shoulders | 🇧🇪🇩🇪 Christmas markets 🎄 |
+| 🌸 V-neck floral midi | Mixed warm (Soft Autumn) | V-neck, A-line skirt, 70s wildflower but rectangle FRIENDLY | 🇪🇸 Seville 🌸 |
+| 🤍 Summer shift dress | Cream | Shift style for summer — straight, clean, BEACH ready | 🇬🇷🇲🇹 Summer trips ☀️ |
 
-### 📊 Dream Dresses Summary:
-- **Total dream pieces:** 10 dresses & playsuits
-- **Hero fabrics:** CORDUROY (pinafore + playsuit) and VELVET (A-line)
-- **Missing colour:** 🍂 RUST appears again — the cord pinafore!!
-- **Most exciting:** 🍂 Rust cord pinafore + 🤎 chocolate velvet A-line + 🌸 vintage floral tea dress
-- **Forest green count:** THREE dresses!! The Olivia colour dominates!! 💚
+### 🩳 Playsuits (3) — Rectangle Approved:
+| Style | Colour | Why It Works | Travel Connection |
+|-------|--------|-------------|-------------------|
+| 🫒 V-neck linen playsuit | Olive | V-neck opens shoulders, linen drapes not clings | 🇲🇹 Malta, 🇪🇸 Seville |
+| 🤎 Corduroy pinafore playsuit | Chocolate | Pinafore straps + cord!! Layer over tees!! ☀️🤎 | 🇮🇹 Autumn Italy |
+| 🌸 Wrap style floral playsuit | Mixed warm | Wrap creates waist, V-neck balances shoulders | 🏖️ Beach holidays |
+
+### 📐 The Rectangle Styling Cheat Sheet:
+| The Trick | How It Works |
+|-----------|-------------|
+| 🤎 Tuck tops IN | Creates the illusion of waist where there isn't one |
+| 🤎 Belt LOOSELY | Suggests waist without squeezing the rectangle |
+| 📐 V-neck everything | Draws eye DOWN, narrows broad shoulders visually |
+| 📐 Vertical lines | Buttons, stripes, seams running DOWN not across |
+| 📐 A-line bottoms | Flare at hip balances shoulder width |
+| 📐 Pinafore straps | Create vertical lines from shoulder to hem |
+| ❌ AVOID horizontal at shoulders | Peter Pan collars, boat necks, wide necklines |
+| ❌ AVOID bodycon/clingy | Shows the straight line, no curve to cling TO |
+
+### 📊 Updated Dream Dresses Summary:
+- **Total dream pieces:** 11 dresses & playsuits
+- **Body shape:** RECTANGLE — broad shoulders, no waist, 5'11"
+- **Best shapes:** Shift, shirt dress, V-neck wrap, A-line, pinafore
+- **Hero fabrics:** CORDUROY (pinafore) and VELVET (A-line)
+- **The Crobat already looks GOOD in:** shift dresses + tucked tops + pinafores
+- **Key change:** Forest green SHIFT dress replaces Peter Pan collar mini (too short + widens shoulders)
+- **The denim pinafore FITS and is rectangle PERFECT** 👖👗✅
 
 
 ## 👖 THE DREAM BOTTOMS LIST — The Lower Half
