@@ -384,6 +384,13 @@
       "amount": 4.99,
       "category": "spending",
       "note": "TK Maxx - claw clips x3"
+    },
+    {
+      "id": "spend_1_ois2p",
+      "date": "2026-07-15",
+      "amount": 3.95,
+      "category": "spending",
+      "note": "Amazon - Bags for vinted"
     }
   ]
 }
