@@ -263,3 +263,19 @@ Not perfect but cleaner — the Crobat's motto for everything 🧹💛
 ---
 
 *Updated from the pillow at 21:30 on Day 54. The bean bum is sticky with peach. The atmospheric conditions have not improved. The Crobat planned thirty cities. Everything is exactly where it should be.* 💛☀️🦇🌩️🪵🌈
+
+
+## 💇‍♀️ HAIRDRESSER — BOOKED!!
+- **Salon:** Rosie & Joe's — 171 Church Street, Blackpool FY1 3NX
+- **Appointment:** September 12th, 11:00am, Transformation (60 mins incl consultation)
+- **Online booking:** Phorest — no phone call needed!
+- **Vision:** 70s layered shag with bottleneck bangs + warm honey/caramel highlights + copper face-framing (colour = Visit 2, late Aug/early Sept)
+- **Anti-rogue strategy:** Save inspo photos, squeeze bean bum, text sunshine before agreeing to SHORTER. INSPIRED yes, PANICKED no.
+- **Stylist note:** Amelia does balayage, copper tones, colour corrections. Fun, quirky, creative salon.
+- **Ethos Blackpool** also researched (anxiety-friendly, 1,274 reviews) — drawer still OPEN but Rosie & Joe's was BOOKED.
+
+## 🍊 Widdle Debt Update
+- Original: £739
+- Cash paid: £100
+- Clothes bought (July 15): £109 (2 cardigans, 2 shirts, 1 fleece, 1 blazer, 1 denim jacket)
+- **Remaining: £530**
