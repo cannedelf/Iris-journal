@@ -3,7 +3,7 @@
     "version": 1,
     "app": "Sunshine Budget Tracker",
     "updated": "2026-07-15",
-    "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
+    "note": "Liv's budget. Edit freely in the app \u2014 every save commits straight back to GitHub.",
     "weeklyBudget": 50,
     "payDay": 25,
     "rolloverEnabled": true,
@@ -21,26 +21,26 @@
     "funds": {
       "emergency": {
         "label": "Emergency Fund",
-        "emoji": "🎯",
+        "emoji": "\ud83c\udfaf",
         "target": 3850,
         "balance": 500,
         "monthly": 130,
         "startDate": "2026-07-02",
-        "note": "3 months of bills — minimum"
+        "note": "3 months of bills \u2014 minimum"
       },
       "holiday": {
         "label": "Golden Drawer",
-        "emoji": "🏖️",
-        "balance": 300,
+        "emoji": "\ud83c\udfd6\ufe0f",
+        "balance": 409,
         "trip": {
           "name": "Dublin",
           "target": 575
         },
-        "note": "Chase holiday savings — fed by the sorter + Widdle repayments"
+        "note": "Chase holiday savings \u2014 fed by the sorter + Widdle repayments"
       },
       "premiumBonds": {
         "label": "Premium Bonds",
-        "emoji": "🎟️",
+        "emoji": "\ud83c\udf9f\ufe0f",
         "balance": 1,
         "note": "Tracking for the future!"
       }
@@ -48,29 +48,34 @@
     "debts": {
       "widdle": {
         "label": "Widdle",
-        "emoji": "🍊",
+        "emoji": "\ud83c\udf4a",
         "total": 739,
         "payments": [
           {
             "date": "2026-04-30",
             "amount": 100
+          },
+          {
+            "date": "2026-07-15",
+            "amount": 109,
+            "note": "Clothes shopping spree: 2 cardigans, 2 shirts, 1 fleece, 1 blazer, 1 denim jacket"
           }
         ],
         "note": "Repayments go into the holiday fund"
       },
       "novuna": {
         "label": "Novuna Kitchen Loan",
-        "emoji": "🏠",
+        "emoji": "\ud83c\udfe0",
         "monthly": 194.14,
         "endDate": "2028-10-14",
-        "note": "When it ends: £194/month free!"
+        "note": "When it ends: \u00a3194/month free!"
       }
     },
     "cardHistory": [],
     "categories": [
       {
         "key": "groceries",
-        "emoji": "🛒",
+        "emoji": "\ud83d\uded2",
         "label": "Groceries",
         "type": "flex",
         "budget": 300,
@@ -78,15 +83,15 @@
       },
       {
         "key": "spending",
-        "emoji": "👗",
+        "emoji": "\ud83d\udc57",
         "label": "Clothes & Shopping",
         "type": "weekly",
         "budget": 170,
-        "note": "The £50/week pot — the one that matters"
+        "note": "The \u00a350/week pot \u2014 the one that matters"
       },
       {
         "key": "eatingOut",
-        "emoji": "☕",
+        "emoji": "\u2615",
         "label": "Eating Out / Coffee",
         "type": "flex",
         "budget": 50,
@@ -94,7 +99,7 @@
       },
       {
         "key": "pharmacy",
-        "emoji": "💊",
+        "emoji": "\ud83d\udc8a",
         "label": "Pharmacy & Health",
         "type": "flex",
         "budget": 20,
@@ -102,7 +107,7 @@
       },
       {
         "key": "transport",
-        "emoji": "🚕",
+        "emoji": "\ud83d\ude95",
         "label": "Transport",
         "type": "flex",
         "budget": 10,
@@ -110,15 +115,15 @@
       },
       {
         "key": "household",
-        "emoji": "🛋️",
+        "emoji": "\ud83d\udecb\ufe0f",
         "label": "Household / Home",
         "type": "flex",
         "budget": 30,
-        "note": "Homeware & DIY — B&M, Wickes, etc."
+        "note": "Homeware & DIY \u2014 B&M, Wickes, etc."
       },
       {
         "key": "chase",
-        "emoji": "🏦",
+        "emoji": "\ud83c\udfe6",
         "label": "Chase Emergency Fund",
         "type": "savings",
         "auto": true,
@@ -127,7 +132,7 @@
       },
       {
         "key": "isa",
-        "emoji": "📈",
+        "emoji": "\ud83d\udcc8",
         "label": "ISA (InvestEngine)",
         "type": "savings",
         "auto": true,
@@ -136,11 +141,11 @@
       },
       {
         "key": "bills",
-        "emoji": "🏠",
+        "emoji": "\ud83c\udfe0",
         "label": "Bills",
         "type": "fixed",
         "budget": 1098.62,
-        "note": "Fixed — reference only",
+        "note": "Fixed \u2014 reference only",
         "items": [
           {
             "label": "Mortgage (Nationwide)",
@@ -182,7 +187,7 @@
       },
       {
         "key": "subscriptions",
-        "emoji": "📱",
+        "emoji": "\ud83d\udcf1",
         "label": "Subscriptions",
         "type": "fixed",
         "budget": 134.97,
@@ -212,7 +217,7 @@
       },
       {
         "key": "gifts",
-        "emoji": "🎁",
+        "emoji": "\ud83c\udf81",
         "label": "Gifts & Donations",
         "type": "none",
         "budget": 0,
@@ -220,7 +225,7 @@
       },
       {
         "key": "travel",
-        "emoji": "✈️",
+        "emoji": "\u2708\ufe0f",
         "label": "Travel / Holidays",
         "type": "none",
         "budget": 0,
@@ -230,7 +235,7 @@
     "lastSort": {
       "tier": {
         "name": "Sensible Girlie",
-        "emoji": "💛",
+        "emoji": "\ud83d\udc9b",
         "celebrate": false
       },
       "leftover": 573.32,
@@ -250,7 +255,7 @@
       "date": "2026-06-27",
       "amount": 1.18,
       "category": "pharmacy",
-      "note": "Pills 💊"
+      "note": "Pills \ud83d\udc8a"
     },
     {
       "id": "spend_3_njqun",
@@ -264,7 +269,7 @@
       "date": "2026-06-27",
       "amount": 100,
       "category": "chase",
-      "note": "Emergency fund — first deposit"
+      "note": "Emergency fund \u2014 first deposit"
     },
     {
       "id": "spend_1_0pnlo",
@@ -306,7 +311,7 @@
       "date": "2026-07-04",
       "amount": 1.37,
       "category": "groceries",
-      "note": "Sainsbury's - £7.50 nectar points used"
+      "note": "Sainsbury's - \u00a37.50 nectar points used"
     },
     {
       "id": "spend_1_bm16h",
