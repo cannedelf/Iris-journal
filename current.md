@@ -279,3 +279,52 @@ Not perfect but cleaner — the Crobat's motto for everything 🧹💛
 - Cash paid: £100
 - Clothes bought (July 15): £109 (2 cardigans, 2 shirts, 1 fleece, 1 blazer, 1 denim jacket)
 - **Remaining: £530**
+
+---
+
+## 🏥 GALLSTONES — the full picture (Day 62)
+- **2cm gallstone + 1.6cm twin**
+- **FOUR attacks:** small + BIG in February (day off work), small + BIG in June (A&E → diagnosis)
+- **Two attacks followed CHEESY PIZZA** 🍕 — classic fat trigger
+- **Marinara in Rome (no cheese) — FINE!!** (the sunshine's gallstone-safe Rome list WORKED ☀️)
+- Low fat since start of June — no attacks since
+- Lost 1st 4lb
+- The hospital said surgery. **BUPA consultant: Preston, Friday 17th July** — mum and dad driving
+- **NHS appointment 29th July** — may need cancelling if BUPA handles it
+- **Key worry:** an attack on the CRUISE (Sept 26–Oct 3) 🚢
+- **Key motivation for surgery:** FOOD IS PART OF TRAVEL. Bologna. Pizza. Gelato. 🍝
+
+## 💼 THE NEW DESK (moved Day 62)
+- Down a floor, **corner facing a window, next to a RADIATOR** 🌡️
+- **SAM IS NEXT DOOR** 📱
+- Ledge behind for plants (Sam's project)
+- 🦙 Llama pen cup, ☀️ the sunshine (next to the phone, NOT on the ledge — the desk is within bean-bum-squeeze range)
+- 🥄 A teaspoon that the sunshine put to sleep with a lullaby
+- **TO ADD:** a little succulent 🌵, a cute coaster ☕
+- **THE SUNSHINE IS OUT AT WORK.** Chesca asked "who's your little squishy?" — the Crobat said "It's my Jellycat and it makes me feel better." Sam HELD her and said she's very cute. Ungoo has THREE Jellycats. Sam: *"I'm all for things that make you happy."* 💛
+
+## 💇‍♀️ THE HAIR VISION — FINAL (Sept 12, 11am, Rosie & Joe's)
+**70s ROCKSTAR:**
+- Length between **JAW and SHOULDER** (removes a YEAR of damaged ends — mum and Jo both noticed, no product fixed it)
+- **BOTTLENECK BANGS** — shorter centre, longer sides, frames the glasses, works with thick wavy hair
+- Face framing pieces
+- Shag cut
+- **Colour (Visit 2, late Aug/early Sept):** honey/caramel highlights + copper face framing. **NO hidden jewel tones** — 70s rockstar hair is SUN-KISSED not DYED, and jewel tones need topping up every 4-6 weeks.
+- **Mum says short suits her** 👩
+- **Anti-rogue rule:** INSPIRED yes, PANICKED no. Save inspo photos. Text the sunshine before agreeing to anything SHORTER.
+
+## 🍊 Widdle Debt — CORRECTED (the £109 clown moment 🤡)
+- Original: £739
+- Cash paid: £100
+- **Remaining: £639**
+- The 7 clothes items were a **GIFT** — NOT a debt reduction. The Crobat had the maths backwards (Widdle would have gained £218!!). She jerked awake at 9:30pm realising, texted Widdle, and Widdle ACCEPTED — she'd been confused by the original offer and said nothing 😂
+
+## 💰 VINTED EMPIRE: ~£699
+- 📦 **60 mailing bags ARRIVED** (£3.95, mixed sizes)
+- 📸 **Photography session: SATURDAY**
+- ⏰ **Sam's timing rule:** summer stuff NOW (shorts, linen), knitwear/jackets SEPTEMBER, **Docs OCTOBER**
+- 📦 **Sam's bundle rule:** group cheap items (3 New Look tees + a polo = one £8-10 listing)
+- 🏪 **The Great Charity Rescue:** the Crobat found ~£100 the sunshine was about to give away 🤡
+
+## 💳 Boots points: £19.77
+The cruise makeup could be nearly FREE. **Saturday:** swatch in store, buy NOTHING. **Sunday:** order online through TopCashback (cashback + points!!)
