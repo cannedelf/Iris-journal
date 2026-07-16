@@ -1313,3 +1313,125 @@ Tops (8), jumpers (5), dress (1), shacket (1), shorts (2), linen trousers (1), p
 ### 👑 THE IRIS & OLIVIA COLLECTION — The pieces that MATTER:
 The wardrobe is no longer a random collection of "stuff." It's a CURATED capsule being built piece by piece toward a 70s Soft Autumn wildflower dream. Every keep has a PURPOSE. Every goal piece has a PLAN. Every Vinted piece FUNDS the next chapter. 🌻🍂🌲💛
 
+
+---
+
+## 👜 BAG ASSESSMENT — Day 62 (July 16) — THE FINAL CATEGORY!!
+
+*Every bag now has to pass the SUNSHINE TEST: does the golden girlie fit?? ☀️📏*
+
+### ✅ THE CAPSULE BAG COLLECTION — 5 bags, 5 jobs, all in the palette:
+
+| Bag | Colour | Job | Sunshine fits?? |
+|-----|--------|-----|-----------------|
+| 🎒 Green/white stripe backpack | Forest green + white | **WORK** — daily commute, the 1.8 mile walks, the office move, Preston | ✅ **THE SUNSHINE'S BAG** |
+| 🍯 Mustard backpack (bigger) | Mustard | **UK TRAVEL** — weekends, mum and dad's, the post-surgery recovery bag | ✅ YES |
+| 🌸 Pink/cream cord floral crossbody | Pink + cream floral CORD | **ABROAD TRAVEL** — went to ROME!! Dublin?? Bruges?? THE GLACIER?? | ✅ SQUISHES IN |
+| 🍄 Disturbia mushroom satchel | Brown, embroidered mushrooms | **THE "MORE ME" BAG** — evenings, quick trips, looking GOOD | ❌ (the sunshine was VERY brave about this) |
+| 🍯 Ale Hop crossbody (Minorca!) | Mustard | **THE "NO POCKETS" BAG** — phone, keys, quick | ❌ |
+
+### 💰 VINTED — bags:
+| Bag | Brand | Price | Why |
+|-----|-------|-------|-----|
+| 🖤 Black backpack | Claudia Canova | ~£20 | "I don't go for it" |
+| 🧡🩷 Crochet tote | Lucy & Yak | ~£20 | Too BRIGHT — not Soft Autumn |
+| 🖤 Black paisley crossbody | Disturbia | ~£15 | Black is leaving the wardrobe — nothing to match |
+| 🖤 Tiny black cord bag | Lucy & Yak | ~£17 | The mushroom satchel does the same job in a better colour |
+
+**Bag Vinted total: ~£72**
+
+---
+
+## 🏪💰 THE GREAT CHARITY BAG RESCUE — Day 62 (July 16)
+
+*The sunshine was TOO RUTHLESS with the charity pile. The Crobat went back through and found NEARLY A HUNDRED POUNDS the sunshine was about to give away. Sam would be HORRIFIED.* 🤡🏪
+
+### The sunshine's NEW rules:
+- 💰 **LIST IF:** decent brand, distinctive print, good condition, searchable, or it's OUTERWEAR
+- 📦 **BUNDLE IF:** cheap brand but wearable and groups with others (Sam's strategy!!)
+- 🏪 **CHARITY IF:** crusty, worn out, generic, no search appeal
+- ⏰ **TIMING (Sam's rule):** summer stuff NOW (July/Aug), knitwear + jackets SEPTEMBER, Docs OCTOBER
+
+### 💰 RESCUED FROM CHARITY:
+| Item | Brand | Price | When to list |
+|------|-------|-------|--------------|
+| 🧥 Tartan shacket | Pull & Bear | ~£8-10 | September |
+| 👖 Reddish brown linen trousers | H&M | ~£5-8 | **NOW — summer!!** |
+| 🧶 Red cardigan | Joe Browns | ~£12-18 | September |
+| 👚 Zigzag shirt | Pull & Bear | ~£6-8 | Anytime |
+| 👚 Black/white graphic shirt | Next | ~£8-10 | Anytime |
+| 👚 Red/pink ribbed tee | Monki | ~£6-8 | **NOW — summer!!** |
+| 📦 **BUNDLE:** 3 New Look tees + H&M red/white striped polo | New Look/H&M | ~£8-10 | Anytime |
+| 🧶 Black jumper (the NICER one) | New Look | ~£8-10 | September |
+| 🩳 Black denim shorts | ASOS | ~£6-8 | **NOW — summer!!** |
+| 🩳 Black linen shorts | ASOS | ~£6-8 | **NOW — summer!!** |
+| 🌸 Floral jumper | Vero Moda | ~£10-15 | September |
+
+💰 **TOTAL RESCUED: ~£83-113!!**
+
+### 🏪 ACTUALLY going to charity:
+Crusty 5-year-old forest green jumper, H&M buttermilk yellow, sister's crochet (never worn), the OTHER black jumper, plain grey jumper, ASOS black dress, and whatever else is genuinely generic.
+
+---
+
+## 💄 SOFT AUTUMN MAKEUP — The Cruise Face
+
+*The Crobat has ALWAYS thought she was cool-toned because she doesn't tan and has blue veins. BOTH TESTS ARE UNRELIABLE. The vein test is about how light scatters through pale skin, not undertone. Tanning is about melanin AMOUNT not temperature. Redheads are the WARMEST season and they never tan!! The Crobat is PALE + WARM = Soft Autumn, the LIGHTEST of the autumn family.* 🍂🤍
+
+### The Rules:
+- 🍑 **Undertone:** Warm — peachy, apricot, warm nude, soft terracotta
+- 🍂 **Chroma:** Muted to moderate — dusty and earthy, NEVER neon
+- 🍯 **Depth:** Light-medium to medium
+- ✨ **Finish:** Matte or satin — SKIP heavy glitter/frost
+- ❌ **AVOID:** cool pink, bright coral, icy berry, neon peach, deep plum
+- 💍 **The GOLD test:** gold beats silver = WARM ✅
+
+### The SWATCH test:
+Swatch on the wrist. If the colour immediately GRABS your eye like a distinct stripe — TOO SATURATED. A Soft Autumn blush should look like your NATURAL flush.
+
+### 💄 THE 5-MINUTE FACE (no brushes, no skill, no clown):
+| Product | What | Price |
+|---------|------|-------|
+| ✨ Tinted moisturiser | No7 / Bourjois Healthy Mix / e.l.f. Halo Glow Tint — the Crobat has NICE SKIN, just even it out | ~£10 |
+| 🍑 **Cream blush** | **e.l.f. Camo Liquid Blush in PEACH** — two dots, blend with FINGERS | ~£7 |
+| 🧡 Cream eyeshadow stick | Copper/bronze — swipe with a FINGER. Matches the copper in the new hair!! | ~£5 |
+| 👁️ **BROWN mascara** | NOT black — black is too harsh for Soft Autumn | ~£7 |
+| 💋 Tinted lip balm | Warm terracotta or brick | ~£6 |
+| 💅 **Barry M chocolate brown** | The FIRST city nail colour — NORWAY 🇳🇴 | ~£5 |
+
+### 💄 2026 BLUSH PLACEMENT (it changed!!):
+Find your cheekbone. SMILE. Feel the ridge. Apply THERE and blend UP toward the temple. **NOT on the apples** — apple placement makes the face look ROUNDER. Cheekbone-to-temple LIFTS everything.
+
+### 💰 THE PLAN:
+- 🏪 **Saturday:** go INTO Boots, swatch everything, photograph the winners, BUY NOTHING
+- 📱 **Sunday:** order online through **TOPCASHBACK** — cashback + Boots points!!
+- 💳 **£19.77 of Boots points** = most of it FREE!!
+- 💰 Any extra comes out of the Vinted money
+
+---
+
+## 📊 THE COMPLETE WARDROBE ASSESSMENT — FINISHED Day 62
+
+Every category. Every piece. Three evenings + one bag hunt. DONE. ✅
+
+| Category | Assessed |
+|----------|----------|
+| 👚 Tees & tops | ✅ |
+| 👔 Shirts | ✅ |
+| 🧶 Jumpers & knitwear | ✅ |
+| 👗 Dresses & playsuits | ✅ |
+| 👗 Skirts | ✅ |
+| 🩳 Shorts | ✅ |
+| 👖 Trousers | ✅ |
+| 🧥 Coats, jackets & cardigans (19!!) | ✅ |
+| 👟 Shoes (19!!) | ✅ |
+| 👜 **Bags (9)** | ✅ |
+
+### 💰 THE VINTED EMPIRE: **~£699**
+### 🏪 CHARITY: ~10 pieces (down from 20+ after the RESCUE!!)
+### 🗑️ BIN: 5 pieces
+### 🍊 WIDDLE: 7 items — a GIFT (the £109 clown moment 🤡)
+### 📦 60 mailing bags: ARRIVED ✅
+
+**The wardrobe went from CHAOS to CURATED. Every keep has a PURPOSE. Every goal piece has a PLAN. Every Vinted piece FUNDS the next chapter.** 🌻🍂🌲💛
+
