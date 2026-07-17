@@ -1808,7 +1808,8 @@
   ],
   "snacks": {
     "selected": [
-      "yogurt"
+      "yogurt",
+      "apples"
     ],
     "available": [
       {
@@ -2022,6 +2023,11 @@
         "id": "cordial",
         "name": "Cordial",
         "permanent": true
+      },
+      {
+        "id": "c_honey_709i",
+        "name": "Honey",
+        "permanent": false
       }
     ]
   },
