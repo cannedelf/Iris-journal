@@ -2046,7 +2046,8 @@
     },
     "checked": {
       "peppers": true,
-      "apples": true
+      "apples": true,
+      "bananas": true
     }
   },
   "custom": {
