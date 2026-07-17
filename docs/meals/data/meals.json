@@ -2045,7 +2045,8 @@
       "sesame_seeds": true
     },
     "checked": {
-      "peppers": true
+      "peppers": true,
+      "apples": true
     }
   },
   "custom": {
