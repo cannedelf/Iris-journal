@@ -2031,7 +2031,9 @@
       "ground_ginger": true,
       "honey": true,
       "harissa": true,
-      "liquid_smoke": true
+      "liquid_smoke": true,
+      "msg": true,
+      "olive_oil": true
     },
     "checked": {}
   },
