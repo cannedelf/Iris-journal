@@ -2028,6 +2028,11 @@
         "id": "c_honey_709i",
         "name": "Honey",
         "permanent": false
+      },
+      {
+        "id": "c_oat_milk_e4zx",
+        "name": "Oat milk",
+        "permanent": false
       }
     ]
   },
