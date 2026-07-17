@@ -2034,7 +2034,8 @@
       "liquid_smoke": true,
       "msg": true,
       "olive_oil": true,
-      "stock_cube": true
+      "stock_cube": true,
+      "sugar": true
     },
     "checked": {}
   },
