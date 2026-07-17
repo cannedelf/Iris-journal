@@ -2016,7 +2016,9 @@
     "have": {
       "tinned_butter_beans": 1
     },
-    "got": {},
+    "got": {
+      "rice": true
+    },
     "checked": {}
   },
   "custom": {
