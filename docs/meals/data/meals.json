@@ -2043,6 +2043,11 @@
         "id": "c_brown_paper_bful",
         "name": "Brown paper",
         "permanent": false
+      },
+      {
+        "id": "c_toothpaste_qyji",
+        "name": "Toothpaste",
+        "permanent": false
       }
     ]
   },
