@@ -2058,7 +2058,8 @@
       "tinned_tomatoes": true,
       "tinned_black_beans": true,
       "tinned_butter_beans": true,
-      "onions": true
+      "onions": true,
+      "garlic": true
     }
   },
   "custom": {
