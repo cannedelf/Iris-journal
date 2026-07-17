@@ -71,15 +71,36 @@ function mealLine(slotId, slotLabel) {
     </button>`;
 }
 
+// Week 1 / Week 2 segmented toggle.
+function weekSwitch() {
+  const active = store.activeWeekKey;
+  const btns = store.weekList().map(w =>
+    `<button class="wk-btn ${w.key === active ? 'on' : ''}" data-week="${esc(w.key)}">${esc(w.short)}</button>`).join('');
+  return `<div class="week-switch">${btns}</div>`;
+}
+
+// Day label(s) for a recipe: days in the active week, else which other week it lives in.
+function recipeDays(id) {
+  const inWeek = wk => DAYS.filter(d => {
+    const p = (store.data.weeks[wk] && store.data.weeks[wk].mealPlan[d]) || {};
+    return p.breakfast === id || p.lunch === id || p.dinner === id;
+  });
+  const active = store.activeWeekKey;
+  const days = inWeek(active).map(d => DAY_LABEL[d].slice(0, 3));
+  if (days.length) return days.join(' · ');
+  for (const w of store.weekList()) { if (w.key !== active && inWeek(w.key).length) return w.short; }
+  return '';
+}
+
 function viewHome() {
   const now = today();
   const k = dayKey(now);
-  const plan = store.data.mealPlan[k] || {};
+  const plan = store.mealPlan[k] || {};
   const tub = tubTonight(store.data, now);
   const list = buildShoppingList(store.data);
 
   const weekGrid = DAYS.map(d => {
-    const p = store.data.mealPlan[d] || {};
+    const p = store.mealPlan[d] || {};
     const dn = store.resolveMeal(p.dinner);
     const isToday = d === k;
     return `<button class="wk-cell ${isToday ? 'today' : ''}" data-go="plan">
@@ -95,6 +116,8 @@ function viewHome() {
       <p class="hero-label">Today — ${DAY_LABEL[k]}</p>
       <h2 class="hero-title">Here's your day, sunshine</h2>
     </div>
+
+    ${weekSwitch()}
 
     <div class="card today-card">
       ${mealLine(plan.breakfast, 'Breakfast')}
@@ -121,11 +144,11 @@ function viewHome() {
 
 function viewPlan() {
   const k = dayKey(today());
-  const conns = store.data.connections || [];
+  const conns = store.connections || [];
   const connFor = day => conns.find(c => c.fromDay === day);
 
   const days = DAYS.map(d => {
-    const p = store.data.mealPlan[d] || {};
+    const p = store.mealPlan[d] || {};
     const conn = connFor(d);
     return `
     <div class="day-card ${d === k ? 'today' : ''}">
@@ -140,6 +163,7 @@ function viewPlan() {
   return `
   <section class="screen plan">
     <h2 class="screen-title">📅 The week — Sat to Fri</h2>
+    ${weekSwitch()}
     <p class="hint">Tap any meal with a › to open the recipe. The ↩ arrows show the cook-once-eat-twice links.</p>
     ${days}
   </section>`;
@@ -150,17 +174,13 @@ function viewRecipes() {
   const cards = store.data.recipes
     .filter(r => (r.ingredients || []).length)
     .map(r => {
-      // which day(s) is it assigned to?
-      const days = DAYS.filter(d => {
-        const p = store.data.mealPlan[d] || {};
-        return p.breakfast === r.id || p.lunch === r.id || p.dinner === r.id;
-      }).map(d => DAY_LABEL[d].slice(0, 3));
+      const where = recipeDays(r.id);
       return `
       <button class="recipe-card" data-recipe="${esc(r.id)}">
         <span class="recipe-emoji">${r.emoji}</span>
         <div class="recipe-meta">
           <b>${esc(r.name)}</b>
-          <span>${days.length ? days.join(' · ') : 'this week'} · serves ${esc(String(r.servings))}</span>
+          <span>${where ? esc(where) + ' · ' : ''}serves ${esc(String(r.servings))}</span>
         </div>
         <span class="meal-go">›</span>
       </button>`;
@@ -169,6 +189,7 @@ function viewRecipes() {
   return `
   <section class="screen recipes">
     <h2 class="screen-title">🍳 Recipes</h2>
+    <p class="hint">Every recipe across both weeks. The tag shows which day (this week) or which other week it's in.</p>
     <div class="recipe-list">${cards}</div>
   </section>`;
 }
@@ -176,10 +197,7 @@ function viewRecipes() {
 function viewRecipe(id) {
   const r = store.recipe(id);
   if (!r) { state.recipeId = null; return viewRecipes(); }
-  const days = DAYS.filter(d => {
-    const p = store.data.mealPlan[d] || {};
-    return p.breakfast === id || p.lunch === id || p.dinner === id;
-  }).map(d => DAY_LABEL[d]);
+  const where = recipeDays(id);
 
   const ings = (r.ingredients || []).map(i => {
     const meta = sectionMeta(i.section);
@@ -199,7 +217,7 @@ function viewRecipe(id) {
     <div class="recipe-hero">
       <span class="recipe-hero-emoji">${r.emoji}</span>
       <h2>${esc(r.name)}</h2>
-      <p class="recipe-tags">Serves ${esc(String(r.servings))}${days.length ? ` · ${esc(days.join(', '))}` : ''}</p>
+      <p class="recipe-tags">Serves ${esc(String(r.servings))}${where ? ` · ${esc(where)}` : ''}</p>
     </div>
     ${r.fat ? `<div class="fat-note">🫶 ${esc(r.fat)}</div>` : ''}
     ${r.lunchNote ? `<div class="lunch-note">📦 ${esc(r.lunchNote)}</div>` : ''}
@@ -452,9 +470,10 @@ function wire() {
 }
 
 async function onAppClick(e) {
-  const t = e.target.closest('[data-go],[data-recipe],[data-back-recipes],[data-snack],[data-have-plus],[data-have-minus],[data-got],[data-check],[data-custom-pin],[data-custom-del],#btnGenerate,#btnToBuy,#btnBackCheck,#btnReset,#btnDone,#btnAddCustom,#setSave,#setResync,#dlBackup');
+  const t = e.target.closest('[data-go],[data-recipe],[data-back-recipes],[data-week],[data-snack],[data-have-plus],[data-have-minus],[data-got],[data-check],[data-custom-pin],[data-custom-del],#btnGenerate,#btnToBuy,#btnBackCheck,#btnReset,#btnDone,#btnAddCustom,#setSave,#setResync,#dlBackup');
   if (!t) return;
 
+  if (t.dataset.week) return onSwitchWeek(t.dataset.week);
   if (t.dataset.customPin) return onCustomPin(t.dataset.customPin);
   if (t.dataset.customDel) return onCustomDel(t.dataset.customDel);
 
@@ -482,6 +501,13 @@ async function onAppClick(e) {
 async function onSnack(id) {
   await save(store.toggleSnack(id), null);
   render();
+}
+
+async function onSwitchWeek(key) {
+  if (key === store.activeWeekKey) return;
+  await save(store.setActiveWeek(key), null);
+  render();
+  window.scrollTo(0, 0);
 }
 
 async function onAddCustom() {

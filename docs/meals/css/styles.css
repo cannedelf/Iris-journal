@@ -119,6 +119,11 @@ code { background: var(--cream-2); padding: 1px 6px; border-radius: 6px; font-si
 .wk-day { font-size: 10px; font-weight: 800; color: var(--ink-soft); text-transform: uppercase; }
 .wk-emoji { font-size: 20px; }
 
+/* ---------- week switch ---------- */
+.week-switch { display: flex; gap: 6px; background: var(--cream-2); border: 1.5px solid var(--line); border-radius: 14px; padding: 4px; }
+.wk-btn { flex: 1; border: none; background: none; border-radius: 11px; padding: 10px 6px; font-weight: 800; font-size: 14px; color: var(--ink-soft); }
+.wk-btn.on { background: var(--card); color: var(--gold-deep); box-shadow: 0 2px 8px rgba(120,95,50,.14); }
+
 /* ---------- plan view ---------- */
 .day-card { background: var(--card); border: 1.5px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 6px 14px 10px; }
 .day-card.today { border-color: var(--gold); box-shadow: 0 6px 18px rgba(230,169,31,.22); }

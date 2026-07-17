@@ -3,79 +3,9 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-07-11",
+    "updated": "2026-07-12",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
-  "mealPlan": {
-    "saturday": {
-      "breakfast": "weekend_free",
-      "lunch": "eggs_on_toast",
-      "dinner": "noodle_salad",
-      "shopping": true
-    },
-    "sunday": {
-      "breakfast": "eggs_on_toast",
-      "lunch": "noodle_salad_leftovers",
-      "dinner": "sweet_potato_chilli"
-    },
-    "monday": {
-      "breakfast": "porridge",
-      "lunch": "chilli_potato_tub",
-      "dinner": "shakshuka"
-    },
-    "tuesday": {
-      "breakfast": "porridge",
-      "lunch": "chilli_rice_tub",
-      "dinner": "arrabbiata"
-    },
-    "wednesday": {
-      "breakfast": "porridge",
-      "lunch": "arrabbiata_cold",
-      "dinner": "bruschetta"
-    },
-    "thursday": {
-      "breakfast": "porridge",
-      "lunch": "bruschetta_cold",
-      "dinner": "mexican_bowl"
-    },
-    "friday": {
-      "breakfast": "porridge",
-      "lunch": "mexican_bowl_cold",
-      "dinner": "quorn_pittas"
-    }
-  },
-  "connections": [
-    {
-      "from": "noodle_salad",
-      "fromDay": "saturday",
-      "toDay": "sunday",
-      "label": "Sat noodles → Sunday lunch"
-    },
-    {
-      "from": "sweet_potato_chilli",
-      "fromDay": "sunday",
-      "toDay": "monday",
-      "label": "Sun chilli → Monday potato tub (+ a Tuesday rice tub!)"
-    },
-    {
-      "from": "arrabbiata",
-      "fromDay": "tuesday",
-      "toDay": "wednesday",
-      "label": "Tue arrabbiata → Wednesday cold pasta"
-    },
-    {
-      "from": "bruschetta",
-      "fromDay": "wednesday",
-      "toDay": "thursday",
-      "label": "Wed bruschetta → Thursday desk lunch"
-    },
-    {
-      "from": "mexican_bowl",
-      "fromDay": "thursday",
-      "toDay": "friday",
-      "label": "Thu Mexican bowl → Friday tub (the BEST leftover!!)"
-    }
-  ],
   "derived": {
     "weekend_free": {
       "label": "Weekend — your call!",
@@ -122,36 +52,40 @@
       "emoji": "🥖",
       "of": "bruschetta",
       "note": "Tomato mix in one tub, bread separate — toast at work and pile it on!"
-    }
-  },
-  "tubSchedule": {
-    "saturday": {
-      "tub": true,
-      "text": "Scoop half the noodle salad into a tub for Sunday lunch (optional — Sunday can be snacky too)."
     },
-    "sunday": {
-      "tub": true,
-      "text": "Big batch tonight!! Potato + a third of the chilli in separate tubs for Monday. The chilli keeps, so you can prep Tuesday’s rice tub now too."
+    "open_lunch": {
+      "label": "Open — use things up",
+      "emoji": "🆓",
+      "note": "Whatever needs eating, leftovers, or grab something out."
     },
-    "monday": {
-      "tub": false,
-      "text": "NO TUB tonight — shakshuka doesn’t travel, and Tuesday’s chilli tub is already prepped!"
+    "orzo_tub": {
+      "label": "Orzo salad (tub)",
+      "emoji": "🧊",
+      "of": "orzo_salad",
+      "note": "Even better overnight."
     },
-    "tuesday": {
-      "tub": true,
-      "text": "Half the pasta straight into a tub for Wednesday — lid on, fridge."
+    "butterbean_tub": {
+      "label": "Butterbean stew (tub)",
+      "emoji": "📦",
+      "of": "butterbean_stew",
+      "note": "From Sunday's huge batch — better every day."
     },
-    "wednesday": {
-      "tub": true,
-      "text": "Tomato mix in ONE tub, bread SEPARATE — toast & assemble at your desk tomorrow!"
+    "butterbean_dinner2": {
+      "label": "Butterbean stew — round 2",
+      "emoji": "🫘",
+      "of": "butterbean_stew",
+      "note": "Same glorious batch, reheated."
     },
-    "thursday": {
-      "tub": true,
-      "text": "Half of everything — rice, beans, salsa, fresh bits — into a tub. The best one."
+    "paella_tub": {
+      "label": "Paella rice (tub)",
+      "emoji": "🍚",
+      "of": "veggie_paella"
     },
-    "friday": {
-      "tub": false,
-      "text": "NO TUB — WEEKEND!! 🎉 Shop tomorrow."
+    "stirfry_tub": {
+      "label": "Stir fry + rice (tub)",
+      "emoji": "🍜",
+      "of": "stir_fry",
+      "note": "Rice not noodles — stays lovely in a tub."
     }
   },
   "recipes": [
@@ -927,24 +861,41 @@
     },
     {
       "id": "bruschetta",
-      "name": "Tomato Bruschetta",
+      "name": "Tomato Bruschetta 👑",
       "emoji": "🥖",
       "servings": 2,
-      "fat": "Under 5g — just a tiny drizzle of olive oil 💛",
-      "lunchNote": "Tomato mix in ONE tub, bread SEPARATE — toast at work and assemble at your desk so it is not soggy!",
+      "fat": "~5g per portion 🪨",
+      "lunchNote": "Tomato mix in ONE tub, bread SEPARATE — toast at work, assemble at your desk. NEVER pre-assemble, it goes soggy!",
       "ingredients": [
+        {
+          "item": "tiger bloomer",
+          "emoji": "🍞",
+          "qty": "4 thick slices",
+          "amount": 1,
+          "unit": "loaf",
+          "section": "bakery"
+        },
         {
           "item": "cherry tomatoes",
           "emoji": "🍅",
-          "qty": "1 punnet — diced",
+          "qty": "10 — red, orange & yellow mix 🔴🟠🟡",
           "amount": 1,
           "unit": "punnet",
           "section": "fresh"
         },
         {
+          "item": "red onions",
+          "emoji": "🧅",
+          "qty": "¼ — finely diced",
+          "amount": 0,
+          "unit": "onion",
+          "section": "fresh",
+          "note": "¼ — use a spare onion"
+        },
+        {
           "item": "garlic",
           "emoji": "🧄",
-          "qty": "1 clove — finely chopped",
+          "qty": "1 clove — halved, rubbed on the hot toast",
           "amount": 1,
           "unit": "clove",
           "section": "fresh"
@@ -960,26 +911,45 @@
         {
           "item": "lemons",
           "emoji": "🍋",
-          "qty": "squeeze",
-          "amount": 1,
+          "qty": "½ — juiced through your fingers",
+          "amount": 0.5,
           "unit": "lemon",
           "section": "fruit"
         },
         {
-          "item": "bread",
-          "emoji": "🍞",
-          "qty": "4 slices / small baguette — toasted",
-          "amount": 0.4,
-          "unit": "loaf",
-          "section": "bakery"
-        },
-        {
           "item": "olive oil",
           "emoji": "🫒",
-          "qty": "tiny drizzle",
+          "qty": "1 tsp",
           "amount": 1,
           "unit": "bottle",
           "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "balsamic glaze",
+          "emoji": "🫒",
+          "qty": "to drizzle — THE upgrade",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "harissa",
+          "emoji": "🌶️",
+          "qty": "to streak (optional heat)",
+          "amount": 1,
+          "unit": "jar",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "MSG",
+          "emoji": "🧂",
+          "qty": "pinch",
+          "amount": 1,
+          "unit": "pack",
+          "section": "spices",
           "check": true
         },
         {
@@ -992,11 +962,14 @@
         }
       ],
       "steps": [
-        "🍅 Dice the cherry tomatoes, finely chop the garlic, tear the basil.",
-        "🥣 Mix with a squeeze of lemon, a tiny drizzle of olive oil, salt & pepper.",
-        "🍞 Toast the bread.",
-        "🥖 Pile the tomato mix on the toast — eat straight away.",
-        "📦 Lunch tub — tomato mix in ONE tub, bread SEPARATE. Toast at work and assemble at your desk!"
+        "🍅 TOMATO MIX FIRST: dice the tomatoes, finely dice the red onion, tear the basil. Squeeze the lemon in through your fingers (catches the seeds!). Salt, pepper, MSG. Stir.",
+        "⏰ LET IT SIT 10 MINUTES — the juices mingle. This is the whole trick.",
+        "🍞 Thick slices of tiger bloomer, drizzle with olive oil, under the grill.",
+        "🔥👀 WATCH IT — golden to burnt is about 30 seconds. Flip; the second side is faster.",
+        "🧄 THE MAGIC STEP: the second it's out, rub the cut garlic clove over the hot toast.",
+        "🍅 Pile the tomato mix HIGH. Drizzle balsamic glaze; streak of harissa if you want heat.",
+        "🍽️ EAT IMMEDIATELY.",
+        "📦 For the tub: tomato mix in ONE tub, bread SEPARATE. Toast & assemble at your desk."
       ]
     },
     {
@@ -1071,6 +1044,765 @@
         "🥙 Warm the pittas, split open.",
         "🥬 Stuff with shredded lettuce, tomatoes, cucumber, red onion.",
         "🍗 Pile in the sweet chilli Quorn. Done!!"
+      ]
+    },
+    {
+      "id": "orzo_salad",
+      "name": "Greek Orzo Salad",
+      "emoji": "🇬🇷",
+      "servings": 2,
+      "fat": "~5g per portion 🪨",
+      "lunchNote": "Sat dinner + Sun lunch — it gets BETTER overnight. 🧊 Half straight into a tub.",
+      "ingredients": [
+        {
+          "item": "orzo",
+          "emoji": "🍚",
+          "qty": "150g dry",
+          "amount": 150,
+          "unit": "g",
+          "section": "dry"
+        },
+        {
+          "item": "peppers",
+          "emoji": "🫑",
+          "qty": "1 — diced",
+          "amount": 1,
+          "unit": "pepper",
+          "section": "fresh"
+        },
+        {
+          "item": "cucumber",
+          "emoji": "🥒",
+          "qty": "¼ — diced",
+          "amount": 0.25,
+          "unit": "cucumber",
+          "section": "fresh"
+        },
+        {
+          "item": "cherry tomatoes",
+          "emoji": "🍅",
+          "qty": "10 — halved",
+          "amount": 1,
+          "unit": "punnet",
+          "section": "fresh"
+        },
+        {
+          "item": "red onions",
+          "emoji": "🧅",
+          "qty": "½ — finely diced",
+          "amount": 0.5,
+          "unit": "onion",
+          "section": "fresh"
+        },
+        {
+          "item": "black olives",
+          "emoji": "🫒",
+          "qty": "60g — sliced",
+          "amount": 1,
+          "unit": "jar",
+          "section": "sauces"
+        },
+        {
+          "item": "fresh parsley",
+          "emoji": "🌿",
+          "qty": "small handful — chopped",
+          "amount": 1,
+          "unit": "pack",
+          "section": "fresh"
+        },
+        {
+          "item": "lemons",
+          "emoji": "🍋",
+          "qty": "1 — juice AND zest",
+          "amount": 1,
+          "unit": "lemon",
+          "section": "fruit"
+        },
+        {
+          "item": "red wine vinegar",
+          "emoji": "🫙",
+          "qty": "1 tbsp",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "olive oil",
+          "emoji": "🫒",
+          "qty": "1 tsp ONLY 🪨",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "garlic powder",
+          "emoji": "🧄",
+          "qty": "½ tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "salt and pepper",
+          "emoji": "🧂",
+          "qty": "to taste",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        },
+        {
+          "item": "MSG",
+          "emoji": "🧂",
+          "qty": "pinch",
+          "amount": 1,
+          "unit": "pack",
+          "section": "spices",
+          "check": true
+        }
+      ],
+      "steps": [
+        "🍚 Boil the orzo per pack (~8 mins). Drain and rinse under COLD water — stops it clumping. Drain WELL.",
+        "🔪 While it cooks: dice pepper, cucumber, red onion. Halve the tomatoes, slice the olives, chop the parsley.",
+        "🍋 DRESSING in the bottom of a big bowl: whisk lemon juice + zest, red wine vinegar, 1 tsp olive oil, garlic powder, salt, pepper, MSG. (The acid does the work — that's why it only needs 1 tsp oil.)",
+        "🥣 Tip the cold orzo in, stir so every grain gets coated.",
+        "🥗 Add the veg, olives and parsley. Fold through. Taste — more lemon? salt? MSG?",
+        "📦 Half into a tub for Sunday."
+      ]
+    },
+    {
+      "id": "butterbean_stew",
+      "name": "Smoky Butterbean Stew",
+      "emoji": "🫘",
+      "servings": 4,
+      "fat": "~2g per portion 🪨",
+      "lunchNote": "The Week 2 chilli. ONE huge Sunday batch = 4 meals (Sun dinner + Mon lunch + Tue dinner + Wed lunch). 📦📦 Liquid smoke is the secret. 🔥",
+      "ingredients": [
+        {
+          "item": "tinned butter beans",
+          "emoji": "🫘",
+          "qty": "2 × 400g — drained & rinsed",
+          "amount": 2,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "tinned tomatoes",
+          "emoji": "🍅",
+          "qty": "2 × 400g",
+          "amount": 2,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "onions",
+          "emoji": "🧅",
+          "qty": "1 — diced",
+          "amount": 1,
+          "unit": "onion",
+          "section": "fresh"
+        },
+        {
+          "item": "garlic",
+          "emoji": "🧄",
+          "qty": "4 cloves — crushed",
+          "amount": 4,
+          "unit": "clove",
+          "section": "fresh"
+        },
+        {
+          "item": "peppers",
+          "emoji": "🫑",
+          "qty": "2 — chunky",
+          "amount": 2,
+          "unit": "pepper",
+          "section": "fresh"
+        },
+        {
+          "item": "tomato purée",
+          "emoji": "🫙",
+          "qty": "1 tbsp",
+          "amount": 1,
+          "unit": "tube",
+          "section": "sauces"
+        },
+        {
+          "item": "crusty bread",
+          "emoji": "🍞",
+          "qty": "for dunking",
+          "amount": 1,
+          "unit": "loaf",
+          "section": "bakery"
+        },
+        {
+          "item": "lemons",
+          "emoji": "🍋",
+          "qty": "½ — juiced at the END",
+          "amount": 0.5,
+          "unit": "lemon",
+          "section": "fruit"
+        },
+        {
+          "item": "fresh parsley",
+          "emoji": "🌿",
+          "qty": "to serve",
+          "amount": 0,
+          "unit": "pack",
+          "section": "fresh",
+          "note": "from the orzo pack"
+        },
+        {
+          "item": "smoked paprika",
+          "emoji": "🌶️",
+          "qty": "2 tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "liquid smoke",
+          "emoji": "🔥",
+          "qty": "½ tsp — START HERE, it's POWERFUL",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "dried oregano",
+          "emoji": "🌿",
+          "qty": "1 tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "dried thyme",
+          "emoji": "🌿",
+          "qty": "1 tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "stock cube",
+          "emoji": "🧊",
+          "qty": "1 + 200ml boiling water",
+          "amount": 1,
+          "unit": "box",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "sugar",
+          "emoji": "🤏",
+          "qty": "1 tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "salt and pepper",
+          "emoji": "🧂",
+          "qty": "to taste",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        },
+        {
+          "item": "MSG",
+          "emoji": "🧂",
+          "qty": "pinch",
+          "amount": 1,
+          "unit": "pack",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "spray oil",
+          "emoji": "🫒",
+          "qty": "a few sprays",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
+        }
+      ],
+      "steps": [
+        "🫒 Spray a big pan. Soften the onion 5 mins. Add garlic + peppers, 3 more mins.",
+        "🌶️ Tomato purée, smoked paprika, oregano, thyme in. Stir 1 min — let the spices TOAST, it wakes them up.",
+        "🥫 Tins of tomatoes in. Stock in. Sugar in. Salt, pepper, MSG.",
+        "🫘 Butter beans in — stir gently, don't smash them.",
+        "🔥 Liquid smoke: ½ tsp. STIR. TASTE. Add more only if it needs it.",
+        "⏰ Simmer 25–30 mins uncovered until THICK and glossy, not watery.",
+        "🍋 Lemon juice at the END — off the heat. It lifts the whole thing.",
+        "🍞 Parsley on top, crusty bread to dunk.",
+        "📦 THREE portions into tubs — it gets better every single day."
+      ]
+    },
+    {
+      "id": "veggie_paella",
+      "name": "Veggie Paella-ish Rice",
+      "emoji": "🍚",
+      "servings": 2,
+      "fat": "~3g per portion 🪨",
+      "lunchNote": "Mon dinner + Tue lunch. 📦 Don't stir it while it simmers — that's what makes it paella.",
+      "ingredients": [
+        {
+          "item": "rice",
+          "emoji": "🍚",
+          "qty": "150g dry",
+          "amount": 150,
+          "unit": "g",
+          "section": "dry"
+        },
+        {
+          "item": "onions",
+          "emoji": "🧅",
+          "qty": "1 — diced",
+          "amount": 1,
+          "unit": "onion",
+          "section": "fresh"
+        },
+        {
+          "item": "garlic",
+          "emoji": "🧄",
+          "qty": "3 cloves — crushed",
+          "amount": 3,
+          "unit": "clove",
+          "section": "fresh"
+        },
+        {
+          "item": "peppers",
+          "emoji": "🫑",
+          "qty": "2 (red + yellow) — sliced",
+          "amount": 2,
+          "unit": "pepper",
+          "section": "fresh"
+        },
+        {
+          "item": "mushrooms",
+          "emoji": "🍄",
+          "qty": "150g — sliced",
+          "amount": 150,
+          "unit": "g",
+          "section": "fresh"
+        },
+        {
+          "item": "frozen peas",
+          "emoji": "🫛",
+          "qty": "100g",
+          "amount": 1,
+          "unit": "bag",
+          "section": "frozen"
+        },
+        {
+          "item": "tinned butter beans",
+          "emoji": "🫘",
+          "qty": "1 × 400g — drained",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "tinned tomatoes",
+          "emoji": "🍅",
+          "qty": "1 × 400g",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "lemons",
+          "emoji": "🍋",
+          "qty": "1 — wedges to serve",
+          "amount": 1,
+          "unit": "lemon",
+          "section": "fruit"
+        },
+        {
+          "item": "fresh parsley",
+          "emoji": "🌿",
+          "qty": "to serve",
+          "amount": 0,
+          "unit": "pack",
+          "section": "fresh",
+          "note": "from the orzo pack"
+        },
+        {
+          "item": "smoked paprika",
+          "emoji": "🌶️",
+          "qty": "2 tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "turmeric",
+          "emoji": "☀️",
+          "qty": "½ tsp — for the GOLD",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "dried oregano",
+          "emoji": "🌿",
+          "qty": "1 tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "stock cube",
+          "emoji": "🧊",
+          "qty": "1 + 400ml boiling water",
+          "amount": 1,
+          "unit": "box",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "salt and pepper",
+          "emoji": "🧂",
+          "qty": "to taste",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        },
+        {
+          "item": "MSG",
+          "emoji": "🧂",
+          "qty": "pinch",
+          "amount": 1,
+          "unit": "pack",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "spray oil",
+          "emoji": "🫒",
+          "qty": "a few sprays",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
+        }
+      ],
+      "steps": [
+        "🫒 Spray a wide pan. Onion 5 mins. Garlic + peppers 3 mins. Mushrooms 4 mins — let them go golden, don't crowd them.",
+        "☀️ Smoked paprika + turmeric + oregano. Stir 1 min to toast.",
+        "🍚 Rice in — stir so every grain gets coated in the spices.",
+        "🥫 Tinned tomatoes + stock. Salt, pepper, MSG. Stir ONCE.",
+        "🔥 Simmer 15 mins with a lid on. DON'T STIR IT — the bottom goes slightly crispy, that's the magic.",
+        "🫛 Peas + butter beans on top. Lid back on, 5 more mins.",
+        "😌 Off the heat, lid on, rest 5 mins. Fork through, parsley, BIG squeeze of lemon.",
+        "📦 Half in a tub for Tuesday."
+      ]
+    },
+    {
+      "id": "stir_fry",
+      "name": "Stir Fry + Rice",
+      "emoji": "🍜",
+      "servings": 2,
+      "fat": "~4g per portion 🪨",
+      "lunchNote": "Wed dinner + Thu lunch. 📦 Rice NOT noodles — noodles go soggy in a tub!",
+      "ingredients": [
+        {
+          "item": "rice",
+          "emoji": "🍚",
+          "qty": "150g dry",
+          "amount": 150,
+          "unit": "g",
+          "section": "dry"
+        },
+        {
+          "item": "frozen stir fry veg mix",
+          "emoji": "🧊",
+          "qty": "300g — straight from frozen",
+          "amount": 1,
+          "unit": "bag",
+          "section": "frozen"
+        },
+        {
+          "item": "mushrooms",
+          "emoji": "🍄",
+          "qty": "150g — sliced",
+          "amount": 150,
+          "unit": "g",
+          "section": "fresh"
+        },
+        {
+          "item": "frozen edamame",
+          "emoji": "🫘",
+          "qty": "100g",
+          "amount": 0.5,
+          "unit": "bag",
+          "section": "frozen"
+        },
+        {
+          "item": "garlic",
+          "emoji": "🧄",
+          "qty": "3 cloves — crushed",
+          "amount": 3,
+          "unit": "clove",
+          "section": "fresh"
+        },
+        {
+          "item": "spring onions",
+          "emoji": "🧅",
+          "qty": "2 — sliced",
+          "amount": 0.5,
+          "unit": "bunch",
+          "section": "fresh"
+        },
+        {
+          "item": "soy sauce",
+          "emoji": "🫙",
+          "qty": "3 tbsp",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "honey",
+          "emoji": "🍯",
+          "qty": "1 tbsp",
+          "amount": 1,
+          "unit": "jar",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "sweet chilli sauce",
+          "emoji": "🌶️",
+          "qty": "2 tbsp",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "rice vinegar",
+          "emoji": "🫙",
+          "qty": "1 tbsp (or lemon juice)",
+          "amount": 1,
+          "unit": "bottle",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "ground ginger",
+          "emoji": "🫚",
+          "qty": "2 tsp (or 1 thumb fresh)",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "sesame seeds",
+          "emoji": "🌰",
+          "qty": "1 tsp",
+          "amount": 1,
+          "unit": "pack",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "MSG",
+          "emoji": "🧂",
+          "qty": "pinch",
+          "amount": 1,
+          "unit": "pack",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "spray oil",
+          "emoji": "🫒",
+          "qty": "a few sprays",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
+        }
+      ],
+      "steps": [
+        "🍚 Rice ON FIRST — 12–15 mins.",
+        "🥣 The sauce: mix soy, honey, sweet chilli, rice vinegar, MSG in a mug. Set aside.",
+        "🔥 Spray a wok, get it HOT. Mushrooms in first — 4 mins until golden.",
+        "🧄 Garlic + ginger — 30 seconds, don't burn it.",
+        "🧊 Frozen veg straight in from the freezer. 4–5 mins, keep it moving, until hot with a bit of BITE.",
+        "🫘 Edamame in, 2 mins.",
+        "✨ Sauce in — toss 1 min until everything's glossy.",
+        "🌰 Rice in the bowl, stir fry on top, spring onions + sesame seeds.",
+        "📦 Half in a tub for Thursday."
+      ]
+    },
+    {
+      "id": "fajitas",
+      "name": "Quorn Fajitas",
+      "emoji": "🌯",
+      "servings": 1,
+      "fat": "~6g per portion 🪨",
+      "lunchNote": "Friday treat. NO cheese, NO sour cream — the mission. 📉",
+      "ingredients": [
+        {
+          "item": "wraps",
+          "emoji": "🌯",
+          "qty": "2",
+          "amount": 1,
+          "unit": "pack",
+          "section": "bakery"
+        },
+        {
+          "item": "frozen Quorn chicken pieces",
+          "emoji": "🧊",
+          "qty": "100g — from frozen",
+          "amount": 1,
+          "unit": "bag",
+          "section": "frozen"
+        },
+        {
+          "item": "tinned black beans",
+          "emoji": "🫘",
+          "qty": "½ × 400g — drained",
+          "amount": 1,
+          "unit": "tin",
+          "section": "tins"
+        },
+        {
+          "item": "peppers",
+          "emoji": "🫑",
+          "qty": "1 — sliced",
+          "amount": 1,
+          "unit": "pepper",
+          "section": "fresh"
+        },
+        {
+          "item": "onions",
+          "emoji": "🧅",
+          "qty": "½ — sliced",
+          "amount": 0,
+          "unit": "onion",
+          "section": "fresh",
+          "note": "from a spare"
+        },
+        {
+          "item": "mushrooms",
+          "emoji": "🍄",
+          "qty": "100g — sliced",
+          "amount": 100,
+          "unit": "g",
+          "section": "fresh"
+        },
+        {
+          "item": "lettuce",
+          "emoji": "🥬",
+          "qty": "handful — shredded",
+          "amount": 0.5,
+          "unit": "bag",
+          "section": "fresh"
+        },
+        {
+          "item": "limes",
+          "emoji": "🍋",
+          "qty": "½ — juiced off the heat",
+          "amount": 0.5,
+          "unit": "lime",
+          "section": "fruit"
+        },
+        {
+          "item": "salsa",
+          "emoji": "🫙",
+          "qty": "2 tbsp",
+          "amount": 1,
+          "unit": "jar",
+          "section": "sauces",
+          "check": true
+        },
+        {
+          "item": "smoked paprika",
+          "emoji": "🌶️",
+          "qty": "1 tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "cumin",
+          "emoji": "🌶️",
+          "qty": "1 tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "garlic powder",
+          "emoji": "🧄",
+          "qty": "½ tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "dried oregano",
+          "emoji": "🌿",
+          "qty": "½ tsp",
+          "amount": 1,
+          "unit": "tsp",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "salt and pepper",
+          "emoji": "🧂",
+          "qty": "to taste",
+          "amount": 0,
+          "unit": "",
+          "section": "spices"
+        },
+        {
+          "item": "MSG",
+          "emoji": "🧂",
+          "qty": "pinch",
+          "amount": 1,
+          "unit": "pack",
+          "section": "spices",
+          "check": true
+        },
+        {
+          "item": "spray oil",
+          "emoji": "🫒",
+          "qty": "a few sprays",
+          "amount": 1,
+          "unit": "can",
+          "section": "spices",
+          "check": true
+        }
+      ],
+      "steps": [
+        "🔥 Spray a pan, get it HOT. Onion + pepper 5 mins — let them CHAR a bit at the edges. That's the fajita flavour.",
+        "🍄 Mushrooms — 4 mins.",
+        "🧊 Quorn pieces straight from frozen — 5–6 mins until hot through.",
+        "🌶️ Smoked paprika, cumin, garlic powder, oregano, salt, pepper, MSG. Stir 1 min.",
+        "🫘 Black beans in, 2 mins to warm through.",
+        "🍋 Lime juice off the heat.",
+        "🌯 Warm the wraps. Load: lettuce, filling, salsa. NO cheese, NO sour cream."
       ]
     }
   ],
@@ -1269,7 +2001,16 @@
     "sugar": true,
     "mild chilli powder": true,
     "garlic powder": true,
-    "olive oil": true
+    "olive oil": true,
+    "turmeric": true,
+    "dried oregano": true,
+    "dried thyme": true,
+    "ground ginger": true,
+    "harissa": true,
+    "liquid smoke": true,
+    "balsamic glaze": true,
+    "red wine vinegar": true,
+    "rice vinegar": true
   },
   "shopping": {
     "generated": "2026-07-10",
@@ -1379,5 +2120,216 @@
         "permanent": false
       }
     ]
-  }
+  },
+  "weeks": {
+    "week1": {
+      "label": "Week 1 · warm & spicy",
+      "short": "🌶️ Week 1",
+      "mealPlan": {
+        "saturday": {
+          "breakfast": "weekend_free",
+          "lunch": "eggs_on_toast",
+          "dinner": "noodle_salad",
+          "shopping": true
+        },
+        "sunday": {
+          "breakfast": "eggs_on_toast",
+          "lunch": "noodle_salad_leftovers",
+          "dinner": "sweet_potato_chilli"
+        },
+        "monday": {
+          "breakfast": "porridge",
+          "lunch": "chilli_potato_tub",
+          "dinner": "shakshuka"
+        },
+        "tuesday": {
+          "breakfast": "porridge",
+          "lunch": "chilli_rice_tub",
+          "dinner": "arrabbiata"
+        },
+        "wednesday": {
+          "breakfast": "porridge",
+          "lunch": "arrabbiata_cold",
+          "dinner": "bruschetta"
+        },
+        "thursday": {
+          "breakfast": "porridge",
+          "lunch": "bruschetta_cold",
+          "dinner": "mexican_bowl"
+        },
+        "friday": {
+          "breakfast": "porridge",
+          "lunch": "mexican_bowl_cold",
+          "dinner": "quorn_pittas"
+        }
+      },
+      "connections": [
+        {
+          "from": "noodle_salad",
+          "fromDay": "saturday",
+          "toDay": "sunday",
+          "label": "Sat noodles → Sunday lunch"
+        },
+        {
+          "from": "sweet_potato_chilli",
+          "fromDay": "sunday",
+          "toDay": "monday",
+          "label": "Sun chilli → Monday potato tub (+ a Tuesday rice tub!)"
+        },
+        {
+          "from": "arrabbiata",
+          "fromDay": "tuesday",
+          "toDay": "wednesday",
+          "label": "Tue arrabbiata → Wednesday cold pasta"
+        },
+        {
+          "from": "bruschetta",
+          "fromDay": "wednesday",
+          "toDay": "thursday",
+          "label": "Wed bruschetta → Thursday desk lunch"
+        },
+        {
+          "from": "mexican_bowl",
+          "fromDay": "thursday",
+          "toDay": "friday",
+          "label": "Thu Mexican bowl → Friday tub (the BEST leftover!!)"
+        }
+      ],
+      "tubSchedule": {
+        "saturday": {
+          "tub": true,
+          "text": "Scoop half the noodle salad into a tub for Sunday lunch (optional — Sunday can be snacky too)."
+        },
+        "sunday": {
+          "tub": true,
+          "text": "Big batch tonight!! Potato + a third of the chilli in separate tubs for Monday. The chilli keeps, so you can prep Tuesday’s rice tub now too."
+        },
+        "monday": {
+          "tub": false,
+          "text": "NO TUB tonight — shakshuka doesn’t travel, and Tuesday’s chilli tub is already prepped!"
+        },
+        "tuesday": {
+          "tub": true,
+          "text": "Half the pasta straight into a tub for Wednesday — lid on, fridge."
+        },
+        "wednesday": {
+          "tub": true,
+          "text": "Tomato mix in ONE tub, bread SEPARATE — toast & assemble at your desk tomorrow!"
+        },
+        "thursday": {
+          "tub": true,
+          "text": "Half of everything — rice, beans, salsa, fresh bits — into a tub. The best one."
+        },
+        "friday": {
+          "tub": false,
+          "text": "NO TUB — WEEKEND!! 🎉 Shop tomorrow."
+        }
+      }
+    },
+    "week2": {
+      "label": "Week 2 · fresh & bright",
+      "short": "🌿 Week 2",
+      "mealPlan": {
+        "saturday": {
+          "breakfast": "weekend_free",
+          "lunch": "open_lunch",
+          "dinner": "orzo_salad",
+          "shopping": true
+        },
+        "sunday": {
+          "breakfast": "weekend_free",
+          "lunch": "orzo_tub",
+          "dinner": "butterbean_stew"
+        },
+        "monday": {
+          "breakfast": "porridge",
+          "lunch": "butterbean_tub",
+          "dinner": "veggie_paella"
+        },
+        "tuesday": {
+          "breakfast": "porridge",
+          "lunch": "paella_tub",
+          "dinner": "butterbean_dinner2"
+        },
+        "wednesday": {
+          "breakfast": "porridge",
+          "lunch": "butterbean_tub",
+          "dinner": "stir_fry"
+        },
+        "thursday": {
+          "breakfast": "porridge",
+          "lunch": "stirfry_tub",
+          "dinner": "bruschetta"
+        },
+        "friday": {
+          "breakfast": "porridge",
+          "lunch": "bruschetta_cold",
+          "dinner": "fajitas"
+        }
+      },
+      "connections": [
+        {
+          "from": "orzo_salad",
+          "fromDay": "saturday",
+          "toDay": "sunday",
+          "label": "Sat orzo → Sunday lunch (better overnight!)"
+        },
+        {
+          "from": "butterbean_stew",
+          "fromDay": "sunday",
+          "toDay": "monday",
+          "label": "Sun stew → Mon/Tue/Wed (one batch, four meals!!)"
+        },
+        {
+          "from": "veggie_paella",
+          "fromDay": "monday",
+          "toDay": "tuesday",
+          "label": "Mon paella → Tuesday tub"
+        },
+        {
+          "from": "stir_fry",
+          "fromDay": "wednesday",
+          "toDay": "thursday",
+          "label": "Wed stir fry → Thursday tub"
+        },
+        {
+          "from": "bruschetta",
+          "fromDay": "thursday",
+          "toDay": "friday",
+          "label": "Thu bruschetta → Friday desk lunch"
+        }
+      ],
+      "tubSchedule": {
+        "saturday": {
+          "tub": true,
+          "text": "Half the orzo into a tub for Sunday — it gets BETTER overnight. 🧊"
+        },
+        "sunday": {
+          "tub": true,
+          "text": "HUGE batch night! THREE tubs of butterbean stew — Mon lunch, Tue dinner, Wed lunch. 📦📦📦"
+        },
+        "monday": {
+          "tub": true,
+          "text": "Half the paella into a tub for Tuesday lunch."
+        },
+        "tuesday": {
+          "tub": false,
+          "text": "NO TUB — Wednesday's butterbean is already waiting from Sunday's batch!"
+        },
+        "wednesday": {
+          "tub": true,
+          "text": "Half the stir fry into a tub for Thursday (rice not noodles — it stays lovely)."
+        },
+        "thursday": {
+          "tub": true,
+          "text": "Bruschetta tub — tomato mix in ONE tub, bread SEPARATE. Assemble at your desk!"
+        },
+        "friday": {
+          "tub": false,
+          "text": "NO TUB — WEEKEND!! 🎉 Shop tomorrow."
+        }
+      }
+    }
+  },
+  "activeWeek": "week1"
 }

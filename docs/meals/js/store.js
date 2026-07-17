@@ -73,9 +73,19 @@ export const store = {
     d.meta = d.meta || {};
     d.mealPlan = d.mealPlan || {};
     d.derived = d.derived || {};
-    d.connections = d.connections || [];
-    d.tubSchedule = d.tubSchedule || {};
     d.recipes = d.recipes || [];
+    // Multi-week: migrate an old single-week shape into weeks.week1.
+    if (!d.weeks) {
+      d.weeks = { week1: { label: 'Week 1 · warm & spicy', short: '🌶️ Week 1',
+        mealPlan: d.mealPlan || {}, connections: d.connections || [], tubSchedule: d.tubSchedule || {} } };
+    }
+    d.activeWeek = d.activeWeek && d.weeks[d.activeWeek] ? d.activeWeek : 'week1';
+    for (const w of Object.values(d.weeks)) {
+      w.mealPlan = w.mealPlan || {};
+      w.connections = w.connections || [];
+      w.tubSchedule = w.tubSchedule || {};
+    }
+    delete d.mealPlan; delete d.connections; delete d.tubSchedule; // active week is the source of truth
     d.snacks = d.snacks || { selected: [], available: [] };
     d.snacks.selected = d.snacks.selected || [];
     d.snacks.available = d.snacks.available || [];
@@ -135,6 +145,26 @@ export const store = {
 
   // --- lookups -------------------------------------------------------------
   recipe(id) { return this.data.recipes.find(r => r.id === id); },
+
+  // --- active week ---------------------------------------------------------
+  get activeWeekKey() { return (this.data && this.data.activeWeek) || 'week1'; },
+  get weekObj() {
+    const weeks = (this.data && this.data.weeks) || {};
+    return weeks[this.activeWeekKey] || { mealPlan: {}, connections: [], tubSchedule: {} };
+  },
+  get mealPlan() { return this.weekObj.mealPlan; },
+  get connections() { return this.weekObj.connections; },
+  get tubSchedule() { return this.weekObj.tubSchedule; },
+  weekList() {
+    return Object.entries(this.data.weeks || {}).map(([key, w]) => ({
+      key, label: w.label || key, short: w.short || key
+    }));
+  },
+  setActiveWeek(key) {
+    if (!this.data.weeks[key]) return Promise.resolve({ saved: false });
+    this.data.activeWeek = key;
+    return this.commit(`Switch to ${this.data.weeks[key].short || key}`);
+  },
 
   // Resolve a meal-plan slot id to a display meal: a real recipe, a derived/leftover
   // meal (pointing back at its parent recipe), or a free slot.

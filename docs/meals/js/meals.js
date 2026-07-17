@@ -42,6 +42,7 @@ export function itemKey(name) { return String(name).toLowerCase().trim().replace
 const PKG_UNITS = new Set(['bag', 'jar', 'bottle', 'loaf', 'pack', 'bunch', 'box', 'punnet', 'can', 'pot', 'jar']);
 // Vague spice-rack amounts — never shown as a number to buy.
 const VAGUE_UNITS = new Set(['tsp', 'tbsp', 'pinch']);
+const WEIGHT_UNITS = new Set(['g', 'kg', 'ml', 'l']);
 
 function pluralUnit(unit, n) {
   if (!unit || VAGUE_UNITS.has(unit)) return '';
@@ -54,10 +55,12 @@ function pluralUnit(unit, n) {
 export function formatQty(line) {
   // Garlic: convert a pile of cloves into bulbs — Iris's favourite smart rule.
   if (line.key === 'garlic' && line.unit === 'clove') {
-    const bulbs = Math.max(1, Math.ceil(line.amount / 10));
+    const bulbs = Math.max(1, Math.ceil(line.amount / 12)); // ~a dozen cloves to a bulb
     return `${bulbs} bulb${bulbs > 1 ? 's' : ''} (≈${line.amount} cloves)`;
   }
   if (VAGUE_UNITS.has(line.unit)) return 'check you have some';
+  // Weight/volume amounts read naturally: "300g", "400ml" — no space, no plural.
+  if (WEIGHT_UNITS.has(line.unit)) return `${roundCount(line.amount)}${line.unit}`;
   const n = PKG_UNITS.has(line.unit) ? Math.max(1, Math.ceil(line.amount)) : roundCount(line.amount);
   const u = pluralUnit(line.unit, n);
   return u ? `${n} ${u}` : `${n}`;
@@ -72,7 +75,7 @@ function roundCount(n) {
 // Cupboard staples: you buy ONE (jar/pack/bottle) regardless of how many recipes use it.
 // Pure spice-rack amounts (tsp/pinch) show no quantity — just the name.
 function cupboardQty(line) {
-  if (VAGUE_UNITS.has(line.unit)) return '';
+  if (VAGUE_UNITS.has(line.unit) || WEIGHT_UNITS.has(line.unit)) return '';
   const u = pluralUnit(line.unit, 1);
   return u ? `1 ${u}` : '';
 }
@@ -166,11 +169,22 @@ export function buildShoppingList(data) {
   return { sections, cupboard, totalToBuy: toBuy.length, totalItems: buy.length };
 }
 
+// The currently-selected week's plan. Falls back to a single-week (pre-Week-2) shape.
+export function activeWeekKey(data) {
+  return (data.weeks && data.activeWeek) ? data.activeWeek : 'week1';
+}
+export function activeWeek(data) {
+  const key = activeWeekKey(data);
+  if (data.weeks && data.weeks[key]) return data.weeks[key];
+  return { mealPlan: data.mealPlan || {}, connections: data.connections || [], tubSchedule: data.tubSchedule || {} };
+}
+
 // Which recipe ids are actually scheduled this week (direct dinners/breakfasts/lunches,
 // plus the parent recipe behind any leftover/derived slot).
 export function scheduledRecipeIds(data) {
   const ids = new Set();
-  for (const day of Object.values(data.mealPlan)) {
+  const plan = activeWeek(data).mealPlan;
+  for (const day of Object.values(plan)) {
     for (const slot of ['breakfast', 'lunch', 'dinner']) {
       const id = day[slot];
       if (!id) continue;
@@ -185,7 +199,7 @@ export function scheduledRecipeIds(data) {
 // What goes in the tub tonight, for the dashboard prompt.
 export function tubTonight(data, date) {
   const k = dayKey(date);
-  return data.tubSchedule[k] || null;
+  return activeWeek(data).tubSchedule[k] || null;
 }
 
 // A cheerful sunshine line for finishing a shop or prepping all the tubs.
