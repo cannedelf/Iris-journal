@@ -2044,7 +2044,9 @@
       "sweet_chilli_sauce": true,
       "sesame_seeds": true
     },
-    "checked": {}
+    "checked": {
+      "peppers": true
+    }
   },
   "custom": {
     "items": [
