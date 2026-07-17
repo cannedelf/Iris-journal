@@ -2013,7 +2013,9 @@
   },
   "shopping": {
     "generated": "2026-07-17",
-    "have": {},
+    "have": {
+      "tinned_butter_beans": 1
+    },
     "got": {},
     "checked": {}
   },
