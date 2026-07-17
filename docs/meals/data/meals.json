@@ -2033,6 +2033,11 @@
         "id": "c_oat_milk_e4zx",
         "name": "Oat milk",
         "permanent": false
+      },
+      {
+        "id": "c_parcel_tape_jobz",
+        "name": "Parcel tape",
+        "permanent": false
       }
     ]
   },
