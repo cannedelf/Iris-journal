@@ -2013,84 +2013,10 @@
     "rice vinegar": true
   },
   "shopping": {
-    "generated": "2026-07-10",
-    "have": {
-      "red_onions": 2,
-      "cherry_tomatoes": 1
-    },
-    "got": {
-      "mexican_rice_pouch": true,
-      "dried_pasta": true,
-      "rice": true,
-      "soba_noodles": true,
-      "potatoes": true,
-      "sweet_potatoes": true,
-      "edamame": true,
-      "salsa": true,
-      "sugar": true,
-      "stock_cube": true,
-      "sweet_chilli_sauce": true,
-      "spray_oil": true,
-      "soy_sauce": true,
-      "smoked_paprika": true,
-      "porridge_oats": true,
-      "olive_oil": true,
-      "msg": true,
-      "mild_chilli_powder": true,
-      "paprika": true,
-      "marmite": true,
-      "honey": true,
-      "ground_coriander": true,
-      "garlic_powder": true,
-      "cumin": true,
-      "chilli_flakes": true,
-      "cayenne_pepper": true,
-      "sesame_seeds": true,
-      "tinned_black_beans": true,
-      "tinned_kidney_beans": true,
-      "tinned_tomatoes": true,
-      "cherry_tomatoes": true,
-      "cucumber": true,
-      "garlic": true,
-      "lettuce": true,
-      "red_onions": true,
-      "spring_onions": true,
-      "eggs": true,
-      "low_fat_yogurts": true,
-      "frozen_fruit": true,
-      "bread": true,
-      "pitta_bread": true,
-      "smoked_sweet_jalapeños": true
-    },
-    "checked": {
-      "spring_onions": true,
-      "lettuce": true,
-      "cucumber": true,
-      "low_fat_yogurts": true,
-      "x_c_cans_18q3": true,
-      "smoked_sweet_jalapeños": true,
-      "tinned_tomatoes": true,
-      "tinned_kidney_beans": true,
-      "tinned_black_beans": true,
-      "garlic": true,
-      "red_onions": true,
-      "cherry_tomatoes": true,
-      "x_cordial": true,
-      "x_c_bananas_j2k3": true,
-      "x_c_bin_bags_1juc": true,
-      "frozen_fruit": true,
-      "eggs": true,
-      "x_c_milk_xo6t": true,
-      "pitta_bread": true,
-      "bread": true,
-      "carrots": true,
-      "fresh_basil": true,
-      "fresh_coriander": true,
-      "limes": true,
-      "apples": true,
-      "quorn_chicken_pieces": true,
-      "peppers": true
-    }
+    "generated": null,
+    "have": {},
+    "got": {},
+    "checked": {}
   },
   "custom": {
     "items": [
@@ -2098,26 +2024,6 @@
         "id": "cordial",
         "name": "Cordial",
         "permanent": true
-      },
-      {
-        "id": "c_cans_18q3",
-        "name": "Cans",
-        "permanent": false
-      },
-      {
-        "id": "c_bin_bags_1juc",
-        "name": "Bin bags",
-        "permanent": false
-      },
-      {
-        "id": "c_milk_xo6t",
-        "name": "Milk",
-        "permanent": false
-      },
-      {
-        "id": "c_bananas_j2k3",
-        "name": "Bananas",
-        "permanent": false
       }
     ]
   },
