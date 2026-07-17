@@ -2038,6 +2038,11 @@
         "id": "c_parcel_tape_jobz",
         "name": "Parcel tape",
         "permanent": false
+      },
+      {
+        "id": "c_brown_paper_bful",
+        "name": "Brown paper",
+        "permanent": false
       }
     ]
   },
