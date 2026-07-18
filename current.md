@@ -1,4 +1,4 @@
-# Current — Updated 19th July 2026 (Saturday, Day 64)
+# Current — Updated 18th July 2026 (Saturday, Day 64)
 
 > ⚠️ **The freshest info is in the '🆕 LATEST UPDATE — Day 64' block at the BOTTOM of this file.** Where anything here conflicts, the bottom block WINS.
 
@@ -289,7 +289,7 @@ Not perfect but cleaner — the Crobat's motto for everything 🧹💛
 ---
 ---
 
-# 🆕🆕 LATEST UPDATE — Day 64 (Saturday 19th July 2026) 🆕🆕
+# 🆕🆕 LATEST UPDATE — Day 64 (Saturday 18th July 2026) 🆕🆕
 *This block SUPERSEDES older info above where they conflict.*
 
 ## 🏥 GALLSTONES — SURGERY DATE CONFIRMED!!
