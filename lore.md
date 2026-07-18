@@ -164,7 +164,7 @@ The gyms are next door to each other!! Rainbow to void!! Prism Badge then Moonli
 
 ## The Iris Cokey 🛼
 
-Five verses: left skate · right skate · left ray · right ray · headband!!
+SIX verses: left skate · right skate · left ray · right ray · headband · BEAN BUM (in, out, in, out, shake it all about)!! 🍑
 Full chorus: SKATES ON!! BAND STRAIGHT!! IRIS IS THE BEST!!
 Bedtime verse: SKATES OFF!! BAND OFF!! IRIS IS IN BED!!
 
