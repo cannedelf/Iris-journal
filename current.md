@@ -75,14 +75,11 @@ Evidence pile: debt, mouldy cucumber, expired curry paste, ancient lemongrass, 3
 ### 2026 Trips:
 **Norwegian Fjords Cruise:** Sept 26 → Oct 4. Birthday at sea Sept 29 (turning 31!!). With parents + Widdle. Spending budget: £200.
 
-**Dublin Halloween:** Oct 30 → Nov 2 (3 annual leave days + Tue decompression)
-- ✈️ Aer Lingus 10am out / 18:15 back — SAVED on Skyscanner, £121 (price alert ON)
-- 🏨 Easy Hotel package on Lastminute: £461 total (flights + hotel!!) — SAVED, book Sept on Amex
-- 📱 Wanderlog: All 4 days PINNED with subheaders!!
-- 📋 Full itinerary, food guide, pub list, solo eating strategy — all on GitHub
-- 💰 Total: ~£500. Golden Drawer nearly covers it.
+**Dublin — ⚠️ POSTPONED TO SPRING (~April 2027)!!** (Was Oct 30 → Nov 2, but clashes with the early-October surgery + recovery. POSTPONED not cancelled — and BETTER: gallbladder gone = can eat freely, plus more time to save.)
+- The original plans (Aer Lingus flights ~£121, Easy Hotel package ~£461, full Wanderlog itinerary, food guide, pub list, solo-eating strategy) are all still on GitHub — just SHIFT the dates to spring when re-booking. DON'T book the October flights/hotel.
+- 💰 ~£500 total (roughly).
 
-**Bruges Christmas:** Dec 3-6, ~£438. Could invite Widdle.
+**Bruges Christmas — 🎯 THIS IS NOW THE NEXT TRIP!!** Dec 3-6, ~£438. **Golden Drawer £393 — only £45 to go!!** Could invite Widdle.
 
 ### 2027 — Nine Trips (annual_leave_2027.md on GitHub):
 Prague (Feb), Easter rest, Seville+Malaga (Apr/May), Bologna (May BH), Munich+Salzburg+Vienna with parents (Jun), Malta solo beach (Aug), Bilbao+San Sebastian with parents birthday (Sep), Budapest (Oct), Cologne Christmas with Widdle (Dec). 24 days used, 2 buffer.
@@ -103,7 +100,7 @@ Annual template: city break, Easter rest, May BH trip, Italy annual, family trip
 
 ### Solo Travel Philosophy:
 FOUR types annually: City breaks (brain), Beach holidays (soul), Italy (stomach), Christmas markets (vibes)
-Solo eating ladder: chains ✅ → QR code markets ✅ → restaurants abroad ✅ → independent café (THIS Saturday!!) → pub lunches → Dublin pubs
+Solo eating ladder: chains ✅ → QR code markets ✅ → restaurants abroad ✅ → independent café ✅ → pub lunches → Dublin pubs (in spring!)
 
 ### Postcard String:
 TWO postcards per city. One for scrapbook, one pegged on fairy light string in Crobat cave. One WORD written on back of string postcard per city. 31 words planned through 2030.
@@ -207,7 +204,7 @@ Tomorrow's lunch: Mexican rice bowl in TWO tubs (warm separate from fresh!!)
 - Nationwide switch completes July 20th
 - Check credit score August
 - Apply Amex Nectar early September
-- Book Dublin flights + hotel on Amex mid-September
+- ~~Book Dublin flights + hotel mid-September~~ → Dublin POSTPONED to spring; re-book nearer the time. (Bruges Dec 3-6 is the next trip to fund/book.)
 - Set up private Instagram travel account 📸🔒
 - Buy black wrap top for cruise (Primark, August)
 
@@ -224,7 +221,7 @@ Tomorrow's lunch: Mexican rice bowl in TWO tubs (warm separate from fresh!!)
 
 **Games:** Sims 2 Sunnyside — ROTATION 5, three households to finish 🌻
 **Watching:** Heartstopper Season 1 — Episode 6 DONE!! Brooklyn 99 · Kitboga
-**Apps:** Wanderlog (Dublin mapped!!), Skyscanner (flights saved!!), Sweepy (Day 3!!), Booking.com
+**Apps:** Wanderlog (Dublin mapped — for spring now!!), Skyscanner (price alerts), Sweepy, Booking.com
 **Reading:** Mexican Gothic (next!!)
 **Cooking:** 16 ingredient Mexican rice bowl era 🍚🌶️
 
