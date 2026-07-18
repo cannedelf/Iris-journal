@@ -412,6 +412,13 @@
       "amount": 30.2,
       "category": "groceries",
       "note": "Aldi — Week 2 shop part 1 (honey x2, milk, cordial, apples, yogurt, tins, veg, orzo, bread) + 2 burrito-bowl rice (Week 1 forward-planning) + treat sweets"
+    },
+    {
+      "id": "spend_1_l9ev4",
+      "date": "2026-07-18",
+      "amount": 13.1,
+      "category": "groceries",
+      "note": "Sainsburys"
     }
   ]
 }
