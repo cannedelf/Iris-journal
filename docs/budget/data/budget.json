@@ -1,403 +1,424 @@
 {
-  "meta": {
-    "version": 1,
-    "app": "Sunshine Budget Tracker",
-    "updated": "2026-07-17",
-    "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
-    "weeklyBudget": 50,
-    "payDay": 25,
-    "rolloverEnabled": true,
-    "monthlyIncome": 2500,
-    "incomeItems": [
-      {
-        "label": "Salary (estimated)",
-        "amount": 2100
-      },
-      {
-        "label": "Widdle bills contribution",
-        "amount": 400
-      }
-    ],
-    "funds": {
-      "emergency": {
-        "label": "Emergency Fund",
-        "emoji": "🎯",
-        "target": 3850,
-        "balance": 500,
-        "monthly": 130,
-        "startDate": "2026-07-02",
-        "note": "3 months of bills — minimum"
-      },
-      "holiday": {
-        "label": "Golden Drawer",
-        "emoji": "🏖️",
-        "balance": 300,
-        "trip": {
-          "name": "Dublin",
-          "target": 575
-        },
-        "note": "Chase holiday savings — fed by the sorter + Widdle repayments"
-      },
-      "premiumBonds": {
-        "label": "Premium Bonds",
-        "emoji": "🎟️",
-        "balance": 1,
-        "note": "Tracking for the future!"
-      }
+ "meta": {
+  "version": 1,
+  "app": "Sunshine Budget Tracker",
+  "updated": "2026-07-19",
+  "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
+  "weeklyBudget": 50,
+  "payDay": 25,
+  "rolloverEnabled": true,
+  "monthlyIncome": 2500,
+  "incomeItems": [
+   {
+    "label": "Salary (estimated)",
+    "amount": 2100
+   },
+   {
+    "label": "Widdle bills contribution",
+    "amount": 400
+   }
+  ],
+  "funds": {
+   "emergency": {
+    "label": "Emergency Fund",
+    "emoji": "🎯",
+    "target": 3850,
+    "balance": 500,
+    "monthly": 130,
+    "startDate": "2026-07-02",
+    "note": "3 months of bills — minimum"
+   },
+   "holiday": {
+    "label": "Golden Drawer",
+    "emoji": "🏖️",
+    "balance": 393,
+    "trip": {
+     "name": "Bruges",
+     "target": 438
     },
-    "debts": {
-      "widdle": {
-        "label": "Widdle",
-        "emoji": "🍊",
-        "total": 739,
-        "payments": [
-          {
-            "date": "2026-04-30",
-            "amount": 100
-          }
-        ],
-        "note": "Repayments go into the holiday fund"
-      },
-      "novuna": {
-        "label": "Novuna Kitchen Loan",
-        "emoji": "🏠",
-        "monthly": 194.14,
-        "endDate": "2028-10-14",
-        "note": "When it ends: £194/month free!"
-      }
-    },
-    "cardHistory": [],
-    "categories": [
-      {
-        "key": "groceries",
-        "emoji": "🛒",
-        "label": "Groceries",
-        "type": "flex",
-        "budget": 300,
-        "note": "Aldi, Lidl, Morrisons, Sainsburys"
-      },
-      {
-        "key": "spending",
-        "emoji": "👗",
-        "label": "Clothes & Shopping",
-        "type": "weekly",
-        "budget": 170,
-        "note": "The £50/week pot — the one that matters"
-      },
-      {
-        "key": "eatingOut",
-        "emoji": "☕",
-        "label": "Eating Out / Coffee",
-        "type": "flex",
-        "budget": 50,
-        "note": "Costa, cafes, restaurants, takeaway"
-      },
-      {
-        "key": "pharmacy",
-        "emoji": "💊",
-        "label": "Pharmacy & Health",
-        "type": "flex",
-        "budget": 20,
-        "note": "Whitegate, prescriptions"
-      },
-      {
-        "key": "transport",
-        "emoji": "🚕",
-        "label": "Transport",
-        "type": "flex",
-        "budget": 10,
-        "note": "Uber, trains, buses"
-      },
-      {
-        "key": "household",
-        "emoji": "🛋️",
-        "label": "Household / Home",
-        "type": "flex",
-        "budget": 30,
-        "note": "Homeware & DIY — B&M, Wickes, etc."
-      },
-      {
-        "key": "chase",
-        "emoji": "🏦",
-        "label": "Chase Emergency Fund",
-        "type": "savings",
-        "auto": true,
-        "budget": 130,
-        "note": "Standing order on the 25th"
-      },
-      {
-        "key": "isa",
-        "emoji": "📈",
-        "label": "ISA (InvestEngine)",
-        "type": "savings",
-        "auto": true,
-        "budget": 50,
-        "note": "Auto direct debit"
-      },
-      {
-        "key": "bills",
-        "emoji": "🏠",
-        "label": "Bills",
-        "type": "fixed",
-        "budget": 1098.62,
-        "note": "Fixed — reference only",
-        "items": [
-          {
-            "label": "Mortgage (Nationwide)",
-            "amount": 438.01
-          },
-          {
-            "label": "Council Tax",
-            "amount": 195
-          },
-          {
-            "label": "Kitchen loan (Novuna)",
-            "amount": 194.14
-          },
-          {
-            "label": "Energy (E.ON)",
-            "amount": 82.67
-          },
-          {
-            "label": "Flat Service Fees",
-            "amount": 75
-          },
-          {
-            "label": "Water (United Utilities)",
-            "amount": 43.44
-          },
-          {
-            "label": "Broadband (Virgin Media)",
-            "amount": 35.4
-          },
-          {
-            "label": "Pension (NEST)",
-            "amount": 20
-          },
-          {
-            "label": "TV Licence (quarterly, ~monthly)",
-            "amount": 14.96
-          }
-        ]
-      },
-      {
-        "key": "subscriptions",
-        "emoji": "📱",
-        "label": "Subscriptions",
-        "type": "fixed",
-        "budget": 134.97,
-        "note": "The five survivors",
-        "items": [
-          {
-            "label": "Claude.ai",
-            "amount": 90
-          },
-          {
-            "label": "Netflix",
-            "amount": 12.99
-          },
-          {
-            "label": "Spotify",
-            "amount": 12.99
-          },
-          {
-            "label": "giffgaff (phone)",
-            "amount": 10
-          },
-          {
-            "label": "Amazon Prime",
-            "amount": 8.99
-          }
-        ]
-      },
-      {
-        "key": "gifts",
-        "emoji": "🎁",
-        "label": "Gifts & Donations",
-        "type": "none",
-        "budget": 0,
-        "note": "No budget, but track it"
-      },
-      {
-        "key": "travel",
-        "emoji": "✈️",
-        "label": "Travel / Holidays",
-        "type": "none",
-        "budget": 0,
-        "note": "Track separately from daily spending"
-      }
-    ],
-    "lastSort": {
-      "tier": {
-        "name": "Sensible Girlie",
-        "emoji": "💛",
-        "celebrate": false
-      },
-      "leftover": 573.32,
-      "period": "2026-06-25"
-    }
+    "note": "Chase holiday savings — fed by Vinted + the sorter + Widdle repayments. Dublin postponed to spring; Bruges (Dec 3-6) is now the next trip — £45 to go!"
+   },
+   "premiumBonds": {
+    "label": "Premium Bonds",
+    "emoji": "🎟️",
+    "balance": 1,
+    "note": "Tracking for the future!"
+   }
   },
-  "entries": [
-    {
-      "id": "spend_1_884k9",
-      "date": "2026-06-27",
-      "amount": 28.01,
-      "category": "travel",
-      "note": "Stuff for Rome!"
-    },
-    {
-      "id": "spend_2_kh9tz",
-      "date": "2026-06-27",
-      "amount": 1.18,
-      "category": "pharmacy",
-      "note": "Pills 💊"
-    },
-    {
-      "id": "spend_3_njqun",
-      "date": "2026-06-27",
-      "amount": 12.17,
-      "category": "groceries",
-      "note": "Aldi"
-    },
-    {
-      "id": "spend_1_4b4ok",
-      "date": "2026-06-27",
-      "amount": 100,
-      "category": "chase",
-      "note": "Emergency fund — first deposit"
-    },
-    {
-      "id": "spend_1_0pnlo",
-      "date": "2026-06-28",
-      "amount": 14.25,
-      "category": "travel",
-      "note": "Breakfast that may or may not be eaten"
-    },
-    {
-      "id": "spend_1_sc91n",
-      "date": "2026-06-28",
-      "amount": 8,
-      "category": "travel",
-      "note": "European phone internet"
-    },
-    {
-      "id": "spend_1_xo4j4",
-      "date": "2026-06-27",
-      "amount": 231.99,
-      "category": "travel",
-      "note": "To revolut for euros"
-    },
-    {
-      "id": "spend_1_g5e4l",
-      "date": "2026-07-03",
-      "amount": 31.7,
-      "category": "groceries",
-      "note": "Aldi weekly shop"
-    },
-    {
-      "id": "spend_2_4pepe",
-      "date": "2026-07-03",
-      "amount": 7.98,
-      "category": "gifts",
-      "note": ""
-    },
-    {
-      "id": "spend_1_0lx0h",
-      "date": "2026-07-04",
-      "amount": 1.37,
-      "category": "groceries",
-      "note": "Sainsbury's - £7.50 nectar points used"
-    },
-    {
-      "id": "spend_1_bm16h",
-      "date": "2026-07-05",
-      "amount": 16,
-      "category": "household",
-      "note": "B&M"
-    },
-    {
-      "id": "spend_1_wk48h",
-      "date": "2026-07-05",
-      "amount": 48,
-      "category": "household",
-      "note": "Wickes"
-    },
-    {
-      "id": "spend_1_zix0z",
-      "date": "2026-07-08",
-      "amount": 15.99,
-      "category": "household",
-      "note": "Sweepy app"
-    },
-    {
-      "id": "spend_1_bq9rg",
-      "date": "2026-07-10",
-      "amount": 29.58,
-      "category": "groceries",
-      "note": "Aldi weekly shop"
-    },
-    {
-      "id": "spend_2_uig4a",
-      "date": "2026-07-10",
-      "amount": 1.65,
-      "category": "household",
-      "note": "Bin bags"
-    },
-    {
-      "id": "spend_1_6lyl6",
-      "date": "2026-07-11",
-      "amount": 0.72,
-      "category": "groceries",
-      "note": "Sainsbury's - nectar points"
-    },
-    {
-      "id": "spend_1_aptk1",
-      "date": "2026-07-12",
-      "amount": 4,
-      "category": "household",
-      "note": "Tape to fix pipe"
-    },
-    {
-      "id": "spend_2_pb1y2",
-      "date": "2026-07-12",
-      "amount": 4.8,
-      "category": "eatingOut",
-      "note": "Last light coffee - SOLO COFFEE!"
-    },
-    {
-      "id": "spend_1_p6avp",
-      "date": "2026-07-12",
-      "amount": 2,
-      "category": "household",
-      "note": "Primark - fairy lights"
-    },
-    {
-      "id": "spend_2_wbafg",
-      "date": "2026-07-12",
-      "amount": 2.5,
-      "category": "travel",
-      "note": "Primark - passport cover"
-    },
-    {
-      "id": "spend_3_g520q",
-      "date": "2026-07-12",
-      "amount": 4.99,
-      "category": "spending",
-      "note": "TK Maxx - claw clips x3"
-    },
-    {
-      "id": "spend_1_ois2p",
-      "date": "2026-07-15",
-      "amount": 3.95,
-      "category": "spending",
-      "note": "Amazon - Bags for vinted"
-    },
-    {
-      "id": "spend_1_fdqki",
-      "date": "2026-07-17",
-      "amount": 9.9,
-      "category": "pharmacy",
-      "note": "Sertraline prescription"
-    }
-  ]
+  "debts": {
+   "widdle": {
+    "label": "Widdle",
+    "emoji": "🍊",
+    "total": 739,
+    "payments": [
+     {
+      "date": "2026-04-30",
+      "amount": 100
+     }
+    ],
+    "note": "Repayments go into the holiday fund"
+   },
+   "novuna": {
+    "label": "Novuna Kitchen Loan",
+    "emoji": "🏠",
+    "monthly": 194.14,
+    "endDate": "2028-10-14",
+    "note": "When it ends: £194/month free!"
+   }
+  },
+  "cardHistory": [],
+  "categories": [
+   {
+    "key": "groceries",
+    "emoji": "🛒",
+    "label": "Groceries",
+    "type": "flex",
+    "budget": 300,
+    "note": "Aldi, Lidl, Morrisons, Sainsburys"
+   },
+   {
+    "key": "spending",
+    "emoji": "👗",
+    "label": "Clothes & Shopping",
+    "type": "weekly",
+    "budget": 170,
+    "note": "The £50/week pot — the one that matters"
+   },
+   {
+    "key": "eatingOut",
+    "emoji": "☕",
+    "label": "Eating Out / Coffee",
+    "type": "flex",
+    "budget": 50,
+    "note": "Costa, cafes, restaurants, takeaway"
+   },
+   {
+    "key": "pharmacy",
+    "emoji": "💊",
+    "label": "Pharmacy & Health",
+    "type": "flex",
+    "budget": 20,
+    "note": "Whitegate, prescriptions"
+   },
+   {
+    "key": "transport",
+    "emoji": "🚕",
+    "label": "Transport",
+    "type": "flex",
+    "budget": 10,
+    "note": "Uber, trains, buses"
+   },
+   {
+    "key": "household",
+    "emoji": "🛋️",
+    "label": "Household / Home",
+    "type": "flex",
+    "budget": 30,
+    "note": "Homeware & DIY — B&M, Wickes, etc."
+   },
+   {
+    "key": "chase",
+    "emoji": "🏦",
+    "label": "Chase Emergency Fund",
+    "type": "savings",
+    "auto": true,
+    "budget": 130,
+    "note": "Standing order on the 25th"
+   },
+   {
+    "key": "isa",
+    "emoji": "📈",
+    "label": "ISA (InvestEngine)",
+    "type": "savings",
+    "auto": true,
+    "budget": 50,
+    "note": "Auto direct debit"
+   },
+   {
+    "key": "bills",
+    "emoji": "🏠",
+    "label": "Bills",
+    "type": "fixed",
+    "budget": 1098.62,
+    "note": "Fixed — reference only",
+    "items": [
+     {
+      "label": "Mortgage (Nationwide)",
+      "amount": 438.01
+     },
+     {
+      "label": "Council Tax",
+      "amount": 195
+     },
+     {
+      "label": "Kitchen loan (Novuna)",
+      "amount": 194.14
+     },
+     {
+      "label": "Energy (E.ON)",
+      "amount": 82.67
+     },
+     {
+      "label": "Flat Service Fees",
+      "amount": 75
+     },
+     {
+      "label": "Water (United Utilities)",
+      "amount": 43.44
+     },
+     {
+      "label": "Broadband (Virgin Media)",
+      "amount": 35.4
+     },
+     {
+      "label": "Pension (NEST)",
+      "amount": 20
+     },
+     {
+      "label": "TV Licence (quarterly, ~monthly)",
+      "amount": 14.96
+     }
+    ]
+   },
+   {
+    "key": "subscriptions",
+    "emoji": "📱",
+    "label": "Subscriptions",
+    "type": "fixed",
+    "budget": 134.97,
+    "note": "The five survivors",
+    "items": [
+     {
+      "label": "Claude.ai",
+      "amount": 90
+     },
+     {
+      "label": "Netflix",
+      "amount": 12.99
+     },
+     {
+      "label": "Spotify",
+      "amount": 12.99
+     },
+     {
+      "label": "giffgaff (phone)",
+      "amount": 10
+     },
+     {
+      "label": "Amazon Prime",
+      "amount": 8.99
+     }
+    ]
+   },
+   {
+    "key": "gifts",
+    "emoji": "🎁",
+    "label": "Gifts & Donations",
+    "type": "none",
+    "budget": 0,
+    "note": "No budget, but track it"
+   },
+   {
+    "key": "travel",
+    "emoji": "✈️",
+    "label": "Travel / Holidays",
+    "type": "none",
+    "budget": 0,
+    "note": "Track separately from daily spending"
+   }
+  ],
+  "lastSort": {
+   "tier": {
+    "name": "Sensible Girlie",
+    "emoji": "💛",
+    "celebrate": false
+   },
+   "leftover": 573.32,
+   "period": "2026-06-25"
+  }
+ },
+ "entries": [
+  {
+   "id": "spend_1_884k9",
+   "date": "2026-06-27",
+   "amount": 28.01,
+   "category": "travel",
+   "note": "Stuff for Rome!"
+  },
+  {
+   "id": "spend_2_kh9tz",
+   "date": "2026-06-27",
+   "amount": 1.18,
+   "category": "pharmacy",
+   "note": "Pills 💊"
+  },
+  {
+   "id": "spend_3_njqun",
+   "date": "2026-06-27",
+   "amount": 12.17,
+   "category": "groceries",
+   "note": "Aldi"
+  },
+  {
+   "id": "spend_1_4b4ok",
+   "date": "2026-06-27",
+   "amount": 100,
+   "category": "chase",
+   "note": "Emergency fund — first deposit"
+  },
+  {
+   "id": "spend_1_0pnlo",
+   "date": "2026-06-28",
+   "amount": 14.25,
+   "category": "travel",
+   "note": "Breakfast that may or may not be eaten"
+  },
+  {
+   "id": "spend_1_sc91n",
+   "date": "2026-06-28",
+   "amount": 8,
+   "category": "travel",
+   "note": "European phone internet"
+  },
+  {
+   "id": "spend_1_xo4j4",
+   "date": "2026-06-27",
+   "amount": 231.99,
+   "category": "travel",
+   "note": "To revolut for euros"
+  },
+  {
+   "id": "spend_1_g5e4l",
+   "date": "2026-07-03",
+   "amount": 31.7,
+   "category": "groceries",
+   "note": "Aldi weekly shop"
+  },
+  {
+   "id": "spend_2_4pepe",
+   "date": "2026-07-03",
+   "amount": 7.98,
+   "category": "gifts",
+   "note": ""
+  },
+  {
+   "id": "spend_1_0lx0h",
+   "date": "2026-07-04",
+   "amount": 1.37,
+   "category": "groceries",
+   "note": "Sainsbury's - £7.50 nectar points used"
+  },
+  {
+   "id": "spend_1_bm16h",
+   "date": "2026-07-05",
+   "amount": 16,
+   "category": "household",
+   "note": "B&M"
+  },
+  {
+   "id": "spend_1_wk48h",
+   "date": "2026-07-05",
+   "amount": 48,
+   "category": "household",
+   "note": "Wickes"
+  },
+  {
+   "id": "spend_1_zix0z",
+   "date": "2026-07-08",
+   "amount": 15.99,
+   "category": "household",
+   "note": "Sweepy app"
+  },
+  {
+   "id": "spend_1_bq9rg",
+   "date": "2026-07-10",
+   "amount": 29.58,
+   "category": "groceries",
+   "note": "Aldi weekly shop"
+  },
+  {
+   "id": "spend_2_uig4a",
+   "date": "2026-07-10",
+   "amount": 1.65,
+   "category": "household",
+   "note": "Bin bags"
+  },
+  {
+   "id": "spend_1_6lyl6",
+   "date": "2026-07-11",
+   "amount": 0.72,
+   "category": "groceries",
+   "note": "Sainsbury's - nectar points"
+  },
+  {
+   "id": "spend_1_aptk1",
+   "date": "2026-07-12",
+   "amount": 4,
+   "category": "household",
+   "note": "Tape to fix pipe"
+  },
+  {
+   "id": "spend_2_pb1y2",
+   "date": "2026-07-12",
+   "amount": 4.8,
+   "category": "eatingOut",
+   "note": "Last light coffee - SOLO COFFEE!"
+  },
+  {
+   "id": "spend_1_p6avp",
+   "date": "2026-07-12",
+   "amount": 2,
+   "category": "household",
+   "note": "Primark - fairy lights"
+  },
+  {
+   "id": "spend_2_wbafg",
+   "date": "2026-07-12",
+   "amount": 2.5,
+   "category": "travel",
+   "note": "Primark - passport cover"
+  },
+  {
+   "id": "spend_3_g520q",
+   "date": "2026-07-12",
+   "amount": 4.99,
+   "category": "spending",
+   "note": "TK Maxx - claw clips x3"
+  },
+  {
+   "id": "spend_1_ois2p",
+   "date": "2026-07-15",
+   "amount": 3.95,
+   "category": "spending",
+   "note": "Amazon - Bags for vinted"
+  },
+  {
+   "id": "spend_1_fdqki",
+   "date": "2026-07-17",
+   "amount": 9.9,
+   "category": "pharmacy",
+   "note": "Sertraline prescription"
+  },
+  {
+   "id": "spend_sat_shop_d64",
+   "date": "2026-07-19",
+   "amount": 13.0,
+   "category": "groceries",
+   "note": "Sainsbury's Week 2 shop (after £25 Nectar points off) + succulents x2 (green for me, blue for Sam) + parcel supplies + meal deal"
+  },
+  {
+   "id": "spend_sat_coffee_d64",
+   "date": "2026-07-19",
+   "amount": 3.8,
+   "category": "eatingOut",
+   "note": "Coffee (Saturday town trip with Widdle)"
+  },
+  {
+   "id": "spend_aldi_d64",
+   "date": "2026-07-19",
+   "amount": 30.2,
+   "category": "groceries",
+   "note": "Aldi — Week 2 shop part 1 (honey x2, milk, cordial, apples, yogurt, tins, veg, orzo, bread) + 2 burrito-bowl rice (Week 1 forward-planning) + treat sweets"
+  }
+ ]
 }
