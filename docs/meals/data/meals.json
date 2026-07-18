@@ -3,7 +3,7 @@
     "version": 1,
     "app": "Sunshine Meal Planner",
     "season": "summer",
-    "updated": "2026-07-17",
+    "updated": "2026-07-18",
     "note": "Liv's meal plan + smart shopping list. Built from Iris's summer_recipes.md. Edit freely in the app — every change commits straight back to GitHub. No fish. Ever. 🐟❌"
   },
   "derived": {
@@ -2042,43 +2042,33 @@
       "red_wine_vinegar": true,
       "spray_oil": true,
       "sweet_chilli_sauce": true,
-      "sesame_seeds": true
-    },
-    "checked": {
+      "sesame_seeds": true,
+      "tinned_butter_beans": true,
+      "tinned_black_beans": true,
+      "tinned_tomatoes": true,
+      "orzo": true,
+      "garlic": true,
+      "onions": true,
       "peppers": true,
+      "spring_onions": true,
       "apples": true,
       "bananas": true,
-      "spring_onions": true,
-      "cumin": true,
-      "orzo": true,
       "low_fat_yogurts": true,
-      "salsa": true,
+      "frozen_quorn_chicken_pieces": true,
+      "tiger_bloomer": true,
+      "wraps": true,
       "black_olives": true,
       "tomato_purée": true,
-      "tinned_tomatoes": true,
-      "tinned_black_beans": true,
-      "tinned_butter_beans": true,
-      "onions": true,
-      "garlic": true,
-      "frozen_quorn_chicken_pieces": true,
-      "x_cordial": true,
+      "cumin": true,
       "honey": true,
-      "x_c_oat_milk_e4zx": true,
-      "tiger_bloomer": true
+      "salsa": true
+    },
+    "checked": {
+      "cherry_tomatoes": true
     }
   },
   "custom": {
     "items": [
-      {
-        "id": "cordial",
-        "name": "Cordial",
-        "permanent": true
-      },
-      {
-        "id": "c_oat_milk_e4zx",
-        "name": "Oat milk",
-        "permanent": false
-      },
       {
         "id": "c_parcel_tape_jobz",
         "name": "Parcel tape",
