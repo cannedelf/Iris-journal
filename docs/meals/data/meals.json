@@ -2065,7 +2065,8 @@
     },
     "checked": {
       "cherry_tomatoes": true,
-      "cucumber": true
+      "cucumber": true,
+      "mushrooms": true
     }
   },
   "custom": {
