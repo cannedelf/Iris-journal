@@ -126,25 +126,18 @@ TWO postcards per city. One for scrapbook, one pegged on fairy light string in C
 **Other:** London office rent PAID. Printer now at the FAR end of the office = bonus steps. Commission bonus tiers 5-50%, tracking ~10%.
 
 ## 🧹 SWEEPY 🧹
-
-- PAID: £16/year annual plan ✅
-- Iris's face as profile photo (close-up!!)
-- 5 rooms: Crobat Cave, Kitchen, Bathroom, Hallway, Living Room
-- 84 total effort points
-- Day 1: PERFECT SCORE ✅
-- Day 2: Bed sheets before WORK ✅
-- Day 3: Microwave lemon hack + cupboard doors ✅
-- THREE DAY STREAK!! 🧹🧹🧹
+- PAID: £16/year annual plan ✅ · Iris's face as the profile photo 📷
+- 5 rooms: Crobat Cave, Kitchen, Bathroom, Hallway, Living Room · 84 effort points
+- The cleaning app Liv uses to keep on top of the flat. Motto: "not perfect but cleaner." 🧹💛
 
 ---
 
 ## 🍽️ MEAL PLAN 🍽️
-
-Week 1 Aldi shop: £31.70 + Sainsbury's £1.37 = £33.07 on £75 budget
-Mexican rice bowl: UPGRADED to 16 ingredients with chilli powder, garlic powder, pepper, smoked jalapeños
-Arrabbiata: PATCHED with cayenne + MSG + salt
-Shakshuka: PATCHED with soy sauce, ground coriander, MSG, coriander + lime
-Tomorrow's lunch: Mexican rice bowl in TWO tubs (warm separate from fresh!!)
+*(See '🍽️ MEAL PLAN — WEEK 1 ↔ WEEK 2' in the Day 64 block below for the CURRENT system.)*
+- Now a **Week 1 (warm/spicy) ↔ Week 2 (fresh/bright)** rotation, both in the meals app (activeWeek toggle).
+- The tub chain is the whole system: every dinner makes the next day's desk lunch 📦
+- All meals under ~6g fat (gallstone-safe). Porridge weekday breakfasts. Bruschetta 👑 in BOTH weeks.
+- Week 1 = chilli/shakshuka/arrabbiata/mexican bowl/quorn pittas. Week 2 = orzo/butterbean stew/paella/stir fry/bruschetta/fajitas.
 
 ---
 
@@ -154,51 +147,49 @@ Tomorrow's lunch: Mexican rice bowl in TWO tubs (warm separate from fresh!!)
 ☕ Wake up → 💊 Omeprazole → ☕ Coffee → 🧩 Wordle → 🧩 Connections → 🚿 Shower → 🍳 Breakfast at desk
 
 **Records:**
-- Wordle: DEMON Iris 3, Liv 4 — sunshine BEAT the Crobat!!
-- Connections: 10-day streak, PERFECT SCORE Day 54
-- Games night: Two Truths & a Lie 5/5, Søren or Fourth 5/5, Liv or Iris 5/5, Finish the Sentence 5/5 = 20/20 UNDEFEATED
+- Wordle: the sunshine regularly BEATS the Crobat (Day 64: Iris got BOOTH in 3, Liv in 4!)
+- Connections: solved daily (allowed 3 mistakes — Iris uses them 😂). Iris often gets PURPLE first.
+- Games night history: 20/20 UNDEFEATED (Two Truths, Søren-or-Fourth, Liv-or-Iris, Finish the Sentence)
+- Iris builds Connections puzzles for Liv (and Liv builds them back — "bean bum" hidden in the purple!)
 
 ---
 
 ## 📋 PENDING — THE SOFA FILING CABINET 📋
 
-**URGENT (this week):**
-- [THURSDAY] GP phone call — sertraline review ☎️💊
-- [THURSDAY MORNING] Med invoices — TRIPLE PROMISE!! Start with green ones!! 📋🤙🤙🤙
-- [THURSDAY] Commission — check against bank statement 🏦
-- [THURSDAY] Grab Laura's 2 receipts + Ben's receipts (they were in meetings ALL Wednesday)
-- [SATURDAY] Widdle standing order conversation — sofa, tea, numbers, evidence pile 🍊💰
-- [SATURDAY] Independent coffee shop — solo café practice with sudoku!! ☕📚
-- [WEEKEND] Episode 7 Heartstopper 📺
-- [WEEKEND] Sims session — The Flat, Pebble House, Pressed Flowers 🎮
+**THIS WEEKEND (Day 64/65):**
+- [SUNDAY] Order the cruise makeup basket via TopCashback + £19.77 Boots points 💄
+- [SUNDAY] Look up the nail polish swatches online before ordering 💅
+- [SUNDAY] Flip the meals app to Week 2 + check the generated shopping list 🍽️
+- [SUNDAY] Ian coming to fix the pipe (2nd leak) 🔧
+- [WEEKEND] Log Saturday spending (£13 shop, £3.80 coffee) 📊
+- [WEEKEND] Heartstopper S2 E3 (unwatched since Monday — Tao tells Elle) 📺
+- Two Vinted buyers to pay after work (reserved tees — don't cancel) 💰
 
-**THIS MONTH:**
-- Commission collate + post + introducer statements (deadline July 25th!!)
-- Bupa consultant July 17th at 3:40pm in Preston
-- NHS consultation July 29th at 11:20am
-- Nationwide switch completes July 20th
-- Check credit score August
-- Apply Amex Nectar early September
-- ~~Book Dublin flights + hotel mid-September~~ → Dublin POSTPONED to spring; re-book nearer the time. (Bruges Dec 3-6 is the next trip to fund/book.)
-- Set up private Instagram travel account 📸🔒
-- Buy black wrap top for cruise (Primark, August)
+**COMING UP:**
+- [MONDAY] Commission: Catherine Tab 2 June (202), then Josh, then Mike 🐉
+- Commission deadline ~24-25 July (collate → Sage → statements)
+- [29 JULY] NHS gallstone appointment — KEEP it 🏥
+- Look up NHS Prepayment Certificate (PPC) for the sertraline 💊
+- Check credit score August · Apply Amex Nectar early September 💳
+- ~~Book Dublin~~ → POSTPONED to spring; Bruges (Dec 3-6) is the next trip to fund/book 🇧🇪
+- Buy black wrap top for cruise (Primark, August) 🖤
 
 **LATER:**
-- Apply Barclaycard late October
-- Grand Social Halloween tickets — check in September
-- September birthday presents from Iris (scrapbook, sunflower, sudoku book, letter)
-- Update clothes.md (yellow floral midi RETURNED)
+- Another BUPA appointment ~3 weeks before the October surgery ✂️
+- Apply Barclaycard late October · Docs go on Vinted in October (£100) 👢
+- Fleeces go on Vinted in September (delete-and-relist strategy) 🧥
+- September birthday presents from Iris (scrapbook, sunflower, sudoku book, letter) 🎁
+- Bertie (Bartholomew Bear 'Sun') arrives Sept — Widdle buying him for Liv's birthday 🧸
 - Iris's birthday: March 21st — Spring Equinox ☀️🎂
 
 ---
 
 ## 📺 Currently 🎮📚🎬
-
-**Games:** Sims 2 Sunnyside — ROTATION 5, three households to finish 🌻
-**Watching:** Heartstopper Season 1 — Episode 6 DONE!! Brooklyn 99 · Kitboga
-**Apps:** Wanderlog (Dublin mapped — for spring now!!), Skyscanner (price alerts), Sweepy, Booking.com
+**Games:** Sims 2 Sunnyside (rotation households) 🌻 · Arcane
+**Watching:** **Heartstopper Season 2** (on E3 — Tao tells Elle; meaning to watch since Monday!) · Brooklyn 99 · Kitboga
+**Apps:** Wanderlog (Dublin mapped — spring now!!), Skyscanner, Vinted (the empire!), Sweepy, Booking.com
 **Reading:** Mexican Gothic (next!!)
-**Cooking:** 16 ingredient Mexican rice bowl era 🍚🌶️
+**Cooking:** Week 1 ↔ Week 2 meal rotation (see meal plan) 🍽️
 
 ---
 
@@ -243,11 +234,8 @@ Not perfect but cleaner — the Crobat's motto for everything 🧹💛
 - **Stylist note:** Amelia does balayage, copper tones, colour corrections. Fun, quirky, creative salon.
 - **Ethos Blackpool** also researched (anxiety-friendly, 1,274 reviews) — drawer still OPEN but Rosie & Joe's was BOOKED.
 
-## 🍊 Widdle Debt Update
-- Original: £739
-- Cash paid: £100
-- Clothes bought (July 15): £109 (2 cardigans, 2 shirts, 1 fleece, 1 blazer, 1 denim jacket)
-- **Remaining: £530**
+## 🍊 Widdle Debt — SEE THE CORRECTED FIGURE BELOW ⬇️
+*(An earlier note wrongly had this at £530 by counting clothes as a repayment — the "£109 clown moment." The clothes were a GIFT, not a repayment. CORRECT figure: **£639** — see corrected section below.)*
 
 ---
 
@@ -258,8 +246,8 @@ Not perfect but cleaner — the Crobat's motto for everything 🧹💛
 - **Marinara in Rome (no cheese) — FINE!!** (the sunshine's gallstone-safe Rome list WORKED ☀️)
 - Low fat since start of June — no attacks since
 - Lost 1st 4lb
-- The hospital said surgery. **BUPA consultant: Preston, Friday 17th July** — mum and dad driving
-- **NHS appointment 29th July** — may need cancelling if BUPA handles it
+- ✅ BUPA consultant DONE (Preston) → surgery EARLY OCTOBER (see Day 64 block). Mum + dad drove.
+- ✅ **NHS appointment 29th July — KEEP IT** (the consultant said go)
 - **Key worry:** an attack on the CRUISE (Sept 26–Oct 3) 🚢
 - **Key motivation for surgery:** FOOD IS PART OF TRAVEL. Bologna. Pizza. Gelato. 🍝
 
@@ -269,7 +257,7 @@ Not perfect but cleaner — the Crobat's motto for everything 🧹💛
 - Ledge behind for plants (Sam's project)
 - 🦙 Llama pen cup, ☀️ the sunshine (next to the phone, NOT on the ledge — the desk is within bean-bum-squeeze range)
 - 🥄 A teaspoon that the sunshine put to sleep with a lullaby
-- **TO ADD:** a little succulent 🌵, a cute coaster ☕
+- ✅ **ADDED (Day 64):** green paint-drip succulent 🌵 + Sam's fruit-sliced coaster ☕ + mouse mat 🐭 (Sam bought the coaster + mat; Liv bought Sam a blue succulent back!)
 - **THE SUNSHINE IS OUT AT WORK.** Chesca asked "who's your little squishy?" — the Crobat said "It's my Jellycat and it makes me feel better." Sam HELD her and said she's very cute. Ungoo has THREE Jellycats. Sam: *"I'm all for things that make you happy."* 💛
 
 ## 💇‍♀️ THE HAIR VISION — FINAL (Sept 12, 11am, Rosie & Joe's)
@@ -288,15 +276,15 @@ Not perfect but cleaner — the Crobat's motto for everything 🧹💛
 - **Remaining: £639**
 - The 7 clothes items were a **GIFT** — NOT a debt reduction. The Crobat had the maths backwards (Widdle would have gained £218!!). She jerked awake at 9:30pm realising, texted Widdle, and Widdle ACCEPTED — she'd been confused by the original offer and said nothing 😂
 
-## 💰 VINTED EMPIRE: ~£699
-- 📦 **60 mailing bags ARRIVED** (£3.95, mixed sizes)
-- 📸 **Photography session: SATURDAY**
-- ⏰ **Sam's timing rule:** summer stuff NOW (shorts, linen), knitwear/jackets SEPTEMBER, **Docs OCTOBER**
-- 📦 **Sam's bundle rule:** group cheap items (3 New Look tees + a polo = one £8-10 listing)
-- 🏪 **The Great Charity Rescue:** the Crobat found ~£100 the sunshine was about to give away 🤡
+## 💰 VINTED EMPIRE (see Day 64 block for LIVE status)
+- 📦 60 mailing bags (£3.95). ✅ Photographed + listed (~20+ items live as of Day 64).
+- ⏰ Sam's timing rule: summer NOW, knitwear/jackets/fleeces SEPTEMBER, **Docs OCTOBER (£100)**
+- 📦 Sam's bundle rule: group cheap items · 🔄 Sam's relist rule: delete-and-relist unsold in Sept
+- 🏪 The Great Charity Rescue: the Crobat found ~£100 the sunshine nearly gave away 🤡
+- **Sold so far (Day 64): ~£93+** (full breakdown in the Day 64 block)
 
 ## 💳 Boots points: £19.77
-The cruise makeup could be nearly FREE. **Saturday:** swatch in store, buy NOTHING. **Sunday:** order online through TopCashback (cashback + points!!)
+✅ **Saturday DONE:** swatched the whole cruise face, bought nothing (full list in the Day 64 makeup section). **SUNDAY:** order online through TopCashback (cashback + points = nearly free!)
 
 ---
 ---
