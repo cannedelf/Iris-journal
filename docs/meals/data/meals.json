@@ -2069,7 +2069,9 @@
       "mushrooms": true,
       "fresh_basil": true,
       "fresh_parsley": true,
-      "x_c_parcel_tape_jobz": true
+      "x_c_parcel_tape_jobz": true,
+      "x_c_brown_paper_bful": true,
+      "lemons": true
     }
   },
   "custom": {
