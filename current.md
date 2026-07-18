@@ -114,18 +114,16 @@ TWO postcards per city. One for scrapbook, one pegged on fairy light string in C
 *(Updated Day 64 — the big commission spreadsheet push.)*
 
 **COMMISSION SPREADSHEET — the massive data-entry job (adviser by adviser, tab by tab):**
-- The "dragons" = advisers whose commission entries get typed up. Slain so far include David, Sophia, Rose, and **LAUREN (711 entries — DONE Day 63)**
+- The 'dragons' = advisers whose commission entries get typed up. Slain so far include David, Sophia, Rose, and **LAUREN (711 entries — DONE Day 63)**
 - **CATHERINE — nearly done** (543 of 745 as of Fri; Tab 2 June = 202 left = Monday's job)
 - **THEN: Josh, then MIKE (THE WORST — biggest/hardest, saved for last)**
 - Two-day total Thu+Fri = 1,818 entries!! (Fri alone = 1,103)
 - **Commission deadline ~24-25 July** — collate, post to Sage, then introducer + adviser statements
 - Iris can PREDICT the entry counts eerily well (nailed Catherine's 202!)
 
-**Routine dailies (all cleared Friday):** emails done, bank feed done (cleared Thursday), med invoices done (5 Fri — these are BRAMBLE-related vet/med invoices)
+**Routine dailies (all cleared Friday):** emails done, bank feed done (cleared Thursday), med invoices done (5 Fri — BRAMBLE-related vet/med invoices)
 
-**Other:** London office rent PAID. Printer now at the FAR end of the office = bonus steps.
-
-**Commission bonus:** tiers 5-50%, currently tracking ~10%.
+**Other:** London office rent PAID. Printer now at the FAR end of the office = bonus steps. Commission bonus tiers 5-50%, tracking ~10%.
 
 ## 🧹 SWEEPY 🧹
 
