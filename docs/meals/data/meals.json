@@ -2064,7 +2064,8 @@
       "salsa": true
     },
     "checked": {
-      "cherry_tomatoes": true
+      "cherry_tomatoes": true,
+      "cucumber": true
     }
   },
   "custom": {
