@@ -1,4 +1,6 @@
-# Current — Updated 8th July 2026 (Wednesday, Day 54)
+# Current — Updated 19th July 2026 (Saturday, Day 64)
+
+> ⚠️ **The freshest info is in the '🆕 LATEST UPDATE — Day 64' block at the BOTTOM of this file.** Where anything here conflicts, the bottom block WINS.
 
 ## Liv's Situation
 **Location:** Crobat cave, fresh sheets, sunshine in arms, winding down 🛏️☀️💤
@@ -9,33 +11,28 @@
 ---
 
 ## 🚨 HEALTH 🚨
+*(See the Day 64 block at the bottom for the very latest — surgery date + current weight.)*
 
-**GALLSTONES: TWO confirmed, both nearly 2cm!! Surgery referral in progress!!**
+**GALLSTONES: TWO confirmed (2cm + 1.6cm twin). SURGERY BOOKED FOR EARLY OCTOBER!!**
+- ✅ **BUPA consultant DONE (Preston, Fri 18 July)** — outcome: surgery early October, lose more weight first, timed around the cruise, no bloods taken
+- ✅ **KEEP the NHS appointment July 29th** (consultant said go)
+- ⏳ **Another BUPA appointment ~3 weeks before surgery** — recovery / time off / eating-normally questions get answered THERE
+- Four attacks total (2 followed cheesy pizza). Marinara-no-cheese in Rome was FINE. Low fat since June — no attacks.
+- Look up: **NHS Prepayment Certificate (PPC)** — sertraline is £9.90/month
 
-**Bupa consultant: BOOKED July 17th at 3:40pm in PRESTON!!**
-- Laura + Chris approved early finish at 2:45pm ✅
-- Getting there: need to plan transport
-
-**NHS hospital consultation: July 29th at 11:20am**
-
-**GP phone call: BOOKED Thursday July 10th!!**
-- Sertraline review — Day 54, tablets WORKING
-- 7 tablets remaining — supply lasts until Thursday ✅
-- Online form submitted Wednesday 8:30am ✅
-- Plan: discuss sertraline progress, NOT ready for talking therapy yet (keeping door open)
-- "I'm not sure talking therapy would help me because I feel like I already understand my anxiety and I'm actively working on pushing myself"
+**Sertraline — Day 64!!** Working BRILLIANTLY — solo-holiday confidence, phones people without anxiety, spoke up to a consultant and changed the outcome. (GP review + prescription sorted.) NOT ready for talking therapy yet — door kept open.
 
 **Medications:**
-- **Sertraline — Day 54!!** Working BRILLIANTLY — feels giddy about solo holidays, calls people without anxiety, tells family about solo travel with confidence
+- **Sertraline** — daily, Day 64
 - **Omeprazole** — daily with breakfast
 - Paracetamol — as needed
 - Hyoscine butylbromide (Buscopan) — every 6 hours if needed
 - Dihydrocodeine — STRONG, only if really bad
 - Cetirizine — for heat rash/vasculitis itching
 
-**Weight:** 19st 7.8 (down ~1 stone from 20st+). From meal plan not dieting.
+**Weight:** **19st 3 (Day 64) — 1st 5.4lb lost total, 1.4lb this week.** Consultant wants more off before surgery — Liv was already on it. From the meal plan, not crash dieting.
 
-**Sleep:** Score arc: 63 → 79 → 91 → 85 (dipped from sertraline jolt). Waking BEFORE the alarm. Key change: getting into bed EARLIER (9:30-10pm).
+**Sleep:** Waking BEFORE the alarm (body clock woke her at 5:47 on a Saturday!). Key change: into bed earlier (9:30-10pm).
 
 **Blister:** HEALED Day 53!! 🎉
 **Shaving nick:** Day 54 — pencil-rubber sized chunk off ankle. Sudocrem treatment, leave bare. Not painful.
@@ -49,7 +46,7 @@ Under 3g per 100g safe · 3-5g okay in small amounts · avoid over 5g!!
 
 **Emergency Fund:** Chase savings at 4.50%. Now £549.
 **Standing order:** £130/month to Chase on 25th.
-**Golden Drawer:** Chase savings #2 for holidays. Now £300. TARGET: £450 for Dublin. OVER-FUNDED: £475 coming (£300 PB + £175 Nationwide bonus).
+**Golden Drawer:** Chase savings #2 for holidays. **Now £393. TARGET: Bruges £438 (£45 to go!).** Dublin postponed to spring — Bruges (Dec 3-6) is the next trip. (£175 Nationwide bonus still incoming.)
 **Premium Bonds:** £749 withdrawn July 8. £449 → Emergency Fund, £300 → Golden Drawer. £1 left to keep account open.
 **Nationwide FlexDirect:** Applied, switching from NatWest via CASS. Switch date July 20. £175 bonus incoming.
 
