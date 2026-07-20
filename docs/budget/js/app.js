@@ -467,16 +467,41 @@ function renderSorterResult() {
 
     <div class="sort-row pay"><span>💳 Pay off credit card</span><b>${money(r.card)}</b></div>
     ${r.highCard ? '<p class="sort-warn">⚠️ Big balance — pay it in full to dodge 23% interest.</p>' : ''}
-    <div class="sort-row"><span>🏖️ Golden Drawer <i>(holidays)</i></span><b>${money(r.holiday)}</b></div>
-    <div class="sort-row"><span>🏦 Emergency fund</span><b>${money(r.chase)}</b></div>
-    <div class="sort-row keep"><span>💷 Keep in current account</span><b>${money(0)}</b></div>
+    <div class="sort-row"><span>🏖️ Golden Drawer <i>(holidays)</i></span>
+      <div class="amount-input tiny"><span class="curr">£</span><input id="sortHoliday" type="number" step="1" min="0" value="${splitAmt('holidayAmt', r.holiday)}"></div></div>
+    <div class="sort-row"><span>🏦 Emergency fund</span>
+      <div class="amount-input tiny"><span class="curr">£</span><input id="sortChase" type="number" step="1" min="0" value="${splitAmt('chaseAmt', r.chase)}"></div></div>
+    <div class="sort-row keep ${keepAmount(r) < 0 ? 'over' : ''}"><span>💷 Keep in current account</span><b id="sortKeep">${money(keepAmount(r))}</b></div>
 
-    <p class="sort-note">Sweep it <b>all</b> — the current account is bills money only. ✨</p>
+    <p class="sort-note">Amounts round <b>down</b> to whole £ — tweak them to exactly what you'll move. Any spare pennies just stay in your current account. ✨</p>
     <div class="row2" style="margin-top:10px">
       <button class="ghost" data-sort-pin>📌 Show tier on Home</button>
       <button class="primary" data-sort-record>✅ Record this month</button>
     </div>
   </div>`;
+}
+
+// The amount to move into a split: Liv's override if she's tweaked it, else the
+// suggested figure rounded DOWN to whole pounds.
+function splitAmt(key, suggested) {
+  const s = state.sorter || {};
+  return (s[key] !== undefined && s[key] !== '') ? s[key] : Math.floor(suggested);
+}
+function keepAmount(r) {
+  const h = Number(splitAmt('holidayAmt', r.holiday)) || 0;
+  const c = Number(splitAmt('chaseAmt', r.chase)) || 0;
+  return Math.round((r.remainder - h - c) * 100) / 100;
+}
+// Live-update just the "keep in current account" figure while the split inputs change.
+function updateSortKeep() {
+  const s = state.sorter || {};
+  const r = sortMoney(s.balance, s.card);
+  if (r.overspent) return;
+  const el = $('#sortKeep');
+  if (!el) return;
+  const keep = keepAmount(r);
+  el.textContent = money(keep);
+  el.parentElement.classList.toggle('over', keep < 0);
 }
 
 function viewSettings() {
@@ -607,9 +632,13 @@ function onAppInput(e) {
   }
   if (state.view === 'sorter') {
     const s = state.sorter || (state.sorter = { balance: '', card: '' });
+    // Tweaking a split amount just updates the "keep" figure — keep input focus.
+    if (e.target.id === 'sortHoliday') { s.holidayAmt = e.target.value; return updateSortKeep(); }
+    if (e.target.id === 'sortChase') { s.chaseAmt = e.target.value; return updateSortKeep(); }
+    // Changing the figures resets the split back to the fresh round-down suggestion.
     if (e.target.id === 'sortBalance') s.balance = e.target.value;
     if (e.target.id === 'sortCard') s.card = e.target.value;
-    // Recompute just the result block so the inputs keep focus.
+    s.holidayAmt = undefined; s.chaseAmt = undefined;
     const out = $('#sorterResult');
     if (out) out.innerHTML = renderSorterResult();
   }
@@ -646,9 +675,12 @@ async function onSortRecord() {
   const periodKey = isoDate(periodStart(today(), payDay()));
   const already = (store.data.meta.cardHistory || []).some(h => h.period === periodKey);
   if (already && !confirm('This period is already recorded. Record again (overwrites the card total and adds the fund top-ups again)?')) return;
+  // Use Liv's tweaked amounts (or the round-down defaults) — that's what she actually moves.
+  const holiday = Number(splitAmt('holidayAmt', r.holiday)) || 0;
+  const chase = Number(splitAmt('chaseAmt', r.chase)) || 0;
   const tier = { name: r.tier.name, emoji: r.tier.emoji, celebrate: !!r.tier.celebrate };
-  await save(store.recordSort({ chase: r.chase, holiday: r.holiday, card: r.card, periodKey, tier, leftover: r.remainder }),
-    `Recorded! Emergency +${money(r.chase)}, Golden Drawer +${money(r.holiday)} 🎉`);
+  await save(store.recordSort({ chase, holiday, card: r.card, periodKey, tier, leftover: r.remainder }),
+    `Recorded! Emergency +${money(chase)}, Golden Drawer +${money(holiday)} 🎉`);
   go('home'); // show the trackers move
 }
 
