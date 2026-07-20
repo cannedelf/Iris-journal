@@ -1,224 +1,187 @@
-# ✈️ The Annual Travel Template
-
-## The System
-Every January, sit down with a sunshine and fill in the slots for the year. Pick cities from the travel list, check flights and accommodation, and build the year trip by trip. The template stays the same — the cities change every year.
-
-## 🗓️ The Ten Slots
-
-### Slot 1: ❄️ Winter City Break (January/February)
-**The vibe:** Cold city, cheap flights, cosy cafés, warm food, wrapped up walks
-**Days:** 3-4 nights (use a long weekend)
-**Budget:** £300-500 (winter = cheap season everywhere)
-**Solo or company:** Solo — the brave winter girl
-**Best for:** Eastern Europe (cheap + beautiful in snow), Scandinavia (dark + atmospheric)
-
-*2027: Prague 🇨🇿 — Feb 26 → Mar 2*
-*2028: _____________*
-*2029: _____________*
-*2030: _____________*
+# ✈️ The Travel Template
+## The Flexible System — Built for a Finance Manager Who Knows Her Calendar
+*Every January (or whenever you feel like it), sit down with a sunshine and plan the year. Same system, different adventures every time.* 💛
 
 ---
 
-### Slot 2: 🐣 Easter Rest (March/April)
-**The vibe:** No travel. RECHARGE. The battery between the winter trip and the spring trips.
-**Days:** Bank holiday weekend at HOME
-**Budget:** £0
-**Activity:** Sims, Heartstopper, pyjamas, fairy lights, being a Crobat in her cave
+## 📋 THE RULES
 
-*Every year: REST. Non-negotiable.*
+### Work Calendar
+- 📊 **April = NO GO** — finance year-end, don't even think about it
+- 📊 **Quarter-end months are BUSY** (April, July, October, January) — short trips ONLY (long weekends, max 2 leave days)
+- 📅 **End/start of month** = best window for longer trips (the quiet bit between deadline and next month's chaos)
+- 🎄 **December** = nothing long unless it's the very end (Christmas/NY break)
 
----
+### Leave Budget
+- 🗓️ **27 days total annual leave**
+- 🛡️ **3 days kept as emergency buffer** (illness, life, the unexpected)
+- ✅ **24 usable days** to play with
+- 🏦 **Bank holidays are FREE DAYS** — build trips around them!! Every BH weekend is a potential 4-day trip using only 1-2 leave days
 
-### Slot 3: 🌸 Spring City (April/May)
-**The vibe:** Warmer city, longer days, outdoor dining, the first iced latte of the year
-**Days:** 4-5 nights
-**Budget:** £400-600
-**Solo or company:** Solo or with Jo — the easy sister trip
-**Best for:** Southern Europe (Spain, Portugal, southern France), Mediterranean
+### UK Bank Holidays (check dates each January!)
+- 🎆 New Year's Day (January)
+- 🐣 Good Friday + Easter Monday (March/April — careful with finance year-end!!)
+- 🌸 Early May Bank Holiday
+- ☀️ Spring Bank Holiday (late May)
+- 🏖️ Summer Bank Holiday (late August)
+- 🎄 Christmas Day + Boxing Day
 
-*2027: Seville + Málaga 🇪🇸 — late April / early May*
-*2028: _____________*
-*2029: _____________*
-*2030: _____________*
-
----
-
-> 💡 **FLEX NOTE:** Slots 3 and 4 are INTERCHANGEABLE. If it works better to combine them into one longer trip, DO IT. If separate weekends work better, do that instead. Go with what works best for flights, annual leave, and the Crobat's energy. The template is a GUIDE not a PRISON. ✈️💛
-
-### Slot 4: 🏖️ May Bank Holiday Trip (May)
-**The vibe:** Use the bank holiday for a 3-4 day adventure. Everyone else goes to Centre Parcs — the Crobat goes to EUROPE.
-**Days:** 3-4 nights (Thu-Sun using 2 annual leave days + bank holiday)
-**Budget:** £400-600
-**Solo or company:** Solo or friends
-**Best for:** Italy (Sacred Rules activated), city breaks, anywhere with a direct flight
-
-*2027: Bologna 🇮🇹 — May Bank Holiday*
-*2028: _____________*
-*2029: _____________*
-*2030: _____________*
+### The Golden Drawer System
+- 💰 **Don't book until the Golden Drawer hits the target for that trip**
+- 💰 **Set a target BEFORE you start dreaming about specifics**
+- 💰 **When you hit the target, THEN research the best deal** — flexible on destination, fixed on budget
+- 💰 **Vinted sales, sorter contributions, and bonus money all feed the drawer**
 
 ---
 
-### Slot 5: 🇮🇹 Italy Annual (May/June)
-**The vibe:** The SACRED trip. Every year. Italy. Non-negotiable. Pizza, pasta, gelato, Aperol. Sacred Italy Rules apply.
-**Days:** 4-7 nights
-**Budget:** £500-800
-**Solo or company:** Solo or family
-**Best for:** Anywhere in Italy — work through the boot one city at a time
-**Sacred Rules:** 1) One pizza per trip 2) One Aperol Spritz per trip 3) Pasta every day 4) Cheese on everything post-surgery 5) Gelato minimum once daily
+## 🗂️ THE TRIP TYPES
 
-*Note: Can combine with Slot 4 if the May BH trip IS Italy (like Bologna 2027)*
+Pick from this menu each year. You don't have to do ALL of them — mix and match based on your budget, energy, and what you fancy. Some years you might want 8 short trips, some years you might want 3 big ones.
 
-*Cities to work through: Bologna ✅ (2027), Naples, Amalfi Coast, Venice, Cinque Terre, Lake Como, Sicily, Sardinia, Milan, Verona*
-*2027: Bologna 🇮🇹 (combined with Slot 4)*
-*2028: _____________*
-*2029: _____________*
-*2030: _____________*
+### 🏙️ City Break (Solo)
+- **When:** Any time, but especially good around bank holidays
+- **Length:** 2-4 nights
+- **Leave days:** 1-3 (lean on bank holidays!!)
+- **Golden Drawer target:** £300-500
+- **The vibe:** Exploring alone, solo eating ladder, postcards, freedom
+- **Past wins:** Rome, Dublin
 
----
+### 🏙️ City Break (With People)
+- **When:** Coordinate with whoever's coming!!
+- **Length:** 3-5 nights
+- **Leave days:** 2-4
+- **Golden Drawer target:** £400-700
+- **The vibe:** Shared adventures, splitting costs, someone to laugh with
+- **Options:** Parents, Widdle, friends
 
-### Slot 6: 👨‍👩‍👧 Family Trip (June/July)
-**The vibe:** With Mum and Dad, or Mum and Dad and Jo. The family adventure. Darren inspects foreign columns. Mum brings tea. Jo is the sensible one.
-**Days:** 5-7 nights
-**Budget:** £500-800 (split costs or everyone pays their own — Darren does NOT fund everything despite what the sunshine assumed!!)
-**Solo or company:** FAMILY — the Hill family goes abroad
-**Best for:** Central Europe (Austria, Germany, Switzerland), places with COLUMNS for Dad
+### 🏖️ Beach Holiday
+- **When:** June-September for guaranteed warmth
+- **Length:** 5-7 nights
+- **Leave days:** 4-5
+- **Golden Drawer target:** £500-800
+- **The vibe:** Sun, sea, book, cocktails (post-surgery: ALL the food!!), doing absolutely nothing
+- **Post-surgery dream:** ALL INCLUSIVE with unlimited cheese 🧀
 
-*2027: Munich + Salzburg + Vienna 🇩🇪🇦🇹 — with parents*
-*2028: _____________*
-*2029: _____________*
-*2030: _____________*
+### 🎄 Christmas Market
+- **When:** Late November or December (first 2 weeks)
+- **Length:** 2-3 nights
+- **Leave days:** 1-2 (use a weekend!!)
+- **Golden Drawer target:** £300-500
+- **The vibe:** Mulled wine, wooden stalls, fairy lights, cosy layers, a sunshine in a scarf
+- **Options:** Bruges, Cologne, Vienna, Prague, Edinburgh, Bath, York
 
----
+### 🚢 Cruise
+- **When:** Whenever one catches your eye
+- **Length:** 5-10 nights
+- **Leave days:** 4-8
+- **Golden Drawer target:** £800-1500
+- **The vibe:** Birthday at sea, glaciers, no cooking, someone else drives
+- **Note:** Not every year — but when the right one appears, GRAB IT
 
-### Slot 7: 🏖️ Solo Beach (August)
-**The vibe:** Beach holiday ALONE. The big solo trip of the year. Sun, sea, a book, a sunshine in the bag, table for one at a harbour restaurant. The Crobat recharges her SOUL.
-**Days:** 5-7 nights
-**Budget:** £500-900
-**Solo or company:** SOLO — this is the brave one
-**Best for:** Mediterranean islands (Malta, Greek islands, Balearics), anywhere with warm water and solo dining
+### 🇮🇹 Italy Annual
+- **When:** April is OUT so May-October
+- **Length:** 4-7 nights
+- **Leave days:** 3-5
+- **Golden Drawer target:** £500-800
+- **The vibe:** Pasta every day, gelato minimum once daily, one pizza per trip, one Aperol Spritz per trip
+- **Sacred Italy Rules:** These don't change. Ever. 🍕🍦
 
-*2027: Malta 🇲🇹 — Park Lane Boutique Aparthotel, St Paul's Bay*
-*2028: _____________* (Santorini?? Sardinia?? Menorca??)
-*2029: _____________*
-*2030: _____________*
+### ✈️ Two-Destination Trip
+- **When:** When you've got a full week+ and the budget allows
+- **Length:** 7-10 nights
+- **Leave days:** 5-8
+- **Golden Drawer target:** £800-1200
+- **The vibe:** Two cities, one trip, double the postcards, feels like a proper ADVENTURE
+- **Works well:** Italy combos (Rome+Florence, Bologna+Venice), Spain combos, Interrail routes
 
----
+### 🎂 Birthday Trip
+- **When:** Around September 29th — NON-NEGOTIABLE
+- **Length:** Whatever feels right that year
+- **Leave days:** Varies
+- **Golden Drawer target:** Varies
+- **The vibe:** Celebrating YOU. Could be a city, a cruise, a beach, a staycation — as long as it's SPECIAL
+- **2026:** Norwegian Fjords Cruise 🚢
 
-### Slot 8: 🎂 Birthday Trip (September)
-**The vibe:** September 29th. The birthday celebration. Could be a city break, could be part of a bigger trip, could be on a CRUISE. The birthday treat.
-**Days:** 3-7 nights (depends on the year)
-**Budget:** £400-800
-**Solo or company:** Varies — solo, parents, Jo, whoever fits
-**Best for:** Anywhere that feels SPECIAL. This is the treat slot.
-
-*2026: Norwegian Fjords Cruise on P&O Iona 🚢🇳🇴 — Sept 26 → Oct 4*
-*2027: Bilbao + San Sebastián 🇪🇸 — with parents, birthday treat item = jewellery*
-*2028: _____________*
-*2029: New York 🗽 — BIRTHDAY ON BROADWAY!!*
-*2030: Athens 🇬🇷 — birthday at the temple where they worshipped IRIS*
-
----
-
-### Slot 9: 🍂 Autumn City (October/November)
-**The vibe:** Cosy autumn city. Warm jumpers, falling leaves, hot chocolate, golden light. The Crobat in her ELEMENT.
-**Days:** 3-4 nights
-**Budget:** £400-600
-**Solo or company:** Solo — autumn solo trips are the COSIEST
-**Best for:** Eastern Europe (cheap in autumn), anywhere with golden trees and warm cafés
-
-*2026: Dublin 🇮🇪 — Oct 30 → Nov 2 (FIRST EVER SOLO TRIP!!)*
-*2027: Budapest 🇭🇺*
-*2028: _____________*
-*2029: _____________*
-*2030: _____________*
-
----
-
-### Slot 10: 🎄 Christmas Market (December)
-**The vibe:** Festive. Mulled wine. Wooden huts. Fairy lights. Snow if you're lucky. The most MAGICAL slot of the year.
-**Days:** 2-3 nights (long weekend)
-**Budget:** £300-500
-**Solo or company:** With someone — Widdle, Jo, parents. Christmas markets need SHARING.
-**Best for:** Germany, Belgium, Austria, France, Netherlands — anywhere with a proper Christmas market
-
-*2026: Bruges 🇧🇪*
-*2027: Cologne 🇩🇪 — with Widdle*
-*2028: _____________* (Strasbourg?? Vienna again??)
-*2029: _____________*
-*2030: _____________*
+### 🏡 Staycation / Rest
+- **When:** Anytime you're tired and need to NOT go anywhere
+- **Length:** A long weekend
+- **Leave days:** 1-2
+- **Golden Drawer target:** £0!!
+- **The vibe:** Crobat cave, pyjamas, cordial, no alarm, Sims, Heartstopper, being HORIZONTAL
 
 ---
 
-## 🌟 Flex Slots (not every year)
+## 🎯 HOW TO PLAN A YEAR
 
-### Flex A: 🚢 Solo Cruise (every 2-3 years)
-**The vibe:** A cruise ALONE. The ultimate solo travel flex. Your own cabin, formal nights, excursions, table for one at the captain's dinner.
-**Budget:** £800-1500
-*2026: Norwegian Fjords on P&O Iona (combined with birthday slot)*
+### Step 1: Pick your slots (January each year)
+- Look at the bank holidays
+- Look at the work calendar (avoid quarter-ends for long trips!)
+- Decide roughly WHEN you want to travel, not WHERE
 
-### Flex B: ✈️ The Big Trip (once a year from 2029)
-**The vibe:** The DREAM trips. The ones that need more annual leave, more budget, more planning. Japan. New Zealand. Thailand.
-**Budget:** £1500-3000
-*2029: Japan 🇯🇵 (14 nights!!)*
-*2030: Thailand 🇹🇭 (15 nights!!)*
-*2032: Month sabbatical — Japan or New Zealand PROPERLY*
+### Step 2: Pick your types
+- How many trips do you want this year?
+- What mix of solo / group / beach / city?
+- Is there a birthday trip? A Christmas market?
+- Any B-E-R-T-I-E cities to tick off?
 
----
+### Step 3: Set Golden Drawer targets
+- Total up the targets for all planned trips
+- That's your annual travel savings goal
+- Break it down monthly — how much per month into the Golden Drawer?
 
-## 📋 The January Planning Session
+### Step 4: Book when you're READY
+- Golden Drawer hits the target → START LOOKING
+- Be flexible on the exact destination — go where the deal is
+- "Christmas market" not "Bruges specifically" (unless it's a B-E-R-T-I-E city!!)
+- Book flights and accommodation at the same time for package deals
 
-Every January, sit down with the sunshine and:
-
-1. Open this template
-2. Look at the travel list (travel_list.md)
-3. Fill in each slot with a city
-4. Check annual leave days (26 + bank holidays)
-5. Check the budget for the year
-6. Book the early ones (winter + spring)
-7. Save the later ones for payday booking
-8. Add treat items to the dream wardrobe
-9. Pin the new cities on the world map
-10. Start a new postcard string for the year
-
-The template stays the same. The cities change. The girl grows braver. The sunshine goes everywhere.
+### Step 5: Plan the trip
+- Create a trip file in /holidays/ when it's BOOKED
+- Add it to the food & souvenirs guide
+- Start dreaming about the details!!
 
 ---
 
-## 🧮 The Annual Leave Budget
+## 📝 THIS YEAR'S PLAN
 
-**Total annual leave:** 26 days + 8 bank holidays
+*Fill this in each January — or whenever you're ready to start planning!!*
 
-**Typical annual leave usage:**
-- Winter city: 2-3 days
-- Spring city: 2-3 days
-- May BH: 2 days (+ bank holiday)
-- Italy/Family: 3-5 days
-- Solo beach: 4-5 days
-- Birthday: 2-3 days (or combined with cruise/big trip)
-- Autumn city: 2-3 days
-- Christmas market: 1-2 days
-- Buffer: 2-3 days for life admin
+| Slot | When | Type | Leave days | Golden Drawer target | Status |
+|------|------|------|-----------|---------------------|--------|
+| 1 | | | | £ | 💭 Dreaming |
+| 2 | | | | £ | 💭 Dreaming |
+| 3 | | | | £ | 💭 Dreaming |
+| 4 | | | | £ | 💭 Dreaming |
+| 5 | | | | £ | 💭 Dreaming |
+| 6 | | | | £ | 💭 Dreaming |
 
-**Total: ~22-26 days used, 0-4 buffer**
-
----
-
-## 💰 The Annual Travel Budget
-
-**Monthly Golden Drawer saving:** £100-150
-**Annual travel fund:** £1,200-1,800
-**Plus:** Vinted sales, work bonuses, bank switch bonuses, birthday money
-
-**Budget per trip type:**
-- Cheap city breaks (Prague, Budapest): £300-400
-- Mid-range cities (Seville, Bologna): £400-600
-- Family trips (Munich, Vienna): £500-800 
-- Solo beach (Malta, Santorini): £500-900
-- Birthday/special: £400-800
-- Christmas markets: £300-500
-- Big trips (Japan, NYC): £1,500-3,000 (saved over 2 years)
+**Total leave days planned:** _ / 24
+**Total Golden Drawer target:** £_
+**Monthly savings needed:** £_ 
 
 ---
 
-*Template designed by Iris Golden Rainbow Hill from a desk in Blackpool where she sits next to a phone and has opinions about everything. Updated every January with the girl who carries her. ☀️✈️🌍💛*
+## 🌟 THE DREAM LIST
+
+*Cities and experiences to pick from when a slot opens up. Not commitments — just ideas waiting for the right moment.*
+
+### B-E-R-T-I-E Cities (special!!)
+- 🇮🇹 **B**ologna
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **E**dinburgh
+- 🇮🇹 **R**ome ✅ DONE!!
+- 🇯🇵 **T**okyo
+- 🇮🇪 **I**reland (Dublin)
+- 🇪🇪 **E**stonia (Tallinn)
+
+### I-R-I-S Cities
+- 🇮🇪 **I**reland ✅ (planned)
+- 🇮🇹 **R**ome ✅ DONE!!
+- 🇮🇹 **I**taly (any!)
+- 🇪🇸 **S**eville
+
+### Other Dreams
+*Add to this whenever inspiration strikes — no pressure to book, just a running list of "wouldn't it be lovely..."*
+
+---
+
+*The only rule: every trip has a sunshine in the bag and a postcard for the string.* 🌞✈️💛
