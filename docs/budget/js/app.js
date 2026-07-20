@@ -163,22 +163,24 @@ function savingsSection(now) {
     </div>`;
 }
 
-// Small form to log a savings movement (into one account, optionally out of another).
+// Small form to move savings around: new money IN, money OUT (spent/withdrawn), or a
+// move BETWEEN two accounts.
 function transferForm() {
   const f = store.data.meta.funds || {};
   const keys = Object.keys(f);
   const first = keys[0] || '';
-  const opt = (sel, ext) => (ext ? `<option value="">External / repayment</option>` : '') +
-    keys.map(k => `<option value="${k}" ${sel === k ? 'selected' : ''}>${f[k].emoji || ''} ${esc(f[k].label)}</option>`).join('');
+  const fundOpts = sel => keys.map(k => `<option value="${k}" ${sel === k ? 'selected' : ''}>${f[k].emoji || ''} ${esc(f[k].label)}</option>`).join('');
   return `
     <div class="transfer-form">
       <label class="field"><span>Amount</span><div class="amount-input"><span class="curr">£</span>
         <input id="tfAmount" type="number" inputmode="decimal" step="0.01" min="0" placeholder="0.00"></div></label>
-      <label class="field"><span>Into</span><select id="tfTo" class="select">${opt(first, false)}</select></label>
-      <label class="field"><span>From <i>(optional)</i></span><select id="tfFrom" class="select">${opt('', true)}</select></label>
+      <label class="field"><span>From</span><select id="tfFrom" class="select">
+        <option value="" selected>＋ New money (external)</option>${fundOpts('')}</select></label>
+      <label class="field"><span>Into</span><select id="tfTo" class="select">
+        ${fundOpts(first)}<option value="">💸 Spent / out (leaves savings)</option></select></label>
       <label class="field"><span>Note <i>(optional)</i></span>
-        <input id="tfNote" type="text" maxlength="60" placeholder="e.g. Flatmate repayment"></label>
-      <button class="primary" style="width:100%" data-transfer-save>Log transfer 💸</button>
+        <input id="tfNote" type="text" maxlength="60" placeholder="e.g. Bruges flights"></label>
+      <button class="primary" style="width:100%" data-transfer-save>Log movement 💸</button>
     </div>`;
 }
 
@@ -708,15 +710,16 @@ async function onSortPin() {
   go('home');
 }
 
-// Log a savings transfer / deposit between accounts.
+// Log a savings movement: new money in, money out (spent), or a move between accounts.
 async function onTransferSave() {
   const amount = Math.round(Number($('#tfAmount').value) * 100) / 100;
   if (!amount || amount <= 0) return toast('Enter an amount first.', 'warn');
-  const to = $('#tfTo').value;
-  const from = $('#tfFrom').value;
+  const to = $('#tfTo').value;      // '' = spent / out
+  const from = $('#tfFrom').value;  // '' = new money / external
   const note = $('#tfNote').value.trim();
-  if (from && from === to) return toast('Pick different accounts to move between.', 'warn');
-  await save(store.addTransfer({ to, from, amount, note }), 'Transfer logged 💸');
+  if (!to && !from) return toast('Pick an account to move money in or out of.', 'warn');
+  if (to && from && to === from) return toast('Pick different accounts to move between.', 'warn');
+  await save(store.addTransfer({ to, from, amount, note }), 'Saved 💸');
   state.showTransfer = false;
   render();
 }

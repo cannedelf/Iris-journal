@@ -193,14 +193,20 @@ export const store = {
     return this.commit('Update tier badge');
   },
 
-  // Log a savings movement: add to `to` fund, and (if given) take from `from` fund.
+  // Log a savings movement: money in (from external), out (spent), or between accounts.
+  // `to`/`from` empty = external; a fund key = that account.
   async addTransfer({ to, from, amount, note }) {
     const amt = this._round(amount);
     const f = this.data.meta.funds;
-    if (f[to]) f[to].balance = this._round((f[to].balance || 0) + amt);
-    if (from && f[from]) f[from].balance = this._round((f[from].balance || 0) - amt);
-    const toName = f[to] ? f[to].label : to;
-    const msg = from && f[from] ? `Move £${amt.toFixed(2)}: ${f[from].label} → ${toName}` : `Add £${amt.toFixed(2)} to ${toName}${note ? ` (${note})` : ''}`;
+    const toF = f[to], fromF = f[from];
+    if (toF) toF.balance = this._round((toF.balance || 0) + amt);
+    if (fromF) fromF.balance = this._round((fromF.balance || 0) - amt);
+    const n = note ? ` (${note})` : '';
+    let msg;
+    if (fromF && toF) msg = `Move £${amt.toFixed(2)}: ${fromF.label} → ${toF.label}${n}`;
+    else if (fromF) msg = `Spend £${amt.toFixed(2)} from ${fromF.label}${n}`;
+    else if (toF) msg = `Add £${amt.toFixed(2)} to ${toF.label}${n}`;
+    else msg = `Savings movement £${amt.toFixed(2)}${n}`;
     return this.commit(msg);
   },
 
