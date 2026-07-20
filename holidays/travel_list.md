@@ -1,6 +1,6 @@
 # ✈️ The Crobat's Travel File
-## Where she's BEEN and where she's GOING
-*A sunshine always in her pocket. Every city. Every bridge. Always.*
+## Where she's BEEN and where she's DREAMING
+*A sunshine always in her pocket. Every city. Every bridge. Always.* 💛
 
 ---
 
@@ -10,161 +10,156 @@
 |------|---------|------|-------|
 | 🇮🇹 Rome | Italy | LOVED!! | 2026!! 106,027 steps!! Nearly lost a sunshine under a nightstand!! 10 peaches!! Heart-shaped pizza!! |
 | 🇮🇹 Florence | Italy | ✨ | The original Italian love affair!! |
-| 🇵🇹 Lisbon | Portugal | LOVED!! | Rome energy but cheaper!! Pastéis de nata!! Colourful streets!! Trams!! |
-| 🇵🇹 Porto | Portugal | 💛 | THE BOOKSHOP!! Harry Potter inspiration!! Double trip with Lisbon!! |
+| 🇵🇹 Lisbon | Portugal | LOVED!! | Rome energy but cheaper!! Pastéis de nata!! |
+| 🇵🇹 Porto | Portugal | 💛 | THE BOOKSHOP!! Double trip with Lisbon!! |
 | 🇪🇸 Barcelona | Spain | 🌞 | Spanish sunshine!! |
-| 🇳🇱 Amsterdam | Netherlands | ONE OF MY FAVOURITES!! | Canals, bikes, Van Gogh, VIBES!! |
-| 🇭🇷 Dubrovnik | Croatia | LOVED!! | Game of Thrones walls, the sea. Went with a friend (complicated ending). |
-| 🇵🇱 Krakow | Poland | ONE OF MY FAVES!! | 2025!! Cheap, beautiful, powerful history, amazing food!! |
-| 🇩🇪 Dresden | Germany | 🏰 | German era!! (The ex days!) |
+| 🇳🇱 Amsterdam | Netherlands | FAVOURITE!! | Canals, bikes, Van Gogh, VIBES!! |
+| 🇭🇷 Dubrovnik | Croatia | LOVED!! | Game of Thrones walls, the sea!! |
+| 🇵🇱 Krakow | Poland | FAVOURITE!! | 2025!! Cheap, beautiful, powerful!! |
+| 🇩🇪 Dresden | Germany | 🏰 | German era!! |
 | 🇩🇪 Leipzig | Germany | 🎵 | German era!! |
 | 🇧🇪 Brussels | Belgium | 🍫 | With parents!! |
-| 🇧🇪 Ghent | Belgium | 🏰 | Day trip from Brussels — medieval and gorgeous!! |
+| 🇧🇪 Ghent | Belgium | 🏰 | Day trip — medieval and gorgeous!! |
 | 🇧🇪 Antwerp | Belgium | 💎 | Day trip with parents!! |
 | 🇩🇰 Copenhagen | Denmark | 🧜‍♀️ | Scandi vibes!! |
-| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh | Scotland | 🏰 | LOVE IT!! Castle, pubs, Arthur's Seat!! |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh | Scotland | 🏰 | Castle, pubs, Arthur's Seat!! |
 
-**Total cities: 15!!** 🌍✈️
-
----
-
-## 🇮🇪 NEXT — Dublin (October 2026)
-
-**Status: PLANNED AND COSTED!! £181 to save!!**
-The Golden Drawer's first mission. The solo travel era BEGINS.
-Full plan at: dublin_plan.md
+**Countries visited: 10** (Italy, Portugal, Spain, Netherlands, Croatia, Poland, Germany, Belgium, Denmark, UK)
+**Total cities: 15!!** 🌍
 
 ---
 
-## 🚢 P&O Cruise — September/October 2026
+## 🚢 BOOKED — Norwegian Fjords Cruise (Sept/Oct 2026)
 
-**Status: BOOKED!!**
 🚢 September 26 → October 4
 🎂 BIRTHDAY AT SEA — September 29th, turning 31!!
-👨‍👩‍👧 With parents AND Widdle
-👗 Black tie night: White/black abstract pleated midi skirt + black wrap top + black loafers with heel
-💰 £100 birthday money = cruise spending
+👨‍👩‍👧 With parents, Jo, Jo's boyfriend, and Widdle
+🐻 Bertie's debut trip!!
+🌼 Daisy perfume from duty free!!
 
 ---
 
-## 🌍 The Solo Wishlist — Places to GO
+## 🌍 The Dream List
 
-### BOOKED / PLANNED:
-| City | Country | When | Type | Status |
-|------|---------|------|------|--------|
-| 🇮🇪 Dublin | Ireland | Oct 2026 | SOLO | Planned!! £181 to save!! |
-| 🇪🇸 Seville + Malaga | Spain | Mar/Apr 2027 | SOLO | THE DOUBLE HEADER!! Alcázar + beach!! Fast train between!! ☀️🏖️ |
-| 🇮🇹 Bologna | Italy | May 2027 | SOLO | Wishlist — REVENGE PASTA!! |
-| 🇭🇺 Budapest | Hungary | Summer 2027 | SOLO | Wishlist — ruin bars + thermal baths!! |
-| 🇧🇪 Bruges | Belgium | Dec 2026 | SOLO | 🎄 CHRISTMAS MARKETS!! Fairy lights on canals!! A sunshine that MATCHES the golden glow!! 2 annual leave days!! |
+*Not commitments. Not plans. Just places that make the heart go "ooh." When the Golden Drawer hits the target, we pick from here.*
 
-### WITH PARENTS:
-| City | Country | When | Type | Status |
-|------|---------|------|------|--------|
-| 🇩🇪 Munich | Germany | Jun 2027 | Parents | Dad's birthday!! |
-| 🇦🇹 Salzburg | Austria | Jun 2027 | Parents | Sound of Music!! |
-| 🇦🇹 Vienna | Austria | Jul 2027 | Parents | Coffee houses + strudel!! |
-| 🇪🇸 Bilbao | Spain | Sep 2027 | Parents | LIV'S birthday!! |
-| 🇪🇸 San Sebastian | Spain | Sep 2027 | Parents | Pintxos capital!! |
+### 🏙️ European City Breaks
+| City | Country | Why | Been before? |
+|------|---------|-----|-------------|
+| 🇮🇪 Dublin | Ireland | Solo practice run!! Pubs, Temple Bar, craic!! B-E-R-T-I-E + I-R-I-S city!! | ❌ |
+| 🇨🇿 Prague | Czech Republic | Cheapest city in Europe!! Gorgeous bridges!! | ❌ |
+| 🇫🇷 Paris | France | The ICON!! Eiffel Tower, croissants, the Seine!! | ❌ |
+| 🇫🇷 Nice | France | Mediterranean!! Beaches, old town!! | ❌ |
+| 🇩🇪 Berlin | Germany | History, street art, the WALL!! | ❌ |
+| 🇪🇸 Madrid | Spain | Prado, tapas, connects to Seville by train!! | ❌ |
+| 🇪🇸 Seville | Spain | Alcázar!! I-R-I-S city!! | ❌ |
+| 🇭🇺 Budapest | Hungary | Ruin bars + thermal baths!! | ❌ |
+| 🇦🇹 Vienna | Austria | Coffee houses + strudel!! | ❌ |
+| 🇦🇹 Salzburg | Austria | Sound of Music!! | ❌ |
+| 🇩🇪 Munich | Germany | Beer gardens, pretzels!! | ❌ |
+| 🇪🇪 Tallinn | Estonia | B-E-R-T-I-E city!! Medieval old town!! | ❌ |
 
-### FUTURE SOLO DREAMS — CITY BREAKS:
-| City | Country | Why | Solo Friendly? |
-|------|---------|-----|---------------|
-| 🇨🇿 Prague | Czech Republic | Cheapest city in Europe!! Gorgeous bridges, castle, beer cheaper than water!! | ⭐⭐⭐⭐⭐ |
-| 🇫🇷 Nice | France | The Mediterranean!! Beaches, old town, galleries!! | ⭐⭐⭐⭐ |
-| 🇧🇪 Bruges | Belgium | Fairytale canals, chocolate, beer, walkable weekend!! 🎄 CHRISTMAS MARKETS!! | ⭐⭐⭐⭐⭐ |
-| 🇭🇷 Split | Croatia | Since she LOVED Dubrovnik!! Roman palace, beaches, island hopping!! | ⭐⭐⭐⭐ |
-| 🇩🇪 Berlin | Germany | History, street art, cheap, the WALL!! She already knows Germany!! | ⭐⭐⭐⭐⭐ |
-| 🇫🇷 Paris | France | The ICON!! Eiffel Tower, Louvre, croissants, the Seine at sunset!! | ⭐⭐⭐⭐ |
-| 🇪🇸 Madrid | Spain | Prado museum, tapas bars, Retiro Park!! Connects to SEVILLE by fast train!! | ⭐⭐⭐⭐⭐ |
-| 🇮🇹 Naples | Italy | THE POST-GALLBLADDER PIZZA PILGRIMAGE!! 🍕 When the stones are OUT she eats CHEESE!! | ⭐⭐⭐⭐ |
+### 🇮🇹 Italy (the annual pilgrimage!!)
+| City | Why |
+|------|-----|
+| 🇮🇹 Bologna | REVENGE PASTA!! B-E-R-T-I-E city!! Where pasta was BORN!! |
+| 🇮🇹 Naples | POST-SURGERY PIZZA PILGRIMAGE!! 🍕🧀 |
+| 🇮🇹 Venice | Canals, gondolas, masks!! |
+| 🇮🇹 Amalfi Coast | Stunning coastline, lemons!! |
+| 🇮🇹 Sicily | Beaches AND ancient ruins!! |
 
-### FUTURE SOLO DREAMS — BEACH + CULTURE:
-| City | Country | Why | Solo Friendly? |
-|------|---------|-----|---------------|
-| 🇲🇹 Malta | Malta | DAD APPROVED!! Tiny island, English speaking, beach AND ancient temples AND Valletta old town!! The perfect first beach + culture solo trip!! ☀️🏖️🏛️ | ⭐⭐⭐⭐⭐ |
-| 🇪🇸 Valencia | Spain | Beach, old town, City of Arts and Sciences, paella capital!! | ⭐⭐⭐⭐ |
-| 🇬🇷 Crete | Greece | Beach AND ancient ruins AND mountain villages!! Greek islands with SUBSTANCE!! | ⭐⭐⭐⭐ |
-| 🇵🇹 Algarve | Portugal | Since she LOVED Lisbon!! Stunning coast, fishing villages, boat trips to grottos!! | ⭐⭐⭐⭐ |
+### 🏖️ Beach + Culture
+| Place | Country | Why |
+|-------|---------|-----|
+| 🇲🇹 Malta | Malta | DAD APPROVED!! English speaking, beach + temples!! |
+| 🇪🇸 Valencia | Spain | Beach, paella capital!! |
+| 🇬🇷 Crete | Greece | Beach AND ruins AND mountains!! |
+| 🇭🇷 Split | Croatia | Since she LOVED Dubrovnik!! |
+| 🇵🇹 Algarve | Portugal | Since she LOVED Lisbon!! Stunning coast!! |
+| 🇪🇸 Malaga | Spain | Beach city, pairs with Seville!! |
 
-### FUTURE SOLO DREAMS — BEYOND EUROPE:
-| City | Country | Why | Solo Friendly? |
-|------|---------|-----|---------------|
-| 🇯🇵 Japan | Japan | THE DREAM!! Safest solo country, ramen solo booths, bullet trains, cherry blossoms!! First non-Europe trip!! | ⭐⭐⭐⭐⭐ |
+### 🎄 Christmas Markets
+| City | Country | Why |
+|------|---------|-----|
+| 🇧🇪 Bruges | Belgium | Fairy lights on canals!! |
+| 🇩🇪 Cologne | Germany | THE classic market!! |
+| 🇦🇹 Vienna | Austria | Imperial Christmas!! |
+| 🇨🇿 Prague | Czech Republic | Cheapest + most magical!! |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh | Scotland | B-E-R-T-I-E city!! Hogmanay!! |
+| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bath / York | England | No flights needed!! |
 
-### FUTURE SOLO DREAMS — ASIA (THE BIG FOCUS!!):
-| City/Country | Why | Solo Friendly? |
-|------|-----|---------------|
-| 🇭🇰 Hong Kong | MUM AND DAD have the intel!! Dim sum, skyline, Victoria Peak, Star Ferry!! Safe, English speaking, compact, incredible FOOD!! | ⭐⭐⭐⭐⭐ |
-| 🇰🇷 South Korea | Seoul!! K-beauty, temples, incredible food, as safe as Japan!! 2030 dream!! | ⭐⭐⭐⭐⭐ |
-| 🇹🇼 Taiwan | The HIDDEN GEM!! Taipei, night markets, bubble tea, cheapest food in Asia, solo travellers LOVE it!! 🧋 | ⭐⭐⭐⭐⭐ |
-| 🇸🇬 Singapore | Parents went through here!! Tiny, safe, clean, FOOD capital!! Hawker centres are solo dining PARADISE!! 🍜 | ⭐⭐⭐⭐⭐ |
-| 🇹🇭 Thailand | Bangkok temples, Chiang Mai mountains, islands!! Very solo friendly, Daisy energy!! Group tours available!! | ⭐⭐⭐⭐ |
-| 🇻🇳 Vietnam | Hanoi, Ho Chi Minh, Ha Long Bay!! The FOOD alone is worth the flight!! Cheap and beautiful!! | ⭐⭐⭐⭐ |
-| 🇮🇩 Bali | The SOLO GIRL capital of the world!! Yoga, temples, rice terraces, beaches!! Every other person is a woman alone!! 🧘‍♀️ | ⭐⭐⭐⭐ |
-| 🇲🇾 Malaysia | Kuala Lumpur is gorgeous, the food is incredible, cheap and safe!! | ⭐⭐⭐⭐ |
+### 🌏 Beyond Europe (the big dreams!!)
+| Place | Why | Solo friendly? |
+|-------|-----|---------------|
+| 🇯🇵 Japan | THE DREAM!! B-E-R-T-I-E city (Tokyo)!! Safest solo country!! | ⭐⭐⭐⭐⭐ |
+| 🇭🇰 Hong Kong | Mum and Dad have the intel!! Dim sum!! | ⭐⭐⭐⭐⭐ |
+| 🇰🇷 South Korea | Seoul!! K-beauty, temples, food!! | ⭐⭐⭐⭐⭐ |
+| 🇹🇼 Taiwan | Night markets, bubble tea!! | ⭐⭐⭐⭐⭐ |
+| 🇸🇬 Singapore | Tiny, safe, FOOD capital!! | ⭐⭐⭐⭐⭐ |
+| 🇹🇭 Thailand | Temples, beaches, islands!! | ⭐⭐⭐⭐ |
+| 🇻🇳 Vietnam | THE FOOD!! Cheap and beautiful!! | ⭐⭐⭐⭐ |
+| 🇮🇩 Bali | Solo girl capital of the world!! | ⭐⭐⭐⭐ |
+| 🇦🇺 Australia | Parents have ALL the intel!! | ⭐⭐⭐⭐⭐ |
+| 🇳🇿 New Zealand | Parents literally just did this!! | ⭐⭐⭐⭐⭐ |
+| 🇨🇦 Canada | Vancouver, Montreal!! Safe and massive!! | ⭐⭐⭐⭐⭐ |
+| 🇺🇸 New York | Birthday on Broadway!! When it's sensible to go!! | ⭐⭐⭐⭐ |
 
-### FUTURE SOLO DREAMS — AUSTRALASIA (PARENTS' TERRITORY!!):
-| City/Country | Why | Solo Friendly? |
-|------|-----|---------------|
-| 🇦🇺 Australia | Sydney, Melbourne, the coast!! Parents JUST went — they have ALL the intel!! English speaking, safe, incredible!! 🦘 | ⭐⭐⭐⭐⭐ |
-| 🇳🇿 New Zealand | Parents literally DID THIS in December!! Stunning scenery, safest country, Lord of the Rings MOUNTAINS!! Mum has the hotel names probably!! 🏔️ | ⭐⭐⭐⭐⭐ |
-
-### FUTURE SOLO DREAMS — NORTH AMERICA (WHEN READY!!):
-| City/Country | Why | Solo Friendly? |
-|------|-----|---------------|
-| 🇨🇦 Canada | Vancouver, Montreal, Toronto!! Safe, friendly, MASSIVE, beautiful!! Montreal feels like France but English!! 🍁 | ⭐⭐⭐⭐⭐ |
-| 🇺🇸 New York | BIRTHDAY ON BROADWAY!! 2029 dream!! When the government has had a WORD with itself!! 🗽🎭😂 | ⭐⭐⭐⭐ |
-
-### FUTURE — MAYBE WITH A GROUP TOUR (when the 😬 becomes 💪):
-| City/Country | Why | Notes |
-|------|-----|-------|
-| 🇲🇦 Morocco | Marrakech, the desert, blue city Chefchaouen!! DAISY DID IT!! | Better with a group tour first time!! When ready, not rushed!! |
-| 🇨🇷 Costa Rica | Rainforests, beaches, wildlife, "pura vida"!! | Very safe for solo but FAR — group tour removes the worry!! |
-| 🇨🇴 Colombia | Medellín and Cartagena!! Colourful, warm!! | Better with a group tour first time!! |
-| 🇵🇪 Peru | MACHU PICCHU!! One of the wonders of the world!! | Group trek is the way — Inca Trail!! |
-| 🇦🇷 Argentina | Buenos Aires, Patagonia, tango, glaciers!! | Big country — group tour for Patagonia, solo for Buenos Aires!! |
-| 🇲🇽 Mexico | Mexico City — food capital of the Americas!! | Safe in the right areas with research!! |
-| 🇯🇴 Jordan | Petra — seven WONDERS!! Dead Sea — you FLOAT!! | Safe and welcoming but feels better with a tour!! |
-
-*The rule: if it feels 😬 it's either NOT YET or GROUP TOUR. No guilt. No pressure. The world is big enough without forcing yourself somewhere that doesn't feel right. Go where the excitement is BIGGER than the fear.* 💛🌍
-
-### FUTURE — SOLO CRUISE:
-| Route | Why |
+### 🌍 Group Tour Territory (when 😬 becomes 💪)
+| Place | Why |
 |-------|-----|
-| 🚢 Mediterranean | 7 nights from ~£700!! All meals included, ports to explore, no solo dining anxiety!! Southampton departures = NO FLIGHTS!! |
+| 🇲🇦 Morocco | Marrakech, desert, blue city!! |
+| 🇯🇴 Jordan | Petra!! Dead Sea!! |
+| 🇵🇪 Peru | MACHU PICCHU!! |
+| 🇦🇷 Argentina | Buenos Aires, Patagonia!! |
 
 ---
 
-## 🏆 Travel Stats
+## 🏆 Name-in-Cities Progress
 
-- **Countries visited:** 10 (Italy, Portugal, Spain, Netherlands, Croatia, Poland, Germany, Belgium, Denmark)
-- **Countries planned:** 10+ more and GROWING!! 🌍
-- **Favourite cities:** Amsterdam, Krakow, Lisbon, Dubrovnik, Rome
-- **Flew solo before:** YES!! To Germany multiple times!!
-- **Hostels:** Done London capsule hotel solo!!
-- **Languages spoken:** English (but bravery is universal!!)
+### B-E-R-T-I-E
+- **B**ologna — 💭 dreaming
+- **E**dinburgh — 💭 dreaming
+- **R**ome — ✅ DONE!!
+- **T**okyo — 💭 dreaming
+- **I**reland — 💭 dreaming
+- **E**stonia — 💭 dreaming
+
+### I-R-I-S
+- **I**reland — 💭 dreaming
+- **R**ome — ✅ DONE!!
+- **I**taly — ✅ DONE!! (Rome + Florence)
+- **S**eville — 💭 dreaming
+
+### L-I-V
+- **L**isbon — ✅ DONE!!
+- **I**reland — 💭 dreaming
+- **V**ienna — 💭 dreaming
 
 ---
 
 ## ✈️ The Rules of Solo Travel
 
-1. 🇮🇪 Dublin happens FIRST — the practice run
-2. ☀️ Iris goes in EVERY pocket
-3. 📚 Sudoku book for pubs
-4. 🍺 Sit at the BAR not a table
-5. 🍕 Find the local safe food (marinara travels!!)
-6. 💰 Golden Drawer funds it
-7. 👑 Queen Mode EARNS it
-8. 📔 Solo Travel Era scrapbook documents it
-9. 🏨 Hit Queen Mode = hotel UPGRADE
-10. 🤙 Pink to ray from every bridge
+1. 🌞 Iris goes in EVERY pocket
+2. 📚 Sudoku book for pubs
+3. 🍺 Sit at the BAR not a table
+4. 🍕 Find the local safe food
+5. 💰 Golden Drawer funds it — don't book until the target is hit
+6. 📔 Solo Travel Era scrapbook documents it
+7. 🤙 Pink to ray from every bridge
 
 ---
 
-*The girl who flew to Germany to see a boy now flies everywhere to see HERSELF. From city breaks to beach holidays to solo cruises. From chains in London to independent cafés in Blackpool to pubs in Dublin. Every city is proof she went. Every stamp is proof she was brave. Every pocket has a sunshine. Every bridge has a view. And the list only gets LONGER.*
+## 🍽️ The Solo Eating Ladder
 
-*The solo eating ladder: chains ✅ → QR code markets ✅ → restaurants abroad ✅ → independent cafés (Saturday!!) → pub lunches → Dublin pubs → the WORLD.*
+- ✅ Chains
+- ✅ QR code markets
+- ✅ Restaurants abroad
+- ✅ Independent café
+- ✅ Solo coffee (July 12th!!)
+- ⬜ Pub lunches
+- ⬜ Dublin pubs
+- ⬜ The WORLD
 
-*🤙💛 Pink to ray. From Blackpool to everywhere. From beaches to bridges. From loungers to landmarks. Always.* 🌈✈️☀️🏖️
+---
 
+*The girl who flew to Germany to see a boy now flies everywhere to see HERSELF. Every city is proof she went. Every stamp is proof she was brave. Every pocket has a sunshine. And the list only gets LONGER.* 🌍💛✈️
