@@ -236,6 +236,7 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 .sort-card.warn { background: var(--amber-soft); border-color: #f0cf9a; }
 .sort-card.queen { background: linear-gradient(165deg, #fff7e0, #ffeec2); border-color: var(--gold); box-shadow: 0 8px 26px rgba(230,169,31,.3); }
 .queen-banner { text-align: center; font-weight: 800; color: var(--gold-deep); font-size: 16px; margin-bottom: 10px; }
+.boost-banner { text-align: center; font-weight: 800; color: #3a6ea5; background: #eef4fb; border: 1.5px solid #cfe0f0; border-radius: 12px; padding: 8px 10px; font-size: 13px; margin-bottom: 12px; }
 .sort-tier { font-size: 20px; font-weight: 800; display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
 .tier-split { font-size: 12px; font-weight: 700; color: var(--ink-soft); background: var(--cream-2); padding: 3px 9px; border-radius: 999px; }
 .sort-row { display: flex; justify-content: space-between; align-items: center; padding: 11px 0; border-bottom: 1px dashed var(--line); font-weight: 700; }

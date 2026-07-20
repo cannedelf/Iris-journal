@@ -449,7 +449,7 @@ function viewSorter() {
 function renderSorterResult() {
   const s = state.sorter || { balance: '', card: '' };
   if (s.balance === '' && s.card === '') return '';
-  const r = sortMoney(s.balance, s.card);
+  const r = sortNow();
 
   if (r.overspent) {
     return `<div class="sort-card warn">
@@ -462,7 +462,8 @@ function renderSorterResult() {
   return `
   <div class="sort-card ${r.tier.celebrate ? 'queen' : ''}">
     ${r.tier.celebrate ? '<div class="queen-banner">👑 QUEEN MODE! Look at you go!! 🎉</div>' : ''}
-    <div class="sort-tier">${r.tier.emoji} ${esc(r.tier.name)} <span class="tier-split">${Math.round(r.tier.holiday * 100)}% Golden Drawer · ${Math.round(r.tier.chase * 100)}% Emergency</span></div>
+    ${r.boosted ? '<div class="boost-banner">🚀 Emergency fund’s got a month of bills — boosting your Golden Drawer!</div>' : ''}
+    <div class="sort-tier">${r.tier.emoji} ${esc(r.tier.name)} <span class="tier-split">${Math.round(r.holidayPct * 100)}% Golden Drawer · ${Math.round(r.chasePct * 100)}% Emergency</span></div>
     <p class="sort-leftover">✨ True leftover: <b>${money(r.remainder)}</b> <span>— that's what sets your tier</span></p>
 
     <div class="sort-row pay"><span>💳 Pay off credit card</span><b>${money(r.card)}</b></div>
@@ -481,6 +482,18 @@ function renderSorterResult() {
   </div>`;
 }
 
+// Once the Emergency fund has a month of bills behind it, the sorter redirects more of
+// the leftover to the Golden Drawer so holidays grow quicker.
+function isBoosted() {
+  const cfg = store.data.meta.sorterBoost;
+  const em = (store.data.meta.funds || {}).emergency;
+  return !!(cfg && cfg.enabled) && em && (Number(em.balance) || 0) >= (Number(cfg.threshold) || Infinity);
+}
+function sortNow() {
+  const s = state.sorter || { balance: '', card: '' };
+  return sortMoney(s.balance, s.card, isBoosted());
+}
+
 // The amount to move into a split: Liv's override if she's tweaked it, else the
 // suggested figure rounded DOWN to whole pounds.
 function splitAmt(key, suggested) {
@@ -495,7 +508,7 @@ function keepAmount(r) {
 // Live-update just the "keep in current account" figure while the split inputs change.
 function updateSortKeep() {
   const s = state.sorter || {};
-  const r = sortMoney(s.balance, s.card);
+  const r = sortNow();
   if (r.overspent) return;
   const el = $('#sortKeep');
   if (!el) return;
@@ -670,7 +683,7 @@ async function onDelete(id) {
 // Sorter → record this month's split into the funds + card history (and pin the tier).
 async function onSortRecord() {
   const s = state.sorter || {};
-  const r = sortMoney(s.balance, s.card);
+  const r = sortNow();
   if (r.overspent) return toast('Nothing to record — overspent this month.', 'warn');
   const periodKey = isoDate(periodStart(today(), payDay()));
   const already = (store.data.meta.cardHistory || []).some(h => h.period === periodKey);
@@ -687,7 +700,7 @@ async function onSortRecord() {
 // Sorter → pin the current tier to the Home badge without moving any money.
 async function onSortPin() {
   const s = state.sorter || {};
-  const r = sortMoney(s.balance, s.card);
+  const r = sortNow();
   if (r.overspent || !r.tier) return toast('Enter your figures to see a tier first.', 'warn');
   const tier = { name: r.tier.name, emoji: r.tier.emoji, celebrate: !!r.tier.celebrate };
   await save(store.pinTier({ tier, leftover: r.remainder, periodKey: isoDate(periodStart(today(), payDay())) }),

@@ -298,26 +298,32 @@ export function periodBreakdown(data, withinDate) {
 // card, but still plenty left over) is rewarded, not punished.
 
 // Tiers keyed by the leftover amount; `min` is the inclusive lower bound.
+// `holiday`/`chase` are the normal split. `boostHoliday`/`boostChase` are the split used
+// once the Emergency fund has a month of bills behind it (see sorterBoost) — they send
+// more to the Golden Drawer so holidays grow quicker.
+// ⚠️ PLACEHOLDER boosted splits (+20 points to holiday) — swap for Iris's exact numbers.
 export const SORTER_TIERS = [
-  { min: 700, name: 'QUEEN', emoji: '👑', holiday: 0.40, chase: 0.60, celebrate: true },
-  { min: 500, name: 'Sensible Girlie', emoji: '💛', holiday: 0.30, chase: 0.70 },
-  { min: 300, name: 'On Budget', emoji: '✅', holiday: 0.25, chase: 0.75 },
-  { min: 0, name: 'Reined It In', emoji: '🫣', holiday: 0.20, chase: 0.80 }
+  { min: 700, name: 'QUEEN', emoji: '👑', holiday: 0.40, chase: 0.60, boostHoliday: 0.60, boostChase: 0.40, celebrate: true },
+  { min: 500, name: 'Sensible Girlie', emoji: '💛', holiday: 0.30, chase: 0.70, boostHoliday: 0.50, boostChase: 0.50 },
+  { min: 300, name: 'On Budget', emoji: '✅', holiday: 0.25, chase: 0.75, boostHoliday: 0.45, boostChase: 0.55 },
+  { min: 0, name: 'Reined It In', emoji: '🫣', holiday: 0.20, chase: 0.80, boostHoliday: 0.40, boostChase: 0.60 }
 ];
 
-export function sortMoney(balance, card) {
+export function sortMoney(balance, card, boosted = false) {
   const bal = Math.max(0, Number(balance) || 0);
   const cc = Math.max(0, Number(card) || 0);
   const remainder = Math.round((bal - cc) * 100) / 100; // the true leftover
   const highCard = cc >= 650; // 23% interest bites hardest on a big balance
 
   if (remainder <= 0) {
-    return { overspent: true, remainder, card: cc, tier: null, highCard };
+    return { overspent: true, remainder, card: cc, tier: null, highCard, boosted };
   }
   const tier = SORTER_TIERS.find(t => remainder >= t.min); // tier from the leftover
-  const holiday = Math.round(remainder * tier.holiday * 100) / 100;
+  const holidayPct = boosted ? tier.boostHoliday : tier.holiday;
+  const chasePct = boosted ? tier.boostChase : tier.chase;
+  const holiday = Math.round(remainder * holidayPct * 100) / 100;
   const chase = Math.round((remainder - holiday) * 100) / 100; // exact remainder split
-  return { overspent: false, remainder, card: cc, tier, highCard, holiday, chase };
+  return { overspent: false, remainder, card: cc, tier, highCard, boosted, holidayPct, chasePct, holiday, chase };
 }
 
 // --- goal & debt trackers ---------------------------------------------------
