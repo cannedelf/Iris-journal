@@ -146,18 +146,67 @@ Pick from this menu each year. You don't have to do ALL of them — mix and matc
 
 *Fill this in each January — or whenever you're ready to start planning!!*
 
-| Slot | When | Type | Leave days | Golden Drawer target | Status |
-|------|------|------|-----------|---------------------|--------|
-| 1 | | | | £ | 💭 Dreaming |
-| 2 | | | | £ | 💭 Dreaming |
-| 3 | | | | £ | 💭 Dreaming |
-| 4 | | | | £ | 💭 Dreaming |
-| 5 | | | | £ | 💭 Dreaming |
-| 6 | | | | £ | 💭 Dreaming |
+### 2026 Remaining Plans
+| Trip | When | Leave days | Status |
+|------|------|-----------|--------|
+| 🏥 Hospital appointment | Wed 29th July | 1 day | ✅ Booked |
+| 🚢 Norwegian Fjords Cruise | Sept 26 - Oct 4 | Already booked | ✅ Booked |
+| 🏥 Surgery | Oct 22nd | Sick note | ✅ Date confirmed |
+| 🎄 Christmas Market (solo!) | December TBD | 3 days | 💭 Dreaming — Bruges/Cologne/Prague |
+| 🎄 Christmas Eve | Dec 24th | 1 day | 📅 Pencilled |
 
-**Total leave days planned:** _ / 24
-**Total Golden Drawer target:** £_
-**Monthly savings needed:** £_ 
+**2026 leave remaining: 4 days** (after hospital + Christmas Eve + Christmas market)
+
+---
+
+### 2027 Plans
+| Slot | Trip | When | Leave days | Golden Drawer target | Status |
+|------|------|------|-----------|---------------------|--------|
+| 1 | 🇮🇪 Dublin (solo!) | Fri 26 Feb - Mon 1 Mar | 2 days | ~£400 | 💭 Researched — £406 on lastminute.com, 10:00 flight out, 16:45 return, hotel included |
+| 2 | 🇮🇹 Italy annual | May (bank holiday) | 4 days | £500-800 | 💭 Dreaming — Bologna/Naples/Venice/Amalfi TBD |
+| 3 | 🇩🇪🇦🇹 Munich + Salzburg (Dad's birthday!) | Late June (~23rd-29th) | 5 days | £600-900 | 💭 Dreaming — Neuschwanstein, Dachau, Dad's birthday in Salzburg |
+| 4 | 🏖️ Beach + culture (solo!) | August bank holiday | 3 days | £300-500 | 💭 Dreaming — Malaga/Split/Crete/Malta/Algarve/Valencia TBD |
+| 5 | 🇪🇸 Bilbao + San Sebastian (birthday!) | Late Sept (~24th-30th) | 5 days | £500-800 | 💭 Dreaming — Guggenheim + pintxos crawl, birthday in San Seb! |
+| 6 | 👴👵 Parent days / rest | Throughout year | 5 days | Minimal! | 💭 Flexible — mid-week days out, Lake District, York etc |
+
+**Total leave days planned:** 24 / 24
+**Total Golden Drawer target:** ~£2,300-3,400
+**Monthly savings needed:** ~£190-280
+
+### 🎄 2026 Christmas Market Research (December)
+**Pricing comparison (flights + 2 nights):**
+| City | Flights | Accommodation/night | Total estimate |
+|------|---------|-------------------|----------------|
+| 🇨🇿 Prague | £26-60 | £40-70 | £130-270 |
+| 🇩🇪 Cologne | £40-80 | £50-80 | £190-320 |
+| 🇧🇪 Bruges (via Brussels) | £40-80 + £20 train | £60-100 | £220-380 |
+
+Decision rule: check Golden Drawer in November — overflowing = Bruges, sensible = Prague, in between = Cologne!
+
+### 🇮🇪 Dublin Research (Feb 2027)
+- **Dates:** Fri 26th Feb → Mon 1st March 2027
+- **Found on lastminute.com:** £357 for 3 nights hotel + flights
+- **Better option:** 10:00 outbound flight (+£49) = £406 total, avoids airport hotel
+- **Return:** 16:45 back
+- **Train:** 5:25 Blackpool → airport 7:00, plenty of time for 10:00 flight
+- **Need:** Tanya to approve leave first!!
+
+### 🏖️ Beach + Culture Shortlist
+All offer beach AND things to see/do:
+| Destination | Why |
+|-------------|-----|
+| 🇪🇸 Malaga | Beach + Picasso + old town |
+| 🇭🇷 Split | Beach + Diocletian's Palace + GOT vibes |
+| 🇬🇷 Crete | Beach + Knossos ruins + mountains |
+| 🇲🇹 Malta | Beach + ancient temples + Dad approved |
+| 🇵🇹 Lagos/Algarve | Beach + cliffs + caves + loved Lisbon |
+| 🇪🇸 Valencia | Beach + City of Arts + paella capital |
+
+### 🌍 Also On The Dream List (no dates yet!)
+- 🇸🇮 Ljubljana + Lake Bled
+- 🇪🇸 Córdoba + Seville (mum's suggestion!)
+- 🇨🇿 Prague (if not done as Christmas market 2026)
+- 🇦🇹 Vienna (L-I-V city, future Christmas market?) 
 
 ---
 
