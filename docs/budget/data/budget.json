@@ -430,6 +430,13 @@
       "amount": 2.99,
       "category": "groceries",
       "note": "Aldi"
+    },
+    {
+      "id": "spend_2_kbs3q",
+      "date": "2026-07-20",
+      "amount": 4.25,
+      "category": "household",
+      "note": "B&M"
     }
   ]
 }
