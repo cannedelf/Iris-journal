@@ -163,11 +163,12 @@ Pick from this menu each year. You don't have to do ALL of them — mix and matc
 | Slot | Trip | When | Leave days | Golden Drawer target | Status |
 |------|------|------|-----------|---------------------|--------|
 | 1 | 🇮🇪 Dublin (solo!) | Fri 26 Feb - Mon 1 Mar | 2 days | ~£400 | 💭 Researched — £406 on lastminute.com, 10:00 flight out, 16:45 return, hotel included |
-| 2 | 🇮🇹 Italy annual | May (bank holiday) | 4 days | £500-800 | 💭 Dreaming — Bologna/Naples/Venice/Amalfi TBD |
+| 2 | 🇮🇹 Italy annual | May (bank holiday) | 4 days | £500-800 | 💭 Dreaming — Bologna/Naples/Venice/Amalfi TBD. Back in its rightful May spot!! |
 | 3 | 🇩🇪🇦🇹 Munich + Salzburg (Dad's birthday!) | Late June (~23rd-29th) | 5 days | £600-900 | 💭 Dreaming — Neuschwanstein, Dachau, Dad's birthday in Salzburg |
-| 4 | 🏖️ Beach + culture (solo!) | August bank holiday | 3 days | £300-500 | 💭 Dreaming — Malaga/Split/Crete/Malta/Algarve/Valencia TBD |
+| 4 | 🏖️🏊‍♀️ Beach + SWIMMING (solo!) | August bank holiday | 3 days | £300-500 | 💭 Dreaming — Crete/Split/Malta/Valencia (must have WARM sea 24°C+!!) |
 | 5 | 🇪🇸 Bilbao + San Sebastian (birthday!) | Late Sept (~24th-30th) | 5 days | £500-800 | 💭 Dreaming — Guggenheim + pintxos crawl, birthday in San Seb! |
-| 6 | 👴👵 Parent days / rest | Throughout year | 5 days | Minimal! | 💭 Flexible — mid-week days out, Lake District, York etc |
+| 6 | 🎄 Christmas market (solo!) | December | 2-3 days | £300-500 | 💭 Dreaming — Bruges/Cologne/Prague. Depends on Golden Drawer!! |
+| 7 | 👴👵 Parent days / rest | Throughout year | 2-3 days | Minimal! | 💭 Flexible — mid-week days out, retired parents available most of the year!! |
 
 **Total leave days planned:** 24 / 24
 **Total Golden Drawer target:** ~£2,300-3,400
@@ -191,20 +192,19 @@ Decision rule: check Golden Drawer in November — overflowing = Bruges, sensibl
 - **Train:** 5:25 Blackpool → airport 7:00, plenty of time for 10:00 flight
 - **Need:** Tanya to approve leave first!!
 
-### 🏖️ Beach + Culture Shortlist
-All offer beach AND things to see/do:
-| Destination | Why |
-|-------------|-----|
-| 🇪🇸 Malaga | Beach + Picasso + old town |
-| 🇭🇷 Split | Beach + Diocletian's Palace + GOT vibes |
-| 🇬🇷 Crete | Beach + Knossos ruins + mountains |
-| 🇲🇹 Malta | Beach + ancient temples + Dad approved |
-| 🇵🇹 Lagos/Algarve | Beach + cliffs + caves + loved Lisbon |
-| 🇪🇸 Valencia | Beach + City of Arts + paella capital |
+### 🏖️🏊‍♀️ Beach + Swimming Shortlist (August — needs warm sea 24°C+!!)
+The Crobat wants to SWIM not just sunbathe!!
+| Destination | Sea temp Aug | Why |
+|-------------|------------|-----|
+| 🇬🇷 Crete | 25°C | Beach + Knossos ruins + mountains + warm as a BATH!! |
+| 🇭🇷 Split | 25°C | Beach + Diocletian's Palace + GOT vibes, loved Dubrovnik! |
+| 🇲🇹 Malta | 26°C | Dad approved + English speaking + warmest sea!! |
+| 🇪🇸 Valencia | 25°C | Beach + City of Arts + paella capital |
 
 ### 🌍 Also On The Dream List (no dates yet!)
 - 🇸🇮 Ljubljana + Lake Bled
-- 🇪🇸 Córdoba + Seville (mum's suggestion!)
+- 🇪🇸 Seville + Malaga (I-R-I-S city!! Best in May or Oct — NOT August, 40°C death!! Culture + beach but sea is cold in May)
+- 🇪🇸 Córdoba + Seville (mum's suggestion! Could combine)
 - 🇨🇿 Prague (if not done as Christmas market 2026)
 - 🇦🇹 Vienna (L-I-V city, future Christmas market?) 
 
