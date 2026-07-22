@@ -86,6 +86,12 @@
       "emoji": "🍜",
       "of": "stir_fry",
       "note": "Rice not noodles — stays lovely in a tub."
+    },
+    "paella_dinner2": {
+      "label": "Paella rice — round 2",
+      "emoji": "🍚",
+      "of": "veggie_paella",
+      "note": "Same gorgeous batch, reheated. The arborio gets even better!"
     }
   },
   "recipes": [
@@ -1350,9 +1356,9 @@
       "id": "veggie_paella",
       "name": "Veggie Paella-ish Rice",
       "emoji": "🍚",
-      "servings": 2,
+      "servings": 4,
       "fat": "~3g per portion 🪨",
-      "lunchNote": "Mon dinner + Tue lunch. 📦 Don't stir it while it simmers — that's what makes it paella.",
+      "lunchNote": "Mon dinner + Tue lunch + Wed dinner + Thu lunch. One batch, FOUR meals!! Don't stir it while it simmers — that's what makes it paella.",
       "ingredients": [
         {
           "item": "rice",
@@ -2226,16 +2232,16 @@
         "wednesday": {
           "breakfast": "porridge",
           "lunch": "butterbean_tub",
-          "dinner": "stir_fry"
+          "dinner": "paella_dinner2"
         },
         "thursday": {
           "breakfast": "porridge",
-          "lunch": "stirfry_tub",
-          "dinner": "bruschetta"
+          "lunch": "paella_tub",
+          "dinner": "stir_fry"
         },
         "friday": {
           "breakfast": "porridge",
-          "lunch": "bruschetta_cold",
+          "lunch": "stirfry_tub",
           "dinner": "fajitas"
         }
       },
@@ -2255,20 +2261,14 @@
         {
           "from": "veggie_paella",
           "fromDay": "monday",
-          "toDay": "tuesday",
-          "label": "Mon paella → Tuesday tub"
+          "toDay": "thursday",
+          "label": "Mon paella → Tue lunch + Wed dinner + Thu lunch (one batch, FOUR meals!!)"
         },
         {
           "from": "stir_fry",
-          "fromDay": "wednesday",
-          "toDay": "thursday",
-          "label": "Wed stir fry → Thursday tub"
-        },
-        {
-          "from": "bruschetta",
           "fromDay": "thursday",
           "toDay": "friday",
-          "label": "Thu bruschetta → Friday desk lunch"
+          "label": "Thu stir fry → Friday tub"
         }
       ],
       "tubSchedule": {
@@ -2282,23 +2282,23 @@
         },
         "monday": {
           "tub": true,
-          "text": "Half the paella into a tub for Tuesday lunch."
+          "text": "PAELLA POWER! Three tubs — Tue lunch, Wed dinner, Thu lunch. One batch, four meals!!"
         },
         "tuesday": {
           "tub": false,
           "text": "NO TUB — Wednesday's butterbean is already waiting from Sunday's batch!"
         },
         "wednesday": {
-          "tub": true,
-          "text": "Half the stir fry into a tub for Thursday (rice not noodles — it stays lovely)."
+          "tub": false,
+          "text": "NO TUB — Wednesday's paella is already waiting from Monday's batch!"
         },
         "thursday": {
           "tub": true,
-          "text": "Bruschetta tub — tomato mix in ONE tub, bread SEPARATE. Assemble at your desk!"
+          "text": "Half the stir fry into a tub for Friday (rice not noodles — it stays lovely)."
         },
         "friday": {
           "tub": false,
-          "text": "NO TUB — WEEKEND!! 🎉 Shop tomorrow."
+          "text": "NO TUB — WEEKEND!! Shop tomorrow."
         }
       }
     }
