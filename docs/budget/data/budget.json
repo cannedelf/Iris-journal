@@ -40,12 +40,48 @@
         "balance": 567,
         "monthlyRate": 150,
         "trips": [
-          { "id": "trip_xmas", "name": "Christmas Markets", "emoji": "🎄", "target": 550, "fundBy": "2026-11-30" },
-          { "id": "trip_dublin", "name": "Dublin", "emoji": "🇮🇪", "target": 700, "fundBy": "2027-01-31" },
-          { "id": "trip_italy", "name": "Italy", "emoji": "🇮🇹", "target": 800, "fundBy": "2027-04-30" },
-          { "id": "trip_munich", "name": "Munich + Salzburg", "emoji": "🏔️", "target": 900, "fundBy": "2027-05-31" },
-          { "id": "trip_crete", "name": "Crete", "emoji": "🏖️", "target": 500, "fundBy": "2027-07-31" },
-          { "id": "trip_bilbao", "name": "Bilbao + San Sebastian", "emoji": "🇪🇸", "target": 800, "fundBy": "2027-08-31" }
+          {
+            "id": "trip_xmas",
+            "name": "Christmas Markets",
+            "emoji": "🎄",
+            "target": 550,
+            "fundBy": "2026-11-30"
+          },
+          {
+            "id": "trip_dublin",
+            "name": "Dublin",
+            "emoji": "🇮🇪",
+            "target": 700,
+            "fundBy": "2027-01-31"
+          },
+          {
+            "id": "trip_italy",
+            "name": "Italy",
+            "emoji": "🇮🇹",
+            "target": 800,
+            "fundBy": "2027-04-30"
+          },
+          {
+            "id": "trip_munich",
+            "name": "Munich + Salzburg",
+            "emoji": "🏔️",
+            "target": 900,
+            "fundBy": "2027-05-31"
+          },
+          {
+            "id": "trip_crete",
+            "name": "Crete",
+            "emoji": "🏖️",
+            "target": 600,
+            "fundBy": "2027-07-31"
+          },
+          {
+            "id": "trip_bilbao",
+            "name": "Bilbao + San Sebastian",
+            "emoji": "🇪🇸",
+            "target": 800,
+            "fundBy": "2027-08-31"
+          }
         ],
         "funded": [],
         "note": "Chase holiday savings — fed by Vinted + the sorter + Widdle repayments. A queue of trips: money fills the top one first, then rolls to the next."
