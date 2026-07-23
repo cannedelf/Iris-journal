@@ -82,6 +82,16 @@ export const store = {
     d.meta.debts = d.meta.debts || {};
     d.meta.cardHistory = d.meta.cardHistory || [];
     d.entries = d.entries || [];
+    // Migrate the Golden Drawer's old single `trip` into the new trips[] queue.
+    const h = d.meta.funds.holiday;
+    if (h) {
+      h.trips = h.trips || [];
+      h.funded = h.funded || [];
+      if (h.trip && h.trip.name && !h.trips.length) {
+        h.trips.push({ id: 'trip_' + Math.random().toString(36).slice(2, 7), name: h.trip.name, emoji: '✈️', target: h.trip.target, fundBy: null });
+      }
+      delete h.trip;
+    }
     return d;
   },
 
@@ -210,10 +220,50 @@ export const store = {
     return this.commit(msg);
   },
 
-  // Set (or clear) the Golden Drawer's current trip target.
-  async setTrip(trip) {
-    if (this.data.meta.funds.holiday) this.data.meta.funds.holiday.trip = trip;
-    return this.commit(trip ? `Set trip target: ${trip.name}` : 'Clear trip target');
+  // --- Golden Drawer holiday queue ----------------------------------------
+  _hol() { const h = this.data.meta.funds.holiday; if (h) { h.trips = h.trips || []; h.funded = h.funded || []; } return h; },
+  _tripId() { return 'trip_' + Math.random().toString(36).slice(2, 7); },
+
+  async addTrip({ name, emoji, target, fundBy }) {
+    const h = this._hol(); if (!h) return { saved: false };
+    h.trips.push({ id: this._tripId(), name, emoji: emoji || '✈️', target: this._round(target), fundBy: fundBy || null });
+    return this.commit(`Add trip: ${name}`);
+  },
+  async updateTrip(id, patch) {
+    const h = this._hol(); if (!h) return { saved: false };
+    const t = h.trips.find(x => x.id === id); if (!t) return { saved: false };
+    if (patch.target != null) patch.target = this._round(patch.target);
+    Object.assign(t, patch);
+    return this.commit(`Edit trip: ${t.name}`);
+  },
+  async removeTrip(id) {
+    const h = this._hol(); if (!h) return { saved: false };
+    const t = h.trips.find(x => x.id === id);
+    h.trips = h.trips.filter(x => x.id !== id);
+    return this.commit(`Remove trip: ${t ? t.name : id}`);
+  },
+  // Move a trip up (-1) or down (+1) the queue.
+  async moveTrip(id, dir) {
+    const h = this._hol(); if (!h) return { saved: false };
+    const i = h.trips.findIndex(x => x.id === id);
+    const j = i + dir;
+    if (i < 0 || j < 0 || j >= h.trips.length) return { saved: false };
+    [h.trips[i], h.trips[j]] = [h.trips[j], h.trips[i]];
+    return this.commit(`Reorder trips`);
+  },
+  // Book a funded trip: archive it as a trophy and take its cost out of the drawer.
+  async bookTrip(id, date) {
+    const h = this._hol(); if (!h) return { saved: false };
+    const t = h.trips.find(x => x.id === id); if (!t) return { saved: false };
+    h.trips = h.trips.filter(x => x.id !== id);
+    h.funded.push({ id: t.id, name: t.name, emoji: t.emoji, target: this._round(t.target), fundedDate: date });
+    h.balance = this._round((h.balance || 0) - (Number(t.target) || 0));
+    return this.commit(`🏆 Booked ${t.name}!`);
+  },
+  async setHolidayRate(rate) {
+    const h = this._hol(); if (!h) return { saved: false };
+    h.monthlyRate = this._round(rate);
+    return this.commit('Update holiday savings rate');
   },
 
   // Log a Widdle repayment; it feeds the holiday fund.

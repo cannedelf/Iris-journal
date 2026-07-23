@@ -8,7 +8,8 @@ import {
   parseDate, isoDate, money,
   periodBreakdown, spendingKey, getPayDay, periodStart, samePeriod,
   shiftPeriod, periodLabel, periodCfg, sortMoney,
-  fundProgress, widdleStatus, novunaStatus, cardTrend
+  fundProgress, widdleStatus, novunaStatus, cardTrend,
+  holidayQueue, fundByLabel
 } from './budget.js';
 
 // ---------- tiny helpers ----------
@@ -23,6 +24,7 @@ const state = {
   period: null,                 // ISO date of the viewed pay-period start (null = current)
   histFilter: 'all',            // category filter on History
   showTransfer: false,          // savings transfer form open on Home
+  showTrips: false,             // Golden Drawer trip queue panel open
   logDraft: null                // { amount, category, note, date } while editing the log form
 };
 
@@ -124,26 +126,7 @@ function savingsSection(now) {
   }
 
   if (f.holiday) {
-    const bal = Number(f.holiday.balance) || 0;
-    const trip = f.holiday.trip;
-    if (trip && trip.target > 0) {
-      const tp = fundProgress({ balance: bal, target: trip.target }, now);
-      const funded = bal >= trip.target;
-      parts.push(`
-      <div class="sav-acct">
-        <div class="sav-top"><span>${f.holiday.emoji || '🏖️'} ${esc(f.holiday.label)} <i>· ${esc(trip.name)}</i></span>
-          <b>${money(bal)} <i>/ ${money(trip.target)}</i></b></div>
-        <div class="bar big"><div class="bar-fill gold" style="width:${tp.pct}%"></div></div>
-        <div class="sav-foot"><span>${Math.round(tp.pct)}% to ${esc(trip.name)}${funded ? ' — funded! 🎉' : ''}</span>
-          <button class="linkbtn" data-set-trip>${funded ? '🎉 Set next trip →' : 'Edit target'}</button></div>
-      </div>`);
-    } else {
-      parts.push(`
-      <div class="sav-acct">
-        <div class="sav-top"><span>${f.holiday.emoji || '🏖️'} ${esc(f.holiday.label)}</span><b>${money(bal)}</b></div>
-        <button class="ghost tracker-btn" data-set-trip>🎯 Set a trip target</button>
-      </div>`);
-    }
+    parts.push(goldenDrawer(now));
   }
 
   if (f.premiumBonds) {
@@ -181,6 +164,81 @@ function transferForm() {
       <label class="field"><span>Note <i>(optional)</i></span>
         <input id="tfNote" type="text" maxlength="60" placeholder="e.g. Bruges flights"></label>
       <button class="primary" style="width:100%" data-transfer-save>Log movement 💸</button>
+    </div>`;
+}
+
+function monthYear(d) { return `${shortMonth(d)} ${d.getFullYear()}`; }
+
+// 🏖️ Golden Drawer holiday queue: active target progress, what's next, trophies.
+function goldenDrawer(now) {
+  const h = store.data.meta.funds.holiday;
+  const q = holidayQueue(h, now);
+  const a = q.trips[0]; // the head of the queue is always the current focus
+  let block;
+
+  if (a) {
+    const track = a.fundBy
+      ? (a.onTrack === true ? '· on track ✅' : a.onTrack === false ? '· behind ⏰' : '')
+      : '';
+    const byText = a.fundBy ? `by ${esc(fundByLabel(a.fundBy))} ${track}`
+      : (a.eta ? `~${esc(monthYear(a.eta))} at ${money(q.rate)}/mo` : '');
+    const upcoming = q.trips.slice(1);
+    const nextUp = upcoming.length
+      ? `<p class="next-up">Next: ${upcoming.slice(0, 3).map(t => `${t.emoji || ''} ${esc(t.name)}`).join(' · ')}${upcoming.length > 3 ? ` +${upcoming.length - 3}` : ''}</p>`
+      : '';
+    block = `
+      <div class="sav-top"><span>${h.emoji || '🏖️'} ${esc(h.label)} <i>· ${a.emoji || ''} ${esc(a.name)}</i></span>
+        <b>${money(a.current)} <i>/ ${money(a.target)}</i></b></div>
+      <div class="bar big"><div class="bar-fill gold" style="width:${a.pct}%"></div></div>
+      <div class="sav-foot"><span>${Math.round(a.pct)}% to ${esc(a.name)}${a.full ? ' — ready to book! 🎉' : ''}</span><span>${byText}</span></div>
+      ${a.full ? `<button class="ghost tracker-btn" data-book-trip="${esc(a.id)}">🏆 Book ${esc(a.name)}!</button>` : ''}
+      ${nextUp}`;
+  } else {
+    block = `<div class="sav-top"><span>${h.emoji || '🏖️'} ${esc(h.label)}</span><b>${money(h.balance || 0)}</b></div>
+      <p class="hint" style="margin:2px 0 0">${q.trips.length ? '🎉 Every queued trip is funded — book them or add more!' : 'No trips queued yet — add your first! ✈️'}</p>`;
+  }
+
+  return `
+    <div class="sav-acct gd">
+      ${block}
+      <div class="gd-foot">
+        <span>${q.funded.length ? `🏆 ${q.funded.length} funded` : ''}</span>
+        <button class="linkbtn" data-toggle-trips>${state.showTrips ? '✕ Close' : '✈️ Manage trips'}</button>
+      </div>
+      ${state.showTrips ? tripsPanel(now) : ''}
+    </div>`;
+}
+
+// The full trip-queue manager: reorder, edit, add, book, plus the trophy wall.
+function tripsPanel(now) {
+  const h = store.data.meta.funds.holiday;
+  const q = holidayQueue(h, now);
+  const rows = q.trips.map((t, i) => `
+    <div class="trip-row ${t.full ? 'full' : (i === q.activeIndex ? 'active' : '')}">
+      <div class="trip-move">
+        <button class="tmove" data-move-trip="${esc(t.id)}" data-dir="-1" ${i === 0 ? 'disabled' : ''}>▲</button>
+        <button class="tmove" data-move-trip="${esc(t.id)}" data-dir="1" ${i === q.trips.length - 1 ? 'disabled' : ''}>▼</button>
+      </div>
+      <div class="trip-main">
+        <div class="trip-name">${t.emoji || '✈️'} ${esc(t.name)} ${t.full ? '✅' : (i === q.activeIndex ? '<i>· active</i>' : '')}</div>
+        <div class="bar"><div class="bar-fill gold" style="width:${t.pct}%"></div></div>
+        <div class="trip-sub">${money(t.current)} / ${money(t.target)} · ${Math.round(t.pct)}%${t.fundBy ? ` · by ${esc(fundByLabel(t.fundBy))}${t.onTrack === true ? ' ✅' : t.onTrack === false ? ' ⏰' : ''}` : ''}</div>
+      </div>
+      <div class="trip-actions">
+        ${t.full && i === 0 ? `<button class="tbtn" data-book-trip="${esc(t.id)}" title="Book it">🏆</button>` : ''}
+        <button class="tbtn" data-edit-trip="${esc(t.id)}" title="Edit">✏️</button>
+        <button class="tbtn" data-remove-trip="${esc(t.id)}" title="Remove">🗑️</button>
+      </div>
+    </div>`).join('');
+  const trophies = q.funded.map(f => `<div class="trophy">🏆 ${f.emoji || ''} ${esc(f.name)} — ${money(f.target)} <span>✅ ${esc(f.fundedDate || '')}</span></div>`).join('');
+  return `
+    <div class="trips-panel">
+      <h4>✈️ Holiday queue <small>money fills the top trip first</small></h4>
+      ${rows || '<p class="hint">No trips yet — add your first!</p>'}
+      <button class="ghost tracker-btn" data-add-trip>＋ Add a trip</button>
+      <label class="field inline" style="margin-top:10px"><span>Est. saving / month <i>(for ETAs)</i></span>
+        <div class="amount-input" style="width:110px"><span class="curr">£</span><input id="tripRate" type="number" step="10" min="0" value="${esc(h.monthlyRate || '')}"></div></label>
+      ${trophies ? `<h4 style="margin-top:12px">🏆 Funded trips</h4><div class="trophies">${trophies}</div>` : ''}
     </div>`;
 }
 
@@ -617,7 +675,7 @@ function wire() {
 }
 
 function onAppClick(e) {
-  const t = e.target.closest('[data-go], [data-cat], [data-period], [data-del], [data-sort-record], [data-sort-pin], [data-widdle-pay], [data-novuna-date], [data-toggle-transfer], [data-transfer-save], [data-set-trip], #logSave, #setSave, #setResync, #bSave, #bStartEarly, #fSave, #dlBackup');
+  const t = e.target.closest('[data-go], [data-cat], [data-period], [data-del], [data-sort-record], [data-sort-pin], [data-widdle-pay], [data-novuna-date], [data-toggle-transfer], [data-transfer-save], [data-toggle-trips], [data-book-trip], [data-move-trip], [data-edit-trip], [data-remove-trip], [data-add-trip], #logSave, #setSave, #setResync, #bSave, #bStartEarly, #fSave, #dlBackup');
   if (!t) return;
 
   if (t.dataset.go) return go(t.dataset.go);
@@ -637,7 +695,12 @@ function onAppClick(e) {
   if (t.hasAttribute('data-novuna-date')) return onNovunaDate();
   if (t.hasAttribute('data-toggle-transfer')) { state.showTransfer = !state.showTransfer; return render(); }
   if (t.hasAttribute('data-transfer-save')) return onTransferSave();
-  if (t.hasAttribute('data-set-trip')) return onSetTrip();
+  if (t.hasAttribute('data-toggle-trips')) { state.showTrips = !state.showTrips; return render(); }
+  if (t.hasAttribute('data-book-trip')) return onBookTrip(t.getAttribute('data-book-trip'));
+  if (t.hasAttribute('data-move-trip')) return onMoveTrip(t.getAttribute('data-move-trip'), Number(t.getAttribute('data-dir')));
+  if (t.hasAttribute('data-edit-trip')) return onEditTrip(t.getAttribute('data-edit-trip'));
+  if (t.hasAttribute('data-remove-trip')) return onRemoveTrip(t.getAttribute('data-remove-trip'));
+  if (t.hasAttribute('data-add-trip')) return onAddTrip();
   if (t.id === 'logSave') return onLogSave();
   if (t.id === 'setSave') return onTokenSave();
   if (t.id === 'setResync') return onResync();
@@ -672,6 +735,7 @@ function onAppInput(e) {
 
 function onAppChange(e) {
   if (e.target.id === 'histFilter') { state.histFilter = e.target.value; render(); }
+  if (e.target.id === 'tripRate') { save(store.setHolidayRate(Number(e.target.value) || 0), 'Saving rate updated'); }
 }
 
 async function onLogSave() {
@@ -736,16 +800,60 @@ async function onTransferSave() {
 }
 
 // Set / change the Golden Drawer's trip target.
-async function onSetTrip() {
-  const cur = (store.data.meta.funds.holiday || {}).trip || {};
-  const name = prompt('Trip name (e.g. Dublin). Leave blank to clear:', cur.name || '');
-  if (name == null) return;
-  if (!name.trim()) { await save(store.setTrip(null), 'Trip target cleared'); return render(); }
-  const raw = prompt(`Target amount for ${name.trim()} (£):`, cur.target || '');
-  if (raw == null) return;
-  const target = Math.round(Number(raw) * 100) / 100;
+// Normalise a fund-by input: "YYYY-MM" → last day of that month; "YYYY-MM-DD" as-is; else null.
+function parseFundBy(v) {
+  v = (v || '').trim();
+  if (!v) return null;
+  if (/^\d{4}-\d{2}-\d{2}$/.test(v)) return v;
+  if (/^\d{4}-\d{2}$/.test(v)) { const [y, m] = v.split('-').map(Number); return isoDate(new Date(y, m, 0)); }
+  return undefined; // invalid
+}
+
+async function onAddTrip() {
+  const emoji = (prompt('Emoji for the trip (e.g. 🇮🇪):', '✈️') || '✈️').trim() || '✈️';
+  const name = prompt('Trip name (e.g. Dublin):');
+  if (name == null || !name.trim()) return;
+  const target = Math.round(Number(prompt(`Target amount for ${name.trim()} (£):`)) * 100) / 100;
   if (!target || target <= 0) return toast('Enter a target greater than £0.', 'warn');
-  await save(store.setTrip({ name: name.trim(), target }), `🎯 Saving for ${name.trim()} — ${money(target)}`);
+  const fb = parseFundBy(prompt('Fund by (YYYY-MM, optional):', ''));
+  if (fb === undefined) return toast('Use YYYY-MM for the date.', 'warn');
+  await save(store.addTrip({ name: name.trim(), emoji, target, fundBy: fb }), `✈️ Added ${name.trim()}`);
+  state.showTrips = true;
+  render();
+}
+
+async function onEditTrip(id) {
+  const t = (store.data.meta.funds.holiday.trips || []).find(x => x.id === id);
+  if (!t) return;
+  const name = prompt('Trip name:', t.name);
+  if (name == null || !name.trim()) return;
+  const emoji = (prompt('Emoji:', t.emoji || '✈️') || '✈️').trim() || '✈️';
+  const target = Math.round(Number(prompt('Target amount (£):', t.target)) * 100) / 100;
+  if (!target || target <= 0) return toast('Enter a target greater than £0.', 'warn');
+  const fb = parseFundBy(prompt('Fund by (YYYY-MM, blank to clear):', t.fundBy ? t.fundBy.slice(0, 7) : ''));
+  if (fb === undefined) return toast('Use YYYY-MM for the date.', 'warn');
+  await save(store.updateTrip(id, { name: name.trim(), emoji, target, fundBy: fb }), 'Trip updated 💛');
+  render();
+}
+
+async function onRemoveTrip(id) {
+  const t = (store.data.meta.funds.holiday.trips || []).find(x => x.id === id);
+  if (!t) return;
+  if (!confirm(`Remove ${t.name} from the queue?`)) return;
+  await save(store.removeTrip(id), 'Trip removed');
+  render();
+}
+
+async function onMoveTrip(id, dir) {
+  await save(store.moveTrip(id, dir), 'Reordered');
+  render();
+}
+
+async function onBookTrip(id) {
+  const t = (store.data.meta.funds.holiday.trips || []).find(x => x.id === id);
+  if (!t) return;
+  if (!confirm(`Book ${t.name}? This moves it to your funded trophies and takes ${money(t.target)} out of the Golden Drawer.`)) return;
+  await save(store.bookTrip(id, isoDate(today())), `🏆 Booked ${t.name}! Have the best time 💛`);
   render();
 }
 

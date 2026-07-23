@@ -408,3 +408,53 @@ export function cardTrend(history) {
   const delta = (latest && prev) ? Math.round((latest.amount - prev.amount) * 100) / 100 : null;
   return { list, latest, prev, delta, improved: delta != null && delta < 0 };
 }
+
+// --- Golden Drawer holiday queue --------------------------------------------
+//
+// The drawer balance cascades down the trip queue: it fills the top (active) trip first,
+// then overflow rolls to the next, and so on. A trip that reaches its target is "ready to
+// book". At the chosen monthly savings rate we estimate when each will be funded and
+// whether that beats its fund-by date. Booked trips move to the funded[] trophy wall.
+export function holidayQueue(fund, today) {
+  const rate = Number(fund.monthlyRate) || 0;
+  let rem = Number(fund.balance) || 0;
+  let cumulativeMonths = 0;
+
+  const trips = (fund.trips || []).map((t, i) => {
+    const target = Number(t.target) || 0;
+    const current = Math.round(Math.min(rem, target) * 100) / 100;
+    rem = Math.max(0, Math.round((rem - target) * 100) / 100);
+    const pct = target ? Math.min(100, (current / target) * 100) : 0;
+    const full = target > 0 && current >= target;
+    const need = Math.max(0, Math.round((target - current) * 100) / 100);
+
+    // ETA: months from now to fully fund THIS trip (after the ones above it are funded).
+    let eta = null;
+    if (rate > 0) {
+      cumulativeMonths += Math.ceil(need / rate);
+      if (!full) eta = addMonths(today, cumulativeMonths);
+    }
+    let onTrack = null;
+    if (t.fundBy) {
+      const by = parseDate(t.fundBy);
+      onTrack = full ? true : (eta ? eta <= by : null);
+    }
+    return { ...t, target, current, need, pct, full, eta, onTrack, index: i };
+  });
+
+  const activeIndex = trips.findIndex(t => !t.full);
+  return {
+    trips,
+    funded: (fund.funded || []).slice(),
+    rate,
+    active: activeIndex >= 0 ? trips[activeIndex] : null,
+    activeIndex,
+    overflow: rem // money beyond every queued target
+  };
+}
+
+export function fundByLabel(iso) {
+  if (!iso) return '';
+  const d = parseDate(iso);
+  return monthLabel(d).replace(/^(\w+) /, (m, mon) => mon.slice(0, 3) + ' ');
+}
