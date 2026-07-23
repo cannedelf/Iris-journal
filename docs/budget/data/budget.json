@@ -439,6 +439,13 @@
       "amount": 4.25,
       "category": "household",
       "note": "B&M"
+    },
+    {
+      "id": "spend_1_gjfpb",
+      "date": "2026-07-23",
+      "amount": 1.49,
+      "category": "groceries",
+      "note": "Aldi"
     }
   ]
 }
