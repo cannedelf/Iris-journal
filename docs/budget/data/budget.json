@@ -29,7 +29,7 @@
         "label": "Emergency Fund",
         "emoji": "🎯",
         "target": 3850,
-        "balance": 500,
+        "balance": 809,
         "monthly": 130,
         "startDate": "2026-07-02",
         "note": "3 months of bills — minimum"
@@ -37,7 +37,7 @@
       "holiday": {
         "label": "Golden Drawer",
         "emoji": "🏖️",
-        "balance": 411,
+        "balance": 514,
         "trip": {
           "name": "Bruges",
           "target": 438
@@ -72,7 +72,12 @@
         "note": "When it ends: £194/month free!"
       }
     },
-    "cardHistory": [],
+    "cardHistory": [
+      {
+        "period": "2026-06-25",
+        "amount": 715.01
+      }
+    ],
     "categories": [
       {
         "key": "groceries",
@@ -235,11 +240,11 @@
     ],
     "lastSort": {
       "tier": {
-        "name": "Sensible Girlie",
-        "emoji": "💛",
+        "name": "On Budget",
+        "emoji": "✅",
         "celebrate": false
       },
-      "leftover": 504.33,
+      "leftover": 412.84,
       "period": "2026-06-25"
     }
   },
