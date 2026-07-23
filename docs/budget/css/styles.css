@@ -176,6 +176,8 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 .bar-fill { height: 100%; background: var(--green); border-radius: 999px; transition: width .4s ease; }
 .bar-fill.over { background: var(--red); }
 .catrow.over .catnum { color: var(--red); }
+.breakdown-total { margin-top: 4px; padding-top: 12px; border-top: 2px solid var(--line); font-size: 15px; }
+.breakdown-total.over b { color: var(--red); }
 .rollover-note { margin: 6px 0 0; font-size: 12px; font-weight: 800; color: var(--gold-deep); background: #fff6e0; display: inline-block; padding: 3px 10px; border-radius: 999px; }
 .rollover-note i { color: var(--ink-soft); font-weight: 700; }
 

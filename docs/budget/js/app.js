@@ -349,6 +349,14 @@ function viewMonth() {
     <div class="card">
       <h3>Category breakdown</h3>
       ${flexRows || '<p class="empty">No spends logged yet this month.</p>'}
+      ${(() => {
+        const spendRows = mb.rows.filter(r => r.type !== 'fixed' && r.type !== 'savings');
+        const spent = spendRows.reduce((s, r) => s + r.spent, 0);
+        const budget = spendRows.reduce((s, r) => s + (r.effectiveBudget || r.budget || 0), 0);
+        const over = spent > budget;
+        return `<div class="mini-row total breakdown-total ${over ? 'over' : ''}"><span>Total spent</span>
+          <b>${money(spent)} <i>/ ${money(budget)}</i></b></div>`;
+      })()}
     </div>
 
     <div class="card">
