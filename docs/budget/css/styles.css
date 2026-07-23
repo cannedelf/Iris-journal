@@ -114,6 +114,30 @@ i { font-style: normal; color: var(--ink-soft); font-weight: 600; }
 /* transfer form */
 .transfer-form { margin-top: 10px; padding-top: 12px; border-top: 1.5px solid var(--line); display: flex; flex-direction: column; gap: 10px; animation: fade .2s ease; }
 
+/* Golden Drawer trip queue */
+.next-up { margin: 8px 0 0; font-size: 12px; font-weight: 700; color: var(--ink-soft); }
+.gd-foot { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; font-size: 12px; font-weight: 800; color: var(--gold-deep); }
+.trips-panel { margin-top: 10px; padding-top: 12px; border-top: 1.5px solid var(--line); animation: fade .2s ease; }
+.trips-panel h4 { margin: 0 0 8px; font-size: 14px; color: #8a5a1a; }
+.trips-panel h4 small { color: var(--ink-soft); font-weight: 700; font-size: 11px; }
+.trip-row { display: flex; align-items: center; gap: 8px; padding: 9px 0; border-bottom: 1px dashed var(--line); }
+.trip-row.active { background: #fffaf0; border-radius: 10px; padding: 9px 8px; margin: 0 -8px; }
+.trip-row.full .trip-name { color: var(--green); }
+.trip-move { display: flex; flex-direction: column; gap: 2px; }
+.tmove { width: 24px; height: 20px; border: 1px solid var(--line); background: var(--card); border-radius: 6px; font-size: 10px; color: var(--ink-soft); padding: 0; line-height: 1; }
+.tmove:disabled { opacity: .3; }
+.trip-main { flex: 1; min-width: 0; }
+.trip-name { font-weight: 800; font-size: 14px; }
+.trip-name i { color: var(--gold-deep); font-weight: 700; }
+.trip-sub { font-size: 11px; font-weight: 700; color: var(--ink-soft); margin-top: 3px; }
+.trip-main .bar { margin: 4px 0; }
+.trip-actions { display: flex; gap: 2px; }
+.tbtn { border: none; background: none; font-size: 15px; padding: 4px; border-radius: 8px; }
+.tbtn:active { background: var(--cream-2); }
+.trophies { display: flex; flex-direction: column; gap: 6px; }
+.trophy { background: linear-gradient(165deg, #fff7e0, #ffeec2); border: 1.5px solid var(--gold); border-radius: 12px; padding: 8px 12px; font-weight: 800; font-size: 13px; color: #8a5a1a; display: flex; justify-content: space-between; align-items: center; }
+.trophy span { color: var(--green); font-weight: 700; font-size: 11px; }
+
 /* ---------- big log button ---------- */
 .biglog {
   width: 100%; border: none; border-radius: 18px; padding: 18px;
