@@ -7,7 +7,7 @@ import { gh } from './github.js';
 import {
   parseDate, isoDate, money,
   periodBreakdown, spendingKey, getPayDay, periodStart, samePeriod,
-  shiftPeriod, periodLabel, sortMoney,
+  shiftPeriod, periodLabel, periodCfg, sortMoney,
   fundProgress, widdleStatus, novunaStatus, cardTrend
 } from './budget.js';
 
@@ -27,8 +27,8 @@ const state = {
 };
 
 // The pay day and the period the Month/History views are currently showing.
-function payDay() { return getPayDay(store.data.meta); }
-function curPeriod() { return state.period ? parseDate(state.period) : periodStart(today(), payDay()); }
+function pcfg() { return periodCfg(store.data.meta); }
+function curPeriod() { return state.period ? parseDate(state.period) : periodStart(today(), pcfg()); }
 
 // ---------- save-status badge ----------
 function setStatus(kind, text) {
@@ -295,7 +295,7 @@ function viewLog() {
 function viewMonth() {
   const md = curPeriod();
   const mb = periodBreakdown(store.data, md);
-  const isThis = samePeriod(md, today(), payDay());
+  const isThis = samePeriod(md, today(), pcfg());
 
   const flexRows = mb.rows.filter(r => r.type !== 'fixed').map(r => {
     const showBudget = r.budget > 0;
@@ -336,7 +336,7 @@ function viewMonth() {
   <section class="screen month">
     <div class="monthnav">
       <button class="nav" data-period="-1">‹</button>
-      <h2>${periodLabel(md, payDay())}${isThis ? ' <small>· now</small>' : (md > today() ? ' <small>· upcoming</small>' : '')}</h2>
+      <h2>${periodLabel(md, pcfg())}${isThis ? ' <small>· now</small>' : (md > today() ? ' <small>· upcoming</small>' : '')}</h2>
       <button class="nav" data-period="1" title="Peek at the next pay period">›</button>
     </div>
 
@@ -386,7 +386,7 @@ function viewHistory() {
   const catMap = Object.fromEntries(cats.map(c => [c.key, c]));
 
   let entries = store.data.entries
-    .filter(e => samePeriod(parseDate(e.date), md, payDay()))
+    .filter(e => samePeriod(parseDate(e.date), md, pcfg()))
     .filter(e => state.histFilter === 'all' || e.category === state.histFilter)
     .slice()
     .sort((a, b) => b.date.localeCompare(a.date) || b.id.localeCompare(a.id));
@@ -415,8 +415,8 @@ function viewHistory() {
   <section class="screen history">
     <div class="monthnav">
       <button class="nav" data-period="-1">‹</button>
-      <h2>${periodLabel(md, payDay())}</h2>
-      <button class="nav" data-period="1" ${samePeriod(md, today(), payDay()) ? 'disabled' : ''}>›</button>
+      <h2>${periodLabel(md, pcfg())}</h2>
+      <button class="nav" data-period="1" ${samePeriod(md, today(), pcfg()) ? 'disabled' : ''}>›</button>
     </div>
     <select id="histFilter" class="select">${filterOpts}</select>
     <div class="runtotal"><span>${entries.length} spend${entries.length === 1 ? '' : 's'}</span><b>${money(total)}</b></div>
@@ -550,6 +550,8 @@ function viewSettings() {
       <h3>💰 Budgets</h3>
       <label class="field inline"><span>Pay day <i>(day of month)</i></span><input id="bPayDay" type="number" step="1" min="1" max="31" style="width:90px" value="${esc(getPayDay(m))}"></label>
       <p class="hint" style="margin-top:-2px">Your budget runs payday-to-payday (e.g. 25th → 24th), not by calendar month. Set to 1 for calendar months.</p>
+      <label class="field inline"><span>📅 Weekend payday → start the Friday before</span><input id="bWeekend" type="checkbox" class="toggle" ${(m.payWeekendRule || 'before') !== 'off' ? 'checked' : ''}></label>
+      <button id="bStartEarly" class="ghost" style="width:100%;margin-bottom:8px">📅 Start a month early (one-off)…</button>
       <label class="field inline"><span>Weekly spending money</span><div class="amount-input"><span class="curr">£</span><input id="bWeekly" type="number" step="1" value="${esc(m.weeklyBudget)}"></div></label>
       <label class="field inline"><span>Income per period <i>(optional)</i></span><div class="amount-input"><span class="curr">£</span><input id="bIncome" type="number" step="1" value="${esc(m.monthlyIncome || '')}"></div></label>
       <label class="field inline"><span>🔄 Rollover budget <i>(half of unused rolls over)</i></span><input id="bRollover" type="checkbox" class="toggle" ${m.rolloverEnabled ? 'checked' : ''}></label>
@@ -615,7 +617,7 @@ function wire() {
 }
 
 function onAppClick(e) {
-  const t = e.target.closest('[data-go], [data-cat], [data-period], [data-del], [data-sort-record], [data-sort-pin], [data-widdle-pay], [data-novuna-date], [data-toggle-transfer], [data-transfer-save], [data-set-trip], #logSave, #setSave, #setResync, #bSave, #fSave, #dlBackup');
+  const t = e.target.closest('[data-go], [data-cat], [data-period], [data-del], [data-sort-record], [data-sort-pin], [data-widdle-pay], [data-novuna-date], [data-toggle-transfer], [data-transfer-save], [data-set-trip], #logSave, #setSave, #setResync, #bSave, #bStartEarly, #fSave, #dlBackup');
   if (!t) return;
 
   if (t.dataset.go) return go(t.dataset.go);
@@ -625,7 +627,7 @@ function onAppClick(e) {
     return render();
   }
   if (t.dataset.period) {                     // pay-period navigation
-    state.period = isoDate(shiftPeriod(curPeriod(), Number(t.dataset.period), payDay()));
+    state.period = isoDate(shiftPeriod(curPeriod(), Number(t.dataset.period), pcfg()));
     return render();
   }
   if (t.dataset.del) return onDelete(t.dataset.del);
@@ -640,6 +642,7 @@ function onAppClick(e) {
   if (t.id === 'setSave') return onTokenSave();
   if (t.id === 'setResync') return onResync();
   if (t.id === 'bSave') return onBudgetSave();
+  if (t.id === 'bStartEarly') return onStartMonthEarly();
   if (t.id === 'fSave') return onFundsSave();
   if (t.id === 'dlBackup') return onBackup();
 }
@@ -695,7 +698,7 @@ async function onSortRecord() {
   const s = state.sorter || {};
   const r = sortNow();
   if (r.overspent) return toast('Nothing to record — overspent this month.', 'warn');
-  const periodKey = isoDate(periodStart(today(), payDay()));
+  const periodKey = isoDate(periodStart(today(), pcfg()));
   const already = (store.data.meta.cardHistory || []).some(h => h.period === periodKey);
   if (already && !confirm('This period is already recorded. Record again (overwrites the card total and adds the fund top-ups again)?')) return;
   // Use Liv's tweaked amounts (or the round-down defaults) — that's what she actually moves.
@@ -713,7 +716,7 @@ async function onSortPin() {
   const r = sortNow();
   if (r.overspent || !r.tier) return toast('Enter your figures to see a tier first.', 'warn');
   const tier = { name: r.tier.name, emoji: r.tier.emoji, celebrate: !!r.tier.celebrate };
-  await save(store.pinTier({ tier, leftover: r.remainder, periodKey: isoDate(periodStart(today(), payDay())) }),
+  await save(store.pinTier({ tier, leftover: r.remainder, periodKey: isoDate(periodStart(today(), pcfg())) }),
     `${tier.emoji} ${tier.name} pinned to Home`);
   go('home');
 }
@@ -817,13 +820,27 @@ async function onBudgetSave() {
   const income = Number($('#bIncome').value) || 0;
   const pay = Math.min(31, Math.max(1, Math.floor(Number($('#bPayDay').value) || 1)));
   const rollover = $('#bRollover').checked;
+  const weekendRule = $('#bWeekend').checked ? 'before' : 'off';
   const cats = store.data.meta.categories.map(c => {
     const inp = document.querySelector(`.bcat[data-key="${CSS.escape(c.key)}"]`);
     return { ...c, budget: inp ? (Number(inp.value) || 0) : c.budget };
   });
   store.data.meta.categories = cats;
   state.period = null; // snap the viewed period back to the current one under the new pay day
-  await save(store.setBudgets({ weeklyBudget: weekly, monthlyIncome: income, payDay: pay, rolloverEnabled: rollover }), 'Budgets saved 💛');
+  await save(store.setBudgets({ weeklyBudget: weekly, monthlyIncome: income, payDay: pay, rolloverEnabled: rollover, payWeekendRule: weekendRule }), 'Budgets saved 💛');
+  render();
+}
+
+// Manually start a new pay period on a chosen date (one-off override for that month).
+async function onStartMonthEarly() {
+  const raw = prompt('Start a new month on this date (YYYY-MM-DD):');
+  if (raw == null) return;
+  const v = raw.trim();
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(v)) return toast('Use the format YYYY-MM-DD.', 'warn');
+  const d = parseDate(v);
+  const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
+  await save(store.setPeriodOverride(key, v), `New month starts ${v} 📅`);
+  state.period = null;
   render();
 }
 

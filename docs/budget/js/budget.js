@@ -69,43 +69,76 @@ export function getPayDay(meta) {
   return (p >= 1 && p <= 31) ? Math.floor(p) : 1;
 }
 
+// Everything the period maths needs: the pay day, whether to bring a weekend payday
+// forward to the Friday before, and any manual per-month start-date overrides
+// (keyed by the anchor month "YYYY-MM").
+export function periodCfg(meta) {
+  return {
+    payDay: getPayDay(meta),
+    weekendRule: meta && meta.payWeekendRule ? meta.payWeekendRule : 'before',
+    overrides: (meta && meta.periodOverrides) || {}
+  };
+}
+
+// Accept either a plain payDay number (back-compat) or a full cfg object.
+function asCfg(x) {
+  if (x && typeof x === 'object') return x;
+  const p = Number(x);
+  return { payDay: (p >= 1 && p <= 31) ? Math.floor(p) : 1, weekendRule: 'off', overrides: {} };
+}
+
 // Clamp a day to the last valid day of that month (so payDay 31 works in February).
 function clampDay(y, m, day) { return Math.min(day, new Date(y, m + 1, 0).getDate()); }
 
+// The pay-period boundary date anchored in (year, month): payday, adjusted for a
+// manual override or (failing that) the weekend rule.
+function boundaryFor(y, m, cfg) {
+  const base = new Date(y, m, 1); y = base.getFullYear(); m = base.getMonth(); // normalise
+  const key = `${y}-${String(m + 1).padStart(2, '0')}`;
+  if (cfg.overrides && cfg.overrides[key]) return parseDate(cfg.overrides[key]);
+  let d = new Date(y, m, clampDay(y, m, cfg.payDay));
+  if (cfg.weekendRule === 'before') {
+    const dow = d.getDay();
+    if (dow === 6) d = addDays(d, -1);      // Saturday → Friday
+    else if (dow === 0) d = addDays(d, -2); // Sunday → Friday
+  }
+  return d;
+}
+
 // The payday that starts the period `date` falls in.
-export function periodStart(date, payDay) {
-  const y = date.getFullYear(), m = date.getMonth();
-  if (date.getDate() >= clampDay(y, m, payDay)) return new Date(y, m, clampDay(y, m, payDay));
-  return new Date(y, m - 1, clampDay(y, m - 1, payDay)); // previous month's payday
+export function periodStart(date, cfgOrPay) {
+  const cfg = asCfg(cfgOrPay);
+  const here = boundaryFor(date.getFullYear(), date.getMonth(), cfg);
+  return date >= here ? here : boundaryFor(date.getFullYear(), date.getMonth() - 1, cfg);
 }
 
 // The last day of the period that begins at `start` (day before the next payday).
-export function periodEnd(start, payDay) {
-  const ny = start.getFullYear(), nm = start.getMonth() + 1;
-  return addDays(new Date(ny, nm, clampDay(ny, nm, payDay)), -1);
+export function periodEnd(start, cfgOrPay) {
+  return addDays(boundaryFor(start.getFullYear(), start.getMonth() + 1, asCfg(cfgOrPay)), -1);
 }
 
-export function samePeriod(a, b, payDay) {
-  return isoDate(periodStart(a, payDay)) === isoDate(periodStart(b, payDay));
+export function samePeriod(a, b, cfgOrPay) {
+  const cfg = asCfg(cfgOrPay);
+  return isoDate(periodStart(a, cfg)) === isoDate(periodStart(b, cfg));
 }
 
 // Move `delta` whole periods from a period-start date.
-export function shiftPeriod(start, delta, payDay) {
-  const t = new Date(start.getFullYear(), start.getMonth() + delta, 1);
-  return new Date(t.getFullYear(), t.getMonth(), clampDay(t.getFullYear(), t.getMonth(), payDay));
+export function shiftPeriod(start, delta, cfgOrPay) {
+  return boundaryFor(start.getFullYear(), start.getMonth() + delta, asCfg(cfgOrPay));
 }
 
 // Friendly range label, e.g. "25 Jun – 24 Jul 2026".
-export function periodLabel(start, payDay) {
-  const end = periodEnd(start, payDay);
+export function periodLabel(start, cfgOrPay) {
+  const end = periodEnd(start, asCfg(cfgOrPay));
   const s = `${start.getDate()} ${MONTHS_SHORT[start.getMonth()]}`;
   const e = `${end.getDate()} ${MONTHS_SHORT[end.getMonth()]} ${end.getFullYear()}`;
   return `${s} – ${e}`;
 }
 
 // Which Monday-week of the current pay period `date` sits in (1-based).
-export function weekOfPeriod(date, payDay) {
-  const anchor = weekStart(periodStart(date, payDay));
+export function weekOfPeriod(date, cfgOrPay) {
+  const cfg = asCfg(cfgOrPay);
+  const anchor = weekStart(periodStart(date, cfg));
   const diff = Math.round((weekStart(date) - anchor) / 86400000);
   return Math.floor(diff / 7) + 1;
 }
@@ -147,7 +180,7 @@ export function weeklyStatus(data, today) {
 
   // Walk every Monday-week from the start of this pay period up to (not incl.) this week,
   // carrying only negative balances forward (debt resets each payday).
-  const periodFirstMonday = weekStart(periodStart(today, getPayDay(meta)));
+  const periodFirstMonday = weekStart(periodStart(today, periodCfg(meta)));
   let carry = 0;
   for (let m = new Date(periodFirstMonday); m < thisMonday; m = addDays(m, 7)) {
     const bal = weekly - spentInWeek(data.entries, key, m) + carry;
@@ -191,26 +224,26 @@ export function rollsOver(cat) {
   return (cat.type === 'flex' || cat.type === 'weekly') && (cat.budget || 0) > 0;
 }
 
-function spentInPeriod(entries, key, pStart, payDay) {
+function spentInPeriod(entries, key, pStart, cfg) {
   const startISO = isoDate(pStart);
   return entries
-    .filter(e => e.category === key && isoDate(periodStart(parseDate(e.date), payDay)) === startISO)
+    .filter(e => e.category === key && isoDate(periodStart(parseDate(e.date), cfg)) === startISO)
     .reduce((s, e) => s + (Number(e.amount) || 0), 0);
 }
 
 // The first pay period rollover applies from: the period of the earliest logged entry.
 // (Periods before Liv started tracking must not manufacture phantom rollover.)
-export function rolloverAnchor(data, payDay) {
+export function rolloverAnchor(data, cfg) {
   if (!data.entries.length) return null;
   let min = data.entries[0].date;
   for (const e of data.entries) if (e.date < min) min = e.date;
-  return periodStart(parseDate(min), payDay);
+  return periodStart(parseDate(min), cfg);
 }
 
 // Rollover carried INTO the period starting at `pStart` for one category — the running
 // balance from the anchor period forward. Only positive leftovers roll; the carry is
 // capped at 50% of the base budget each period.
-export function rolloverInto(data, cat, pStart, payDay, anchor) {
+export function rolloverInto(data, cat, pStart, cfg, anchor) {
   if (!rollsOver(cat) || !anchor || pStart <= anchor) return 0;
   const base = cat.budget || 0;
   const cap = base * 0.5;
@@ -218,9 +251,9 @@ export function rolloverInto(data, cat, pStart, payDay, anchor) {
   let p = new Date(anchor);
   const target = isoDate(pStart);
   for (let guard = 0; guard < 600 && isoDate(p) !== target; guard++) {
-    const unused = Math.max(0, (base + rollIn) - spentInPeriod(data.entries, cat.key, p, payDay));
+    const unused = Math.max(0, (base + rollIn) - spentInPeriod(data.entries, cat.key, p, cfg));
     rollIn = Math.min(cap, Math.round((unused / 2) * 100) / 100);
-    p = shiftPeriod(p, 1, payDay);
+    p = shiftPeriod(p, 1, cfg);
   }
   return rollIn;
 }
@@ -231,18 +264,18 @@ export function rolloverInto(data, cat, pStart, payDay, anchor) {
 // and compare to budget. (payDay 1 = calendar month.)
 export function periodBreakdown(data, withinDate) {
   const cats = data.meta.categories || [];
-  const payDay = getPayDay(data.meta);
-  const pStart = periodStart(withinDate, payDay);
-  const inPeriod = data.entries.filter(e => samePeriod(parseDate(e.date), withinDate, payDay));
+  const cfg = periodCfg(data.meta);
+  const pStart = periodStart(withinDate, cfg);
+  const inPeriod = data.entries.filter(e => samePeriod(parseDate(e.date), withinDate, cfg));
 
   const rollEnabled = !!data.meta.rolloverEnabled;
-  const anchor = rollEnabled ? rolloverAnchor(data, payDay) : null;
+  const anchor = rollEnabled ? rolloverAnchor(data, cfg) : null;
 
   const rows = cats.map(c => {
     const spent = inPeriod
       .filter(e => e.category === c.key)
       .reduce((s, e) => s + (Number(e.amount) || 0), 0);
-    const rollover = anchor ? rolloverInto(data, c, pStart, payDay, anchor) : 0;
+    const rollover = anchor ? rolloverInto(data, c, pStart, cfg, anchor) : 0;
     const base = c.budget || 0;
     const effective = Math.round((base + rollover) * 100) / 100;
     return {
