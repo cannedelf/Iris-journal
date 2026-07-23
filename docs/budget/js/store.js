@@ -227,6 +227,14 @@ export const store = {
     return this.commit(`Widdle repayment £${this._round(amount).toFixed(2)}`);
   },
 
+  // Manually set (or clear) the start date of the pay period anchored in `key` ("YYYY-MM").
+  async setPeriodOverride(key, date) {
+    this.data.meta.periodOverrides = this.data.meta.periodOverrides || {};
+    if (date) this.data.meta.periodOverrides[key] = date;
+    else delete this.data.meta.periodOverrides[key];
+    return this.commit(date ? `Start month ${key} on ${date}` : `Clear early start for ${key}`);
+  },
+
   async setNovunaEndDate(date) {
     if (!this.data.meta.debts.novuna) return { saved: false };
     this.data.meta.debts.novuna.endDate = date || null;
