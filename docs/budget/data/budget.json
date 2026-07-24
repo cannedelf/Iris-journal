@@ -493,6 +493,13 @@
       "amount": 1.49,
       "category": "groceries",
       "note": "Aldi"
+    },
+    {
+      "id": "spend_1_xt77h",
+      "date": "2026-07-24",
+      "amount": 5,
+      "category": "gifts",
+      "note": "Lesley work collection"
     }
   ]
 }
