@@ -500,6 +500,13 @@
       "amount": 5,
       "category": "gifts",
       "note": "Lesley work collection"
+    },
+    {
+      "id": "spend_2_nuc3y",
+      "date": "2026-07-24",
+      "amount": 2.88,
+      "category": "groceries",
+      "note": "Aldi"
     }
   ]
 }
