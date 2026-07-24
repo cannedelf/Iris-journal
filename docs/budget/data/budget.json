@@ -170,6 +170,14 @@
         "note": "Homeware & DIY — B&M, Wickes, etc."
       },
       {
+        "key": "fun",
+        "emoji": "🎉",
+        "label": "Fun / Entertainment",
+        "type": "flex",
+        "budget": 40,
+        "note": "Cinema, events, days out, activities"
+      },
+      {
         "key": "chase",
         "emoji": "🏦",
         "label": "Chase Emergency Fund",
