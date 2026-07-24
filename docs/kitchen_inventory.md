@@ -10,7 +10,7 @@
 - [ ] 1/2 red onion
 - [ ] 1/2 cucumber
 - [ ] 2 little gem lettuces
-- [ ] 6 mushrooms
+- [x] ~~6 mushrooms~~ → USED Friday stir fry ✅
 - [ ] 6 spring onions
 
 ### ⚠️ Use in 3-4 days:
@@ -151,15 +151,17 @@ Full spice rack — TWO pull-out shelves!! Includes:
 ## 📋 MEAL PLAN FROM INVENTORY
 
 ### This weekend (all from existing stock!):
-- [x] ~~Friday dinner: Stir fry (Quorn + stir fry greens + mushrooms + spring onions + peppers + soba noodles)~~ ✅
+- [x] ~~Friday dinner: Dream stir fry (Quorn + stir fry greens + ALL mushrooms + edamame + spring onions + soba noodles + dream sauce)~~ ✅
 - [ ] Saturday lunch: Bruschetta #1 (tomatoes + garlic + red onion + olives + roasted peppers + bread)
-- [ ] Saturday dinner: Burrito bowl (black beans + fajita rice + peppers + red onion + garlic + tomatoes + cucumber + spring onions + lettuce + salsa + jalapenos + lime)
+- [ ] Saturday dinner: Leftover stir fry veg + rice + fresh dream sauce
 - [ ] Sunday lunch: Bruschetta #2 (remaining tomatoes)
-- [ ] Sunday dinner: Chickpea curry (2 tins chickpeas + 2 tins tomatoes + red lentils + yellow onion + garlic + spices + coconut milk + basmati)
-- [ ] Monday lunch: Burrito bowl tub ✅
-- [ ] Monday dinner: Chickpea curry leftover
-- [ ] Tuesday lunch: Chickpea curry tub
+- [ ] Sunday afternoon: BATCH COOK chickpea curry (4 portions!!)
+- [ ] Sunday dinner: Chickpea curry + rice
+- [ ] Monday lunch: Chickpea curry tub
+- [ ] Monday dinner: Burrito bowl (black beans + fajita rice + peppers + red onion + garlic + tomatoes + cucumber + spring onions + lettuce + salsa + jalapenos + lime)
+- [ ] Tuesday lunch: Burrito bowl tub
 - [ ] Wednesday lunch: Chickpea curry tub
+- [ ] Wednesday dinner: Chickpea curry (last portion!)
 
 ### Cost of ALL these meals: £0 (plus 60p coconut milk from Aldi!!) 💰👑
 
