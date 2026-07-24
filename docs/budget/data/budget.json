@@ -515,6 +515,13 @@
       "amount": 2.88,
       "category": "groceries",
       "note": "Aldi"
+    },
+    {
+      "id": "spend_1_s59br",
+      "date": "2026-07-24",
+      "amount": 19.33,
+      "category": "fun",
+      "note": "Cinema"
     }
   ]
 }
