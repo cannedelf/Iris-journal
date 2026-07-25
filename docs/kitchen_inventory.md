@@ -7,7 +7,7 @@
 ## 🧊 FRIDGE — use SOON!!
 
 ### ⚠️ Use in 1-2 days:
-- [ ] 1/2 red onion
+- [x] ~~1/2 red onion~~ → USED Saturday bruschetta ✅
 - [ ] 1/2 cucumber
 - [ ] 2 little gem lettuces
 - [x] ~~6 mushrooms~~ → USED Friday stir fry ✅
@@ -15,7 +15,7 @@
 
 ### ⚠️ Use in 3-4 days:
 - [ ] 2 small green peppers
-- [ ] 1.5 punnets of tomatoes
+- [ ] 1 punnet of tomatoes (half used for bruschetta #1)
 
 ### ✅ Good for a while:
 - [ ] 2 apples
