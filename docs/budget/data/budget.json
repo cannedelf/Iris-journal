@@ -529,6 +529,13 @@
       "amount": 12.37,
       "category": "groceries",
       "note": "Aldi"
+    },
+    {
+      "id": "spend_2_kr6id",
+      "date": "2026-07-25",
+      "amount": 4.9,
+      "category": "eatingOut",
+      "note": "Coffee"
     }
   ]
 }
