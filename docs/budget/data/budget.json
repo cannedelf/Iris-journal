@@ -529,6 +529,13 @@
       "amount": 4.9,
       "category": "eatingOut",
       "note": "Coffee"
+    },
+    {
+      "id": "spend_3_y0iur",
+      "date": "2026-07-24",
+      "amount": 16.45,
+      "category": "fun",
+      "note": "Cinema"
     }
   ]
 }
