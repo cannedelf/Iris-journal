@@ -522,6 +522,13 @@
       "amount": 19.33,
       "category": "fun",
       "note": "Cinema"
+    },
+    {
+      "id": "spend_1_eodwi",
+      "date": "2026-07-24",
+      "amount": 12.37,
+      "category": "groceries",
+      "note": "Aldi"
     }
   ]
 }
