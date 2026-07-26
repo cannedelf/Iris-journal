@@ -22,7 +22,7 @@
 - [ ] 1 garlic bulb
 - [ ] 1 lime
 - [ ] 1 red onion (whole)
-- [ ] 1 yellow onion (whole)
+- [x] ~~1 yellow onion~~ → USED Sunday curry ✅
 - [ ] 6 shallots
 
 ### 🫙 Open jars:
@@ -48,10 +48,10 @@
 
 ## 🥫 CUPBOARD — Tins & Jars
 
-- [ ] 2 tins chickpeas
+- [x] ~~2 tins chickpeas~~ → USED Sunday curry ✅
 - [ ] 2 tins cannellini beans
 - [ ] 1 tin black beans
-- [ ] 2 tins Italian plum tomatoes
+- [x] ~~2 tins Italian plum tomatoes~~ → USED Sunday curry ✅
 - [ ] 2 tins veg soup
 - [ ] 1 tin carrot & coriander soup
 - [ ] 1 tin lentil soup
