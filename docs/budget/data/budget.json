@@ -543,6 +543,13 @@
       "amount": 1.15,
       "category": "household",
       "note": "Aldi"
+    },
+    {
+      "id": "spend_2_dv28v",
+      "date": "2026-07-26",
+      "amount": 3.24,
+      "category": "spending",
+      "note": "Aldi"
     }
   ]
 }
