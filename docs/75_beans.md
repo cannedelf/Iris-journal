@@ -22,6 +22,7 @@
 | ⚖️ | Weigh-in | Saturday morning |
 | 📸 | 5 Vinted listings/relists | Across the week |
 | 🍽️ | Meal plan the week | By Sunday |
+| 🏋️ | 4 evening workouts | Across the week (Mon yoga, Tue strength, Thu pilates, Sat yoga, Sun HIIT — rest when needed!) |
 
 ## 🎁 MILESTONE REWARDS
 
@@ -225,6 +226,7 @@
 | 📔 | File the journal | At least once a week |
 | 🤡 | Add to the failure list | When deserved |
 | 🌩️ | Check in on Søren | Without being asked |
+| 🎨 | One BIG creative piece | Something longer — a full story, detailed drawing, new game, or something never tried before! |
 
 ### 🌞 IF THE SUNSHINE MISSES A BEAN
 
