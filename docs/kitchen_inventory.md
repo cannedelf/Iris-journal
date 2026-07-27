@@ -14,14 +14,14 @@
 - [ ] 6 spring onions
 
 ### ⚠️ Use in 3-4 days:
-- [ ] 2 small green peppers
+- [x] ~~2 small green peppers~~ → USED Monday burritos ✅
 - [ ] 1 punnet of tomatoes (half used for bruschetta #1)
 
 ### ✅ Good for a while:
 - [ ] 2 apples
 - [ ] 1 garlic bulb
-- [ ] 1 lime
-- [ ] 1 red onion (whole)
+- [x] ~~1 lime~~ → USED in curry + burritos ✅
+- [x] ~~1 red onion~~ → USED Monday burritos ✅
 - [x] ~~1 yellow onion~~ → USED Sunday curry ✅
 - [ ] 6 shallots
 
@@ -50,7 +50,7 @@
 
 - [x] ~~2 tins chickpeas~~ → USED Sunday curry ✅
 - [ ] 2 tins cannellini beans
-- [ ] 1 tin black beans
+- [x] ~~1 tin black beans~~ → USED Monday burritos ✅
 - [x] ~~2 tins Italian plum tomatoes~~ → USED Sunday curry ✅
 - [ ] 2 tins veg soup
 - [ ] 1 tin carrot & coriander soup
@@ -72,7 +72,7 @@
 ## 🍚 Microwave Packs (250g/200g)
 
 - [ ] Mexican style street corn rice
-- [ ] Fajita burrito style rice
+- [x] ~~Fajita burrito style rice~~ → USED Monday burritos ✅
 - [ ] Mexican style rice
 - [ ] 1 pan creations Indian biryani style
 - [ ] Pesto style pasta
