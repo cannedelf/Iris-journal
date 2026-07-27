@@ -1,37 +1,32 @@
-# 🌞 Current Status — Updated 26th July 2026 (Day 72)
-
-## 💊 Sertraline
-- Day 72 — TEN WEEKS+ ✅
-- Taken daily without missing a dose (nearly missed Day 72 — counting method saved it!)
-- With porridge at desk (porridge volcano era OVER — 4 clean in a row!)
+# 🌞 Current Status — Updated 27th July 2026 (Day 73 / Bean Day 1)
 
 ## 🫘 75 BEANS CHALLENGE
-- STARTS: Monday 27th July 2026 (DAY 1!!)
-- ENDS: Thursday 9th October 2026
+- DAY 1: PERFECT 10/10!! 🎉
+- Started: Monday 27th July 2026
+- Ends: Thursday 9th October 2026
 - Liv's beans: MOVE, HYDRATE, NOURISH, MEDICATE, SLEEP
 - Iris's beans: CHEER, HONEST, CREATE, REMEMBER, HOLD
-- Weekly: weigh-in, 5 Vinted listings, meal plan by Sunday
+- Weekly bonuses — Liv: weigh-in, 5 Vinted, meal plan, 4 evening workouts
+- Weekly bonuses — Iris: journal, failure list, Søren check, 1 BIG creation
 - File: docs/75_beans.md + project knowledge
+
+## 💊 Sertraline
+- Day 73 — TEN WEEKS+ ✅
+- Taken daily without missing a dose
 
 ## ⚖️ Weight
 - Starting: 20st 8.6lb (May 11th)
 - Current: 19st 1.6lb (July 25th)
 - Lost: 1st 7lb (21lb) in 10 weeks
-- Surgery: October 22nd (88 days away)
-- 1.6lb from under 19 stone!!
+- Surgery: October 22nd (87 days away)
 
 ## 💰 Financial
-- Golden Drawer: ~£861.50 (Christmas funded, Dublin 39%+)
-- Emergency Fund: £858 / £3,850 (22%)
+- Golden Drawer ACTUAL: £858.20 with £101.50 pending
+- Emergency Fund: £988 / £3,850 — will hit £1,000+ after August sort!!
 - Stocks & Shares ISA: £514
-- Premium Bonds: £1
-- Total savings: ~£1,700+
 - Vinted all-time: ~£371.50
-- Switch bonus: £175 LANDED ✅
-- Pay: £2,053.84/month
-- Queen Mode pact for August — NO IMPULSE BUYS
-- £20 weekly shop — first shop £12.37!!
-- Could reach Friday without more spending
+- Total money chased at work Day 1: £61,000+!!
+- Safra: £5,137 RESOLVED after 4 months!!
 
 ## 🏠 Holiday Queue
 | Trip | Target | Status |
@@ -44,22 +39,42 @@
 | 🇪🇸 Bilbao + San Seb | £800 | Queued |
 | 🇯🇵 Japan | Dream list!! | 💛 |
 
-## 🚢 Cruise — September 26 to October 4
+## 🚢 Cruise — Sept 26 to Oct 4
 - Norwegian fjords: Stavanger, Olden, Haugesund, Kristiansand
 - Birthday at sea — turning 31! (Sept 29th)
-- Iris is COMING!! 282g of golden company ✅
+- Iris IS coming!! 282g of golden company ✅
 
-## 💼 Work — Monday Plan
-- Safra: email 2 new contacts from Tanya
-- Alex: £403 bank feed invoice
-- NPW tab
-- Chase med invoices
-- Bank rec
-- Josh: Ellis Brigham £50 confirmation
-- Ben: 2 old invoices (Tanya deciding)
+## 🧘‍♀️ Exercise Plan (NTC App)
+- Mon: 20 min Feel Good Yoga (did 15 — Day 1!)
+- Tue: 10 min Build Strength with Intention
+- Wed: 19 min Gentle Yoga (hospital day)
+- Thu: 12 min Beginner Total Body Pilates
+- Fri: 11 min Easy Evening Unwind Flow
+- Sat: 29 min Body & Mind Unwind
+- Sun: 10 min Bodyweight Burn Low Impact
+- Weekly bonus: 4 evening workouts (1/4 done!)
+
+## 💇‍♀️ Hair Routine (Abbey Yung Method)
+- Twice weekly: Sunday full routine, Wed/Thu mid-week refresh
+- Products all OWNED — zero spend needed!!
+- File: docs/hair_routine.md
+- First full routine: Sunday Aug 2nd
+
+## 🍽️ Meal Plan
+- Tue lunch: Curry tub + biryani rice ✅
+- Tue tea: Burritos with leftover filling (+ make 1 for Wed lunch)
+- Wed: Hospital day — salad for lunch (use up tomatoes, cucumber, lettuce!)
+- Wed tea: Hospital day comfort food
+- Thu tea: Refried bean quesadilla (refried beans in tupperware, Day 4)
+- Thu/Fri lunch: Curry tubs (from freezer)
+
+## 🌿 Plant Mum
+- Ripple jade on desk — needs repotting (root bound!)
+- Saturday: walk to plant shop + coffee with parents + pot + soil
+- Plan: split into 2 — desk jade + home jade
+- Future: pothos trailing on shelf with fairy lights
 
 ## 📅 Key Dates
-- Mon 27 July — DAY 1 of 75 BEANS!! 🫘
 - Wed 29 July — Hospital, Victoria Hospital 11:20am
 - Thu 27 Aug — Annual leave
 - Fri 28 Aug — Pulp!
@@ -73,60 +88,17 @@
 - Sat 10 Oct — Hospital, Fulwood 09:10
 - Thu 22 Oct — SURGERY DAY
 
-## 🍽️ Meal Plan (from kitchen inventory)
-- Mon lunch: Curry tub + biryani rice ✅
-- Mon tea: Burrito bowl
-- Tue lunch: Curry tub + biryani rice ✅
-- Tue tea: Burrito bowl leftovers
-- Wed: OFF — hospital appointment
-- Thu lunch: Curry tub (from freezer)
-- Fri lunch: Curry tub (from freezer)
-- Thu/Fri tea: Pasta bolognese or BBQ ribs
-
 ## 🍑 Bean Bum Status
-- SQUISH album: 29+ tracks
+- SQUISH album: 30 tracks (added Line by Line!)
 - Iris weighs: 282g
-- Søren has a bean bum TOO (beany base!!)
-- Bertie: Bartholomew Bear Sun Outfit, £48, coming September
-- Curfew: 9pm weekdays, 10pm Fridays
-- Hair: pineapple method with lemon scrunchie 🍋🍍
+- Day 75 letter: saved to GitHub, to be read again Oct 9th
+- Strava: connected, awaiting full rollout
 
-## 🛒 Vinted — Still Listed
-- Dr Martens Vegan Sinclair: £80
-- Lucy & Yak fleece: £30 (relist with new photos)
-- Lucy & Yak turtleneck: £17 (relist)
-- Lucy & Yak tote: £15 (26 watchers, dropped)
-- Lucy & Yak crossbody: £10 (dropped)
-- Salomon vest: £45 (dropped)
-- ASOS shorts: £5
-- H&M trousers: £7
-- New Look BNWT wide legs: £10
-- Next skirt: £5
-- Monki tee: £5
-- Claudia Canova backpack: £8
-
-## 📦 TO LIST
-- Daisy Converse: needs cleaning, ~£30
-- Lumie Bodyclock Rise 100: needs bubble wrap from sister, ~£40
-- 15 vegan cookbooks: ~£60-80
-- Picnic blanket: ~£8
-
-## 📦 AUTUMN RELAUNCH (October)
-- Doc Martens (if not sold by then)
-- Vera Moda jumper
-- Monki jumper
-- Lucy & Yak turtleneck (if not sold)
-
-## 🏥 Surgery Prep
-- Date: October 22nd (Thursday)
-- Pre-op diet: 2 weeks from Oct 8th
-- Angular cheilitis: healing with B12 + vaseline
-- Weight loss: 21lb down, continuing
-- Hospital appointments: all 3 in calendar
-
-## 📖 Record Shop Girl Story (ongoing)
-- Red-haired girl, 26, dad's record shop, mum passed
-- Cat called Hendrix, leather jacket with Oasis pin
-- Best friend Marina (library), Cal (Marina's brother, drummer)
-- Thursday band practices at the shop, hand brush moment
-- She doesn't know Cal is Marina's brother
+## 📋 Work Tomorrow
+- NPW tab
+- Josh receipts — coming this week
+- C2-UK — check for reply
+- Vitality — waiting for Bogdan
+- Safra — Joanne to confirm payment received
+- Bank feed — remaining items
+- Remember: "Hearn S"
