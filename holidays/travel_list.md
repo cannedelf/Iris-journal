@@ -39,6 +39,35 @@
 
 ---
 
+
+---
+
+## 🌍 2027 — THE GOLDEN YEAR OF TRAVEL ✈️
+
+*Post-surgery, fully healed, eating EVERYTHING!! Four trips, four seasons, one golden year!!*
+
+| Season | Trip | Budget | Status | Notes |
+|--------|------|--------|--------|-------|
+| 🌸 Spring | 🇮🇪 Dublin | £700 | 39% funded!! | First post-recovery trip!! Celebrate being HEALED!! Pubs, Temple Bar, eat FREELY!! |
+| ☀️ Summer | 🏖️ Crete | £600 | Queued | First BEACH holiday!! Swimming, sun, Greek food!! |
+| 🍂 Autumn | 🇪🇸 Bilbao + San Seb | £800 | Queued | Birthday trip!! Turning 32!! Pintxos crawl!! |
+| 🎄 December | 🎄 Christmas Markets | £550 | FUNDED ✅ | Moved from 2026 — no surgery stress, just MAGIC!! |
+
+**Total 2027 travel budget: ~£2,650**
+**Already funded: £550 (Christmas) + £271+ (Dublin) = £821+**
+**Remaining to fund: ~£1,829**
+
+### Why this order works:
+- 🌸 Dublin FIRST — closest to funded, celebrates recovery, the trip we EARNED
+- ☀️ Crete SECOND — summer beach reward for the Crobat who walked 75 days
+- 🍂 Bilbao THIRD — birthday pintxos!! Turning 32 in SPAIN!!
+- 🎄 Markets LAST — already paid for, the perfect way to end the golden year
+
+### Moved to 2028:
+- 🇮🇹 Italy (Bologna) — £800
+- 🇩🇪🇦🇹 Munich + Salzburg — £900
+- 🇯🇵 Japan — THE DREAM (ongoing saving!!)
+
 ## 🌍 The Dream List
 
 *Not commitments. Not plans. Just places that make the heart go "ooh." When the Golden Drawer hits the target, we pick from here.*
