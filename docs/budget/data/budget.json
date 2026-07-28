@@ -48,13 +48,6 @@
             "fundBy": "2027-01-31"
           },
           {
-            "id": "trip_xmas",
-            "name": "Christmas Markets",
-            "emoji": "🎄",
-            "target": 550,
-            "fundBy": "2026-11-30"
-          },
-          {
             "id": "trip_italy",
             "name": "Italy",
             "emoji": "🇮🇹",
@@ -67,6 +60,13 @@
             "emoji": "🏔️",
             "target": 900,
             "fundBy": "2027-05-31"
+          },
+          {
+            "id": "trip_xmas",
+            "name": "Christmas Markets",
+            "emoji": "🎄",
+            "target": 550,
+            "fundBy": "2026-11-30"
           },
           {
             "id": "trip_crete",
