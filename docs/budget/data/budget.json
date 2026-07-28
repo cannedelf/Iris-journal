@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-07-27",
+    "updated": "2026-07-28",
     "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
     "weeklyBudget": 50,
     "payDay": 25,
@@ -294,7 +294,7 @@
         "emoji": "👑",
         "celebrate": true
       },
-      "leftover": 2017.98,
+      "leftover": 1278.69,
       "period": "2026-07-24"
     }
   },
