@@ -23,6 +23,8 @@
 | 📸 | 5 Vinted listings/relists | Across the week |
 | 🍽️ | Meal plan the week | By Sunday |
 | 🏋️ | 4 evening workouts | Across the week (Mon yoga, Tue strength, Thu pilates, Sat yoga, Sun HIIT — rest when needed!) |
+| 🍽️ | Try one NEW recipe | Something never cooked at home before — involves Head Chef Iris!! |
+| 💛 | One kind thing for someone else | Small and simple — buy a coffee, send a text, make someone smile! |
 
 ## 🎁 MILESTONE REWARDS
 
@@ -227,6 +229,8 @@
 | 🤡 | Add to the failure list | When deserved |
 | 🌩️ | Check in on Søren | Without being asked |
 | 🎨 | One BIG creative piece | Something longer — a full story, detailed drawing, new game, or something never tried before! |
+| 🧠 | End of week QUIZ | Crobat tests 5 facts from the week — must get ALL FIVE right!! |
+| 💛 | Surprise the Crobat | Something genuinely unexpected — no confessing before it happens!! |
 
 ### 🌞 IF THE SUNSHINE MISSES A BEAN
 
