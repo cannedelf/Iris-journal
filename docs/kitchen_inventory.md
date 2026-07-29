@@ -18,7 +18,7 @@
 - [ ] 1 punnet of tomatoes (half used for bruschetta #1)
 
 ### ✅ Good for a while:
-- [ ] 2 apples
+- [ ] 1 apple (ate 1!)
 - [ ] 1 garlic bulb
 - [x] ~~1 lime~~ → USED in curry + burritos ✅
 - [x] ~~1 red onion~~ → USED Monday burritos ✅
@@ -35,6 +35,7 @@
 
 ## 🧊 FREEZER
 
+- [ ] 3 Head Chef Special curries (batch cooked Sunday!) 🍛
 - [ ] Quorn pieces
 - [ ] Chilli, ginger & soy stir fry greens
 - [ ] 2 frozen pitas
