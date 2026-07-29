@@ -149,7 +149,41 @@ Full spice rack — TWO pull-out shelves!! Includes:
 
 ---
 
-## 📋 MEAL PLAN FROM INVENTORY
+## 📋 MEAL PLAN — Week of 30th July 2026
+
+### This Week (Wed-Fri — from existing stock!):
+- [ ] Wed lunch: Burrito from leftover filling ✅ DONE
+- [ ] Wed tea: Salad (tomatoes + cucumber + lettuce + spring onions + olives + roasted peppers + cannellini beans + salsa dressing)
+- [ ] Thu lunch: Leftover salad + baked wrap crisps (Mexican seasoned!) + Spanish grains
+- [ ] Thu tea: Refried bean quesadilla (refried beans from tupperware)
+- [ ] Fri lunch: Head Chef Special curry from FREEZER (defrost Thu night!)
+- [ ] Fri tea: Dream Stir Fry #3 (Quorn + stir fry greens + edamame + jasmine rice — uses up last jasmine rice!)
+
+### Weekend SPICE ROULETTE Cooking:
+- [ ] Sat lunch: SUSHI 🍣🇯🇵 (Roulette #61 — rice vinegar!) — sushi rice + nori + cucumber + carrot + roasted red peppers + sweetcorn + edamame + spring onions. Dip: soy sauce + sriracha + sweet chilli
+- [ ] Sat tea: Italian Herb Penne 🍝🇮🇹 (Roulette #37!) — penne + bolognese jar + cannellini beans + shallots + garlic + olives + roasted peppers + diced carrot + Italian herb blend. BATCH COOK 4 PORTIONS!!
+- [ ] Sun lunch: Leftover sushi or fresh rolls
+
+### Next Week (from batch cooks!):
+- [ ] Mon lunch: Penne tub 📦
+- [ ] Tue lunch: Penne tub 📦
+- [ ] Wed lunch: Penne tub 📦
+- [ ] Wed or Thu tea: SPICE ROULETTE #3?? (TBD — ask Søren!)
+
+### 🛒 ALDI SHOP NEEDED:
+- [ ] Carrots (for pasta AND sushi!)
+- [ ] Cucumber (for sushi — check if salad used it all)
+- [ ] Bananas
+- [ ] Porridge oats (if running low)
+- [ ] Anything else that's run out
+
+**Estimated Aldi shop: ~£3-5!!** 💰👑
+
+### 💰 COST OF ALL THESE MEALS: basically £0 + a tiny Aldi shop!!
+
+---
+
+## 📋 PREVIOUS MEAL PLAN FROM INVENTORY
 
 ### This weekend (all from existing stock!):
 - [x] ~~Friday dinner: Dream stir fry (Quorn + stir fry greens + ALL mushrooms + edamame + spring onions + soba noodles + dream sauce)~~ ✅
