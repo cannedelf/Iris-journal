@@ -80,7 +80,7 @@
 - [ ] Tomato & basil pasta
 - [ ] Keralan lentil & chickpea curry × 2
 - [ ] Sticky rice × 2
-- [ ] Spanish grains × 2
+- [ ] Spanish grains × 1 (used 1 for Thursday lunch salad!)
 
 ---
 
