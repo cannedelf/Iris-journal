@@ -557,6 +557,13 @@
       "amount": 14.49,
       "category": "household",
       "note": "New handle for window"
+    },
+    {
+      "id": "spend_1_xw0b0",
+      "date": "2026-07-29",
+      "amount": 15.1,
+      "category": "eatingOut",
+      "note": "Stanley park w/ parents"
     }
   ]
 }
