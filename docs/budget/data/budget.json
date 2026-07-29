@@ -564,6 +564,13 @@
       "amount": 15.1,
       "category": "eatingOut",
       "note": "Stanley park w/ parents"
+    },
+    {
+      "id": "spend_2_2398q",
+      "date": "2026-07-28",
+      "amount": 40.63,
+      "category": "spending",
+      "note": "Boots"
     }
   ]
 }
