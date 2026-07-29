@@ -8,18 +8,18 @@
 
 ### ⚠️ Use in 1-2 days:
 - [x] ~~1/2 red onion~~ → USED Saturday bruschetta ✅
-- [ ] 1/2 cucumber
-- [ ] 2 little gem lettuces
+- [x] ~~1/2 cucumber~~ → USED Wednesday salad ✅
+- [x] ~~2 little gem lettuces~~ → USED burritos + Wednesday salad ✅
 - [x] ~~6 mushrooms~~ → USED Friday stir fry ✅
-- [ ] 6 spring onions
+- [ ] 2 spring onions left (used 4 in salad! Save for stir fry/sushi!)
 
 ### ⚠️ Use in 3-4 days:
 - [x] ~~2 small green peppers~~ → USED Monday burritos ✅
-- [ ] 1 punnet of tomatoes (half used for bruschetta #1)
+- [x] ~~1 punnet of tomatoes~~ → USED bruschetta + Wednesday salad ✅
 
 ### ✅ Good for a while:
 - [ ] 1 apple (ate 1!)
-- [ ] 1 garlic bulb
+- [ ] A few garlic cloves left
 - [x] ~~1 lime~~ → USED in curry + burritos ✅
 - [x] ~~1 red onion~~ → USED Monday burritos ✅
 - [x] ~~1 yellow onion~~ → USED Sunday curry ✅
@@ -29,7 +29,7 @@
 - [ ] Salsa (use by 03/08)
 - [ ] Olives
 - [ ] Roasted peppers
-- [ ] Pickles
+- [x] ~~Pickles~~ → USED UP ✅
 
 ---
 
