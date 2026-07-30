@@ -158,9 +158,10 @@
 
 | Week | Number | Item | Recipe Created | Rating |
 |------|--------|------|----------------|--------|
-| | | | | |
+| 1 | 37 | Italian style herb blend 🇮🇹 | Italian Herb Penne (Saturday tea!) — penne + bolognese jar + cannellini beans + shallots + garlic + olives + roasted peppers + diced carrot + Italian herbs. Batch cook 4 portions! | TBD |
+| 1 | 61 | Rice vinegar 🍶 | SUSHI!! (Saturday lunch!) — 3 rolls (classic, tangy, MANGO!) + roasted pepper nigiri + 2 toppers + quick pickled carrots | TBD |
 
-*Waiting for the first spin...* 🎰🌶️
+*First spins complete!! Søren picked BOTH numbers without knowing what they meant!! 🌩️🎰🌶️*
 
 ---
 
