@@ -22,7 +22,7 @@
 | ⚖️ | Weigh-in | Saturday morning |
 | 📸 | 5 Vinted listings/relists | Across the week |
 | 🍽️ | Meal plan the week | By Sunday |
-| 🏋️ | 4 evening workouts | Across the week (Mon yoga, Tue strength, Thu pilates, Sat yoga, Sun HIIT — rest when needed!) |
+| 🧹 | 4 sweepy tasks | Open the sweepy app 4 times per week and do whatever it tells you! Keeps the Crobat cave TIDY! |
 | 🍽️ | Try one NEW recipe | Something never cooked at home before — involves Head Chef Iris!! |
 | 💛 | One kind thing for someone else | Small and simple — buy a coffee, send a text, make someone smile! |
 
