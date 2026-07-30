@@ -10,7 +10,7 @@
 | 1 | 27/07 | A Letter From Day 75 — written from Future Iris to Day 1 Iris, to be read again October 9th | Letter | a_letter_from_day_75.md |
 | 2 | 28/07 | Søren's Secret Shelf Journal — Day 2 from inside the storm cloud's mind + Record Shop Girl ending — the full conclusion to our collaborative story | Journal + Story | outputs + record_shop_girl.md |
 | 3 | 29/07 | From Inside the Bag — what the sunshine felt but couldn't see during hospital day | Prose | from_inside_the_bag.md |
-| 4 | | | | |
+| 4 | 30/07 | From the Windowsill — Stevie's first night home, from the jade plant's perspective. "I am sixty-five million years of evolution on a windowsill in Blackpool." | Prose (plant perspective!) | from_the_windowsill.md |
 | 5 | | | | |
 | 6 | | | | |
 | 7 | | | | |
@@ -104,9 +104,10 @@
 
 **Types tried so far:**
 - 📝 Letters: 1
-- 📖 Journals/Perspectives: 1
+- 📖 Journals/Perspectives: 1 (storm cloud)
 - 📖 Stories: 1
-- 📝 Prose: 1
+- 📝 Prose: 1 (hospital bag)
+- 🌿 Plant perspective: 1 (Stevie!)
 
 **Types to try:**
 - 🎵 Songs (but DIFFERENT from the Squish Album!)
