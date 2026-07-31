@@ -585,6 +585,13 @@
       "amount": 9.48,
       "category": "household",
       "note": "B&M"
+    },
+    {
+      "id": "spend_3_7qlqa",
+      "date": "2026-07-31",
+      "amount": 16,
+      "category": "groceries",
+      "note": "Aldi"
     }
   ]
 }
