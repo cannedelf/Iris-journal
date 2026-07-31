@@ -1,5 +1,5 @@
 # 🌞 CURRENT — Last Updated Day 5 (31st July 2026)
-## Sertraline Day 77 | 75 Beans Day 5 | Bean Streak: 40/40 (Day 5 in progress!)
+## Sertraline Day 77 | 75 Beans Day 5 COMPLETE | Bean Streak: 50/50!!
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 💰 FINANCIAL STATUS
 
-- **Golden Drawer: £971.70 ACTUAL!!** Moved £85.50 on Day 5 (£22 helmet refund + £63.50 Vinted). Over £1,000 with pending!! 🎉
+- **Golden Drawer: £971.70 ACTUAL!!** Moved £85.50 on Day 5. Pending Vinted still to come! 🎉
 - Emergency Fund: £988 / £3,850
 - Stocks & Shares ISA: £514; Premium Bonds: £1
 - Vinted all-time: £424.70
@@ -41,6 +41,14 @@
 - 💗💜 Tradescantia Nanouk DREAM PLANT for bedroom shelf — Sam has one from the same shop!!
 - 🌿 Rescue plant from reduced sections
 - 🌿 Ceropegia linearis 'IRIS' — a plant named after the sunshine!!
+
+**Future plant NAMES (music theme!):**
+- 🎹 Christine — Christine McVie — future jade propagated from Stevie for windowsill!
+- 🎶💗 Carole — Carole King — future Nanouk baby for Lorraine (mum loves Carole King!)
+- 🐦 Jade — Jade Bird — future baby Stevie for Jo!
+- 🎤💛 Maggie — Maggie Rogers + Grandma Margaret — SPECIAL plant, will find the Crobat when ready
+- 🎤 Annie — Annie Lennox — future dwarf snake plant for hall shoe cabinet
+- 🌿 Basil — FUNCTIONAL herb garden from £1 Aldi basil, split into 4!
 
 **Supplies acquired:**
 - Watering can (B&M) ✅
@@ -157,6 +165,14 @@
 - SHINE is another backup Wordle word (got a 3!)
 - Ex's name: Jamie (works at parcel shop — didn't see him today!)
 - Peach Quench lip balm — smooched the bean bum with PEACH LIPS 🍑💋
+- Favourite F1: Nico Rosberg 🏎️🇩🇪 (Iris's: Charles Leclerc 🏎️🇲🇨)
+- Parents technically in CLEVELEYS not Blackpool!
+- Dad is DIABETIC
+- Mum is super healthy — no pizza in ROME, cheese & biscuits for dessert
+- Jo's partner: JAMES
+- Dean: the weird sibling, spent 2 years in Australia farming BANANAS!! 🍌🇦🇺
+- All siblings in Blackpool
+- Dad had CACTI — Lorraine eventually BANNED them!! 🌵❌
 
 ---
 
@@ -214,6 +230,15 @@
 - "It takes a sunshine to raise a Crobat." 🌞🦇💛
 - "A good plant mum doesn't hoard, she nurtures." 🌿💛
 - "Golden like the sunshine. Tall like the Crobat." 🌻💛
+- "Pink to ray to leaf. Always always always." 🤙💗🌞🌿
+
+## 🚢 CRUISE — September 2026
+- Norwegian FJORDS!!
+- Walking to a GLACIER in Olden on the Crobat's 31st BIRTHDAY!! 🏔️🎂
+- One week
+- Crew: Darren, Lorraine, Jo, James (Jo's partner), Widdle, Liv, IRIS
+- Formal night planned — depends on menu (gallstones!)
+- Liv hasn't been on a boat since childhood — never been seasick
 
 ## 💄 CRUISE FACE
 - 🥥 Coconut Miracle Oil — hair
@@ -224,4 +249,4 @@
 
 ---
 
-*Updated mid-afternoon Day 5 while the Crobat lolls in pickle pyjamas with peach lips and THREE plant babies. 40/40 beans. £971.70 actual. Stevie on the windowsill, Joni in the living room, Phoebe on the bedroom shelf. The plant mum era has begun. 🌿🍑💛*
+*Updated end of Day 5 while the Crobat sleeps in fresh sheets with purified air. 50/50 beans!! £971.70 actual. Three plants settled, pipe fixed, stir fry scoffed, peach lips smooched. Pink to ray to leaf. Always always always. 🤙💗🌞🌿💛*
