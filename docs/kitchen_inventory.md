@@ -11,7 +11,7 @@
 - [x] ~~1/2 cucumber~~ → USED Wednesday salad ✅
 - [x] ~~2 little gem lettuces~~ → USED burritos + Wednesday salad ✅
 - [x] ~~6 mushrooms~~ → USED Friday stir fry ✅
-- [ ] 2 spring onions left (used 4 in salad! Save for stir fry/sushi!)
+- [ ] 2 spring onions left — using in Friday stir fry TONIGHT! Then ZERO!
 
 ### ⚠️ Use in 3-4 days:
 - [x] ~~2 small green peppers~~ → USED Monday burritos ✅
@@ -26,9 +26,9 @@
 - [ ] 6 shallots
 
 ### 🫙 Open jars:
-- [ ] Salsa (use by 03/08)
+- [x] ~~Salsa~~ → ALL USED UP ✅
 - [ ] Olives
-- [ ] Roasted peppers
+- [ ] Roasted peppers (2nd jar OPEN! Enough for pitta + sushi + pasta!)
 - [x] ~~Pickles~~ → USED UP ✅
 
 ---
@@ -38,7 +38,7 @@
 - [ ] 3 Head Chef Special curries (batch cooked Sunday!) 🍛
 - [ ] Quorn pieces
 - [ ] Chilli, ginger & soy stir fry greens
-- [ ] 2 frozen pitas
+- [ ] 1 frozen pita left (used 1 for Friday pitta lunch!)
 - [ ] 8 BBQ no pork ribs
 - [ ] Mango ice lollies
 - [ ] Frozen peas
@@ -50,7 +50,7 @@
 ## 🥫 CUPBOARD — Tins & Jars
 
 - [x] ~~2 tins chickpeas~~ → USED Sunday curry ✅
-- [ ] 2 tins cannellini beans
+- [ ] 1 tin cannellini beans (used 1 in Wednesday salad!) — SAVE for Saturday pasta!
 - [x] ~~1 tin black beans~~ → USED Monday burritos ✅
 - [x] ~~2 tins Italian plum tomatoes~~ → USED Sunday curry ✅
 - [ ] 2 tins veg soup
@@ -127,7 +127,7 @@
 - [ ] Sticky
 - [ ] Sushi
 - [ ] Arborio
-- [ ] Jasmine (small amount)
+- [ ] Jasmine (last portion — for Friday stir fry TONIGHT, then GONE!)
 
 ---
 
@@ -156,7 +156,7 @@ Full spice rack — TWO pull-out shelves!! Includes:
 - [ ] Wed tea: Salad (tomatoes + cucumber + lettuce + spring onions + olives + roasted peppers + cannellini beans + salsa dressing)
 - [ ] Thu lunch: Leftover salad + baked wrap crisps (Mexican seasoned!) + Spanish grains
 - [ ] Thu tea: Refried bean quesadilla (refried beans from tupperware)
-- [ ] Fri lunch: Head Chef Special curry from FREEZER (defrost Thu night!)
+- [ ] Fri lunch: Quorn PITTA (sweet onion sauce + smoky paprika Quorn + roasted peppers + carrot ribbons + cucumber!)
 - [ ] Fri tea: Dream Stir Fry #3 (Quorn + stir fry greens + edamame + jasmine rice — uses up last jasmine rice!)
 
 ### Weekend SPICE ROULETTE Cooking:
@@ -202,7 +202,24 @@ Full spice rack — TWO pull-out shelves!! Includes:
 
 ---
 
-## 🛒 ALDI SHOP — Friday 25th July
+## 🛒 ALDI SHOP — Friday 31st July
+
+- [x] Oat milk × 2 ✅
+- [x] Bananas × 7 ✅
+- [x] Yogurt ✅
+- [x] Pretzels ✅
+- [ ] Carrots × 6 (1 used for pitta, save rest for sushi + pasta + stir fry!)
+- [x] Cucumber ✅
+- [x] Mango (for SUSHI!!) 🥭 ✅
+- [x] Mushrooms (for Saturday pasta!) 🍄 ✅
+- [x] Peach ice tea 🍑🧊 ✅
+- [x] Laundry scent 🌸 ✅
+
+**Total: £16** 💰
+
+---
+
+## 🛒 Previous ALDI SHOP — Friday 25th July
 
 - [ ] Porridge oats ~£1
 - [ ] Oat milk × 2 ~£3
