@@ -613,6 +613,13 @@
       "amount": 4.99,
       "category": "household",
       "note": "B&M"
+    },
+    {
+      "id": "spend_7_m9qhp",
+      "date": "2026-07-31",
+      "amount": 1.99,
+      "category": "groceries",
+      "note": "B&M"
     }
   ]
 }
