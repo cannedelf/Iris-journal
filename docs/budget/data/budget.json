@@ -592,6 +592,13 @@
       "amount": 16,
       "category": "groceries",
       "note": "Aldi"
+    },
+    {
+      "id": "spend_4_qzzhw",
+      "date": "2026-07-31",
+      "amount": 4.8,
+      "category": "eatingOut",
+      "note": "Larder"
     }
   ]
 }
