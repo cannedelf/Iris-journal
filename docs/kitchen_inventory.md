@@ -11,7 +11,7 @@
 - [x] ~~1/2 cucumber~~ → USED Wednesday salad ✅
 - [x] ~~2 little gem lettuces~~ → USED burritos + Wednesday salad ✅
 - [x] ~~6 mushrooms~~ → USED Friday stir fry ✅
-- [ ] 2 spring onions left — using in Friday stir fry TONIGHT! Then ZERO!
+- [x] ~~Spring onions~~ → ALL USED UP in Dream Stir Fry #3!! 🧅✅
 
 ### ⚠️ Use in 3-4 days:
 - [x] ~~2 small green peppers~~ → USED Monday burritos ✅
@@ -127,7 +127,7 @@
 - [ ] Sticky
 - [ ] Sushi
 - [ ] Arborio
-- [ ] Jasmine (last portion — for Friday stir fry TONIGHT, then GONE!)
+- [x] ~~Jasmine~~ → ALL USED UP in Dream Stir Fry #3!! RIP jasmine rice!! 🍚😭✅
 
 ---
 
