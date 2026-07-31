@@ -571,6 +571,13 @@
       "amount": 40.63,
       "category": "spending",
       "note": "Boots"
+    },
+    {
+      "id": "spend_1_6so5w",
+      "date": "2026-07-30",
+      "amount": 4,
+      "category": "household",
+      "note": "Poundland"
     }
   ]
 }
