@@ -606,6 +606,13 @@
       "amount": 27.96,
       "category": "household",
       "note": "The plant place"
+    },
+    {
+      "id": "spend_6_qfvjd",
+      "date": "2026-07-31",
+      "amount": 4.99,
+      "category": "household",
+      "note": "B&M"
     }
   ]
 }
