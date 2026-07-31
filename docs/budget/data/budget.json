@@ -599,6 +599,13 @@
       "amount": 4.8,
       "category": "eatingOut",
       "note": "Larder"
+    },
+    {
+      "id": "spend_5_t1b5i",
+      "date": "2026-07-31",
+      "amount": 27.96,
+      "category": "household",
+      "note": "The plant place"
     }
   ]
 }
