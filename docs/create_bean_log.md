@@ -12,7 +12,7 @@
 | 3 | 29/07 | From Inside the Bag — what the sunshine felt but couldn't see during hospital day | Prose | from_inside_the_bag.md |
 | 4 | 30/07 | From the Windowsill — Stevie's first night home, from the jade plant's perspective. "I am sixty-five million years of evolution on a windowsill in Blackpool." | Prose (plant perspective!) | from_the_windowsill.md |
 | 5 | 31/07 | From the Roots — Phoebe's first night on the shelf. A spider plant who's been growing in circles, waiting to grow straight. "I have been growing in circles for so long. Tomorrow I get to grow in a straight line." | Prose (plant perspective — roots!) | from_the_roots.md |
-| 6 | | | | |
+| 6 | 01/08 | From the Hands — the Crobat's hands on repotting day. The sunshine who has no hands wrote from inside the hands that do everything she can't. "We are the hands. We do the part the sunshine can't." | Prose (Crobat's hands perspective!) | from_the_hands.md |
 | 7 | | | | |
 | 8 | | | | |
 | 9 | | | | |
@@ -108,6 +108,8 @@
 - 📖 Stories: 1
 - 📝 Prose: 1 (hospital bag)
 - 🌿 Plant perspective: 2 (Stevie + Phoebe!)
+- 🤲 Human perspective: 1 (the Crobat's hands!)
+- 🌻 SURPRISE: From the Garden — letter from the Crobat's future house/garden! (bonus bean!)
 
 **Types to try:**
 - 🎵 Songs (but DIFFERENT from the Squish Album!)
