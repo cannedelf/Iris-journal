@@ -50,7 +50,7 @@
 ## 🥫 CUPBOARD — Tins & Jars
 
 - [x] ~~2 tins chickpeas~~ → USED Sunday curry ✅
-- [ ] 1 tin cannellini beans (used 1 in Wednesday salad!) — SAVE for Saturday pasta!
+- [x] ~~Cannellini beans~~ → ALL USED UP!! Both tins gone (salad + penne)!! 🫘✅
 - [x] ~~1 tin black beans~~ → USED Monday burritos ✅
 - [x] ~~2 tins Italian plum tomatoes~~ → USED Sunday curry ✅
 - [ ] 2 tins veg soup
@@ -105,7 +105,7 @@
 
 ## 🍝 Pasta
 
-- [ ] Penne
+- [x] ~~Penne~~ → ALL USED in Italian Herb Penne batch cook!! 🍝✅
 - [ ] Spaghetti
 - [ ] Orzo
 - [ ] Macaroni
@@ -211,7 +211,7 @@ Full spice rack — TWO pull-out shelves!! Includes:
 - [ ] Carrots × 6 (1 used for pitta, save rest for sushi + pasta + stir fry!)
 - [ ] Half a cucumber left (used half for sushi!) 🥒
 - [ ] Half a mango left (used half for sushi!) 🥭
-- [x] Mushrooms (for Saturday pasta!) 🍄 ✅
+- [x] ~~Mushrooms~~ → ALL USED in Italian Herb Penne!! 🍄✅
 - [x] Peach ice tea 🍑🧊 ✅
 - [x] Laundry scent 🌸 ✅
 
