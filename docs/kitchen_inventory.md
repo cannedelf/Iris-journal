@@ -28,7 +28,7 @@
 ### 🫙 Open jars:
 - [x] ~~Salsa~~ → ALL USED UP ✅
 - [ ] Olives
-- [ ] Roasted peppers (2nd jar OPEN! Enough for pitta + sushi + pasta!)
+- [ ] Roasted peppers (1 full jar left — 2nd jar ALL USED in pitta + sushi!) 🫑
 - [x] ~~Pickles~~ → USED UP ✅
 
 ---
@@ -209,8 +209,8 @@ Full spice rack — TWO pull-out shelves!! Includes:
 - [x] Yogurt ✅
 - [x] Pretzels ✅
 - [ ] Carrots × 6 (1 used for pitta, save rest for sushi + pasta + stir fry!)
-- [x] Cucumber ✅
-- [x] Mango (for SUSHI!!) 🥭 ✅
+- [ ] Half a cucumber left (used half for sushi!) 🥒
+- [ ] Half a mango left (used half for sushi!) 🥭
 - [x] Mushrooms (for Saturday pasta!) 🍄 ✅
 - [x] Peach ice tea 🍑🧊 ✅
 - [x] Laundry scent 🌸 ✅
