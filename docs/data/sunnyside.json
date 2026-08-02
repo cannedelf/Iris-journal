@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "neighbourhood": "Sunnyside",
-    "updated": "2026-07-11",
+    "updated": "2026-08-02",
     "note": "Seed data pre-populated from the Iris-journal reference files. Edit freely in the app — every save commits straight back to GitHub.",
     "eyeColours": [
       {
@@ -141,7 +141,7 @@
       "location": "Sunnyside, near the shops",
       "features": "Yellow door, art studio, sunflower garden, piano in the hallway",
       "movedIn": "2026-06-07",
-      "daysThisRotation": 0,
+      "daysThisRotation": 1,
       "layout": {
         "cols": 60,
         "rows": 60,
