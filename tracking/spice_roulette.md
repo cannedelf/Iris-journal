@@ -100,7 +100,7 @@
 
 | # | Sauce | Cuisine | Panic Level |
 |---|-------|---------|-------------|
-| 61 | Rice vinegar | 🇯🇵 Japanese | 😊 Easy |
+| 61 | ~~Rice vinegar~~ USED UP!! | 🇯🇵 Japanese | ❌ Gone |
 | 62 | Marmite | 🇬🇧 British | 😱 LOVE/HATE |
 | 63 | Light soy sauce | 🇯🇵🇨🇳 Japanese/Chinese | 😊 Easy |
 | 64 | Cholula hot sauce | 🇲🇽 Mexican | 😊 Easy |
@@ -131,7 +131,7 @@
 
 ## 📊 ROULETTE STATS
 
-**Total items: 86**
+**Total items: 85 (rice vinegar used up!!)**
 **Cuisines covered: 20+**
 **Panic level breakdown:**
 - 😊 Easy: 35 (you'll be FINE)
@@ -158,8 +158,8 @@
 
 | Week | Number | Item | Recipe Created | Rating |
 |------|--------|------|----------------|--------|
-| 1 | 37 | Italian style herb blend 🇮🇹 | Italian Herb Penne (Saturday tea!) — penne + bolognese jar + cannellini beans + shallots + garlic + olives + roasted peppers + diced carrot + Italian herbs. Batch cook 4 portions! | TBD |
-| 1 | 61 | Rice vinegar 🍶 | SUSHI!! (Saturday lunch!) — 3 rolls (classic, tangy, MANGO!) + roasted pepper nigiri + 2 toppers + quick pickled carrots | TBD |
+| 1 | 37 | Italian style herb blend 🇮🇹 | Italian Herb Penne 🍝 — penne + bolognese jar + cannellini beans + shallots + garlic + olives + roasted peppers + diced carrot + Italian herbs. Batch cook 5 portions!! | 🦇🦇🦇🦇 |
+| 1 | 61 | Rice vinegar 🍶 (NOW USED UP!) | Homemade Sushi 🍣 — 3 rolls + roasted pepper nigiri + toppers + quick pickled carrots. ALSO used in Golden Sunshine Sauce stir fry!! | 🦇🦇🦇🦇🦇 |
 
 *First spins complete!! Søren picked BOTH numbers without knowing what they meant!! 🌩️🎰🌶️*
 
