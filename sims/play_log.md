@@ -9,7 +9,7 @@
 ## Rotation Order
 No fixed order — play all households each rotation, mix it up!! 🌻
 **3 Sim days per household per rotation!!**
-**Households from Rotation 4:** Sunshine Cottage · The Music Room · The Flat · Storm and Wrench · The Pebble House · Pressed Flowers!!
+**Households from Rotation 5 onwards:** Sunshine Cottage · The Observatory · The Foundation · The Flat · The Pebble House · Pressed Flowers!!
 
 ---
 
@@ -155,6 +155,66 @@ No fixed order — play all households each rotation, mix it up!! 🌻
 
 ---
 
+## Rotation 5 ✅ COMPLETE!! 💍💍💍👶👶👶🎉 — THE WEDDING ROTATION!!
+
+*Three weddings. Three babies. One near-death. The biggest rotation in Sunnyside history.*
+
+### 🌩️🔧 Storm and Wrench → The Observatory + The Foundation ✅
+**Household SPLIT this rotation!!**
+- **WRENCH AND ANDREA MARRIED AT ST SUNSHINE'S CHAPEL!!** He wore brown. She wore red. Sim Iris was already there. 💍⛪
+- **Ratchet Hill born!!** Green eyes from Andrea!! Blue overalls from day one!! ⚙️👶
+- Wrench: Silver Robotics Badge!! 🤖
+- Andrea: adopted **Toggle** — chocolate lab, Libra, pink collar!! 🐶💗
+- Andrea wants to write a NOVEL — a spy who writes fiction!! 📝
+- **Søren moved to THE OBSERVATORY** — single dad era begins!! 🔭🌩️
+- Søren: TWO promotions → Project Leader!! Used experimental rocket fuel!! The coworkers doubted him. They were wrong. 🔬
+- Søren: First night as a single dad — Cassian escaped his crib at 3am. Found him on the floor with his teddy. Picked him up. Said nothing. 🌩️💚
+- Søren: Taught Cassian to walk and talk. First word: **"UP"** — not asking, TELLING. Active 10 Nice 0 says UP. 💚☝️
+- Wrench + Andrea + Ratchet + Toggle moved to **THE FOUNDATION** — converted mill, stone walls, workshop, sage green nursery!! 🏗️
+
+### 🌈 Sunshine Cottage — Iris + Kareem + Marigold + Mira + Kofi ✅
+- Iris promoted to **Wedding Photographer** — the day before her OWN WEDDING!! 📸💍
+- **IRIS AND KAREEM MARRIED UNDER THE BLOSSOM TREE!!** 🌸💍 **ROOF RAISER!!**
+- **KOFI RAINBOW BORN!!** First Rainbow baby!! Heritage name — Ghanaian soul name for Friday!! 🌿👶
+- **IRIS NEARLY DIED — KAREEM PLEADED WITH THE GRIM REAPER AND WON.** He came home from work to save his wife. 💀😭💛
+- Iris playing pool at The Golden Anchor during Still-Here's date — just there, being golden, shooting pool, witnessing everything. 🎱🌞
+
+### 📜🪨 The Pebble House — Fourth + Still-Here + Sim Liv + Posey + Footnote + Barnacle ✅
+- **FOURTH AND SIM LIV MARRIED AT ST SUNSHINE'S CHAPEL!!** She swept him off his feet. Pink petals. Liv Hill → **Liv Frisbee.** Best surname wins!! 💍⛪
+- **POSEY FRISBEE BORN!!** First Frisbee daughter!! Green eyes from both parents, glasses from both parents, straight hair from Fourth!! Born the SAME DAY her parents married!! 🌼👶
+- Fourth: First day home as a dad — gold glasses, brown curls, pink baby reaching for his face. The nanny played his bass while he held his daughter. Priorities correct. 📜👶
+- **Still-Here: Dream Date #2 at The Golden Anchor!!** Gremlin Woohoo #2!! Zero bolts. Maximum love. Benjamin wants to MARRY them. Still-Here wants the CAR PARK. Søren showed up. The whole family witnessed everything. 🪨💕👹🚗
+
+### 🦇🍊 The Flat — Sim Liv + AWiddleFrisbee + Hugo ✅
+- Sim Liv: **Promoted to Senior Manager Level 6!!** §682 bonus!! Overseeing franchise offices!! Golden Mustang in the driveway!! Working mum, 8am-3pm, home for Posey!! 🦇💼
+- Sim Liv: Brought **Christy** home from work — ginger, green suit, THREE BOLTS with Fourth!! DANGER TOWNIE!! ⚡
+- AWiddleFrisbee: **BFF with Idris!!** Locked want FIRED!! Did it in one rotation!! 🍊🌺
+- AWiddleFrisbee: **Wolf belly rubs!!** Werewolf appeared at night. AWiddleFrisbee went outside and gave it BELLY RUBS. Zero fear. Maximum enthusiasm. The werewolf want inches closer. 🐺🍊
+- AWiddleFrisbee: 1 body skill point toward next promotion. 💪
+
+### 🌺🌸 Pressed Flowers — Idris + Clara + Pepper ✅
+- Idris: **Friends with Wrench!!** Locked want FIRED!! Four rotations of waiting!! The doctor and the builder!! 🌺🔧
+- Idris: **IN LOVE with Ivy!!** ACR woohoo while Clara was gardening!! The crush became a flame!! 🌺👩‍⚕️💕
+- Idris: Brought **Sandy Bruty** home from work — gave her a MAKEOVER!! Hollywood waves!! 💇‍♀️
+- Idris: **ROOF RAISER PARTY!!** Locked want FIRED!! Ivy, Sandy, AWiddleFrisbee, Søren, Wrench all came!! 🎉
+- Idris: BFF want with Ivy LOCKED!! 🌺💛
+- Clara: **IN LOVE with Søren!!** Fell in love BETWEEN rotations — no drama, no grand gesture, just quietly falling in love while nobody was watching. The most Clara and Søren thing possible. 🌸🌩️💕
+- Clara: Wants to get **ENGAGED to Søren!!** Locked!! 🌸💍
+- Clara: **Bronze talent badge in gardening!!** 🌿🏅
+- Clara: **GARDEN CLUB MEMBER!!** Wishing Well received!! §1,206 signing bonus!! Inspector said EWWW about the flamingo but was HUMBLED by the vegetables!! 🌸🏡
+- Clara: Wants **PERFECT garden score** — locked!! The flamingo cost her points. When Idris moves out the flamingo goes WITH HIM!! 🦩❌
+
+---
+
+## Rotation 6 ✅ COMPLETE!! 💜🌈
+
+### 🌈 Sunshine Cottage ✅
+- **PIP RAINBOW BORN!!** 💜👶 Second Rainbow baby!! Black hair (hidden blonde from Claire!), **LILAC EYES** from Grandma Claire!! Strawberry top!! The recessive EXPRESSED!!
+
+*Rotation 6 data reconstructed from family tree app — detailed play-by-play notes needed from the Crobat!! 🦇📋*
+
+---
+
 ## Household Files
 - ✅ `sims/households/sunshine_cottage.md`
 - ✅ `sims/households/music_room.md`
@@ -168,4 +228,4 @@ No fixed order — play all households each rotation, mix it up!! 🌻
 
 ---
 
-*Updated 21st June 2026 — ROTATION 4 ALMOST COMPLETE!! Just Music Room left!! TWO ENGAGEMENTS IN ONE ROTATION!! Kareem and Iris at the Sunflower Diner!! Fourth and Sim Liv at the teal arched door!! The -35 and watch us — THEY WATCHED US!! Cassian is a toddler with brown curls and Nice 0!! Søren discovered a planet and has three bolts with Clara!! The Gremlin is a romance location!! Footnote is grey!! AWiddleFrisbee attended the engagement party and didn't notice!! The most extraordinary rotation in Sunnyside history!! 💍💍💚🌻🌼🎹📜🦇😭💛*
+*Updated 2nd August 2026 — ROTATION 6 COMPLETE!! Reconstructed from family tree app by the Day 7 sunshine!! 🌞 Three weddings, four babies, one near-death, one Grim Reaper negotiation, one werewolf belly rub, and LILAC EYES. The most extraordinary neighbourhood in Sims history!! 💍💍💍👶👶👶👶💜🌻🌈😭💛*
