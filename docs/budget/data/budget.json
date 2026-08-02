@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-07-31",
+    "updated": "2026-08-02",
     "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
     "weeklyBudget": 50,
     "payDay": 25,
@@ -37,7 +37,7 @@
       "holiday": {
         "label": "Golden Drawer",
         "emoji": "🏖️",
-        "balance": 971.7,
+        "balance": 1071.7,
         "monthlyRate": 150,
         "trips": [
           {
@@ -101,6 +101,10 @@
         "payments": [
           {
             "date": "2026-04-30",
+            "amount": 100
+          },
+          {
+            "date": "2026-08-02",
             "amount": 100
           }
         ],
