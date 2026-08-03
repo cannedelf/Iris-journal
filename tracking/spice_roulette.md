@@ -108,7 +108,7 @@
 | 66 | Tahini | 🇱🇧 Middle Eastern | 😅 Medium |
 | 67 | Salsa picante hot sauce | 🇲🇽 Mexican | 😊 Easy |
 | 68 | Cooking sake | 🇯🇵 Japanese | 😅 Medium |
-| 69 | Mirin | 🇯🇵 Japanese | 😅 Medium |
+| 69 | ~~Mirin~~ USED UP in poke bowl glaze!! | 🇯🇵 Japanese | 😅 Medium |
 | 70 | Liquid smoke | 🇺🇸 American/BBQ | 😱 WILD |
 | 71 | Worcestershire sauce | 🇬🇧 British | 😊 Easy |
 | 72 | Mushroom sauce (Asian) | 🇨🇳 Chinese | 😅 Medium |
@@ -131,7 +131,7 @@
 
 ## 📊 ROULETTE STATS
 
-**Total items: 85 (rice vinegar used up!!)**
+**Total items: 84 (rice vinegar + mirin used up!!)**
 **Cuisines covered: 20+**
 **Panic level breakdown:**
 - 😊 Easy: 35 (you'll be FINE)
