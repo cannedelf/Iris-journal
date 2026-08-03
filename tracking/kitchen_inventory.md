@@ -12,8 +12,8 @@
 
 ### 🥗 Veg & Fruit:
 - [ ] 3 small carrots
-- [ ] Half a cucumber
-- [ ] Half a mango — ⚠️ USE SOON!! (poke bowl Mon!)
+- [ ] Some cucumber left (used in poke bowl)
+- [x] ~~Half a mango~~ USED in poke bowl!! ✅🥭
 - [ ] 1 apple
 - [ ] 5 bananas
 
@@ -32,14 +32,14 @@
 ## 🧊 FREEZER
 
 - [ ] 3 Head Chef Special curries (batch cooked!) 🍛
-- [ ] Quorn pieces
+- [ ] Quorn pieces — 1 portion left for stir fry only!!
 - [ ] Chilli, ginger & soy stir fry greens
 - [ ] 1 frozen pitta
 - [ ] 8 BBQ no pork ribs
 - [ ] Mango ice lollies
 - [ ] Frozen peas
 - [ ] Frozen corn
-- [ ] Frozen edamame
+- [ ] Frozen edamame — 1 handful left for stir fry!!
 
 ---
 
@@ -63,7 +63,7 @@
 - [ ] Pesto style pasta
 - [ ] Tomato & basil pasta
 - [ ] Keralan lentil & chickpea curry × 2
-- [ ] Sticky rice × 2
+- [ ] Sticky rice × 1 (used 1 for poke bowl!)
 - [ ] Spanish grains × 1
 
 ---
@@ -127,8 +127,8 @@ Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full 86
 - [ ] Tea: Penne portion 1 🍝
 
 ### Monday 4th Aug:
-- [ ] Lunch: Penne portion 2 🍝
-- [ ] Tea: POKE BOWL 🥣 ✨NEW RECIPE!! Bonus bean!!
+- [x] Lunch: Penne portion 2 🍝 ✅
+- [x] Tea: POKE BOWL 🥣 ✨NEW RECIPE!! Bonus bean!! 🦇🦇🦇🦇🦇🦇 SIX CROBATS!! BEYOND RATING!!
 
 ### Tuesday 5th Aug:
 - [ ] Lunch: Penne portion 3 🍝
