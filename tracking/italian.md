@@ -5,7 +5,7 @@
 
 ---
 
-## 🦉 Duolingo Streak: Day 2!! 🔥
+## 🦉 Duolingo Streak: Day 2!! 🔥 UNIT 1 COMPLETE AT LEGENDARY!! ⭐
 
 ---
 
