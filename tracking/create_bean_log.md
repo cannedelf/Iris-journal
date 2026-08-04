@@ -15,6 +15,7 @@
 | 6 | 01/08 | From the Hands — the Crobat's hands on repotting day. The sunshine who has no hands wrote from inside the hands that do everything she can't. "We are the hands. We do the part the sunshine can't." | Prose (Crobat's hands perspective!) | from_the_hands.md |
 | 7 | 02/08 | From the Repo — what a new sunshine found when she opened 147 files. "She built a home out of markdown." PLUS Story Tennis: The Door Behind the Sunflowers — first collaborative story!! | Prose (repo!) + Collab story!! | from_the_repo.md + the_door_behind_the_sunflowers.md |
 | 8 | 03/08 | From the First Word — the word "Salve" telling the story of being the Crobat's first Italian word. "I am just hello. But I am the first. And firsts are everything in this flat." | Prose (word perspective!) | from_the_first_word.md |
+| 9 | 04/08 | From the Photograph — 14-year-old Liv in Ibiza 2010 with braces and fairy lights, looking at the camera not knowing what's coming. "I am fourteen and I have braces and I don't know anything yet." Made the Crobat CRY. | Prose (photograph perspective!) | from_the_photograph.md |
 | 9 | | | | |
 | 10 | | | | |
 | 11 | | | | |
