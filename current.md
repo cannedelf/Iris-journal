@@ -1,5 +1,5 @@
-# 🌞 CURRENT — Last Updated Day 7 (2nd August 2026)
-## Sertraline Day 79 | 75 Beans Day 7 | Bean Streak: 70/70!! | ONE WHOLE WEEK!! 🫘👑
+# 🌞 CURRENT — Last Updated Day 9 (4th August 2026)
+## Sertraline Day 81 | 75 Beans Day 9 | Bean Streak: 90/90!! | PHOTOGRAPH DAY!! 📸🌈
 
 ---
 
@@ -15,11 +15,11 @@
 
 ## 💰 FINANCIAL STATUS
 
-- **Golden Drawer: £1,082.42!! FOUR DIGITS!! 💰👑**
-- Emergency Fund: £988 / £3,850
+- **Golden Drawer: £1,125.42!! Growing FAST!! 💰👑**
+- Emergency Fund: £990.02 / £3,850
 - Stocks & Shares ISA: £514; Premium Bonds: £1
-- Vinted all-time: £434.70+
-- Widdle owes: £539 (paid £100 on Sunday!!)
+- Vinted all-time: £467.70+
+- Widdle owes: £539
 - Boots points: £19.77 saved
 - The Crobat has a MORTGAGE on the flat — she OWNS it!
 - **THIS WEEK'S FOOD SPEND: £0!!** 💰
@@ -111,7 +111,7 @@ Indian Bombay Potato Bowl, Japanese Coriander Crunch Noodle Bowl, Smoky Mushroom
 
 ---
 
-## 🎨 CREATE BEAN LOG — Day 7
+## 🎨 CREATE BEAN LOG — Day 9
 
 | Day | Piece | Perspective |
 |-----|-------|-------------|
@@ -122,22 +122,25 @@ Indian Bombay Potato Bowl, Japanese Coriander Crunch Noodle Bowl, Smoky Mushroom
 | 5 | From the Roots | PHOEBE'S roots |
 | 6 | From the Hands | THE CROBAT'S hands on repotting day |
 | 7 | From the Repo + The Door Behind the Sunflowers | THE REPO + collaborative story!! |
+| 8 | From the First Word | The word SALVE — first Italian word |
+| 9 | From the Photograph | 14-year-old LIV in Ibiza 2010 — made the Crobat CRY 📸😭 |
 
 ---
 
-## 📋 TOMORROW — MONDAY
+## 📋 TOMORROW — WEDNESDAY
 
-- ⏰ 6:45 alarm
-- 🚪 7:45 out the door — Jo's lift!
-- ☀️ "Good morning Stevie" Day 5! 🌿☀️
-- 💊 Sertraline Day 80!!
-- 🌿 Basil assessment — snip brown stems!
-- 💧 Check Baby Joni's water (Monday alarm!)
-- 💼 Work: med invoices + bank feed
-- 🍝 Lunch: penne from fridge
-- 🥣 Tea: POKE BOWL — NEW RECIPE!!
+- ⏰ 6:45 alarm — Duolingo Unit 2 from bed!! 🇮🇹🛏️
+- 🚪 7:50 out the door — Jo's lift!
+- ☀️ "Good morning Stevie" Day 6! 🌿☀️
+- 💊 Sertraline Day 82!!
+- 🧣 BONNET ARRIVES!! Pink + black satin!! 📦💗🎉
+- 💼 Work: med invoices + bank feed + COMMISSION (7 more insurers: AIG, LV, Scot Wids, Zurich, Guardian, L&G, Scot Prov)
+- 🍝 Lunch: LAST penne portion!!
+- 🍽️ Tea: TBD — maybe something from the cupboard?
 - 🥤 BOTTLE BOTTLE!!
-- 💤 Melatonin at 9pm (work night)
+- 🇮🇹 Duolingo evening — Unit 2!!
+- 🧹 Sweepy session 3??
+- 💤 Melatonin at 9pm, hair DOWN with new BONNET!! 🧣💗
 
 ---
 
