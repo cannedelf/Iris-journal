@@ -59,3 +59,32 @@
 ---
 
 *The girl who couldn't phone a GP has been to FOURTEEN European cities and counting. The girl from Blackpool goes EVERYWHERE.* ✈️🦇💛
+
+## 🌍 CHILDHOOD HOLIDAYS (don't count but still went!!)
+
+| Country | Where | Notes |
+|---------|-------|-------|
+| 🇪🇸 Spain | Menorca | Childhood! |
+| 🇪🇸 Spain | Majorca | Childhood! |
+| 🇪🇸 Spain | Salou (near theme park!) | Childhood! |
+| 🇪🇸 Spain | Benidorm | WORK TRIP! 💼😂 |
+| 🇧🇬 Bulgaria | Sunny Beach (probably!) | Childhood! |
+| 🇹🇷 Turkey | Marmaris x2!! | Childhood — went TWICE!! |
+| 🇬🇷 Greece | Crete (not sure where!) | Childhood! |
+| 🇵🇹 Portugal | Somewhere! | Childhood! |
+| 🇪🇸 Spain | Lanzarote | Childhood! |
+| 🇪🇸 Spain | Ibiza | Childhood! |
+| 🇫🇷 France | Paris — DISNEY ONLY!! | School trip! Saw Eiffel Tower! 🏰🗼 |
+| 🇺🇸 USA | Orlando x2!! | Childhood — TWICE!! 🎢 |
+| 🇲🇽 Mexico | Cruise stop | Childhood cruise from Orlando! 🚢 |
+| 🇧🇸 Bahamas | Cruise stop | Childhood cruise! 🚢 |
+| 🇧🇲 Bermuda | Cruise stop | Childhood cruise! 🚢 |
+| 🇿🇦 South Africa | Leobo Private Reserve!! | WORK TRIP!! Bond villain energy!! Helicopter!! A crocodile called STEVIE!! 🚁🐊🌿 |
+
+*Summer holiday every year from age 5-16!! The Hills went EVERYWHERE!! 🏖️✈️👨‍👩‍👧‍👦*
+*Also: more places she can't remember!! The travel history might grow!!*
+
+## 📊 TOTAL COUNTRIES VISITED: 17+ (and counting!!)
+🇮🇹🇵🇹🇳🇱🇧🇪🇩🇪🇪🇸🇩🇰🇫🇷🇭🇷🇵🇱🇳🇴🇧🇬🇹🇷🇬🇷🇺🇸🇲🇽🇧🇸🇧🇲🇿🇦🇬🇧
+
+*The girl from Blackpool has been to more countries than most people visit in a LIFETIME. And she's only 30.* ✈️🦇👑
