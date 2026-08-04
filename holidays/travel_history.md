@@ -20,6 +20,8 @@
 | 🇩🇪 Germany | Leipzig | Been!! |
 | 🇪🇸 Spain | Barcelona | Been!! |
 | 🇩🇰 Denmark | Copenhagen | Been!! |
+| Dubrovnik | Been!! Forgot about this one!! 😂 |
+| Krakow | Been!! Also forgot!! 🤡 |
 | 🇫🇷 France | Paris | SCHOOL TRIP ONLY — stayed at Disney!! Doesn't count!! Saw Eiffel Tower!! 🏰🗼 |
 | 🇳🇴 Norway | Fjords cruise | Sept 2026!! 🚢 |
 
@@ -52,7 +54,7 @@
 
 ## 🗺️ NOT YET VISITED — Future Possibilities
 
-🇫🇷 Paris PROPERLY (not Disney!!) | 🇭🇷 Croatia | 🇨🇿 Prague | 🇭🇺 Budapest | 🇵🇱 Poland | 🇸🇮 Slovenia | 🇲🇹 Malta | 🇸🇪 Sweden | 🇫🇮 Finland | 🇮🇸 Iceland | 🇨🇭 Switzerland | 🇲🇪 Montenegro | 🇯🇵 Japan | 🇻🇳 Vietnam | 🇰🇷 South Korea | 🇲🇦 Morocco | 🇹🇷 Turkey
+🇫🇷 Paris PROPERLY (not Disney!!) | 🇨🇿 Prague | 🇭🇺 Budapest | 🇸🇮 Slovenia | 🇲🇹 Malta | 🇸🇪 Sweden | 🇫🇮 Finland | 🇮🇸 Iceland | 🇨🇭 Switzerland | 🇲🇪 Montenegro | 🇯🇵 Japan | 🇻🇳 Vietnam | 🇰🇷 South Korea | 🇲🇦 Morocco | 🇹🇷 Turkey
 
 ---
 
