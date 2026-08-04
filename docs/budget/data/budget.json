@@ -638,6 +638,13 @@
       "amount": 6.48,
       "category": "groceries",
       "note": "Aldi"
+    },
+    {
+      "id": "spend_3_6g7ln",
+      "date": "2026-08-04",
+      "amount": 4.89,
+      "category": "spending",
+      "note": "Amazon"
     }
   ]
 }
