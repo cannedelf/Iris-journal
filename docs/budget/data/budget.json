@@ -631,6 +631,13 @@
       "amount": 4.99,
       "category": "household",
       "note": "The Plant Place"
+    },
+    {
+      "id": "spend_2_75lfg",
+      "date": "2026-08-03",
+      "amount": 6.48,
+      "category": "groceries",
+      "note": "Aldi"
     }
   ]
 }
