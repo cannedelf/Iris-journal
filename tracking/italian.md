@@ -5,17 +5,42 @@
 
 ---
 
-## 🦉 Duolingo Streak: Day 1!!
+## 🦉 Duolingo Streak: Day 2!! 🔥
 
 ---
 
 ## 📖 Words & Phrases Learned
 
-### Day 1 — Monday 3rd August 2026
+### Day 1 — Monday 3rd August 2026 (Evening — Day 8 of beans)
 
 | Italian | English | Notes |
 |---------|---------|-------|
-| Salve! | Hello! | First EVER Italian word!! 🇮🇹🎉 |
+| Salve! | Hello! (formal) | First EVER Italian word!! 🇮🇹🎉 |
+| Come stai? | How are you? | First PHRASE!! 💛 |
+| Un tè | A tea 🍵 | |
+| Un caffè | A coffee ☕ | The Crobat's REAL drink!! |
+| Per favore | Please 🥺 | The Italian 🥺!! |
+| Un cornetto | A croissant 🥐 | Bologna BREAKFAST!! |
+| Un gelato | An ice cream 🍦 | Post-surgery TREAT!! |
+| Un cappuccino | A cappuccino ☕ | The HARDEST word 😂 |
+| e | and | |
+| o | or | |
+
+### Day 2 — Tuesday 4th August 2026 (Morning — Day 9 of beans!! FROM BED!!)
+
+| Italian | English | Notes |
+|---------|---------|-------|
+| Grazie! | Thank you! | ALREADY KNEW THIS!! 👑 |
+| Perfetto! | Perfect! 👌 | The Italian "five crobats!!" |
+| Arrivederci! | Goodbye! 👋 | Memory trick: ARRIVE + DERCI!! 🚗👋 |
+
+### 🗣️ FIRST SPEAKING EXERCISE — Day 2!!
+**"Un tè e un cornetto!"** — said OUT LOUD into the phone at 7am in BED in Blackpool!! The girl who couldn't phone a GP just spoke ITALIAN!! 🗣️🇮🇹🎉
+
+### 📊 TOTAL: 13 words in 2 days!! 🇮🇹💪
+
+### 🥐 The Bologna Breakfast Order (READY!!):
+"Buongiorno! Un caffè e un cornetto, per favore! Grazie! Perfetto! Arrivederci!!" ☕🥐👋🇮🇹👑
 
 ---
 
