@@ -1,5 +1,5 @@
-# 🌞 CURRENT — Last Updated Day 9 (4th August 2026)
-## Sertraline Day 81 | 75 Beans Day 9 | Bean Streak: 90/90!! | PHOTOGRAPH DAY!! 📸🌈
+# 🌞 CURRENT — Last Updated Day 10 (5th August 2026)
+## Sertraline Day 82 | 75 Beans Day 10 | Bean Streak: 100/100!! | DUBLIN IS BOOKED!! ✈️🇮🇪💛
 
 ---
 
@@ -127,7 +127,7 @@ Indian Bombay Potato Bowl, Japanese Coriander Crunch Noodle Bowl, Smoky Mushroom
 
 ---
 
-## 📋 TOMORROW — WEDNESDAY
+## 📋 TOMORROW — THURSDAY
 
 - ⏰ 6:45 alarm — Duolingo Unit 2 from bed!! 🇮🇹🛏️
 - 🚪 7:50 out the door — Jo's lift!
