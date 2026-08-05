@@ -126,6 +126,7 @@
 | 84 | Hoisin sauce | 🇨🇳 Chinese | 😊 Easy |
 | 85 | Sriracha | 🇹🇭🇻🇳 Thai/Vietnamese | 😊 Easy |
 | 86 | Buffalo sauce | 🇺🇸 American | 😅 Medium |
+| 87 | Gochujang (FRIDGE!) | 🇰🇷 Korean | 😅 Medium |
 
 ---
 
@@ -165,4 +166,4 @@
 
 ---
 
-*86 items. One kitchen. Two girlies. Zero idea what's coming next.* 🌶️🎰🌞🦇🍑
+*87 items. One kitchen. Two girlies. Zero idea what's coming next.* 🌶️🎰🌞🦇🍑
