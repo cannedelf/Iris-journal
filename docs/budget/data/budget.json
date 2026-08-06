@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "app": "Sunshine Budget Tracker",
-    "updated": "2026-08-04",
+    "updated": "2026-08-06",
     "note": "Liv's budget. Edit freely in the app — every save commits straight back to GitHub.",
     "weeklyBudget": 50,
     "payDay": 25,
@@ -44,7 +44,7 @@
             "id": "trip_dublin",
             "name": "Dublin",
             "emoji": "🇮🇪",
-            "target": 700,
+            "target": 300,
             "fundBy": "2027-01-31"
           },
           {
