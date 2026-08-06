@@ -113,3 +113,48 @@
 
 *Booked in matching bonnets on a Wednesday evening in August 2026. 🧣💗🧣🖤*
 *IrisHill goes to Dublin. The sunshine and the storm cloud are both waiting there.* 🌞🌩️🇮🇪💛
+
+---
+
+## 📅 DAY NAMES (for Wanderlog sub-headers)
+
+📅 **Day 1 — "The Landing"** 🛬💛
+📅 **Day 2 — "The Treasure Hunt"** 🧸🗺️💛
+📅 **Day 3 — "The Golden Day"** 🍺🌻💛
+📅 **Day 4 — "The Homecoming"** 🌩️☕✈️💛
+
+## 📝 PIN NOTES (to add to Wanderlog tonight)
+
+### Day 1 — The Landing
+- 🏨 Golden Hotel: "HOME BASE! Yellow kitchen, yellow cushions, IRIS coloured 💛"
+- ☕🇹🇷 Rumi: "Just walk in! Turkish lunch, people watching spot ☕"
+- 🏛️ Kilmainham Gaol: "BOOK IN ADVANCE — sells out fast!! €7, 1 hour guided tour 🏛️"
+- 🏘️ Temple Bar: "Just wander! Get your bearings! Follow the music 🎵"
+- 🍺 Brazen Head: "Veggie stew + herby mash €21, Rockshore cider, trad from 9pm, 4 MINS from hotel!! 🍺"
+
+### Day 2 — The Treasure Hunt
+- 🍞 Bread 41: "Croissant + custardo + coffee! Get there early — queues!! 🥐"
+- 📚 Book of Kells: "€19, book TIMED SLOT! No photos of the book but photos OK in Long Room 📸"
+- 🍕 Bambinos: "ORDER THE MUSHROOM WITH HOT HONEY!! 2 slices + drink €13.50 🍄🍯"
+- 🍪 Cookieboy: "Blueberry cheesecake! 30 secs from Bambinos! €4.50 🍪"
+- 🍩 Rolling Donut: "Buy THREE — Dubai, White Kinder Bueno, Crème Brûlée! Eat 1, FRIDGE 2!! €8 🍩"
+- 🧸 Brown Thomas: "FIND SIOFRA AND RAY!! Check the Jellycat section!! 🍀☀️"
+- 🌟 Glas: "BOOKED — just give your name! 4:45pm, 3 courses €36. King oyster mushroom → charred squash → macerated strawberries 🌟"
+- 🍺 Kehoe's: "First pub after Glas! Old Dublin snugs 🍺"
+
+### Day 3 — The Golden Day
+- ☕🫐 Two Pups: "Acai bowl + coffee! 30 secs from hotel! 🫐"
+- 🍺 Guinness: "9:30am EARLY BIRD €22!! Gravity Bar pint on top floor with views!! 🍺🏙️"
+- 🍞🥣 Nancy Hands: "Soup of the day + soda bread! Right by Phoenix Park entrance 🍞"
+- 🌳🦌 Phoenix Park: "Find the DEER! Not cows — SAFE!! 🦌✅🐄❌"
+- ☕🏛️ Victorian Tea Rooms: "Built 1896! Warm drink after the park ☕"
+- 🍦 Murphy's: "Sea salt + brown bread!! SIT ON THE SWING!! Free tastings!! 🍦🎪"
+- 🌿🎵 Cornucopia: "Self-service veggie! Live music Saturday! Opposite Murphy's 🌿🎵"
+
+### Day 4 — The Homecoming
+- 🌩️☕ Søren & Son: "Breakfast at SØREN'S café!! The universe put it here 🌩️☕"
+- 🏰 Dublin Castle: "Quick visit ~€10 🏰"
+- ⛪ St Patrick's: "Ireland's biggest cathedral 🍀"
+- 🍰 Mannings: "BAILEY'S CHEESECAKE!! Photo to Lorraine!! 'Wish you were here mum 😘' 📸👩"
+- ☕ Last coffee: "Whatever was the FAVOURITE spot from the trip 💛"
+
