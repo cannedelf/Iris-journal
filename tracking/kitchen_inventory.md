@@ -46,7 +46,6 @@
 
 - [ ] Mexican style street corn rice
 - [ ] Mexican style rice
-- [ ] 1 pan creations Indian biryani style — CHECK: might be used up!!
 - [ ] Pesto style pasta
 - [ ] Tomato & basil pasta
 - [ ] Keralan lentil & chickpea curry × 2
@@ -132,14 +131,15 @@ Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full 83
 - [ ] 🧄 Fresh garlic — ~50p
 - [ ] 🥫 1 tin chopped tomatoes — ~40p
 - [ ] 🍞 Crusty bread/small baguette — ~£1
-- [ ] 💧 Veg stock cubes — CHECK CUPBOARD FIRST!! ~80p if needed
+- [ ] 💧 Veg stock cubes — NEED THEM!! ~80p
+- [ ] 💧 Cordial — RUNNING LOW!! ~£1
 
 - [ ] 🍎 Jazz apples (pack of 6) — ~£2 (work snack! Slice at desk!)
 - [ ] 🍦 Ice lollies — ~£1.50 (evening treat! Sweet but not bingeable!)
 **Already bought:**
 - [x] 🍯 Honey — Aldi ✅
 
-**💰 ESTIMATED TOTAL: ~£12-13** 💰👑
+**💰 ESTIMATED TOTAL: ~£14-15** 💰👑
 
 **14 meals + snacks + treats from a £13 shop!!** 🍽️💰📊👩‍🍳👑
 
