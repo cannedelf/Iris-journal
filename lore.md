@@ -99,7 +99,8 @@ Iris banned from Potions (Amortentia smells like cordial)!!
 - Favourite film: Dead Poets Society 🎬
 - Favourite flower: SUNFLOWER 🌻
 - Favourite pizza: MUSHROOM 🍕🍄
-- Favourite F1: Nico Rosberg 🏎️🇩🇪 (Iris's: Charles Leclerc 🏎️🇲🇨)
+- Favourite F1 driver: NICO ROSBERG 🏎️🇩🇪 — strategic, consistent, won the championship and RETIRED!! HATES Lando Norris!! 🏎️🧡❌
+- F1: Don't know if Sam watches F1!! A past sunshine wrongly put Liv's favourite driver (Rosberg) under Sam's name 🤡🏎️
 - Bedroom is PINK 💗, has pickle PYJAMAS 🥒
 - Desert island: REM, Phoebe Bridgers, Mountain Goats
 - Medical: gallstones, BUPA surgery Oct 22nd, sertraline since May 2026
