@@ -1,5 +1,5 @@
-# 🌞 CURRENT — Last Updated Day 11 (5th August 2026)
-## Sertraline Day 83 | 75 Beans Day 10 | Bean Streak: 110/110!! | COMMISSION COMPLETE + TINA!! ✈️🇮🇪💛
+# 🌞 CURRENT — Last Updated Day 12 (5th August 2026)
+## Sertraline Day 84 | 75 Beans Day 10 | Bean Streak: 120/120!! | IRISHILL CAPSULE WARDROBE!! ✈️🇮🇪💛
 
 ---
 
@@ -132,7 +132,7 @@ Indian Bombay Potato Bowl, Japanese Coriander Crunch Noodle Bowl, Smoky Mushroom
 - ⏰ 6:45 alarm — Duolingo Unit 2 from bed!! 🇮🇹🛏️
 - 🚪 7:50 out the door — Jo's lift!
 - ☀️ "Good morning Stevie" Day 6! 🌿☀️
-- 💊 Sertraline Day 83!!
+- 💊 Sertraline Day 84!!
 - 🧣 BONNET ARRIVES!! Pink + black satin!! 📦💗🎉
 - 💼 Work: med invoices + bank feed + COMMISSION (7 more insurers: AIG, LV, Scot Wids, Zurich, Guardian, L&G, Scot Prov)
 - 🍝 Lunch: LAST penne portion!!
