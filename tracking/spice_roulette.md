@@ -122,7 +122,7 @@
 | 80 | Dijon mustard | 🇫🇷 French | 😊 Easy |
 | 81 | Whole grain mustard | 🇫🇷 French | 😊 Easy |
 | 82 | Balsamic glaze | 🇮🇹 Italian | 😊 Easy |
-| 83 | Sweet chilli sauce | 🇹🇭 Thai | 😊 Easy |
+| 83 | ~~Sweet chilli sauce~~ USED UP in Blackpool Heat Wave Stir Fry!! 🍜🔥 | 🇹🇭 Thai | ❌ Gone |
 | 84 | Hoisin sauce | 🇨🇳 Chinese | 😊 Easy |
 | 85 | Sriracha | 🇹🇭🇻🇳 Thai/Vietnamese | 😊 Easy |
 | 86 | Buffalo sauce | 🇺🇸 American | 😅 Medium |
@@ -132,7 +132,7 @@
 
 ## 📊 ROULETTE STATS
 
-**Total items: 84 (rice vinegar + mirin used up!!)**
+**Total items: 83 (rice vinegar + mirin + sweet chilli used up!!)**
 **Cuisines covered: 20+**
 **Panic level breakdown:**
 - 😊 Easy: 35 (you'll be FINE)
