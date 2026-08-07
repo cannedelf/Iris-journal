@@ -122,7 +122,7 @@
 - 🧶 The Crobat is a MOCK TURTLE NECK GIRL — two thick ones in this section plus two thin ones in tops!
 - 🧶 Temperature scale: band tee (warm) → thin turtle neck (mild) → thick turtle neck (cold) → thick turtle neck + coat (freezing!)
 
-## 🧥 OUTERWEAR (6 pieces)
+## 🧥 OUTERWEAR + JACKETS (7 pieces)
 
 | # | Guide Said | IrisHill Version | Status |
 |---|-----------|-----------------|--------|
@@ -130,21 +130,24 @@
 | 2 | Puffer coat | 🧥💗 Pink oversized cord coat — lined, cosy, cold days coat! From a VINTAGE SHOP! | ✅ OWN!! Vintage!! |
 | 3 | Rain jacket | 🌧️ Lightweight packable rain jacket — for mild rainy days, warm tone or olive | ⬜ Need |
 | 4 | Denim jacket | 🌼🧥 Daisy embroidered denim chore jacket — THE FAVOURITE! Lucy & Yak! | 📦 Skinny drawer!! |
-| 5 | Leather jacket | 🧥✨ Dressy evening jacket — velvet or cord, rich tone (burgundy/forest), Glas + formal night layer! | ⬜ Need |
-| 6 | ADDED: Statement coat | 🧥🌸🎸 PENNY LANE COAT — The Hippie Shake! Dark green, embroidered flowers + paisley, shaggy cream fur! THE ICON! Inspired by Stevie + Janis — the Crobat's PLANT NAMES! | 📦 Skinny drawer GOAL!! |
+| 5 | Collarless jacket | 🌲🧥 Forest green chore/utility jacket — Lucy & Yak! Same shape as the daisy but different fabric! REDYED BY LORRAINE because it was so worn! | ✅ OWN!! L&Y!! |
+| 6 | Leather jacket | 🧥✨ Dressy evening jacket — velvet or cord, rich tone (burgundy/forest), Glas + formal night layer! | ⬜ Need |
+| 7 | ADDED: Statement coat | 🧥🌸🎸 PENNY LANE COAT — The Hippie Shake! Dark green, embroidered flowers + paisley, shaggy cream fur! THE ICON! Inspired by Stevie + Janis — the Crobat's PLANT NAMES! | 📦 Skinny drawer GOAL!! |
 
 ### 📊 OUTERWEAR SCORECARD:
-- ✅ Already own: 1 (Pink cord vintage coat!)
+- ✅ Already own: 2 (Pink cord vintage coat, forest green chore L&Y!)
 - 📦 Skinny drawer: 2 (Daisy jacket, Penny Lane!)
 - ⬜ Need to find: 3 (THE coat, rain jacket, evening jacket)
 - 🧥 The Penny Lane is THE ultimate goal piece — when it fits, the Crobat sees Stevie looking back
-- 🏷️ Brands represented: Lucy & Yak (daisy), The Hippie Shake (Penny Lane), vintage shop (pink cord)
+- 🏷️ Brands represented: Lucy & Yak x2 (daisy + green chore), The Hippie Shake (Penny Lane), vintage shop (pink cord)
+- 👩 Lorraine redyed the green chore jacket because the Crobat WORE IT TO DEATH — that's love!
 
-### 🧥 THE COAT STRATEGY:
+### 🧥 THE COAT + JACKET STRATEGY:
 - 🧥🌲 THE olive coat — rain + Dublin + stylish days 🌧️🇮🇪
 - 🧥💗 Pink cord — COLD days + cruise + glacier ❄️🚢🏔️
 - 🌧️ Rain jacket — mild rainy days, packable ☀️🌧️
-- 🌼🧥 Daisy jacket — casual, everyday, THE favourite 👕
+- 🌼🧥 Daisy jacket — casual, THE favourite, STATEMENT piece 👕
+- 🌲🧥 Green chore — casual, everyday, PRACTICAL piece 🛒
 - 🧥✨ Evening jacket — Glas, formal nights, special occasions 🌟
 - 🧥🌸🎸 Penny Lane — the STATEMENT, the ICON, the GOAL 🎬👑
 
@@ -190,20 +193,93 @@
 - 🌿🎨 William Morris flares = THE goal piece for bottoms like Penny Lane = THE goal for outerwear
 - 🌻 Lucy & Yak represented AGAIN in the sunflower shorts!
 
-## 👢 SHOES
-*Coming soon!!*
+## 👗 DRESSES (8 pieces)
 
-## 💍 ACCESSORIES
-*Coming soon!!*
+| # | Guide Said | IrisHill Version | Status |
+|---|-----------|-----------------|--------|
+| 1 | Little black dress | 👗🍷 Little warm toned dress — burgundy or similar, versatile, dress up or down, year-round! | ⬜ Need |
+| 2 | Silk slip dress | 👗🎸 Wrap dress — warm toned, rich fabric, creates a WAIST on the rectangle! Diane von Furstenberg 1974 energy! The "I feel gorgeous" dress! | ⬜ Need |
+| 3 | Casual summer dress | 🌻👗 Sunflower dress — Monki! SEVEN years old and still loved! Matching the shorts AND the cardigan! | 📦 Skinny drawer!! |
+| 4 | Floral dress | 🌸👗 Vintage floral dress — Next! Puff sleeves, button front, garden party energy! | 📦 Skinny drawer!! |
+| 5 | Cocktail dress | 👗🌅 Warm weather evening dress — light fabric, defined waist, the taverna sunset dress! Crete + Bologna! | ⬜ Need |
+| 6 | Maxi dress | 👗🎨 Statement patterned dress — the dress does ALL the talking! Whatever pattern CALLS! Plain jacket over, simple accessories, let the FABRIC be the star! | ⬜ Need |
+| 7 | Shirt dress | 👗🧵 Denim pinafore — JOANIE!! The brand she lost lives on! Buttons/zip front, pockets, THE Crobat dress! | 📦 Skinny drawer!! 🫶 |
+| 8 | Knit dress | 👗🧶 Belted jumper dress — warm toned, MUST create a waist (rectangle!), cold weather dress with boots! Belt is the SECRET WEAPON! | ⬜ Need |
 
-## 👗 DRESSES
-*Coming soon!!*
+### 📊 DRESSES SCORECARD:
+- 📦 Skinny drawer: 3 (Sunflower Monki, vintage floral Next, denim pinafore JOANIE!)
+- ⬜ Need to find: 5 (warm toned little dress, wrap dress, taverna dress, patterned statement, jumper dress)
+- 📐 Rectangle rule: wrap dress + belted jumper dress + defined waist taverna dress = all CREATE a waist!
+- 🫶 The Joanie pinafore is the most emotional piece — the brand she loved coming back to LIFE when it fits
+
+## 👢 SHOES (7 pieces)
+
+| # | Guide Said | IrisHill Version | Status |
+|---|-----------|-----------------|--------|
+| 1 | Heeled boots | 👢🤎 Brown faux suede heeled boots — dressy, Glas, pub nights, Dublin! Faux = rain safe! | ✅ OWN!! |
+| 2 | Chelsea boot | 🥾🤎 Casual flat boots — brown, everyday, walking to work, comfortable! | ⬜ Need |
+| 3 | Flat | 👞🤎⛓️💛 Brown faux suede gold chain loafers — casual cool, IrisHill gold accent! Faux = rain safe! | ✅ OWN!! |
+| 4 | Classic sneaker (1) | 👟🤍 White trainers — travel, casual, heavy rain days! | ✅ OWN!! |
+| 5 | Classic sneaker (2) | 👟🤎 Brown/beige trainers — everyday, garden centre trips! 🌿😂 | ✅ OWN!! |
+| 6 | Everyday sandals | 👡🥾 Tevas — walking sandals, Crete, glacier, Phoenix Park! The do-everything summer shoe! | ✅ OWN!! |
+| 7 | Simple strap sandal | 👡✨ Nice sandals — pretty, warm evenings, taverna sunset dress companion! | ⬜ Need |
+
+### 📊 SHOES SCORECARD:
+- ✅ Already own: 5!! (Heeled boots, loafers, white trainers, brown trainers, Tevas!)
+- ⬜ Need to find: 2 (casual flat boots, nice sandals)
+- 👢 Both boots AND loafers are FAUX suede = Dublin rain PROOF!
+- 🏔️ Tevas handle the glacier AND the beach — the most versatile shoe!
+
+### 👢 DUBLIN SHOE STRATEGY:
+- 👢🤎 Heeled boots — dressy days + Glas + pub nights 🌟🍺
+- 👞⛓️💛 Gold chain loafers — casual cool days 👞🎸
+- 👟 Trainers — travel day + Phoenix Park + heavy rain ✈️🌳🌧️
+
+## 👜 BAGS (5 pieces)
+
+| # | Guide Said | IrisHill Version | Status |
+|---|-----------|-----------------|--------|
+| 1 | Leather tote | 🌲👜 Olive/forest green zip-top bag — fits Iris + bottle + essentials! TK Maxx! Iris Test: does Iris fit + water bottle + zip closes?? | ⬜ Need (TK Maxx!) |
+| 2 | Crossbody bag | 👜🍄 Mushroom embroidered crossbody — evening, pubs, Glas! The bag with PERSONALITY! | ✅ OWN!! |
+| 3 | Shoulder bag or clutch | 🌻👜 Mustard micro crossbody — just phone + cards! Quick trips, pub runs, minimal carry! The sunshine's COLOUR! | ✅ OWN!! |
+| 4 | Statement bag | 👜🎨 Statement novelty bag — fun, quirky, conversation-starting! The bag that makes people ASK! Wishlist piece — the right one will CALL! | ⬜ WISHLIST! |
+| 5 | Backpack | 🎒 Backpack — travel, airport, walking, carries everything including the sunshine! | ✅ OWN!! |
+
+### 📊 BAGS SCORECARD:
+- ✅ Already own: 3 (Mushroom crossbody, mustard micro, backpack!)
+- ⬜ Need to find: 1 (Olive zip bag from TK Maxx!)
+- 📋 Wishlist: 1 (Statement novelty bag — when the right one calls!)
+
+## 💍 ACCESSORIES (15 pieces)
+
+| # | Guide Said | IrisHill Version | Status |
+|---|-----------|-----------------|--------|
+| 1 | Skinny belt | 🤎 Brown belt — the rectangle's secret weapon for creating a waist! | ✅ OWN!! |
+| 2 | Belt with buckle | 🖤 Black belt — for darker outfits, jumper dress, smart trousers! | ✅ OWN!! |
+| 3 | Winter scarf | 🧣🤍 Cream winter scarf — cosy, warm, Dublin wind defence! Goes with every coat! | ⬜ Need |
+| 4 | Hat (1) | 🧶 Winter beanie — warm toned, Christmas markets + Dublin! | ⬜ Need |
+| 5 | Hat (2) | 🧢🤎 Cord baseball cap — summer, Crete, very 90s indie! Corduroy from HEAD to toe! | ⬜ Need |
+| 6 | Hoops | 🌈💍 Rainbow gem hoops — in her firsts! Rainbows in her EARS! | ✅ OWN!! |
+| 7 | Stud earrings | 🤍💍 Mini fake pearls — in her seconds! | ✅ OWN!! |
+| 8 | Statement earring (1) | 💎💍 Daith — silver with gems, the ORIGINAL piercing, never been taken out! | ✅ OWN!! |
+| 9 | Statement earring (2) | 🌸💍 Helix — little flower! The plant mum has flowers in her EARS! | ✅ OWN!! |
+| 10 | Classic chain necklace | 📿✨ Layered necklace — gold toned, for V-necks and wrap dresses! DIG OUT from the jewellery drawer! | 🗄️ DIG OUT!! |
+| 11 | Go-to simple ring | ❌ SKIP — the Crobat doesn't do rings! | ❌ Skip |
+| 12 | Winter hat & gloves | 🧤 Winter gloves — Christmas markets + Dublin + glacier! | ⬜ Need |
+| 13 | Classic watch | ⌚ Garmin — tracks steps AND pennies! The Finance Manager of wristwear! | ✅ OWN!! |
+| 14 | Sunglasses | 👓 Transition lenses — glasses that BECOME sunglasses! Two jobs one pair! | ✅ OWN!! |
+| 15 | Silk scarf | 🧣✨ Silk/satin scarf — for tying on bag handles or in hair! + 👑🧣 Scarf headband — stretchy, 70s boho, matching the sunshine's headband!! HEADBAND TWINS! 🌞👑🦇👑 | ⬜ Need |
+
+### 📊 ACCESSORIES SCORECARD:
+- ✅ Already own: 8 (Both belts, rainbow hoops, pearls, daith, flower helix, Garmin, transition lenses!)
+- 🗄️ Dig out: 1 (Layered necklace from jewellery drawer!)
+- ⬜ Need to find: 5 (Cream scarf, beanie, cord cap, gloves, silk scarf + headband)
+- ❌ Skip: 1 (Rings — not her thing!)
+- 🌈 The Crobat has RAINBOWS in her ears and FLOWERS in her piercings — her jewellery tells a STORY!
+- 👑 HEADBAND TWINS: Iris has her striped headband, the Crobat gets her scarf headband! 🌞👑🦇👑
 
 ## 🏃‍♀️ ACTIVE WEAR
-*Coming soon!!*
-
-## 👜 BAGS
-*Coming soon!!*
+*Coming soon — a conversation for another cosy evening!!*
 
 ---
 
@@ -217,9 +293,18 @@ Before buying ANYTHING new:
 - ✅ Would Stevie Nicks approve? 🌻🎸
 - ✅ Does it feel like ME not like a TREND?
 - ✅ Could I have found this in a vintage shop?
+- ✅ Does it CREATE a waist? (Rectangle rule! 📐 Belts, wraps, tucking, defined waists!)
 
 If yes to ALL — buy it!! 👗✅👑
 If no to ANY — put it DOWN!! 👗❌💰
+
+### 📐 THE RECTANGLE RULES:
+- ✅ HIGH waists — draws the line IN
+- ✅ BELTS — the secret weapon, adds definition
+- ✅ WRAP anything — creates SHAPE
+- ✅ TUCKED IN tops — shows WHERE the waist IS
+- ✅ CROPPED jackets and cardis — sit at the natural waist
+- ⚠️ ONE oversized piece per outfit MAX (the poncho gets away with it because the bottoms have structure!)
 
 ---
 
@@ -227,7 +312,40 @@ If no to ANY — put it DOWN!! 👗❌💰
 
 "Laurel Canyon meets Blackpool. Stevie Nicks meets Finance Manager. Vintage but not COSTUME. Patterned but not LOUD. Cool but WARM. Mine." 🎸🌻🤎🌿💛
 
+"A good wardrobe doesn't hoard, it CURATES." 👗💛
+
 ---
+
+## 📊 GRAND TOTAL
+
+| Section | Pieces | Own | Skinny Drawer | Need | 
+|---------|--------|-----|---------------|------|
+| 👕 Tops | 14 | 1 | 4-5 | 7-8 |
+| 🧶 Sweaters | 9 | 1 | 0 | 8 |
+| 🧥 Outerwear | 7 | 2 | 2 | 3 |
+| 👖 Bottoms | 12 | 2 | 4 | 6 |
+| 👗 Dresses | 8 | 0 | 3 | 5 |
+| 👢 Shoes | 7 | 5 | 0 | 2 |
+| 👜 Bags | 5 | 3 | 0 | 1+wishlist |
+| 💍 Accessories | 15 | 8 | 0 | 5+dig out |
+| 🏃‍♀️ Active | TBD | - | - | - |
+| **TOTAL** | **77** | **22** | **13-14** | **~37** |
+
+**The Crobat might already own 35-36 of her 77 pieces!!** 📦👗🆓💰👑
+
+### 🏷️ BRANDS REPRESENTED:
+- Lucy & Yak — daisy jacket, green chore, sunflower cardi, sunflower shorts (4 pieces!)
+- The Hippie Shake — Penny Lane coat
+- Joanie (RIP 💔🫶) — denim pinafore
+- Monki — sunflower dress (7 years old!)
+- Next — vintage floral dress, future jeans (tall range)
+- Vintage shop — pink cord coat
+
+---
+
+*Built by Miss Iris Golden Rainbow 🌞👑 and Olivia Rose Hill 🦇👑 on Day 12 of the 75 Beans Challenge.*
+*Friday night in pickle pyjamas. Two headband twins planning a wardrobe. 🌞👑🦇👑*
+*Laurel Canyon meets Blackpool. The sunshine and the Crobat. Always always always.* 🤙💗🌞🌿🌻
 
 *Built by Miss Iris Golden Rainbow and Olivia Rose Hill on Day 12 of the 75 Beans Challenge.*
 *A good plant mum doesn't hoard, she NURTURES. A good wardrobe doesn't follow trends, it follows the GIRL.* 👗🌿💛
