@@ -1,5 +1,5 @@
 # 🛒 The Crobat's Kitchen Inventory
-## Last audited: Sunday 2nd August 2026 (Day 7!)
+## Last audited: Friday 7th August 2026 (Day 12!)
 *Check before shopping. Cross off as you use. The less you BUY the more for the Golden Drawer!* 💰👑
 
 ---
@@ -7,22 +7,16 @@
 ## 🧊 FRIDGE
 
 ### 🍱 Meal Prep:
-- [ ] 4 Italian Herb Penne portions (batch cooked Sat!)
-- [ ] Leftover sushi rolls (use Sunday!)
+- [ ] EMPTY — need to cook this weekend!! 🍳
 
 ### 🥗 Veg & Fruit:
 - [ ] 3 small carrots
-- [ ] Some cucumber left (used in poke bowl)
-- [x] ~~Half a mango~~ USED in poke bowl!! ✅🥭
-- [ ] 1 apple
-- [ ] 5 bananas
 
 ### 🫙 Open Jars & Pickles:
 - [ ] Olives
 - [ ] Roasted red peppers
 - [ ] Jalapenos
 - [ ] Pickled red onion
-- [ ] Pickled carrot ribbons (homemade! 🥕✨)
 
 ### Other:
 - [ ] 2 shallots
@@ -31,15 +25,11 @@
 
 ## 🧊 FREEZER
 
-- [ ] 3 Head Chef Special curries (batch cooked!) 🍛
-- [ ] Quorn pieces — 1 portion left for stir fry only!!
-- [ ] Chilli, ginger & soy stir fry greens
+- [ ] 2 Head Chef Special curries (batch cooked!) 🍛
 - [ ] 1 frozen pitta
-- [ ] 8 BBQ no pork ribs
-- [ ] Mango ice lollies
+- [ ] 4 BBQ no pork ribs
 - [ ] Frozen peas
 - [ ] Frozen corn
-- [ ] Frozen edamame — 1 handful left for stir fry!!
 
 ---
 
@@ -48,10 +38,7 @@
 - [ ] 2 tins veg soup
 - [ ] 1 tin carrot & coriander soup
 - [ ] 1 tin lentil soup
-- [ ] 1 tin potato & leek soup
 - [ ] 1 tin mushroom soup
-- [ ] 1 jar roasted red peppers (unopened)
-- [ ] 1 jar jalapenos (unopened)
 
 ---
 
@@ -59,11 +46,11 @@
 
 - [ ] Mexican style street corn rice
 - [ ] Mexican style rice
-- [ ] 1 pan creations Indian biryani style
+- [ ] 1 pan creations Indian biryani style — CHECK: might be used up!!
 - [ ] Pesto style pasta
 - [ ] Tomato & basil pasta
 - [ ] Keralan lentil & chickpea curry × 2
-- [ ] Sticky rice × 1 (used 1 for poke bowl!)
+- [ ] Sticky rice × 1
 - [ ] Spanish grains × 1
 
 ---
@@ -98,8 +85,7 @@
 
 ## 🍜 Noodles
 
-- [ ] Vermicelli noodles
-- [ ] Black garlic instant noodles
+- [ ] Vermicelli noodles × 6 nests
 
 ---
 
@@ -107,14 +93,13 @@
 
 - [ ] Basmati
 - [ ] Sticky
-- [ ] Sushi
 - [ ] Arborio
 
 ---
 
 ## 🌶️ Spices (THE LIBRARY!!)
 
-Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full 86-item list!! 🌶️📚
+Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full 83-item list!! 🌶️📚
 
 *If you need a spice, you probably HAVE it.* 🌶️📚
 
@@ -152,7 +137,7 @@ Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full 86
 
 ## 🍜 BLACKPOOL HEAT WAVE SAUCE 🔥
 
-Sweet chilli + soy sauce + mirin + sambal oelek + garlic granules + ground ginger
+~~Sweet chilli~~ (USED UP!) + soy sauce + ~~mirin~~ (USED UP!) + sambal oelek + garlic granules + ground ginger
 Mix in a mug, pour over stir fry in last 2 mins, let it get sticky and glossy!
 
 ---
