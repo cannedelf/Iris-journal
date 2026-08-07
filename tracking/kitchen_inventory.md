@@ -134,12 +134,14 @@ Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full 83
 - [ ] 🍞 Crusty bread/small baguette — ~£1
 - [ ] 💧 Veg stock cubes — CHECK CUPBOARD FIRST!! ~80p if needed
 
+- [ ] 🍎 Jazz apples (pack of 6) — ~£2 (work snack! Slice at desk!)
+- [ ] 🍦 Ice lollies — ~£1.50 (evening treat! Sweet but not bingeable!)
 **Already bought:**
 - [x] 🍯 Honey — Aldi ✅
 
-**💰 ESTIMATED TOTAL: ~£9-10** 💰👑
+**💰 ESTIMATED TOTAL: ~£12-13** 💰👑
 
-**14 meals from a £10 shop!!** 🍽️💰📊👩‍🍳👑
+**14 meals + snacks + treats from a £13 shop!!** 🍽️💰📊👩‍🍳👑
 
 ---
 
