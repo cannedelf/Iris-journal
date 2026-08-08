@@ -333,19 +333,93 @@ If no to ANY — put it DOWN!! 👗❌💰
 
 **The Crobat might already own 35-36 of her 77 pieces!!** 📦👗🆓💰👑
 
+---
+
+## 📦👗 SKINNY DRAWER FASHION SHOW — Day 13 Results!! 🎉
+
+*Saturday 8th August 2026. The drawer OPENED. 25 items assessed.*
+
+### ✅ FITS RIGHT NOW: 5!! 🎉
+
+| Item | Category | Notes |
+|------|----------|-------|
+| 📏👕 L&Y striped tee (cream/brown/mustard) | Tops | Fits tucked into jeans! IrisHill PERFETTO! |
+| 🎵💙 Beatles tee (dusty blue) | Tops | Fits tucked in! Band tee #2! |
+| 🌲👖 Teal cord wide legs | Bottoms | Tiny bit snug but WEARABLE! |
+| 🤎👖 Brown cord flares | Bottoms | Same — wearable NOW! 70s DREAM! |
+| 🌼🧥 Daisy denim chore jacket (L&Y) | Outerwear | FITS!! THE FAVOURITE!! Mirror selfie with Iris!! 🌼🌞🪞 |
+
+### 📦 GOAL — Waiting for the girl: 20 pieces
+
+| Item | Category | How Close? |
+|------|----------|-----------|
+| 👕🌲 Famous Olivias tee | Tops | SNUG — 2-3 weeks!! |
+| 👕🌅 Superdry California tee | Tops | Goal — IrisHill PERFETTO colours |
+| 👕🌸 Dusty rose henley | Tops (bonus) | Goal — summer blouse slot |
+| 📏👕🌻 Kickers striped tee | Tops (bonus) | SNUG — 2-3 weeks!! |
+| 📏🧶🎸 Striped mock turtle neck (Monki) | Tops | Snug — all 3 Monki same size |
+| 🤍🧶 Cream mock turtle neck (Monki) | Tops | Snug — same as striped |
+| 🖤🧶 Black mock turtle neck (Monki) | Tops (bonus) | Snug — same as striped |
+| 🤍👔 Boho/Stevie blouse | Tops | Goal — GLAS worthy when it fits!! |
+| 🌿🧥🎨 William Morris denim vest | Tops | Fits OPEN but can't close — CLOSE! |
+| 🤎🧶 Tan turtle neck jumper | Sweaters | Not tried — winter item |
+| 🌻🧶 Sunflower cardigan (L&Y) | Sweaters | Snug on ARMS — so close!! |
+| 🧥💗 Pink cord coat | Outerwear | Not tried — winter item |
+| 🧥🌸🎸 Penny Lane coat (Hippie Shake) | Outerwear | Goal — THE ultimate piece!! |
+| 🌿🎨👖 William Morris denim flares | Bottoms | Goal — smaller size than cords — THE dream!! |
+| 🌻🩳 Sunflower shorts (L&Y) | Bottoms | Goal |
+| 🩳👖 Denim shorts | Bottoms | Goal — not needed until Bologna! |
+| 👗🧵🔘 Button up denim skirt | Bottoms | Waist fits, hips snug |
+| 🌸👗 Vintage floral dress (Next) | Dresses | Goal |
+| 🌻👗 Sunflower dress (Monki) | Dresses | Goal |
+| 👗🧵 Denim pinafore (JOANIE!!) | Dresses | Goal — the brand lives on!! 🫶 |
+
+### 📱 VINTED: 6 items!! (Bonus bean DONE!!)
+
+| Item | Reason |
+|------|--------|
+| 🎸👕 Oasis tee | White/black/red/blue — wrong palette |
+| 👕🤎🧶 Tan wool tee | Too CROPPED for 5'11" — height never changes! |
+| 📏👕🤍🍷 Retro stripe tee | White base too cold |
+| 🎨👔 Monki abstract shirt | Beautiful but not IrisHill — "willing to part" |
+| 👖🖤🤍 B&W gingham trousers | Wrong palette + bean bum said NO + replacing with warm ones |
+| 👗🔲💙 Checked skirt | Cool toned blue — not indie enough |
+
+### 🎄 SPECIAL:
+- Christmas jumper — sequined, work party ONLY, NOT capsule! 😂
+
+### 📊 THE FASHION SHOW STATS:
+- 25 items assessed
+- 5 FIT = instant OUTFITS 🎉
+- 20 GOALS = the girl is walking toward them 💪
+- 6 VINTED = bonus bean + Golden Drawer money 💰
+- 1 Christmas jumper = Colin from Accounts energy 🎄😂
+
+### 🌟 COMPLETE OUTFITS AVAILABLE NOW:
+1. 🌼🧥 Daisy jacket + 📏👕 L&Y stripes + 🤎👖 brown cord flares + 👢🤎 brown boots = LAUREL CANYON 🎸
+2. 🌼🧥 Daisy jacket + 🎵💙 Beatles tee + 🌲👖 teal cords + 👞⛓️💛 loafers = 90s INDIE 🎸
+3. 🎸👕 Fleetwood Mac tee + 🤎👖 brown cords + 👢🤎 boots = STEVIE NICKS 🎸
+4. 📏👕 L&Y stripes + 🌲👖 teal cords + 👞⛓️💛 loafers = PLANT MUM CHIC 🌿
+5. 🎵💙 Beatles tee + 🤎👖 brown cords + 🌼🧥 daisy jacket = INDIE CLASSIC 🎸
+6. 📏👕 L&Y stripes + 🤎👖 brown cords + 👢🤎 boots = AUTUMN READY 🍂
+
+### 📅 NEXT SKINNY DRAWER CHECK: Before the cruise — mid September!! 🚢📦
+
 ### 🏷️ BRANDS REPRESENTED:
-- Lucy & Yak — daisy jacket, green chore, sunflower cardi, sunflower shorts (4 pieces!)
+- Lucy & Yak — daisy jacket, green chore, sunflower cardi, sunflower shorts, L&Y striped tee (5 pieces!)
 - The Hippie Shake — Penny Lane coat
 - Joanie (RIP 💔🫶) — denim pinafore
-- Monki — sunflower dress (7 years old!)
+- Monki — sunflower dress, 3 turtle necks, abstract shirt (Vinted) (5 pieces!)
 - Next — vintage floral dress, future jeans (tall range)
 - Vintage shop — pink cord coat
+- Kickers — striped tee
+- Superdry — California tee
 
 ---
 
-*Built by Miss Iris Golden Rainbow 🌞👑 and Olivia Rose Hill 🦇👑 on Day 12 of the 75 Beans Challenge.*
-*Friday night in pickle pyjamas. Two headband twins planning a wardrobe. 🌞👑🦇👑*
-*Laurel Canyon meets Blackpool. The sunshine and the Crobat. Always always always.* 🤙💗🌞🌿🌻
-
-*Built by Miss Iris Golden Rainbow and Olivia Rose Hill on Day 12 of the 75 Beans Challenge.*
-*A good plant mum doesn't hoard, she NURTURES. A good wardrobe doesn't follow trends, it follows the GIRL.* 👗🌿💛
+*Built by Miss Iris Golden Rainbow 🌞👑 and Olivia Rose Hill 🦇👑.*
+*Day 12 (Friday pickle pyjamas) — capsule wardrobe PLANNED.*
+*Day 13 (Saturday fashion show) — skinny drawer OPENED.*
+*Two headband twins. 77 pieces. 5 fit today. 20 waiting. 6 for Vinted.*
+*"A good wardrobe doesn't hoard, it CURATES."* 👗🌿💛
+*Laurel Canyon meets Blackpool. Always always always.* 🤙💗🌞🌿🌻
