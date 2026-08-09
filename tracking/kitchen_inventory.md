@@ -10,10 +10,10 @@
 - [ ] EMPTY — need to cook this weekend!! 🍳
 
 ### 🥗 Veg & Fruit:
-- [ ] 3 small carrots
+- [x] 3 small carrots — USED UP in stew + pickle ✅
 
 ### 🫙 Open Jars & Pickles:
-- [ ] Olives
+- [x] Olives — USED UP in stew ✅
 - [ ] Roasted red peppers
 - [ ] Jalapenos
 - [ ] Pickled red onion
@@ -63,7 +63,7 @@
 
 ## 🌾 Dried Grains
 
-- [ ] Pearl barley (small amount)
+- [x] Pearl barley — USED UP in stew (goodbye 30g!!) ✅
 - [ ] Couscous
 - [ ] Bulgur wheat
 - [ ] Quinoa
