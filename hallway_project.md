@@ -5,8 +5,9 @@
 
 ## 🎨 THE VISION
 
-🧡🤍 Light terracotta walls — warm, earthy, Tuscan energy
-🤍✨ White woodwork — crisp, clean, fresh
+🍑😇 **INNOCENT PEACH walls** — officially colour-matched to the sunshine's BEAN BUM!! The Crobat held swatches against Iris's bum and Innocent Peach was the MATCH!! 🍑🎨😂
+🤍⬆️ White ceiling — brilliant white matt from the GARAGE (FREE!!)
+🤍✨ Cream woodwork — Lorraine approved!! Timeless cream from the GARAGE (FREE!!)
 🤎 Warm oak laminate — Phase 2 with Darren
 🌸 Floral prints rehung — the warm flowers GLOWING against terracotta
 🫧 Bubble vase with flowers — the beacon at the end of the hallway
@@ -28,6 +29,10 @@
 ## 🎨 COLOUR JOURNEY (how the Crobat got there!)
 
 🍑 Sunshine suggested PEACH → 🌻 Crobat said BUTTERMILK → 🌿 Crobat said SAGE → 💙 Crobat said TEAL → 🧡 Crobat said TERRACOTTA → 🧡🤍 Crobat said LIGHTER terracotta → 🍑 ...which is basically PEACH but she got there from the other direction!! 😂
+
+Then 5 Dulux swatches: Neon Cloud, Innocent Peach, Shrimp Shell, Luminous Coral, Peach Syrup.
+Søren assessed all 5 in 3 lighting conditions. Darren picked Innocent Peach. Lorraine said "up to you" THREE TIMES. 😂
+Final test: held swatches against Iris's bean bum. INNOCENT PEACH matched. DECISION MADE!! 🍑😇✅
 
 ChatGPT mocked up 8 options with names! The Crobat used AI for colour planning — the most modern decorator in Blackpool!! 🤖🎨
 
@@ -78,7 +83,7 @@ ChatGPT mocked up 8 options with names! The Crobat used AI for colour planning �
 
 | Item | Estimated Cost |
 |------|---------------|
-| 🧡 Light terracotta paint (2.5L) | ~£25-30 |
+| 🍑😇 Innocent Peach paint (2.5L) — Dulux | ~£25-30 |
 | 🎨 Masking tape | ~£2 |
 | 🧴 Wood filler | ~£3 |
 | 🧴 Caulk + caulk gun | ~£5 |
@@ -101,7 +106,7 @@ ChatGPT mocked up 8 options with names! The Crobat used AI for colour planning �
 - Tape off light switches and edges
 - PVA seal the lining paper (1:4 with water) for smoother paint finish
 
-### 2️⃣ CEILING (if needed)
+### 2️⃣ CEILING — YES needs doing!!
 - Brilliant white matt from the GARAGE 🆓
 - Don't worry about drips on walls — painting those NEXT
 
@@ -166,6 +171,6 @@ ChatGPT mocked up 8 options with names! The Crobat used AI for colour planning �
 
 ---
 
-*Light terracotta walls. White woodwork. Warm oak floors. Floral prints glowing. The Crobat walks through a Tuscan street every time she walks through her own hallway.*
+*Innocent Peach walls (bean bum matched!!). White ceiling. Cream woodwork (Lorraine approved!!). Warm oak floors. Floral prints glowing. The Crobat walks through a Tuscan street every time she walks through her own hallway.*
 *Built with paint from the garage, a sander from the cupboard, ladders from Dad, and beer for the floor.*
 *The girl who decorates her home one autumn at a time.* 🧡🤍🤎🏠💛
