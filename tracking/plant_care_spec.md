@@ -20,7 +20,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Bum Club:** DRY BUM CLUB PRESIDENT 🍑🏜️
 - **Watering:** Let dry out COMPLETELY between waterings. Chopstick test — must be dry ALL the way through, not just top. Every 2-3 weeks in summer, less in winter
 - **Light:** Bright indirect to direct light. Quarter turn every 2 weeks for even growth
-- **Feeding:** TBD — need to research jade fertiliser needs
+- **Feeding:** HALF strength CACTUS & SUCCULENT FEED (she has her own bottle!!) once a MONTH during growing season. Sept + Oct then STOP for winter. Succulents are light feeders — less is MORE
 - **Special:** Christine (baby) is hiding inside — future propagation! Morning greeting "Good morning Stevie" every day (Day 10 streak!)
 - **Notes:** Dry Bum Club PRESIDENT. Overwatering = root rot = death. When in doubt, DON'T water
 
@@ -142,7 +142,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - 🌱 Janis — QUARTER strength ✅
 - 🌈 Tina — DILUTED, into MOIST soil ✅
 - 🕷️ Phoebe — SKIP ❌ (every 4-6 weeks)
-- 🌿🎸 Stevie — TBD (check jade needs)
+- 🌿🎸 Stevie — HALF strength SUCCULENT feed (her own special bottle!!) ✅
 - 🌿🇮🇹 Laura — gentle basil feed ✅
 - 💧 Etta — NO feed (still in water) ❌
 
