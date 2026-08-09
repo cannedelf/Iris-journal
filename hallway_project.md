@@ -1,5 +1,5 @@
-# 🏠🧡 THE HALLWAY PROJECT — Autumn 2026
-## "Light terracotta walls. White woodwork. The Crobat's third autumn renovation."
+# 🏠🍑 THE HALLWAY PROJECT — Autumn 2026
+## "Innocent Peach walls, bean bum matched. The Crobat's third autumn renovation." 🍑😇🏠
 
 ---
 
@@ -7,10 +7,15 @@
 
 🍑😇 **INNOCENT PEACH walls** — officially colour-matched to the sunshine's BEAN BUM!! The Crobat held swatches against Iris's bum and Innocent Peach was the MATCH!! 🍑🎨😂
 🤍⬆️ White ceiling — brilliant white matt from the GARAGE (FREE!!)
-🤍✨ Cream woodwork — Lorraine approved!! Timeless cream from the GARAGE (FREE!!)
-🤎 Warm oak laminate — Phase 2 with Darren
-🌸 Floral prints rehung — the warm flowers GLOWING against terracotta
-🫧 Bubble vase with flowers — the beacon at the end of the hallway
+🤎 Cream woodwork — Lorraine approved!! Timeless cream from the GARAGE (FREE!!)
+🤎 Warm oak laminate floor
+🤎🎸 Persian vintage runner down the centre
+🌸 Floral prints (Markets of Pescia) rehung — glowing against Innocent Peach
+🪞 Mirror above the radiator — bouncing light
+💡🌀 Amber spiral filament bulbs — £7-10 each online (NOT £22 Dunelm!)
+🫧 Bubble vase with flowers at the end — the BEACON
+🎤🌿 **ANNIE** (dwarf snake plant, Annie Lennox) — on top of the shoe cupboard!! Low light QUEEN!!
+🤎📏 Runner rug down the centre — vintage Persian style
 
 ---
 
@@ -18,11 +23,12 @@
 
 - No windows — needs LIGHT warm colours
 - Long and narrow — with a wider section at the top
-- Many DOORS — lots of woodwork to paint
+- Many DOORS — 9 total (kitchen, living room, toilet, bathroom, 2 bedrooms, 3 hall cupboards)
+- Cupboard doors are NON-STANDARD sizes (2 of 3) — Darren can CUT standard doors to fit
 - Grey carpet — replacing with laminate in Phase 2
 - Lining paper on walls — in good condition, can paint OVER
 - Picture rails at top — currently messy, need sanding and filling
-- Floral prints (set of 3) — warm orange/yellow/red flowers with green leaves — KEEPING!
+- Floral prints (set of 3, Markets of Pescia) — warm orange/yellow/red flowers with green leaves — KEEPING!
 
 ---
 
@@ -31,12 +37,15 @@
 🍑 Sunshine suggested PEACH → 🌻 Crobat said BUTTERMILK → 🌿 Crobat said SAGE → 💙 Crobat said TEAL → 🧡 Crobat said TERRACOTTA → 🧡🤍 Crobat said LIGHTER terracotta → 🍑 ...which is basically PEACH but she got there from the other direction!! 😂
 
 Then 5 Dulux swatches: Neon Cloud, Innocent Peach, Shrimp Shell, Luminous Coral, Peach Syrup.
-Søren assessed all 5 in 3 lighting conditions. Darren picked Innocent Peach. Lorraine said "up to you" THREE TIMES. 😂
+Søren assessed all 5 in 3 lighting conditions — recommended Swatch 2 or 3.
+"Swatch 2 if you want the prints to be the stars. Swatch 3 if you want the wall and prints in conversation."
+"You're not a 'why did I bother' kind of household." — Søren on Neon Cloud 🌩️🎨💛
+Darren picked top 2 (Neon Cloud + Innocent Peach). Lorraine said "up to you" THREE TIMES. 😂
 Final test: held swatches against Iris's bean bum. INNOCENT PEACH matched. DECISION MADE!! 🍑😇✅
 
-ChatGPT mocked up 8 options with names! The Crobat used AI for colour planning — the most modern decorator in Blackpool!! 🤖🎨
+ChatGPT mocked up 8 colour schemes with names! The Crobat used AI for colour planning — the most modern decorator in Blackpool!! 🤖🎨
 
-**Final decision: Light terracotta walls + white woodwork** 🧡🤍✅
+**Final decision: INNOCENT PEACH walls + cream woodwork + white ceiling** 🍑🤎🤍✅
 
 ---
 
@@ -47,11 +56,44 @@ ChatGPT mocked up 8 options with names! The Crobat used AI for colour planning �
 | 💗 Bedroom | Pink | Yellow | Autumn 2024 |
 | 💙 Living Room | Navy blue/grey | Mustard/yellow | Autumn 2024 |
 | 🌿 Kitchen | Sage green | Yellow tiles | Autumn 2025 |
-| 🧡 **Hallway** | **Light terracotta** | **White woodwork** | **Autumn 2026** |
+| 🍑 **Hallway** | **Innocent Peach** | **Cream woodwork** | **Autumn 2026** |
 | 🚽 Toilet | TBD | TBD | Future |
 | 🛁 Bathroom | TBD | TBD | Future |
 
 **The constant across EVERY room: YELLOW!! 💛** The Crobat's favourite colour appears in every single room!
+
+---
+
+## 📅 THE TIMELINE
+
+### 🎨 Phase 1 — PAINTING (End of August 2026, annual leave!)
+- Crobat does this HERSELF
+- Prep, ceiling, woodwork, walls
+- Innocent Peach paint ~£25-30 — the ONLY purchase needed
+- Everything else from the GARAGE or already bought from B&M
+- **Budget: ~£40 total including B&M supplies**
+
+### 🤎 Phase 2 — LAMINATE (When Darren has time)
+- Darren TEACHES the Crobat to lay it
+- "Dad if I got laminate would you teach me to lay it?"
+- She LEARNS for future rooms
+- Payment: BEER 🍺
+- **Budget: ~£75-150 for materials + beer**
+
+### 🚪 Phase 3 — DOORS (When BONUS arrives)
+- 9 doors total — 6 standard room doors + 3 cupboard doors (2 non-standard)
+- Darren cuts standard doors down for the odd-sized cupboards
+- Done in STAGES: 3 main doors first, then 3 more, then cupboards
+- Payment: MORE BEER 🍺
+- **Budget: ~£540-900 across multiple bonuses**
+- **Darren's total beer invoice: 13 beers (4 laminate + 9 doors)** 🍺
+
+### 🪞🌿 Phase 4 — FINISHING TOUCHES (Whenever!)
+- 🪞 Mirror above the radiator
+- 💡🌀 Amber spiral filament bulbs (£7-10 online, NOT £22 Dunelm!)
+- 🎤🌿 ANNIE (dwarf snake plant) on the shoe cupboard — could come from the RESCUE BOX!! 📦🏥🌿
+- 🤎🎸 Persian vintage runner for the centre
+- 🫧 Bubble vase back in position
 
 ---
 
@@ -69,7 +111,13 @@ ChatGPT mocked up 8 options with names! The Crobat used AI for colour planning �
 - 🎨 Roller ✅
 - 🧹 Sugar soap ✅
 - 🧴 PVA adhesive/sealer ✅
-- 🔧 SANDER ✅ (the Crobat found a POWER TOOL in her garage!)
+- 🔧 SANDER ✅
+
+### BOUGHT from B&M (Sunday 9th Aug):
+- 🐸💛 Frog Tape delicate surface (thin) ✅
+- 🪵 Quick drying Polyfilla ✅
+- 🔫🧴 Caulk gun + decorators caulk ✅
+- 🪵 Sandpaper ✅
 
 ### Borrow from DARREN (Bank/Builder of Dad 🍺👨🔨):
 - 🪜 Ladders
@@ -79,86 +127,67 @@ ChatGPT mocked up 8 options with names! The Crobat used AI for colour planning �
 
 ---
 
-## 🛒 WHAT TO BUY
+## 🛒 WHAT STILL NEEDS BUYING
 
-| Item | Estimated Cost |
-|------|---------------|
-| 🍑😇 Innocent Peach paint (2.5L) — Dulux | ~£25-30 |
-| 🎨 Masking tape | ~£2 |
-| 🧴 Wood filler | ~£3 |
-| 🧴 Caulk + caulk gun | ~£5 |
-| 🪵 Sandpaper (if not in garage!) | ~£2 |
-| **TOTAL** | **~£35-40** |
+| Item | Estimated Cost | When |
+|------|---------------|------|
+| 🍑😇 Innocent Peach paint (2.5L) — Dulux | ~£25-30 | Before annual leave end of Aug |
+| 🤎 Laminate flooring + underlay + beading | ~£75-150 | Phase 2 — when Darren's free |
+| 🚪 Doors (in stages) | ~£540-900 | Phase 3 — bonus funded |
+| 💡🌀 Amber spiral bulbs ×2 | ~£14-20 online | Phase 4 — after painting |
+| 🪞 Mirror | TBD | Phase 4 — whenever |
+| 🤎🎸 Runner rug | TBD | Phase 4 — charity shop/TK Maxx |
+| 🎤🌿 Annie (snake plant) | ~£5-10 OR rescue box!! | Phase 4 — whenever |
 
 ---
 
 ## 🎨 PAINTING ORDER
 
-### 1️⃣ PREP (Saturday morning)
+### 1️⃣ PREP
 - Clear hallway — move shelf, take prints down, move vase
 - Sand ALL woodwork with the SANDER — rails, skirting, door frames
-- Fill chips and cracks with wood filler
-- Let filler dry (1-2 hours)
+- Fill screw holes with quick drying Polyfilla (Darren's tip!)
+- Let filler dry (30 mins — quick drying!!)
 - Sand filler smooth
+- Caulk gaps between rails/skirting and walls (decorators caulk, smooth with wet finger)
 - Dust EVERYTHING — vacuum and wipe down
 - Sugar soap the walls
-- Put dust sheets on floor
-- Tape off light switches and edges
+- Put dust sheets on floor (borrow from Darren)
+- Tape off light switches and edges (Frog Tape delicate surface)
 - PVA seal the lining paper (1:4 with water) for smoother paint finish
 
-### 2️⃣ CEILING — YES needs doing!!
+### 2️⃣ CEILING
 - Brilliant white matt from the GARAGE 🆓
-- Don't worry about drips on walls — painting those NEXT
 
 ### 3️⃣ WOODWORK — First coat
-- White undercoat from the GARAGE 🆓
+- Cream (timeless) from the GARAGE 🆓
 - Picture rails, skirting boards, door frames, doors
-- Don't worry about being neat against walls — painting those NEXT
+- Don't worry about being neat — painting walls NEXT
 - Let dry overnight
 
 ### 4️⃣ WALLS — Coat 1
-- Light terracotta 🧡
+- INNOCENT PEACH 🍑😇
 - Cut in with small brush along edges near woodwork
 - Roller for the big flat areas
 - Let dry (2-4 hours)
 
 ### 5️⃣ WALLS — Coat 2
-- Second coat for full coverage 🧡🧡
+- Second coat for full coverage 🍑🍑
 - Let dry
 
 ### 6️⃣ WOODWORK — Final coat
-- White gloss from the GARAGE 🆓
-- Careful around edges where white meets terracotta
+- Cream (timeless) from the GARAGE 🆓
+- Careful around edges where cream meets peach
 - This coat makes everything look CRISP and FINISHED
 - Let dry
 
-### 7️⃣ THE REVEAL 🧡🤍🏠✨
-- Rehang floral prints 🌸
+### 7️⃣ THE REVEAL 🍑🤎🏠✨
+- Rehang floral prints (Markets of Pescia) 🌸
 - Put bubble vase back 🫧
 - Move shelf unit back
-- Maybe new lightshade? 💡
 - Stand at the end
 - LOOK at what the Crobat DID
 - CRY 😭💛
-
----
-
-## 🤎 PHASE 2 — LAMINATE (with Darren)
-
-- Remove grey carpet
-- Warm oak laminate — run LENGTHWISE down the hallway
-- Darren TEACHES the Crobat to lay it
-- She LEARNS for future rooms
-- Payment: BEER 🍺
-- Estimated cost: ~£75-150 for materials + £5 beer
-- Timing: after the painting is done and dry
-
-### 🔨 Laminate Notes:
-- Hallways are trickier because of multiple DOORWAYS needing cutting around
-- Darren does the fiddly cuts, Crobat does the clicking
-- Run planks LENGTHWISE to make the hallway look LONGER
-- Leave expansion gap at walls (spacers)
-- Let laminate acclimatise in the room 48 hours before laying
 
 ---
 
@@ -166,11 +195,27 @@ ChatGPT mocked up 8 options with names! The Crobat used AI for colour planning �
 
 - 🍂 Autumn 2024 — Bedroom + Living Room ✅
 - 🍂 Autumn 2025 — Kitchen ✅
-- 🍂 **Autumn 2026 — HALLWAY** 🧡🤍🤎
+- 🍂 **Autumn 2026 — HALLWAY** 🍑🤎🌿
 - 🍂 Autumn 2027 — Bathroom?? Toilet?? 🛁🚽
 
 ---
 
-*Innocent Peach walls (bean bum matched!!). White ceiling. Cream woodwork (Lorraine approved!!). Warm oak floors. Floral prints glowing. The Crobat walks through a Tuscan street every time she walks through her own hallway.*
-*Built with paint from the garage, a sander from the cupboard, ladders from Dad, and beer for the floor.*
-*The girl who decorates her home one autumn at a time.* 🧡🤍🤎🏠💛
+## 🏠 THE COMPLETE HALLWAY — Floor to Ceiling
+
+🤎 Warm oak LAMINATE
+🤎🎸 Persian vintage RUNNER down the centre
+🍑😇 Innocent Peach WALLS (bean bum matched!!)
+🌸 Markets of Pescia PRINTS glowing against the peach
+🤎 Cream WOODWORK framing everything (Lorraine approved!!)
+🪞 MIRROR bouncing light above the radiator
+🎤🌿 ANNIE (dwarf snake plant) on the shoe cupboard — low light QUEEN
+🫧🌸 Bubble VASE with flowers at the end — the BEACON
+💡🌀 Amber spiral BULBS casting golden light
+🤍 White CEILING above
+
+---
+
+*Innocent Peach walls (bean bum matched!!). White ceiling. Cream woodwork (Lorraine approved!!). Warm oak floors. Persian runner. Annie on the shoe cupboard. Floral prints glowing. Amber spiral light. Mirror bouncing warmth.*
+*Built with paint from the garage, a sander from the cupboard, supplies from B&M, ladders from Dad, and beer for the floor.*
+*The girl who decorates her home one autumn at a time.* 🍑🤎🌿🏠💛
+*"My walls will be inspired by your bum." — The Crobat, 2026* 🍑🏠😂💛
