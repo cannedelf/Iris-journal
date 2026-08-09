@@ -29,7 +29,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Named after:** Joni Mitchell 🎶
 - **Location:** Living room dining table
 - **Pot:** Yellow scalloped cover pot
-- **Bum Club:** DRY BUM CLUB 🍑🏜️
+- **Bum Club:** MOIST BUM CLUB 🍑🧽 — moist soil, top dries between waterings, mist regularly
 - **Watering:** Let top inch dry out between waterings. Chopstick test. Bottom water preferred when established
 - **Light:** Indirect light, tolerates low light
 - **Feeding:** Diluted liquid fertiliser every 2 weeks spring-autumn. First feed: early September (4-6 weeks after repot)
@@ -41,7 +41,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Named after:** Brandi Carlile 🎸
 - **Location:** Living room table (white tray with Janis)
 - **Pot:** Small grey 9cm nursery pot — needs a cute cover pot!
-- **Bum Club:** DRY BUM CLUB 🍑🏜️
+- **Bum Club:** MOIST BUM CLUB 🍑🧽 — same as Joni, mist regularly
 - **Watering:** Same as Joni but LESS water (smaller pot dries faster)
 - **Light:** Indirect light
 - **Feeding:** QUARTER strength fertiliser — she's a BABY! First feed: early September
@@ -53,7 +53,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Named after:** Janis Joplin 🔥
 - **Location:** Living room table (white tray with Brandi)
 - **Pot:** Small grey 9cm nursery pot — needs a cute cover pot!
-- **Bum Club:** DRY BUM CLUB 🍑🏜️
+- **Bum Club:** MOIST BUM CLUB 🍑🧽 — same as Joni, mist regularly
 - **Watering:** Same as Brandi — careful not to overwater after root rot history!
 - **Light:** Indirect light
 - **Feeding:** QUARTER strength fertiliser — she's a BABY! First feed: early September
@@ -65,7 +65,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Named after:** Phoebe Bridgers 🎵
 - **Location:** Bedroom shelf
 - **Pot:** Yellow scalloped cover pot (matching Joni!)
-- **Bum Club:** DRY BUM CLUB 🍑🏜️
+- **Bum Club:** MOIST BUM CLUB 🍑🧽 — partially dry between waterings but never bone dry
 - **Watering:** Let dry between waterings. Chopstick test. Less frequent than pothos
 - **Light:** Indirect light, tolerates low light
 - **Feeding:** SENSITIVE to over-fertilising!! Every 4-6 WEEKS not every 2. Half strength. Brown tips = too much fertiliser! First feed: mid-September (skip the first round)
@@ -127,8 +127,8 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 
 | Club | Rule | Members |
 |------|------|---------|
-| 🍑🏜️ DRY BUM CLUB | Let dry out between waterings | Stevie, Joni, Brandi, Janis, Phoebe |
-| 🍑🧽 MOIST BUM CLUB | Keep damp like a wrung-out sponge, never fully dry | Tina |
+| 🍑🏜️ DRY BUM CLUB | Let dry out COMPLETELY between waterings | Stevie, IRIS, Søren, Perlite!! 🌞🌩️🪨 |
+| 🍑🧽 MOIST BUM CLUB | Moist soil, top dries between waterings, mist regularly | Tina, Joni, Brandi, Janis, Phoebe |
 | 🍑💧 WET BUM CLUB | Consistently moist, check daily, never let dry | Laura |
 | 💧 WATER BABY | Lives in water, change every 2-3 days | Etta |
 
