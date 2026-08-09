@@ -31,7 +31,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Pot:** Yellow scalloped cover pot
 - **Bum Club:** MOIST BUM CLUB 🍑🧽 — moist soil, top dries between waterings, mist regularly
 - **Watering:** Let top inch dry out between waterings. Chopstick test. Bottom water preferred when established
-- **Light:** Indirect light, tolerates low light
+- **Light:** Prefers FULL SHADE, tolerates partial sun. Dining table near (not AT) east window = PERFECT!
 - **Feeding:** Diluted liquid fertiliser every 2 weeks spring-autumn. First feed: early September (4-6 weeks after repot)
 - **Special:** 3 new leaves spotted! Starting to TRAIL! Will go to the OFFICE eventually. Most beautiful variegation — gold, green, cream
 - **Notes:** Separated from babies (Brandi + Janis). Growing like mad since separation. All energy going to OWN growth now
@@ -43,7 +43,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Pot:** Small grey 9cm nursery pot — needs a cute cover pot!
 - **Bum Club:** MOIST BUM CLUB 🍑🧽 — same as Joni, mist regularly
 - **Watering:** Same as Joni but LESS water (smaller pot dries faster)
-- **Light:** Indirect light
+- **Light:** Prefers shade — dining table position PERFECT!
 - **Feeding:** QUARTER strength fertiliser — she's a BABY! First feed: early September
 - **Special:** The STAR baby — best roots of all the separations. 2 NEW baby leaves spotted via photo comparison! Lost one yellow bottom leaf (normal — redirecting energy to new growth)
 - **Notes:** The reliable one. Named Brandi because she's steady and STRONG
@@ -55,7 +55,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Pot:** Small grey 9cm nursery pot — needs a cute cover pot!
 - **Bum Club:** MOIST BUM CLUB 🍑🧽 — same as Joni, mist regularly
 - **Watering:** Same as Brandi — careful not to overwater after root rot history!
-- **Light:** Indirect light
+- **Light:** Prefers shade — dining table position PERFECT!
 - **Feeding:** QUARTER strength fertiliser — she's a BABY! First feed: early September
 - **Special:** THE FIGHTER!! Had root rot, was snipped, went down to 2 leaves and a stump. NOW has a NEW LEAF unfurling!! 🌱🔥🎉 Going to LORRAINE eventually as a gift
 - **Notes:** Be EXTRA gentle. Don't disturb new growth. The comeback queen of Blackpool
@@ -129,7 +129,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 |------|------|---------|
 | 🍑🏜️ DRY BUM CLUB | Let dry out COMPLETELY between waterings | Stevie, IRIS, Søren, Perlite!! 🌞🌩️🪨 |
 | 🍑🧽 MOIST BUM CLUB | Moist soil, top dries between waterings, mist regularly | Tina, Joni, Brandi, Janis, Phoebe |
-| 🍑💧 WET BUM CLUB | Consistently moist, check daily, never let dry | Laura |
+| 🍑💧 WET BUM CLUB | DISSOLVED!! No members!! Laura moved to Moist!! | 🚫 EMPTY 😂 |
 | 💧 WATER BABY | Lives in water, change every 2-3 days | Etta |
 
 ---
@@ -143,7 +143,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - 🌈 Tina — DILUTED, into MOIST soil ✅
 - 🕷️ Phoebe — SKIP ❌ (every 4-6 weeks)
 - 🌿🎸 Stevie — HALF strength SUCCULENT feed (her own special bottle!!) ✅
-- 🌿🇮🇹 Laura — gentle basil feed ✅
+- 🌿🇮🇹 Laura — NO FEED NEEDED!! Skip her!! ✅
 - 💧 Etta — NO feed (still in water) ❌
 
 ### Weekend 3 — Mid September:
@@ -152,7 +152,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - 🌱 Janis — quarter strength ✅
 - 🌈 Tina — SKIP (every 3-4 weeks) ❌
 - 🕷️ Phoebe — FIRST FEED!! Half strength ✅
-- 🌿🇮🇹 Laura — feed again ✅
+- 🌿🇮🇹 Laura — still no feed!! She grows WITHOUT it!! ✅
 
 ### Stop feeding: October/November (before winter)
 
