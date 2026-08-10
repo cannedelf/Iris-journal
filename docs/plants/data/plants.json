@@ -240,7 +240,7 @@
       "watering": {
         "text": "Change water every 2–3 days. Room temperature water only! More frequent changes than Mon/Wed/Fri.",
         "intervalDays": 3,
-        "lastWatered": null,
+        "lastWatered": "2026-08-10",
         "label": "Water change"
       },
       "light": "Indirect light on the windowsill.",
