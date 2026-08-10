@@ -23,8 +23,36 @@ function photoSrc(src) { return src && src.startsWith('data:') ? src : (src ? '.
 const state = {
   view: 'home',        // home | today | feeding | cruise | settings
   plantId: null,       // which plant detail is open
+  adding: false,       // the Add-plant form is open
+  draft: null,         // in-progress new-plant fields (survives form re-renders)
   pendingPhoto: null,  // resized data URL waiting to attach to a growth note
 };
+
+// Suggested watering interval (days) by bum club — prefilled on the add form.
+const INTERVAL_SUGGEST = { dry: 18, moist: 6, wet: 5, water: 3 };
+function blankDraft() {
+  return {
+    name: '', emoji: '🌿', musicianEmoji: '', namedAfter: '', species: '',
+    room: '', location: '', pot: '', bumClub: 'moist', intervalDays: 6,
+    wateringText: '', light: '', feedingText: '', firstFeed: '',
+    mistNeeded: false, mistingText: '', feedSkip: false, dailyCheck: false,
+    special: '', notes: ''
+  };
+}
+// Read the live form inputs back into a draft object (so a re-render loses nothing).
+function readAddForm() {
+  const d = state.draft || blankDraft();
+  const val = id => { const el = $('#' + id); return el ? el.value : ''; };
+  return {
+    ...d,
+    name: val('apName'), emoji: val('apEmoji'), musicianEmoji: val('apMusician'),
+    namedAfter: val('apNamedAfter'), species: val('apSpecies'), room: val('apRoom'),
+    location: val('apLocation'), pot: val('apPot'), intervalDays: val('apInterval'),
+    wateringText: val('apWatering'), light: val('apLight'), feedingText: val('apFeeding'),
+    firstFeed: val('apFirstFeed'), mistingText: val('apMisting'),
+    special: val('apSpecial'), notes: val('apNotes')
+  };
+}
 
 // ---------- save-status badge ----------
 function setStatus(kind, text) {
@@ -110,6 +138,8 @@ function homeView() {
     ${dueCount ? `<button class="due-banner" data-go="today">💧 ${dueCount} plant${dueCount === 1 ? '' : 's'} need${dueCount === 1 ? 's' : ''} water today →</button>` : ''}
 
     <div class="plant-list">${cards}</div>
+
+    <button class="add-plant-btn" data-add>➕ Add a plant</button>
   </section>`;
 }
 
@@ -213,6 +243,8 @@ function plantView(id) {
     </div>
 
     ${gallery}
+
+    <button class="remove-plant-btn" data-remove-plant="${esc(p.id)}">🗑️ Remove ${esc(p.name)}</button>
   </section>`;
 }
 
@@ -223,6 +255,68 @@ function careRow(emoji, label, text, allowHtml = false) {
     <span class="care-emoji">${emoji}</span>
     <div><b>${esc(label)}</b><p>${allowHtml ? text : esc(text)}</p></div>
   </div>`;
+}
+
+// ---- add a plant ----
+function addView() {
+  const d = state.draft || (state.draft = blankDraft());
+  const clubBtns = Object.entries(store.data.bumClubs || {}).map(([key, c]) =>
+    `<button type="button" class="club-opt tone-${esc(key)} ${d.bumClub === key ? 'on' : ''}" data-club="${esc(key)}">
+       <span>${c.emoji}</span>${esc((c.label || key).replace(' Bum Club', ''))}</button>`).join('');
+  const rooms = [['', '—'], ['bedroom', '🛏️ Bedroom'], ['living', '🛋️ Living room'], ['kitchen', '🍳 Kitchen'], ['hallway', '🚪 Hallway']];
+  const roomOpts = rooms.map(([v, l]) => `<option value="${v}" ${d.room === v ? 'selected' : ''}>${esc(l)}</option>`).join('');
+
+  return `
+  <section class="screen addplant">
+    <button class="back" data-cancel-add>‹ Cancel</button>
+    <div class="hero">
+      <div class="hero-sun">🌿➕</div>
+      <h2 class="hero-title">A new baby</h2>
+      <p class="hint" style="text-align:center">Only a name is needed — fill in the rest now or later.</p>
+    </div>
+
+    <div class="card">
+      <div class="ap-2col">
+        <label class="field"><span>Name *</span><input id="apName" value="${esc(d.name)}" placeholder="Carole" autocomplete="off"></label>
+        <label class="field short"><span>Emoji</span><input id="apEmoji" value="${esc(d.emoji)}" placeholder="🌿" maxlength="4"></label>
+      </div>
+      <div class="ap-2col">
+        <label class="field"><span>Named after</span><input id="apNamedAfter" value="${esc(d.namedAfter)}" placeholder="Carole King" autocomplete="off"></label>
+        <label class="field short"><span>Their emoji</span><input id="apMusician" value="${esc(d.musicianEmoji)}" placeholder="🎶" maxlength="4"></label>
+      </div>
+      <label class="field"><span>Species</span><input id="apSpecies" value="${esc(d.species)}" placeholder="Prayer plant (Maranta leuconeura)" autocomplete="off"></label>
+    </div>
+
+    <div class="card">
+      <h3>🍑 Bum Club</h3>
+      <p class="hint">Sets the care rule and the colour. Picking one suggests a watering gap.</p>
+      <div class="club-opts">${clubBtns}</div>
+      <div class="ap-2col">
+        <label class="field"><span>Room</span><select id="apRoom" class="ap-select">${roomOpts}</select></label>
+        <label class="field short"><span>Water every … days</span><input id="apInterval" type="number" inputmode="numeric" min="1" value="${esc(String(d.intervalDays))}"></label>
+      </div>
+      <label class="field"><span>Where it lives</span><input id="apLocation" value="${esc(d.location)}" placeholder="Living room shelf (north facing)" autocomplete="off"></label>
+      <label class="field"><span>Pot</span><input id="apPot" value="${esc(d.pot)}" placeholder="12cm terracotta in a cream cover pot" autocomplete="off"></label>
+      <label class="toggle-row" data-toggle="dailyCheck"><span>Check moisture daily <i>(thirsty herbs like basil)</i></span><span class="toggle ${d.dailyCheck ? 'on' : ''}"></span></label>
+    </div>
+
+    <div class="card">
+      <h3>📝 Care notes <i>(all optional)</i></h3>
+      <label class="field"><span>💧 Watering</span><textarea id="apWatering" rows="2" placeholder="Let the top inch dry between waterings.">${esc(d.wateringText)}</textarea></label>
+      <label class="field"><span>☀️ Light</span><textarea id="apLight" rows="2" placeholder="Bright indirect light. No direct sun.">${esc(d.light)}</textarea></label>
+      <label class="toggle-row" data-toggle="feedSkip"><span>Skip feeding <i>(doesn't need it)</i></span><span class="toggle ${d.feedSkip ? 'on' : ''}"></span></label>
+      ${d.feedSkip ? '' : `
+      <label class="field"><span>🧴 Feeding</span><textarea id="apFeeding" rows="2" placeholder="Diluted feed every 2 weeks, spring–autumn.">${esc(d.feedingText)}</textarea></label>
+      <label class="field"><span>First feed</span><input id="apFirstFeed" value="${esc(d.firstFeed)}" placeholder="Early September"></label>`}
+      <label class="toggle-row" data-toggle="mistNeeded"><span>💦 Needs misting</span><span class="toggle ${d.mistNeeded ? 'on' : ''}"></span></label>
+      ${d.mistNeeded ? `<label class="field"><span>Misting note</span><textarea id="apMisting" rows="2" placeholder="Mist most mornings; loves humidity.">${esc(d.mistingText)}</textarea></label>` : ''}
+      <label class="field"><span>✨ Special</span><input id="apSpecial" value="${esc(d.special)}" placeholder="The prayer — leaves fold up at night!"></label>
+      <label class="field"><span>Notes</span><input id="apNotes" value="${esc(d.notes)}" placeholder="Anything else…"></label>
+    </div>
+
+    <button id="btnAddPlant" class="primary big-save">🌿 Add ${d.name ? esc(d.name.trim()) : 'plant'}</button>
+    <div style="height:6px"></div>
+  </section>`;
 }
 
 // ---- today / reminders ----
@@ -405,17 +499,20 @@ const VIEWS = { home: homeView, today: todayView, feeding: feedingView, cruise: 
 
 function render() {
   if (!store.data) return;
-  $('#app').innerHTML = (state.view === 'home' && state.plantId) ? plantView(state.plantId) : (VIEWS[state.view] || homeView)();
+  $('#app').innerHTML = state.adding ? addView()
+    : (state.view === 'home' && state.plantId) ? plantView(state.plantId)
+    : (VIEWS[state.view] || homeView)();
   document.querySelectorAll('.navbtn').forEach(b =>
     b.classList.toggle('active', b.dataset.view === state.view));
   refreshStatus();
 }
 
 function go(view) {
-  state.view = view; state.plantId = null; state.pendingPhoto = null;
+  state.view = view; state.plantId = null; state.adding = false; state.draft = null; state.pendingPhoto = null;
   render(); window.scrollTo(0, 0);
 }
-function openPlant(id) { state.view = 'home'; state.plantId = id; state.pendingPhoto = null; render(); window.scrollTo(0, 0); }
+function openPlant(id) { state.view = 'home'; state.plantId = id; state.adding = false; state.draft = null; state.pendingPhoto = null; render(); window.scrollTo(0, 0); }
+function openAdd() { state.view = 'home'; state.plantId = null; state.adding = true; state.draft = blankDraft(); render(); window.scrollTo(0, 0); }
 
 // ---------- event wiring (delegated) ----------
 function wire() {
@@ -425,8 +522,15 @@ function wire() {
 }
 
 async function onAppClick(e) {
-  const t = e.target.closest('[data-plant],[data-go],[data-back-home],[data-morning],[data-water],[data-feed],[data-mist],[data-glog-del],#btnGrow,#setSave,#setResync,#dlBackup');
+  const t = e.target.closest('[data-plant],[data-go],[data-back-home],[data-morning],[data-water],[data-feed],[data-mist],[data-glog-del],[data-add],[data-cancel-add],[data-club],[data-toggle],[data-remove-plant],#btnGrow,#btnAddPlant,#setSave,#setResync,#dlBackup');
   if (!t) return;
+
+  if (t.hasAttribute('data-add')) return openAdd();
+  if (t.hasAttribute('data-cancel-add')) { state.adding = false; state.draft = null; return render(); }
+  if (t.dataset.club) return onClubPick(t.dataset.club);
+  if (t.dataset.toggle) return onToggle(t.dataset.toggle);
+  if (t.id === 'btnAddPlant') return onAddPlant();
+  if (t.dataset.removePlant) return onRemovePlant(t.dataset.removePlant);
 
   if (t.dataset.plant) return openPlant(t.dataset.plant);
   if (t.dataset.go) return go(t.dataset.go);
@@ -454,6 +558,34 @@ async function onMorning() {
 async function onWater(id) { await save(store.waterPlant(id), 'Logged 💧'); render(); }
 async function onFeed(id) { await save(store.feedPlant(id), 'Fed 🧴'); render(); }
 async function onMist(id) { await save(store.mistPlant(id), 'Misted 💦'); render(); }
+
+// ---- add-plant handlers ----
+function onClubPick(key) {
+  state.draft = readAddForm();
+  state.draft.bumClub = key;
+  state.draft.intervalDays = INTERVAL_SUGGEST[key] || state.draft.intervalDays || 6;
+  render();
+}
+function onToggle(field) {
+  state.draft = readAddForm();
+  state.draft[field] = !state.draft[field];
+  render();
+}
+async function onAddPlant() {
+  const f = readAddForm();
+  if (!(f.name || '').trim()) { toast('Give the new baby a name 🌿', 'warn'); const el = $('#apName'); if (el) el.focus(); return; }
+  const res = await save(store.addPlant(f), `${f.name.trim()} joined the family 🌿`);
+  state.draft = null; state.adding = false;
+  if (res && res.id) openPlant(res.id); else render();
+}
+async function onRemovePlant(id) {
+  const p = store.plant(id);
+  if (!p) return;
+  if (!confirm(`Remove ${p.name} from Pink to Leaf? This can't be undone (photos stay in the repo).`)) return;
+  await save(store.removePlant(id), `${p.name} removed`);
+  state.plantId = null; state.adding = false;
+  render(); window.scrollTo(0, 0);
+}
 
 async function onGrowDel(i) {
   if (!store.plant(state.plantId)) return;

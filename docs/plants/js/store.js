@@ -128,6 +128,64 @@ export const store = {
   // --- lookups -------------------------------------------------------------
   plant(id) { return (this.data.plants || []).find(p => p.id === id); },
 
+  // --- add a plant ---------------------------------------------------------
+  // Turns a name into a unique lowercase id (carole, carole_2, …).
+  _makeId(name) {
+    const base = (name || 'plant').toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_|_$/g, '').slice(0, 24) || 'plant';
+    if (!this.plant(base)) return base;
+    let n = 2; while (this.plant(`${base}_${n}`)) n++;
+    return `${base}_${n}`;
+  },
+
+  addPlant(f) {
+    const name = (f.name || '').trim();
+    if (!name) return Promise.resolve({ saved: false, reason: 'no-name' });
+    const id = this._makeId(name);
+    const bumClub = ['dry', 'moist', 'wet', 'water'].includes(f.bumClub) ? f.bumClub : 'moist';
+    const isWater = bumClub === 'water';
+    const p = {
+      id, name,
+      emoji: (f.emoji || '🌿').trim() || '🌿',
+      musicianEmoji: (f.musicianEmoji || '').trim(),
+      namedAfter: (f.namedAfter || '').trim(),
+      species: (f.species || '').trim(),
+      location: (f.location || '').trim(),
+      room: f.room || '',
+      pot: (f.pot || '').trim(),
+      bumClub,
+      watering: {
+        text: (f.wateringText || '').trim(),
+        intervalDays: Number(f.intervalDays) || (isWater ? 3 : 7),
+        lastWatered: null,
+        ...(isWater ? { label: 'Water change' } : {}),
+        ...(f.dailyCheck ? { dailyCheck: true } : {})
+      },
+      light: (f.light || '').trim(),
+      feeding: {
+        text: (f.feedingText || '').trim(),
+        firstFeed: (f.firstFeed || '').trim(),
+        lastFed: null,
+        ...(f.feedSkip ? { skip: true } : {})
+      },
+      misting: f.mistNeeded
+        ? { needed: true, text: (f.mistingText || '').trim() || 'Mist regularly for humidity.', lastMisted: null }
+        : { needed: false },
+      special: (f.special || '').trim(),
+      notes: (f.notes || '').trim(),
+      care: [],
+      growth: [],
+      gallery: []
+    };
+    this.data.plants.push(p);
+    return this.commit(`Add plant — ${name} 🌿`).then(res => ({ ...res, id }));
+  },
+
+  removePlant(id) {
+    const p = this.plant(id); if (!p) return Promise.resolve({ saved: false });
+    this.data.plants = this.data.plants.filter(x => x.id !== id);
+    return this.commit(`Remove plant — ${p.name}`);
+  },
+
   // --- care actions --------------------------------------------------------
   waterPlant(id) {
     const p = this.plant(id); if (!p) return Promise.resolve({ saved: false });

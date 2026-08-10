@@ -258,6 +258,38 @@ code { background: var(--cream-2); padding: 1px 6px; border-radius: 6px; font-si
 
 .version { text-align: center; color: var(--ink-soft); font-size: 12px; font-weight: 700; margin: 6px 0 0; }
 
+/* ---------- add-plant form ---------- */
+.add-plant-btn { width: 100%; border: 2px dashed #e6b9cf; background: var(--pink-soft); color: var(--pink-deep); border-radius: 16px; padding: 15px; font-weight: 800; font-size: 15px; margin-top: 2px; }
+.add-plant-btn:active { transform: translateY(1px); }
+.remove-plant-btn { width: 100%; border: 1.5px solid var(--line); background: var(--card); color: var(--ink-soft); border-radius: 14px; padding: 13px; font-weight: 800; font-size: 13px; margin-top: 4px; }
+.remove-plant-btn:active { background: var(--red-soft); color: var(--red); border-color: #eec0b3; }
+
+.ap-2col { display: grid; grid-template-columns: 1fr; gap: 0; }
+.ap-2col:has(.short) { grid-template-columns: 1fr 96px; gap: 8px; }
+.field.short input { text-align: center; }
+.ap-select { font-family: inherit; font-size: 16px; font-weight: 700; color: var(--ink); background: var(--card); border: 1.5px solid var(--line); border-radius: 14px; padding: 12px 14px; width: 100%; }
+.ap-select:focus { outline: 2px solid var(--pink); border-color: var(--pink); }
+.field textarea { font-family: inherit; font-size: 15px; font-weight: 600; color: var(--ink); background: var(--card); border: 1.5px solid var(--line); border-radius: 14px; padding: 12px 14px; width: 100%; resize: vertical; }
+.field textarea:focus { outline: 2px solid var(--pink); border-color: var(--pink); }
+.field > span i { font-weight: 700; font-size: 12px; }
+
+.club-opts { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px; }
+.club-opt { display: flex; align-items: center; gap: 7px; border: 2px solid var(--line); background: var(--card); border-radius: 14px; padding: 11px 12px; font-weight: 800; font-size: 13.5px; color: var(--ink); }
+.club-opt span { font-size: 18px; }
+.club-opt.on.tone-dry { border-color: var(--dry); background: var(--dry-soft); }
+.club-opt.on.tone-moist { border-color: var(--moist); background: var(--moist-soft); }
+.club-opt.on.tone-wet { border-color: var(--wet); background: var(--wet-soft); }
+.club-opt.on.tone-water { border-color: var(--water); background: var(--water-soft); }
+
+.toggle-row { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 11px 2px 4px; font-weight: 700; font-size: 14px; cursor: pointer; }
+.toggle-row span i { font-weight: 600; font-size: 12px; }
+.toggle { width: 46px; height: 27px; flex-shrink: 0; border-radius: 999px; background: var(--cream-2); border: 1.5px solid var(--line); position: relative; transition: all .15s; }
+.toggle::after { content: ''; position: absolute; top: 2px; left: 2px; width: 21px; height: 21px; border-radius: 50%; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.2); transition: all .15s; }
+.toggle.on { background: var(--green); border-color: var(--green); }
+.toggle.on::after { left: 21px; }
+
+.big-save { width: 100%; padding: 16px; font-size: 16px; }
+
 /* ---------- field inputs ---------- */
 .field { display: flex; flex-direction: column; gap: 6px; margin-bottom: 8px; }
 .field > span { font-weight: 800; font-size: 14px; padding-left: 2px; }
