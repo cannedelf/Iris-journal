@@ -6,7 +6,7 @@
     "started": "2026-07-27",
     "updated": "2026-08-10",
     "morningStreak": {
-      "count": 10,
+      "count": 11,
       "lastDate": "2026-08-10"
     }
   },
@@ -84,7 +84,7 @@
       "watering": {
         "text": "Let top inch dry out between waterings. Chopstick test. Bottom water preferred when established. MIST regularly for humidity!",
         "intervalDays": 6,
-        "lastWatered": "2026-08-01"
+        "lastWatered": "2026-08-08"
       },
       "light": "Prefers FULL SHADE, tolerates partial sun. Dining table near (not AT) east window = PERFECT!",
       "feeding": {
@@ -122,7 +122,7 @@
       "watering": {
         "text": "Same as Joni but LESS water (smaller pot dries faster).",
         "intervalDays": 5,
-        "lastWatered": "2026-08-01"
+        "lastWatered": "2026-08-08"
       },
       "light": "Prefers shade — dining table position PERFECT!",
       "feeding": {
@@ -160,7 +160,7 @@
       "watering": {
         "text": "Same as Brandi — careful not to overwater after root rot history!",
         "intervalDays": 5,
-        "lastWatered": "2026-08-01"
+        "lastWatered": "2026-08-08"
       },
       "light": "Prefers shade — dining table position PERFECT!",
       "feeding": {
@@ -499,13 +499,21 @@
       "name": "Dolores",
       "emoji": "🐒",
       "musicianEmoji": "🎵",
-      "note": "From Sam (species TBD)."
+      "note": "MONSTERA!! 🐒 One tiny leaf. Being FOSTERED by Sam (Secret Agent Raspberry 🫐). Future STATEMENT PLANT next to the armchair! Can grow to 180cm+ = Crobat height!! Moist Bum Club when she arrives.",
+      "species": "Monstera",
+      "namedAfter": "Dolores O'Riordan (The Cranberries)",
+      "futureBumClub": "moist",
+      "futureLocation": "Living room, next to the armchair"
     },
     {
       "name": "Sade",
       "emoji": "🌵",
       "musicianEmoji": "🎵",
-      "note": "From Sam (species TBD)."
+      "note": "SUCCULENT PUP!! 🌵 Tiny baby. Being FOSTERED by Sam. Joins Stevie in the DRY BUM CLUB!! Same care, same succulent feed (same bottle!!).",
+      "species": "Succulent",
+      "namedAfter": "Sade",
+      "futureBumClub": "dry",
+      "futureLocation": "Bedroom windowsill with Stevie"
     },
     {
       "name": "Annie",
