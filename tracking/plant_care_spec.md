@@ -10,7 +10,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 
 ---
 
-## 🌿 THE PLANT FAMILY (as of Day 14 — 9th August 2026)
+## 🌿 THE PLANT FAMILY (as of Day 15 — 10th August 2026)
 
 ### 🌿🎸 STEVIE (+ Christine hiding!)
 - **Species:** Jade plant (Crassula ovata)
@@ -21,7 +21,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Watering:** Let dry out COMPLETELY between waterings. Chopstick test — must be dry ALL the way through, not just top. Every 2-3 weeks in summer, less in winter
 - **Light:** Bright indirect to direct light. Quarter turn every 2 weeks for even growth
 - **Feeding:** HALF strength CACTUS & SUCCULENT FEED (she has her own bottle!!) once a MONTH during growing season. Sept + Oct then STOP for winter. Succulents are light feeders — less is MORE
-- **Special:** Christine (baby) is hiding inside — future propagation! Morning greeting "Good morning Stevie" every day (Day 10 streak!)
+- **Special:** Christine (baby) is actually a SECOND PLANT growing in the same pot — future SPLIT not propagation! Morning greeting "Good morning Stevie" every day (Day 10 streak!)
 - **Notes:** Dry Bum Club PRESIDENT. Overwatering = root rot = death. When in doubt, DON'T water
 
 ### 💛🎶 JONI
@@ -30,10 +30,10 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Location:** Living room dining table
 - **Pot:** Yellow scalloped cover pot
 - **Bum Club:** MOIST BUM CLUB 🍑🧽 — moist soil, top dries between waterings, mist regularly
-- **Watering:** Let top inch dry out between waterings. Chopstick test. Bottom water preferred when established
+- **Watering:** Let top inch dry out between waterings. Chopstick test. Bottom water preferred when established. MIST regularly for humidity!
 - **Light:** Prefers FULL SHADE, tolerates partial sun. Dining table near (not AT) east window = PERFECT!
 - **Feeding:** Diluted liquid fertiliser every 2 weeks spring-autumn. First feed: early September (4-6 weeks after repot)
-- **Special:** 3 new leaves spotted! Starting to TRAIL! Will go to the OFFICE eventually. Most beautiful variegation — gold, green, cream
+- **Special:** 4 new leaves spotted (4th confirmed Day 15)! Starting to TRAIL! Will go to the OFFICE eventually. Most beautiful variegation — gold, green, cream
 - **Notes:** Separated from babies (Brandi + Janis). Growing like mad since separation. All energy going to OWN growth now
 
 ### 🌱🎸 BRANDI
@@ -57,7 +57,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Watering:** Same as Brandi — careful not to overwater after root rot history!
 - **Light:** Prefers shade — dining table position PERFECT!
 - **Feeding:** QUARTER strength fertiliser — she's a BABY! First feed: early September
-- **Special:** THE FIGHTER!! Had root rot, was snipped, went down to 2 leaves and a stump. NOW has a NEW LEAF unfurling!! 🌱🔥🎉 Going to LORRAINE eventually as a gift
+- **Special:** THE FIGHTER!! Had root rot, was snipped, went down to 2 leaves and a stump. NOW has a NEW LEAF — fully open, bright green!! 🌱🔥🎉 Going to LORRAINE eventually as a gift
 - **Notes:** Be EXTRA gentle. Don't disturb new growth. The comeback queen of Blackpool
 
 ### 🕷️🎵 PHOEBE
@@ -69,7 +69,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Watering:** Let dry between waterings. Chopstick test. Less frequent than pothos
 - **Light:** Indirect light, tolerates low light
 - **Feeding:** SENSITIVE to over-fertilising!! Every 4-6 WEEKS not every 2. Half strength. Brown tips = too much fertiliser! First feed: mid-September (skip the first round)
-- **Special:** 5 crispy bottom leaves removed Day 14. Will make BABIES (pups) eventually — future Julien and Lucy! Purifies bedroom air
+- **Special:** 5 crispy bottom leaves removed Day 14. New short leaves on top = NEW GROWTH Day 15! Will make BABIES (pups) eventually — future Julien and Lucy! Purifies bedroom air
 - **Notes:** Spider plants are drama queens about fertiliser. Less is MORE
 
 ### 💧🎵 ETTA
@@ -122,12 +122,12 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Named after:** Laura Pausini 🇮🇹🎵
 - **Location:** Kitchen windowsill (next to Tina!) ☀️🪟
 - **Pot:** Small grey nursery pot (consolidated from 4 pots into 1!)
-- **Bum Club:** WET BUM CLUB 🍑💧 (the ONLY member!)
-- **Watering:** CONSISTENTLY moist. Check soil DAILY — finger test top inch. If dry = water! Bottom water in lasagna dish = perfect. Never fully dry out. The OPPOSITE of every other plant!
-- **Light:** Loves light — kitchen windowsill is perfect
-- **Feeding:** Gentle basil feed during growing season. Same schedule as the others from September
+- **Bum Club:** MOIST BUM CLUB 🍑🧽 — moist but sensitive to overwatering! Bottom water ONLY!
+- **Watering:** Bottom water in LASAGNA DISH when top feels dry. NEVER top water (wet leaves = mould risk). She takes what she NEEDS from the bottom. Check DAILY — basil dries faster than pothos!
+- **Light:** Loves WEST or EAST facing windows — kitchen west-facing windowsill is PERFECT! App confirmed!
+- **Feeding:** DOESN'T NEED IT!! Can feed weekly for extra growth but over-fertilising = brown leaves. Sunshine says SKIP — she's growing new leaves WITHOUT it!
 - **Special:** Started as £1 Aldi basil with 15 stems in 4 pots. Natural selection reduced to 4 CHAMPION stems in 1 pot! New growth spotted Day 14! Pinch from the TOP to keep bushy. Cut any FLOWER BUDS immediately
-- **Notes:** The Head Chef's herb. Use in cooking! Will need daily water checks. The only WET BUM CLUB member. Named Day 14 — Italian herb = Italian singer
+- **Notes:** The Head Chef's herb. Use in cooking! Will need daily water checks. MOIST BUM CLUB member with extra attention. Named Day 14 — Italian herb = Italian singer
 
 ---
 
