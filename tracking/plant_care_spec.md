@@ -141,8 +141,8 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 
 | Club | Rule | Members |
 |------|------|---------|
-| 🍑🏜️ DRY BUM CLUB | Let dry out COMPLETELY between waterings | Stevie, IRIS, Søren, Perlite!! 🌞🌩️🪨 |
-| 🍑🧽 MOIST BUM CLUB | Moist soil, top dries between waterings, mist regularly | Tina, Joni, Brandi, Janis, Phoebe |
+| 🍑🏜️ DRY BUM CLUB | Let dry out COMPLETELY between waterings | Stevie, SADE (incoming!!), IRIS, Søren, Perlite!! 🌞🌩️🪨🌵 |
+| 🍑🧽 MOIST BUM CLUB | Moist soil, top dries between waterings, mist regularly | Tina, Joni, Brandi, Janis, Phoebe, DOLORES (incoming!!) |
 | 🍑💧 WET BUM CLUB | DISSOLVED!! No members!! Laura moved to Moist!! | 🚫 EMPTY 😂 |
 | 💧 WATER BABY | Lives in water, change every 2-3 days | Etta |
 
@@ -195,8 +195,10 @@ Full WEEK with no plant mum!! Who looks after the babies??
 
 ## 🌿 INCOMING PLANTS
 
-- 🐒🎵 DOLORES — from Sam (species TBD)
-- 🌵🎵 SADE — from Sam (species TBD)
+- 🐒🎵 DOLORES — **MONSTERA!!** Named after Dolores O'Riordan (The Cranberries 🇮🇪). Currently being FOSTERED by Sam (Secret Agent Raspberry 🫐). Has ONE tiny leaf — smaller than JANIS!! Will one day be the STATEMENT PLANT next to the armchair in the living room. Can grow to 180cm+ = could be as tall as the CROBAT!! Monsteras love shade + humidity = MOIST BUM CLUB when she arrives. Prefers indirect light, dining table area perfect. The most ICONIC houseplant there is — big split leaves are the DREAM.
+- 🌵🎵 SADE — **SUCCULENT PUP!!** Named after Sade (Smooth Operator 🎵). Currently being FOSTERED by Sam. Tiny baby — smaller than JANIS!! When she arrives she joins STEVIE in the DRY BUM CLUB!! 🍑🏜️🎉 Same care as Stevie — drought tolerant, water rarely, let dry completely, half strength SUCCULENT FEED (same bottle as Stevie!!). Stevie will no longer be the ONLY plant in the Dry Bum Club!!
+- 🌿 SAM gets BRANDI when she's strong enough — a SWAP of babies between plant friends!! 🌱🎸➡️🫐 Plants going BOTH ways. "A good plant mum doesn't hoard, she nurtures."
+- 🌱🔥 JANIS goes to LORRAINE when she's strong enough — the fighter goes to MUM!! Double Janis connection: named after Janis JOPLIN but Lorraine loves "At Seventeen" by Janis IAN!! Two Janises in one plant. 🌱🔥➡️👩🎵
 - 🎤🌿 ANNIE — Annie Lennox — dwarf snake plant for the HALLWAY shoe cupboard!! Low light queen! Could come from garden centre with Lorraine OR the rescue box post-surgery
 - 📦🏥 RESCUE BOX plants — October 2026 post-surgery
 
