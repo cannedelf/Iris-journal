@@ -122,7 +122,7 @@
       "watering": {
         "text": "Same as Joni but LESS water (smaller pot dries faster).",
         "intervalDays": 5,
-        "lastWatered": "2026-08-08"
+        "lastWatered": null
       },
       "light": "Prefers shade — dining table position PERFECT!",
       "feeding": {
