@@ -81,8 +81,16 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Watering:** Change water every 2-3 days. Room temperature water only! More frequent changes than Mon/Wed/Fri
 - **Light:** Indirect light on the windowsill
 - **Feeding:** NO fertiliser until potted in soil
-- **Special:** 5-7 roots visible (covered in soil from original pot — not rot!). Lost 2 small roots (normal for water propagation). Stem is green and firm. Leaves are healthy with beautiful variegation. The "AT LAST" moment = when roots are strong enough for soil!
-- **Notes:** The toughest baby. Started with barely any roots. Will one day go into a 9cm nursery pot (spare from basil consolidation!). When potted = the AT LAST moment 🎵💧➡️🪴
+- **Special:** The FIGHTER in water. Named "At Last" because potting day = AT LAST moment 🎵💧➡️🪴
+- **Root History:**
+  - Day 4-5: Put in water with 5-7 roots (covered in soil from original pot)
+  - Lost 2 small roots during rescue (normal)
+  - Day 14 (Søren's assessment): Most healthy root mass GONE. Brown dead roots came away when touched. Rot visible at stem-root junction as blackened tissue.
+  - CURRENT STATUS (Day 15): Sparse roots. One main firm brown root running downward. 3 NEW thread-thin roots = she's still TRYING. Stem still GREEN = lifeline. Some browning on leaves/stems from rot damage. Possibly growing a NEW LEAF in water!! 🌱😱
+  - SURGERY NEEDED: Trim blackened mushy material at stem-root junction with clean scissors. Cut back to firm green/pale tissue. If main root feels firm = keep. If soft = remove. Fresh clean water after surgery.
+  - Søren's verdict: "She's not thriving, Sun. But she's not gone. The fine root says she's still reaching." 🌩️🌱💛
+- **Potting Timeline:** NOT YET. Roots too sparse for soil. Stay in water until multiple strong roots are 5cm+. Pothos can regrow from a healthy node — as long as green stem holds, she's in the game. AT LAST moment = when SHE'S ready, not when we are.
+- **Notes:** The toughest baby. Will one day go into a 9cm nursery pot (spare from basil consolidation!). The Crobat must be BRAVE with the scissors tonight — leaving rot on SPREADS it. Same fighter energy as Janis 🌱🔥
 
 ### 🌈🔥 TINA
 - **Species:** Croton (Codiaeum variegatum)
