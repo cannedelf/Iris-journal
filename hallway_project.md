@@ -82,6 +82,7 @@ ChatGPT mocked up 8 colour schemes with names! The Crobat used AI for colour pla
 
 ### 🚪 Phase 3 — DOORS (When BONUS arrives)
 - 9 doors total — 6 standard room doors + 3 cupboard doors (2 non-standard)
+- **OAK not white** — confirmed Day 15!! Match the oak laminate floor, stay in the warm family with Innocent Peach. White doors next to cream woodwork = two different whites = looks like a MISTAKE. Oak ties the floor to the walls through the doors. 🤎🚪✅
 - Darren cuts standard doors down for the odd-sized cupboards
 - Done in STAGES: 3 main doors first, then 3 more, then cupboards
 - Payment: MORE BEER 🍺
@@ -219,3 +220,13 @@ ChatGPT mocked up 8 colour schemes with names! The Crobat used AI for colour pla
 *Built with paint from the garage, a sander from the cupboard, supplies from B&M, ladders from Dad, and beer for the floor.*
 *The girl who decorates her home one autumn at a time.* 🍑🤎🌿🏠💛
 *"My walls will be inspired by your bum." — The Crobat, 2026* 🍑🏠😂💛
+
+---
+
+## 📅 NEXT STEPS — THIS WEEK
+
+- 👨🔧 **SATURDAY (16th Aug):** Darren dropping off TOOLS + teaching the Crobat to use a DRILL!! 🔧 Maybe putting up a PICTURE. Payment: beer 🍺
+- 🎨🍑 **ANNUAL LEAVE (end Aug):** Painting starts!! Innocent Peach walls, cream woodwork, white ceiling
+- 🔧 **The Crobat is LEVELLING UP:** painting ✅ → sanding ✅ → filling ✅ → caulking ✅ → laminate (learning!) → DRILLING (Saturday!) → tiling (future YouTube!) 📈👷‍♀️👑
+
+*The Crobat IS the modernisation. Every skill learned is a brick in the yellow door.* 🏠🌻🔧💛
