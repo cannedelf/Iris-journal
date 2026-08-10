@@ -187,24 +187,25 @@ export const store = {
   },
 
   // --- care actions --------------------------------------------------------
-  waterPlant(id) {
+  // date: an ISO string ("2026-08-08"), or omit for today, or null to clear the log.
+  waterPlant(id, date) {
     const p = this.plant(id); if (!p) return Promise.resolve({ saved: false });
-    p.watering.lastWatered = isoDate(new Date());
+    p.watering.lastWatered = date === null ? null : (date || isoDate(new Date()));
     const verb = p.watering.label === 'Water change' ? 'Water changed' : 'Watered';
-    return this.commit(`${verb} ${p.name} 💧`);
+    return this.commit(date === null ? `Cleared ${p.name}'s watering` : `${verb} ${p.name} 💧`);
   },
 
-  feedPlant(id) {
+  feedPlant(id, date) {
     const p = this.plant(id); if (!p) return Promise.resolve({ saved: false });
-    p.feeding.lastFed = isoDate(new Date());
-    return this.commit(`Fed ${p.name} 🧴`);
+    p.feeding.lastFed = date === null ? null : (date || isoDate(new Date()));
+    return this.commit(date === null ? `Cleared ${p.name}'s feed` : `Fed ${p.name} 🧴`);
   },
 
-  mistPlant(id) {
+  mistPlant(id, date) {
     const p = this.plant(id); if (!p) return Promise.resolve({ saved: false });
     p.misting = p.misting || {};
-    p.misting.lastMisted = isoDate(new Date());
-    return this.commit(`Misted ${p.name} 💦`);
+    p.misting.lastMisted = date === null ? null : (date || isoDate(new Date()));
+    return this.commit(date === null ? `Cleared ${p.name}'s misting` : `Misted ${p.name} 💦`);
   },
 
   // --- growth log ----------------------------------------------------------

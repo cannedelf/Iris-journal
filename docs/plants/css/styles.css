@@ -312,6 +312,32 @@ code { background: var(--cream-2); padding: 1px 6px; border-radius: 6px; font-si
 .navbtn.active { color: var(--pink-deep); }
 .navbtn.active span { filter: none; opacity: 1; transform: translateY(-1px) scale(1.08); }
 
+/* ---------- date-picker sheet ---------- */
+.sheet-backdrop {
+  position: fixed; inset: 0; z-index: 70;
+  background: rgba(63, 58, 68, .42); backdrop-filter: blur(2px);
+  display: flex; align-items: flex-end; justify-content: center;
+  animation: fade .2s ease;
+}
+.sheet {
+  width: 100%; max-width: 560px; background: var(--card);
+  border-radius: 22px 22px 0 0; box-shadow: 0 -8px 30px rgba(63,58,68,.28);
+  padding: 10px 18px calc(20px + env(safe-area-inset-bottom));
+  animation: sheetup .25s cubic-bezier(.2,.9,.3,1);
+}
+@keyframes sheetup { from { transform: translateY(100%); } to { transform: none; } }
+.sheet-grab { width: 42px; height: 5px; border-radius: 999px; background: var(--line); margin: 4px auto 12px; }
+.sheet h3 { margin: 0 0 4px; font-size: 17px; }
+.sheet input[type=date] {
+  width: 100%; font-family: inherit; font-size: 17px; font-weight: 700; color: var(--ink);
+  background: var(--card); border: 1.5px solid var(--line); border-radius: 14px; padding: 13px 14px; margin: 6px 0 10px;
+}
+.sheet input[type=date]:focus { outline: 2px solid var(--pink); border-color: var(--pink); }
+.sheet-quick { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+.chip-btn { border: 1.5px solid var(--line); background: var(--cream); color: var(--ink); border-radius: 999px; padding: 8px 13px; font-weight: 800; font-size: 12.5px; }
+.chip-btn:active { background: var(--pink-soft); border-color: #e6b9cf; color: var(--pink-deep); }
+.sheet-row { display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-top: 8px; }
+
 /* ---------- toast ---------- */
 .toast {
   position: fixed; left: 50%; bottom: 88px; transform: translateX(-50%) translateY(20px);

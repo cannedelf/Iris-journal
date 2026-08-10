@@ -26,6 +26,7 @@ const state = {
   adding: false,       // the Add-plant form is open
   draft: null,         // in-progress new-plant fields (survives form re-renders)
   pendingPhoto: null,  // resized data URL waiting to attach to a growth note
+  sheet: null,         // date-picker sheet: { kind: 'water'|'feed'|'mist', plantId }
 };
 
 // Suggested watering interval (days) by bum club — prefilled on the add form.
@@ -491,6 +492,43 @@ function settingsView() {
   </section>`;
 }
 
+// ---- date-picker sheet for logging water / feed / mist ----
+function sheetHTML() {
+  if (!state.sheet) return '';
+  const { kind, plantId } = state.sheet;
+  const p = store.plant(plantId);
+  if (!p) return '';
+  const t = todayISO();
+  const isChange = kind === 'water' && p.watering.label === 'Water change';
+  const conf = {
+    water: { emoji: '💧', title: isChange ? `When did you change ${p.name}'s water?` : `When did you water ${p.name}?`,
+             cur: p.watering.lastWatered, clear: 'Not done yet' },
+    feed:  { emoji: '🧴', title: `When did you feed ${p.name}?`, cur: p.feeding.lastFed, clear: 'Not fed yet' },
+    mist:  { emoji: '💦', title: `When did you mist ${p.name}?`, cur: (p.misting || {}).lastMisted, clear: 'Not misted yet' },
+  }[kind];
+  const val = conf.cur || t;
+  return `
+  <div class="sheet-backdrop" data-sheet-cancel>
+    <div class="sheet" role="dialog">
+      <div class="sheet-grab"></div>
+      <h3>${conf.emoji} ${esc(conf.title)}</h3>
+      <p class="hint">Pick the day it actually happened — defaults to today.</p>
+      <input id="sheetDate" type="date" max="${t}" value="${esc(val)}">
+      <div class="sheet-quick">
+        <button class="chip-btn" data-sheet-day="0">Today</button>
+        <button class="chip-btn" data-sheet-day="1">Yesterday</button>
+        <button class="chip-btn" data-sheet-day="2">2 days ago</button>
+        <button class="chip-btn" data-sheet-day="3">3 days ago</button>
+      </div>
+      <button id="sheetSave" class="primary big-save">${conf.emoji} Save date</button>
+      <div class="sheet-row">
+        <button id="sheetClear" class="ghost">🚫 ${esc(conf.clear)}</button>
+        <button id="sheetCancel" class="ghost">Cancel</button>
+      </div>
+    </div>
+  </div>`;
+}
+
 // =====================================================================
 //  RENDER + ROUTER
 // =====================================================================
@@ -499,9 +537,9 @@ const VIEWS = { home: homeView, today: todayView, feeding: feedingView, cruise: 
 
 function render() {
   if (!store.data) return;
-  $('#app').innerHTML = state.adding ? addView()
+  $('#app').innerHTML = (state.adding ? addView()
     : (state.view === 'home' && state.plantId) ? plantView(state.plantId)
-    : (VIEWS[state.view] || homeView)();
+    : (VIEWS[state.view] || homeView)()) + sheetHTML();
   document.querySelectorAll('.navbtn').forEach(b =>
     b.classList.toggle('active', b.dataset.view === state.view));
   refreshStatus();
@@ -522,8 +560,17 @@ function wire() {
 }
 
 async function onAppClick(e) {
-  const t = e.target.closest('[data-plant],[data-go],[data-back-home],[data-morning],[data-water],[data-feed],[data-mist],[data-glog-del],[data-add],[data-cancel-add],[data-club],[data-toggle],[data-remove-plant],#btnGrow,#btnAddPlant,#setSave,#setResync,#dlBackup');
+  // Tapping the dark backdrop (but not the sheet itself) closes the sheet.
+  if (state.sheet && e.target.classList && e.target.classList.contains('sheet-backdrop')) return closeSheet();
+
+  const t = e.target.closest('[data-plant],[data-go],[data-back-home],[data-morning],[data-water],[data-feed],[data-mist],[data-glog-del],[data-add],[data-cancel-add],[data-club],[data-toggle],[data-remove-plant],[data-sheet-day],#sheetSave,#sheetClear,#sheetCancel,#btnGrow,#btnAddPlant,#setSave,#setResync,#dlBackup');
   if (!t) return;
+
+  // Date-picker sheet
+  if (t.id === 'sheetSave') return onSheetSave();
+  if (t.id === 'sheetClear') return onSheetClear();
+  if (t.id === 'sheetCancel') return closeSheet();
+  if (t.dataset.sheetDay != null) return onSheetQuick(+t.dataset.sheetDay);
 
   if (t.hasAttribute('data-add')) return openAdd();
   if (t.hasAttribute('data-cancel-add')) { state.adding = false; state.draft = null; return render(); }
@@ -536,9 +583,9 @@ async function onAppClick(e) {
   if (t.dataset.go) return go(t.dataset.go);
   if (t.hasAttribute('data-back-home')) { state.plantId = null; state.pendingPhoto = null; return render(); }
   if (t.hasAttribute('data-morning')) return onMorning();
-  if (t.dataset.water) return onWater(t.dataset.water);
-  if (t.dataset.feed) return onFeed(t.dataset.feed);
-  if (t.dataset.mist) return onMist(t.dataset.mist);
+  if (t.dataset.water) return openSheet('water', t.dataset.water);
+  if (t.dataset.feed) return openSheet('feed', t.dataset.feed);
+  if (t.dataset.mist) return openSheet('mist', t.dataset.mist);
   if (t.dataset.glogDel != null) return onGrowDel(+t.dataset.glogDel);
   if (t.id === 'btnGrow') return onGrowAdd();
   if (t.id === 'setSave') return onTokenSave();
@@ -555,9 +602,33 @@ async function onMorning() {
   if (res && res.saved && !res.already) toast(sunshineLine('streak'), 'ok');
   render();
 }
-async function onWater(id) { await save(store.waterPlant(id), 'Logged 💧'); render(); }
-async function onFeed(id) { await save(store.feedPlant(id), 'Fed 🧴'); render(); }
-async function onMist(id) { await save(store.mistPlant(id), 'Misted 💦'); render(); }
+
+// Tapping a care button opens the date sheet instead of stamping "today" outright.
+function openSheet(kind, id) { state.sheet = { kind, plantId: id }; render(); }
+function closeSheet() { state.sheet = null; render(); }
+
+async function onSheetSave() {
+  if (!state.sheet) return;
+  const { kind, plantId } = state.sheet;
+  const el = $('#sheetDate');
+  const date = (el && el.value) || todayISO();
+  const fn = kind === 'water' ? store.waterPlant : kind === 'feed' ? store.feedPlant : store.mistPlant;
+  state.sheet = null;
+  await save(fn.call(store, plantId, date), 'Saved 🌿');
+  render();
+}
+async function onSheetClear() {
+  if (!state.sheet) return;
+  const { kind, plantId } = state.sheet;
+  const fn = kind === 'water' ? store.waterPlant : kind === 'feed' ? store.feedPlant : store.mistPlant;
+  state.sheet = null;
+  await save(fn.call(store, plantId, null), 'Cleared — nothing logged');
+  render();
+}
+function onSheetQuick(daysAgo) {
+  const el = $('#sheetDate');
+  if (el) el.value = isoDate(new Date(Date.now() - daysAgo * 86400000));
+}
 
 // ---- add-plant handlers ----
 function onClubPick(key) {
