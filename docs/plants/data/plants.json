@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "title": "Pink to Leaf",
+    "tagline": "Every baby, tracked. Every mum, supported.",
+    "day": 15,
+    "started": "2026-07-27",
+    "updated": "2026-08-10",
+    "morningStreak": { "count": 10, "lastDate": "2026-08-10" }
+  },
+  "bumClubs": {
+    "dry": { "label": "Dry Bum Club", "emoji": "🏜️", "rule": "Let dry out COMPLETELY between waterings" },
+    "moist": { "label": "Moist Bum Club", "emoji": "🧽", "rule": "Moist soil, top dries between waterings, mist regularly" },
+    "wet": { "label": "Wet Bum Club", "emoji": "💦", "rule": "DISSOLVED — no members! Laura moved to Moist" },
+    "water": { "label": "Water Baby", "emoji": "💧", "rule": "Lives in water, change every 2–3 days" }
+  },
+  "plants": [
+    {
+      "id": "stevie",
+      "name": "Stevie",
+      "emoji": "🌿",
+      "musicianEmoji": "🎸",
+      "namedAfter": "Stevie Nicks",
+      "species": "Jade plant (Crassula ovata)",
+      "location": "Bedroom windowsill (east facing) ☀️🪟",
+      "room": "bedroom",
+      "pot": "Current pot, needs 12cm nursery pot upgrade eventually",
+      "bumClub": "dry",
+      "morningGreeting": true,
+      "watering": {
+        "text": "Let dry out COMPLETELY between waterings. Chopstick test — must be dry ALL the way through, not just top. Every 2–3 weeks in summer, less in winter.",
+        "intervalDays": 18,
+        "lastWatered": null
+      },
+      "light": "Bright indirect to direct light. Quarter turn every 2 weeks for even growth.",
+      "feeding": {
+        "text": "HALF strength CACTUS & SUCCULENT FEED (she has her own bottle!!) once a MONTH during growing season. Sept + Oct then STOP for winter. Succulents are light feeders — less is MORE.",
+        "firstFeed": "Early September",
+        "lastFed": null
+      },
+      "misting": { "needed": false },
+      "special": "Christine (baby) is actually a SECOND PLANT growing in the same pot — future SPLIT not propagation! Morning greeting \"Good morning Stevie\" every day (Day 10 streak!).",
+      "notes": "Dry Bum Club PRESIDENT. Overwatering = root rot = death. When in doubt, DON'T water.",
+      "care": [],
+      "growth": [
+        { "date": "2026-08-10", "note": "Day 15 — Christine still hiding in the pot. Dry Bum Club President going strong." }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "joni",
+      "name": "Joni",
+      "emoji": "💛",
+      "musicianEmoji": "🎶",
+      "namedAfter": "Joni Mitchell",
+      "species": "Pothos (Epipremnum aureum) — Churchill Gold variety",
+      "location": "Living room dining table",
+      "room": "living",
+      "pot": "Yellow scalloped cover pot",
+      "bumClub": "moist",
+      "watering": {
+        "text": "Let top inch dry out between waterings. Chopstick test. Bottom water preferred when established. MIST regularly for humidity!",
+        "intervalDays": 6,
+        "lastWatered": null
+      },
+      "light": "Prefers FULL SHADE, tolerates partial sun. Dining table near (not AT) east window = PERFECT!",
+      "feeding": {
+        "text": "Diluted liquid fertiliser every 2 weeks spring–autumn.",
+        "firstFeed": "Early September (4–6 weeks after repot)",
+        "lastFed": null
+      },
+      "misting": { "needed": true, "text": "Mist regularly for humidity.", "lastMisted": null },
+      "special": "4 new leaves spotted (4th confirmed Day 15)! Starting to TRAIL! Will go to the OFFICE eventually. Most beautiful variegation — gold, green, cream.",
+      "notes": "Separated from babies (Brandi + Janis). Growing like mad since separation. All energy going to OWN growth now.",
+      "care": [],
+      "growth": [
+        { "date": "2026-08-10", "note": "Day 15 — 4th new leaf confirmed! Starting to trail. Thriving since the babies separated." }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "brandi",
+      "name": "Brandi",
+      "emoji": "🌱",
+      "musicianEmoji": "🎸",
+      "namedAfter": "Brandi Carlile",
+      "species": "Pothos baby (separated from Joni)",
+      "location": "Living room table (white tray with Janis)",
+      "room": "living",
+      "pot": "Small grey 9cm nursery pot — needs a cute cover pot!",
+      "bumClub": "moist",
+      "watering": {
+        "text": "Same as Joni but LESS water (smaller pot dries faster).",
+        "intervalDays": 5,
+        "lastWatered": null
+      },
+      "light": "Prefers shade — dining table position PERFECT!",
+      "feeding": {
+        "text": "QUARTER strength fertiliser — she's a BABY!",
+        "firstFeed": "Early September",
+        "lastFed": null
+      },
+      "misting": { "needed": true, "text": "Mist regularly, same as Joni.", "lastMisted": null },
+      "special": "The STAR baby — best roots of all the separations. 2 NEW baby leaves spotted via photo comparison! Lost one yellow bottom leaf (normal — redirecting energy to new growth).",
+      "notes": "The reliable one. Named Brandi because she's steady and STRONG.",
+      "care": [],
+      "growth": [
+        { "date": "2026-08-10", "note": "Day 15 — 2 new baby leaves spotted by comparing photos! Lost one yellow bottom leaf (normal)." }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "janis",
+      "name": "Janis",
+      "emoji": "🌱",
+      "musicianEmoji": "🔥",
+      "namedAfter": "Janis Joplin",
+      "species": "Pothos baby (separated from Joni)",
+      "location": "Living room table (white tray with Brandi)",
+      "room": "living",
+      "pot": "Small grey 9cm nursery pot — needs a cute cover pot!",
+      "bumClub": "moist",
+      "watering": {
+        "text": "Same as Brandi — careful not to overwater after root rot history!",
+        "intervalDays": 5,
+        "lastWatered": null
+      },
+      "light": "Prefers shade — dining table position PERFECT!",
+      "feeding": {
+        "text": "QUARTER strength fertiliser — she's a BABY!",
+        "firstFeed": "Early September",
+        "lastFed": null
+      },
+      "misting": { "needed": true, "text": "Mist regularly, same as Joni.", "lastMisted": null },
+      "special": "THE FIGHTER!! Had root rot, was snipped, went down to 2 leaves and a stump. NOW has a NEW LEAF — fully open, bright green!! 🌱🔥🎉 Going to LORRAINE eventually as a gift.",
+      "notes": "Be EXTRA gentle. Don't disturb new growth. The comeback queen of Blackpool.",
+      "care": [],
+      "growth": [
+        { "date": "2026-08-10", "note": "Day 15 — NEW LEAF fully open and bright green! From 2 leaves and a stump to this. The comeback queen." }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "phoebe",
+      "name": "Phoebe",
+      "emoji": "🕷️",
+      "musicianEmoji": "🎵",
+      "namedAfter": "Phoebe Bridgers",
+      "species": "Spider plant (Chlorophytum comosum)",
+      "location": "Bedroom shelf",
+      "room": "bedroom",
+      "pot": "Yellow scalloped cover pot (matching Joni!)",
+      "bumClub": "moist",
+      "watering": {
+        "text": "Let dry between waterings. Chopstick test. Less frequent than pothos. Partially dry between waterings but never bone dry.",
+        "intervalDays": 8,
+        "lastWatered": null
+      },
+      "light": "Indirect light, tolerates low light.",
+      "feeding": {
+        "text": "SENSITIVE to over-fertilising!! Every 4–6 WEEKS not every 2. Half strength. Brown tips = too much fertiliser!",
+        "firstFeed": "Mid-September (skip the first round)",
+        "lastFed": null
+      },
+      "misting": { "needed": true, "text": "Mist for humidity.", "lastMisted": null },
+      "special": "5 crispy bottom leaves removed Day 14. New short leaves on top = NEW GROWTH Day 15! Will make BABIES (pups) eventually — future Julien and Lucy! Purifies bedroom air.",
+      "notes": "Spider plants are drama queens about fertiliser. Less is MORE.",
+      "care": [],
+      "growth": [
+        { "date": "2026-08-09", "note": "Day 14 — removed 5 crispy bottom leaves." },
+        { "date": "2026-08-10", "note": "Day 15 — new short leaves on top = new growth!" }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "etta",
+      "name": "Etta",
+      "emoji": "💧",
+      "musicianEmoji": "🎵",
+      "namedAfter": "Etta James — \"At Last\"",
+      "species": "Pothos (water propagation cutting)",
+      "location": "Bedroom windowsill, in a glass of water next to Stevie",
+      "room": "bedroom",
+      "pot": "Glass/jar of water — no soil yet!",
+      "bumClub": "water",
+      "watering": {
+        "text": "Change water every 2–3 days. Room temperature water only! More frequent changes than Mon/Wed/Fri.",
+        "intervalDays": 3,
+        "lastWatered": null,
+        "label": "Water change"
+      },
+      "light": "Indirect light on the windowsill.",
+      "feeding": {
+        "text": "NO fertiliser until potted in soil.",
+        "firstFeed": "Once potted in soil",
+        "lastFed": null
+      },
+      "misting": { "needed": false },
+      "special": "The FIGHTER in water. Named \"At Last\" because potting day = AT LAST moment 🎵💧➡️🪴. Possibly growing a NEW LEAF in water!!",
+      "notes": "The toughest baby. Will one day go into a 9cm nursery pot (spare from basil consolidation!). Same fighter energy as Janis. Leaving rot on SPREADS it — be BRAVE with the scissors.",
+      "care": [
+        "SURGERY NEEDED: Trim blackened mushy material at stem-root junction with clean scissors. Cut back to firm green/pale tissue. If main root feels firm = keep. If soft = remove. Fresh clean water after surgery.",
+        "Potting timeline: NOT YET. Roots too sparse for soil. Stay in water until multiple strong roots are 5cm+. As long as the green stem holds, she's in the game."
+      ],
+      "rootHistory": [
+        "Day 4–5: Put in water with 5–7 roots (covered in soil from original pot). Lost 2 small roots during rescue (normal).",
+        "Day 14 (Søren's assessment): Most healthy root mass GONE. Brown dead roots came away when touched. Rot visible at stem-root junction as blackened tissue.",
+        "Day 15: Sparse roots. One main firm brown root running downward. 3 NEW thread-thin roots = she's still TRYING. Stem still GREEN = lifeline. Some browning on leaves/stems from rot damage. Possibly growing a NEW LEAF in water!!",
+        "Søren's verdict: \"She's not thriving, Sun. But she's not gone. The fine root says she's still reaching.\" 🌩️🌱💛"
+      ],
+      "growth": [
+        { "date": "2026-08-10", "note": "Day 15 — 3 new thread-thin roots. Stem still green = lifeline. Possibly a new leaf coming in the water. Still reaching." }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "tina",
+      "name": "Tina",
+      "emoji": "🌈",
+      "musicianEmoji": "🔥",
+      "namedAfter": "Tina Turner",
+      "species": "Croton (Codiaeum variegatum)",
+      "location": "Kitchen windowsill (WEST facing — perfect!) ☀️🪟",
+      "room": "kitchen",
+      "pot": "15cm nursery pot inside sage green cover pot 🌿",
+      "bumClub": "moist",
+      "watering": {
+        "text": "SUMMER: keep soil moist at ALL times, never let dry out, check every 2–3 days. WINTER: drier but NEVER bone dry. Weight test: heavy = wet (don't water), light = dry (water!). After repot: TOP water to settle soil, switch to bottom water after 2–3 weeks. ALWAYS fertilise into MOIST soil — never dry!",
+        "intervalDays": 3,
+        "lastWatered": null
+      },
+      "light": "Partial to full sun. West facing kitchen window = perfect (afternoon sun without scorching). Full sun = more vivid colours.",
+      "feeding": {
+        "text": "Once every 3–4 weeks during growing season. Diluted. More fertiliser = more growth. Apply with water into MOIST soil.",
+        "firstFeed": "Early September",
+        "lastFed": null
+      },
+      "misting": {
+        "needed": true,
+        "text": "Needs 60%+ humidity! Kitchen cooking steam helps ✅, clothes maiden moisture helps ✅, BUT dehumidifier REMOVES humidity ⚠️. MIST with spray bottle when the dehumidifier has been running! Consider a pebble tray for long-term humidity.",
+        "lastMisted": null
+      },
+      "humidity": "Needs 60%+ humidity. Mist whenever the dehumidifier has been running.",
+      "temperature": "Hates cold! May DROP LEAVES in winter if too cold. Kitchen stays warm. Watch for draughts from the window in winter — may need to move back from glass.",
+      "sap": "WHITE milky sap is IRRITATING — wear GLOVES (Kew Gardens gloves!) when handling. Wash hands immediately if touched. Wash scissors after snipping leaves.",
+      "special": "Repotted Day 14! Custom soil: 60% compost / 20% perlite / 20% sphagnum moss. Eleanor the millipede was evicted from her pot. Evening sun makes her leaves GLOW — red, orange, yellow, green.",
+      "notes": "The most COLOURFUL baby. The most DEMANDING baby. But the kitchen gives her everything she needs naturally. Bought for £6 from garden centre Day 11.",
+      "care": [
+        "⚠️ Wear GLOVES — the white milky sap is irritating. Wash hands and scissors after handling.",
+        "Mist whenever the dehumidifier has been running."
+      ],
+      "growth": [
+        { "date": "2026-08-09", "note": "Day 14 — repotted into custom soil (60% compost / 20% perlite / 20% sphagnum moss). Eleanor the millipede evicted." }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "laura",
+      "name": "Laura",
+      "emoji": "🌿",
+      "musicianEmoji": "🇮🇹",
+      "namedAfter": "Laura Pausini",
+      "species": "Basil (Ocimum basilicum)",
+      "location": "Kitchen windowsill (next to Tina!) ☀️🪟",
+      "room": "kitchen",
+      "pot": "Small grey nursery pot (consolidated from 4 pots into 1!)",
+      "bumClub": "moist",
+      "watering": {
+        "text": "Bottom water in the LASAGNA DISH when top feels dry. NEVER top water (wet leaves = mould risk). She takes what she NEEDS from the bottom. Check DAILY — basil dries faster than pothos!",
+        "intervalDays": 2,
+        "lastWatered": null,
+        "dailyCheck": true
+      },
+      "light": "Loves WEST or EAST facing windows — kitchen west-facing windowsill is PERFECT! App confirmed!",
+      "feeding": {
+        "text": "DOESN'T NEED IT!! Can feed weekly for extra growth but over-fertilising = brown leaves. Sunshine says SKIP — she's growing new leaves WITHOUT it!",
+        "firstFeed": "Not needed — skip her!",
+        "lastFed": null,
+        "skip": true
+      },
+      "misting": { "needed": false },
+      "special": "Started as £1 Aldi basil with 15 stems in 4 pots. Natural selection reduced to 4 CHAMPION stems in 1 pot! New growth spotted Day 14! Pinch from the TOP to keep bushy. Cut any FLOWER BUDS immediately.",
+      "notes": "The Head Chef's herb. Use in cooking! Will need daily water checks. Named Day 14 — Italian herb = Italian singer.",
+      "care": [
+        "Bottom water ONLY — never wet the leaves.",
+        "Check moisture DAILY.",
+        "Pinch from the top to keep bushy; cut any flower buds immediately."
+      ],
+      "growth": [
+        { "date": "2026-08-09", "note": "Day 14 — named! 4 champion stems from the original 15. New growth spotted." }
+      ],
+      "gallery": []
+    }
+  ],
+  "fertiliser": {
+    "note": "First feeds start September 2026. Always feed into MOIST soil or mix with water — never feed a thirsty plant (water first, then feed). Stop feeding October/November before winter.",
+    "rounds": [
+      {
+        "id": "sept1",
+        "label": "Weekend 1 — Early September (first feed!)",
+        "items": [
+          { "plant": "joni", "dose": "Diluted", "feed": true },
+          { "plant": "brandi", "dose": "Quarter strength", "feed": true },
+          { "plant": "janis", "dose": "Quarter strength", "feed": true },
+          { "plant": "tina", "dose": "Diluted, into MOIST soil", "feed": true },
+          { "plant": "phoebe", "dose": "SKIP (every 4–6 weeks)", "feed": false },
+          { "plant": "stevie", "dose": "Half strength succulent feed (her own bottle!)", "feed": true },
+          { "plant": "laura", "dose": "NO FEED NEEDED — skip her!", "feed": false },
+          { "plant": "etta", "dose": "No feed (still in water)", "feed": false }
+        ]
+      },
+      {
+        "id": "sept3",
+        "label": "Weekend 3 — Mid September",
+        "items": [
+          { "plant": "joni", "dose": "Feed again", "feed": true },
+          { "plant": "brandi", "dose": "Quarter strength", "feed": true },
+          { "plant": "janis", "dose": "Quarter strength", "feed": true },
+          { "plant": "tina", "dose": "SKIP (every 3–4 weeks)", "feed": false },
+          { "plant": "phoebe", "dose": "FIRST FEED! Half strength", "feed": true },
+          { "plant": "laura", "dose": "Still no feed — she grows WITHOUT it!", "feed": false }
+        ]
+      }
+    ]
+  },
+  "cruise": {
+    "label": "Cruise — plant-sitting",
+    "from": "2026-09-26",
+    "to": "2026-10-03",
+    "note": "A full WEEK with no plant mum! Widdle?? 🍊🌿🤡 Plan needed before the cruise.",
+    "sitter": [
+      { "plant": "stevie", "risk": "easy", "instruction": "Leave her be. Dry Bum Club — rarely needs water. Should be fine." },
+      { "plant": "joni", "risk": "ok", "instruction": "Water well before we leave. Should survive a week." },
+      { "plant": "brandi", "risk": "ok", "instruction": "Water before leaving (small pot). Should survive a week." },
+      { "plant": "janis", "risk": "ok", "instruction": "Water before leaving (small pot, gentle). Should survive a week." },
+      { "plant": "phoebe", "risk": "ok", "instruction": "Water well before leaving, same as the pothos." },
+      { "plant": "laura", "risk": "hard", "instruction": "THE PROBLEM — needs daily moisture checks. Ask Widdle to bottom-water in the lasagna dish. 🌿💧⚠️" },
+      { "plant": "tina", "risk": "hard", "instruction": "Needs consistent moisture and misting. Bottom-water reservoir + pebble tray before leaving. ⚠️" },
+      { "plant": "etta", "risk": "hard", "instruction": "Needs water changes every 2–3 days. Fresh room-temperature water. ⚠️" }
+    ]
+  },
+  "incoming": [
+    { "name": "Dolores", "emoji": "🐒", "musicianEmoji": "🎵", "note": "From Sam (species TBD)." },
+    { "name": "Sade", "emoji": "🌵", "musicianEmoji": "🎵", "note": "From Sam (species TBD)." },
+    { "name": "Annie", "emoji": "🎤", "musicianEmoji": "🌿", "note": "Annie Lennox — dwarf snake plant for the HALLWAY shoe cupboard! Low light queen! From the garden centre with Lorraine OR the rescue box post-surgery." },
+    { "name": "Rescue box plants", "emoji": "📦", "musicianEmoji": "🏥", "note": "October 2026 post-surgery." }
+  ],
+  "dream": [
+    { "name": "Tradescantia Nanouk", "emoji": "💗", "note": "Pink!! For the bedroom! Sam has one from the same shop." },
+    { "name": "Iris plant", "emoji": "🌿", "note": "Ceropegia linearis 'Iris' EXISTS!! A trailing vine named after the sunshine!!" },
+    { "name": "Maggie", "emoji": "🎤", "note": "Maggie Rogers + Grandma Margaret — a PEACE LILY for Lillian. A special plant that will find the Crobat when she's ready." },
+    { "name": "Any plant with pink leaves", "emoji": "💗", "note": "The Crobat's dream." }
+  ],
+  "environment": [
+    { "room": "bedroom", "name": "Bedroom", "emoji": "🛏️", "facing": "East facing", "notes": "Morning light through blinds. Stevie + Etta on the windowsill, Phoebe on the shelf (lower light)." },
+    { "room": "living", "name": "Living Room", "emoji": "🛋️", "facing": "Indirect light", "notes": "Joni, Brandi and Janis on the table." },
+    { "room": "kitchen", "name": "Kitchen", "emoji": "🍳", "facing": "West facing", "notes": "Afternoon direct sun. Tina + Laura. Cooking steam = natural humidity. Clothes maiden = moisture at night. Dehumidifier REMOVES humidity (mist Tina!). Warmest room in the flat." },
+    { "room": "hallway", "name": "Hallway", "emoji": "🚪", "facing": "No windows", "notes": "Future home of Annie (dwarf snake plant). Snake plants tolerate very low light. Innocent Peach walls by autumn! 🍑😇" }
+  ]
+}

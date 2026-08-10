@@ -2,6 +2,12 @@
 ## For Claude Code to build
 ## "Every baby, tracked. Every mum, supported." 🌿🤲💛
 
+> ✅ **Built!** The app lives at `docs/plants/` — home cards colour-coded by Bum Club,
+> per-plant pages with water/feed/mist logging, a photo growth log, the September
+> fertiliser schedule, a Today reminders screen and a Cruise/Away plant-sitter mode.
+> Set-up in `docs/plants/SETUP.md`. Runs at `.../iris-journal/plants/` on the same
+> GitHub Pages site, sharing the other apps' auto-save token. 🌿💗
+
 ---
 
 ## 🎯 PURPOSE
