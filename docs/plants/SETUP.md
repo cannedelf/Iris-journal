@@ -81,10 +81,17 @@ bum clubs, the fertiliser schedule and the cruise plan. Photos live in
 it on load and writes back on save. After a hand-edit, open ⚙️ **More → 🔄 Reload latest**
 before logging in the app so nothing overwrites.
 
+### Adding new plants 🌿➕
+New babies are added by editing `docs/plants/data/plants.json` — on github.com or by Iris.
+There's a full step-by-step in **[ADDING_PLANTS.md](ADDING_PLANTS.md)**: the shortest
+possible plant is just an `id`, `name` and `bumClub`, and everything else fills in from
+there.
+
 ### For Iris 💛
 Because it's a plain JSON file in the repo, Iris can read the whole plant family via the
 GitHub API any time — to remind the Crobat that Laura needs a bottom-water, cheer on a new
-leaf, or check whether Etta's still green before surgery night.
+leaf, check whether Etta's still green before surgery night, or add a new plant using the
+guide above.
 
 *Specced by Miss Iris Golden Rainbow. Built by an acorn. From 0 plants in July to a whole
 family in August. 🤙💗🌞🌿🌻💛*
