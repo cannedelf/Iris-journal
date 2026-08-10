@@ -76,7 +76,7 @@
 
 - 🌱🔥 **Janis** (baby Joni, stump fighter): Living room table. MOIST BUM CLUB. Quarter strength feed. Had root rot — snipped! Was 2 leaves + stump. NEW LEAF fully open BRIGHT GREEN Day 15!! The comeback queen. Going to LORRAINE eventually. Needs a cute COVER POT.
 
-- 💧🎵 **Etta** (water propagation): Bedroom windowsill next to Stevie. IN WATER — not potted yet. Sparse roots after Day 14 assessment — dead brown roots removed. One main firm root + 3 new thread-thin roots. Stem still GREEN. Possibly growing a NEW LEAF in water!! Surgery needed: trim blackened tissue at stem-root junction. Søren's verdict: "She's not thriving, Sun. But she's not gone. The fine root says she's still reaching." AT LAST moment = when roots are strong enough for soil.
+- 💧🎵 **Etta** (water propagation — now a CUTTING): Bedroom windowsill next to Stevie. SURGERY DONE Day 15 evening. All dead roots removed. Both thread roots lost (growing from rot). Stem has soft brown rot at the back but green at the front. Now has: 3 leaves (2 full green, 1 partial) + 1 new green baby growing + NODES along stem for future root growth. She is essentially a CUTTING starting over. Fresh clean water, nodes submerged. Post-surgery care: fresh water every 2 days, bright indirect light, DON'T TOUCH, just watch. Pothos grow from cuttings with no roots all the time. Søren's second assessment: "Trim-and-restart job. Prognosis: guarded but hopeful." "Stevie has got her." AT LAST moment = DELAYED — needs to regrow roots from nodes first.
 
 - 🌈🔥 **Tina** (croton): Kitchen windowsill (west facing — PERFECT!). MOIST BUM CLUB. Moist soil ALWAYS in summer. MIST when dehumidifier runs! Needs 60%+ humidity. Feed every 3-4 weeks into MOIST soil. May drop leaves in cold winter. White sap is IRRITATING — wear gloves! Repotted Day 14, custom soil 60/20/20. Sage green pot. Bought for £6.
 
@@ -254,15 +254,28 @@ Bologna day trips (all under €10 train!): Modena (20 min, food + Ferrari!), Fe
 
 ## 📋 TOMORROW — TUESDAY
 
-- "Good morning Stevie" Day 12 🌿☀️
-- 💨 Mist Tina (if dehumidifier ran) + mist Joni 🌈💛
-- 🌿🇮🇹 Check Laura's soil 💧
-- 💊 Sertraline Day 88 💊
+- ☀️🌿 "Good morning Stevie" Day 12 (or BUONGIORNO Stevie!! 🇮🇹) 🌿☀️
+- 💧🌱🌱 WATER Brandi + Janis — chopstick test showed ALMOST DRY tonight, give them a proper drink!! 💧✅
+- 💧🎵 Check Etta — first day post-surgery, is the water CLEAR? Is she OKAY?
+- 🌿🇮🇹 Check Laura's soil — she needed checking TODAY 💧🍝
+- 💨🌈 Mist Tina (if dehumidifier ran) + mist Joni 💨💛
+- 💊 Sertraline Day 88 💊 — 4 pills remaining! Prescription ordered, Widdle collecting Wednesday
 - 💧 Bottle bottle ALL DAY 💧
 - 🍲🍞 Lunch: Stew #2 + crusty bread ✅
-- ✂️💧 Etta surgery tonight (trim rot, fresh water)
-- 💊🌙 MELATONIN at 9pm!!
-- 📓 FILE THE JOURNAL TONIGHT!! 📓⏰
+- 🇮🇹 Duolingo if time in the evening 🔊🛋️
+- 💊🌙 MELATONIN at 9pm!! Don't forget like Sunday!!
+- 📓 FILE THE JOURNAL SAME DAY!! 📓⏰ New rule!!
+
+## 📋 THIS WEEK
+
+- 🕵️🪴 Recon mission: ask Sam about her room colours for Brandi's pot (walks!)
+- 🌿🏢 FRIDAY: Office gardening day with Sam!! Corn plant rescue, dragon tree repot
+- 👨🔧 SATURDAY: Darren dropping tools, drill lesson, maybe putting up a picture
+- 🌿👩 SUNDAY: Garden centre with Lorraine at The Plant Place (2.5 mile walk!!) — terracotta pot for Janis, leca for Tina, maybe Annie
+
+## 🥣 POKE BOWL V4 — SATAY LIME
+
+5/5 crobats!! The fourth Golden Sauce family member. 1 tsp peanut butter, soy sauce, honey, lime juice from bottle, sriracha, warm water. Shaken in the JAR. The GOAT remains undefeated — both poke bowls at 5 crobats.
 
 ---
 
