@@ -48,7 +48,7 @@
       "watering": {
         "text": "Let dry out COMPLETELY between waterings. Chopstick test — must be dry ALL the way through, not just top. Every 2–3 weeks in summer, less in winter.",
         "intervalDays": 18,
-        "lastWatered": "2026-08-10"
+        "lastWatered": null
       },
       "light": "Bright indirect to direct light. Quarter turn every 2 weeks for even growth.",
       "feeding": {
