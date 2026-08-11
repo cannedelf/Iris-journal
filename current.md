@@ -193,7 +193,7 @@ TBD: Mediterranean Rosemary Stew (eating for lunch Mon-Wed!)
 | 🇮🇪 Dublin | Thu 11-Sun 14 March | FUNDED £700! Booked! | 2 |
 | 🇮🇹 Bologna | Thu-Tue over first May BH | 5 NIGHTS! Parents IN! Day trips: Modena, Ferrara, Ravenna | 3 |
 | 🇩🇪🇦🇹 Munich+Salzburg | 24-30 Jun | With parents! Dad's bday Jun 27! Sound of Music tour! | 5 |
-| 🏖️ Crete | 17-24 Jul (with Aug BH) | Queued | 4 |
+| 🏖️🌈 Crete (CHANIA!) | Sat 28 Aug-Sat 4 Sept (Aug BH!) | IRIS'S ORIGIN STORY TRIP!! Solo!! 7 nights!! | 4 |
 | 🇪🇸 Bilbao+San Seb | 25-30 Sept | Birthday trip! | 5 |
 | 🎄 Christmas Markets | 4-7 Dec | Needs funding | 2 |
 | **TOTAL AL:** | | | **21/27 (6 spare)** |

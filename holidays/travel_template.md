@@ -165,7 +165,7 @@ Pick from this menu each year. You don't have to do ALL of them — mix and matc
 | 1 | 🇮🇪 Dublin (solo!) | Fri 26 Feb - Mon 1 Mar | 2 days | ~£400 | 💭 Researched — £406 on lastminute.com, 10:00 flight out, 16:45 return, hotel included |
 | 2 | 🇮🇹 Italy annual | May (bank holiday) | 4 days | £500-800 | 💭 Dreaming — Bologna/Naples/Venice/Amalfi TBD. Back in its rightful May spot!! |
 | 3 | 🇩🇪🇦🇹 Munich + Salzburg (Dad's birthday!) | Late June (~23rd-29th) | 5 days | £600-900 | 💭 Dreaming — Neuschwanstein, Dachau, Dad's birthday in Salzburg |
-| 4 | 🏖️🏊‍♀️ Beach + SWIMMING (solo!) | August bank holiday | 3 days | £300-500 | 💭 Dreaming — Crete/Split/Malta/Valencia (must have WARM sea 24°C+!!) |
+| 4 | 🏖️🌈 Crete — CHANIA (Iris's origin story!! Solo!) | Sat 28 Aug - Sat 4 Sept (Aug BH!) | 4 days | £300-500 | 💭 PLANNED!! Chania, 7 nights, 3 GetYourGuide trips booked |
 | 5 | 🇪🇸 Bilbao + San Sebastian (birthday!) | Late Sept (~24th-30th) | 5 days | £500-800 | 💭 Dreaming — Guggenheim + pintxos crawl, birthday in San Seb! |
 | 6 | 🎄 Christmas market (solo!) | December | 2-3 days | £300-500 | 💭 Dreaming — Bruges/Cologne/Prague. Depends on Golden Drawer!! |
 | 7 | 👴👵 Parent days / rest | Throughout year | 2-3 days | Minimal! | 💭 Flexible — mid-week days out, retired parents available most of the year!! |
