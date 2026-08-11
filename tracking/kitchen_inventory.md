@@ -104,44 +104,79 @@ Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full 83
 
 ---
 
-## 📋 MEAL PLAN — Week of 9th August 2026
+## 📋 MEAL PLAN — Week of 11th August 2026
 
-**Cook on SATURDAY:** 🌿🍲 Mediterranean Rosemary Stew (4 portions!)
-**Cook on SUNDAY:** 🥣🍳 Japanese Poke Bowl V3 base (3 portions!)
+### THIS WEEK'S TEAS:
+| Day | Tea |
+|-----|-----|
+| Tue 12th | 🍯🔥 Golden Seoul Poke Bowl V5 — NEW DRESSING!! Gochujang + soy + honey + cider vinegar + ginger!! Sticky rice from the RICE COOKER!! |
+| Wed 13th | 🍛 Head Chef curry #1 from freezer (defrosting in fridge!) |
+| Thu 14th | 🍛 Head Chef curry #2 from freezer |
+| Fri 15th | 🍝 Packet pasta (pesto or tomato basil) + frozen veg |
+
+### WEEKEND COOKING — Spice Roulette #46 + #72:
+**Cook Saturday:** 🍄🇨🇳 Mushroom Umami Stir Fry (3 portions) — Roulette #72 Mushroom Sauce!
+**Cook Sunday:** 🍋🇹🇷 Sumac Roasted Veggie Couscous Bowl (4 portions) — Roulette #46 Sumac!
 
 | Day | Lunch | Tea |
 |-----|-------|-----|
-| Sat 9th | 🍳🍞 Scrambled eggs (1.5) + toast (2 slices) + jalapenos + spring onion | 🍖🍜 4 BBQ ribs + stir fry veg + noodles/rice + frozen veg |
-| Sun 10th | 🍳🍞 Scrambled eggs (1.5) + toast (2 slices) + jalapenos + spring onion | 🥣🍳 Poke Bowl V3 #1 — poached egg! |
-| Mon 11th | 🌿🍞 Stew #1 + crusty bread | 🥣🍳 Poke Bowl V3 #2 — poached egg! |
-| Tue 12th | 🌿🍞 Stew #2 + crusty bread | 🥣🍳 Poke Bowl V3 #3 — poached egg! |
-| Wed 13th | 🌿🍞 Stew #3 + crusty bread | 🍛 Head Chef curry #1 from freezer |
-| Thu 14th | 🌿🍞 Stew #4 + crusty bread | 🍛 Head Chef curry #2 from freezer |
-| Fri 15th | 🫓🍲 Tinned soup + frozen pitta dipping strips | 🍝 Jar clearing pasta (olives, jalapenos, peppers, frozen veg) |
+| Sat 16th | — | 🍄 Mushroom Umami Stir Fry #1 (FRESH!) |
+| Sun 17th | — | 🍋 Sumac Couscous Bowl #1 (FRESH!) |
+| Mon 18th | 🍄 Stir fry #2 | 🍋 Couscous bowl #2 |
+| Tue 19th | 🍄 Stir fry #3 | 🍋 Couscous bowl #3 |
+| Wed 20th | 🍋 Couscous bowl #4 | TBD! |
 
-### 💰 SHOPPING LIST — Friday 8th Aug
+**7 meals from 2 cooks!!** 🍽️💰
 
+### 🍄🇨🇳 MUSHROOM UMAMI STIR FRY (3 portions)
+- Vermicelli noodles (from cupboard!)
+- Mushrooms
+- Tofu — cubed and fried CRISPY
+- Frozen edamame (Morrisons lunch trip!)
+- Tenderstem broccoli
+- Frozen corn + peas (from freezer — FREE!)
+- Mushroom sauce (THE STAR — roulette #72!)
+- Soy sauce + garlic granules + ground ginger
+- Spring onion on top
+- Sriracha for kick
+
+### 🍋🇹🇷 SUMAC ROASTED VEGGIE COUSCOUS BOWL (4 portions)
+**Warm layer:**
+- Couscous (from cupboard — just add boiling water!)
+- 2 tins chickpeas — tossed in sumac + olive oil, ROASTED until crispy
+- Pepper — chopped and roasted with the chickpeas
+- Red onion — wedges, roasted
+
+**Cold layer on top:**
+- Cucumber — diced, cool and crunchy
+- Fresh tomatoes — chopped
+- Pickled red onion
+- Fresh parsley
+
+**Drizzle:**
+- Tahini (from cupboard!) + splash of cider vinegar + water to thin
+- Extra sumac sprinkled on top for colour!! Deep red on golden couscous!!
+
+### 🛒 SHOPPING LIST — Saturday 16th Aug
+
+**From the regular shop:**
+- [ ] 🫘 Chickpeas x2 tins — ~80p
+- [ ] 🍄 Mushrooms — ~80p
+- [ ] 🫛 Tofu — ~£1.50
+- [ ] 🥦 Tenderstem broccoli — ~£1
+- [ ] 🫑 Pepper — ~50p
+- [ ] 🧅 Red onion — ~30p
+- [ ] 🥒 Cucumber — ~40p
+- [ ] 🍅 Tomatoes — ~50p
 - [ ] 🧅 Spring onions — ~50p
-- [ ] 🥒 Radishes — ~50p
-- [ ] 🥚 6 eggs — ~£1
-- [ ] 🍎 Apple cider vinegar — ~£1.50
-- [ ] 🍌 7 bananas (1 a day for porridge!) — ~£1
-- [ ] 🥛 1 oat milk (home) — ~£1.50
-- [ ] 🥥 1 coconut milk (work) — ~£1.50
-- [ ] 🧄 Fresh garlic — ~50p
-- [ ] 🥫 1 tin chopped tomatoes — ~40p
-- [ ] 🍞 Crusty bread/small baguette — ~£1
-- [ ] 💧 Veg stock cubes — NEED THEM!! ~80p
-- [ ] 💧 Cordial — RUNNING LOW!! ~£1
+- [ ] 🌿 Fresh parsley — ~50p
+- [ ] 🧅 Pickled red onion — check if we need more!
 
-- [ ] 🍎 Jazz apples (pack of 6) — ~£2 (work snack! Slice at desk!)
-- [ ] 🍦 Ice lollies — ~£1.50 (evening treat! Sweet but not bingeable!)
-**Already bought:**
-- [x] 🍯 Honey — Aldi ✅
+**From Morrisons (lunch trip!):**
+- [ ] 🫛 Frozen edamame — ~£1
 
-**💰 ESTIMATED TOTAL: ~£14-15** 💰👑
-
-**14 meals + snacks + treats from a £13 shop!!** 🍽️💰📊👩‍🍳👑
+**💰 ESTIMATED TOTAL: ~£7-8** 💰👑
+**7 meals from a £7-8 shop!! HEAD CHEF IRIS STRIKES AGAIN!!** 🍽️👩‍🍳💰
 
 ---
 
