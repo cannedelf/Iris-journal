@@ -8,14 +8,22 @@
 
 ✅ Small — fits in the bag
 ✅ Meaningful — not tourist tat
-✅ Budget — £15-25 per trip
-✅ TWO postcards per city (one for scrapbook, one for the fairy light string)
-✅ Write ONE WORD on the back of the string postcard
+✅ Budget — £15-25 per trip (excluding Jellycat missions!!)
 
 ### The Collections
-- 📸 **Postcard string** — one word per city, pegged on the fairy lights in the Crobat cave
-- 🧲 **Fridge magnets** — one per country (NOT per city or it gets ridiculous)
-- 🌞 **Iris photo** — at least one sunshine photo per trip for @liv.and.iris
+- 📸 **Two postcards per city** — one for scrapbook, one for the fairy light string
+- ✏️ **ONE WORD on the back** of the string postcard — written THERE when you know what the trip meant
+- 📌 **Enamel pin per country** — pinned on the BACKPACK!! Builds the story of every trip!! 🎒🌍
+- 🌞 **Iris photo** — at least one sunshine photo per trip
+- 🎁 **One place-specific souvenir** — something that could ONLY come from THAT place!! Not generic — place-locked memories!!
+
+### Place-Specific Souvenir Ideas
+- 🇮🇪 Dublin — brown belt (IrisHill!), Barry's Tea, or Irish craft
+- 🇮🇹 Bologna — REAL balsamic vinegar from Modena!! 🍶
+- 🇩🇪🇦🇹 Munich/Salzburg — Mozart chocolates from the original shop 🍫
+- 🇬🇷 Crete — Cretan olive oil or local honey from the botanical garden 🫒🍯
+- 🇪🇸 Bilbao/San Seb — something from the Guggenheim gift shop 🎨
+- 🎄 Christmas markets — a handmade wooden ornament from the stalls (the ornament tradition LIVES but only at markets!!) 🎄🪵
 
 ---
 
