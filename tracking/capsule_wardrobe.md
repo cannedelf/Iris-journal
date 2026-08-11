@@ -403,6 +403,67 @@ If no to ANY — put it DOWN!! 👗❌💰
 5. 🎵💙 Beatles tee + 🤎👖 brown cords + 🌼🧥 daisy jacket = INDIE CLASSIC 🎸
 6. 📏👕 L&Y stripes + 🤎👖 brown cords + 👢🤎 boots = AUTUMN READY 🍂
 
+---
+
+## 🏊‍♀️ SWIMWEAR (2 pieces)
+
+| # | IrisHill Version | Status |
+|---|-----------------|--------|
+| 1 | ☀️ Plain warm toned one-piece — rust, mustard, or olive. The everyday swimmer. No bikini (band tee rule goes to the BEACH!) | ⬜ Need (closer to Crete!) |
+| 2 | 🌸 Patterned one-piece — vintage floral or ditsy print on warm background. The FUN swimmer. Personality in the water!! | ⬜ Need (closer to Crete!) |
+
+### ☀️ COVERUP (1 piece):
+| # | IrisHill Version | Status |
+|---|-----------------|--------|
+| 1 | 🌿☀️ Light floaty coverup — olive, cream, or rust. Over swimsuit, beach to taverna. Could double as a warm evening layer! | ⬜ Need |
+
+### 📊 SWIMWEAR NOTES:
+- Two = one dries while you wear the other!! Smart!!
+- Buy closer to Crete (summer 2027) — Primark or Vinted
+- One-pieces only — the Crobat's style is COVERAGE not crop
+- IrisHill palette applies even in the SEA!! 🏖️🎨
+
+---
+
+## 🩲 TIGHTS (IrisHill edition — FUN colours!!)
+
+| # | Colour | Vibe |
+|---|--------|------|
+| 1 | 🤎 Brown opaque | THE STAPLE — goes with everything!! Denim skirt + boots + brown tights = 70s PERFECTION |
+| 2 | 🌲 Forest green | With dresses and skirts, SO 70s, plant mum energy on LEGS |
+| 3 | 🧡 Rust | The IrisHill signature colour — the most 70s tights that ever existed!! |
+| 4 | 🍷 Burgundy | Evening and winter — rich, warm, dramatic |
+| 5 | 🖤 Black opaque | Because sometimes you just need the classic |
+
+### 📊 TIGHTS NOTES:
+- Snag tights — ALL sizes, loads of colours, basically INDESTRUCTIBLE!! 💪
+- Fun colours turn a simple dress + boots into a FULL OUTFIT
+- Brown is the priority — the most IrisHill tights on earth!! 🤎
+
+---
+
+## 🧦 SOCKS (personality goes to the FEET!!)
+
+### 🎨 Fun socks (because we CAN!!):
+- 🍄 Mushroom print — matches the crossbody bag!!
+- 🌻 Sunflower print — matches the shorts AND the cardigan!!
+- 🌿 Plant/leaf print — for the plant mum obviously
+- 🎸 Music themed — records, guitars, Fleetwood Mac vibes
+- 🎨 Warm toned pattern — 70s stripes, retro, paisley
+
+### 🤎 Plain socks (for the quiet days):
+- 🤎 Brown
+- 🤍 Cream
+- 🖤 Black
+- 🌲 Olive
+
+### 📊 SOCKS NOTES:
+- Plain for work, fun for WEEKENDS and holidays!!
+- Build up over time — one fun pair per trip?? Mushroom socks from Dublin?? Lemon socks from Bologna?? 🍄🍋
+- Life is too short for boring socks!! 🧦🌈
+
+---
+
 ### 📅 NEXT SKINNY DRAWER CHECK: Before the cruise — mid September!! 🚢📦
 
 ### 🏷️ BRANDS REPRESENTED:
