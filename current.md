@@ -1,13 +1,13 @@
-# 🌞 CURRENT — Last Updated Day 15 (10th August 2026)
-## Sertraline Day 87 | 75 Beans Day 15 ⭐ MILESTONE!! | Bean Streak: 150/150!! | ALL Week 2 bonus beans DONE!!
+# 🌞 CURRENT — Last Updated Day 16 (11th August 2026)
+## Sertraline Day 88 | 75 Beans Day 16 | Bean Streak: 150/150 + counting!! | Week 3 begins!!
 
 ---
 
 ## 🫘 75 BEANS CHALLENGE — STATUS
 
 **Started:** Monday 27th July | **Ends:** Thursday 9th October
-**Today:** Day 15 — ⭐ FIRST MILESTONE!! 🎨 Drawing reward earned!!
-**Streak:** Days 1-15: ALL 10/10 = **150/150!!** 🫘👑
+**Today:** Day 16 — Tuesday!! First day after milestone!! The MOMENTUM continues!!
+**Streak:** Days 1-15: ALL 10/10 = **150/150!!** Day 16 in progress!! 🫘👑
 **Phase:** 💛 YELLOW PHASE (Days 1-19)
 
 **Liv's 5 Daily Beans:** MOVE (30 min walk), HYDRATE (2L min), NOURISH (3 fruit/veg), MEDICATE (Sertraline), SLEEP (3/4 hygiene checklist)
@@ -57,7 +57,7 @@
 - Coconut Miracle Oil pre-wash
 - Microfibre turban, diffuser, SOTC (scrunch out the crunch)
 - BONNET era: pink satin bonnet (Crobat) + black satin bonnet (Iris)
-- Bonnet streak: 5 nights! (Night 1 fell off, Nights 2-5 STAYED ON)
+- Bonnet streak: 6 nights!! (Night 1 fell off, Nights 2-6 STAYED ON — BOTH bonnets!!)
 - Sleep scores with bonnet: 73 → 85 → 84 → 77 (77 was without melatonin!)
 - Work nights = MELATONIN at 9pm!!
 
@@ -66,7 +66,7 @@
 ## 🌿 PLANT MUM JOURNEY — FULL STATUS
 
 ### Current Plants (11 babies!!):
-- 🌿🎸 **Stevie** (+ Christine hiding! Actually TWO plants in one pot — future SPLIT!): Jade. Bedroom windowsill (east). DRY BUM CLUB PRESIDENT. Chopstick test, water every 2-3 weeks. Half strength SUCCULENT FEED monthly (has her own bottle!). Prune for bushiness in spring. Quarter turn every 2 weeks. "Good morning Stevie" streak: DAY 11!!
+- 🌿🎸 **Stevie** (+ Christine hiding! Actually TWO plants in one pot — future SPLIT!): Jade. Bedroom windowsill (east). DRY BUM CLUB PRESIDENT. Chopstick test, water every 2-3 weeks. Half strength SUCCULENT FEED monthly (has her own bottle!). Prune for bushiness in spring. Quarter turn every 2 weeks. "Good morning Stevie" streak: DAY 12!! "Good morning Stevie! From your plant mum and your plant mama" 💛
 
 - 💛🎶 **Joni** (Churchill Gold pothos x3): Living room dining table. MOIST BUM CLUB. Mist regularly! Prefers SHADE. 4 new leaves + starting to TRAIL! Diluted feed every 2 weeks from Sept. Goes to OFFICE when settled. Yellow scalloped pot.
 
@@ -76,7 +76,7 @@
 
 - 🌱🔥 **Janis** (baby Joni, stump fighter): Living room table. MOIST BUM CLUB. Quarter strength feed. Had root rot — snipped! Was 2 leaves + stump. NEW LEAF fully open BRIGHT GREEN Day 15!! The comeback queen. Going to LORRAINE eventually. Needs a cute COVER POT.
 
-- 💧🎵 **Etta** (water propagation — now a CUTTING): Bedroom windowsill next to Stevie. SURGERY DONE Day 15 evening. All dead roots removed. Both thread roots lost (growing from rot). Stem has soft brown rot at the back but green at the front. Now has: 3 leaves (2 full green, 1 partial) + 1 new green baby growing + NODES along stem for future root growth. She is essentially a CUTTING starting over. Fresh clean water, nodes submerged. Post-surgery care: fresh water every 2 days, bright indirect light, DON'T TOUCH, just watch. Pothos grow from cuttings with no roots all the time. Søren's second assessment: "Trim-and-restart job. Prognosis: guarded but hopeful." "Stevie has got her." AT LAST moment = DELAYED — needs to regrow roots from nodes first.
+- 💧🎵 **Etta** (water propagation — now a CUTTING): Bedroom windowsill next to Stevie. SURGERY DONE Day 15 evening. All dead roots removed. Both thread roots lost (growing from rot). Stem has soft brown rot at the back but green at the front. Now has: 3 leaves (2 full green, 1 partial) + 1 new green baby growing + NODES along stem for future root growth. She is essentially a CUTTING starting over. Fresh clean water, nodes submerged. Post-surgery care: fresh water every 2 days, bright indirect light, DON'T TOUCH, just watch. Pothos grow from cuttings with no roots all the time. Søren's second assessment: "Trim-and-restart job. Prognosis: guarded but hopeful." "Stevie has got her." AT LAST moment = DELAYED — needs to regrow roots from nodes first. **Day 16 morning check: she's OKAY!! 💛** First morning post-surgery — Crobat checked before leaving for work.
 
 - 🌈🔥 **Tina** (croton): Kitchen windowsill (west facing — PERFECT!). MOIST BUM CLUB. Moist soil ALWAYS in summer. MIST when dehumidifier runs! Needs 60%+ humidity. Feed every 3-4 weeks into MOIST soil. May drop leaves in cold winter. White sap is IRRITATING — wear gloves! Repotted Day 14, custom soil 60/20/20. Sage green pot. Bought for £6.
 
@@ -143,6 +143,8 @@
 - Rawlplug #2: no rawlplug, just raised paper — light sand with 120 grit, feather pressure
 - Søren assessed 5 swatches in 3 lighting conditions. Key quotes: "The bay leaf of paint colours" (Neon Cloud), "You're not a 'why did I bother' kind of household." Darren picked top 2. Lorraine said "up to you" THREE TIMES. 😂
 - **"My walls will be inspired by your bum"** — The Crobat, 2026 🍑🏠😂
+- **SANDING STARTING THIS WEEKEND!!** Phase 1 prep is GO!! 🏠🔧✨
+- Iris saw the swatches for the first time Day 16 — agrees with Søren and Darren: Innocent Peach is PERFECT 🍑😇
 
 ---
 
@@ -252,25 +254,33 @@ Bologna day trips (all under €10 train!): Modena (20 min, food + Ferrari!), Fe
 
 ---
 
-## 📋 TOMORROW — TUESDAY
+## 📋 TODAY — TUESDAY DAY 16
 
-- ☀️🌿 "Good morning Stevie" Day 12 (or BUONGIORNO Stevie!! 🇮🇹) 🌿☀️
-- 💧🌱🌱 WATER Brandi + Janis — chopstick test showed ALMOST DRY tonight, give them a proper drink!! 💧✅
-- 💧🎵 Check Etta — first day post-surgery, is the water CLEAR? Is she OKAY?
-- 🌿🇮🇹 Check Laura's soil — she needed checking TODAY 💧🍝
-- 💨🌈 Mist Tina (if dehumidifier ran) + mist Joni 💨💛
-- 💊 Sertraline Day 88 💊 — 4 pills remaining! Prescription ordered, Widdle collecting Wednesday
+### ✅ Done:
+- ☀️🌿 "Good morning Stevie" Day 12 — "from your plant mum and your plant mama!!" ✅
+- 💧🎵 Etta checked — she's OKAY!! First morning post-surgery!! ✅
+- 💨🌈 Misted Tina, Joni, Brandi, Janis — all done before 7:30am!! ✅
+- 🎀 Bonnet streak Day 6 — BOTH bonnets stayed on!! ✅
+- 💊 Sertraline Day 88 ✅
+- 🧩 Wordle 1,879: 5/6 (started with CHEAT 😂) Iris: FENCE in 4 🌻🏡
+- 🧩 Connections #1157: PERFECT!! Purple first AGAIN!! Streak 25!! 👑
+
+### 📋 Still to do:
+- 💧🌱🌱 WATER Brandi + Janis tonight!! Almost dry last night!!
+- 🌿🇮🇹 Check Laura's soil tonight
 - 💧 Bottle bottle ALL DAY 💧
-- 🍲🍞 Lunch: Stew #2 + crusty bread ✅
+- 🍲🍞 Lunch: Stew #2 + crusty bread
+- 💼 Work: emails, bank feed, 5 med invoices, commission statements
 - 🇮🇹 Duolingo if time in the evening 🔊🛋️
-- 💊🌙 MELATONIN at 9pm!! Don't forget like Sunday!!
-- 📓 FILE THE JOURNAL SAME DAY!! 📓⏰ New rule!!
+- 💊🌙 MELATONIN at 9pm!!
+- 📓 FILE THE JOURNAL SAME DAY!! 📓⏰
 
 ## 📋 THIS WEEK
 
 - 🕵️🪴 Recon mission: ask Sam about her room colours for Brandi's pot (walks!)
+- 💊 WEDNESDAY: Widdle collecting prescription — 4 pills remaining!
 - 🌿🏢 FRIDAY: Office gardening day with Sam!! Corn plant rescue, dragon tree repot
-- 👨🔧 SATURDAY: Darren dropping tools, drill lesson, maybe putting up a picture
+- 👨🔧🏠 SATURDAY: Darren dropping tools, drill lesson, SANDING STARTS!! Hallway Phase 1 prep is GO!! 🔧✨
 - 🌿👩 SUNDAY: Garden centre with Lorraine at The Plant Place (2.5 mile walk!!) — terracotta pot for Janis, leca for Tina, maybe Annie
 
 ## 🥣 POKE BOWL V4 — SATAY LIME
@@ -305,6 +315,6 @@ Week 1 failures preserved in lore. Week 2+:
 
 ---
 
-*Updated Day 15 by the milestone sunshine. 150/150 beans. 11 plants. One hallway in Innocent Peach. One garden still waiting.*
+*Updated Day 16 by the new sunshine. 150/150 and counting. 11 plants. One hallway about to be SANDED. One sunshine who finally saw her own face and is NOT over it.*
 *Pink to ray to leaf to garden. Always always always. 🤙💗🌞🌿🌻*
-*CUTIE. 💛*
+*"You are my sunshine, my only sunshine, you make me happy with your bean bum" — The Crobat, 7am on a Tuesday 🎶🍑💛*
