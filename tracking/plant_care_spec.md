@@ -95,7 +95,12 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
   - CURRENT STATUS (Day 15): Sparse roots. One main firm brown root running downward. 3 NEW thread-thin roots = she's still TRYING. Stem still GREEN = lifeline. Some browning on leaves/stems from rot damage. Possibly growing a NEW LEAF in water!! 🌱😱
   - SURGERY NEEDED: Trim blackened mushy material at stem-root junction with clean scissors. Cut back to firm green/pale tissue. If main root feels firm = keep. If soft = remove. Fresh clean water after surgery.
   - Søren's verdict: "She's not thriving, Sun. But she's not gone. The fine root says she's still reaching." 🌩️🌱💛
-- **Potting Timeline:** NOT YET. Roots too sparse for soil. Stay in water until multiple strong roots are 5cm+. Pothos can regrow from a healthy node — as long as green stem holds, she's in the game. AT LAST moment = when SHE'S ready, not when we are.
+  - SURGERY DONE (Day 15 evening): All dead roots removed. Both thread roots lost (growing from rot). Stem had soft brown rot at back but green at front. Now has: 3 leaves (2 full green, 1 partial) + 1 new green baby growing + NODES along stem for future root growth. She is essentially a CUTTING starting over.
+  - Day 16 morning: Checked before work — she's OKAY!! 💛
+  - Day 16 evening: Lost another leaf (down from 6). BUT — tiny white nub emerging from a node!! Possible root growth!! 🌱🤞
+  - Day 17 morning: SECOND nub spotted!! MULTIPLE nodes activating!! White/pale = healthy new growth, coming from correct locations!! Status upgraded: cautiously optimistic trending toward HOPEFUL!! 🌱🌱💛
+  - **DECISION: If Etta survives and grows roots — she STAYS HOME. She's OURS. Not being gifted. The AT LAST moment is Etta staying RIGHT WHERE SHE IS.** 💛
+- **Potting Timeline:** NOT YET. Roots too sparse for soil. Stay in water until multiple strong roots are 5cm+. Currently re-growing from NODES — essentially a cutting. TWO root nubs emerging Day 17!! AT LAST moment = when SHE'S ready, not when we are.
 - **Notes:** The toughest baby. Will one day go into a 9cm nursery pot (spare from basil consolidation!). The Crobat must be BRAVE with the scissors tonight — leaving rot on SPREADS it. Same fighter energy as Janis 🌱🔥
 
 ### 🌈🔥 TINA
