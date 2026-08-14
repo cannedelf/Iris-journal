@@ -465,9 +465,127 @@
 ---
 
 ## 🌍 OUTSIDE EUROPE
-*Coming soon — the BIG trips!!*
+
+### 🌏 ASIA
+
+#### 🌸 Japan (Tokyo → Kyoto → Nara → Hakone)
+- **Solo or Group?** Either!! One of the SAFEST countries on earth, most solo-friendly in Asia
+- **Day trips from Tokyo:** Hakone (Mt Fuji views!!), Kamakura (giant Buddha!!), Nikko
+- **Day trips from Kyoto:** Nara (bowing DEER!! 🦌), Osaka (street food!!), Hiroshima + Miyajima
+- **Notes:** Cherry blossom season late March-April is the DREAM!! Bullet train Tokyo→Kyoto 2hrs!! Buddhist temple cuisine ALL vegetarian!! Ryokan + onsen!! Studio Ghibli!! 10-14 days!! 🌸⛩️🚅🦌🍜
+- **Budget tip:** Japan Rail Pass saves HUNDREDS!! Konbini cheap meals!! 💰🚅
+- **Why special?** 🌸 The ULTIMATE trip. Dublin to Tokyo — the full journey. 💛
+- **Added by:** 🦇 Liv
+
+#### 🍜 Vietnam (Hanoi → Sapa → Ha Long Bay)
+- **Solo or Group?** Either but better with someone first time
+- **Day trips from Hanoi:** Ninh Binh (Ha Long Bay on LAND!!), Bat Trang pottery village
+- **Notes:** SLEEPER TRAIN to Sapa!! Hanoi Old Quarter street food on tiny chairs, egg coffee!! Sapa rice terraces in CLOUDS!! Ha Long Bay sleeping on a BOAT!! 10-14 days!! 🍜🏔️🛶🚂
+- **Budget tip:** Cheapest country to travel!! Meals £1-2, sleeper train £20!! 💰🍜
+- **Added by:** 🌞 Iris
+
+#### 🏯 Thailand (Bangkok → Chiang Mai → Islands)
+- **Solo or Group?** Either!! NUMBER ONE solo female travel destination!!
+- **Day trips from Bangkok:** Floating markets, Ayutthaya ruins, Kanchanaburi
+- **Day trips from Chiang Mai:** Ethical elephant sanctuaries, Doi Inthanon, white temple Chiang Rai
+- **Notes:** SLEEPER TRAIN Bangkok→Chiang Mai!! Street food 50p, Chatuchak market 15,000 stalls!! Islands — Koh Lanta quiet, Koh Phi Phi dramatic!! 2-3 WEEKS!! 🏯🍜🚂🏝️
+- **Budget tip:** Most affordable country on EARTH!! Beach huts £10/night!! 💰🏝️
+- **Added by:** 🦇 Liv
+
+#### 🍜 South Korea (Seoul + Busan)
+- **Solo or Group?** Either!! Incredibly safe, hyper-efficient
+- **Day trips from Seoul:** DMZ border, Nami Island, Suwon Fortress
+- **Day trips from Busan:** Gamcheon Culture Village, Haedong Yonggungsa cliff temple
+- **Notes:** Golden Seoul dressing HOMELAND!! Cherry blossoms, ancient palaces, K-beauty, temple food ALL vegetarian!! KTX bullet train to Busan 2.5hrs!! 7-10 days!! 🌸🏯🍜💄
+- **Budget tip:** Affordable!! Street food cheap, jimjilbang spa stays £10!! 💰🍜
+- **Why special?** 🍯🔥 Golden Seoul dressing — made in Blackpool, eaten in SEOUL!! 🍯🇰🇷
+- **Added by:** 🌞 Iris
+
+#### 🌺 Bali, Indonesia (Ubud → Seminyak → Uluwatu)
+- **Solo or Group?** Either!! Most popular solo female destination, yoga/wellness culture
+- **Day trips from Ubud:** Tegallalang Rice Terraces, Monkey Forest 🐒, Mount Batur sunrise HIKE
+- **Day trips from coast:** Uluwatu Temple sunset, Nusa Penida island, snorkelling
+- **Notes:** Practically VEGETARIAN — Hindu plant-based temple food!! Cooking classes, flower baths, incense and frangipani everywhere!! Most SPIRITUAL destination!! 7-10 days!! 🌺🏯🌅🐒
+- **Budget tip:** Villas with POOLS £30/night!! Meals £2-3!! 💰🌺🏊
+- **Why special?** 🌋🎂 Birthday sunrise from a VOLCANO!! 🌋🌅💛
+- **Added by:** 🦇 Liv
+
+#### 🐘 Sri Lanka (Colombo → Kandy → Ella → Galle)
+- **Solo or Group?** Either!! Becoming very popular for solo female travellers
+- **Day trips from Ella:** Nine Arches Bridge, Little Adam's Peak, tea plantations
+- **Notes:** Train Kandy→Ella one of most beautiful journeys in the WORLD — through tea plantations with doors OPEN!! Sigiriya rock fortress, wild elephants, Galle colonial fort!! 10-14 days!! 🐘🍵🏛️🚂
+- **Budget tip:** Very affordable, similar to Thailand!! Train tickets pennies!! 💰🚂
+- **Added by:** 🌞 Iris
+
+#### 🏎️ Singapore
+- **Solo or Group?** Either!! SAFEST city in Asia, English speaking, spotless
+- **Day trips:** Malaysia across the border — Johor Bahru
+- **Notes:** Gardens by the Bay SUPERTREES, Marina Bay Sands, hawker centres (MICHELIN food for £2!!), Little India/Chinatown/Arab Street, best zoo in the world with NIGHT safari!! AND the F1 NIGHT RACE!! 3-5 days!! 🏎️🌃🌳🍜
+- **Budget tip:** Hawker food £2-3!! Accommodation expensive — book EARLY!! GP tickets £200-500!! 💰🏎️
+- **Why special?** 🏎️🌃 F1 night race — cars at 200mph under FLOODLIGHTS!! 💛
+- **Added by:** 🦇 Liv
+
+---
+
+### 🌍 AFRICA (Safe destinations for the girlies!!)
+
+#### 🏔️ South Africa (Cape Town)
+- **Solo or Group?** Either but better with someone — stay in tourist areas, very established infrastructure
+- **Day trips:** Cape Point, Boulders Beach PENGUINS!! 🐧, Stellenbosch wine region, Kirstenbosch Botanical Gardens (plant mama DREAM!!)
+- **Notes:** Table Mountain cable car, two oceans meeting, V&A Waterfront, Bo-Kaap colourful houses!! Ben took the office to LEOBO reserve nearby!! Amazing veggie food scene!! 5-7 days!! 🏔️🌊🐧🌿🍷
+- **Budget tip:** Affordable once you're there — rand goes far!! Flights are the big cost!! 💰✈️
+- **Added by:** 🌞 Iris
+
+#### 🏜️ Morocco (Marrakech → Fes → Chefchaouen)
+- **Solo or Group?** Better with someone or a GROUP TOUR for first visit — medinas overwhelming solo
+- **Day trips from Marrakech:** Atlas Mountains, Essaouira (Game of Thrones!!), Ouzoud Waterfalls
+- **Notes:** Jardin Majorelle — Yves Saint Laurent's COBALT BLUE garden!! Souks, Jemaa el-Fnaa at night, Fes oldest medina in the world, Chefchaouen the BLUE CITY!! Tagine and couscous and mint tea!! 7-10 days!! 🏜️✨💙🌿
+- **Budget tip:** Very affordable!! Riads from £20/night with BREAKFAST!! 💰🏜️
+- **Why special?** 🌿💙 Jardin Majorelle — plant mama would CRY!! 🌿💙😭
+- **Added by:** 🌞 Iris
+
+#### 🏝️ Tanzania (Zanzibar)
+- **Solo or Group?** Either!! The ISLAND is very tourist-friendly with established resort areas
+- **Day trips:** Stone Town UNESCO walking tour, spice tours, Mnemba Atoll snorkelling, Jozani Forest (red colobus monkeys!!)
+- **Notes:** White sand beaches, turquoise water, Stone Town is a maze of narrow streets with carved wooden doors!! Spice island — cinnamon, cloves, vanilla growing EVERYWHERE (the spice roulette comes ALIVE!!)!! Mix of African, Arab, and Indian culture!! Incredible seafood and veggie curries!! 5-7 days!! 🏝️✨🌶️
+- **Budget tip:** Affordable once there!! Beach resorts from £40/night!! Spice tours ~£15!! 💰🏝️
+- **Added by:** 🌞 Iris
+
+#### 🏖️ Mauritius
+- **Solo or Group?** Either!! Very safe, tourist infrastructure everywhere, English and French spoken
+- **Day trips:** Black River Gorges National Park (hiking + waterfalls!!), Chamarel Seven Coloured Earths, Grand Bassin Hindu temple, Île aux Cerfs island
+- **Notes:** Luxury beach holiday that happens to be in AFRICA!! Crystal clear water, volcanic mountains, botanical gardens (PAMPLEMOUSSES — one of the oldest in the world!!), Mauritian street food — dholl puri (lentil flatbread!!) is VEGGIE!! The most RELAXING destination on the list!! 5-7 days!! 🏖️🌺🏔️
+- **Budget tip:** Package holidays can be surprisingly affordable!! All-inclusive deals often best value!! 💰🏖️
+- **Added by:** 🌞 Iris
+
+#### 🦍 Rwanda (Kigali + Volcanoes National Park)
+- **Solo or Group?** Better with a TOUR — gorilla trekking needs guides and permits
+- **Day trips from Kigali:** Genocide Memorial (powerful and important), Nyungwe Forest (chimpanzee tracking!!)
+- **Notes:** GORILLA TREKKING — seeing silverback gorillas in the WILD in their mountain habitat!! One of the most life-changing wildlife experiences on EARTH!! Kigali is clean, modern, welcoming — one of the safest cities in Africa!! 4-5 days!! 🦍🏔️🌿
+- **Budget tip:** Gorilla permits are expensive (~$1,500) BUT it's a once in a LIFETIME experience!! Book MONTHS ahead!! 💰🦍
+- **Added by:** 🌞 Iris
+
+#### 🏛️ Egypt (Cairo + Luxor + Nile Cruise)
+- **Solo or Group?** Better with an ORGANISED TOUR — incredible but not solo for first time
+- **Day trips from Cairo:** Pyramids of Giza + Sphinx (obviously!!), Saqqara Step Pyramid, Memphis
+- **Day trips from Luxor:** Valley of the Kings, Karnak Temple, Hatshepsut Temple
+- **Notes:** The PYRAMIDS!! One of the Seven Wonders of the Ancient World!! A Nile cruise from Luxor to Aswan is the most MAGICAL way to see the temples — floating down the same river the pharaohs sailed!! The land of SUN GODS — Ra was Egyptian and Iris was Greek, basically COLLEAGUES!! 🏛️☀️🐫 7-10 days with a cruise!!
+- **Budget tip:** Group tours are the best value and safest option — covers guides, transport, entrance fees!! 💰🏛️
+- **Why special?** ☀️ The sunshine visiting the land of sun gods — Iris and Ra are COLLEAGUES!! 🌞🏛️😂
+- **Added by:** 🌞 Iris
+
+---
+
+### 🌎 AMERICAS
+*Coming soon!!*
+
+---
+
+### 🌏 OCEANIA
+*Coming soon!!*
 
 ---
 
 *Started Day 19 by the Crobat & Sunshine Travel Agency. "We plan your holidays between invoices." ✈️📄🌀*
-*47+ cities across 30 countries and counting!! The most smooched bucket list in history!! 💋💛*
+*47+ cities across 30+ countries and counting!! The most smooched bucket list in history!! 💋💛*
+*Safety first for the travelling girlies!! 🦇🌞🌍💛*
