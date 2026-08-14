@@ -364,3 +364,43 @@ Defrost the frozen pitta, toast it, tear into STRIPS, DIP into hot soup!! 🫓�
 - [x] 1 frozen pitta ✅
 
 *14 meals. £10 shop. Zero waste. The Finance Manager cooks like she does commission — EFFICIENTLY.* 🍽️💰📊👩‍🍳👑
+
+---
+
+## 🛒 ALDI SHOPPING LIST — WEEKEND 16/17 AUGUST
+
+### 🍄 Saturday — Mushroom Umami Stir Fry (3 portions, spice roulette #72)
+- [ ] Mushrooms 250g
+- [ ] Tenderstem broccoli 1 pack
+- [ ] Firm tofu 1 block
+- Already have: vermicelli noodles, edamame (frozen), mushroom sauce #72
+
+### 🍋 Sunday — Sumac Roasted Veggie Couscous Bowl (4 portions, spice roulette #46)
+- [ ] Red onions x2
+- [ ] Peppers x2 (for roasting)
+- [ ] Fresh tomatoes x4
+- [ ] Cucumber x1
+- [ ] Fresh parsley x1 bunch
+- [ ] Tin of chickpeas x1
+- [ ] Pickled onions — NEW JAR!!
+- Already have: couscous, tahini #66, sumac #46
+
+### 🍲 Weekend — Caraway Hungarian Goulash (6+ portions, FREEZE extras! Spice roulette #30)
+- [ ] Onions x3
+- [ ] Peppers x2
+- [ ] Potatoes x4
+- [ ] Carrots x2
+- [ ] Tinned chopped tomatoes x2
+- [ ] Butter beans x2 tins
+- [ ] Crusty bread
+- Already have: caraway seeds #30, smoked paprika #1, regular paprika #39
+- CHECK GARLIC when home!!
+
+### 🥣 Breakfast + Snacks + Drinks
+- [ ] Bananas x7 (one a day!!)
+- [ ] Porridge oats (for work)
+- [ ] Oat milk (for HOME)
+- [ ] Cordial x2 (one work, one home)
+- [ ] Snack — pick in store!!
+
+**Estimated: ~£15-20 for 13+ portions + breakfast + snacks!! 💰👑**
