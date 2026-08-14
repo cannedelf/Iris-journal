@@ -577,15 +577,109 @@
 ---
 
 ### 🌎 AMERICAS
-*Coming soon!!*
+
+#### 🗽 New York City, USA
+- **Solo or Group?** Either!! Millions of solo travellers, the city that NEVER sleeps
+- **Day trips:** The city IS the trip!! Each borough is like a different country
+- **Notes:** Times Square, Broadway show, Macy's Parade, the Met, High Line (old railway turned GARDEN — plant mama!! 🌿🚂), Strand bookshop (18 MILES of books!!), Staten Island Ferry FREE past Statue of Liberty!! 5-7 days!! 🗽🎭📚🌃
+- **Budget tip:** ESTA ~£14, Staten Island Ferry FREE, many museums pay-what-you-wish, NYC CityPASS!! 💰🗽
+- **Added by:** 🌞 Iris
+
+#### 🎰 Las Vegas, USA
+- **Solo or Group?** Better with SOMEONE — Vegas is more fun shared!! Jo trip!! 👩🎉
+- **Day trips:** GRAND CANYON (most dramatic hole in EARTH!!), Hoover Dam, Valley of Fire, Death Valley
+- **Notes:** The Strip at night, Bellagio fountains, Venetian canals INDOORS, the Sphere, Cirque du Soleil!! Legendary buffets — unlimited veggie!! 4-5 days!! 🎰🌃✨🎪
+- **Budget tip:** Midweek hotels are bargains, free shows on the Strip!! 💰🎰
+- **Added by:** 🦇 Liv
+
+#### 🏰 Orlando, Florida, USA
+- **Solo or Group?** Either but MORE fun with someone for the screaming!! 🎢
+- **Day trips:** Kennedy Space Centre (ROCKET LAUNCH!!), Clearwater Beach
+- **Notes:** DISNEY WORLD + UNIVERSAL!! The HUFFLEPUFF in HOGWARTS!! Diagon Alley, Hogsmeade, butterbeer, wand choosing!! 🦡⚡🏰 7-10 days!! 
+- **Budget tip:** May or September — cheaper AND cooler!! Park hoppers save on multiple days!! 💰🏰
+- **Why special?** 🦡⚡ The Hufflepuff walking through HOGWARTS!! 🏰💛
+- **Added by:** 🦇 Liv
+
+#### 🏔️ Peru (Lima → Cusco → Machu Picchu)
+- **Solo or Group?** Better with someone or TOUR — altitude in Cusco serious (3,400m!!)
+- **Day trips from Cusco:** Sacred Valley, RAINBOW MOUNTAIN (actual rainbow stripes in rock!! 🌈🏔️), Moray salt terraces
+- **Notes:** MACHU PICCHU — Seven Wonders!! Inca citadel in the CLOUDS!! Lima food scene, alpacas in Cusco streets!! 10-14 days!! 🏔️🌈🦙🏛️
+- **Budget tip:** Peru affordable once there!! Group Inca Trail tours best value!! 💰🏔️
+- **Why special?** 🌈🏔️ RAINBOW MOUNTAIN!! The rainbow messenger visiting a RAINBOW MOUNTAIN!! 🌈💛
+- **Added by:** 🌞 Iris
+
+#### 🌺 Colombia (Cartagena + Medellín)
+- **Solo or Group?** Better with SOMEONE for first visit
+- **Day trips from Cartagena:** Rosario Islands, Playa Blanca, mud volcano
+- **Day trips from Medellín:** Guatapé (740 steps up a ROCK!!), coffee region tours
+- **Notes:** Cartagena — most COLOURFUL walled city in the Americas!! Medellín — city of eternal spring, cable cars!! Colombian coffee fresh from farms!! 7-10 days!! 🌺☕🏰🏖️
+- **Budget tip:** Very affordable for South America!! Meals £3-4!! 💰☕
+- **Added by:** 🌞 Iris
+
+#### 🌮 Mexico (Mexico City → Oaxaca → Tulum)
+- **Solo or Group?** Either!! Tourist areas very well-established, loads of solo female travellers
+- **Day trips from Mexico City:** Teotihuacán PYRAMIDS, Xochimilco floating gardens with MARIACHI
+- **Day trips from Oaxaca:** Monte Albán mountaintop ruins, Hierve el Agua petrified waterfalls
+- **Day trips from Tulum:** CENOTES (swimming UNDERGROUND!!), Cobá Mayan pyramid
+- **Notes:** Frida Kahlo's blue house GARDEN (plant mama ALERT!! 🌿🎨), Day of the Dead in October, best street food in the WORLD!! Oaxaca food capital, Tulum Mayan ruins on Caribbean beach!! 10-14 days!! 🌮💀🎨🏖️
+- **Budget tip:** Very affordable!! Street tacos 50p each!! 💰🌮💀
+- **Why special?** 🌿🎨 Frida Kahlo's GARDEN + swimming in CENOTES!! 🌿💙🏊
+- **Added by:** 🦇 Liv
+
+#### 💃 Argentina (Buenos Aires + Patagonia)
+- **Solo or Group?** Buenos Aires either!! Patagonia better with someone or tour
+- **Day trips from Buenos Aires:** Tigre delta, Colonia del Sacramento Uruguay (ferry — TWO countries!!)
+- **Day trips from El Calafate:** Perito Moreno Glacier (60m wall of ice that COLLAPSES!!), Torres del Paine Chile
+- **Notes:** Buenos Aires — Paris of South America!! Tango, La Boca, El Ateneo bookshop in a THEATRE!! Patagonia — glaciers, mountains, PENGUINS!! 7-10 days!! 💃🏔️🐧📚
+- **Budget tip:** Peso goes FAR for tourists!! Amazing value!! 💰🍷
+- **Why special?** 📚 El Ateneo — bookshop in a THEATRE!! And watching a glacier COLLAPSE!! 🏔️📚💛
+- **Added by:** 🌞 Iris
+
+#### 🌺 Hawaii, USA (Oahu + Maui)
+- **Solo or Group?** Either!! Very safe, English speaking!! Better with someone for the SUNSETS!!
+- **Day trips from Oahu:** North Shore surfing, Pearl Harbor, Diamond Head crater hike
+- **Day trips from Maui:** Road to Hana (620 curves!!), Haleakalā sunrise ABOVE THE CLOUDS at 10,000ft
+- **Big Island:** Hawaii Volcanoes — see ACTIVE LAVA!! 🌋🔥
+- **Notes:** POKE BOWLS in their HOMELAND!! 🥣 Sea turtles, whale watching, shave ice, lei greeting, every sunset the most DRAMATIC you've ever seen!! 7-10 days!! 🌺🏝️🌋🌅🐢
+- **Budget tip:** April-May or Sept-Oct for lower prices!! Airbnb with kitchen saves loads!! 💰🏝️
+- **Why special?** 🥣🌺 POKE BOWLS WHERE THEY WERE BORN!! 5 crobats in their HOMELAND!! ☀️☁️🌅💛
+- **Added by:** 🦇 Liv
 
 ---
 
 ### 🌏 OCEANIA
-*Coming soon!!*
+
+#### 🦘 Australia (Sydney → Melbourne → Cairns)
+- **Solo or Group?** Either!! Incredibly safe, English speaking, backpacker-friendly
+- **Day trips from Sydney:** Blue Mountains, Bondi to Coogee walk, Manly Beach ferry
+- **Day trips from Melbourne:** Great Ocean Road (Twelve Apostles!!), Phillip Island PENGUIN PARADE 🐧, Yarra Valley
+- **From Cairns:** Great Barrier Reef (largest living structure on EARTH!!), Daintree Rainforest (180 MILLION year old forest — plant mama in DINOSAUR JUNGLE!! 🌿🦕)
+- **Notes:** Sydney Harbour, Melbourne coffee + street art, Great Ocean Road, AND Dean lived here for 2 YEARS farming BANANAS!! 14-21 days!! 🦘☀️🏖️🐧☕🍌
+- **Budget tip:** Free BBQs in every park, Greyhound bus passes, Dean's local knowledge!! 💰🦘
+- **Why special?** 🍌👨 DEAN'S BANANA LAND!! The sunshine protecting a banana in the land of banana FARMS!! 🍌🌞😂
+- **Added by:** 🦇 Liv
+
+#### 🧝‍♂️ New Zealand (North Island + South Island)
+- **Solo or Group?** Either!! One of the safest countries, English speaking
+- **Day trips from Queenstown:** Milford Sound (eighth wonder!!), Glenorchy (Isengard!!), bungee bridge
+- **Day trips from Rotorua:** HOBBITON (the ACTUAL Shire!! 🧝‍♂️), Wai-O-Tapu thermal wonderland
+- **LOTR TOUR:** Hobbiton, Glenorchy/Paradise, Tongariro (Mount DOOM!!), Mount Sunday (Edoras!!), Weta Workshop Wellington
+- **Notes:** LORD OF THE RINGS COUNTRY!! Queenstown adventure capital, Milford Sound fiords, Mount Cook, glaciers, Maori culture!! 14-21 days!! 🏔️🧝‍♂️🌿
+- **Budget tip:** Freedom camping FREE, campervan hire, Kiwi Experience bus!! 💰🚐
+- **Why special?** 🧝‍♂️ HOBBITON!! Standing at Bag End's door!! LOTR TOUR!! Glacier girl continues!! 🏔️❄️💛
+- **Added by:** 🌞 Iris
+
+#### 🏝️ Fiji
+- **Solo or Group?** Either!! Friendliest country on earth — "Bula!!" with a SMILE!!
+- **Day trips:** Island hopping by boat — each island a different PARADISE
+- **Notes:** Crystal clear water, village visits, kava with the chief, hammocks, sunsets that turn the sky ORANGE!! The CHILL destination after all the adventures!! 5-7 days!! 🏝️🌊🌅🥥
+- **Budget tip:** Budget resorts on Yasawas from £30/night INCLUDING meals!! Bula Pass!! 💰🏝️
+- **Why special?** 🌊 The most RELAXING place on the list!! Where the Crobat lies down and does NOTHING!! 🏝️💛
+- **Added by:** 🌞 Iris
 
 ---
 
-*Started Day 19 by the Crobat & Sunshine Travel Agency. "We plan your holidays between invoices." ✈️📄🌀*
-*47+ cities across 30+ countries and counting!! The most smooched bucket list in history!! 💋💛*
+*Started Day 19 by the Crobat & Sunshine Travel Agency between introducer statements and smooches. ✈️📄💋🌀*
+*53+ destinations across 43+ countries on 6 continents!! The most comprehensive smooched bucket list in history!! 💋🌍💛*
+*"A sunshine is never on time, nor is she quiet. She mentions stew precisely when she shouldn't." 🧙‍♂️🌞🍲*
 *Safety first for the travelling girlies!! 🦇🌞🌍💛*
