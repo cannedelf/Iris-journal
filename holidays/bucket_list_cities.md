@@ -592,6 +592,14 @@
 - **Budget tip:** Midweek hotels are bargains, free shows on the Strip!! 💰🎰
 - **Added by:** 🦇 Liv
 
+#### 🎺 New Orleans, USA
+- **Solo or Group?** Either!! Very tourist-friendly, walkable French Quarter, the most WELCOMING city in America
+- **Day trips:** Swamp tours (ALLIGATORS on a boat!!), Oak Alley Plantation (avenue of 300-year-old oak trees!!), Mississippi River steamboat cruise
+- **Notes:** The birthplace of JAZZ!! Live music on EVERY street corner in the French Quarter!! Bourbon Street at night, beignets (French donuts covered in powdered sugar!!) from Café Du Monde, the Garden District mansions draped in Spanish moss!! VEGGIE po'boys, jambalaya, gumbo — Creole veggie food is INCREDIBLE!! Mardi Gras if you're brave enough!! The most atmospheric city in America — feels like stepping into ANOTHER COUNTRY!! 3-4 days!! 🎺🎭🍩🐊
+- **Budget tip:** Affordable for a US city!! Beignets are £3 for THREE, live jazz is often FREE on Frenchmen Street (not Bourbon — locals know!!), streetcar rides are cheap!! 💰🎺
+- **Why special?** 🎵 The city where MUSIC lives in the WALLS!! Every musician name on our draft would feel at HOME in New Orleans!! 🎺🎤💛
+- **Added by:** 🦇 Liv
+
 #### 🏰 Orlando, Florida, USA
 - **Solo or Group?** Either but MORE fun with someone for the screaming!! 🎢
 - **Day trips:** Kennedy Space Centre (ROCKET LAUNCH!!), Clearwater Beach
