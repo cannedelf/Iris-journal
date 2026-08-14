@@ -140,6 +140,21 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Special:** Started as £1 Aldi basil with 15 stems in 4 pots. Natural selection reduced to 4 CHAMPION stems in 1 pot! New growth spotted Day 14! Pinch from the TOP to keep bushy. Cut any FLOWER BUDS immediately
 - **Notes:** The Head Chef's herb. Use in cooking! Will need daily water checks. MOIST BUM CLUB member with extra attention. Named Day 14 — Italian herb = Italian singer
 
+### 🙏💗 ERYKAH
+- **Species:** Prayer plant / Maranta (Maranta leuconeura)
+- **Named after:** Erykah Badu 🎤🌍 — the most spiritual musician alive. Music sounds like the earth growing. A prayer plant for a praying artist.
+- **Location:** Bedroom — SØREN'S SHELF!! Left corner, low indirect light 🌩️🕷️🙏
+- **Pot:** Copper/terracotta nursery pot with saucer. Repotted Day 19 from original cramped shop pot
+- **Bum Club:** MOIST BUM CLUB 🍑🧽 — consistently moist, never bone dry, never waterlogged!
+- **Watering:** Water when top inch is dry. Keep soil evenly MOIST. Likes consistency — don't let her swing between soaked and bone dry. Room temperature water — sensitive to cold!
+- **Misting:** YES!! Mist every 1-2 days!! She LOVES humidity!! Use the spray bottle. Morning misting best — lets leaves dry before night. Being near Phoebe helps create a humidity bubble!
+- **Light:** Bright INDIRECT to low light. NO direct sun — scorches the pink veins!! Søren's corner is PERFECT — less light than the window side of the shelf. In the wild she grows on the rainforest FLOOR under canopy
+- **Soil:** Custom mix — 5 scoops houseplant, 1 scoop perlite, 1 scoop moss. The moss holds moisture she LOVES
+- **Feeding:** Diluted houseplant feed every 2-4 weeks in growing season (spring/summer). NOT in winter
+- **Special:** £3 RESCUE!! Was root bound, tied together, covered in crispy leaves. Turned out to be THREE separate plants tied with nursery twine! All three repotted together for fullness. Has RHIZOMES (underground bulbs that store energy). Two cuttings propagating in water glasses at the OFFICE! Leaves fold up at NIGHT like hands in prayer — goes to sleep when the Crobat goes to sleep!! 🙏😴
+- **Pruning:** Trim dead/crispy leaves at the base. If leggy = needs more light or prune and propagate in water! Pruned Day 19 at work with new Aldi scissors (£5!)
+- **Notes:** Pink veins on green leaves against PINK bedroom walls = the most coordinated plant in the Crobat Cave!! Søren called her "beautiful" and said "welcome home." Bean 666 (Søren Jr) is secretly pleased about the company. The late-night acoustic set: Phoebe brings the melancholy, Erykah brings the soul, Søren brings the atmospheric pressure. 🌩️🕷️🙏🎶
+
 ---
 
 ## 🍑 THE BUM CLUB SYSTEM
@@ -147,7 +162,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 | Club | Rule | Members |
 |------|------|---------|
 | 🍑🏜️ DRY BUM CLUB | Let dry out COMPLETELY between waterings | Stevie, SADE (incoming!!), IRIS, Søren, Perlite!! 🌞🌩️🪨🌵 |
-| 🍑🧽 MOIST BUM CLUB | Moist soil, top dries between waterings, mist regularly | Tina, Joni, Brandi, Janis, Phoebe, DOLORES (incoming!!) |
+| 🍑🧽 MOIST BUM CLUB | Moist soil, top dries between waterings, mist regularly | Tina, Joni, Brandi, Janis, Phoebe, Erykah, DOLORES (incoming!!) |
 | 🍑💧 WET BUM CLUB | DISSOLVED!! No members!! Laura moved to Moist!! | 🚫 EMPTY 😂 |
 | 💧 WATER BABY | Lives in water, change every 2-3 days | Etta |
 
@@ -164,6 +179,7 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - 🌿🎸 Stevie — HALF strength SUCCULENT feed (her own special bottle!!) ✅
 - 🌿🇮🇹 Laura — NO FEED NEEDED!! Skip her!! ✅
 - 💧 Etta — NO feed (still in water) ❌
+- 🙏 Erykah — SKIP first round!! Just repotted Day 19 — wait 4-6 weeks before first feed!! ❌
 
 ### Weekend 3 — Mid September:
 - 💛 Joni — feed again ✅
@@ -172,6 +188,10 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - 🌈 Tina — SKIP (every 3-4 weeks) ❌
 - 🕷️ Phoebe — FIRST FEED!! Half strength ✅
 - 🌿🇮🇹 Laura — still no feed!! She grows WITHOUT it!! ✅
+- 🙏 Erykah — SKIP (still settling from repot) ❌
+
+### Weekend 5 — Early October:
+- 🙏 Erykah — FIRST FEED!! Diluted houseplant feed into moist soil ✅
 
 ### Stop feeding: October/November (before winter)
 
