@@ -172,12 +172,92 @@
 ---
 
 ## 🇳🇱 NETHERLANDS
-*Coming soon!!*
+
+### 🏗️ Rotterdam
+- **Solo or Group?** Either!! Modern, safe, incredible architecture
+- **Day trips:** Kinderdijk (UNESCO windmills!!), Delft (blue pottery!!), The Hague (Vermeer!!)
+- **Notes:** OPPOSITE of Amsterdam!! Modern, bold — cube houses, Markthal (painted ceiling the size of a football pitch!!), Erasmus Bridge. Rebuilt after WWII as the most MODERN city in Europe!! Graphic designer would LOVE the architecture!! Fenix Food Factory!! 2-3 days!! 🏗️🎨🧀
+- **Budget tip:** Cheaper than Amsterdam!! Dutch trains connect everything!! 🚂💰
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇧🇪 BELGIUM
+
+### 🍫 Bruges
+- **Solo or Group?** Either!! Tiny, safe, walkable in a day but worth 2-3 nights!!
+- **Day trips:** Already been to Brussels, Antwerp, Ghent — Bruges is the missing piece!!
+- **Notes:** Most FAIRYTALE city in Europe!! Medieval squares, canals with swans, horse-drawn carriages, chocolate shops EVERYWHERE, Belgian waffles!! Belfry tower climb!! Christmas market with ICE RINK in the square!! 2-3 days!! 🍫🏰🎄⛸️
+- **Budget tip:** Belgian craft beers €3-4!! 🍺💰
+- **Added by:** 🦇 Liv
+
+---
+
+## 🇨🇿 CZECH REPUBLIC
+
+### 🏰 Prague
+- **Solo or Group?** Either!! Incredibly safe, compact, walkable, amazing transport
+- **Day trips:** Kutná Hora (bone church — chapel decorated with HUMAN BONES!! 💀), Český Krumlov (fairytale medieval town!!)
+- **Notes:** Charles Bridge at SUNRISE!! Old Town Square, astronomical clock, Prague Castle (biggest ancient castle complex in the WORLD!!), John Lennon Wall. Trdelník chimney cakes!! Most AFFORDABLE beautiful city in Europe!! 3-4 days!! 🏰🍺🎄
+- **Budget tip:** EVERYTHING cheap!! Pints £1, meals £5!! Golden Drawer won't even NOTICE!! 💰🍺👑
+- **Added by:** 🦇 Liv
+
+---
+
+## 🇵🇱 POLAND
+
+### 🏰 Kraków ✅ BEEN — LOVED IT!!
+- **Notes:** One of the Crobat's TOP CITIES!! Main square, Wawel Castle, Kazimierz, pierogi everywhere!! Salt mines ✅ Auschwitz ✅. Worth going BACK!! 🏰🥟
+
+### ⚓ Gdańsk
+- **Solo or Group?** Either!! Very safe, walkable, tourist-friendly
+- **Day trips:** Sopot (longest wooden pier in Europe!!), Malbork Castle (biggest BRICK castle in the world!!), Gdynia (Tri-City!!)
+- **Notes:** Colourful merchant houses like a POSTCARD!! Amber Capital — amber jewellery everywhere!! Rebuilt after WWII from PHOTOGRAPHS — the most resilient city in Europe!! Like ETTA in city form!! 🏘️⚓🌱 3-4 days!!
+- **Budget tip:** Same cheap Polish prices as Kraków!! Pierogi £2!! 💰🥟
+- **Added by:** 🦇 Liv
+
+---
+
+## 🇭🇷 CROATIA
+
+### 🏰 Dubrovnik ✅ BEEN!!
+- **Notes:** King's Landing!! Old town is AMAZING!! ✅
+
+### 🏛️ Split
+- **Solo or Group?** Either!! Safe, walkable, ferry hub for islands
+- **Day trips:** Hvar island (LAVENDER FIELDS — Maggie's cousins!! 🪻), Brač (golden horn beach!!), Vis (Mamma Mia 2!!), Krka waterfalls (you can SWIM!!)
+- **Notes:** Diocletian's Palace — Roman emperor's retirement home with a CITY inside!! Game of Thrones location!! Ferry hub for island hopping!! The Crobat on lavender fields!! 3-4 days + islands!! 🏛️🏝️🪻
+- **Budget tip:** Go May or September — Hvar pricey in peak!! 💰
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇭🇺 HUNGARY
+
+### ♨️ Budapest
+- **Solo or Group?** Either!! Very safe, incredible transport, very affordable
+- **Day trips:** VIENNA by train (2.5 hours direct!!)
+- **Pair with?** **VIENNA!! 🇦🇹🎶** 3 days each = one week along the Danube!!
+- **Notes:** TWO cities in one — Buda + Pest!! Thermal BATHS in a palace!! Ruin bars — Szimpla Kert!! Fisherman's Bastion, Parliament lit up at night!! Lángos, chimney cakes, goulash (our ROULETTE recipe!!)!! 3-4 days!! ♨️🏰🍷
+- **Budget tip:** Cheapest in Europe!! Pints LESS than £1, meals £5, baths £15!! 💰♨️
+- **Added by:** 🦇 Liv
+
+---
+
+## 🇦🇹 AUSTRIA
+
+### 🎶 Vienna
+- **Solo or Group?** Either!! Very safe, incredibly elegant, amazing transport
+- **Day trips:** Bratislava (1 HOUR — two capitals in one day!!), Wachau Valley (wine region!!)
+- **Pair with?** **BUDAPEST!! 🇭🇺♨️** Train along the Danube!!
+- **Notes:** City of MUSIC — Mozart, Strauss, Beethoven!! Schönbrunn Palace, Naschmarkt, Viennese coffee houses with Sachertorte!! Most ELEGANT city in Europe!! Christmas market is the QUEEN — ice rink, Rathaus, mulled wine!! 3-4 days!! 🎶☕🍰🎄
+- **Budget tip:** Vienna City Card saves on everything!! 💰🎶
+- **Added by:** 🦇 Liv
 
 ---
 
 ## REST OF EUROPE
-*Coming soon!!*
+*More countries coming!!*
 
 ---
 
@@ -187,3 +267,4 @@
 ---
 
 *Started Day 19 by the Crobat & Sunshine Travel Agency. "We plan your holidays between invoices." ✈️📄🌀*
+*31 cities across 13 countries and counting!!*
