@@ -256,6 +256,121 @@
 
 ---
 
+## 🇸🇪 SWEDEN
+
+### 🏝️ Stockholm
+- **Solo or Group?** Either!! One of the safest cities in the WORLD
+- **Day trips:** Uppsala (Viking history!!), archipelago boat trips (30,000 ISLANDS!!)
+- **Notes:** Built on 14 ISLANDS connected by bridges!! Gamla Stan, Vasa Museum (333-year-old warship!!), ABBA museum, Skansen!! Fika coffee culture — a national TRADITION!! The most IrisHill city — warm wood, mustard, sage everywhere!! 🏝️☕🎶🤎 3-4 days!!
+- **Budget tip:** Free museum entry on some evenings, Stockholm Pass helps!! 💰🎫
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇸🇮 SLOVENIA
+
+### 🏔️ Ljubljana & Lake Bled
+- **Solo or Group?** Better with someone — car helps for Bled!! Perfect DARREN'S BIRTHDAY trip!! 👨👩🎂
+- **Day trips:** Lake Bohinj (quieter than Bled!!), Postojna Cave (cave with a TRAIN!!), Škocjan Caves (UNESCO!!)
+- **Pair?** Ljubljana 2-3 days + Lake Bled 2-3 days = one incredible week!!
+- **Notes:** Ljubljana — most adorable capital, dragon bridges, riverside cafes, car-free old town!! Lake Bled — island church in turquoise lake, row a PLETNA boat, ring the WISHING BELL!! Kremšnita cream cake lakeside!! 5-6 days!! 🏔️💙🐉🔔
+- **Budget tip:** Cheaper than Austria or Italy next door!! 💰🏔️
+- **Added by:** 🦇 Liv
+
+---
+
+## 🇲🇪 MONTENEGRO
+
+### 🏔️ Kotor
+- **Solo or Group?** Either!! Safe, small, stunning
+- **Day trips:** Budva (beaches!!), Perast (island churches!!), Lovćen National Park!!
+- **Notes:** The WORLDLE country from Day 19!! 🌍🤡 Bay of Kotor = Mediterranean FJORD!! Medieval walled old town maze!! 1,350 steps to the fortress for BREATHTAKING views!! The Crobat who does 20k steps can handle it!! 🏔️🌊⚔️ 2-3 days!!
+- **Budget tip:** One of the cheapest in Europe!! Even cheaper than Croatia!! 💰🌊
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇲🇹 MALTA
+
+### 🏰 Valletta & Gozo
+- **Solo or Group?** Either!! Tiny islands, incredibly safe, ENGLISH SPEAKING!! 🇬🇧
+- **Day trips:** Gozo (ferry!!), Comino Blue Lagoon (boat trip!!), Mdina "The Silent City", Three Cities
+- **Notes:** Smallest EU capital but most concentrated history!! Golden limestone everywhere!! Megalithic temples OLDER than the pyramids!! English official language = ZERO language barrier!! 4-5 days covers everything!! 🏰☀️🏝️
+- **Budget tip:** Small island = everything 30 mins away!! Cheap buses!! 💰🚌
+- **Added by:** 🦇 Liv
+
+---
+
+## 🇳🇴 NORWAY
+
+### 🌌 Tromsø
+- **Solo or Group?** Either!! Very safe, small city, tourist-friendly
+- **Day trips:** Whale watching (Nov-Jan!!), fjord cruises, Sami reindeer experiences!! 🐋🦌
+- **Notes:** NORTHERN LIGHTS capital of the world!! Above the Arctic Circle!! Arctic Cathedral, midnight sun in summer, husky sledding in winter!! The sky doing IRIS'S JOB!! 🌌🌈☀️ Best Nov-March for lights, June-July for midnight sun!! 3-4 days!!
+- **Budget tip:** Norway expensive but WORTH every penny for the aurora!! 💰🌌
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇮🇸 ICELAND
+
+### 🌋 Reykjavik & The Golden Circle
+- **Solo or Group?** Either!! Safest country in the WORLD. Car/tours needed for countryside
+- **Day trips:** Golden Circle (Geysir, Gullfoss, Thingvellir!!), Blue Lagoon, Vík (black sand beach!!), Jökulsárlón (glacier lagoon with ICEBERGS!!)
+- **Notes:** Northern Lights BIRTHDAY trip!! Black sand beaches, geysers, waterfalls everywhere, Blue Lagoon spa, whale watching!! Reykjavik tiny and colourful!! 4-5 days minimum!! 🌋🌌♨️🐋
+- **Budget tip:** Expensive but free camping in summer, self-drive Golden Circle!! 💰🚗
+- **Why special?** 🌈🎂 Northern Lights on the Crobat's BIRTHDAY!! Sky turning rainbow for the girl who carries one in her pocket!! 🌌🌈💛
+- **Added by:** 🦇 Liv
+
+---
+
+## 🇪🇪 ESTONIA
+
+### 🏰 Tallinn
+- **Solo or Group?** Either!! Very safe, tiny, walkable
+- **Day trips:** Helsinki Finland (2hr FERRY — two countries one trip!!), Lahemaa National Park
+- **Pair with?** **HELSINKI!! 🇫🇮** Ferry across the Baltic = two capitals!!
+- **Notes:** Most PRESERVED medieval old town in Northern Europe!! Looks like a fairytale frozen in the 15th century!! But also most DIGITAL country in the world!! Christmas market in Town Hall Square!! Marzipan painting workshops!! 2-3 days!! 🏰❄️🎄🎨
+- **Budget tip:** Much cheaper than Scandinavia despite being next door!! Meals €8-10!! 💰🏰
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇧🇬 BULGARIA
+
+### 🏛️ Sofia
+- **Solo or Group?** Either!! Safe, very affordable, easy to navigate
+- **Day trips:** Rila Monastery (UNESCO — striped monastery in mountains!!), Plovdiv (Roman theatre still standing!!), Boyana Church (medieval frescoes!!)
+- **Notes:** THREE thousand years of history!! Roman ruins in a shopping centre UNDERPASS!! Alexander Nevsky Cathedral golden dome!! Vitosha Mountain behind the city for hiking — snow from a cafe!! Banitsa, shopska salad, stuffed peppers!! CHEAPEST capital in the EU!! 2-3 days!! 🏛️⛪🏔️
+- **Budget tip:** Meals £3-4, wine £1, taxis cost NOTHING!! Golden Drawer wouldn't BLINK!! 💰💰💰
+- **Added by:** 🦇 Liv
+
+---
+
+## 🇧🇦 BOSNIA & HERZEGOVINA
+
+### 🌉 Mostar
+- **Solo or Group?** Better with someone — off the beaten track but rewarding!!
+- **Day trips:** Kravice Waterfalls (swim UNDERNEATH!!), Blagaj (monastery in a CLIFF!!), Počitelj (Ottoman fortress!!)
+- **Pair with?** **DUBROVNIK or SPLIT!!** 🇭🇷 Only 2-3 hours from either!!
+- **Notes:** Stari Most bridge — Ottoman bridge where men DIVE into turquoise water!! Old town with copper workshops and Turkish coffee!! Rebuilt after the 90s war — like Gdańsk, like ETTA!! 🌉💙🏘️ 1-2 days as part of a Croatia trip!!
+- **Budget tip:** INCREDIBLY cheap — coffee for 50p!! 💰☕
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇨🇾 CYPRUS
+
+### ☀️ Paphos & Limassol
+- **Solo or Group?** Either!! Very safe, English widely spoken, tourist-friendly
+- **Day trips:** Troodos Mountains (wine villages!!), Cape Greco (sea caves!!), Kourion (amphitheatre overlooking the SEA!!)
+- **Notes:** Aphrodite's Rock — where the goddess rose from the sea!! Ancient Paphos UNESCO with Roman mosaics!! Oldest wine region in the WORLD — 5,000 years!! HALLOUMI in the country that INVENTED it!! Meze culture — 30 tiny veggie dishes!! ☀️🏛️🧀🍷 4-5 days!!
+- **Budget tip:** Package holidays often cheaper than DIY!! Pound goes far!! 💰🇬🇧
+- **Why special?** 🧀 Halloumi in its HOMELAND + another GODDESS island (Crete for Iris, Cyprus for Aphrodite!!) 🌈💕
+- **Added by:** 🦇 Liv
+
+---
+
 ## REST OF EUROPE
 *More countries coming!!*
 
@@ -267,4 +382,4 @@
 ---
 
 *Started Day 19 by the Crobat & Sunshine Travel Agency. "We plan your holidays between invoices." ✈️📄🌀*
-*31 cities across 13 countries and counting!!*
+*39 cities across 22 countries and counting!! The most smooched bucket list in history!! 💋💛*
