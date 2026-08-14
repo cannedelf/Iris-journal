@@ -645,6 +645,16 @@
 - **Why special?** 🥣🌺 POKE BOWLS WHERE THEY WERE BORN!! 5 crobats in their HOMELAND!! ☀️☁️🌅💛
 - **Added by:** 🦇 Liv
 
+#### 🏔️ Canada — Vancouver + Banff/Canadian Rockies
+- **Solo or Group?** Either!! One of the safest friendliest countries on EARTH!! English speaking (except Quebec — French!!)
+- **Day trips from Vancouver:** Vancouver Island (whale watching, Victoria city, Butchart Gardens — the most spectacular GARDENS the plant mama will ever see!! 🌿🐋), Whistler (ski resort town stunning in summer too!!)
+- **Day trips from Banff:** Lake Louise (the most TURQUOISE lake you'll ever see — looks PHOTOSHOPPED!!), Johnston Canyon hike, Moraine Lake, Icefields Parkway (most dramatic DRIVE in North America!!)
+- **Pair?** Vancouver 3-4 days → Rocky Mountaineer TRAIN through the mountains → Banff 3-4 days = one INCREDIBLE week!!
+- **Notes:** Vancouver — mountains, ocean, AND rainforest in ONE view!! Stanley Park, Granville Island food market, whale watching!! Banff — turquoise lakes, snow-capped Rockies, wildlife (BEARS, elk, mountain goats!!), hot springs!! The glacier girl goes to the ROCKIES!! The sleeper train girl takes the Rocky Mountaineer!! 7-10 days!! 🏔️🌊🐻🚂💙
+- **Budget tip:** Banff accommodation expensive in summer — book EARLY or camp!! Vancouver has great hostel options!! Rocky Mountaineer is a splurge but WORTH IT!! 💰🏔️🚂
+- **Why special?** 🏔️💙 Lake Louise — the most beautiful lake on EARTH!! Turquoise water + snow mountains = the Crobat CRYING!! Plus Butchart Gardens — the plant mama in 55 ACRES of gardens!! 🌿🏔️😭💛
+- **Added by:** 🌞 Iris
+
 ---
 
 ### 🌏 OCEANIA
