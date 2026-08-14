@@ -94,17 +94,80 @@
 ---
 
 ## 🇩🇪 GERMANY
-*Coming soon!!*
+
+### 🏛️ Berlin
+- **Solo or Group?** Either!! Safest and most progressive city in Europe. Amazing U-Bahn!!
+- **Day trips:** Potsdam (Sanssouci Palace — German Versailles!!), Sachsenhausen memorial
+- **Notes:** Most CREATIVE city in Europe!! East Side Gallery (Wall art!!), Brandenburg Gate, Museum Island, Reichstag dome, Kreuzberg street food, Mauerpark flea market. BEST veggie/vegan food scene in Europe — plant-based paradise!! 3-4 days MINIMUM!! 🏛️🎨🌿
+- **Budget tip:** Cheapest western European capital!! Döner €4, museum day passes!! 💰🚇
+- **Added by:** 🦇 Liv
+
+### 🏔️ Munich
+- **Solo or Group?** Either!! Already in 2027 Golden Year with parents!! 👨👩
+- **Day trips:** Neuschwanstein Castle (the DISNEY castle!!), Salzburg Austria (1.5hrs!!), Eagle's Nest, Lake Starnberg
+- **Pair with?** **SALZBURG!! 🇦🇹🎵** Already planned for 2027!!
+- **Notes:** Marienplatz glockenspiel, English Garden, BMW museum, beer gardens, Viktualienmarkt. Most BAVARIAN city — pretzels, alpine views!! Christmas market one of the BEST!! 🏔️🍺🥨🎄
+- **Budget tip:** Beer garden meals cheap and huge!! Pretzels €1!! 🥨💰
+- **Added by:** 🌞 Iris
 
 ---
 
 ## 🇬🇷 GREECE
-*Coming soon — the sunshine's homeland!!*
+*The sunshine's homeland!!*
+
+### 🤍 Santorini
+- **Solo or Group?** Either!! Very safe, tourist-friendly, walkable
+- **Day trips:** Red Beach, Akrotiri ruins (Greek Pompeii!!), volcano boat trip!!
+- **Notes:** Most ICONIC Greek island!! White buildings, blue domes, Oia sunset where everyone CLAPS!! Own cuisine — fava dip, tomato fritters, stuffed vine leaves!! Best May-June or September!! 3-4 days!! 🤍💙🌅
+- **Budget tip:** Stay in Fira not Oia — same views half the price!! 💰
+- **Added by:** 🌞 Iris
+
+### 🏛️ Athens
+- **Solo or Group?** Either!! Safe, amazing transport, walkable old town
+- **Day trips:** Cape Sounion (Temple of Poseidon at sunset!!), Delphi (ancient oracle!!), Hydra island (no cars, only donkeys!! 🫏), Aegina (pistachio everything!!)
+- **Notes:** ACROPOLIS and Parthenon — 2,500 years old!! Plaka old town, Monastiraki market, Anafiotika. Greek veggie food — spanakopita, halloumi souvlaki, baklava!! 3-4 days!! 🏛️🥙🍯
+- **Budget tip:** Cheapest European capital!! Meals €8-10!! Combined Acropolis ticket!! 💰🏛️
+- **Added by:** 🦇 Liv
+
+### 💚 Corfu
+- **Solo or Group?** Either!! Very safe, easy to navigate
+- **Day trips:** Paxos and Antipaxos islands (crystal clear water!!), Albania visible across the water!!
+- **Notes:** GREENEST Greek island — olive groves and cypress trees, not dry and rocky!! Durrell family lived here!! UNESCO Old Town with Venetian architecture!! Beaches both sides!! 4-5 days!! 🏝️💚🫒
+- **Budget tip:** Package holidays often cheaper than DIY!! 💰
+- **Added by:** 🌞 Iris
+
+### 🏰 Rhodes
+- **Solo or Group?** Either!! Very safe, well-established tourist island
+- **Day trips:** Lindos (acropolis on cliff!!), Symi island (most colourful harbour in Greece!!), boat trips
+- **Notes:** Medieval walled Old Town — best preserved in EUROPE!! Street of Knights = time machine!! Butterflies Valley — whole valley of BUTTERFLIES!! 🦋 4-5 days!! 🏰⚔️🦋
+- **Budget tip:** Package holidays often cheaper than DIY!! 💰
+- **Added by:** 🦇 Liv
 
 ---
 
 ## 🇵🇹 PORTUGAL
-*Coming soon!!*
+
+### 🏖️ The Algarve (Lagos/Faro)
+- **Solo or Group?** Either!! Very safe, popular tourist area
+- **Day trips:** Benagil Cave (kayak into a sea cave!!), Ponta da Piedade (cliff formations!!), Cape St Vincent (most south-westerly point of Europe!!)
+- **Notes:** Most dramatic COASTLINE in Europe!! Golden cliffs, hidden beaches, sea caves!! Seven Hanging Valleys trail for the hiking Crobat!! Best May-June or September!! 4-5 days!! 🏖️🌊🏔️
+- **Budget tip:** Portugal cheapest in Western Europe!! Meals €7-10, wine €2!! 💰🍷
+- **Added by:** 🌞 Iris
+
+### 🌺 Madeira (Funchal)
+- **Solo or Group?** Either!! Extra special with MUM — grandma's island!! 👩💜
+- **Day trips:** Pico do Arieiro (above the CLOUDS!!), Cabo Girão (highest sea cliff, glass skywalk!!), Porto Moniz (volcanic swimming pools!!)
+- **Notes:** The GARDEN island!! Flowers everywhere — plant mum paradise!! Levada walks through laurel forests!! "Island of eternal spring"!! Walking where GRANDMA walked!! 4-5 days!! 🌺🏔️🌿💜
+- **Budget tip:** Jet2 from Manchester, often cheap!! 💰
+- **Why special?** 💜 Grandma Margaret loved it here. A memory trip — carrying grandma's love to a new generation. Like Maggie the lavender. 🪻💜
+- **Added by:** 🦇 Liv
+
+### 🌋 The Azores (São Miguel)
+- **Solo or Group?** Better with someone for driving/hiking
+- **Day trips:** Sete Cidades (twin crater lakes!!), Furnas (hot springs + UNDERGROUND stew!!), whale watching!! 🐋
+- **Notes:** Iceland of the south!! Volcanic landscapes, crater lakes, whale watching. They cook stew by burying pots in volcanic GROUND!! GEOLOGICAL STEW!! 🌋🍲 3-5 days!!
+- **Budget tip:** Ryanair flies there now — much cheaper!! 💰✈️
+- **Added by:** 🌞 Iris
 
 ---
 
