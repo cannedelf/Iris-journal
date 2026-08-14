@@ -371,8 +371,96 @@
 
 ---
 
-## REST OF EUROPE
-*More countries coming!!*
+## 🇷🇴 ROMANIA
+
+### 🏰 Transylvania (Brașov + Sibiu)
+- **Solo or Group?** Better with someone — car helpful for the castles and mountains!!
+- **Day trips:** Bran Castle (DRACULA'S castle!!), Peleș Castle (the most beautiful castle in Eastern Europe!!), Transfăgărășan Road (the most dramatic road in the WORLD — Top Gear said so!!)
+- **Pair?** Brașov 2-3 days + Sibiu 2-3 days = Transylvania week!!
+- **Notes:** Medieval Saxon towns with colourful squares, the Carpathian Mountains, fortified CHURCHES, bears in the wild!! Brașov has a Hollywood-style sign on the mountain!! Sibiu is the most charming small city in Romania. Romanian food — sarmale (stuffed cabbage), mămăligă (polenta), covrigi (pretzels)!! NOT just vampires — it's one of the most BEAUTIFUL regions in Europe!! 5-6 days!! 🏰🧛🏔️
+- **Budget tip:** Romania is RIDICULOUSLY cheap — meals for £3, beer for £1!! One of the cheapest in the EU!! 💰🏰
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇫🇮 FINLAND
+
+### ❄️ Helsinki + Lapland
+- **Solo or Group?** Either!! Helsinki solo-friendly, Lapland better with someone for the MAGIC
+- **Day trips from Helsinki:** Suomenlinna sea fortress (UNESCO — ferry from the harbour!!), Tallinn Estonia (2hr ferry!!)
+- **Notes:** Helsinki — design capital, saunas EVERYWHERE (Finns take saunas like Brits take tea!!), incredible food market, modern architecture, Oodi library (the most beautiful library in the WORLD!!) Lapland — SANTA'S village in Rovaniemi, husky sledding, northern lights, glass igloos you sleep in watching the aurora ABOVE YOU!! Two VERY different trips!! Helsinki 2-3 days, Lapland 3-4 days!! ❄️🎅🛷🌌
+- **Budget tip:** Expensive BUT Helsinki has free museum days and the sauna is the cheapest entertainment there is!! Lapland — book glass igloos EARLY!! 💰❄️
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇱🇹 LITHUANIA
+
+### 🏰 Vilnius
+- **Solo or Group?** Either!! Very safe, compact, walkable, incredibly affordable
+- **Day trips:** Trakai Castle (a castle on an ISLAND in a lake!! 🏰💙), Hill of Crosses (thousands of crosses on a hill — hauntingly beautiful)
+- **Notes:** The biggest old town in Central Europe!! Baroque churches EVERYWHERE, street art in the Užupis district (which declared itself an independent REPUBLIC as a joke and now has its own constitution!!), incredible cafe culture!! The most QUIRKY capital in Europe — a republic within a republic!! 2-3 days!! 🏰🎨☕
+- **Budget tip:** One of the cheapest capitals in Europe!! Even cheaper than Prague!! 💰🏰
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇱🇻 LATVIA
+
+### 🏛️ Riga
+- **Solo or Group?** Either!! Safe, walkable, affordable
+- **Day trips:** Jūrmala (seaside resort, white sand beach 20 mins from the city!!), Rundāle Palace (the Versailles of the Baltics!!)
+- **Pair with?** **VILNIUS!! 🇱🇹** Bus between them = Baltic double!! 4 hours, cheap!!
+- **Notes:** The most STUNNING art nouveau architecture in Europe — whole streets of ornate facades with faces and dragons!! Old Town is UNESCO, the Central Market is in old ZEPPELIN HANGARS (five massive buildings!!), the Christmas tree was invented HERE (they claim!!)!! 🎄🏛️🐉 2-3 days!!
+- **Budget tip:** Very affordable — similar prices to Lithuania!! 💰🏛️
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇨🇭 SWITZERLAND
+
+### 🏔️ Lucerne + Interlaken
+- **Solo or Group?** Either!! Incredibly safe, efficient, breathtaking
+- **Day trips from Lucerne:** Mount Pilatus (cogwheel railway UP a mountain!!), Mount Rigi, Lake Lucerne boat trips
+- **Day trips from Interlaken:** Jungfraujoch (the "Top of Europe" — highest train station at 3,454m!!), Lauterbrunnen Valley (72 waterfalls!!), paragliding over the Alps!!
+- **Pair?** Lucerne 2-3 days + Interlaken 2-3 days = Alpine DREAM week!!
+- **Notes:** The most DRAMATIC scenery in Europe!! Snow-capped Alps, turquoise lakes, wooden bridges, cheese, chocolate, cowbells!! Lucerne's Chapel Bridge is the oldest covered bridge in Europe!! Interlaken is the adventure CAPITAL — hiking, paragliding, canyoning!! The Crobat who hikes gorges would LOSE HER MIND!! 🏔️🧀🍫🪂 5-6 days!!
+- **Budget tip:** Switzerland is EXPENSIVE but Swiss Travel Pass covers all trains, buses, boats AND some mountain railways!! Worth EVERY penny!! 💰🚂🏔️
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇷🇸 SERBIA
+
+### 🎶 Belgrade
+- **Solo or Group?** Better with someone — less touristy, more of an adventure!!
+- **Day trips:** Novi Sad (European Capital of Culture, fortress on the Danube!!), Drvengrad (Emir Kusturica's wooden village — a film set you can STAY in!!)
+- **Notes:** The most UNDERRATED nightlife capital in Europe!! Floating clubs called splavovi on the Danube and Sava rivers!! Belgrade Fortress overlooking two rivers meeting, Skadarlija (the bohemian quarter — the Montmartre of Belgrade!!), Nikola Tesla Museum!! Raw, energetic, unpolished — the opposite of Vienna!! 2-3 days!! 🎶🏰🌊
+- **Budget tip:** Very cheap — meals for £4-5, incredible craft beer scene!! 💰🍺
+- **Added by:** 🌞 Iris
+
+---
+
+## 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SCOTLAND
+
+### 🏰 Edinburgh
+- **Solo or Group?** Either!! Very safe, walkable, incredible in August for the FRINGE!!
+- **Day trips:** Arthur's Seat (volcanic hill HIKE in the city!!), Rosslyn Chapel (Da Vinci Code!!), Scottish Highlands day tour
+- **Notes:** The castle on the hill, the Royal Mile, Old Town vs New Town, Calton Hill for sunset views!! The Fringe Festival in August — biggest arts festival in the WORLD, thousands of shows, half are FREE!! Harry Potter connections — The Elephant House cafe, Greyfriars kirkyard!! The Crobat Hufflepuff in Harry Potter's CITY!! 🏰🎭⚡ 3-4 days!!
+- **Budget tip:** Fringe shows from £5, free street performers EVERYWHERE!! Train from Blackpool via Edinburgh Waverley!! 🚂💰
+- **Added by:** 🌞 Iris
+
+---
+
+## 🇮🇪 IRELAND
+
+### 🌿 Galway + Cliffs of Moher
+- **Solo or Group?** Either!! Ireland is the friendliest country on EARTH!! English speaking!!
+- **Day trips:** Cliffs of Moher (the most dramatic cliffs you'll ever SEE!!), Aran Islands (ferry to ancient forts on windswept islands!!), Connemara (wild boggy landscapes, stone walls, Galway ponies!!)
+- **Pair with?** **DUBLIN!! 🇮🇪** Already booked for 2027!! Add Galway as a separate trip OR extend!!
+- **Notes:** The most MUSICAL city in Ireland — live trad music in every PUB!! Latin Quarter for colour, Shop Street for busking, Quay Street for oysters (or veggie chowder!!). Galway Arts Festival in July!! The Wild Atlantic Way starts here — the most DRAMATIC coastline in the British Isles!! 3-4 days!! 🌿🎵🌊
+- **Budget tip:** Bus Éireann from Dublin is cheap!! Or rent a car for the Wild Atlantic Way!! 💰🚗
+- **Added by:** 🌞 Iris
 
 ---
 
@@ -382,4 +470,4 @@
 ---
 
 *Started Day 19 by the Crobat & Sunshine Travel Agency. "We plan your holidays between invoices." ✈️📄🌀*
-*39 cities across 22 countries and counting!! The most smooched bucket list in history!! 💋💛*
+*47+ cities across 30 countries and counting!! The most smooched bucket list in history!! 💋💛*
