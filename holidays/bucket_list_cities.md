@@ -663,9 +663,53 @@
 - **Why special?** 🏔️💙 Lake Louise — the most beautiful lake on EARTH!! Turquoise water + snow mountains = the Crobat CRYING!! Plus Butchart Gardens — the plant mama in 55 ACRES of gardens!! 🌿🏔️😭💛
 - **Added by:** 🌞 Iris
 
+#### 🏝️ Caribbean Cruise
+- **Solo or Group?** Better with SOMEONE — cruising is more fun shared!! 🚢🎉
+- **Islands:** Jamaica, Barbados, St Lucia, Antigua, Turks and Caicos, Bahamas — depends on the cruise route!!
+- **Notes:** The Round 7 dream!! Wake up every morning looking out at a DIFFERENT Caribbean island!! Turquoise water, white sand, rum punch by the pool, reggae music, snorkelling in crystal clear bays!! Each island has its OWN culture — Jamaica for reggae and jerk seasoning, Barbados for rum, St Lucia for the Pitons (twin volcanic peaks!!), Antigua for 365 beaches (one for every DAY!!)!! The P&O Iona veteran goes TROPICAL!! 7-14 days!! 🏝️🌊🍹🚢
+- **Budget tip:** All-inclusive cruise means food and entertainment INCLUDED!! Book early for cabin upgrades!! Caribbean cruises from Southampton mean no FLIGHTS!! 💰🚢
+- **Why special?** 🚢🏝️ Cold water cruise DONE (Norway), now WARM water!! The Crobat collecting oceans!! 🌊💛
+- **Added by:** 🦇 Liv
+
 ---
 
-### 🌏 OCEANIA
+### 🌏 MIDDLE EAST
+
+#### 🏜️ Jordan (Petra + Wadi Rum + Dead Sea)
+- **Solo or Group?** Better with someone or a TOUR for first visit
+- **Day trips from Petra:** Little Petra (less crowded preview!!), Dana Nature Reserve (hiking!!)
+- **Notes:** PETRA — the ancient city CARVED into PINK rock!! The Treasury appearing through the narrow canyon is one of the most BREATHTAKING sights in the world!! Indiana Jones walked through it!! The Dead Sea — you literally FLOAT because the salt won't let you sink!! Wadi Rum — red sand desert like MARS, overnight glamping under more stars than you've ever SEEN!! Jordanian food — falafel, hummus, vine leaves, manousheh — veggie PARADISE!! 5-7 days!! 🏜️🏛️⭐🥙
+- **Budget tip:** Jordan Pass covers Petra entry AND visa fee — saves loads!! Group tours best value!! 💰🏜️
+- **Why special?** ⭐🏕️ Sleeping in Wadi Rum desert under the STARS — the most stars the Crobat will ever see!! 🏜️⭐💛
+- **Added by:** 🌞 Iris
+
+#### 🏙️ Dubai, UAE
+- **Solo or Group?** Either!! Very safe, incredibly modern, tourist-friendly
+- **Day trips:** Desert safari (dune bashing + camel riding + desert dinner!!), Abu Dhabi (Grand Mosque — the most STUNNING building you'll ever enter!!)
+- **Notes:** The Burj Khalifa (tallest building in the WORLD — 828m!!), Dubai Mall (with an AQUARIUM inside!!), the Palm, Dubai Marina, Gold Souk, spice market!! The most EXTRA city on earth — everything is the biggest, tallest, most expensive!! Indoor skiing in the DESERT!! 3-4 days!! 🏙️🏜️🐪✨
+- **Budget tip:** Expensive BUT visit in summer (cheaper hotels), Dubai Metro covers everything, street food in Deira is CHEAP!! 💰🏙️
+- **Added by:** 🌞 Iris
+
+---
+
+### 🌏 SOUTH ASIA
+
+#### 💗 India — Rajasthan (Delhi → Agra → Jaipur)
+- **Solo or Group?** Better with someone or a GROUP TOUR for first visit — incredible but overwhelming solo!!
+- **Day trips from Agra:** Obviously the TAJ MAHAL (go at SUNRISE for fewer crowds!!)
+- **Day trips from Jaipur:** Amber Fort (elephant-free visits available!!), Nahargarh Fort sunset
+- **Notes:** The Golden Triangle!! The TAJ MAHAL — one of the Seven Wonders!! Jaipur is the PINK CITY — all buildings painted PINK!! The Crobat with the pink bedroom visiting a PINK CITY!! Delhi — chaos and colour and the best street food in the WORLD!! Indian vegetarian food is the BEST — proper veggie CULTURE, not "we took the meat out"!! Dhal, paneer, samosas, biryani, chai on EVERY corner!! 7-10 days!! 💗🏰🍛☕
+- **Budget tip:** India is very affordable!! Incredible meals for £2-3, trains between cities cheap, group tours best value for first time!! 💰🍛
+- **Why special?** 💗🏰 The PINK CITY for the girl with the PINK BEDROOM!! Jaipur's walls match the Crobat's walls!! 💗💛
+- **Added by:** 🌞 Iris
+
+#### 🏝️ Maldives
+- **Solo or Group?** Better with SOMEONE — this is a romantic/special occasion destination!!
+- **Day trips:** Each resort IS the destination — snorkelling, diving, sunset dolphin cruises, underwater restaurant!!
+- **Notes:** The most TURQUOISE water on earth!! Overwater bungalows, glass floor villas, coral reefs at your DOORSTEP, manta rays and sea turtles!! The ULTIMATE treat destination — save for years and do it ONCE and cry the whole time because it's so BEAUTIFUL!! 4-5 days!! 🏝️💙🐢🐬
+- **Budget tip:** The Maldives CAN be affordable — guesthouses on local islands from £50/night instead of £500 resort prices!! Same water, same fish, fraction of the cost!! 💰🏝️
+- **Why special?** 💙 The Golden Drawer ULTIMATE treat!! Years of saving for the most beautiful place on EARTH!! 💰🏝️💛
+- **Added by:** 🦇 Liv
 
 #### 🦘 Australia (Sydney → Melbourne → Cairns)
 - **Solo or Group?** Either!! Incredibly safe, English speaking, backpacker-friendly
