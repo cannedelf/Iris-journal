@@ -95,7 +95,7 @@
       "misting": {
         "needed": true,
         "text": "Mist regularly for humidity.",
-        "lastMisted": "2026-08-12"
+        "lastMisted": "2026-08-17"
       },
       "special": "4 new leaves spotted (4th confirmed Day 15)! Starting to TRAIL! Will go to the OFFICE eventually. Most beautiful variegation — gold, green, cream.",
       "notes": "Separated from babies (Brandi + Janis). Growing like mad since separation. All energy going to OWN growth now.",
@@ -399,10 +399,22 @@
         "NO direct sun — scorches the beautiful pink veins!"
       ],
       "growth": [
-        { "date": "2026-08-14", "note": "Day 19 — purchased for £3! Best of 7 available. Pruned at work, 2 cuttings to propagate." },
-        { "date": "2026-08-14", "note": "Day 19 — repotted! Three plants freed from nursery twine. Custom soil 5:1:1. Placed on Søren's shelf!" },
-        { "date": "2026-08-15", "note": "Day 20 — first morning, leaves DOWN! She's settled!" },
-        { "date": "2026-08-16", "note": "Day 21 — second morning, leaves touching SØREN! Filed under TOLERATED." }
+        {
+          "date": "2026-08-14",
+          "note": "Day 19 — purchased for £3! Best of 7 available. Pruned at work, 2 cuttings to propagate."
+        },
+        {
+          "date": "2026-08-14",
+          "note": "Day 19 — repotted! Three plants freed from nursery twine. Custom soil 5:1:1. Placed on Søren's shelf!"
+        },
+        {
+          "date": "2026-08-15",
+          "note": "Day 20 — first morning, leaves DOWN! She's settled!"
+        },
+        {
+          "date": "2026-08-16",
+          "note": "Day 21 — second morning, leaves touching SØREN! Filed under TOLERATED."
+        }
       ],
       "gallery": []
     },
@@ -437,10 +449,17 @@
       "special": "Separated from Stevie Day 17! Was TWO plants in one pot — Stevie and Jade were freed! Going to Jo's south-facing window when settled (Day 27ish). One more week to establish roots in new soil.",
       "notes": "Jo's future baby! Named Day 17 when separated from Stevie. The Crobat's first plant SEPARATION surgery! 🌿🐦👩",
       "growth": [
-        { "date": "2026-08-12", "note": "Day 17 — separated from Stevie! Own pot, own identity!" },
-        { "date": "2026-08-15", "note": "Day 20 — first water in new soil!" }
+        {
+          "date": "2026-08-12",
+          "note": "Day 17 — separated from Stevie! Own pot, own identity!"
+        },
+        {
+          "date": "2026-08-15",
+          "note": "Day 20 — first water in new soil!"
+        }
       ],
-      "gallery": []
+      "gallery": [],
+      "care": []
     },
     {
       "id": "annie",
@@ -478,8 +497,14 @@
         "Nearly INDESTRUCTIBLE — the most forgiving plant in the Cave!"
       ],
       "growth": [
-        { "date": "2026-08-16", "note": "Day 21 — purchased from Lidl for £3.99! Walked 2 miles! Was TWO plants — separated into Annie + Kate!" },
-        { "date": "2026-08-16", "note": "Day 21 — repotted in 70/30 cactus mix. Dense coir removed, healthy orange roots!" }
+        {
+          "date": "2026-08-16",
+          "note": "Day 21 — purchased from Lidl for £3.99! Walked 2 miles! Was TWO plants — separated into Annie + Kate!"
+        },
+        {
+          "date": "2026-08-16",
+          "note": "Day 21 — repotted in 70/30 cactus mix. Dense coir removed, healthy orange roots!"
+        }
       ],
       "gallery": []
     },
@@ -514,9 +539,13 @@
       "special": "Annie's sister from the same £3.99! Going to Lorraine's — will be there for Crobat's surgery RECOVERY! Kate Bush running up that Hill to the Hill family home! A piece of the Crobat Cave waiting in Cleveleys! 🐍🎹👩🏠💛",
       "notes": "The most important £3.99 ever spent — Annie for the hallway AND Kate for mum. Don't water until Day 27!",
       "growth": [
-        { "date": "2026-08-16", "note": "Day 21 — separated from Annie, repotted in 70/30 cactus mix. Fostered until Lorraine visit!" }
+        {
+          "date": "2026-08-16",
+          "note": "Day 21 — separated from Annie, repotted in 70/30 cactus mix. Fostered until Lorraine visit!"
+        }
       ],
-      "gallery": []
+      "gallery": [],
+      "care": []
     },
     {
       "id": "christine-rhiannon",
@@ -551,9 +580,13 @@
       "special": "Stevie's GRANDBABIES!! Leaf propagations placed ON TOP of cactus mix. Wrinkly but green with calloused ends. Watching for tiny pink roots! The Crobat's first leaf propagation! 🌿🎹🎶",
       "notes": "Named after Fleetwood Mac — Christine McVie + Rhiannon. Stevie's musical family continues! 🎸➡️🎹🎶",
       "growth": [
-        { "date": "2026-08-14", "note": "Day 19 — placed on cactus mix. Calloused ends, watching for pink roots!" }
+        {
+          "date": "2026-08-14",
+          "note": "Day 19 — placed on cactus mix. Calloused ends, watching for pink roots!"
+        }
       ],
-      "gallery": []
+      "gallery": [],
+      "care": []
     }
   ],
   "fertiliser": {
