@@ -361,6 +361,199 @@
         }
       ],
       "gallery": []
+    },
+    {
+      "id": "erykah",
+      "name": "Erykah",
+      "emoji": "🙏",
+      "musicianEmoji": "💗",
+      "namedAfter": "Erykah Badu",
+      "species": "Prayer plant (Maranta leuconeura)",
+      "location": "Bedroom — Søren's shelf!! Left corner, low indirect light 🌩️🕷️🙏",
+      "room": "bedroom",
+      "pot": "Copper/terracotta nursery pot with saucer",
+      "bumClub": "moist",
+      "watering": {
+        "text": "Water when top inch is dry. Keep soil evenly MOIST — consistent, no swings between soaked and bone dry. Room temperature water — sensitive to cold!",
+        "intervalDays": 5,
+        "lastWatered": "2026-08-14",
+        "dailyCheck": false
+      },
+      "light": "Bright INDIRECT to low light. NO direct sun — scorches the pink veins!! Søren's corner is PERFECT. In the wild she grows on the rainforest FLOOR under canopy.",
+      "feeding": {
+        "text": "Diluted houseplant feed every 2-4 weeks in growing season. NOT in winter. Wait until October — just repotted!",
+        "firstFeed": "Early October",
+        "lastFed": null,
+        "skip": false
+      },
+      "misting": {
+        "needed": true,
+        "text": "Mist every 1-2 days!! She LOVES humidity!! Morning misting best — lets leaves dry before night. Being near Phoebe helps create a humidity bubble!",
+        "lastMisted": null
+      },
+      "special": "£3 RESCUE!! Was THREE separate plants tied with nursery twine — all freed and repotted together!! Custom soil 5:1:1 (houseplant:perlite:moss). Has RHIZOMES (underground energy storage). Leaves fold up at NIGHT like hands in prayer — goes to sleep when the Crobat goes to sleep!! 🙏😴 Søren called her 'beautiful' and said 'welcome home.' Two cuttings propagating at office!",
+      "notes": "Pink veins on green leaves against PINK bedroom walls = the most coordinated plant in the Cave!! The late-night acoustic set: Phoebe melancholy, Erykah soul, Søren atmospheric pressure. 🌩️🕷️🙏🎶",
+      "care": [
+        "Mist every 1-2 days — she's a tropical humidity lover!",
+        "Room temperature water ONLY — sensitive to cold!",
+        "NO direct sun — scorches the beautiful pink veins!"
+      ],
+      "growth": [
+        { "date": "2026-08-14", "note": "Day 19 — purchased for £3! Best of 7 available. Pruned at work, 2 cuttings to propagate." },
+        { "date": "2026-08-14", "note": "Day 19 — repotted! Three plants freed from nursery twine. Custom soil 5:1:1. Placed on Søren's shelf!" },
+        { "date": "2026-08-15", "note": "Day 20 — first morning, leaves DOWN! She's settled!" },
+        { "date": "2026-08-16", "note": "Day 21 — second morning, leaves touching SØREN! Filed under TOLERATED." }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "jade",
+      "name": "Jade",
+      "emoji": "🌿",
+      "musicianEmoji": "🐦",
+      "namedAfter": "Jade (Jo's future baby)",
+      "species": "Jade plant (Crassula ovata)",
+      "location": "Bedroom windowsill (east). Going to JO Day 27ish!",
+      "room": "bedroom",
+      "pot": "Nursery pot from Stevie separation",
+      "bumClub": "dry",
+      "watering": {
+        "text": "Same as Stevie! Chopstick test, water ONLY when bone dry. Every 2-3 weeks in summer.",
+        "intervalDays": 18,
+        "lastWatered": "2026-08-15",
+        "dailyCheck": false
+      },
+      "light": "Bright indirect to direct light. South-facing windowsill at Jo's will be PERFECT!",
+      "feeding": {
+        "text": "Half strength succulent feed, monthly in growing season.",
+        "firstFeed": "September",
+        "lastFed": null,
+        "skip": false
+      },
+      "misting": {
+        "needed": false,
+        "text": "NO misting — she's DRY BUM CLUB!"
+      },
+      "special": "Separated from Stevie Day 17! Was TWO plants in one pot — Stevie and Jade were freed! Going to Jo's south-facing window when settled (Day 27ish). One more week to establish roots in new soil.",
+      "notes": "Jo's future baby! Named Day 17 when separated from Stevie. The Crobat's first plant SEPARATION surgery! 🌿🐦👩",
+      "growth": [
+        { "date": "2026-08-12", "note": "Day 17 — separated from Stevie! Own pot, own identity!" },
+        { "date": "2026-08-15", "note": "Day 20 — first water in new soil!" }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "annie",
+      "name": "Annie",
+      "emoji": "🐍",
+      "musicianEmoji": "🎤",
+      "namedAfter": "Annie Lennox",
+      "species": "Snake plant (Sansevieria trifasciata Laurentii)",
+      "location": "HALLWAY — Bean Bum Boulevard!! The guardian! 🏠🐍 Bathroom door open for light.",
+      "room": "hallway",
+      "pot": "Nursery pot, repotted Day 21 with new soil",
+      "bumClub": "dry",
+      "watering": {
+        "text": "Water ONLY when bone dry — every 2-3 WEEKS in summer, once a MONTH in winter!! She'd rather be too DRY than too WET!",
+        "intervalDays": 18,
+        "lastWatered": null,
+        "dailyCheck": false
+      },
+      "light": "Tolerates ANYTHING — bright sun to low light! Hallway with bathroom door open = plenty. Most flexible plant there IS!",
+      "feeding": {
+        "text": "Diluted houseplant feed 2-3 times in growing season ONLY. Very light feeder.",
+        "firstFeed": "September",
+        "lastFed": null,
+        "skip": false
+      },
+      "misting": {
+        "needed": false,
+        "text": "NO misting — snake plants don't want humidity on leaves!"
+      },
+      "special": "£3.99 from Lidl! Walked 2 MILES to buy! Was TWO plants — separated into Annie and Kate! Healthy orange roots + rhizome. Nearly INDESTRUCTIBLE!! Don't water until Day 27!",
+      "notes": "The hallway guardian of Bean Bum Boulevard! Annie Lennox energy — strong, independent, gorgeous. Annie whispered she loves her plant mums already. 🐍🎤🏠💛",
+      "care": [
+        "Don't water until Day 27 — needs to settle post-repot!",
+        "Leave bathroom door open for light!",
+        "Nearly INDESTRUCTIBLE — the most forgiving plant in the Cave!"
+      ],
+      "growth": [
+        { "date": "2026-08-16", "note": "Day 21 — purchased from Lidl for £3.99! Walked 2 miles! Was TWO plants — separated into Annie + Kate!" },
+        { "date": "2026-08-16", "note": "Day 21 — repotted in 70/30 cactus mix. Dense coir removed, healthy orange roots!" }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "kate",
+      "name": "Kate",
+      "emoji": "🐍",
+      "musicianEmoji": "🎹",
+      "namedAfter": "Kate Bush — Running Up That HILL for a HILL family!",
+      "species": "Snake plant (Sansevieria trifasciata Laurentii) — Annie's sister!",
+      "location": "FOSTERED at Crobat Cave until Lorraine visit! Then going to MUM'S HOUSE! 🐍👩🏠",
+      "room": "bedroom",
+      "pot": "Smaller nursery pot (smaller roots than Annie)",
+      "bumClub": "dry",
+      "watering": {
+        "text": "Same as Annie — bone dry between waterings! Tell Lorraine: water once a month and she'll love you forever!",
+        "intervalDays": 21,
+        "lastWatered": null,
+        "dailyCheck": false
+      },
+      "light": "Same as Annie — tolerates anything! Lorraine may have south-facing window.",
+      "feeding": {
+        "text": "Same as Annie — very light feeder.",
+        "firstFeed": "September",
+        "lastFed": null,
+        "skip": false
+      },
+      "misting": {
+        "needed": false,
+        "text": "NO misting!"
+      },
+      "special": "Annie's sister from the same £3.99! Going to Lorraine's — will be there for Crobat's surgery RECOVERY! Kate Bush running up that Hill to the Hill family home! A piece of the Crobat Cave waiting in Cleveleys! 🐍🎹👩🏠💛",
+      "notes": "The most important £3.99 ever spent — Annie for the hallway AND Kate for mum. Don't water until Day 27!",
+      "growth": [
+        { "date": "2026-08-16", "note": "Day 21 — separated from Annie, repotted in 70/30 cactus mix. Fostered until Lorraine visit!" }
+      ],
+      "gallery": []
+    },
+    {
+      "id": "christine-rhiannon",
+      "name": "Christine + Rhiannon",
+      "emoji": "🌿",
+      "musicianEmoji": "🎹🎶",
+      "namedAfter": "Christine McVie + Rhiannon (Fleetwood Mac) — Stevie's grandbabies!",
+      "species": "Jade leaf propagations (Crassula ovata)",
+      "location": "Tupperware container on cactus mix. Bedroom.",
+      "room": "bedroom",
+      "pot": "Tupperware propagation container on cactus mix surface",
+      "bumClub": "dry",
+      "watering": {
+        "text": "Mist lightly every 2-3 days. DO NOT water the soil — just a light spritz on the leaves. Watching for tiny pink roots in 2-4 weeks!",
+        "intervalDays": 3,
+        "lastWatered": null,
+        "dailyCheck": false,
+        "label": "Misted"
+      },
+      "light": "Bright indirect light on the windowsill.",
+      "feeding": {
+        "text": "NO feeding until they're established plants with roots!",
+        "firstFeed": null,
+        "lastFed": null,
+        "skip": true
+      },
+      "misting": {
+        "needed": true,
+        "text": "Light mist every 2-3 days — just enough moisture to encourage rooting!",
+        "lastMisted": null
+      },
+      "special": "Stevie's GRANDBABIES!! Leaf propagations placed ON TOP of cactus mix. Wrinkly but green with calloused ends. Watching for tiny pink roots! The Crobat's first leaf propagation! 🌿🎹🎶",
+      "notes": "Named after Fleetwood Mac — Christine McVie + Rhiannon. Stevie's musical family continues! 🎸➡️🎹🎶",
+      "growth": [
+        { "date": "2026-08-14", "note": "Day 19 — placed on cactus mix. Calloused ends, watching for pink roots!" }
+      ],
+      "gallery": []
     }
   ],
   "fertiliser": {
@@ -518,12 +711,6 @@
       "namedAfter": "Sade",
       "futureBumClub": "dry",
       "futureLocation": "Bedroom windowsill with Stevie"
-    },
-    {
-      "name": "Annie",
-      "emoji": "🎤",
-      "musicianEmoji": "🌿",
-      "note": "Annie Lennox — dwarf snake plant for the HALLWAY shoe cupboard! Low light queen! From the garden centre with Lorraine OR the rescue box post-surgery."
     },
     {
       "name": "Rescue box plants",
