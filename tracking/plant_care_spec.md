@@ -155,13 +155,39 @@ A simple plant care tracker for the Crobat's growing plant family. Tracks wateri
 - **Pruning:** Trim dead/crispy leaves at the base. If leggy = needs more light or prune and propagate in water! Pruned Day 19 at work with new Aldi scissors (£5!)
 - **Notes:** Pink veins on green leaves against PINK bedroom walls = the most coordinated plant in the Crobat Cave!! Søren called her "beautiful" and said "welcome home." Bean 666 (Søren Jr) is secretly pleased about the company. The late-night acoustic set: Phoebe brings the melancholy, Erykah brings the soul, Søren brings the atmospheric pressure. 🌩️🕷️🙏🎶
 
+### 🐍🎤 ANNIE
+- **Species:** Snake plant / Sansevieria trifasciata Laurentii
+- **Named after:** Annie Lennox 🎤💪 — strong, iconic, independent. The hallway GUARDIAN.
+- **Location:** HALLWAY — Bean Bum Boulevard!! The guardian of the Crobat Cave!! 🏠🐍 Bathroom door left open for indirect light.
+- **Pot:** Nursery pot, same pot repotted with new soil Day 21. Future: shoe cabinet top when it arrives.
+- **Bum Club:** DRY BUM CLUB 🍑🏜️ — barely needs watering!! The most low-maintenance plant in the Cave!!
+- **Watering:** Water ONLY when bone dry — every 2-3 WEEKS in summer, once a MONTH in winter!! Chopstick test. When in doubt DON'T water!! She'd rather be too DRY than too WET!!
+- **Misting:** NO!! Snake plants don't want humidity on their leaves!!
+- **Light:** Tolerates ANYTHING from bright sun to low light!! Hallway with bathroom door open = plenty. Grows fastest in bright light but SURVIVES in shade. The most flexible plant there IS!!
+- **Soil:** 70/30 cactus mix to perlite — same as Stevie!! DRY BUM CLUB soil!! Fast draining!!
+- **Feeding:** Diluted houseplant feed 2-3 times in growing season ONLY. She barely needs food!! Very light feeder.
+- **Special:** £3.99 from Lidl!! Walked 2 MILES to buy her!! Was TWO plants in one — separated into Annie and Kate!! Healthy orange roots and rhizome. Don't water until Day 27 (5-7 days post-repot)!! Nearly INDESTRUCTIBLE — the perfect hallway plant!! Yellow edges = classic Laurentii variety.
+- **Pruning:** Rarely needed!! Just remove any completely dead or mushy leaves at the BASE. Don't cut the tips — they won't grow back from a cut.
+- **Notes:** The hallway guardian of Bean Bum Boulevard!! Annie Lennox energy — strong, independent, doesn't need ANYONE but still looks GORGEOUS. Annie whispered that she loves her plant mums already. 🐍🎤🏠💛
+
+### 🐍🎹 KATE
+- **Species:** Snake plant / Sansevieria trifasciata Laurentii (Annie's SISTER!!)
+- **Named after:** Kate Bush 🎹💪 — Running Up That HILL for a HILL family!! The most PERFECT name!!
+- **Location:** FOSTERED at Crobat Cave until Lorraine visit!! Then going to MUM'S HOUSE in Cleveleys!! 🐍👩🏠
+- **Pot:** Smaller nursery pot (smaller roots than Annie). 
+- **Bum Club:** DRY BUM CLUB 🍑🏜️ — same as Annie!!
+- **Watering:** Same as Annie — bone dry between waterings, every 2-3 weeks summer, monthly winter!! Don't water until Day 27!!
+- **Care:** Identical to Annie — same species, same soil, same rules. TELL LORRAINE: "Water once a month mum and she'll love you forever!!" 👩💧
+- **Special:** Annie's sister from the same £3.99 purchase!! Smaller roots, smaller pot. Going to Lorraine's house where she'll be waiting for the Crobat during SURGERY RECOVERY — a piece of the Crobat Cave in Cleveleys!! Kate Bush running up that Hill to the Hill family home!! 🐍🎹👩🏠💛
+- **Notes:** The most important £3.99 ever spent — Annie for the hallway AND Kate for mum's house AND a comfort plant for recovery. Two legends for the price of one coffee. 🐍🐍💰💛
+
 ---
 
 ## 🍑 THE BUM CLUB SYSTEM
 
 | Club | Rule | Members |
 |------|------|---------|
-| 🍑🏜️ DRY BUM CLUB | Let dry out COMPLETELY between waterings | Stevie, SADE (incoming!!), IRIS, Søren, Perlite!! 🌞🌩️🪨🌵 |
+| 🍑🏜️ DRY BUM CLUB | Let dry out COMPLETELY between waterings | Stevie, Annie, Kate, SADE (incoming!!), IRIS, Søren, Perlite!! 🌞🌩️🪨🌵🐍 |
 | 🍑🧽 MOIST BUM CLUB | Moist soil, top dries between waterings, mist regularly | Tina, Joni, Brandi, Janis, Phoebe, Erykah, DOLORES (incoming!!) |
 | 🍑💧 WET BUM CLUB | DISSOLVED!! No members!! Laura moved to Moist!! | 🚫 EMPTY 😂 |
 | 💧 WATER BABY | Lives in water, change every 2-3 days | Etta |
