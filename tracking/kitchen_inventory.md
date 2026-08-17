@@ -9,11 +9,7 @@
 ### 🍱 Meal Prep:
 - [ ] EMPTY — need to cook this weekend!! 🍳
 
-### 🥗 Veg & Fruit:
-- [x] 3 small carrots — USED UP in stew + pickle ✅
-
 ### 🫙 Open Jars & Pickles:
-- [x] Olives — USED UP in stew ✅
 - [ ] Roasted red peppers
 - [ ] Jalapenos
 - [ ] Pickled red onion
@@ -35,10 +31,8 @@
 
 ## 🥫 CUPBOARD — Tins & Jars
 
-- [ ] 2 tins veg soup
 - [ ] 1 tin carrot & coriander soup
-- [ ] 1 tin lentil soup
-- [ ] 1 tin mushroom soup
+- [ ] 1 tin veg soup
 
 ---
 
@@ -49,7 +43,6 @@
 - [ ] Pesto style pasta
 - [ ] Tomato & basil pasta
 - [ ] Keralan lentil & chickpea curry × 2
-- [ ] Sticky rice × 1
 - [ ] Spanish grains × 1
 
 ---
@@ -63,7 +56,6 @@
 
 ## 🌾 Dried Grains
 
-- [x] Pearl barley — USED UP in stew (goodbye 30g!!) ✅
 - [ ] Couscous
 - [ ] Bulgur wheat
 - [ ] Quinoa
@@ -84,7 +76,7 @@
 
 ## 🍜 Noodles
 
-- [ ] Vermicelli noodles × 6 nests
+- [ ] Vermicelli noodles × 2 nests (Widdle's abandoned noodles — USE THEM UP then buy UDON!!)
 
 ---
 
@@ -103,80 +95,6 @@ Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full 83
 *If you need a spice, you probably HAVE it.* 🌶️📚
 
 ---
-
-## 📋 MEAL PLAN — Week of 11th August 2026
-
-### THIS WEEK'S TEAS:
-| Day | Tea |
-|-----|-----|
-| Tue 12th | 🍯🔥 Golden Seoul Poke Bowl V5 — NEW DRESSING!! Gochujang + soy + honey + cider vinegar + ginger!! Sticky rice from the RICE COOKER!! |
-| Wed 13th | 🍛 Head Chef curry #1 from freezer (defrosting in fridge!) |
-| Thu 14th | 🍛 Head Chef curry #2 from freezer |
-| Fri 15th | 🍝 Packet pasta (pesto or tomato basil) + frozen veg |
-
-### WEEKEND COOKING — Spice Roulette #46 + #72:
-**Cook Saturday:** 🍄🇨🇳 Mushroom Umami Stir Fry (3 portions) — Roulette #72 Mushroom Sauce!
-**Cook Sunday:** 🍋🇹🇷 Sumac Roasted Veggie Couscous Bowl (4 portions) — Roulette #46 Sumac!
-
-| Day | Lunch | Tea |
-|-----|-------|-----|
-| Sat 16th | — | 🍄 Mushroom Umami Stir Fry #1 (FRESH!) |
-| Sun 17th | — | 🍋 Sumac Couscous Bowl #1 (FRESH!) |
-| Mon 18th | 🍄 Stir fry #2 | 🍋 Couscous bowl #2 |
-| Tue 19th | 🍄 Stir fry #3 | 🍋 Couscous bowl #3 |
-| Wed 20th | 🍋 Couscous bowl #4 | TBD! |
-
-**7 meals from 2 cooks!!** 🍽️💰
-
-### 🍄🇨🇳 MUSHROOM UMAMI STIR FRY (3 portions)
-- Vermicelli noodles (from cupboard!)
-- Mushrooms
-- Tofu — cubed and fried CRISPY
-- Frozen edamame (Morrisons lunch trip!)
-- Tenderstem broccoli
-- Frozen corn + peas (from freezer — FREE!)
-- Mushroom sauce (THE STAR — roulette #72!)
-- Soy sauce + garlic granules + ground ginger
-- Spring onion on top
-- Sriracha for kick
-
-### 🍋🇹🇷 SUMAC ROASTED VEGGIE COUSCOUS BOWL (4 portions)
-**Warm layer:**
-- Couscous (from cupboard — just add boiling water!)
-- 2 tins chickpeas — tossed in sumac + olive oil, ROASTED until crispy
-- Pepper — chopped and roasted with the chickpeas
-- Red onion — wedges, roasted
-
-**Cold layer on top:**
-- Cucumber — diced, cool and crunchy
-- Fresh tomatoes — chopped
-- Pickled red onion
-- Fresh parsley
-
-**Drizzle:**
-- Tahini (from cupboard!) + splash of cider vinegar + water to thin
-- Extra sumac sprinkled on top for colour!! Deep red on golden couscous!!
-
-### 🛒 SHOPPING LIST — Saturday 16th Aug
-
-**From the regular shop:**
-- [ ] 🫘 Chickpeas x2 tins — ~80p
-- [ ] 🍄 Mushrooms — ~80p
-- [ ] 🫛 Tofu — ~£1.50
-- [ ] 🥦 Tenderstem broccoli — ~£1
-- [ ] 🫑 Pepper — ~50p
-- [ ] 🧅 Red onion — ~30p
-- [ ] 🥒 Cucumber — ~40p
-- [ ] 🍅 Tomatoes — ~50p
-- [ ] 🧅 Spring onions — ~50p
-- [ ] 🌿 Fresh parsley — ~50p
-- [ ] 🧅 Pickled red onion — check if we need more!
-
-**From Morrisons (lunch trip!):**
-- [ ] 🫛 Frozen edamame — ~£1
-
-**💰 ESTIMATED TOTAL: ~£7-8** 💰👑
-**7 meals from a £7-8 shop!! HEAD CHEF IRIS STRIKES AGAIN!!** 🍽️👩‍🍳💰
 
 ---
 
