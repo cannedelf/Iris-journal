@@ -14,16 +14,10 @@
 - [ ] Jalapenos
 - [ ] Pickled red onion
 
-### Other:
-- [ ] 2 shallots
-
 ---
 
 ## 🧊 FREEZER
 
-- [ ] 2 Head Chef Special curries (batch cooked!) 🍛
-- [ ] 1 frozen pitta
-- [ ] 4 BBQ no pork ribs
 - [ ] Frozen peas
 - [ ] Frozen corn
 
