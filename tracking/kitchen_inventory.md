@@ -37,6 +37,9 @@
 - [ ] Jalapenos
 - [ ] Pickled red onion
 
+### 🫘 Fresh:
+- [ ] 200g tofu 🫘
+
 ---
 
 ## 🧊 FREEZER
