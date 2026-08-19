@@ -46,6 +46,8 @@
 - [ ] Frozen peas
 - [ ] Frozen corn
 - [ ] Frozen edamame (RESTOCKED!!) 🫛
+- [ ] Frozen mango — a handful 🥭
+- [ ] Frozen raspberries 🍇
 
 ---
 
@@ -56,6 +58,7 @@
 - [ ] 1 tin butter beans
 - [ ] 1 tin chickpeas
 - [ ] Veg stock cubes 🍲
+- [ ] Vanilla protein powder 💪
 
 ---
 
