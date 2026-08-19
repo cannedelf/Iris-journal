@@ -7,14 +7,13 @@
 ## 🥗 FRESH VEG & FRUIT
 
 - [ ] 2 small jacket potatoes 🥔
-- [ ] 4 brown onions 🧅 (1 used in soup tonight)
-- [ ] 3 small carrots 🥕 (1 used in soup tonight)
+- [ ] 3 brown onions 🧅 (1 soup, 1 pasta)
+- [ ] 2 small carrots 🥕 (1 soup, 1 pasta)
 - [ ] Cucumber 🥒
 - [ ] Handful of cherry tomatoes 🍅 (USE FRIDAY in butter bean stew!!)
-- [ ] 3 peppers — yellow + red 🫑 (1 used in soup tonight)
-- [ ] 7 button mushrooms 🍄 (USE TOMORROW in mushroom pasta!!)
-- [ ] Fresh parsley 🌿
-- [ ] A bit of garlic 🧄 (used some in soup tonight)
+- [ ] 2 peppers — yellow + red 🫑 (1 soup, 1 pasta)
+- [ ] Fresh parsley 🌿 (used some in pasta)
+- [ ] A bit of garlic 🧄 (used in soup + pasta)
 
 ---
 
@@ -34,7 +33,7 @@
 
 ### 🫙 Open Jars & Pickles:
 - [ ] Roasted red peppers
-- [ ] Jalapenos
+- [ ] Jalapenos — ~5 remaining
 - [ ] Pickled red onion
 
 ### 🫘 Fresh:
@@ -87,9 +86,9 @@
 ## 🌾 Dried Grains
 
 - [ ] Couscous
-- [ ] Bulgur wheat
+- [ ] Bulgur wheat — 126g remaining (INCLUDING bag!!)
 - [ ] Quinoa
-- [ ] Giant couscous (small amount)
+- [ ] Giant couscous — 72g remaining (INCLUDING bag!!)
 - [ ] Green lentils
 - [ ] Red lentils — 130g remaining (INCLUDING bag!!)
 
@@ -97,7 +96,7 @@
 
 ## 🍝 Pasta
 
-- [ ] Spaghetti
+- [ ] Spaghetti — ~1 portion remaining ⚠️
 - [ ] Orzo
 - [ ] Macaroni
 - [ ] Conchiglie
