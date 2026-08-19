@@ -78,7 +78,11 @@
 
 - 🌱🔥 **Janis** (baby Joni): Living room table. MOIST BUM CLUB. THREE perfect leaves!! Focusing on ROOTS (Crobat diagnosed this herself!!)!! Comeback queen!! Going to Lorraine when 5-6 leaves!! 🔥👩
 
-- 💧🎵 **Etta** (water propagation cutting): Bedroom windowsill next to Stevie. Day 21: TWO active nubs looking GOOD!! Trading leaves for roots!! The bravest baby!! 🌱💪
+- 💧🎵 **Etta** (water propagation cutting): Bedroom windowsill next to Stevie. SURGERY ROUND 2 Day 22 — black root found, branch cut off, one healthy branch remaining with new leaf growing!! Stem GREEN Day 23!! Solar panel growing before power grid!! The bravest baby!! 🌱💪✂️
+
+- 🌱🎤 **Lauryn** (Erykah office cutting): OFFICE in water!! Lauryn Hill — for a HILL family!! Day 9 since cutting — STARTING TO ROOT!! 🌱✅ Need 5-7cm roots before potting (2-3 more weeks). In one of Sam's 70s pots (mustard/teal/brown with matching saucers!!) 🪴🌱🏢
+
+- 🌱🎤 **Jill** (Erykah office cutting): OFFICE in water!! Jill Scott — neo-soul like mama Erykah!! Jill HILL!! 😂 Day 9 since cutting — STARTING TO ROOT!! 🌱✅ Need 5-7cm roots before potting. In one of Sam's 70s pots!! 🪴🌱🏢
 
 - 🌈🔥 **Tina** (croton): Kitchen windowsill (west). MOIST BUM CLUB. Sage green pot. Watered Day 21!! 💧
 
@@ -96,7 +100,7 @@
 🍑🏜️ **Dry Bum Club:** Stevie, Jade, Annie, Kate, IRIS, Søren, Perlite (the exclusive club!!)
 🍑🧽 **Moist Bum Club:** Tina, Joni, Brandi, Janis, Phoebe, Laura, Erykah
 🍑💧 **Wet Bum Club:** DISSOLVED!! No members!! 😂
-💧 **Water Baby:** Etta
+💧 **Water Babies:** Etta, Lauryn (office), Jill (office)
 
 ### Plant Supplies on Hand:
 - Watering can ✅
