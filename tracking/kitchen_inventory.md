@@ -55,6 +55,7 @@
 - [ ] 1 tin veg soup
 - [ ] 1 tin butter beans
 - [ ] 1 tin chickpeas
+- [ ] Veg stock cubes 🍲
 
 ---
 
