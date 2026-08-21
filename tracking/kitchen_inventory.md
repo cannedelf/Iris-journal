@@ -1,5 +1,5 @@
 # 🛒 The Crobat's Kitchen Inventory
-## Last audited: Tuesday 18th August 2026 (Day 22!)
+## Last audited: Friday 21st August 2026 (Day 25!)
 *Check before shopping. Cross off as you use. The less you BUY the more for the Golden Drawer!* 💰👑
 
 ---
@@ -7,25 +7,12 @@
 ## 🥗 FRESH VEG & FRUIT
 
 - [ ] 2 small jacket potatoes 🥔
-- [ ] 3 brown onions 🧅 (1 soup, 1 pasta)
-- [ ] 2 small carrots 🥕 (1 soup, 1 pasta)
+- [ ] 4 brown onions 🧅
+- [ ] 3 small carrots 🥕
 - [ ] Cucumber 🥒
-- [ ] Handful of cherry tomatoes 🍅 (USE FRIDAY in butter bean stew!!)
-- [ ] 2 peppers — yellow + red 🫑 (1 soup, 1 pasta)
-- [ ] Fresh parsley 🌿 (used some in pasta)
-- [ ] A bit of garlic 🧄 (used in soup + pasta)
-
----
-
-## 🍽️ THIS WEEK'S TEAS
-
-| Day | Tea | Uses up |
-|-----|-----|---------|
-| Tue (tonight) | 🍲 Soup maker — potato, carrot, pepper, onion, tomato, red lentils, parsley, garlic | Potato, carrot, pepper, onion, lentils 🍲✅ |
-| Wed | 🍄🍝 Mushroom pasta — mushrooms, pepper, carrot, onion, garlic, parsley, spaghetti/conchiglie | ALL 7 mushrooms, 1 pepper, 1 carrot 🍄✅ |
-| Thu | 🍽️ ZEST LYTHAM — Boss Ben PAYS!! 💰👨‍💼🎉 | FREE!! 💰✅ |
-| Fri | 🫘🍅 Butter bean + cherry tomato stew — butter beans, ALL cherry toms, pepper, carrot, onion, garlic, parsley, 1 roll for dipping | Cherry toms, butter beans, 1 pepper, 1 carrot 🍅✅ |
-| Sat-Sun | 🏙️ LIVERPOOL HEN DO then home to batch cook from meal plan!! | 🥂👰 |
+- [ ] Handful of cherry tomatoes 🍅
+- [ ] 3 peppers — yellow + red 🫑
+- [ ] A bit of garlic 🧄
 
 ---
 
@@ -38,6 +25,7 @@
 
 ### 🫘 Fresh:
 - [ ] 200g tofu 🫘
+- [ ] 1kg of 0% fat greek yogurt
 
 ---
 
@@ -64,8 +52,8 @@
 
 ## 🍞 Bread
 
-- [ ] ~~7~~ 3 bake in the oven rolls (4 used with soup tonight!!) 🍞🍲
-- [ ] Plan: 1 for Friday stew dipping, FREEZE remaining 2!! 🍞🧊
+- [ ] 3 bake in the oven rolls in freezer
+- [ ] Half a loaf of Warburton's 
 
 ---
 
