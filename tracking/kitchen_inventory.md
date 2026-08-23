@@ -7,9 +7,7 @@
 ## Fresh Veg & Fruit
 
 - [ ] 2 small jacket potatoes
-- [ ] 3 brown onions (1 used for pickling)
-- [ ] Handful of cherry tomatoes
-- [ ] 3 peppers — yellow + red
+- [ ] 1 brown onion remaining
 - [ ] A bit of garlic
 
 ### Pickled (NEW!!)
@@ -150,5 +148,9 @@ Spice roulette #56 Bang Bang — USED UP, crossed off!!
 - Giant couscous 72g — used in grain batch
 - Oats toasted for overnight oats
 - Roasted red peppers jar — USED UP
+- 3 peppers (yellow + red) — roasted for smoky bean tray
+- Cherry tomatoes — used
+- 2 onions — used (1 remaining)
+
 
 
