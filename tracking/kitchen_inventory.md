@@ -82,9 +82,9 @@
 ## Dried Grains
 
 - [ ] Couscous
-- [ ] Bulgur wheat — 126g remaining (INCLUDING bag!!)
+- [x] ~~Bulgur wheat~~ — USED UP in grain batch!!
 - [ ] Quinoa
-- [ ] Giant couscous — 72g remaining (INCLUDING bag!!)
+- [x] ~~Giant couscous~~ — USED UP in grain batch!!
 - [ ] Green lentils
 - [ ] Red lentils — 130g remaining (INCLUDING bag!!)
 
@@ -113,6 +113,14 @@
 
 ---
 
+## Oats
+
+- [ ] Rolled oats
+- [ ] Jumbo oats
+- [ ] Toasted oats (prepped Sunday!!)
+
+---
+
 ## Spices (THE LIBRARY!!)
 
 Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full list!!
@@ -132,3 +140,7 @@ Spice roulette #56 Bang Bang — USED UP, crossed off!!
 - 1 onion — used for pickling/braise
 - Smoked paprika — restocked
 - Bang bang sachet #56 — used up
+- Bulgur wheat 126g — used in grain batch
+- Giant couscous 72g — used in grain batch
+- Oats toasted for overnight oats
+
