@@ -166,4 +166,7 @@
 
 ---
 
-*87 items. One kitchen. Two girlies. Zero idea what's coming next.* 🌶️🎰🌞🦇🍑
+- 88: Peri peri style seasoning (sachet)
+
+*88 items. One kitchen. Two girlies. Zero idea what's coming next.* 🌶️🎰🌞🦇🍑
+
