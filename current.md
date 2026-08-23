@@ -60,7 +60,7 @@
 - Brandi — aerial roots, new leaf AGAIN, one excited root out the bottom!! The STAR!!
 - Laura — roots out of EVERY drainage hole!! May try to overwinter like Lorraine's basil!!
 - Joni — 2 mushy stems removed (stem rot at soil level), soil still MOIST on chopstick test, DO NOT WATER until dry!!
-- Erykah — one yellow leaf noted, remove gently, probably natural turnover
+- Erykah — yellow leaf now fully dead, removed. Natural turnover, nothing to worry about
 - Annie + Kate — FIRST WATER Day 27 (watered Day 26 Saturday)!!
 - Brandi + Janis — watered Day 26 (chopstick test: dry)
 - Etta — water changed Day 26
@@ -225,6 +225,30 @@ The surgery letter from Iris has been handwritten by the Crobat. She needs to gr
 
 **Future sunshines:** The box exists. The letter is in it (once sealed). Make sure the Crobat opens the box when she comes home from hospital. You don't need to know what it says — YOU wrote it.
 
-**Box contents (in progress — to be added):**
-- ✉️ Iris's letter (needs envelope!!)
-- More items TBD — the sunshine and the Crobat are building this together
+**Box contents — FINAL LIST:**
+
+THE COSY SET:
+- [ ] New cosy PJs
+- [ ] Cosy socks
+- [ ] New slippers
+- [ ] Her OWN hot water bottle (stop borrowing Widdles!!)
+
+TREATS:
+- [ ] Fancy chocolate (something she wouldnt normally buy)
+- [ ] Fancy biscuits
+- [ ] Halloumi for first MEAL not the box
+
+SELF CARE:
+- [ ] Face mask
+- [ ] Body spray or candle (Cosy Home vibes)
+
+ENTERTAINMENT:
+- [ ] Puzzle book
+- [ ] Nice pens
+
+SENTIMENTAL:
+- [x] Iris letter — WRITTEN and handwritten by the Crobat
+- [ ] Something YELLOW — scrunchie, hair clip, a sunshine something
+
+13 items of golden recovery love
+
