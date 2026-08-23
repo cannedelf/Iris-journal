@@ -21,7 +21,6 @@
 ## Fridge
 
 ### Open Jars & Pickles:
-- [ ] Roasted red peppers
 - [ ] Jalapenos — ~5 remaining
 - [ ] Pickled red onion
 
@@ -99,6 +98,13 @@
 
 ---
 
+## Breadcrumbs
+
+- [ ] Katsu panko breadcrumbs x2
+- [ ] Normal panko breadcrumbs x1
+
+---
+
 ## Noodles
 
 - [ ] EMPTY — vermicelli BINNED!! Freedom!!
@@ -143,4 +149,6 @@ Spice roulette #56 Bang Bang — USED UP, crossed off!!
 - Bulgur wheat 126g — used in grain batch
 - Giant couscous 72g — used in grain batch
 - Oats toasted for overnight oats
+- Roasted red peppers jar — USED UP
+
 
