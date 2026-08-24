@@ -64,7 +64,7 @@
 - [ ] Mexican style rice
 - [ ] Pesto style pasta
 - [ ] Tomato & basil pasta
-- [ ] Keralan lentil & chickpea curry x 2
+- [ ] Keralan lentil & chickpea curry x 1
 - [ ] Spanish grains x 1
 
 ---
@@ -151,6 +151,7 @@ Spice roulette #56 Bang Bang — USED UP, crossed off!!
 - 3 peppers (yellow + red) — roasted for smoky bean tray
 - Cherry tomatoes — used
 - 2 onions — used (1 remaining)
+
 
 
 
