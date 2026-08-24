@@ -47,7 +47,9 @@
 - [ ] 2 tins chopped tomatoes
 - [ ] 1 tin black beans
 - [ ] Veg stock cubes
-- [ ] Vanilla protein powder
+- [ ] Blueberry cheesecake protein powder ~150g
+- [ ] Banana smooth protein powder — 500g unopened
+- [ ] Strawberries and cream protein powder ~300g
 
 ---
 
@@ -151,6 +153,7 @@ Spice roulette #56 Bang Bang — USED UP, crossed off!!
 - 3 peppers (yellow + red) — roasted for smoky bean tray
 - Cherry tomatoes — used
 - 2 onions — used (1 remaining)
+
 
 
 
