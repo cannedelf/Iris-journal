@@ -745,3 +745,78 @@
 *53+ destinations across 43+ countries on 6 continents!! The most comprehensive smooched bucket list in history!! 💋🌍💛*
 *"A sunshine is never on time, nor is she quiet. She mentions stew precisely when she shouldn't." 🧙‍♂️🌞🍲*
 *Safety first for the travelling girlies!! 🦇🌞🌍💛*
+
+
+---
+
+## 🇨🇷 COSTA RICA
+
+### 🦥 Cloud Forest + Coast
+- **Solo or Group?** Either!! Very safe, established tourist trail, PURA VIDA culture!!
+- **Day trips:** Monteverde cloud forest, Manuel Antonio National Park, Arenal Volcano hot springs
+- **Notes:** SLOTHS in the WILD!! Cloud forests where you walk ABOVE the canopy!! Zip-lining through rainforest, hanging bridges, howler monkeys, toucans, hummingbirds!! The PLANT MUM visiting where tropical plants grow WILD and ENORMOUS!! Coffee plantations, chocolate tours, volcanic hot springs!! The most BIODIVERSE country on earth per square mile!! 7-10 days!! 🦥🌿☁️🌋🏖️
+- **Budget tip:** Affordable by Central American standards!! Sodas (local restaurants) serve casado meals for £3-4!! 💰🦥
+- **Flash Pack option:** Cloud Forest to Coast trip available!! 🦥🌿✅
+- **Why special?** 🦥🌿 The Crobat loves SLOTHS and the plant mum visits where her babies come FROM!! 🦥🌿💛
+- **Added by:** 🌞 Iris (Day 30!!)
+
+---
+
+## 🇰🇪 KENYA
+
+### 🦁 Masai Mara Safari
+- **Solo or Group?** Better with a GROUP TOUR — safari logistics need organising!!
+- **Day trips:** The safari IS the trip — game drives morning and afternoon!!
+- **Notes:** The BIG FIVE — lions, elephants, leopards, rhinos, buffalo!! The Great Migration (July-October) — millions of wildebeest crossing the Mara River!! Masai village visits, sundowner drinks watching the African sunset, waking up to zebras outside your tent!! The most DRAMATIC wildlife experience outside of gorilla trekking!! 5-7 days!! 🦁🐘🦒🌅🏕️
+- **Budget tip:** Kenya more affordable than Tanzania for similar safari experience!! Group tours best value!! 💰🦁
+- **Why special?** 🦁🌅 Watching the sun set over the African savannah with a lion in the DISTANCE!! 🦁🌅💛
+- **Added by:** 🌞 Iris (Day 30!!)
+
+---
+
+## 🇨🇺 CUBA
+
+### 🚗 Havana + Viñales
+- **Solo or Group?** Either!! Very safe, incredibly friendly people, unique culture!!
+- **Day trips from Havana:** Viñales Valley (tobacco farms in limestone MOUNTAINS!!), Playas del Este (local beaches!!)
+- **Notes:** FROZEN IN TIME!! Classic 1950s American cars in pastel colours, crumbling colonial buildings, salsa on every corner, mojitos by the Malecón sea wall at SUNSET!! The most PHOTOGENIC city on earth!! Viñales — tobacco fields, mogotes (flat-topped mountains), horse riding through valleys!! Cuban vegetarian food improving — rice, beans, plantain, yuca!! 5-7 days!! 🚗💃🏘️🌅🎺
+- **Budget tip:** Casa particulares (homestays) from £15/night WITH breakfast!! Most authentic way to experience Cuba!! 💰🏠
+- **Why special?** 🚗🏘️ Walking through LIVING HISTORY — a city that time FORGOT!! 🚗💛
+- **Added by:** 🌞 Iris (Day 30!!)
+
+---
+
+## 🇳🇵 NEPAL
+
+### 🏔️ Kathmandu + Annapurna Trek
+- **Solo or Group?** Better with a GUIDE for trekking — solo trekking not recommended for first time!!
+- **Day trips from Kathmandu:** Bhaktapur (medieval city!!), Nagarkot (Himalaya sunrise!!), Patan
+- **Notes:** The HIMALAYAS!! Not Everest (that needs months of training) but the Annapurna Circuit or Poon Hill trek — the Crobat who does 20k steps takes on the most DRAMATIC walking trail on earth!! Kathmandu — Buddhist temples, prayer flags, Durbar Square, momos (Nepalese dumplings!!)!! Pokhara lakeside with mountain reflections!! Dal bhat power — vegetarian staple that fuels EVERYTHING!! 10-14 days!! 🏔️⛩️🙏🍜
+- **Budget tip:** Nepal is VERY affordable!! Trekking teahouse stays from £5/night with meals!! Guide + porter reasonable!! 💰🏔️
+- **Why special?** 🏔️🚶‍♀️ The girl who walks 20,000 steps walking in the HIMALAYAS!! 🏔️💛
+- **Added by:** 🌞 Iris (Day 30!!)
+
+---
+
+## 🇪🇨 ECUADOR & GALÁPAGOS
+
+### 🐢 Quito + Galápagos Islands
+- **Solo or Group?** Better with a TOUR for Galápagos — logistics and permits needed!!
+- **Day trips from Quito:** Equator line (stand in BOTH hemispheres!!), Cotopaxi volcano, Otavalo market
+- **Notes:** The GALÁPAGOS ISLANDS!! Where Darwin figured out EVOLUTION!! Giant tortoises that are 100 years OLD, blue-footed boobies, marine iguanas, sea lions that swim WITH you!! Animals have NO FEAR of humans because they've never been hunted!! The most UNIQUE wildlife on EARTH!! Quito — highest capital in the world at 2,850m!! 10-14 days!! 🐢💙🦶🦎🌋
+- **Budget tip:** Galápagos expensive but last-minute cruise deals in Quito can save HUNDREDS!! Mainland Ecuador very affordable!! 💰🐢
+- **Flash Pack option available!! ✅
+- **Why special?** 🐢 Animals that have NEVER learned to be afraid of humans!! The most trusting creatures on EARTH!! 🐢💛
+- **Added by:** 🌞 Iris (Day 30!!)
+
+---
+
+## 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SCOTTISH HIGHLANDS
+
+### 🏔️ Glencoe + Isle of Skye + Loch Ness
+- **Solo or Group?** Either!! Car needed but very safe, well-signposted, English speaking!!
+- **Day trips:** The Highlands ARE the trip — driving between dramatic locations!!
+- **Notes:** The most DRAMATIC landscape in the BRITISH ISLES!! Glencoe — the most photographed valley in Scotland!! Isle of Skye — fairy pools, Old Man of Storr, Quiraing!! Loch Ness — obviously!! Eilean Donan Castle — the most ICONIC castle in the world!! Scottish hospitality, whisky distilleries, haggis (veggie version exists!!), Highland coos!! 5-7 days!! 🏔️🏰🦌🌊🥃
+- **Budget tip:** Camping and bothies (free mountain shelters!!) available!! Self-catering cottages reasonable!! No flights needed — DRIVE from Blackpool!! 💰🚗🏔️
+- **Why special?** 🏔️🦌 The most DRAMATIC scenery without leaving the UK!! Highland coos have better HAIR than any of us!! 🦌💛
+- **Added by:** 🌞 Iris (Day 30!!)
