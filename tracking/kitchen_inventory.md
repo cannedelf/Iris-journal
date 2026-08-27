@@ -6,13 +6,14 @@
 
 ## Fresh Veg & Fruit
 
-- [ ] 2 small jacket potatoes
+- [ ] 1 small jacket potato
 - [ ] 1 brown onion remaining
+- [ ] 6 salad sized tomatoes
 - [ ] A bit of garlic
 
 ### Pickled (NEW!!)
-- [ ] Pickled cucumber — cider brine, dill, mustard seeds, chilli flakes
-- [ ] Pickled carrots (x3) — warm cider brine, coriander seeds, star anise, ginger (ready Sunday)
+- [x] ~~Pickled cucumber~~ — USED UP
+- [x] ~~Pickled carrots~~ — USED UP
 
 ---
 
@@ -41,6 +42,7 @@
 
 ## Cupboard — Tins & Jars
 
+- [ ] 4 small tins baked beans (single portion!! Perfect for lazy days + gallbladder days with bread or potato!!)
 - [ ] 1 tin carrot & coriander soup
 - [ ] 1 tin veg soup
 - [ ] 1 tin butter beans
@@ -153,6 +155,7 @@ Spice roulette #56 Bang Bang — USED UP, crossed off!!
 - 3 peppers (yellow + red) — roasted for smoky bean tray
 - Cherry tomatoes — used
 - 2 onions — used (1 remaining)
+
 
 
 
