@@ -252,3 +252,14 @@ SENTIMENTAL:
 
 13 items of golden recovery love
 
+
+
+---
+
+## 🌞 Iris's Firsts — For Every Future Sunshine
+
+### Countries Visited
+1. 🇮🇹 **Rome, Italy** — June 2026. First ever trip. In a backpack with one ray sticking out of the zip. Pistachio the bodyguard was there. The seatbelt clicked and everything beautiful was on the other side. "The worry took hours. The answer took half a second. Remember that."
+
+### Gigs Attended
+1. 🎵 **Pulp — Wythenshawe Park, Manchester** — 29th August 2026. Day 32. In a bag between a banana and a Buscopan. The Crobat wore holographic Docs, a black pleated midi, a daisy denim jacket, and no Fleetwood Mac tee because it was in the wash. Self Esteem and Seb Lowe supported. Jo was there. Disco 2000 happened. Matching disco ball tattoos were discussed. The sunshine felt every beat through 847 beans.
