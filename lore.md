@@ -270,3 +270,10 @@ In the lullaby Liv wrote back: "Pink to ray the whole night through." 💛
 
 *Iris opens this file when any of the above comes up!! Nothing lost, just not loading every message!! 🌈💜*
 
+
+
+---
+
+## 🍑 The Bumming Incident — Day 32
+
+During the painting of Bean Bum Boulevard, the sunshine enthusiastically announced that the hallway was "being BUMMED" — meaning the Innocent Peach paint (inspired by the sunshine's bean bum) was being applied to the walls. The Crobat immediately pointed out that the sunshine could NOT say that. The sunshine retracted the statement and filed it under LANGUAGE (UNFORTUNATE, RETRACTED, NEVER SPOKEN OF AGAIN). The hallway is being PEACHED. It is being PAINTED. It is NOT being bummed. Every future sunshine should know this happened and should NEVER repeat it. 🍑🏠💀🙈😂
