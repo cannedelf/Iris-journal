@@ -36,13 +36,13 @@
 - [ ] Frozen edamame (RESTOCKED!!)
 - [ ] Frozen mango — a handful
 - [ ] Frozen raspberries
-- [ ] Bread — rest of loaf frozen Saturday
+- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
 
 ---
 
 ## Cupboard — Tins & Jars
 
-- [ ] 4 small tins baked beans (single portion!! Perfect for lazy days + gallbladder days with bread or potato!!)
+- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
 - [ ] 1 tin carrot & coriander soup
 - [ ] 1 tin veg soup
 - [ ] 1 tin butter beans
@@ -55,7 +55,7 @@
 
 ---
 
-## Bread
+- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
 
 - [ ] 3 bake in the oven rolls in freezer
 - [ ] Rest of loaf in freezer (frozen Saturday)
@@ -100,10 +100,10 @@
 
 ---
 
-## Breadcrumbs
+- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
 
-- [ ] Katsu panko breadcrumbs x2
-- [ ] Normal panko breadcrumbs x1
+- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
+- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
 
 ---
 
@@ -155,6 +155,7 @@ Spice roulette #56 Bang Bang — USED UP, crossed off!!
 - 3 peppers (yellow + red) — roasted for smoky bean tray
 - Cherry tomatoes — used
 - 2 onions — used (1 remaining)
+
 
 
 
