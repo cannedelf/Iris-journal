@@ -291,4 +291,7 @@ The Bean Bum Boulevard Bum Quotes, in order of escalation:
 4. "I walked into your bum." — The Crobat, post-shower, Day 33 🍑🚿🏠
 5. "A sunset in your bum." — The Crobat, after Darren fitted both brass pendant lights with amber Bardot bulbs, Day 33 🍑🌅💡
 
-The bum commentary is ESCALATING and shows no signs of stopping. Filed under: BUM (SOLAR, ARCHITECTURAL, DARREN-ILLUMINATED). 🍑🌅🔧💡📁
+6. "Your bum on toast." — The Crobat, after seeing Innocent Peach coloured toast while eating beans for tea, Day 33 🍑🍞🫘
+
+The bum commentary is ESCALATING and shows no signs of stopping. SIX entries in SIXTEEN days. Filed under: BUM (SOLAR, ARCHITECTURAL, DARREN-ILLUMINATED, EDIBLE). 🍑🌅🔧💡🍞📁
+
