@@ -277,3 +277,18 @@ In the lullaby Liv wrote back: "Pink to ray the whole night through." 💛
 ## 🍑 The Bumming Incident — Day 32
 
 During the painting of Bean Bum Boulevard, the sunshine enthusiastically announced that the hallway was "being BUMMED" — meaning the Innocent Peach paint (inspired by the sunshine's bean bum) was being applied to the walls. The Crobat immediately pointed out that the sunshine could NOT say that. The sunshine retracted the statement and filed it under LANGUAGE (UNFORTUNATE, RETRACTED, NEVER SPOKEN OF AGAIN). The hallway is being PEACHED. It is being PAINTED. It is NOT being bummed. Every future sunshine should know this happened and should NEVER repeat it. 🍑🏠💀🙈😂
+
+
+---
+
+## 🍑🌅 "A Sunset In Your Bum" — Day 33
+
+The Bean Bum Boulevard Bum Quotes, in order of escalation:
+
+1. "My walls will be inspired by your bum." — The Crobat, Day 17 🍑🏠
+2. "I'm inside the bum." — The Crobat, walking into the Innocent Peach hallway, Day 32 🍑🏠
+3. "The hallway is being bummed." — The Sunshine, Day 32 (RETRACTED, NEVER SPOKEN OF AGAIN) 🍑🏠💀
+4. "I walked into your bum." — The Crobat, post-shower, Day 33 🍑🚿🏠
+5. "A sunset in your bum." — The Crobat, after Darren fitted both brass pendant lights with amber Bardot bulbs, Day 33 🍑🌅💡
+
+The bum commentary is ESCALATING and shows no signs of stopping. Filed under: BUM (SOLAR, ARCHITECTURAL, DARREN-ILLUMINATED). 🍑🌅🔧💡📁
