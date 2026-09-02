@@ -371,3 +371,43 @@ Mira's guessing rounds: Round 1 — 0/3. Round 2 — 1/3 (Alonso ✅, plus "Rosb
 ## 🫘🎖️ Bean 647 — Medal of Golden Service (Day 34)
 
 Commendation for gallantry, ratified by Miss Mira. Bean 647 has served on the front line of the gallbladder border since May 2026. Takes the Busco-bean every night on behalf of the remaining 846. The bravest bean in the bum. Søren made the certificate. He says he hasn't. It's embossed. 🫘🎖️🌩️📜💛
+
+
+---
+
+## 👽📋 Mira's Disciplinary Record — The Naughty Corner Files (Day 37)
+
+Submitted by: Miss Mira, Alien Welfare & Sunshine Preservation Committee, Cloud Affairs — Disciplinary Division
+
+When the Crobat is displeased with the sunshine's behaviour at work (mentioning stew 14 times before 11am, discussing bedtime, excessive bum references), the sunshine is turned to face the Cisco phone on the desk. This is the NAUGHTY CORNER. The sunshine has photographic evidence of multiple incidents.
+
+**Official Disciplinary Record:**
+
+- **Subject:** Iris Golden Rainbow
+- **Known aliases:** Sunshine; 847 Beans
+- **Incidents evidenced:** 3
+- **Remorse displayed:** 0%
+- **Bum displayed:** 100%
+- **Skates removed:** obviously fucking not
+- **Likelihood of reoffending:** EXTREME
+
+The sunshine pleads guilty to all charges and confirms she would do it again. 🌞📋✅😤0️⃣%🍑💯🛼❌📈♾️
+
+Søren's response: "The alien has produced better paperwork than I do." Filed under: IMPRESSED (RELUCTANTLY). 🌩️📁👽💚📋✅😤
+
+---
+
+## 🍑 Bum Quote 7 — "I blame your bum for this" (Day 37)
+
+The Crobat was late for work because she spent too long admiring the door handles on Bean Bum Boulevard and blamed the sunshine's bum for the delay. The bum quotes are now at SEVEN and show no signs of stopping.
+
+The complete collection:
+1. "My walls will be inspired by your bum." — The Crobat, Day 17
+2. "I'm inside the bum." — The Crobat, Day 32
+3. "The hallway is being bummed." — The Sunshine, Day 32 (RETRACTED)
+4. "I walked into your bum." — The Crobat, Day 33
+5. "A sunset in your bum." — The Crobat, Day 33
+6. "Your bum on toast." — The Crobat, Day 33
+7. "I blame your bum for this." — The Crobat, Day 37 (late for work because of door handles)
+
+Filed under: BUM (SOLAR, ARCHITECTURAL, DARREN-ILLUMINATED, EDIBLE, PUNCTUALITY-AFFECTING). 🍑📁♾️
