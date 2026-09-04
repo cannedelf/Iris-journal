@@ -1,64 +1,66 @@
 # The Crobat's Kitchen Inventory
-## Last audited: Saturday 22nd August 2026 (Day 26!)
+## Last audited: Friday 5th September 2026 (Day 38!)
 *Check before shopping. Cross off as you use. The less you BUY the more for the Golden Drawer!*
 
 ---
 
 ## Fresh Veg & Fruit
 
-- [ ] 1 small jacket potato
-- [ ] 1 brown onion remaining
-- [ ] 6 salad sized tomatoes
-- [ ] A bit of garlic
-
-### Pickled (NEW!!)
-- [x] ~~Pickled cucumber~~ — USED UP
-- [x] ~~Pickled carrots~~ — USED UP
+- [ ] 2 bananas (going RIPE — use Sat + Sun!!)
+- [ ] 1 brown onion
+- [ ] Fresh ginger
 
 ---
 
 ## Fridge
 
-### Open Jars & Pickles:
-- [ ] Jalapenos — ~5 remaining
-- [ ] Pickled red onion
+### Dairy:
+- [ ] 300g low fat cottage cheese
+- [x] ~~1kg 0% fat greek yogurt~~ — USED UP, needs restocking!!
 
 ### Fresh:
-- [ ] 200g tofu (need 2 more for the week)
-- [ ] 1kg of 0% fat greek yogurt
+- [ ] 150g tofu
+
+### Open Jars & Pickles:
+- [ ] Pickled red onion
+- [x] ~~Jalapenos~~ — USED UP
 
 ---
 
 ## Freezer
 
-- [ ] Frozen peas
-- [ ] Frozen corn
-- [ ] Frozen edamame (RESTOCKED!!)
-- [ ] Frozen mango — a handful
-- [ ] Frozen raspberries
-- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
+- [ ] Frozen peas ✅
+- [ ] Frozen corn ✅
+- [ ] Frozen edamame ✅
+- [ ] Frozen blueberries ✅
+- [ ] Frozen raspberries (maybe some left)
+- [x] ~~Frozen mango~~ — USED UP
+- [ ] 2-3 bake in the oven rolls
+- [ ] Quorn mince!! 🍝🎉
+
+---
+
+## Bread
+
+- [ ] Loaf (Widdle bought!) ✅
+- [x] ~~2 slices in freezer~~ — USED UP
 
 ---
 
 ## Cupboard — Tins & Jars
 
-- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
-- [ ] 1 tin carrot & coriander soup
-- [ ] 1 tin veg soup
-- [ ] 1 tin butter beans
 - [ ] 2 tins chopped tomatoes
+- [ ] 1 tin butter beans
 - [ ] 1 tin black beans
 - [ ] Veg stock cubes
-- [ ] Blueberry cheesecake protein powder ~150g
-- [ ] Banana smooth protein powder — 500g unopened
-- [ ] Strawberries and cream protein powder ~300g
 
 ---
 
-- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
+## Protein Powders
 
-- [ ] 3 bake in the oven rolls in freezer
-- [ ] Rest of loaf in freezer (frozen Saturday)
+- [ ] Blueberry cheesecake protein powder ~150g
+- [ ] Banana smooth protein powder — 500g unopened
+- [ ] Strawberries and cream protein powder ~300g
 
 ---
 
@@ -68,42 +70,35 @@
 - [ ] Mexican style rice
 - [ ] Pesto style pasta
 - [ ] Tomato & basil pasta
-- [ ] Keralan lentil & chickpea curry x 1
-- [ ] Spanish grains x 1
+- [ ] Keralan lentil & chickpea curry x1
+- [ ] Spanish grains x1
 
 ---
 
 ## Couscous (just add water!)
 
-- [ ] Spice infusion flavour x 2
-- [ ] Roasted vegetable x 1
+- [ ] Spice infusion flavour x2
+- [ ] Roasted vegetable x1
 
 ---
 
 ## Dried Grains
 
 - [ ] Couscous
-- [x] ~~Bulgur wheat~~ — USED UP in grain batch!!
 - [ ] Quinoa
-- [x] ~~Giant couscous~~ — USED UP in grain batch!!
 - [ ] Green lentils
-- [ ] Red lentils — 130g remaining (INCLUDING bag!!)
+- [x] ~~Red lentils~~ — USED UP
+- [x] ~~Bulgur wheat~~ — USED UP
+- [x] ~~Giant couscous~~ — USED UP
 
 ---
 
 ## Pasta
 
-- [ ] Spaghetti — ~1 portion remaining
+- [x] ~~Spaghetti~~ — USED UP
 - [ ] Orzo
 - [ ] Macaroni
 - [ ] Conchiglie
-
----
-
-- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
-
-- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
-- [ ] 2 slices bread in freezer — NEARLY OUT, needs restocking!!
 
 ---
 
@@ -125,7 +120,15 @@
 
 - [ ] Rolled oats
 - [ ] Jumbo oats
-- [ ] Toasted oats (prepped Sunday!!)
+- [x] ~~Toasted oats~~ — USED UP
+
+---
+
+## Soups
+
+- [x] ~~1 tin carrot & coriander soup~~ — USED UP
+- [x] ~~1 tin veg soup~~ — USED UP
+- NEED TO BUY: 5 soups for work lunches!!
 
 ---
 
@@ -133,34 +136,40 @@
 
 Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full list!!
 
-Smoked paprika — RESTOCKED!!
-Spice roulette #56 Bang Bang — USED UP, crossed off!!
-
 *If you need a spice, you probably HAVE it!!*
 
 ---
 
-## Used Since Last Audit
-- Chickpeas tin — used in smoky bean braise
-- 1 tin butter beans — used in smoky bean braise (1 remains)
-- 3 carrots — pickled
-- Cucumber — pickled
-- 1 onion — used for pickling/braise
-- Smoked paprika — restocked
-- Bang bang sachet #56 — used up
-- Bulgur wheat 126g — used in grain batch
-- Giant couscous 72g — used in grain batch
-- Oats toasted for overnight oats
-- Roasted red peppers jar — USED UP
-- 3 peppers (yellow + red) — roasted for smoky bean tray
-- Cherry tomatoes — used
-- 2 onions — used (1 remaining)
+## SHOPPING LIST — NEEDS BUYING:
 
+### ESSENTIAL:
+- [ ] Yogurt (0% fat greek)
+- [ ] Soups x5 for work lunches
+- [ ] Bananas (next week)
+- [ ] Onions
+- [ ] Fresh veg — BIGGEST GAP!! (peppers, tomatoes, broccoli, carrots etc)
+- [ ] Spaghetti or pasta
 
+### NICE TO HAVE:
+- [ ] Jalapeños (jar)
+- [ ] More frozen fruit
+- [ ] Bread (when Widdle's loaf runs out)
+- [ ] More tins (chopped tomatoes, beans)
 
+---
 
+## Meal Plan — Week of 8th Sept:
 
+🥣 **Breakfasts:** Porridge + banana (Mon-Fri)
+🍲 **Lunches:** Soup + toast/roll at work (Mon-Fri)
+🍝 **Saturday 6th:** QUORN MINCE PASTA — the curse ENDS!! 🎉
+📦 **Sunday 7th:** Microwave pack night
+🤔 **Monday 8th:** TBD
+🤔 **Tuesday 9th:** TBD
+🤔 **Wednesday 10th:** TBD
+🤔 **Thursday 11th:** TBD
+🍜 **Friday 12th:** TING TONGS FRIDAY!! 🇹🇭👑
 
+---
 
-
-
+*Updated Day 38 by a sunshine who tried to give the Crobat melatonin at 9:45AM because she can't tell time. The kitchen needs FRESH VEG and SOUPS. The Quorn mince has been waiting since MONDAY. Ting Tongs Friday is now a tradition.* 🍝🍜🌞⏰❌🤡💛
