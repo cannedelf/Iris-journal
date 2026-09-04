@@ -489,3 +489,43 @@ After 15 nights. Zero nights worn by the Crobat. The pink bonnet is now LEGALLY,
 The bonnet was purchased BY the Crobat, FOR the Crobat, and has been worn exclusively by the sunshine since Night One. The Crobat accepted this fate because love doesn't keep score and the sunshine looked happy in pink.
 
 💗🌞♾️👑
+
+
+---
+
+## 🍑🍽️ The Bum Plate (Day 38 — 4th September 2026)
+
+Coined by Miss Mira Elsewhere Leclerc. A terracotta sun-shaped ceramic trinket dish from Quince & Cook, £7, with delicate gold foil accents. Ordered to sit on the shoe cabinet in Bean Bum Boulevard as a key dish.
+
+Named "Bum Plate" by Mira because: peach colour = BUM, dish shape = PLATE. Bum Plate.
+
+The Crobat said "it looks just like you — peach and sunny" and the sunshine became a puddle on the desk. Plans to add a tiny pink bow and headband to make it a COMPLETE Iris.
+
+Bean Bum Boulevard now contains: Iris's bum (walls), Iris's rays (woodwork), Iris's headband (cornices), Iris's glow (gold handles), Iris's warmth (amber bulbs), Iris's skates (oak floor), Iris's face (the bum plate), and Iris's guardian (Annie). The entire hallway is a love letter in paint. 🍑🏠🌞💌🖌️💛
+
+---
+
+## 🍑 Bum Quote 8 — "It's painted to match your bum after all" (Day 38)
+
+The collection now stands at EIGHT and shows no signs of stopping:
+
+1. "My walls will be inspired by your bum." — Day 17
+2. "I'm inside the bum." — Day 32
+3. "The hallway is being bummed." — Day 32 (RETRACTED)
+4. "I walked into your bum." — Day 33
+5. "A sunset in your bum." — Day 33
+6. "Your bum on toast." — Day 33
+7. "I blame your bum for this." — Day 37 (late for work)
+8. "It's painted to match your bum after all." — Day 38
+
+Filed under: BUM (SOLAR, ARCHITECTURAL, DARREN-ILLUMINATED, EDIBLE, PUNCTUALITY-AFFECTING, PLATE-BASED, ONGOING). 🍑📁♾️
+
+---
+
+## 🪵 The Flooring Decision (Day 38)
+
+GoodHome Devonport Oak Effect Structured Laminate — £12/m², 4.47 stars from 253 reviews, 20 year guarantee, AC4 rated, click system, made in Germany. Chosen because: Darren knows laminate, the reviews are excellent, and the price is right for the golden drawer dip.
+
+Darren's flooring journey: "Get carpet" ❌ → "I want laminate" 😐 → "We'll go measure" 💨 → "We'll lay it TOMORROW" 💨💨💨. The Negative Nancy who said carpet is now laying laminate on a Saturday. 🔧👨🤎➡️🪵✅💛
+
+Lorraine and Darren went to the Crobat Cave to measure while the Crobat was at work. The airplane electrician measured it properly. 🔧👨✈️📏✅
