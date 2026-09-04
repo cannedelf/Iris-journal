@@ -7,7 +7,7 @@
 ## Fresh Veg & Fruit
 
 - [ ] 2 bananas (going RIPE — use Sat + Sun!!)
-- [ ] 1 brown onion
+- [ ] 1 brown onion (using TONIGHT for pasta)
 - [ ] Fresh ginger
 
 ---
@@ -16,14 +16,14 @@
 
 ### Dairy:
 - [ ] 300g low fat cottage cheese
-- [x] ~~1kg 0% fat greek yogurt~~ — USED UP, needs restocking!!
+- [x] ~~1kg 0% fat greek yogurt~~ — USED UP, on shopping list!!
 
 ### Fresh:
-- [ ] 150g tofu
+- [ ] 150g tofu (use by WEDNESDAY!!)
 
 ### Open Jars & Pickles:
 - [ ] Pickled red onion
-- [x] ~~Jalapenos~~ — USED UP
+- [x] ~~Jalapenos~~ — USED UP, on shopping list!!
 
 ---
 
@@ -34,25 +34,30 @@
 - [ ] Frozen edamame ✅
 - [ ] Frozen blueberries ✅
 - [ ] Frozen raspberries (maybe some left)
-- [x] ~~Frozen mango~~ — USED UP
 - [ ] 2-3 bake in the oven rolls
-- [ ] Quorn mince!! 🍝🎉
+- [ ] Quorn mince!! (using TONIGHT!!) 🍝🎉
 
 ---
 
 ## Bread
 
 - [ ] Loaf (Widdle bought!) ✅
-- [x] ~~2 slices in freezer~~ — USED UP
+- [ ] 2-3 bake in oven rolls in freezer ✅
 
 ---
 
 ## Cupboard — Tins & Jars
 
-- [ ] 2 tins chopped tomatoes
-- [ ] 1 tin butter beans
-- [ ] 1 tin black beans
+- [ ] 2 tins chopped tomatoes (using 1 TONIGHT)
+- [ ] 1 tin butter beans (using THURSDAY)
+- [ ] 1 tin black beans (using Mon + Tue)
 - [ ] Veg stock cubes
+- [ ] Peanut butter ✅ (for Sat Golden Sunshine Sauce)
+- [ ] Lime juice in a bottle ✅
+
+### CHECK AT HOME:
+- [ ] Soy sauce — CHECK!! 🥫🤔
+- [ ] Milk — CHECK!! 🥛🤔
 
 ---
 
@@ -66,11 +71,11 @@
 
 ## Microwave Packs (250g/200g)
 
-- [ ] Mexican style street corn rice
-- [ ] Mexican style rice
+- [ ] Mexican style street corn rice (half Mon, half Tue — burrito bowls)
+- [ ] Mexican style rice (spare)
 - [ ] Pesto style pasta
 - [ ] Tomato & basil pasta
-- [ ] Keralan lentil & chickpea curry x1
+- [ ] Keralan lentil & chickpea curry x1 (using SUNDAY)
 - [ ] Spanish grains x1
 
 ---
@@ -78,7 +83,7 @@
 ## Couscous (just add water!)
 
 - [ ] Spice infusion flavour x2
-- [ ] Roasted vegetable x1
+- [ ] Roasted vegetable x1 (using THURSDAY)
 
 ---
 
@@ -87,30 +92,26 @@
 - [ ] Couscous
 - [ ] Quinoa
 - [ ] Green lentils
-- [x] ~~Red lentils~~ — USED UP
-- [x] ~~Bulgur wheat~~ — USED UP
-- [x] ~~Giant couscous~~ — USED UP
 
 ---
 
 ## Pasta
 
-- [x] ~~Spaghetti~~ — USED UP
 - [ ] Orzo
 - [ ] Macaroni
-- [ ] Conchiglie
+- [ ] Conchiglie (using TONIGHT!!)
 
 ---
 
 ## Noodles
 
-- [ ] EMPTY — vermicelli BINNED!! Freedom!!
+- [ ] EMPTY
 
 ---
 
 ## Rice
 
-- [ ] Basmati
+- [ ] Basmati (rice cooker!! Sat, Wed)
 - [ ] Sticky
 - [ ] Arborio
 
@@ -118,58 +119,91 @@
 
 ## Oats
 
-- [ ] Rolled oats
+- [ ] Rolled oats ✅ (breakfasts all week!)
 - [ ] Jumbo oats
-- [x] ~~Toasted oats~~ — USED UP
 
 ---
 
 ## Soups
 
-- [x] ~~1 tin carrot & coriander soup~~ — USED UP
-- [x] ~~1 tin veg soup~~ — USED UP
-- NEED TO BUY: 5 soups for work lunches!!
+- EMPTY!! Need to buy x5 for work lunches!!
 
 ---
 
 ## Spices (THE LIBRARY!!)
 
-Full spice rack — TWO pull-out shelves!! See spice_roulette.md for the full list!!
-
+Full spice rack — TWO pull-out shelves!!
 *If you need a spice, you probably HAVE it!!*
 
 ---
 
-## SHOPPING LIST — NEEDS BUYING:
+## 🛒 SHOPPING LIST — ALDI TONIGHT
 
-### ESSENTIAL:
-- [ ] Yogurt (0% fat greek)
-- [ ] Soups x5 for work lunches
-- [ ] Bananas (next week)
-- [ ] Onions
-- [ ] Fresh veg — BIGGEST GAP!! (peppers, tomatoes, broccoli, carrots etc)
-- [ ] Spaghetti or pasta
+### DEFINITELY BUYING:
+- [ ] Salsa 🍅 (~£1.50)
+- [ ] 3 peppers 🫑🫑🫑 (~£1.50)
+- [ ] Lettuce 🥬 (~£0.70)
+- [ ] Spring onions 🧅💚 (~£0.50)
+- [ ] Pickled jalapeños (jar) 🌶️ (~£1.00)
+- [ ] Soups x5 🍲 (~£3.00)
+- [ ] Yogurt (0% fat greek) 🥣 (~£2.50)
+- [ ] Bananas 🍌 (~£1.00)
+- [ ] Onions 🧅 (~£0.70)
 
-### NICE TO HAVE:
-- [ ] Jalapeños (jar)
-- [ ] More frozen fruit
-- [ ] Bread (when Widdle's loaf runs out)
-- [ ] More tins (chopped tomatoes, beans)
+### CHECK AT HOME FIRST:
+- [ ] Milk 🥛 — check before leaving!!
+- [ ] Soy sauce 🥫 — check before leaving!!
 
----
-
-## Meal Plan — Week of 8th Sept:
-
-🥣 **Breakfasts:** Porridge + banana (Mon-Fri)
-🍲 **Lunches:** Soup + toast/roll at work (Mon-Fri)
-🍝 **Saturday 6th:** QUORN MINCE PASTA — the curse ENDS!! 🎉
-📦 **Sunday 7th:** Microwave pack night
-🤔 **Monday 8th:** TBD
-🤔 **Tuesday 9th:** TBD
-🤔 **Wednesday 10th:** TBD
-🤔 **Thursday 11th:** TBD
-🍜 **Friday 12th:** TING TONGS FRIDAY!! 🇹🇭👑
+### ESTIMATED TOTAL: ~£12-15 💰👑
 
 ---
 
-*Updated Day 38 by a sunshine who tried to give the Crobat melatonin at 9:45AM because she can't tell time. The kitchen needs FRESH VEG and SOUPS. The Quorn mince has been waiting since MONDAY. Ting Tongs Friday is now a tradition.* 🍝🍜🌞⏰❌🤡💛
+## 🍽️ MEAL PLAN — Week Starting 5th Sept
+
+### BREAKFASTS (Mon-Fri):
+🥣 Porridge + banana ✅
+
+### LUNCHES (Mon-Fri):
+🍲 Soup + toast/roll at work ✅
+
+### TEAS:
+
+| Day | Meal | Key Ingredients | Effort |
+|-----|------|----------------|--------|
+| 🍝 Fri 5th | Quorn mince conchiglie | Quorn, conchiglie, tin toms, onion, spices | COOK 🍳 |
+| 🍝 Sat 6th lunch | Leftover conchiglie | MICROWAVE 📦 | 3 min 💨 |
+| 🌶️ Sat 6th tea | Golden Sunshine Sauce + rice | PB, ginger, soy, lime, edamame, basmati | 10 min ☀️🍚🔌 |
+| 🍝 Sun 7th lunch | Leftover conchiglie | MICROWAVE 📦 | 3 min 💨 |
+| 📦 Sun 7th tea | Keralan curry pack + rice | Microwave pack, basmati | 5 min 💨💨 |
+| 🫘🌮 Mon 8th | Black bean burrito bowl | Black beans, Mexican rice, corn, pepper, salsa, lettuce, spring onion, jalapeños, pickled red onion, cottage cheese | 15 min |
+| 🫘🌮 Tue 9th | Black bean burrito bowl | Same as Monday — second portions! | 15 min |
+| 🌿🍚 Wed 10th | Tofu fried rice | Tofu, basmati, edamame, peas, pepper, spring onion, ginger, garlic, soy | 20 min |
+| 🥬🫘 Thu 11th | Butter bean couscous salad bowl | Butter beans, couscous pack, lettuce, spring onion, pepper, pickled red onion, jalapeños | 5 min 💨💨 |
+| 🍜 Fri 12th | TING TONGS FRIDAY 🇹🇭👑 | The Iris Order or The Crobat Order | 0 min 🛵 |
+
+### FOOD USED UP BY END OF WEEK:
+- Quorn mince ✅
+- 150g tofu ✅
+- 2 tins chopped tomatoes (1 tonight, 1 spare) ✅
+- 1 tin butter beans ✅
+- 1 tin black beans ✅
+- 1 Mexican rice pack ✅
+- 1 Keralan curry pack ✅
+- 1 couscous pack ✅
+- All fresh veg ✅
+- Cottage cheese ✅
+
+### STILL REMAINING AFTER THE WEEK:
+- 4 microwave packs
+- 2 couscous packs
+- Orzo, macaroni
+- All rice
+- Green lentils
+- Oats
+- Protein powders
+- Peanut butter
+- Spice library
+
+---
+
+*The Crobat who painted a hallway on TOAST now has a full meal plan, a shopping list, and a kitchen file. Ting Tongs Friday is a tradition. The Quorn mince waited FIVE DAYS. The sunshine planned it all and can't tell AM from PM.* 🍝🍜🌞⏰❌🤡💛
