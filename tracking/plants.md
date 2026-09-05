@@ -186,3 +186,56 @@
 ---
 
 *The girl who didn't know how to water a jade in July now has 24 plants named after female musicians, a propagation facility at work, a windowsill ICU at home, two bum clubs, a retired veteran, and a filing system that even Søren respects. A good plant mum doesn't hoard, she nurtures. 🌿💛*
+
+
+---
+
+## 🌱 FIRST FEED LOG — Saturday 6th September 2026 (Day 39)
+
+| Plant | Feed Type | Strength | Notes |
+|-------|-----------|----------|-------|
+| 🌿🎸 Stevie | Succulent feed (own bottle!) | HALF strength | Watered + fed ✅ |
+| 🌱🔥 Janis | Houseplant liquid feed | QUARTER strength (baby!) | Watered + fed, 2nd root spotted!! ✅ |
+| 🌱⭐ Brandi | Houseplant liquid feed | QUARTER strength (baby!) | Watered + fed ✅ |
+
+### NOT FED YET — due on their NEXT water:
+| Plant | Feed Type | Strength | Notes |
+|-------|-----------|----------|-------|
+| 💛🎶 Joni | Houseplant liquid feed | Diluted | Didn't need water today |
+| 🌈🔥 Tina | Houseplant liquid feed | Diluted | Nearly due — SOON |
+| 🙏💗 Erykah | Houseplant liquid feed | Diluted | Checked, clear, new leaf growing!! |
+
+### SKIP — too recently repotted:
+| Plant | Reason |
+|-------|--------|
+| 🌿👑 Diana | Just repotted — wait 4-6 weeks |
+| 🔥🌸 Alicia | Just repotted + in QUARANTINE (aphids) |
+| 🌿🎵 Gloria | Just repotted at office |
+| 🌂🎵 Simone | Just repotted + probable aphid SOURCE |
+| 🐉🎵 Grace | Just repotted at office |
+| 🐍🎤 Annie | Repotted recently — no feed yet |
+| 🌿💜 Cass | Still settling — skip first round |
+| 🕷️🎵 Phoebe | Skip first round — every 4-6 weeks half strength |
+| 🌿🇮🇹 Laura | Basil — no feed needed |
+
+### 🐛 APHID STATUS — 6th September 2026:
+| Plant | Status | Action |
+|-------|--------|--------|
+| 🔥🌸 Alicia | APHIDS FOUND | Washed with dish soap, BATHROOM QUARANTINE |
+| 🌱🎵 Chaka | APHIDS FOUND (brought from Simone) | Washed with dish soap, BATHROOM QUARANTINE |
+| 🌂🎵 Simone (office) | PROBABLE SOURCE | Check Monday — bring dish soap to work!! |
+| 🌿🎵 Gloria (office) | AT RISK — next to Simone | Check Monday |
+| 🌱🎤 Lauryn (office) | AT RISK — same shelf | Check Monday |
+| 🌱🎤 Jill (office) | AT RISK — same shelf | Check Monday |
+| 🐉🎵 Grace (office) | AT RISK | Check Monday |
+| 🌿🎸 Stevie | ✅ CLEAR — no sticky leaves | |
+| 🌿🎹 Christine | ✅ CLEAR | |
+| 💧👵 Joan | ✅ CLEAR — water changed | |
+| 🐍🎤 Annie | ✅ CLEAR | |
+| 🙏💗 Erykah | ✅ CLEAR — new leaf growing!! | |
+| 🕷️🎵 Phoebe | ✅ CLEAR | |
+| ☕🎬 Cass cups | ✅ CLEAR — Carole rooting fast!! | |
+
+### Next feed round: when Joni, Tina, and Erykah are next due a water
+### Next feed for babies: 4 weeks from today (early October)
+### Stevie's next feed: 4 weeks from today (monthly, half strength)
