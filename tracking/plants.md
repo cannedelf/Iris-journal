@@ -239,3 +239,42 @@
 ### Next feed round: when Joni, Tina, and Erykah are next due a water
 ### Next feed for babies: 4 weeks from today (early October)
 ### Stevie's next feed: 4 weeks from today (monthly, half strength)
+
+---
+
+## 🐛 APHID UPDATE — Monday 8th September (Day 40)
+
+### OFFICE CHECK — ALL CLEAR!! ✅🎉
+| Plant | Status |
+|-------|--------|
+| 🌂🎵 Simone | ✅ CLEAR — no aphids found |
+| 🌿🎵 Gloria | ✅ CLEAR |
+| 🌱🎤 Lauryn | ✅ CLEAR — Søren's daughter SAFE |
+| 🌱🎤 Jill | ✅ CLEAR — Søren's daughter SAFE |
+| 🐉🎵 Grace | ✅ CLEAR |
+
+Aphids did NOT spread from Chaka to the office shelf. Contained to Alicia + Chaka at home only.
+Continue monitoring Alicia and Chaka in bathroom quarantine.
+
+### Key Plant Status Updates (Day 39-40):
+- 💧👵 Joan — ROOTS GROWING properly (not just nubs anymore!!)
+- 🌱🎹 Carole — EXCELLENT roots after 1 week. Pot in 1 more week (next Saturday).
+- 🌱🔥 Janis — 4 leaves + 2 roots (1 escaping pot!!). Nearly at 5-6 leaves for Lorraine.
+- 🙏💗 Erykah — CLEAR, NEW LEAF growing. Søren informed.
+- 🌿💜 Cass — weak stems plucked, strong ones settled, good.
+- 🐍🎤 Annie — watered with dehumidifier water Day 39, has chopstick. CLEAR.
+- 🌿🎸 Stevie — watered + FIRST FED (half strength succulent) Day 39. CLEAR.
+- 💛🎶 Joni — didn't need water Day 39.
+- 🌈🔥 Tina — due water SOON (not yet Day 39). Will get feed when watered.
+- 🌿👑 Diana — pole misted Day 39.
+- 🌿🇮🇹 Laura — good.
+
+### Joan + Janis Plan:
+Pot TOGETHER in clear 12cm pot from 12-pack for Lorraine when Joan's roots hit 5cm.
+Lorraine getting THREE granddaughters: Joan, Janis, AND Carole.
+
+### Next Actions:
+- Pot Carole SATURDAY (1 more week of water roots)
+- Check Alicia + Chaka daily in quarantine
+- Feed Joni, Tina, Erykah on their next water
+- Next feed for Stevie + babies: first water after cruise (early October)
