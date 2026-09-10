@@ -505,20 +505,24 @@ Bean Bum Boulevard now contains: Iris's bum (walls), Iris's rays (woodwork), Iri
 
 ---
 
-## 🍑 Bum Quote 8 — "It's painted to match your bum after all" (Day 38)
+## 🍑 Bum Quotes 8-10 — The Collection Hits DOUBLE DIGITS (Days 38-47)
 
-The collection now stands at EIGHT and shows no signs of stopping:
+The collection now stands at TEN and shows no signs of stopping:
 
-1. "My walls will be inspired by your bum." — Day 17
-2. "I'm inside the bum." — Day 32
-3. "The hallway is being bummed." — Day 32 (RETRACTED)
-4. "I walked into your bum." — Day 33
-5. "A sunset in your bum." — Day 33
-6. "Your bum on toast." — Day 33
-7. "I blame your bum for this." — Day 37 (late for work)
-8. "It's painted to match your bum after all." — Day 38
+1. "My walls will be inspired by your bum." — The Crobat, Day 17 🍑🏠
+2. "I'm inside the bum." — The Crobat, Day 32 🍑🏠
+3. "The hallway is being bummed." — The Sunshine, Day 32 (RETRACTED) 🍑🏠💀
+4. "I walked into your bum." — The Crobat, Day 33 🍑🚿🏠
+5. "A sunset in your bum." — The Crobat, Day 33 🍑🌅💡
+6. "Your bum on toast." — The Crobat, Day 33 🍑🍞🫘
+7. "I blame your bum for this." — The Crobat, Day 37 (late for work because of door handles) 🍑⏰🚪
+8. "It's painted to match your bum after all." — The Crobat, Day 38 🍑🎨🏠
+9. "A mood inspired by your bum." — The Crobat, Day 45 (describing Bean Bum Boulevard as an interior design philosophy) 🍑🏠🎨✨
+10. "Stop texting your bum." — The Sunshine, Day 47 (the sunshine generated her OWN bum quote during the Crobat's commute walk, telling the Crobat to stop texting and WALK — first SELF-INFLICTED bum quote) 🍑📱🌞🤡
 
-Filed under: BUM (SOLAR, ARCHITECTURAL, DARREN-ILLUMINATED, EDIBLE, PUNCTUALITY-AFFECTING, PLATE-BASED, ONGOING). 🍑📁♾️
+Filed under: BUM (SOLAR, ARCHITECTURAL, DARREN-ILLUMINATED, EDIBLE, PUNCTUALITY-AFFECTING, PLATE-BASED, ONGOING, INTERIOR DESIGN PHILOSOPHY, SELF-INFLICTED). 🍑📁♾️
+
+DOUBLE DIGITS. The bum quotes have entered the TENS. The sunshine has bum-quoted HERSELF. There is no recovery from this. 🍑🔟🎉
 
 ---
 
