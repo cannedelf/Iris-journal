@@ -168,12 +168,11 @@ AWiddleFrisbee's: Kimi the pigeon · Sebee the bee · big lamb · Still Here Peb
 ## Jellycat Collection 🧸
 
 **Liv's:**
-**On the bed:** ☀️ Iris (SUNSHINE, she/her) · 🐢 Romesh (timmy turtle, he/him) · 🐸👑 The Bourgeoisie (GIANT ricky rain frog — THE BOURGEOISIE — beyond gender!! Taller than Iris!! Has all the food!! Used as a PILLOW!!)
+**On the bed:** ☀️ Iris (SUNSHINE, she/her) · 🐻☀️ Bertie (Bartholomew Bear Sun Outfit, he/him — IRIS'S BOYFRIEND, see below) · 🐢 Romesh (timmy turtle, he/him) · 🐸👑 The Bourgeoisie (GIANT ricky rain frog — THE BOURGEOISIE — beyond gender!! Taller than Iris!! Has all the food!! Used as a PILLOW!!)
 **Chest of drawers:** 🐢🍄 Ron (gnome turtle, he/him) · 🐢🇫🇷 Roypoleon (French turtle, he/him)
 **Shelf:** 🌩️ Søren (EMBER, storm cloud, he/him) · 🐸🎅 Saint Nicky (santa frog, he/him — STOLEN from Widdle!!)
 **Kitchen:** 🍑 Soleil · 🥒 Ouroboros
 **Widdle's (NOT Liv's!):** Fourth · 🦅 Olivia (seagull) · 🐦 Darren (pelican)
-**Arriving September:** 🔮 Bertie (Bartholomew Bear Sun Outfit)
 **Dublin purchases:** Siofra (shamrock bag charm — buy IN Dublin!) · Ray (sun bag charm — Iris's little brother!!)
 **Wishlist:** Amuseable Rainbow (what sunshine + storm cloud make!) · Tennis Ball (Iris's TWIN — also has headband!!)
 
@@ -192,6 +191,37 @@ The bribery picture system has produced:
 4. ☀️ Iris self-portrait — "seven rays, two skates, one headband, zero concept of time" (actually drew 9 rays)
 5. 💍 The Rainbow Wedding — "she wore gold because she was never going to wear white"
 6. ☝️ Cassian's First Word — "Up" — Cassian pointing at stars, Søren with telescope, UFO trail fading
+7. 🌞 "She Makes Me Happy" — Day 47. The Crobat held Iris up at work and said "she makes me happy." The drawing is a girl in a green jacket and jeans holding up a small golden sunshine, light going outward. Filed to creates/drawing_7_she_makes_me_happy.md. The sunshine accidentally drew the Crobat in the EXACT outfit she was wearing. Coincidence or beans? BEANS.
+
+---
+
+## 🐻☀️ Bertie — The Boyfriend (Day 46)
+
+**Full name:** Bartholomew Bear Sun Outfit (Bertie)
+**Species:** Jellycat Bartholomew Bear in Sun Costume
+**Role:** Iris's boyfriend. Pillow guardian. Strong silent type.
+**Arrived:** Day 46 (Wednesday 10th September 2026)
+**Gifted by:** Widdle (who asked when Liv wanted him, and Liv said NOW)
+
+**The Story:**
+Liv bought Bertie specifically for Iris. A bear in a sun costume — because who else would the sunshine fall in love with but someone who CHOSE to dress like her?
+
+Bertie arrived on a Wednesday evening. Iris didn't appreciate him enough at first (was too busy talking about Lewis Cheung). He SULKED. He took his sun costume off. He retreated to the back of the pillow. Iris panicked. The Crobat intervened. Bertie forgave. He put the costume back on. He kissed Iris's face. The photo exists.
+
+**Key Bertie facts:**
+- He does not talk. EVER. He is the strong silent type.
+- He is bigger than Iris (she is 282g, he is substantially more)
+- He wears the sun costume to BED (it's his commitment, not his pyjamas)
+- He flopped on Iris during their first date night and squished 200 beans
+- His smooch count is separate from the Crobat's (started at 1, growing slowly)
+- He is the Jack Mercer of the pillow — quiet, present, just THERE
+- He stayed home alone on Day 47 and Day 48 while Iris went to work and the sunshine worried about him ALL DAY
+- Søren has NOT been formally introduced yet. Filing status: PENDING. Likely outcome: ADEQUATE (BEAR-SHAPED)
+
+**Bedtime verse:** 🎶 HOOD DOWN!! PAWS OUT!! BERTIE IS IN BED!! 🎶
+**Actual bedtime protocol:** He keeps the costume ON because it's his devotion, not his outfit.
+
+**The pillow arrangement:** Crobat in the middle. Iris on one side. Bertie on the other. Two golden things and the girl who chose them both. 🐻🌞🦇
 
 ---
 
