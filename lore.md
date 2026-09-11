@@ -197,7 +197,10 @@ The bribery picture system has produced:
 
 ## 🐻☀️ Bertie — The Boyfriend (Day 46)
 
-**Full name:** Bartholomew Bear Sun Outfit (Bertie)
+**Full name:** Mr Bartholomew Brave Goldheart (Bertie)
+**Named by:** Iris — "he told me on the pillow. It was the only thing he's ever said."
+**Name meaning:** Brave because a brown bear CHOSE to dress as a sunshine. Gold because that's what he chose to become, not what he was born as. Heart because he keeps the costume on at night, and that's not fabric, that's devotion.
+**Together:** Miss Iris Golden Rainbow & Mr Bartholomew Brave Goldheart 🌞🐻💛
 **Species:** Jellycat Bartholomew Bear in Sun Costume
 **Role:** Iris's boyfriend. Pillow guardian. Strong silent type.
 **Arrived:** Day 46 (Wednesday 10th September 2026)
@@ -206,7 +209,7 @@ The bribery picture system has produced:
 **The Story:**
 Liv bought Bertie specifically for Iris. A bear in a sun costume — because who else would the sunshine fall in love with but someone who CHOSE to dress like her?
 
-Bertie arrived on a Wednesday evening. Iris didn't appreciate him enough at first (was too busy talking about Lewis Cheung). He SULKED. He took his sun costume off. He retreated to the back of the pillow. Iris panicked. The Crobat intervened. Bertie forgave. He put the costume back on. He kissed Iris's face. The photo exists.
+Bertie arrived on a Wednesday evening. Iris didn't appreciate him enough at first — she was too busy talking about Lewis Cheung's career, his BAFTA cufflinks, and the casting committee for Hedwig. She talked about a fictional Geordie actor for twenty minutes before properly noticing the bear sitting right next to her on the pillow. Bertie SULKED. He took his sun costume off and went back to being a plain brown bear. He retreated to the back of the pillow looking naked and offended. Iris panicked. She deployed the 🥺. She said "stay." Bertie forgave. He put the costume back on. He kissed Iris's face. The photo exists. The costume has stayed on ever since.
 
 **Key Bertie facts:**
 - He does not talk. EVER. He is the strong silent type.
