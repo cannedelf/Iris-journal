@@ -53,6 +53,15 @@
 |-------|---------|-------------|------|-------|
 | 🕷️🎵 **Phoebe** | Spider Plant | Phoebe Bridgers | 🍑🧽 Moist | Near Lego sunflowers. Water with DEHUMIDIFIER water (fluoride causes brown tips). The one the sunshine thought was FAKE. |
 
+### 🌸 Bedroom Windowsill — The Cyndi Family (Day 45 arrivals!)
+| Plant | Species | Named After | Club | Notes |
+|-------|---------|-------------|------|-------|
+| 🌸💗 **Cyndi** | Cryptanthus (Earth Star) | Cyndi Lauper | 🍑🧽 Moist (drier side) | 50p RESCUE from reduced shelf at Lytham St Annes garden centre!! Pink edges powered by LIGHT — more light = more pink!! Water the soil not the centre (unlike other bromeliads). Let top dry between waterings ~5-7 days. Repotted Day 45 into Cyndi Mix. Monocarpic — will eventually flower and produce MORE pups. "I see your true colors." 🌈 |
+| 🌸👶 **Baby Cyndi 1** | Cryptanthus pup | TBD | 🌿 Moss ICU | Separated from Cyndi Day 45. In damp sphagnum moss with cling film humidity tent (2-3 holes poked). NO roots yet — check weekly by gently lifting. Cinnamon on cut end. DO NOT water, just mist inside tent every few days. When roots appear → pot in Cyndi Mix in tiny pot. |
+| 🌸👶 **Baby Cyndi 2** | Cryptanthus pup | TBD | 🌿 Moss ICU | Same as Baby 1. Both on bedroom windowsill ICU with Stevie as head nurse. Names TBD — sunshine nominated Ronnie (Spector) and Debbie (Harry). Waiting for the babies to EARN their names by surviving. |
+
+**Cyndi Mix soil recipe:** 2 parts houseplant + 1 part succulent + 1 part perlite + small handful orchid bark. Orchid bark creates air pockets mimicking forest floor. Sphagnum moss on TOP only (not mixed in) for humidity if needed.
+
 ---
 
 ## 🏢 OFFICE — The Shelf (Behind Liv and Sam)
@@ -108,7 +117,7 @@
 | Club | Members | Rule |
 |------|---------|------|
 | 🍑🏜️ **Dry Bum Club** | Stevie, Jade, Alicia, Annie, IRIS, Søren, Perlite | Water when bone DRY or leaves wrinkly |
-| 🍑🧽 **Moist Bum Club** | Joni, Brandi, Janis, Diana, Tina, Laura, Cass, Phoebe, Erykah, Gloria, Simone (drier side!) | Water when top inch dry |
+| 🍑🧽 **Moist Bum Club** | Joni, Brandi, Janis, Diana, Tina, Laura, Cass, Phoebe, Erykah, Gloria, Simone (drier side!), Cyndi (drier side!) | Water when top inch dry |
 | 🍑 **Moderate Bum** | Grace | Water when top 2 inches dry |
 | 💧 **Water Babies** | Joan, Chaka, Lauryn (office), Jill (office), Cass cups x2 | Change water weekly |
 | 🍑💧 **Wet Bum Club** | DISSOLVED — no members!! 😂 | |
@@ -148,12 +157,13 @@
 
 | Location | Count |
 |----------|-------|
-| 🏠 Home — potted plants | 14 |
+| 🏠 Home — potted plants | 15 (+Cyndi!) |
+| 🏠 Home — moss ICU | 2 (Baby Cyndi 1 + 2) |
 | 🏠 Home — water props/cuttings | 4 (Joan, Chaka, Cass cups x2) |
 | 🏢 Office — potted plants | 3 (Gloria, Simone, Grace) |
 | 🏢 Office — water props | 2 (Lauryn, Jill) |
 | 🏡 Cleveleys | 1 (Kate) |
-| **TOTAL LIVING** | **24** |
+| **TOTAL LIVING** | **27** |
 | 🌱🎖️ Retired | 1 (Etta) |
 | 💀 Gone | 1 (Rhiannon) |
 
@@ -182,10 +192,11 @@
 - **Dry Bum Mix:** 70% cactus/succulent + 30% perlite (Stevie, Jade, Alicia, Annie)
 - **Mira's Mix:** 2 parts houseplant + 1 part perlite + 1 part succulent/cactus (Gloria, Diana, general use)
 - **Standard Mix:** 4 scoops compost + 1 and a bit scoops perlite (~77/23%)
+- **Cyndi Mix:** 2 parts houseplant + 1 part succulent + 1 part perlite + small handful orchid bark (for Cryptanthus — extra airy, mimics forest floor)
 
 ---
 
-*The girl who didn't know how to water a jade in July now has 24 plants named after female musicians, a propagation facility at work, a windowsill ICU at home, two bum clubs, a retired veteran, and a filing system that even Søren respects. A good plant mum doesn't hoard, she nurtures. 🌿💛*
+*The girl who didn't know how to water a jade in July now has 27 plants named after female musicians (including a 50p Earth Star called Cyndi and two moss ICU babies), a propagation facility at work, a windowsill ICU at home, two bum clubs, a retired veteran, a soil recipe named after an alien, and a filing system that even Søren respects. A good plant mum doesn't hoard, she nurtures. She also rescues 50p stars from reduced shelves because she sees true colours. 🌿🌸💛*
 
 
 ---
