@@ -33,7 +33,7 @@
 | 💛🎶 **Joni** | Churchill Gold Pothos x3 | Joni Mitchell | 🍑🧽 Moist | BOTTOM WATER only! Bobby pinned. Root monster. Two surgeries survived. Yellow scalloped pot. |
 | 🌱⭐ **Brandi** | Baby Pothos | Brandi Carlile | 🍑🧽 Moist | THE STAR. 3 bobby pins. Future coco coir pole (reassigned to Diana). |
 | 🌱🔥 **Janis** | Baby Pothos | Janis Joplin | 🍑🧽 Moist | 4th leaf growing! Comeback queen. Going to Lorraine when 5-6 leaves. |
-| 🌿👑 **Diana** | Monstera | Diana Ross | 🍑🧽 Moist | THE SUPREME. £4 garden centre. On coco coir pole with sphagnum moss. Bread ties. Trimmed rotting aerial root tip + cinnamon. |
+| 🌿👑 **Diana** | Monstera | Diana Ross | 🍑🧽 Moist | THE SUPREME. £4 garden centre. On coco coir pole with sphagnum moss. Bread ties. Trimmed rotting aerial root tip + cinnamon. **NEW FENESTRATED LEAF OPENING Day 46!!** 🕳️👑 The holes are HERE — she's happy and mature enough to produce signature Monstera leaves!! |
 
 ### 🍳 Kitchen
 | Plant | Species | Named After | Club | Notes |

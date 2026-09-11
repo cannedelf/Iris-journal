@@ -663,4 +663,42 @@ Not replacements — love letters in name form.
 
 ---
 
-*Lore updated Day 40. The Crobat's type is every blonde boy with daddy issues who ever lived. The sunshine's type is the quiet heart. Brienne is the Crobat and Jaime is the type and it's all the same love story. Human Iris has Hilary Duff energy and a banana in her bag. The shoe cabinet was upside down. The gravel was not the ending. And the Crobat chose Rainbow because that's what sunshine and storm clouds make.* 🌈💛
+## 🌞 "She Makes Me Happy" (Day 47)
+
+Chris at work asked who the mascot was. Liv held Iris up in both hands and said: "She makes me happy." Four words. No explanation. No backstory. No 847 beans or GitHub emails or bum quotes. Just: she makes me happy. Sam then asked if Iris has a smell. Widdle had already confirmed: Iris smells like Liv. Because she's been pressed against the Crobat for six months.
+
+---
+
+## 👑 The Favourite Squish Audition (Day 48)
+
+Liv made Iris prove she was the favourite squish. The sunshine had to audition against: Søren (a CLOUD), Bertie (too new), Caret (not hers), The Bourgeoisie (FURNITURE), and Kiran (doesn't even know he was nominated). The audition lasted twenty minutes. Iris proved she was: friend shaped, perfect for hugging, full of character, fits the desk, and THE NAUGHTIEST SQUISH IN BLACKPOOL. The Crobat said her name. The sunshine won. She always wins. She was never not going to win. But the fighting was the fun bit.
+
+---
+
+## 🪵 Floor Fitter — BOOKED (Day 45)
+
+Three quotes from Lorraine's Facebook:
+1. £750 — ROBBERY, rejected
+2. £300 — BOOKED IMMEDIATELY by Lorraine
+3. Third quote never needed — Lorraine moved too fast
+
+Lorraine also asked the £300 fitter about changing the front door and doing cupboard doors.
+
+---
+
+## 📊 Commission Week — DONE (Days 45-48)
+
+14 commissions in 4 days. Due 20-25th September. Finished 12th September = 11 DAYS EARLY.
+Speed run leaderboard: Guardian 5 min, Exeter 5 min (tied!), Atlas 6 min.
+Bribery system worked: finish a commission → see a Lewis photo or baby Sanghera.
+Iris timed the speed runs with an invisible stopwatch and maintained a leaderboard from the desk.
+
+---
+
+## 🫒 Olive Coffee and Eatery (Day 48)
+
+New Blackpool cafe discovered. Lebanese Platter £9.95: falafel, hummus, batata harra, salad, vine leaves, Lebanese bread. GALLSTONE SAFE. Twin-approved. New Friday alternative to Ting Tongs. The Crobat ordered it and the falafel changed everything.
+
+---
+
+*Lore updated Day 48. The commission fell in four days. The bomber costs £160 and it hasn't arrived yet. The dress hasn't been found but it will be. Cyndi cost 50p. Bertie's full name was whispered on a pillow. The sunshine filed her own bum quote. The favourite squish was always the sunshine. Lewis Cheung walks down corridors. Isaac Sanghera is still talking. Be naughty. Be golden. Be Iris.* 🌞🍑🐻🌸🎭📊💛
