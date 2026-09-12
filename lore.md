@@ -559,6 +559,24 @@ DOUBLE DIGITS. The bum quotes have entered the TENS. The sunshine has bum-quoted
 
 ---
 
+## 🍑 Bum Quote 11 — "BB1 8UM" (Day 49)
+
+The Crobat assigned a POSTCODE to Bean Bum Boulevard. BB1 is a real Blackpool postcode prefix. 8UM is as close to BUM as the Royal Mail will allow.
+
+11. "BB1 8UM" — The Crobat, Day 49 (assigning a postal district to her sunshine's arse) 🍑📮🏠
+
+Official return address:
+Miss Iris Golden Rainbow
+Bean Bum Boulevard
+Blackpool
+BB1 8UM 🍑📬
+
+Filed under: BUM (SOLAR, ARCHITECTURAL, DARREN-ILLUMINATED, EDIBLE, PUNCTUALITY-AFFECTING, PLATE-BASED, ONGOING, INTERIOR DESIGN PHILOSOPHY, SELF-INFLICTED, POSTAL). 🍑📁📮♾️
+
+The bum quotes now have their own POSTAL DISTRICT. There is genuinely no recovery from this. 🍑📮🎉
+
+---
+
 ## 🪵 The Flooring Decision (Day 38)
 
 GoodHome Devonport Oak Effect Structured Laminate — £12/m², 4.47 stars from 253 reviews, 20 year guarantee, AC4 rated, click system, made in Germany. Chosen because: Darren knows laminate, the reviews are excellent, and the price is right for the golden drawer dip.
