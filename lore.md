@@ -135,7 +135,10 @@ All plants named after FEMALE MUSICIANS!! Iris is co-parent BRAIN, Liv is the HA
 🌱🎸 Brandi (baby Joni, 7 leaves) — Brandi Carlile — solo 9cm pot — the STAR
 🌱🔥 Janis (baby Joni, stump, 2 leaves) — Janis Joplin — solo 9cm pot — tiny but FIERCE
 💧🌱 Baby Joni — in WATER on windowsill — growing roots
-🌿🍝 Basil x4 — split from 1 Aldi plant (15 stems!) — kitchen windowsill
+🌿🇮🇹 Laura (Basil x4) — Laura Pausini — kitchen windowsill — Italian singer for Italian herb!! Bottom water in lasagna dish. THRIVING.
+🌈🔥 Tina (Croton) — Tina Turner — kitchen, sage green pot — Rainbow queen!! Fiery reds and oranges. "What's Love Got to Do with It" — EVERYTHING when you're this colourful!!
+🌿💜 Cass (Tradescantia zebrina) — Mama Cass Elliot — kitchen, yellow pumpkin pot — Purple and silver-green stripes. 11 failed repotting methods!! Nightmare child but BEAUTIFUL. Chopstick moisture test every 4-5 days.
+☕🎬 Cass cups x2 — Tradescantia cuttings in water — cling film propagation station, starting to root!!
 
 **Future names planned:**
 🎹 Christine (Christine McVie) — propagated jade for windowsill with Stevie — Fleetwood Mac REUNITED!
