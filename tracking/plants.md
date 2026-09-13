@@ -15,7 +15,7 @@
 | 🔥🌸 **Alicia** | Flaming Katy (Kalanchoe) | Alicia Keys | 🍑🏜️ Dry | 20p garden centre rescue! "Girl on Fire." In Etta's spot. 70/30 cactus/perlite mix. Trimmed 3 leaves. |
 | 🌱🎵 **Chaka** | Dwarf Umbrella cutting | Chaka Khan | 💧 Water | Simone's baby! "I'm Every Woman." In water, cinnamon on cut, watching for roots. |
 | 🌿🎹 **Christine** | Jade leaf propagation | Christine McVie | 🌱 Prop | Tiny pink root! Carrying on for Rhiannon. |
-| 🌿🐦 **Jade** | Jade | Jade Bird | 🍑🏜️ Dry | Baby Stevie. Might go to office by Jo's south-facing window. |
+| 🌿🐦 **Jade** | Jade | Jade Bird | 🍑🏜️ Dry | Baby Stevie. **MOVED TO OFFICE** with Jo! South-facing window — living her BEST LIFE!! 🪟☀️ |
 
 ### 🪟 Windowsill ICU — Water Babies
 | Plant | Species | Named After | Notes |
