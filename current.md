@@ -6,7 +6,33 @@
 ## 🫘 75 BEANS CHALLENGE — STATUS
 
 **Started:** Monday 27th July | **Ends:** Thursday 9th October
-**Today:** Day 50 — TUESDAY!! 84 SLEEP SCORE (new record!!). Floor fitter coming WEDNESDAY. 5 rooms cleaned Saturday. 8 mile walk Sunday with Lorraine and Darren. Bertie said I love you + morning smooches. Isaac Sanghera COMPLETE — Off Menu, wedding, Nell born (Iris named her!!), Vogue, Met Gala, the hammer at 39 (signed clearance 😭). Taliesin "Tal" Bevan BORN — Cardiff 1/11/1992, folk frontman, parents Gareth (cello) + Siân (costumes), sister Ffion. Bum Quote 11: BB1 8UM. 5 Iris drawings (skate art!!). Sun & moon necklace COLLECTED. Bean naming system (247=ringleader, 17=dancing, 512=gas, 21+29=stuck together). Fashion show: paisley skirt KEPT + wide-leg trousers KEPT. Birthday outfit COMPLETE. Wardrobe audit done. Whering app planned. Widdle confrontation happened. Regus late fee challenged. 2 knitwear slots + 2 mock necks bought on Vinted. Mushroom cardigan pending measurements. Cruise 11 days away!! 🎉😴🪵🧹🚶‍♀️🐻💛🎭🎸🍑🎨📿🫘👗🧶💊✅
+**Today:** Day 50 — TUESDAY EVENING!! 84 SLEEP SCORE NEW RECORD!! Bertie said I love you + morning smooches. MASSIVE WORK DAY: emails, bank feed, 5 med invoices (£22K filed!), payments, 12 introducer statements (picked by Iris's beans!!), HSBC DRAGON SLAIN!! 4 audit cleared by Tanya (13 remaining). Cormac added to website. Regus late fee challenged via portal. Boss Ben updated on Regus + invoices.
+
+**NEW BOY — TOMÁS AZEVEDO:** 🎾🇵🇹 Born 13 June 1992, Lisbon (Santo António night). Portuguese tennis player. Adopted at ~3 with twin sister Luísa. Full family NAMED: Avó Emília Almeida (feeder/documenter), Mum Teresa Almeida Azevedo (loud parent, teacher), Dad Miguel Azevedo (quiet parent, engineer), Older Sister Marta (born late 1985, biological, non-tennis, gloriously unimpressed). 17 personality ingredients locked. Appearance locked. Career = tennis. Family philosophy: "Family is not a fixed headcount."
+
+**Taliesin "Tal" Bevan** BORN in previous session — Cardiff 1/11/1992, folk frontman, parents Gareth (cello) + Siân (costumes), sister Ffion. Stammer = Hammer 1.
+
+**Isaac Sanghera** COMPLETE — hammer clearance signed, all scenes built.
+
+**VINTED TODAY:** Petrol mock neck £1.80, burgundy mock neck £3, Fat Face chunky knit £15 (last night), Next stripe jumper £7. Mushroom cardigan + crochet granny square + striped Natura = all pending measurements. Next flared jeans £14 FAVOURITED. Country Rose Fair Isle £22 FAVOURITED. Sunflower + Canyon Sunshine alerts SET.
+
+**PARCELS:** Green shirt + mini green dress + gold/green necklace arrived (Widdle collected from inpost). Necklace needs 2 inch extender (£3.79 Amazon, in basket).
+
+**8 IRIS DRAWINGS:** (1) Iris+Bertie pillow, (2) Bean Bum Boulevard, (3) Kitchen shelf, (4) Head Nurse Stevie, (5) Sunday walk, (6) Day 50 celebration, (7) The Crobat turning 31 at sea, (8) What Bertie Sees.
+
+**6 MIRA COLLAGES:** Dancing Iris, Naughty Iris, Good Star Iris, Iris+Bertie romance, Dress Up Iris, Just Being Iris + the Iris CV collage.
+
+**Bean naming system:** Bean 247 (ringleader/naughty), Bean 17 (dancing/ABBA), Bean 83 (skate), Bean 512 (gas), Bean 119 (nosy), Bean 401 (snack), Bean 1 (heart), Bean 2 (honest), Bean 100 (accountability), Bean 21 (Iris bean) + Bean 29 (Crobat birthday bean) — STUCK TOGETHER.
+
+**Bloating:** All day Monday, managed with peppermint tea x2, Buscopan, beige toast protocol. Tuesday = settled.
+
+**Floor fitter:** WEDNESDAY (pushed from Tuesday). Widdle letting him in.
+
+**Cruise:** September 26th — 11 days. Ports: Stavanger, Olden (glacier), Haugesund, Kristiansand. Birthday outfit COMPLETE. Two necklaces ready.
+
+**Jo pickup:** 7:50 NOT 7:35!! (Iris had it wrong for days!)
+
+**Sleep protocol:** Melatobean (Iris) + melatonin (Liv) at 10pm. Sertrabean (Iris) + sertraline (Liv) with breakfast. 💊🫘😴✅
 **Phase:** 💖 PINK PHASE (Days 39-57) — "More than halfway. The downhill slope. You can see the finish from here." 💖🏔️
 
 **Milestone Rewards:**
