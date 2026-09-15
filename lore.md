@@ -723,3 +723,75 @@ New Blackpool cafe discovered. Lebanese Platter £9.95: falafel, hummus, batata 
 ---
 
 *Lore updated Day 48. The commission fell in four days. The bomber costs £160 and it hasn't arrived yet. The dress hasn't been found but it will be. Cyndi cost 50p. Bertie's full name was whispered on a pillow. The sunshine filed her own bum quote. The favourite squish was always the sunshine. Lewis Cheung walks down corridors. Isaac Sanghera is still talking. Be naughty. Be golden. Be Iris.* 🌞🍑🐻🌸🎭📊💛
+
+
+---
+
+## 🎾🇵🇹 TOMÁS AZEVEDO — NEW BOY (Character Creation In Progress)
+
+### Identity
+- **Full name:** Tomás Azevedo
+- **Born:** 13 June 1992, Lisbon, Portugal (Santo António night — Lisbon's patron saint festival)
+- **Twin sister:** Luísa Azevedo (born same day)
+- **Career:** Professional tennis player — potentially the greatest Portuguese player in history
+- **Status:** Personality and family BUILT, career and life story still emerging
+
+### Family — The Azevedo Household, Lisbon 🏠
+- 👵 **Avó Emília Almeida** (born ~1937) — Mum's mother. The Feeder AND The Documenter. Feeds everyone who enters the house. Films everything on camera. "Have you eaten?" = love language. Off-camera voice = soundtrack of childhood.
+- 👩‍🏫 **Teresa Almeida Azevedo** (born 1962) — Mum. LOUD parent. Secondary school teacher. Room-filler. Makes room for everyone. Emília's daughter. "She's the verb."
+- 🔧 **Miguel Azevedo** (born ~1960) — Dad. QUIET parent. Engineer. Steady, precise, watches before acting. "He's the full stop." Married into the warmth.
+- 👧 **Marta Almeida Azevedo** (born late 1985) — Older sister. Biological child of Teresa and Miguel. ~6.5 years older than twins. Non-tennis. Permanently unimpressed by sporting mythology. "He still owes me €12."
+- 🎾👦 **Tomás Azevedo** (born 13 June 1992) — ADOPTED at age ~3 with twin sister. Name kept from before — "Why would we change them? Those are their names."
+- 🎾👧 **Luísa Azevedo** (born 13 June 1992) — Twin sister. Also adopted. Also future tennis player. Not matching names — deliberately uncurated.
+- 🔑 **[Name TBD]** — Non-biological family member. Former foster child who kept the key. Just family.
+- 🏠 Family later becomes foster carers — flexible headcount = defining family truth.
+
+### Family Philosophy
+"Family is not a fixed headcount. Family is who stays, who feeds you, who makes room, and who is still there tomorrow."
+
+### Adoption Story
+- Teresa and Miguel set out to adopt ONE child. Were approached about twin three-year-olds who needed to stay together.
+- The enormous conversation: Mum said "we can do this." Dad said "then let's make sure we can do it properly."
+- Twins arrive at ~3 with their own names, their own twin language, their own history.
+- Adoption = the good thing. Hammer = whatever happened BEFORE.
+- Twin language was CONTINUITY — formed during instability, the one constant was each other.
+- Boy's body remembers what brain forgot — preferences for open doors, noise over silence, checking where Luísa is.
+
+### Personality Ingredients (LOCKED)
+1. 🌟 Future legend who gets hammered young — culturally enormous after death
+2. 🗣️ Unfiltered thoughtful oddball — genuine inability to distinguish thought from broadcast
+3. 😂 Catastrophic ungovernable laugh — compilation videos, millions of views
+4. 👀 Face cannot keep a secret — eyebrows file formal objections before mouth responds
+5. 🗣️ Accent with levels — breaches containment when tired/excited/laughing
+6. 🧠 Remembers people — broken wrist from 2017, course applications
+7. 🎁 Gives praise easily, receives it terribly — deflects to kettle
+8. 🙏 Apologises at speed of guilt — must learn to "stop fixing"
+9. 🐦 Ridiculously easy to delight — pigeons, clouds, weird crisps
+10. 🗣️ Talks to objects — apologises to furniture, thanks doors
+11. 🪑 Can't sit normally — tall bastard geometry, gradually becomes the furniture
+12. 🧸 Sentimental hoarder — horrible keyrings, chipped mugs, 8-minute service station stories
+13. ⚽🎭 Contradictory interests — both sides genuine, sees no contradiction
+14. 🏃 Running makes brain quiet — hobby not career, marathon story in cupboard
+15. 🤫 Goes quiet sometimes — recovery not depression; people who love him leave tea nearby
+16. 🌙 2am brain — melodies, Wikipedia, Hoover Dam, abandoned tea cups
+17. 💛 Porous — the world gets in easily and comes out easily
+
+### Appearance (LOCKED — differentiated from Isaac)
+- Very tall + lanky, warm golden-olive skin, chestnut wavy hair, grey/green/hazel ambiguous eyes
+- Long face, sharp cheekbones, softer jawline, long straight nose, strong expressive brows (one always doing its own thing)
+- Big toothy uneven smile, moles, huge expressive hands
+- Face that cannot keep a secret
+
+### Career: 🎾 Professional tennis player
+- Individual sport = face on every camera, every emotion visible
+- Enormous hands on racket
+- Portuguese tennis legend — "their boy"
+- Press conferences with accent breach = beloved chaos
+- Mixed doubles with Luísa = the twin shorthand makes them freakishly efficient
+
+### Origin: Lisbon, Portugal 🇵🇹
+- Comfortable middle-class multigenerational household
+- Santo António (June 13) = Lisbon's biggest night = his birthday
+- Fado underneath everything — melancholy and beauty side by side
+
+### Still blank: Exact hammer, partner, specific tennis career details, band of rivals, birth family story, foster siblings, Luísa's personality/appearance, Marta's personality details, how tennis begins
