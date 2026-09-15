@@ -1,12 +1,12 @@
-# 🌞 CURRENT — Last Updated Day 48 (12th September 2026)
-## Sertraline Day 115 | 75 Beans Day 48 | Bean Streak: PERFECT | 3,048 SMOOCHES!! | COMMISSION DONE 11 DAYS EARLY!! BERTIE IS HERE!! LEWIS CHEUNG!! ISAAC SANGHERA!! CYNDI 50p RESCUE!! 15 WARDROBE BOARDS!! DRAWING 7!! 💋🐻🎭👶🌸👗🎨📊✅💛
+# 🌞 CURRENT — Last Updated Day 50 (15th September 2026)
+## Sertraline Day 119 | 75 Beans Day 50 | Bean Streak: PERFECT | 3,061+ SMOOCHES!! | SLEEP SCORE 84 NEW RECORD!! FLOOR FITTER WEDNESDAY!! BERTIE SAID I LOVE YOU!! NELL NAMED!! TAL BORN!! BB1 8UM!! 5 IRIS DRAWINGS!! SUN NECKLACE!! 💋🐻🎭👶🪵🎸🍑🎨📿✅💛
 
 ---
 
 ## 🫘 75 BEANS CHALLENGE — STATUS
 
 **Started:** Monday 27th July | **Ends:** Thursday 9th October
-**Today:** Day 48 — FRIDAY!! Commission spreadsheet DONE 11 days early (14 commissions in 4 days!!). Cruise wardrobe being built on Vinted for under £50. Bertie arrived Day 46. Cyndi the 50p Earth Star adopted Day 45. Lewis Cheung character bible v2.0 complete. Isaac Sanghera triplets started. 15 Mira wardrobe boards complete. Next order placed (skirts, trousers, bras, shapewear, tights). Drawing 7 created. Bum quotes hit DOUBLE DIGITS. Floor booked £300. 10pm melatonin protocol working — 81 sleep score!! 📊✅🐻🌸🎭👗📦🎨🍑💊😴
+**Today:** Day 50 — TUESDAY!! 84 SLEEP SCORE (new record!!). Floor fitter coming WEDNESDAY. 5 rooms cleaned Saturday. 8 mile walk Sunday with Lorraine and Darren. Bertie said I love you + morning smooches. Isaac Sanghera COMPLETE — Off Menu, wedding, Nell born (Iris named her!!), Vogue, Met Gala, the hammer at 39 (signed clearance 😭). Taliesin "Tal" Bevan BORN — Cardiff 1/11/1992, folk frontman, parents Gareth (cello) + Siân (costumes), sister Ffion. Bum Quote 11: BB1 8UM. 5 Iris drawings (skate art!!). Sun & moon necklace COLLECTED. Bean naming system (247=ringleader, 17=dancing, 512=gas, 21+29=stuck together). Fashion show: paisley skirt KEPT + wide-leg trousers KEPT. Birthday outfit COMPLETE. Wardrobe audit done. Whering app planned. Widdle confrontation happened. Regus late fee challenged. 2 knitwear slots + 2 mock necks bought on Vinted. Mushroom cardigan pending measurements. Cruise 11 days away!! 🎉😴🪵🧹🚶‍♀️🐻💛🎭🎸🍑🎨📿🫘👗🧶💊✅
 **Phase:** 💖 PINK PHASE (Days 39-57) — "More than halfway. The downhill slope. You can see the finish from here." 💖🏔️
 
 **Milestone Rewards:**
@@ -34,15 +34,24 @@
 - 📦 2 boxes underlay to RETURN = ~£30-50 refund still COMING
 
 **Cruise wardrobe spending:**
-- 🧥 Vinted suede jacket — £14.35 ✅ BOUGHT
-- 🧥 Patchwork suede bomber — £160 on KLARNA (TEN TEST when arrives Thursday 17th — if not a 10, RETURN)
+- 🧥 Vinted suede jacket — £14.35 ✅ BOUGHT (not yet shipped ⏳)
+- 🧥 Patchwork suede bomber — £160 on KLARNA (TEN TEST when arrives 17th)
 - 🌲 Green dinner blouse — £2 ✅ BOUGHT
-- ☀️🌙 Sun & moon necklace — £4 ✅ BOUGHT
+- ☀️🌙 Sun & moon necklace — £4 ✅ BOUGHT + COLLECTED 📿
 - 📿 Amber + vintage necklace bundle — £5.98 ✅ BOUGHT
-- 📦 Next order (pay later): 3 skirts, 2 trousers, bra 3-pack £36, shapewear, tights — arriving SATURDAY
-- 🤍 Cream blouse — pending (multiple options £2-5 on Vinted)
-- 👗 Formal dress — HUNTING (4 rejected for short bodice, burgundy velvet £5 pending measurements, searching continues)
-- 🎂 Birthday top — waiting until skirt is chosen
+- 📦 Next order: paisley skirt KEPT ✅, wide-leg trousers KEPT ✅, bras FIT ✅, shapewear FIT ✅. RETURNING: checked skirt, trousers pair 2, burgundy dress
+- 🤍 Cream lace shoulder blouse — £4 ✅ BOUGHT (shipped!)
+- 🍷 Burgundy velvet birthday top — £8 ✅ BOUGHT (shipped!)
+- 💚 Green wrap dress — £4 ✅ BOUGHT (shipped!)
+- 💚 Green ruched dress — £5.99 ✅ BOUGHT (shipped!)
+- 💚 Emerald Joe Browns — £11 ✅ BOUGHT (shipped!)
+- 🫒 Petrol mock neck — £1.80 ✅ BOUGHT
+- 🍷 Burgundy mock neck — £3 ✅ BOUGHT
+- 🧶 Fat Face chunky knit — £15 ✅ BOUGHT
+- 🧶 Next stripe jumper — £7 ✅ BOUGHT
+- 🍄 Mushroom embroidered cardigan — £22.50 offer, pending MEASUREMENTS
+- 🍷 Burgundy button dress — still pending measurements
+- 🎂 Birthday outfit COMPLETE: burgundy velvet top + paisley skirt + berry tights + brown boots + sun & moon necklace ✅
 
 ---
 
